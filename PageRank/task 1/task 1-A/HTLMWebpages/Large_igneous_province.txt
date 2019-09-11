@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Large igneous province - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Large_igneous_province","wgTitle":"Large igneous province","wgCurRevisionId":803625778,"wgRevisionId":803625778,"wgArticleId":1589341,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","CS1 maint: Uses editors parameter","CS1 errors: dates","Use dmy dates from August 2013","All articles with unsourced statements","Articles with unsourced statements from August 2011","CS1 errors: chapter ignored","Igneous rocks","Petrology","Volcanology","Flood basalts","Geological hazards","Supervolcanoes","Large igneous provinces","Geomorphology","Orogeny","Climate forcing agents"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Large_igneous_province","wgRelevantArticleId":1589341,"wgRequestId":"WgC3YApAIDUAABe8PRQAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q792425","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/0/02/Flood_Basalt_Map.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Large_igneous_province" rel="alternate"/>
+<link href="/w/index.php?title=Large_igneous_province&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Large_igneous_province&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Large_igneous_province" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Large_igneous_province rootpage-Large_igneous_province vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Large igneous province</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Flood_Basalt_Map.jpg"><img alt="" class="thumbimage" data-file-height="720" data-file-width="1152" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flood_Basalt_Map.jpg/300px-Flood_Basalt_Map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flood_Basalt_Map.jpg/450px-Flood_Basalt_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flood_Basalt_Map.jpg/600px-Flood_Basalt_Map.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Flood_Basalt_Map.jpg" title="Enlarge"></a></div>
+Only a few of the largest large igneous provinces appear (coloured dark purple) on this geological map, which depicts crustal geologic provinces as seen in <a href="/wiki/Seismic_refraction" title="Seismic refraction">seismic refraction</a> data.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Geology" title="Geology">geology</a>, a <b>large igneous province</b> (LIP) is an extremely large accumulation of <a href="/wiki/Igneous_rock" title="Igneous rock">igneous rocks</a>, including plutonic rocks (<a href="/wiki/Intrusive_rock" title="Intrusive rock">intrusive</a>) or volcanic rock formations (<a href="/wiki/Extrusive_rock" title="Extrusive rock">extrusive</a>), arising when hot magma extrudes from inside the Earth and flows out. The source of many or all LIPs is variously attributed to <a href="/wiki/Mantle_plume" title="Mantle plume">mantle plumes</a> or to processes associated with <a class="mw-redirect" href="/wiki/Plate_tectonic" title="Plate tectonic">plate tectonics</a>.<sup class="reference" id="cite_ref-Foulger_1-0"><a href="#cite_note-Foulger-1">[1]</a></sup> Types of LIPs can include <i>large volcanic provinces</i> (LVP), created through <a href="/wiki/Flood_basalt" title="Flood basalt">flood basalt</a>, and <i>large plutonic provinces</i> (LPP).<sup class="reference" id="cite_ref-Sheth_2-0"><a href="#cite_note-Sheth-2">[2]</a></sup> Rampino and Stothers (1988) cite eleven distinct flood-basalt episodes - occurring in the past 250 million years - which created volcanic provinces and plateaus and coincided with <a class="mw-redirect" href="/wiki/Mass_extinctions" title="Mass extinctions">mass extinctions</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> However, more flood basalts have been recognized, such as the large <a href="/wiki/Ontong_Java_Plateau" title="Ontong Java Plateau">Ontong Java Plateau</a>,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> and the medium-sized <a href="/wiki/Chilcotin_Group" title="Chilcotin Group">Chilcotin Group</a>, though the latter may be linked to the <a href="/wiki/Columbia_River_Basalt_Group" title="Columbia River Basalt Group">Columbia River Basalt Group</a>. Formation depends on a range of factors, such as continental configuration, latitude, volume, rate, duration of eruption, style and setting (continental vs. oceanic), the pre-existing <a href="/wiki/Climate_state" title="Climate state">climate state</a>, and the biota resilience to change.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Types"><span class="tocnumber">1.1</span> <span class="toctext">Types</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Motivations_for_study_of_LIPs"><span class="tocnumber">2</span> <span class="toctext">Motivations for study of LIPs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Large_igneous_province_formation"><span class="tocnumber">3</span> <span class="toctext">Large igneous province formation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Formation_characteristics"><span class="tocnumber">3.1</span> <span class="toctext">Formation characteristics</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Formation_theories"><span class="tocnumber">3.2</span> <span class="toctext">Formation theories</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Plume_formation_of_LIPs"><span class="tocnumber">3.2.1</span> <span class="toctext">Plume formation of LIPs</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Plate-related_stress_formation_of_LIPs"><span class="tocnumber">3.2.2</span> <span class="toctext">Plate-related stress formation of LIPs</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Early_formed_reservoir_outpourings"><span class="tocnumber">3.2.3</span> <span class="toctext">Early formed reservoir outpourings</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Meteorite-induced_formation"><span class="tocnumber">3.2.4</span> <span class="toctext">Meteorite-induced formation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Classification"><span class="tocnumber">4</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Correlations_with_LIP_formation"><span class="tocnumber">5</span> <span class="toctext">Correlations with LIP formation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Correlation_with_hot-spots"><span class="tocnumber">5.1</span> <span class="toctext">Correlation with hot-spots</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Relationship_to_extinction_events"><span class="tocnumber">5.2</span> <span class="toctext">Relationship to extinction events</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Ore_deposits"><span class="tocnumber">5.3</span> <span class="toctext">Ore deposits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Examples"><span class="tocnumber">6</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Large_rhyolitic_provinces_.28LRPs.29"><span class="tocnumber">6.1</span> <span class="toctext">Large rhyolitic provinces (LRPs)</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Large_Andesitic_Provinces_.28LAPs.29"><span class="tocnumber">6.2</span> <span class="toctext">Large Andesitic Provinces (LAPs)</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Large_basaltic_provinces_.28LBPs.29"><span class="tocnumber">6.3</span> <span class="toctext">Large basaltic provinces (LBPs)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Continental_flood_basalts"><span class="tocnumber">6.3.1</span> <span class="toctext">Continental flood basalts</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Oceanic_flood_basalts.2F_oceanic_plateaus"><span class="tocnumber">6.3.2</span> <span class="toctext">Oceanic flood basalts/ oceanic plateaus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#Large_basaltic.E2.80.93rhyolitic_provinces_.28LBRPs.29"><span class="tocnumber">6.4</span> <span class="toctext">Large basaltic–rhyolitic provinces (LBRPs)</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Large_plutonic_provinces_.28LPP.29"><span class="tocnumber">6.5</span> <span class="toctext">Large plutonic provinces (LPP)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Large_granitic_provinces_.28LGP.29"><span class="tocnumber">6.5.1</span> <span class="toctext">Large granitic provinces (LGP)</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Other_large_plutonic_provinces"><span class="tocnumber">6.5.2</span> <span class="toctext">Other large plutonic provinces</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Related_structures"><span class="tocnumber">6.6</span> <span class="toctext">Related structures</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Volcanic_rifted_margins"><span class="tocnumber">6.6.1</span> <span class="toctext">Volcanic rifted margins</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Dike_swarms"><span class="tocnumber">6.6.2</span> <span class="toctext">Dike swarms</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Sills"><span class="tocnumber">6.6.3</span> <span class="toctext">Sills</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#Related_reading"><span class="tocnumber">9</span> <span class="toctext">Related reading</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1992 researchers first used the term <i>large igneous province</i> to describe very large accumulations—areas greater than 100,000 square kilometers (approximately the area of Iceland)—of <a href="/wiki/Mafic" title="Mafic">mafic</a> igneous rocks that were erupted or emplaced at depth within an extremely short <a class="mw-redirect" href="/wiki/Geological_time" title="Geological time">geological time</a> interval: a few million years or less.<sup class="reference" id="cite_ref-Coffin_6-0"><a href="#cite_note-Coffin-6">[6]</a></sup> Mafic, basalt sea floors and other geological products of 'normal' plate tectonics were not included in the definition.<sup class="reference" id="cite_ref-Bryan_7-0"><a href="#cite_note-Bryan-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The definition of <i>LIP</i> has been expanded and refined, and is still a work in progress. <i>LIP</i> is now frequently also used to describe voluminous areas of, not just mafic, but all types of igneous rocks. Sub-categorization of LIPs into <i>large volcanic provinces</i> (LVP) and <i>large plutonic provinces</i> (LPP), and including rocks produced by normal plate tectonic processes, has been proposed.<sup class="reference" id="cite_ref-Sheth_2-1"><a href="#cite_note-Sheth-2">[2]</a></sup></p>
+<p>Some LIPs are now intact, such the basaltic <a href="/wiki/Deccan_Traps" title="Deccan Traps">Deccan Traps</a> in India, while others have been dismembered by plate tectonic motion, like the basaltic <a class="mw-redirect" href="/wiki/Central_Atlantic_Magmatic_Province" title="Central Atlantic Magmatic Province">Central Atlantic Magmatic Province</a> (CAMP)—parts of which are found in Brazil, eastern North America, and north-western Africa.</p>
+<h2><span class="mw-headline" id="Motivations_for_study_of_LIPs">Motivations for study of LIPs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=3" title="Edit section: Motivations for study of LIPs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Flood_Basalt_Map.jpg"><img alt="" class="thumbimage" data-file-height="720" data-file-width="1152" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flood_Basalt_Map.jpg/400px-Flood_Basalt_Map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flood_Basalt_Map.jpg/600px-Flood_Basalt_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flood_Basalt_Map.jpg/800px-Flood_Basalt_Map.jpg 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Flood_Basalt_Map.jpg" title="Enlarge"></a></div>
+Map showing the recognized continental large igneous provinces.</div>
+</div>
+</div>
+<p>Large igneous provinces (LIPs) are created during short-lived igneous events resulting in relatively rapid and high-volume accumulations of volcanic and intrusive igneous rock. These events warrant study because:</p>
+<ul>
+<li>The study of LIPs has economic implications. Some workers associate them with trapped hydrocarbons.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>]</sup> They are associated with economic concentrations of copper–nickel and iron.<sup class="reference" id="cite_ref-Eremin_8-0"><a href="#cite_note-Eremin-8">[8]</a></sup> They are also associated with formation of major mineral provinces including <a href="/wiki/Ore#Nickel-cobalt-platinum_deposits" title="Ore">Platinum-Group Element (PGE) Deposits</a>, and in the Silicic LIPs, silver and gold deposits.<sup class="reference" id="cite_ref-Bryan_7-1"><a href="#cite_note-Bryan-7">[7]</a></sup> Titanium and vanadium deposits are also found in association with LIPs.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li>Future LIP events may pose a hazard to human civilization. LIPs in the geological record have marked major changes in the hydrosphere and atmosphere, leading to major climate shifts and maybe mass extinctions of species.<sup class="reference" id="cite_ref-Bryan_7-2"><a href="#cite_note-Bryan-7">[7]</a></sup></li>
+<li>Plate tectonic theory explains topography using interactions between the tectonic plates, as influenced by viscous stresses created by flow within the underlying mantle. Since the mantle is extremely viscous, the mantle flow rate varies in pulses which are reflected in the lithosphere by small amplitude, long wavelength undulations. Understanding how the interaction between mantle flow and lithosphere elevation influences formation of LIPs is important to gaining insights into past mantle dynamics.<sup class="reference" id="cite_ref-Braun_10-0"><a href="#cite_note-Braun-10">[10]</a></sup></li>
+<li>LIPs have played a major role in continental breakup, continental formation, new crustal additions from the upper mantle, and supercontinent cycles.<sup class="reference" id="cite_ref-Braun_10-1"><a href="#cite_note-Braun-10">[10]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Large_igneous_province_formation">Large igneous province formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=4" title="Edit section: Large igneous province formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a class="image" href="/wiki/File:3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG"><img alt="" class="thumbimage" data-file-height="1409" data-file-width="1694" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG/280px-3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG/420px-3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG/560px-3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG 2x" width="280"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:3-Devils-grade-Moses-Coulee-Cattle-Feed-Lot-PB110016.JPG" title="Enlarge"></a></div>
+Three Devil's grade in <a href="/wiki/Moses_Coulee" title="Moses Coulee">Moses Coulee</a>, Washington is part of the <a href="/wiki/Columbia_River_Basalt_Group" title="Columbia River Basalt Group">Columbia River Basalt Group</a> LIP.</div>
+</div>
+</div>
+<p>Earth has an outer shell made of a number of discrete, moving tectonic plates floating on a solid convective mantle above a liquid core. The mantle's flow is driven by the descent of cold tectonic plates during subduction and the complementary ascent of plumes of hot material from lower levels. The surface of the Earth reflects stretching, thickening and bending of the tectonic plates as they interact.<sup class="reference" id="cite_ref-allen_11-0"><a href="#cite_note-allen-11">[11]</a></sup></p>
+<p>Ocean-plate creation at upwellings, spreading and subduction are well accepted fundamentals of plate tectonics, with the upwelling of hot mantle materials and the sinking of the cooler ocean plates driving the mantle convection. In this model, tectonic plates diverge at mid-ocean ridges, where hot mantle rock flows upward to fill the space. Plate-tectonic processes account for the vast majority of Earth's volcanism.<sup class="reference" id="cite_ref-hump_12-0"><a href="#cite_note-hump-12">[12]</a></sup></p>
+<p>Beyond the effects of convectively driven motion, deep processes have other influences on the surface topography. The convective circulation drives up-wellings and down-wellings in Earth's mantle that are reflected in local surface levels. Hot mantle materials rising up in a plume can spread out radially beneath the tectonic plate causing regions of uplift.<sup class="reference" id="cite_ref-allen_11-1"><a href="#cite_note-allen-11">[11]</a></sup> These ascending plumes play an important role in LIP formation.</p>
+<h3><span class="mw-headline" id="Formation_characteristics">Formation characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=5" title="Edit section: Formation characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When created, LIPs often have an areal extent of a few million km² and volumes on the order of 1 million km³. In most cases, the majority of a basaltic LIP's volume is emplaced in less than 1 million years. One of the conundra of such LIPs' origins is to understand how enormous volumes of basaltic magma are formed and erupted over such short time scales, with effusion rates up to an order of magnitude greater than mid-ocean ridge basalts.</p>
+<h3><span class="mw-headline" id="Formation_theories">Formation theories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=6" title="Edit section: Formation theories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The source of many or all LIPs are variously attributed to mantle plumes, to processes associated with plate tectonics or to meteorite impacts.</p>
+<h4><span class="mw-headline" id="Plume_formation_of_LIPs">Plume formation of LIPs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=7" title="Edit section: Plume formation of LIPs">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Although most of volcanic activity on Earth is associated with subduction zones or mid-oceanic ridges, there are significant regions of long-lived, extensive volcanism, known as hot spots, which are only indirectly related to plate tectonics. The Emperor Sea Mount chain, located on the Pacific plate, is one example, tracing millions of years of relative motion as the plate moves over the Hawaiian hot spot. Numerous hot spots of varying size and age have been identified across the world. These hot spots move slowly with respect to one another, but move an order of magnitude more quickly with respect to tectonic plates, providing evidence that they are not directly linked to tectonic plates.<sup class="reference" id="cite_ref-hump_12-1"><a href="#cite_note-hump-12">[12]</a></sup></p>
+<p>The origin of hotspots remains controversial. Hotspots that reach the Earth’s surface may have three distinct origins. The deepest probably originate from the boundary between the lower mantle and the core; roughly 15–20% have characteristics such as presence of a linear chain of sea mounts with increasing ages, LIPs at the point of origin of the track, low shear wave velocity indicating high temperatures below the current location of the track, and ratios of He<sup>3</sup> to He<sup>4</sup> which are judged consistent with a deep origin. Others such as the Pitcairn, Samoan and Tahitian hotspots appear to originate at the top of large, transient, hot lava domes (termed superswells) in the mantle. The remainder appear to originate in the upper mantle and have been suggested to result from the breakup of subducting lithosphere.<sup class="reference" id="cite_ref-cour_13-0"><a href="#cite_note-cour-13">[13]</a></sup></p>
+<p>Recent imaging of the region below known hot spots (e.g., Yellowstone and Hawaii) using seismic-wave <a href="/wiki/Tomography" title="Tomography">tomography</a> has produced mounting evidence that supports relatively narrow, deep-origin, convective plumes that are limited in region compared to the large-scale plate tectonic circulation in which they are imbedded. Images reveal continuous, but torturous vertical paths with varying quantities of elevated temperature material, particularly at elevations where crystallographic transformations are predicted to occur.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<h4><span class="mw-headline" id="Plate-related_stress_formation_of_LIPs">Plate-related stress formation of LIPs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=8" title="Edit section: Plate-related stress formation of LIPs">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A major alternative to the plume model is a model in which ruptures are caused by plate-related stresses that fractured the lithosphere, allowing melt to reach the surface from shallow heterogeneous sources. The high volumes of molten material that form the LIPs is postulated to be caused by convection in the upper mantle, which is secondary to the convection driving tectonic plate motion.<sup class="reference" id="cite_ref-Hagstrum_15-0"><a href="#cite_note-Hagstrum-15">[15]</a></sup></p>
+<h4><span class="mw-headline" id="Early_formed_reservoir_outpourings">Early formed reservoir outpourings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=9" title="Edit section: Early formed reservoir outpourings">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>It has been proposed that geochemical evidence supports an early-formed reservoir that survived in the Earth's mantle for about 4.5 billion years. Molten material is postulated to have originated from this reservoir, contributing the Baffin Island flood basalt ~60 million years ago. Basalts from the Ontong Java plateau show similar isotopic and trace element signatures proposed for the early-Earth reservoir.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h4><span class="mw-headline" id="Meteorite-induced_formation">Meteorite-induced formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=10" title="Edit section: Meteorite-induced formation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Seven pairs of hotspots and LIPs located on opposite sides of the earth have been noted; analyses indicate this coincident antipodal location is highly unlikely to be random. The hotspot pairs include a large igneous province with continental volcanism opposite an oceanic hotspot. Oceanic impacts of large meteorites are expected to have high efficiency in converting energy into seismic waves. These waves would propagate around the world and reconverge close to the antipodal position; small variations are expected as the seismic velocity varies depending upon the route characteristics along which the waves propagate. As the waves focus on the antipodal position, they put the crust at the focal point under significant stress and are proposed to rupture it, creating antipodal pairs. When the meteorite impacts a continent, the lower efficiency of kinetic energy conversion into seismic energy is not expected to create an antipodal hotspot.<sup class="reference" id="cite_ref-Hagstrum_15-1"><a href="#cite_note-Hagstrum-15">[15]</a></sup></p>
+<p>A second impact-related model of hotspot and LIP formation has been suggested in which minor hotspot volcanism was generated at large-body impact sites and flood basalt volcanism was triggered antipodally by focused seismic energy [13,14]. This model has been challenged because impacts are generally considered seismically too inefficient [15], and the Deccan Traps of India were not antipodal to, and began erupting several Myr before, the end-Cretaceous Chicxulub impact in Mexico. In addition, no clear example of impact-induced volcanism, unrelated to melt sheets, has been confirmed at any known terrestrial crater.<sup class="reference" id="cite_ref-Hagstrum_15-2"><a href="#cite_note-Hagstrum-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=11" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1992, Coffin and Eldholm initially defined the term "large igneous province" (LIP) as representing a variety of mafic igneous provinces with areal extent &gt;1 x 10<sup>5</sup> km<sup>2</sup> that represented "massive crustal emplacements of predominantly mafic (Mg- and Fe-rich) extrusive and intrusive rock, and originated via processes other than 'normal' seafloor spreading."<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> That original definition included continental <a href="/wiki/Flood_basalt" title="Flood basalt">flood basalts</a>, <a href="/wiki/Oceanic_plateau" title="Oceanic plateau">oceanic plateaus</a>, large <a href="/wiki/Dike_swarm" title="Dike swarm">dike swarms</a> (the eroded roots of a volcanic province), and <a href="/wiki/Passive_margin" title="Passive margin">volcanic rifted margins</a>. Most of these LIPs consist of basalt, but some contain large volumes of associated <a href="/wiki/Rhyolite" title="Rhyolite">rhyolite</a> (e.g. the <a href="/wiki/Columbia_River_Basalt_Group" title="Columbia River Basalt Group">Columbia River Basalt Group</a> in the western United States); the rhyolite is typically very dry compared to island arc rhyolites, with much higher eruption temperatures (850 °C to 1000 °C) than normal rhyolites.</p>
+<p>Since 1992 the definition of 'LIP' has been expanded and refined, and remains a work in progress. Some new definitions of the term 'LIP' include large granitic provinces such as those found in the Andes Mountains of South America and in western North America. Comprehensive taxonomies have been developed to focus technical discussions.</p>
+<p>In 2008, Bryan and Ernst refined the definition to narrow it somewhat: "Large Igneous Provinces are magmatic provinces with areal extents &gt;1 x 10<sup>5</sup> km<sup>2</sup>, igneous volumes &gt;1 x 10<sup>5</sup> km<sup>3</sup> and maximum lifespans of ∼50 Myr that have intraplate tectonic settings or geochemical affinities, and are characterised by igneous pulse(s) of short duration (∼1–5 Myr), during which a large proportion (&gt;75%) of the total igneous volume has been emplaced. They are dominantly mafic, but also can have significant ultramafic and silicic components, and some are dominated by silicic magmatism." This definition places emphasis on the high magma emplacement rate characteristics of the LIP event and excludes seamounts, seamount groups, submarine ridges and anomalous seafloor crust.<sup class="reference" id="cite_ref-Bryan_2_20-0"><a href="#cite_note-Bryan_2-20">[20]</a></sup></p>
+<p>'LIP' is now frequently used to also describe voluminous areas of, not just mafic, but all types of igneous rocks. Sub-categorization of LIPs into Large Volcanic Provinces (LVP) and Large Plutonic Provinces (LPP), and including rocks produced by 'normal' plate tectonic processes, has been proposed. Further, the threshold to be included as a LIP has been lowered to &gt;5x10<sup>4</sup> km<sup>2</sup>.<sup class="reference" id="cite_ref-Sheth_2-2"><a href="#cite_note-Sheth-2">[2]</a></sup> The working taxonomy, focused heavily on geochemistry, which will be used to structure examples below, is:</p>
+<ul>
+<li>Large igneous provinces (LIP)
+<ul>
+<li>Large volcanic provinces (LVP)
+<ul>
+<li>Large rhyolitic provinces (LRPs)</li>
+<li>Large andesitic provinces (LAPs)</li>
+<li>Large basaltic provinces (LBPs): oceanic, or continental flood basalts</li>
+<li>Large basaltic–rhyolitic provinces (LBRPs)</li>
+</ul>
+</li>
+<li>Large plutonic provinces (LPP)
+<ul>
+<li>Large granitic provinces (LGP)</li>
+<li>Large mafic plutonic provinces</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a class="image" href="/wiki/File:The_difference_between_a_sill_and_a_dike.jpg"><img alt="" class="thumbimage" data-file-height="384" data-file-width="512" height="195" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_difference_between_a_sill_and_a_dike.jpg/260px-The_difference_between_a_sill_and_a_dike.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_difference_between_a_sill_and_a_dike.jpg/390px-The_difference_between_a_sill_and_a_dike.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f1/The_difference_between_a_sill_and_a_dike.jpg 2x" width="260"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:The_difference_between_a_sill_and_a_dike.jpg" title="Enlarge"></a></div>
+Illustration showing a vertical <a href="/wiki/Dike_(geology)" title="Dike (geology)">dike</a> and a horizontal sill.</div>
+</div>
+</div>
+<p>Aerally extensive <a href="/wiki/Dike_swarm" title="Dike swarm">dike swarms</a>, <a href="/wiki/Sill_(geology)" title="Sill (geology)">sill</a> provinces, and large layered <a class="mw-redirect" href="/wiki/Ultramafic" title="Ultramafic">ultramafic</a> intrusions are indicators of LIPs, even when other evidence is not now observable. The upper basalt layers of older LIPs may have been removed by erosion or deformed by tectonic plate collisions occurring after the layer is formed. The is especially likely for earlier periods such as the <a href="/wiki/Paleozoic" title="Paleozoic">Paleozoic</a> and <a href="/wiki/Proterozoic" title="Proterozoic">Proterozoic</a>.<sup class="reference" id="cite_ref-Bryan_2_20-1"><a href="#cite_note-Bryan_2-20">[20]</a></sup></p>
+<p>Giant dyke swarms having lengths &gt;300 km<sup class="reference" id="cite_ref-ErnstButler97_21-0"><a href="#cite_note-ErnstButler97-21">[21]</a></sup> are a common record of severely eroded LIPs. Both radial and linear dyke swarm configurations exist. Radial swarms with an areal extent &gt;2000 km and linear swarms extending &gt;1000 km are known. The linear dyke swarms often have a high proportion of dykes relative to country rocks, particularly when the width of the linear field is less than 100 km. The dykes have a typical width of 20–100 meters, although <a class="mw-redirect" href="/wiki/Ultramafic" title="Ultramafic">ultramafic</a> dykes with widths greater than 1000 meters have been reported.<sup class="reference" id="cite_ref-Bryan_2_20-2"><a href="#cite_note-Bryan_2-20">[20]</a></sup></p>
+<p>Dykes are typically sub-vertical to vertical. When upward flowing (dyke-forming) magma encounters horizontal boundaries or weaknesses, such as between layers in a sedimentary deposit, the magma can flow horizontally creating a sill. Some sill provinces have areal extents &gt;1000 km.<sup class="reference" id="cite_ref-Bryan_2_20-3"><a href="#cite_note-Bryan_2-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="Correlations_with_LIP_formation">Correlations with LIP formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=12" title="Edit section: Correlations with LIP formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Correlation_with_hot-spots">Correlation with hot-spots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=13" title="Edit section: Correlation with hot-spots">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The early volcanic activity of major <a href="/wiki/Hotspot_(geology)" title="Hotspot (geology)">hotspots</a>, postulated to result from deep mantle plumes, is frequently accompanied by flood basalts. These flood basalt eruptions have resulted in large accumulations of basaltic lavas emplaced at a rate greatly exceeding that seen in contemporary volcanic processes. Continental rifting commonly follows flood basalt volcanism. Flood basalt provinces may also occur as a consequence of the initial hot-spot activity in ocean basins as well as on continents. It is possible to track the hot spot back to the flood basalts of a large igneous province; the table below correlates large igneous provinces with the track of a specific hot spot.<sup class="reference" id="cite_ref-Rich_22-0"><a href="#cite_note-Rich-22">[22]</a></sup><sup class="reference" id="cite_ref-Antretter_23-0"><a href="#cite_note-Antretter-23">[23]</a></sup></p>
+<table class="wikitable sortable" style="border-collapse: collapse">
+<tr>
+<th align="right"><b>Province</b></th>
+<th align="right"><b>Region</b></th>
+<th align="center"><b>Hotspot</b></th>
+<th align="left"><b>Reference</b></th>
+</tr>
+<tr>
+<td><a href="/wiki/Columbia_River_Basalt_Group" title="Columbia River Basalt Group">Columbia River Basalt</a></td>
+<td>Northwestern USA</td>
+<td><a href="/wiki/Yellowstone_hotspot" title="Yellowstone hotspot">Yellowstone hotspot</a></td>
+<td><sup class="reference" id="cite_ref-Rich_22-1"><a href="#cite_note-Rich-22">[22]</a></sup><sup class="reference" id="cite_ref-Nash_24-0"><a href="#cite_note-Nash-24">[24]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ethiopia-Yemen_Continental_Flood_Basalts" title="Ethiopia-Yemen Continental Flood Basalts">Ethiopia-Yemen Flood Basalts</a></td>
+<td><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>, <a href="/wiki/Yemen" title="Yemen">Yemen</a></td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Rich_22-2"><a href="#cite_note-Rich-22">[22]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/North_Atlantic_Igneous_Province" title="North Atlantic Igneous Province">North Atlantic Igneous Province</a></td>
+<td>Northern Canada, <a href="/wiki/Greenland" title="Greenland">Greenland</a>, the <a class="mw-redirect" href="/wiki/Faeroe_Islands" title="Faeroe Islands">Faeroe Islands</a>, <a href="/wiki/Norway" title="Norway">Norway</a>, Ireland and <a href="/wiki/Scotland" title="Scotland">Scotland</a></td>
+<td><a href="/wiki/Iceland_hotspot" title="Iceland hotspot">Iceland hotspot</a></td>
+<td><sup class="reference" id="cite_ref-Rich_22-3"><a href="#cite_note-Rich-22">[22]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Deccan_Traps" title="Deccan Traps">Deccan Traps</a></td>
+<td><a href="/wiki/India" title="India">India</a> &amp; southern <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td>
+<td><a href="/wiki/R%C3%A9union_hotspot" title="Réunion hotspot">Réunion hotspot</a></td>
+<td><sup class="reference" id="cite_ref-Rich_22-4"><a href="#cite_note-Rich-22">[22]</a></sup></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Rahjamal_Traps" title="Rahjamal Traps">Rahjamal Traps</a></td>
+<td><a href="/wiki/India" title="India">Eastern India</a></td>
+<td><a href="/wiki/Ninety_East_Ridge" title="Ninety East Ridge">Ninety East Ridge</a></td>
+<td><sup class="reference" id="cite_ref-Weis_25-0"><a href="#cite_note-Weis-25">[25]</a></sup><sup class="reference" id="cite_ref-Verz_26-0"><a href="#cite_note-Verz-26">[26]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Kerguelen_Plateau" title="Kerguelen Plateau">Kerguelen Plateau</a></td>
+<td>Indian Ocean</td>
+<td><a href="/wiki/Kerguelen_hotspot" title="Kerguelen hotspot">Kerguelen hotspot</a></td>
+<td><sup class="reference" id="cite_ref-Weis_25-1"><a href="#cite_note-Weis-25">[25]</a></sup></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Ontong-Java_Plateau" title="Ontong-Java Plateau">Ontong-Java Plateau</a></td>
+<td>Pacific Ocean</td>
+<td><a href="/wiki/Louisville_hotspot" title="Louisville hotspot">Louisville hotspot</a></td>
+<td><sup class="reference" id="cite_ref-Rich_22-5"><a href="#cite_note-Rich-22">[22]</a></sup><sup class="reference" id="cite_ref-Antretter_23-1"><a href="#cite_note-Antretter-23">[23]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Paran%C3%A1_and_Etendeka_traps" title="Paraná and Etendeka traps">Paraná and Etendeka traps</a></td>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a>–<a href="/wiki/Namibia" title="Namibia">Namibia</a></td>
+<td><a href="/wiki/Tristan_hotspot" title="Tristan hotspot">Tristan hotspot</a></td>
+<td><sup class="reference" id="cite_ref-Rich_22-6"><a href="#cite_note-Rich-22">[22]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Karoo-Ferrar" title="Karoo-Ferrar">Karoo-Ferrar Province</a></td>
+<td>South Africa, <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>, Australia &amp; <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></td>
+<td><a class="mw-redirect" href="/wiki/Marion_Island" title="Marion Island">Marion Island</a></td>
+<td><sup class="reference" id="cite_ref-Rich_22-7"><a href="#cite_note-Rich-22">[22]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Caribbean_large_igneous_province" title="Caribbean large igneous province">Caribbean large igneous province</a></td>
+<td><a class="mw-redirect" href="/wiki/Caribbean-Colombian_oceanic_plateau" title="Caribbean-Colombian oceanic plateau">Caribbean-Colombian oceanic plateau</a></td>
+<td><a href="/wiki/Gal%C3%A1pagos_hotspot" title="Galápagos hotspot">Galápagos hotspot</a></td>
+<td><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mackenzie_Large_Igneous_Province" title="Mackenzie Large Igneous Province">Mackenzie Large Igneous Province</a></td>
+<td><a href="/wiki/Canadian_Shield" title="Canadian Shield">Canadian Shield</a></td>
+<td><a href="/wiki/Mackenzie_hotspot" title="Mackenzie hotspot">Mackenzie hotspot</a></td>
+<td><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Relationship_to_extinction_events">Relationship to extinction events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=14" title="Edit section: Relationship to extinction events">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Eruptions or emplacements of LIPs appear to have, in some cases, occurred simultaneously with <a class="mw-redirect" href="/wiki/Oceanic_anoxic_event" title="Oceanic anoxic event">oceanic anoxic events</a> and <a href="/wiki/Extinction_event" title="Extinction event">extinction events</a>. The most important examples are the <a href="/wiki/Deccan_Traps" title="Deccan Traps">Deccan Traps</a> (<a href="/wiki/Cretaceous%E2%80%93Paleogene_extinction_event" title="Cretaceous–Paleogene extinction event">Cretaceous–Paleogene extinction event</a>), the <a href="/wiki/Karoo-Ferrar" title="Karoo-Ferrar">Karoo-Ferrar</a> (<a class="mw-redirect" href="/wiki/Pliensbachian-Toarcian_extinction" title="Pliensbachian-Toarcian extinction">Pliensbachian-Toarcian extinction</a>), the <a class="mw-redirect" href="/wiki/Central_Atlantic_Magmatic_Province" title="Central Atlantic Magmatic Province">Central Atlantic Magmatic Province</a> (<a class="mw-redirect" href="/wiki/Triassic-Jurassic_extinction_event" title="Triassic-Jurassic extinction event">Triassic-Jurassic extinction event</a>), and the <a class="mw-redirect" href="/wiki/Siberian_traps" title="Siberian traps">Siberian traps</a> (<a class="mw-redirect" href="/wiki/Permian-Triassic_extinction_event" title="Permian-Triassic extinction event">Permian-Triassic extinction event</a>).</p>
+<p>Several mechanisms are proposed to explain the association of LIPs with extinction events. The eruption of basaltic LIPs onto the earth's surface releases large volumes of sulfate gas, which forms sulfuric acid in the atmosphere; this absorbs heat and causes substantial cooling (e.g., the <a class="mw-redirect" href="/wiki/Laki_(volcano)" title="Laki (volcano)">Laki</a> eruption in Iceland, 1783). Oceanic LIPs can reduce oxygen in seawater by either direct oxidation reactions with metals in hydrothermal fluids or by causing algal blooms that consume large amounts of oxygen.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></p>
+<h3><span class="mw-headline" id="Ore_deposits">Ore deposits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=15" title="Edit section: Ore deposits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Large igneous provinces are associated with a handful of ore deposit types including:</p>
+<ul>
+<li><a href="/wiki/Nickel" title="Nickel">Ni</a>–<a href="/wiki/Copper" title="Copper">Cu</a> <a href="/wiki/Platinum_group" title="Platinum group">PGEs</a></li>
+<li><a href="/wiki/Porphyry_(geology)" title="Porphyry (geology)">Porphyries</a></li>
+<li><a href="/wiki/Iron_oxide_copper_gold_ore_deposits" title="Iron oxide copper gold ore deposits">Iron oxide copper gold (IOCG)</a></li>
+<li><a href="/wiki/Kimberlite" title="Kimberlite">Kimberlites</a></li>
+</ul>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=16" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/World%27s_largest_eruptions" title="World's largest eruptions">World's largest eruptions</a></div>
+<p>There are a number of well documented examples of large igneous provinces identified by geological research.</p>
+<table class="wikitable sortable" style="border-collapse: collapse">
+<tr>
+<th align="right"><b>Province</b></th>
+<th align="right"><b>Region</b></th>
+<th align="center"><b>Age (<a class="extiw" href="https://en.wiktionary.org/wiki/Ma" title="wikt:Ma">Ma</a>)</b></th>
+<th align="left"><b>Area (10<sup>6</sup> km<sup>2</sup></b></th>
+<th align="left"><b>Volume (10<sup>6</sup> km<sup>3</sup></b></th>
+<th align="left"><b>Also known as or includes</b></th>
+<th align="left"><b>Reference</b></th>
+</tr>
+<tr>
+<td><a href="/wiki/Agulhas_Plateau" title="Agulhas Plateau">Agulhas Plateau</a></td>
+<td>Southwest Indian Ocean, South Atlantic Ocean, Southern Ocean</td>
+<td>140-95</td>
+<td>0.3</td>
+<td>1.2</td>
+<td>Southeast African LIP<br/>
+<a class="new" href="/w/index.php?title=Mozambique_Ridge&amp;action=edit&amp;redlink=1" title="Mozambique Ridge (page does not exist)">Mozambique Ridge</a>, <a href="/wiki/Northeast_Georgia_Rise" title="Northeast Georgia Rise">Northeast Georgia Rise</a>, <a href="/wiki/Maud_Rise" title="Maud Rise">Maud Rise</a>, <a href="/wiki/Astrid_Ridge" title="Astrid Ridge">Astrid Ridge</a></td>
+<td><sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Columbia_River_Basalt_Group" title="Columbia River Basalt Group">Columbia River Basalt</a></td>
+<td>Northwestern US</td>
+<td>17–6</td>
+<td>0.16</td>
+<td>0.175</td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Nash_24-1"><a href="#cite_note-Nash-24">[24]</a></sup><sup class="reference" id="cite_ref-Ross_32-0"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ethiopia-Yemen_Continental_Flood_Basalts" title="Ethiopia-Yemen Continental Flood Basalts">Ethiopia-Yemen Flood Basalts</a></td>
+<td>Yemen–Ethiopia</td>
+<td>31–25</td>
+<td>0.6</td>
+<td>0.35</td>
+<td>Ethiopia</td>
+<td><sup class="reference" id="cite_ref-Ross_32-1"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/North_Atlantic_Igneous_Province" title="North Atlantic Igneous Province">North Atlantic Igneous Province</a></td>
+<td>Northern Canada, Greenland, the Faeroe Islands, Norway, Ireland, and Scotland</td>
+<td>62–55</td>
+<td>1.3</td>
+<td>6.6</td>
+<td><a href="/wiki/High_Arctic_Large_Igneous_Province" title="High Arctic Large Igneous Province">High Arctic Large Igneous Province</a>
+<p><a href="/wiki/Jameson_Land" title="Jameson Land">Jameson Land</a> <a class="mw-redirect" href="/wiki/Thulean_Plateau" title="Thulean Plateau">Thulean Plateau</a></p>
+</td>
+<td><sup class="reference" id="cite_ref-Ross_32-2"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Deccan_Traps" title="Deccan Traps">Deccan Traps</a></td>
+<td>India southern Pakistan</td>
+<td>66</td>
+<td>0.5–0.8</td>
+<td>0.5–1.0</td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Ross_32-3"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></td>
+<td></td>
+<td>88</td>
+<td></td>
+<td></td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Tors_33-0"><a href="#cite_note-Tors-33">[33]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Rajmahal" title="Rajmahal">Rajmahal Traps</a></td>
+<td></td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Weis_25-2"><a href="#cite_note-Weis-25">[25]</a></sup><sup class="reference" id="cite_ref-Verz_26-1"><a href="#cite_note-Verz-26">[26]</a></sup></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Ontong-Java_Plateau" title="Ontong-Java Plateau">Ontong-Java Plateau</a></td>
+<td>Pacific Ocean</td>
+<td>~122</td>
+<td>1.86</td>
+<td>8.4</td>
+<td><a href="/wiki/Manihiki_Plateau" title="Manihiki Plateau">Manihiki Plateau</a> and <a href="/wiki/Hikurangi_Plateau" title="Hikurangi Plateau">Hikurangi Plateau</a></td>
+<td><sup class="reference" id="cite_ref-Ross_32-4"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Paran%C3%A1_and_Etendeka_traps" title="Paraná and Etendeka traps">Paraná and Etendeka traps</a></td>
+<td>Brazil–Namibia</td>
+<td>134–129</td>
+<td>1.5</td>
+<td>&gt;1</td>
+<td>Equatorial Atlantic Magmatic Province
+<p><a href="/wiki/Brazilian_Highlands" title="Brazilian Highlands">Brazilian Highlands</a></p>
+</td>
+<td><sup class="reference" id="cite_ref-Ross_32-5"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Karoo-Ferrar" title="Karoo-Ferrar">Karoo-Ferrar Province</a></td>
+<td>South Africa, Antarctica, Australia, and New Zealand</td>
+<td>183–180</td>
+<td>0.15–2</td>
+<td>0.3</td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Ross_32-6"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Central_Atlantic_magmatic_province" title="Central Atlantic magmatic province">Central Atlantic magmatic province</a></td>
+<td>Northern South America, Northwest Africa, Iberia, Eastern North America</td>
+<td>199–197</td>
+<td>11</td>
+<td>2.5 (2.0 – 3.0)</td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Knight_34-0"><a href="#cite_note-Knight-34">[34]</a></sup><sup class="reference" id="cite_ref-black13_35-0"><a href="#cite_note-black13-35">[35]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Siberian_Traps" title="Siberian Traps">Siberian Traps</a></td>
+<td>Russia</td>
+<td>250</td>
+<td>1.5–3.9</td>
+<td>0.9–2.0</td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Ross_32-7"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Emeishan_Traps" title="Emeishan Traps">Emeishan Traps</a></td>
+<td>Southwestern China</td>
+<td>253–250</td>
+<td>0.25</td>
+<td>~0.3</td>
+<td></td>
+<td><sup class="reference" id="cite_ref-Ross_32-8"><a href="#cite_note-Ross-32">[32]</a></sup></td>
+</tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=Warakurna_large_igneous_province&amp;action=edit&amp;redlink=1" title="Warakurna large igneous province (page does not exist)">Warakurna large igneous province</a></td>
+<td>Australia</td>
+<td>1078–1073</td>
+<td>1.5</td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/Pilbara_craton#Eastern_Pilbara.2C_Warrawoona_Group" title="Pilbara craton">Eastern Pilbara</a></td>
+<td><sup class="reference" id="cite_ref-Wingate_36-0"><a href="#cite_note-Wingate-36">[36]</a></sup></td>
+</tr>
+</table>
+<h3><span id="Large_rhyolitic_provinces_(LRPs)"></span><span class="mw-headline" id="Large_rhyolitic_provinces_.28LRPs.29">Large rhyolitic provinces (LRPs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=17" title="Edit section: Large rhyolitic provinces (LRPs)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These LIPs are composed dominantly of <a href="/wiki/Felsic" title="Felsic">felsic</a> materials. Examples include:</p>
+<ul>
+<li>Whitsunday</li>
+<li>Sierra Madre Occidental (Mexico)</li>
+<li>Malani</li>
+<li>Chon Aike (Argentina)</li>
+<li>Gawler (Australia)</li>
+</ul>
+<h3><span id="Large_Andesitic_Provinces_(LAPs)"></span><span class="mw-headline" id="Large_Andesitic_Provinces_.28LAPs.29">Large Andesitic Provinces (LAPs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=18" title="Edit section: Large Andesitic Provinces (LAPs)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These LIPs are comprised dominantly of <a class="mw-redirect" href="/wiki/Andesitic" title="Andesitic">andesitic</a> materials. Examples include:</p>
+<ul>
+<li>Island arcs such as Indonesia and Japan</li>
+<li>Active continental margins such as the Andes and the Cascades</li>
+<li>Continental collision zones such as the Anatolia-Iran zone</li>
+</ul>
+<h3><span id="Large_basaltic_provinces_(LBPs)"></span><span class="mw-headline" id="Large_basaltic_provinces_.28LBPs.29">Large basaltic provinces (LBPs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=19" title="Edit section: Large basaltic provinces (LBPs)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This subcategory includes most of the provinces included in the original LIP classifications. It is composed of continental flood basalts, oceanic flood basalts, and diffuse provinces.</p>
+<h4><span class="mw-headline" id="Continental_flood_basalts">Continental flood basalts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=20" title="Edit section: Continental flood basalts">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Ethiopia-Yemen_Continental_Flood_Basalts" title="Ethiopia-Yemen Continental Flood Basalts">Ethiopia-Yemen Continental Flood Basalts</a></li>
+<li><a href="/wiki/Columbia_River_Basalt_Group" title="Columbia River Basalt Group">Columbia River Basalt Group</a></li>
+<li><a href="/wiki/Deccan_Traps" title="Deccan Traps">Deccan Traps</a> (India)</li>
+<li><a href="/wiki/Coppermine_River_Group" title="Coppermine River Group">Coppermine River Group</a> (Canadian Shield)</li>
+<li><a class="new" href="/w/index.php?title=Equatorial_Atlantic_Magmatic_Province&amp;action=edit&amp;redlink=1" title="Equatorial Atlantic Magmatic Province (page does not exist)">Equatorial Atlantic Magmatic Province</a> (<a href="/wiki/Maranh%C3%A3o" title="Maranhão">Maranhão</a>, Brazil-Ghana)</li>
+<li><a href="/wiki/Midcontinent_Rift_System" title="Midcontinent Rift System">Midcontinent Rift System</a>, Great Lakes Region, North America</li>
+<li><a href="/wiki/Paran%C3%A1_and_Etendeka_traps" title="Paraná and Etendeka traps">Paraná and Etendeka traps</a> (<a href="/wiki/Paran%C3%A1_(state)" title="Paraná (state)">Paraná</a>, Brazil–NE Namibia)</li>
+<li><a href="/wiki/Brazilian_Highlands" title="Brazilian Highlands">Brazilian Highlands</a></li>
+<li><a href="/wiki/R%C3%ADo_de_la_Plata_Craton" title="Río de la Plata Craton">Río de la Plata Craton</a> (Uruguay)</li>
+<li><a href="/wiki/Karoo-Ferrar" title="Karoo-Ferrar">Karoo-Ferrar</a> (South Africa–Antarctica)</li>
+<li><a href="/wiki/Siberian_Traps" title="Siberian Traps">Siberian Traps</a> (Russia)</li>
+<li><a href="/wiki/Emeishan_Traps" title="Emeishan Traps">Emeishan Traps</a> (western China)</li>
+<li><a class="mw-redirect" href="/wiki/Central_Atlantic_Magmatic_Province" title="Central Atlantic Magmatic Province">Central Atlantic Magmatic Province</a> (eastern United States and Canada, northern South America, northwest Africa)</li>
+<li><a href="/wiki/North_Atlantic_Igneous_Province" title="North Atlantic Igneous Province">North Atlantic Igneous Province</a> (includes basalts in Greenland, Iceland, Ireland, Scotland, and Faroes)</li>
+<li><a href="/wiki/High_Arctic_Large_Igneous_Province" title="High Arctic Large Igneous Province">High Arctic Large Igneous Province</a> (includes the <a href="/wiki/Ellesmere_Island_Volcanics" title="Ellesmere Island Volcanics">Ellesmere Island Volcanics</a>, <a href="/wiki/Strand_Fiord_Formation" title="Strand Fiord Formation">Strand Fiord Formation</a>, <a href="/wiki/Alpha_Ridge" title="Alpha Ridge">Alpha Ridge</a>, <a href="/wiki/Franz_Josef_Land" title="Franz Josef Land">Franz Josef Land</a>, and <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>)</li>
+</ul>
+<h4><span id="Oceanic_flood_basalts/_oceanic_plateaus"></span><span class="mw-headline" id="Oceanic_flood_basalts.2F_oceanic_plateaus">Oceanic flood basalts/ oceanic plateaus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=21" title="Edit section: Oceanic flood basalts/ oceanic plateaus">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Wrangellia_Terrane" title="Wrangellia Terrane">Wrangellia Terrane</a> (Alaska and Canada)</li>
+<li><a href="/wiki/Caribbean_large_igneous_province" title="Caribbean large igneous province">Caribbean large igneous province</a> (Caribbean Sea)</li>
+<li><a href="/wiki/Kerguelen_Plateau" title="Kerguelen Plateau">Kerguelen Plateau</a> (Indian Ocean)</li>
+<li><a href="/wiki/Ontong_Java_Plateau" title="Ontong Java Plateau">Ontong Java Plateau</a>, <a href="/wiki/Manihiki_Plateau" title="Manihiki Plateau">Manihiki Plateau</a> and <a href="/wiki/Hikurangi_Plateau" title="Hikurangi Plateau">Hikurangi Plateau</a> (southwest Pacific Ocean)</li>
+<li><a href="/wiki/Jameson_Land" title="Jameson Land">Jameson Land</a></li>
+</ul>
+<h3><span id="Large_basaltic–rhyolitic_provinces_(LBRPs)"></span><span class="mw-headline" id="Large_basaltic.E2.80.93rhyolitic_provinces_.28LBRPs.29">Large basaltic–rhyolitic provinces (LBRPs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=22" title="Edit section: Large basaltic–rhyolitic provinces (LBRPs)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Snake River Plain – Oregon High Lava Plains</li>
+<li>Dongargarh (Ethiopia)</li>
+</ul>
+<h3><span id="Large_plutonic_provinces_(LPP)"></span><span class="mw-headline" id="Large_plutonic_provinces_.28LPP.29">Large plutonic provinces (LPP)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=23" title="Edit section: Large plutonic provinces (LPP)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Large_granitic_provinces_(LGP)"></span><span class="mw-headline" id="Large_granitic_provinces_.28LGP.29">Large granitic provinces (LGP)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=24" title="Edit section: Large granitic provinces (LGP)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>Patagonia</li>
+<li>Peru–Chile Batholith</li>
+<li>Coast Range Batholith (NW US)</li>
+</ul>
+<h4><span class="mw-headline" id="Other_large_plutonic_provinces">Other large plutonic provinces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=25" title="Edit section: Other large plutonic provinces">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>Parts of <a class="mw-redirect" href="/wiki/Central_Atlantic_Magmatic_Province" title="Central Atlantic Magmatic Province">Central Atlantic Magmatic Province</a> (eastern United States and Canada, northern South America, northwest Africa)</li>
+</ul>
+<h3><span class="mw-headline" id="Related_structures">Related structures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=26" title="Edit section: Related structures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Volcanic_rifted_margins">Volcanic rifted margins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=27" title="Edit section: Volcanic rifted margins">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a class="image" href="/wiki/File:Mantleplume.png"><img alt="" class="thumbimage" data-file-height="388" data-file-width="577" height="161" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e3/Mantleplume.png/240px-Mantleplume.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e3/Mantleplume.png/360px-Mantleplume.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e3/Mantleplume.png/480px-Mantleplume.png 2x" width="240"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mantleplume.png" title="Enlarge"></a></div>
+<br/>
+Extension thins the crust. Magma reaches the surface through radiating sills and dikes, forming basalt flows, as well as deep and shallow magma chambers below the surface. The crust gradually thins due to thermal subsidence, and originally horizontal basalt flows are rotated to become seaward dipping reflectors.</div>
+</div>
+</div>
+<p><a href="/wiki/Volcanic_passive_margin" title="Volcanic passive margin">Volcanic rifted margins</a> are found on the boundary of large igneous provinces. Volcanic margins form when rifting is accompanied by significant mantle melting, with volcanism occurring before and/or during continental breakup. Volcanic rifted margins are characterized by: a transitional crust composed of <a href="/wiki/Basalt" title="Basalt">basaltic</a> <a href="/wiki/Igneous_rock" title="Igneous rock">igneous rocks</a>, including <a href="/wiki/Lava" title="Lava">lava</a> flows, <a href="/wiki/Sill_(geology)" title="Sill (geology)">sills</a>, <a href="/wiki/Dike_(geology)" title="Dike (geology)">dikes</a>, and <a href="/wiki/Gabbro" title="Gabbro">gabbros</a>, high volume basalt flows, seaward-dipping reflector sequences (SDRS) of basalt flows that were rotated during the early stages of breakup, limited passive-margin subsidence during and after breakup, and the presence of a lower crust with anomalously high seismic P-wave velocities in lower crustal bodies (LCBs), indicative of lower temperature, dense media.</p>
+<p>Example of volcanic margins include:</p>
+<ul>
+<li>The Yemen margin</li>
+<li>The East Australian margin</li>
+<li>The West Indian margin</li>
+<li>The Hatton–Rockal margin</li>
+<li>The US East Coast</li>
+<li>The mid-Norwegian margin</li>
+<li>The Brazilian margins</li>
+<li>The Namibian margin</li>
+</ul>
+<h4><span class="mw-headline" id="Dike_swarms">Dike swarms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=28" title="Edit section: Dike swarms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Mackenzie_dike_swarm.png"><img alt="" class="thumbimage" data-file-height="283" data-file-width="384" height="162" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mackenzie_dike_swarm.png/220px-Mackenzie_dike_swarm.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mackenzie_dike_swarm.png/330px-Mackenzie_dike_swarm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/43/Mackenzie_dike_swarm.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mackenzie_dike_swarm.png" title="Enlarge"></a></div>
+Map of the Mackenzie dike swarm in Canada</div>
+</div>
+</div>
+<p>A dike swarm is a large geological structure consisting of a major group of parallel, linear, or radially oriented dikes intruded within continental crust. They consist of several to hundreds of dikes emplaced more or less contemporaneously during a single intrusive event, and are magmatic and stratigraphic. Such dike swarms are the roots of a volcanic province. Examples include:</p>
+<ul>
+<li><a href="/wiki/Mackenzie_dike_swarm" title="Mackenzie dike swarm">Mackenzie dike swarm</a> (Canadian Shield)</li>
+<li><a href="/wiki/Long_Range_dikes" title="Long Range dikes">Long Range dikes</a> (Newfoundland and Labrador, Canada)</li>
+<li><a href="/wiki/Mistassini_dike_swarm" title="Mistassini dike swarm">Mistassini dike swarm</a> (western Quebec, Canada)</li>
+<li><a href="/wiki/Matachewan_dike_swarm" title="Matachewan dike swarm">Matachewan dike swarm</a> (northern Ontario, Canada)</li>
+<li>Sorachi Plateau and Belt (Hokkaido, Japan)</li>
+<li>Uralian dike swarm (Russia)<sup class="reference" id="cite_ref-Puchkov2016_37-0"><a href="#cite_note-Puchkov2016-37">[37]</a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="Sills">Sills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=29" title="Edit section: Sills">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A series of related sills that were formed essentially contemporaneously (within several million years) from related dikes comprise a LIP if their area is sufficiently large. Examples include:</p>
+<ul>
+<li><a href="/wiki/Winagami_sill_complex" title="Winagami sill complex">Winagami sill complex</a> (northwestern Alberta, Canada)</li>
+<li><a href="/wiki/Bushveld_Igneous_Complex" title="Bushveld Igneous Complex">Bushveld Igneous Complex</a> (South Africa) with an area of over 66,000 km<sup>2</sup> (25,000 sq mi), and a thickness reaching 9 kilometres (5.6 mi) thick.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=30" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Igneous_rock" title="Igneous rock">Igneous rock</a></li>
+<li><a href="/wiki/Geologic_province" title="Geologic province">Geologic province</a></li>
+<li><a href="/wiki/Hotspot_(geology)" title="Hotspot (geology)">Hotspots</a></li>
+<li><a href="/wiki/List_of_flood_basalt_provinces" title="List of flood basalt provinces">List of flood basalt provinces</a></li>
+<li><a href="/wiki/Lithosphere" title="Lithosphere">Lithosphere</a></li>
+<li><a href="/wiki/Oceanic_plateau" title="Oceanic plateau">Oceanic plateau</a></li>
+<li><a href="/wiki/Orogeny" title="Orogeny">Orogeny</a></li>
+<li><a href="/wiki/Peridotite" title="Peridotite">Peridotite</a></li>
+<li><a href="/wiki/Pluton" title="Pluton">Pluton</a></li>
+<li><a class="mw-redirect" href="/wiki/Subduction_zone" title="Subduction zone">Subduction zone</a></li>
+<li><a href="/wiki/Supervolcano" title="Supervolcano">Supervolcano</a></li>
+<li><a href="/wiki/Volcanic_passive_margin" title="Volcanic passive margin">Volcanic passive margin</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=31" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Foulger-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Foulger_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Gillian_Foulger" title="Gillian Foulger">Foulger, G.R.</a> (2010). <a class="external text" href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405161485.html" rel="nofollow"><i>Plates vs. Plumes: A Geological Controversy</i></a>. Wiley-Blackwell. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4051-6148-0" title="Special:BookSources/978-1-4051-6148-0">978-1-4051-6148-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.au=Foulger%2C+G.R.&amp;rft.btitle=Plates+vs.+Plumes%3A+A+Geological+Controversy&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-1-4051-6148-0&amp;rft.pub=Wiley-Blackwell&amp;rft_id=http%3A%2F%2Fwww.wiley.com%2FWileyCDA%2FWileyTitle%2FproductCd-1405161485.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Sheth-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sheth_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sheth_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sheth_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Sheth, Hetu C. (2007). <a class="external text" href="http://www.mantleplumes.org/WebDocuments/sheth2007-esr.pdf" rel="nofollow">"<span style="padding-left:0.2em;">'</span>Large Igneous Provinces (LIPs)': Definition, recommended terminology, and a hierarchical classification"</a> <span style="font-size:85%;">(PDF)</span>. <i>Earth-Science Reviews</i>. <b>85</b> (3–4): 117–124. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007ESRv...85..117S" rel="nofollow">2007ESRv...85..117S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.earscirev.2007.07.005" rel="nofollow">10.1016/j.earscirev.2007.07.005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=%27Large+Igneous+Provinces+%28LIPs%29%27%3A+Definition%2C+recommended+terminology%2C+and+a+hierarchical+classification&amp;rft.aufirst=Hetu+C.&amp;rft.aulast=Sheth&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=3%E2%80%934&amp;rft.jtitle=Earth-Science+Reviews&amp;rft.pages=117-124&amp;rft.volume=85&amp;rft_id=http%3A%2F%2Fwww.mantleplumes.org%2FWebDocuments%2Fsheth2007-esr.pdf&amp;rft_id=info%3Abibcode%2F2007ESRv...85..117S&amp;rft_id=info%3Adoi%2F10.1016%2Fj.earscirev.2007.07.005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Michael R. Rampino &amp; Richard B. Stothers (1988). <a class="external text" href="http://pubs.giss.nasa.gov/docs/1988/1988_Rampino_Stothers_1.pdf" rel="nofollow">"Flood Basalt Volcanism During the Past 250 Million Years"</a> <span style="font-size:85%;">(PDF)</span>. <i>Science</i>. <b>241</b> (4866): 663–668. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17839077" rel="nofollow">17839077</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.241.4866.663" rel="nofollow">10.1126/science.241.4866.663</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Flood+Basalt+Volcanism+During+the+Past+250+Million+Years&amp;rft.date=1988&amp;rft.genre=article&amp;rft.issue=4866&amp;rft.jtitle=Science&amp;rft.pages=663-668&amp;rft.volume=241&amp;rft_id=http%3A%2F%2Fpubs.giss.nasa.gov%2Fdocs%2F1988%2F1988_Rampino_Stothers_1.pdf&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.241.4866.663&amp;rft_id=info%3Apmid%2F17839077&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Neal, C.; Mahoney, J.; Kroenke, L. (1997). <a class="external text" href="http://www3.nd.edu/~icpmslab/pdfs/OJP_Paper.pdf" rel="nofollow">"The Ontong Java Plateau"</a> <span style="font-size:85%;">(PDF)</span>. <i>Large Igneous Provinces: Continental, Oceanic, and Planetary Flood Volcanism, Geophysical Monograph 100</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=The+Ontong+Java+Plateau&amp;rft.au=Kroenke%2C+L.&amp;rft.au=Mahoney%2C+J.&amp;rft.au=Neal%2C+C.&amp;rft.date=1997&amp;rft.genre=unknown&amp;rft.jtitle=Large+Igneous+Provinces%3A+Continental%2C+Oceanic%2C+and+Planetary+Flood+Volcanism%2C+Geophysical+Monograph+100&amp;rft_id=http%3A%2F%2Fwww3.nd.edu%2F~icpmslab%2Fpdfs%2FOJP_Paper.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">David P.G. Bond &amp; Paul B. Wignall (2014). <a class="external text" href="http://specialpapers.gsapubs.org/content/early/2014/06/10/2014.2505_02.abstract" rel="nofollow">"Large igneous provinces and mass extinctions: An update"</a>. <i>GSA Special Papers</i>: 590. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1130%2F2014.2505%2802%29" rel="nofollow">10.1130/2014.2505(02)</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Large+igneous+provinces+and+mass+extinctions%3A+An+update&amp;rft.date=2014&amp;rft.genre=article&amp;rft.jtitle=GSA+Special+Papers&amp;rft.pages=590&amp;rft_id=http%3A%2F%2Fspecialpapers.gsapubs.org%2Fcontent%2Fearly%2F2014%2F06%2F10%2F2014.2505_02.abstract&amp;rft_id=info%3Adoi%2F10.1130%2F2014.2505%2802%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-Coffin-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Coffin_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book" id="CITEREFCoffinEldholm1992">Coffin, M; Eldholm, O (1992). "Volcanism and continental break-up: a global compilation of large igneous provinces". In Storey, B.C., Alabaster, T., <a href="/wiki/Robert_John_Pankhurst" title="Robert John Pankhurst">Pankhurst, R.J.</a> <i>Magmatism and the Causes of Continental Breakup</i>. Special Publications. <b>68</b>. London: Geological Society of London. pp. 17–30. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1992GSLSP..68...17C" rel="nofollow">1992GSLSP..68...17C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1144%2FGSL.SP.1992.068.01.02" rel="nofollow">10.1144/GSL.SP.1992.068.01.02</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Volcanism+and+continental+break-up%3A+a+global+compilation+of+large+igneous+provinces&amp;rft.au=Eldholm%2C+O&amp;rft.aufirst=M&amp;rft.aulast=Coffin&amp;rft.btitle=Magmatism+and+the+Causes+of+Continental+Breakup&amp;rft.date=1992&amp;rft.genre=bookitem&amp;rft.pages=17-30&amp;rft.place=London&amp;rft.pub=Geological+Society+of+London&amp;rft.series=Special+Publications&amp;rft_id=info%3Abibcode%2F1992GSLSP..68...17C&amp;rft_id=info%3Adoi%2F10.1144%2FGSL.SP.1992.068.01.02&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></span></li>
+<li id="cite_note-Bryan-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bryan_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bryan_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bryan_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bryan, Scott; Ernst, Richard (2007). <a class="external text" href="http://www.mantleplumes.org/LIPClass2.html" rel="nofollow">"Proposed Revision to Large Igneous Province Classification"</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.earscirev.2007.08.008" rel="nofollow">10.1016/j.earscirev.2007.08.008</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.au=Ernst%2C+Richard&amp;rft.aufirst=Scott&amp;rft.aulast=Bryan&amp;rft.btitle=Proposed+Revision+to+Large+Igneous+Province+Classification&amp;rft.date=2007&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mantleplumes.org%2FLIPClass2.html&amp;rft_id=info%3Adoi%2F10.1016%2Fj.earscirev.2007.08.008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Eremin-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Eremin_8-0">^</a></b></span> <span class="reference-text">N. I. Eremin; Platform Magmatism: Geology and Minerageny; ISSN 1075-7015, Geology of Ore Deposits, 2010, Vol. 52, No. 1, pp. 77–80. © Pleiades Publishing, Ltd., 2010. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1134%2FS1075701510010071" rel="nofollow">10.1134/S1075701510010071</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">M.-F. Zhou et al.; Two magma series and associated ore deposit types in the Permian Emeishan large igneous province, SW China; Lithos; Vol. 103 (2008) pp.352–368; <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1016%2Fj.lithos.2007.10.006" rel="nofollow">10.1016/j.lithos.2007.10.006</a></span></li>
+<li id="cite_note-Braun-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Braun_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Braun_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Braun, J; The many surface expressions of mantle dynamics; Nature Geosciences; VOL 3; DECEMBER 2010; <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1038%2Fngeo1020" rel="nofollow">10.1038/ngeo1020</a></span></li>
+<li id="cite_note-allen-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-allen_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allen_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Allen, Philip A (2011). "Geodynamics: Surface impact of mantle processes". <i>Nature Geoscience</i>. <b>4</b>: 498–499. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fngeo1216" rel="nofollow">10.1038/ngeo1216</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Geodynamics%3A+Surface+impact+of+mantle+processes&amp;rft.aufirst=Philip+A&amp;rft.aulast=Allen&amp;rft.date=2011&amp;rft.genre=article&amp;rft.jtitle=Nature+Geoscience&amp;rft.pages=498-499&amp;rft.volume=4&amp;rft_id=info%3Adoi%2F10.1038%2Fngeo1216&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-hump-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-hump_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hump_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Humphreys, Eugene; Schmandt, Brandon (2011). "Looking for mantle plumes". <i>Physics Today</i>. <b>64</b> (8): 34. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2FPT.3.1217" rel="nofollow">10.1063/PT.3.1217</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Looking+for+mantle+plumes&amp;rft.au=Schmandt%2C+Brandon&amp;rft.aufirst=Eugene&amp;rft.aulast=Humphreys&amp;rft.date=2011&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=Physics+Today&amp;rft.pages=34&amp;rft.volume=64&amp;rft_id=info%3Adoi%2F10.1063%2FPT.3.1217&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-cour-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-cour_13-0">^</a></b></span> <span class="reference-text">Vincent Courtillot, Anne Davaille, Jean Besse, &amp; Joann Stock ;Three distinct types of hotspots in the Earth’s mantle; Earth and Planetary Science Letters; V. 205; 2003; pp.295–308</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">E. Humphreys and B. Schmandt; Looking for Mantle Plumes; Physics Today; August 2011; pp. 34- 39</span></li>
+<li id="cite_note-Hagstrum-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hagstrum_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hagstrum_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hagstrum_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">J.T. Hagstrum; Antipodal hotspots and bipolar catastrophes: Were oceanic large-body impacts the cause?; Earth and Planetary Science Letters; Vol 236; (2005) pp. 13–27; <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1016%2Fj.epsl.2005.02.020" rel="nofollow">10.1016/j.epsl.2005.02.020</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Matthew G. Jackson &amp; Richard W. Carlson; An ancient recipe for flood-basalt genesis; Nature (2011) <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1038%2Fnature10326" rel="nofollow">10.1038/nature10326</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Coffin, M.F., Eldholm, O. (Eds.), 1991. Large Igneous Provinces: JOI/USSAC workshop report. The University of Texas at Austin Institute for Geophysics Technical Report, p. 114.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Coffin, M.F., Eldholm, O., 1992. Volcanism and continental break-up: a global compilation of large igneous provinces. In: Storey, B.C., Alabaster, T., Pankhurst, R.J. (Eds.), Magmatism and the Causes of Continental Break-up. Geological Society of London Special Publication, vol. 68, pp. 17–30.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Coffin, M.F., Eldholm, O., 1994. Large igneous provinces: crustal structure, dimensions, and external consequences. Reviews of Geophysics Vol. 32, pp. 1–36.</span></li>
+<li id="cite_note-Bryan_2-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bryan_2_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bryan_2_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bryan_2_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Bryan_2_20-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">S.E. Bryan &amp; R.E. Ernst; Revised definition of Large Igneous Provinces (LIPs); Earth-Science Reviews Vol. 86 (2008) pp. 175–202</span></li>
+<li id="cite_note-ErnstButler97-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-ErnstButler97_21-0">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFErnstBuchan1997">Ernst, R. E.; Buchan, K. L., (1997), "Giant Radiating Dyke Swarms: Their Use in Identifying Pre-Mesozoic Large Igneous Provinces and Mantle Plumes", in Mahoney, J. J.; Coffin, M. F. (editors), <i>Large Igneous Provinces: Continental, Oceanic and Flood Volcanism (Geophysical Monograph 100)</i>, Washington D.C.: American Geophysical Union, p. 297, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87590-082-8" title="Special:BookSources/0-87590-082-8">0-87590-082-8</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Giant+Radiating+Dyke+Swarms%3A+Their+Use+in+Identifying+Pre-Mesozoic+Large+Igneous+Provinces+and+Mantle+Plumes&amp;rft.au=Buchan%2C+K.+L.%2C&amp;rft.aufirst=R.+E.&amp;rft.aulast=Ernst&amp;rft.btitle=Large+Igneous+Provinces%3A+Continental%2C+Oceanic+and+Flood+Volcanism+%28Geophysical+Monograph+100%29&amp;rft.date=1997&amp;rft.genre=bookitem&amp;rft.isbn=0-87590-082-8&amp;rft.pages=297&amp;rft.place=Washington+D.C.&amp;rft.pub=American+Geophysical+Union&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Rich-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rich_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rich_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rich_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Rich_22-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Rich_22-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Rich_22-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Rich_22-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Rich_22-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">M.A. Richards, R.A. Duncan, V.E. Courtillot; <i>Flood Basalts and Hot-Spot Tracks: Plume Heads and Tails</i>; SCIENCE, VOL. 246 (1989) 103–108</span></li>
+<li id="cite_note-Antretter-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Antretter_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Antretter_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Antretter, M.; Riisager, P.; Hall, S.; Zhao, X.; and Steinberger, B. (2004). <a class="external text" href="http://sp.lyellcollection.org/cgi/content/abstract/229/1/21" rel="nofollow">Modelled palaeolatitudes for the Louisville hot spot and the Ontong Java Plateau</a>, in <i>Origin and Evolution of the Ontong Java Plateau</i> Geological Society, London, Special Publications, v. 229, p. 21-30. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1144%2FGSL.SP.2004.229.01.03" rel="nofollow">10.1144/GSL.SP.2004.229.01.03</a>.</span></li>
+<li id="cite_note-Nash-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nash_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nash_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Barbara P. Nash, Michael E. Perkins, John N. Christensen, Der-Chuen Lee, &amp; A.N. Halliday. "The Yellowstone hotspot in space and time: Nd and Hf isotopes in silicic magmas." <i>Earth and Planetary Science Letters</i> 247 (2006) 143–156</span></li>
+<li id="cite_note-Weis-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Weis_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Weis_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Weis_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Weis, D.; et al. (1993). "The Influence of Mantle Plumes in Generation of Indian Oceanic Crust". <i>Geophysical Monograph</i>. <b>70</b>: 57–89. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1992GMS....70...57W" rel="nofollow">1992GMS....70...57W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2Fgm070p0057" rel="nofollow">10.1029/gm070p0057</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=The+Influence+of+Mantle+Plumes+in+Generation+of+Indian+Oceanic+Crust&amp;rft.aufirst=D.&amp;rft.aulast=Weis&amp;rft.date=1993&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Monograph&amp;rft.pages=57-89&amp;rft.volume=70&amp;rft_id=info%3Abibcode%2F1992GMS....70...57W&amp;rft_id=info%3Adoi%2F10.1029%2Fgm070p0057&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Verz-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Verz_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Verz_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">E.V. Verzhbitsky. "Geothermal regime and genesis of the Ninety-East and Chagos-Laccadive ridges." <i>Journal of Geodynamics</i>, Volume 35, Issue 3, April 2003, Pages 289–302</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Sur l'âge des trapps basaltiques (On the ages of flood basalt events); <a href="/wiki/Vincent_Courtillot" title="Vincent Courtillot">Vincent E. Courtillot</a> &amp; Paul R. Renne; Comptes Rendus Geoscience; Vol: 335 Issue: 1, January 2003; pp: 113–140</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Kaj Hoernle, Folkmar Hauff and Paul van den Bogaard, <i>70 m.y. history (139–69 Ma) for the Caribbean large igneous province</i>, Geology; August 2004; v. 32; no. 8; p. 697-700 <a class="external text" href="http://geology.geoscienceworld.org/cgi/content/abstract/32/8/697" rel="nofollow">Abstract</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation book">Ernst, Richard E.; Buchan, Kenneth L. (2001). <i>Mantle plumes: their identification through time</i>. <a href="/wiki/Geological_Society_of_America" title="Geological Society of America">Geological Society of America</a>. pp. 143, 145, 146, 147, 148, 259. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8137-2352-3" title="Special:BookSources/0-8137-2352-3">0-8137-2352-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.au=Buchan%2C+Kenneth+L.&amp;rft.aufirst=Richard+E.&amp;rft.aulast=Ernst&amp;rft.btitle=Mantle+plumes%3A+their+identification+through+time&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-8137-2352-3&amp;rft.pages=143%2C+145%2C+146%2C+147%2C+148%2C+259&amp;rft.pub=Geological+Society+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal" id="CITEREFKerr2005">Kerr, AC (December 2005). "Oceanic LIPS: Kiss of death". <i>Elements</i>. <b>1</b> (5): 289–292. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2113%2Fgselements.1.5.289" rel="nofollow">10.2113/gselements.1.5.289</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Oceanic+LIPS%3A+Kiss+of+death&amp;rft.aufirst=AC&amp;rft.aulast=Kerr&amp;rft.date=2005-12&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Elements&amp;rft.pages=289-292&amp;rft.volume=1&amp;rft_id=info%3Adoi%2F10.2113%2Fgselements.1.5.289&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation journal" id="CITEREFGohlUenzelmann-NebenGrobys2011">Gohl, K.; Uenzelmann-Neben, G.; Grobys, N. (2011). <a class="external text" href="http://epic.awi.de/23393/1/Gohl-etal_Mozambique-Ridge_SAJG_2011.pdf" rel="nofollow">"Growth and dispersal of a southeast African Large Igenous Province"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/South_African_Journal_of_Geology" title="South African Journal of Geology">South African Journal of Geology</a></i>. <b>114</b> (3-4): 379–386. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2113%2Fgssajg.114.3-4.379" rel="nofollow">10.2113/gssajg.114.3-4.379</a><span class="reference-accessdate">. Retrieved April 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Growth+and+dispersal+of+a+southeast+African+Large+Igenous+Province&amp;rft.au=Grobys%2C+N.&amp;rft.au=Uenzelmann-Neben%2C+G.&amp;rft.aufirst=K.&amp;rft.aulast=Gohl&amp;rft.date=2011&amp;rft.genre=article&amp;rft.issue=3-4&amp;rft.jtitle=South+African+Journal+of+Geology&amp;rft.pages=379-386&amp;rft.volume=114&amp;rft_id=http%3A%2F%2Fepic.awi.de%2F23393%2F1%2FGohl-etal_Mozambique-Ridge_SAJG_2011.pdf&amp;rft_id=info%3Adoi%2F10.2113%2Fgssajg.114.3-4.379&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Ross-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ross_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ross_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ross_32-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Ross_32-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Ross_32-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Ross_32-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Ross_32-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Ross_32-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Ross_32-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text">P.S. Ross, I. Ukstins Peateb, M.K. McClintocka, Y.G. Xuc, I.P. Skillingd, J.D.L. Whitea, and B.F. Houghtone. "Mafic volcaniclastic deposits in flood basalt provinces: A review." <i>Journal of Volcanology and Geothermal Research</i> 145 (2005) 281–314</span></li>
+<li id="cite_note-Tors-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tors_33-0">^</a></b></span> <span class="reference-text">TH Torsvik, RD Tucker, LD Ashwal, EA Eide, NA Rakotosolofo, MJ de Wit. "Late Cretaceous magmatism in Madagascar: palaeomagnetic evidence for a stationary Marion hotspot." <i>Earth and Planetary Science Letters</i>, Volume 164, Issues 1–2, 15 December 1998, Pages 221–232</span></li>
+<li id="cite_note-Knight-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-Knight_34-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Knight, K.B.; Nomade S.; Renne P.R.; Marzoli A.; Bertrand H.; Youbi N. (2004). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0012821X04005667" rel="nofollow">"The Central Atlantic Magmatic Province at the Triassic–Jurassic boundary: paleomagnetic and 40Ar/39Ar evidence from Morocco for brief, episodic volcanism"</a>. <i>Earth and Planetary Science Letters</i>. <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>. <b>228</b> (1–2): 143–160. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2004E&amp;PSL.228..143K" rel="nofollow">2004E&amp;PSL.228..143K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.epsl.2004.09.022" rel="nofollow">10.1016/j.epsl.2004.09.022</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=The+Central+Atlantic+Magmatic+Province+at+the+Triassic%E2%80%93Jurassic+boundary%3A+paleomagnetic+and+40Ar%2F39Ar+evidence+from+Morocco+for+brief%2C+episodic+volcanism&amp;rft.au=Bertrand+H.&amp;rft.au=Marzoli+A.&amp;rft.au=Nomade+S.&amp;rft.au=Renne+P.R.&amp;rft.au=Youbi+N.&amp;rft.aufirst=K.B.&amp;rft.aulast=Knight&amp;rft.date=2004&amp;rft.genre=article&amp;rft.issue=1%E2%80%932&amp;rft.jtitle=Earth+and+Planetary+Science+Letters&amp;rft.pages=143-160&amp;rft.volume=228&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0012821X04005667&amp;rft_id=info%3Abibcode%2F2004E%26PSL.228..143K&amp;rft_id=info%3Adoi%2F10.1016%2Fj.epsl.2004.09.022&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-black13-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-black13_35-0">^</a></b></span> <span class="reference-text"><cite class="citation journal" id="CITEREFBlackburnOlsenBowringMcLean2013">Blackburn, Terrence J.; Olsen, Paul E.; Bowring, Samuel A.; McLean, Noah M.; Kent, Dennis V; Puffer, John; McHone, Greg; Rasbury, Troy; Et-Touhami, Mohammed (2013). "Zircon U–Pb Geochronology Links the End-Triassic Extinction with the Central Atlantic Magmatic Province". <i>Science</i>. <b>340</b> (6135): 941–945. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2013Sci...340..941B" rel="nofollow">2013Sci...340..941B</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23519213" rel="nofollow">23519213</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1234204" rel="nofollow">10.1126/science.1234204</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Zircon+U%E2%80%93Pb+Geochronology+Links+the+End-Triassic+Extinction+with+the+Central+Atlantic+Magmatic+Province&amp;rft.au=Bowring%2C+Samuel+A.&amp;rft.au=Et-Touhami%2C+Mohammed&amp;rft.au=Kent%2C+Dennis+V&amp;rft.au=McHone%2C+Greg&amp;rft.au=McLean%2C+Noah+M.&amp;rft.au=Olsen%2C+Paul+E.&amp;rft.au=Puffer%2C+John&amp;rft.au=Rasbury%2C+Troy&amp;rft.aufirst=Terrence+J.&amp;rft.aulast=Blackburn&amp;rft.date=2013&amp;rft.genre=article&amp;rft.issue=6135&amp;rft.jtitle=Science&amp;rft.pages=941-945&amp;rft.volume=340&amp;rft_id=info%3Abibcode%2F2013Sci...340..941B&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1234204&amp;rft_id=info%3Apmid%2F23519213&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Wingate-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wingate_36-0">^</a></b></span> <span class="reference-text">MTD Wingate, F Pirajno, &amp; PA Morris. "Warakurna large igneous province: A new Mesoproterozoic large igneous province in west-central Australia." <i>Geology</i> (2004) Volume 32; pp.105–108 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1130%2FG20171.1" rel="nofollow">10.1130/G20171.1</a></span></li>
+<li id="cite_note-Puchkov2016-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Puchkov2016_37-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Puchkov, Victor; Ernst, Richard E.; Hamilton, Michael A.; Söderlund, Ulf; Sergeeva, Nina (2016). <a class="external text" href="http://www.tandfonline.com/doi/full/10.1080/11035897.2015.1118406" rel="nofollow">"A Devonian &gt;2000-km-long dolerite dyke swarm-belt and associated basalts along the Urals-Novozemelian fold-belt: part of an East-European (Baltica) LIP tracing the Tuzo Superswell"</a>. <i>GFF</i>. <b>138</b>: 6–16. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F11035897.2015.1118406" rel="nofollow">10.1080/11035897.2015.1118406</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=A+Devonian+%3E2000-km-long+dolerite+dyke+swarm-belt+and+associated+basalts+along+the+Urals-Novozemelian+fold-belt%3A+part+of+an+East-European+%28Baltica%29+LIP+tracing+the+Tuzo+Superswell&amp;rft.au=Ernst%2C+Richard+E.&amp;rft.au=Hamilton%2C+Michael+A.&amp;rft.au=S%C3%B6derlund%2C+Ulf&amp;rft.au=Sergeeva%2C+Nina&amp;rft.aufirst=Victor&amp;rft.aulast=Puchkov&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=GFF&amp;rft.pages=6-16&amp;rft.volume=138&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F11035897.2015.1118406&amp;rft_id=info%3Adoi%2F10.1080%2F11035897.2015.1118406&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Related_reading">Related reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=32" title="Edit section: Related reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal"><a href="/wiki/Don_L._Anderson" title="Don L. Anderson">Anderson, DL</a> (December 2005). <a class="external text" href="http://elements.geoscienceworld.org/content/1/5/271" rel="nofollow">"Large igneous provinces, delamination, and fertile mantle"</a>. <i>Elements</i>. <b>1</b> (5): 271–275. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2113%2Fgselements.1.5.271" rel="nofollow">10.2113/gselements.1.5.271</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Large+igneous+provinces%2C+delamination%2C+and+fertile+mantle&amp;rft.aufirst=DL&amp;rft.aulast=Anderson&amp;rft.date=2005-12&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Elements&amp;rft.pages=271-275&amp;rft.volume=1&amp;rft_id=http%3A%2F%2Felements.geoscienceworld.org%2Fcontent%2F1%2F5%2F271&amp;rft_id=info%3Adoi%2F10.2113%2Fgselements.1.5.271&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Baragar, WRA; Ernst, R.E.; Hulbert, L.; Peterson, T. (1996). "Longitudinal petrochemical variation in the Mackenzie dyke swarm, northwestern Canadian Shield". <i>J. Petrol</i>. <b>37</b> (2): 317–359. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1093%2Fpetrology%2F37.2.317" rel="nofollow">10.1093/petrology/37.2.317</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Longitudinal+petrochemical+variation+in+the+Mackenzie+dyke+swarm%2C+northwestern+Canadian+Shield&amp;rft.au=Ernst%2C+R.E.&amp;rft.au=Hulbert%2C+L.&amp;rft.au=Peterson%2C+T.&amp;rft.aufirst=WRA&amp;rft.aulast=Baragar&amp;rft.date=1996&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=J.+Petrol.&amp;rft.pages=317-359&amp;rft.volume=37&amp;rft_id=info%3Adoi%2F10.1093%2Fpetrology%2F37.2.317&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Campbell, IH (December 2005). "Large igneous provinces and the plume hypothesis". <i>Elements</i>. <b>1</b> (5): 265–269. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2113%2Fgselements.1.5.265" rel="nofollow">10.2113/gselements.1.5.265</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Large+igneous+provinces+and+the+plume+hypothesis&amp;rft.aufirst=IH&amp;rft.aulast=Campbell&amp;rft.date=2005-12&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Elements&amp;rft.pages=265-269&amp;rft.volume=1&amp;rft_id=info%3Adoi%2F10.2113%2Fgselements.1.5.265&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Cohen, B.; Vasconcelos, P.M.D.; Knesel, K. M. (2004). "17th Australian Geological Convention, 8–13 February 2004, held in Hobart, Tasmania". <i>Dynamic Earth: Past, Present and Future</i>. Geological Society of Australia: 256–256.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=17th+Australian+Geological+Convention%2C+8%E2%80%9313+February+2004%2C+held+in+Hobart%2C+Tasmania&amp;rft.au=Knesel%2C+K.+M.&amp;rft.au=Vasconcelos%2C+P.M.D.&amp;rft.aufirst=B.&amp;rft.aulast=Cohen&amp;rft.date=2004&amp;rft.genre=article&amp;rft.jtitle=Dynamic+Earth%3A+Past%2C+Present+and+Future&amp;rft.pages=256-256&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span></li>
+<li><cite class="citation journal">Ernst, R.E.; Buchan, K.L.; Campbell, I.H. (February 2005). A. Kerr, R. England, and P. Wignall, eds. "Mantle Plumes: Physical Processes, Chemical Signatures, Biological Effects". <i>Lithos</i>. <b>79</b> (3–4): 271–297. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005Litho..79..271E" rel="nofollow">2005Litho..79..271E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.lithos.2004.09.004" rel="nofollow">10.1016/j.lithos.2004.09.004</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Mantle+Plumes%3A+Physical+Processes%2C+Chemical+Signatures%2C+Biological+Effects&amp;rft.au=Buchan%2C+K.L.&amp;rft.au=Campbell%2C+I.H.&amp;rft.aufirst=R.E.&amp;rft.aulast=Ernst&amp;rft.date=2005-02&amp;rft.genre=article&amp;rft.issue=3%E2%80%934&amp;rft.jtitle=Lithos&amp;rft.pages=271-297&amp;rft.volume=79&amp;rft_id=info%3Abibcode%2F2005Litho..79..271E&amp;rft_id=info%3Adoi%2F10.1016%2Fj.lithos.2004.09.004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></li>
+<li><cite class="citation web"><a class="external text" href="http://largeigneousprovinces.org/record.html" rel="nofollow">"Large Igneous Provinces Commission: Large Igneous Provinces Record"</a>. International Association of Volcanology and Chemistry of the Earth's Interior.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.btitle=Large+Igneous+Provinces+Commission%3A+Large+Igneous+Provinces+Record&amp;rft.genre=unknown&amp;rft.pub=International+Association+of+Volcanology+and+Chemistry+of+the+Earth%27s+Interior&amp;rft_id=http%3A%2F%2Flargeigneousprovinces.org%2Frecord.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Jones, AP (December 2005). "Meteor impacts as triggers to large igneous provinces". <i>Elements</i>. <b>1</b> (5): 277–281. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2113%2Fgselements.1.5.277" rel="nofollow">10.2113/gselements.1.5.277</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Meteor+impacts+as+triggers+to+large+igneous+provinces&amp;rft.aufirst=AP&amp;rft.aulast=Jones&amp;rft.date=2005-12&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Elements&amp;rft.pages=277-281&amp;rft.volume=1&amp;rft_id=info%3Adoi%2F10.2113%2Fgselements.1.5.277&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Marsh, JS; Hooper, PR; Rehacek, J; Duncan, RA; Duncan, AR (1997). "Stratigraphy and age of Karoo basalts of Lesotho and implications for correlations within the Karoo igneous province". In Mahoney JJ and Coffin MF. <i>Large Igneous Provinces: continental, oceanic, and planetary flood volcanism</i>. Geophysical Monograph. <b>100</b>. Washington, DC: American Geophysical Union. pp. 247–272. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87590-082-8" title="Special:BookSources/0-87590-082-8">0-87590-082-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Stratigraphy+and+age+of+Karoo+basalts+of+Lesotho+and+implications+for+correlations+within+the+Karoo+igneous+province&amp;rft.au=Duncan%2C+AR&amp;rft.au=Duncan%2C+RA&amp;rft.au=Hooper%2C+PR&amp;rft.au=Rehacek%2C+J&amp;rft.aufirst=JS&amp;rft.aulast=Marsh&amp;rft.btitle=Large+Igneous+Provinces%3A+continental%2C+oceanic%2C+and+planetary+flood+volcanism&amp;rft.date=1997&amp;rft.genre=bookitem&amp;rft.isbn=0-87590-082-8&amp;rft.pages=247-272&amp;rft.place=Washington%2C+DC&amp;rft.pub=American+Geophysical+Union&amp;rft.series=Geophysical+Monograph&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></li>
+<li><cite class="citation journal">Peate, DW (1997). Mahoney JJ and Coffin MF, eds. "Large Igneous Provinces: continental, oceanic, and planetary flood volcanism". Geophysical Monograph. <b>100</b>. Washington, DC: American Geophysical Union: 247–272. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87590-082-8" title="Special:BookSources/0-87590-082-8">0-87590-082-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Large+Igneous+Provinces%3A+continental%2C+oceanic%2C+and+planetary+flood+volcanism&amp;rft.aufirst=DW&amp;rft.aulast=Peate&amp;rft.date=1997&amp;rft.genre=article&amp;rft.isbn=0-87590-082-8&amp;rft.pages=247-272&amp;rft.volume=100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></li>
+<li><cite class="citation web">Ratajeski, K. (25 November 2005). <a class="external text" href="http://serc.carleton.edu/research_education/cretaceous/superplume.html" rel="nofollow">"The Cretaceous Superplume"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.aufirst=K.&amp;rft.aulast=Ratajeski&amp;rft.btitle=The+Cretaceous+Superplume&amp;rft.date=2005-11-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fserc.carleton.edu%2Fresearch_education%2Fcretaceous%2Fsuperplume.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Ritsema, J.; van Heijst, H.J.; Woodhouse, J.H. (1999). "Complex shear wave velocity structure imaged beneath Africa and Iceland". <i>Science</i>. <b>286</b> (5446): 1925–1928. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10583949" rel="nofollow">10583949</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.286.5446.1925" rel="nofollow">10.1126/science.286.5446.1925</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Complex+shear+wave+velocity+structure+imaged+beneath+Africa+and+Iceland&amp;rft.au=Woodhouse%2C+J.H.&amp;rft.au=van+Heijst%2C+H.J.&amp;rft.aufirst=J.&amp;rft.aulast=Ritsema&amp;rft.date=1999&amp;rft.genre=article&amp;rft.issue=5446&amp;rft.jtitle=Science&amp;rft.pages=1925-1928&amp;rft.volume=286&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.286.5446.1925&amp;rft_id=info%3Apmid%2F10583949&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Saunders, AD (December 2005). "Large igneous provinces: origin and environmental consequences". <i>Elements</i>. <b>1</b> (5): 259–263. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2113%2Fgselements.1.5.259" rel="nofollow">10.2113/gselements.1.5.259</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Large+igneous+provinces%3A+origin+and+environmental+consequences&amp;rft.aufirst=AD&amp;rft.aulast=Saunders&amp;rft.date=2005-12&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Elements&amp;rft.pages=259-263&amp;rft.volume=1&amp;rft_id=info%3Adoi%2F10.2113%2Fgselements.1.5.259&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Segev, A (2002). <a class="external text" href="http://www.stephan-mueller-spec-publ-ser.net/2/171/2002/smsps-2-171-2002.pdf" rel="nofollow">"Flood basalts, continental breakup and the dispersal of Gondwana: evidence for periodic migration of upwelling mantle flows (plumes)"</a> <span style="font-size:85%;">(PDF)</span>. <i>EGU Stephan Mueller Special Publication Series</i>. <b>2</b>: 171–191. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.5194%2Fsmsps-2-171-2002" rel="nofollow">10.5194/smsps-2-171-2002</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=Flood+basalts%2C+continental+breakup+and+the+dispersal+of+Gondwana%3A+evidence+for+periodic+migration+of+upwelling+mantle+flows+%28plumes%29&amp;rft.aufirst=A&amp;rft.aulast=Segev&amp;rft.date=2002&amp;rft.genre=article&amp;rft.jtitle=EGU+Stephan+Mueller+Special+Publication+Series&amp;rft.pages=171-191&amp;rft.volume=2&amp;rft_id=http%3A%2F%2Fwww.stephan-mueller-spec-publ-ser.net%2F2%2F171%2F2002%2Fsmsps-2-171-2002.pdf&amp;rft_id=info%3Adoi%2F10.5194%2Fsmsps-2-171-2002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Wignall, P (December 2005). "The link between large igneous provinces eruptions and mass extinctions". <i>Elements</i>. <b>1</b> (5): 293–297. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2113%2Fgselements.1.5.293" rel="nofollow">10.2113/gselements.1.5.293</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarge+igneous+province&amp;rft.atitle=The+link+between+large+igneous+provinces+eruptions+and+mass+extinctions&amp;rft.aufirst=P&amp;rft.aulast=Wignall&amp;rft.date=2005-12&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Elements&amp;rft.pages=293-297&amp;rft.volume=1&amp;rft_id=info%3Adoi%2F10.2113%2Fgselements.1.5.293&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Large_igneous_province&amp;action=edit&amp;section=33" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.largeigneousprovinces.org" rel="nofollow">Large Igneous Provinces Commission</a></li>
+<li><a class="external text" href="http://www.mantleplumes.org" rel="nofollow">www.MantlePlumes.org</a></li>
+</ul>
+<div aria-labelledby="Large_igneous_provinces" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Large_igneous_provinces" title="Template:Large igneous provinces"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Large_igneous_provinces" title="Template talk:Large igneous provinces"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Large_igneous_provinces&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Large_igneous_provinces" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Large igneous provinces</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agulhas_Plateau" title="Agulhas Plateau">Agulhas Plateau</a> (<small><a href="/wiki/Northeast_Georgia_Rise" title="Northeast Georgia Rise">Northeast Georgia Rise</a>, <a href="/wiki/Maud_Rise" title="Maud Rise">Maud Rise</a></small>)</li>
+<li><a href="/wiki/Brazilian_Highlands" title="Brazilian Highlands">Brazilian Highlands</a></li>
+<li><a href="/wiki/Caribbean_large_igneous_province" title="Caribbean large igneous province">Caribbean</a></li>
+<li><a href="/wiki/Central_Atlantic_magmatic_province" title="Central Atlantic magmatic province">Central Atlantic</a></li>
+<li><a href="/wiki/Circum-Superior_Belt" title="Circum-Superior Belt">Circum-Superior</a></li>
+<li><a href="/wiki/Columbia_River_Basalt_Group" title="Columbia River Basalt Group">Columbia River</a></li>
+<li><a href="/wiki/Deccan_Traps" title="Deccan Traps">Deccan</a></li>
+<li><a href="/wiki/Emeishan_Traps" title="Emeishan Traps">Emeishan</a></li>
+<li><a href="/wiki/Ethiopia-Yemen_Continental_Flood_Basalts" title="Ethiopia-Yemen Continental Flood Basalts">Ethiopian and Yemen Highlands</a></li>
+<li><a href="/wiki/Franklin_Large_Igneous_Province" title="Franklin Large Igneous Province">Franklin</a> (<small><a href="/wiki/Franklin_dike_swarm" title="Franklin dike swarm">Franklin dike swarm</a></small>)</li>
+<li><a href="/wiki/High_Arctic_Large_Igneous_Province" title="High Arctic Large Igneous Province">High Arctic</a> (<small><a href="/wiki/Sverdrup_Basin_Magmatic_Province" title="Sverdrup Basin Magmatic Province">Sverdrup Basin</a></small>)</li>
+<li><a href="/wiki/Karoo-Ferrar" title="Karoo-Ferrar">Karoo-Ferrar</a></li>
+<li><a href="/wiki/Kerguelen_Plateau" title="Kerguelen Plateau">Kerguelen</a> (<small><a href="/wiki/Broken_Ridge" title="Broken Ridge">Broken Ridge</a></small>)</li>
+<li><a href="/wiki/Marathon_Large_Igneous_Province" title="Marathon Large Igneous Province">Marathon</a></li>
+<li><a href="/wiki/Midcontinent_Rift_System" title="Midcontinent Rift System">Keweenawan</a></li>
+<li><a href="/wiki/Long_Range_dikes" title="Long Range dikes">Long Range</a></li>
+<li><a href="/wiki/Mackenzie_Large_Igneous_Province" title="Mackenzie Large Igneous Province">Mackenzie</a> (<small><a href="/wiki/Coppermine_River_Group" title="Coppermine River Group">Coppermine River</a></small></li>
+<li><small><a href="/wiki/Mackenzie_dike_swarm" title="Mackenzie dike swarm">Mackenzie dike swarm</a></small>)</li>
+<li><a href="/wiki/Matachewan_dike_swarm" title="Matachewan dike swarm">Matachewan</a></li>
+<li><a href="/wiki/Mistassini_dike_swarm" title="Mistassini dike swarm">Mistassini</a></li>
+<li><a href="/wiki/North_Atlantic_Igneous_Province" title="North Atlantic Igneous Province">North Atlantic</a></li>
+<li><a href="/wiki/Ontong_Java_Plateau" title="Ontong Java Plateau">Ontong Java</a>-<a href="/wiki/Manihiki_Plateau" title="Manihiki Plateau">Manihiki</a>-<a href="/wiki/Hikurangi_Plateau" title="Hikurangi Plateau">Hikurangi</a></li>
+<li><a href="/wiki/Panjal_Traps" title="Panjal Traps">Panjal</a></li>
+<li><a href="/wiki/Paran%C3%A1_and_Etendeka_traps" title="Paraná and Etendeka traps">Paraná and Etendeka</a></li>
+<li><a href="/wiki/Shatsky_Rise" title="Shatsky Rise">Shatsky</a></li>
+<li><a href="/wiki/Siberian_Traps" title="Siberian Traps">Siberian</a></li>
+<li><a href="/wiki/Skagerrak-Centered_Large_Igneous_Province" title="Skagerrak-Centered Large Igneous Province">Skagerrak</a></li>
+<li><a href="/wiki/Ungava_magmatic_event" title="Ungava magmatic event">Ungava</a></li>
+<li><a href="/wiki/Winagami_sill_complex" title="Winagami sill complex">Winagami</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20171022143153
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.443 seconds
+Preprocessor visited node count: 2505/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79077/2097152 bytes
+Template argument size: 2518/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 4.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  353.621      1 -total
+ 45.46%  160.770      1 Template:Reflist
+ 27.46%   97.113     22 Template:Cite_journal
+ 12.86%   45.461      4 Template:Cite_book
+ 12.69%   44.861      1 Template:Citation_needed
+ 12.03%   42.556      1 Template:Fix
+  7.72%   27.308      2 Template:Category_handler
+  7.65%   27.058      1 Template:Use_dmy_dates
+  3.59%   12.706      4 Template:Cite_web
+  3.53%   12.470      1 Template:Delink
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1589341-0!canonical and timestamp 20171022143152 and revision id 803625778
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Large_igneous_province&amp;oldid=803625778">https://en.wikipedia.org/w/index.php?title=Large_igneous_province&amp;oldid=803625778</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Igneous_rocks" title="Category:Igneous rocks">Igneous rocks</a></li><li><a href="/wiki/Category:Petrology" title="Category:Petrology">Petrology</a></li><li><a href="/wiki/Category:Volcanology" title="Category:Volcanology">Volcanology</a></li><li><a href="/wiki/Category:Flood_basalts" title="Category:Flood basalts">Flood basalts</a></li><li><a href="/wiki/Category:Geological_hazards" title="Category:Geological hazards">Geological hazards</a></li><li><a href="/wiki/Category:Supervolcanoes" title="Category:Supervolcanoes">Supervolcanoes</a></li><li><a href="/wiki/Category:Large_igneous_provinces" title="Category:Large igneous provinces">Large igneous provinces</a></li><li><a href="/wiki/Category:Geomorphology" title="Category:Geomorphology">Geomorphology</a></li><li><a href="/wiki/Category:Orogeny" title="Category:Orogeny">Orogeny</a></li><li><a href="/wiki/Category:Climate_forcing_agents" title="Category:Climate forcing agents">Climate forcing agents</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2013" title="Category:Use dmy dates from August 2013">Use dmy dates from August 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2011" title="Category:Articles with unsourced statements from August 2011">Articles with unsourced statements from August 2011</a></li><li><a href="/wiki/Category:CS1_errors:_chapter_ignored" title="Category:CS1 errors: chapter ignored">CS1 errors: chapter ignored</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Large+igneous+province" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Large+igneous+province" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Large_igneous_province" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Large_igneous_province" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Large_igneous_province">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Large_igneous_province&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Large_igneous_province&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Large_igneous_province" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Large_igneous_province" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Large_igneous_province&amp;oldid=803625778" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Large_igneous_province&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q792425" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Large_igneous_province&amp;id=803625778" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Large+igneous+province">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Large+igneous+province&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Large_igneous_province&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D9%82%D9%84%D9%8A%D9%85_%D9%86%D8%A7%D8%B1%D9%8A_%D9%83%D8%A8%D9%8A%D8%B1" hreflang="ar" lang="ar" title="إقليم ناري كبير – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Magmatische_Gro%C3%9Fprovinz" hreflang="de" lang="de" title="Magmatische Großprovinz – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Suur_magmaprovints" hreflang="et" lang="et" title="Suur magmaprovints – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Province_magmatique" hreflang="fr" lang="fr" title="Province magmatique – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%87_%E0%A4%86%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%AF-%E0%A4%9A%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="hi" lang="hi" title="बड़े आग्नेय-चट्टानी क्षेत्र – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Grande_provincia_ignea" hreflang="it" lang="it" title="Grande provincia ignea – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he badge-Q17437796 badge-featuredarticle" title="featured article"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%98%D7%97_%D7%91%D7%96%D7%9C%D7%AA_%D7%A0%D7%A8%D7%97%D7%91" hreflang="he" lang="he" title="משטח בזלת נרחב – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Large_igneous_province" hreflang="nl" lang="nl" title="Large igneous province – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%B7%A8%E5%A4%A7%E7%81%AB%E6%88%90%E5%B2%A9%E5%B2%A9%E7%9F%B3%E5%8C%BA" hreflang="ja" lang="ja" title="巨大火成岩岩石区 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Plat%C3%A5basalt" hreflang="nn" lang="nn" title="Platåbasalt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Du%C5%BCa_prowincja_magmatyczna" hreflang="pl" lang="pl" title="Duża prowincja magmatyczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Laakiobasaltit" hreflang="fi" lang="fi" title="Laakiobasaltit – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9E%8B%E7%81%AB%E6%88%90%E5%B2%A9%E5%8C%BA%E5%9F%9F" hreflang="zh" lang="zh" title="大型火成岩区域 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q792425#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 October 2017, at 17:25.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Large_igneous_province&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.443","ppvisitednodes":{"value":2505,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79077,"limit":2097152},"templateargumentsize":{"value":2518,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  353.621      1 -total"," 45.46%  160.770      1 Template:Reflist"," 27.46%   97.113     22 Template:Cite_journal"," 12.86%   45.461      4 Template:Cite_book"," 12.69%   44.861      1 Template:Citation_needed"," 12.03%   42.556      1 Template:Fix","  7.72%   27.308      2 Template:Category_handler","  7.65%   27.058      1 Template:Use_dmy_dates","  3.59%   12.706      4 Template:Cite_web","  3.53%   12.470      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":4621338,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20171022143153","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1183"});});</script>
+</body>
+</html>

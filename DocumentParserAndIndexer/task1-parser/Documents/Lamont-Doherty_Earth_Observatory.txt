@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Lamont–Doherty Earth Observatory - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lamont–Doherty_Earth_Observatory","wgTitle":"Lamont–Doherty Earth Observatory","wgCurRevisionId":798586373,"wgRevisionId":798586373,"wgArticleId":2358436,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Coordinates not on Wikidata","Columbia University","Geology organizations","Buildings and structures in Rockland County, New York","Columbia University research institutes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lamont–Doherty_Earth_Observatory","wgRelevantArticleId":2358436,"wgRequestId":"WgIFxApAIDIAAAP1F5MAAABM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Lamont-Doherty_Earth_Observatory","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Lamont%E2%80%93Doherty_Earth_Observatory","wgCoordinates":{"lat":41.004,"lon":-73.907},"wgWikibaseItemId":"Q34051","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lamont%E2%80%93Doherty_Earth_Observatory" rel="alternate"/>
+<link href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Lamont%E2%80%93Doherty_Earth_Observatory" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lamont–Doherty_Earth_Observatory rootpage-Lamont–Doherty_Earth_Observatory vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Lamont–Doherty Earth Observatory</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Lamont-Doherty_Earth_Observatory&amp;redirect=no" title="Lamont-Doherty Earth Observatory">Lamont-Doherty Earth Observatory</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Lamont–Doherty Earth Observatory</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:LamontLogo_72dpi.jpg"><img alt="LamontLogo 72dpi.jpg" data-file-height="50" data-file-width="400" height="50" src="//upload.wikimedia.org/wikipedia/commons/6/6c/LamontLogo_72dpi.jpg" width="400"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Founded</th>
+<td class="note">1949<span style="display:none"> (<span class="bday dtstart published updated">1949</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Location</th>
+<td class="label">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Palisades,_New_York" title="Palisades, New York">Palisades, New York</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Locations</th>
+<td class="label">
+<div class="plainlist">
+<ul>
+<li>61 <a class="mw-redirect" href="/wiki/Route_9W" title="Route 9W">Route 9W</a>, <a class="mw-redirect" href="/wiki/Palisades,_NY" title="Palisades, NY">Palisades, NY</a> 10964-1000</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td><a href="/wiki/Sean_Solomon" title="Sean Solomon">Sean C. Solomon</a>, Director<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Affiliations</th>
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a>, <a class="mw-redirect" href="/wiki/Earth_Institute" title="Earth Institute">Earth Institute</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><span class="url"><a class="external text" href="http://www.ldeo.columbia.edu" rel="nofollow">www<wbr/>.ldeo<wbr/>.columbia<wbr/>.edu</a></span></td>
+</tr>
+</table>
+<p>The <b>Lamont–Doherty Earth Observatory</b> (<b>LDEO</b>) is a research unit of <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a> located on a 157-acre (64 ha) campus in Palisades, N.Y., 18 miles (29 km) north of <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a> on the <a href="/wiki/Hudson_River" title="Hudson River">Hudson River</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mission_statement"><span class="tocnumber">2</span> <span class="toctext">Mission statement</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Major_achievements"><span class="tocnumber">3</span> <span class="toctext">Major achievements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Major_divisions"><span class="tocnumber">4</span> <span class="toctext">Major divisions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Biology_and_paleo_environment"><span class="tocnumber">4.1</span> <span class="toctext">Biology and paleo environment</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Geochemistry"><span class="tocnumber">4.2</span> <span class="toctext">Geochemistry</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Marine_geology_and_geophysics"><span class="tocnumber">4.3</span> <span class="toctext">Marine geology and geophysics</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Ocean_and_climate_physics"><span class="tocnumber">4.4</span> <span class="toctext">Ocean and climate physics</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Division_of_seismology.2C_geology_and_tectonophysics"><span class="tocnumber">4.5</span> <span class="toctext">Division of seismology, geology and tectonophysics</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Office_of_Marine_Operations_and_R.2FV_Marcus_G._Langseth"><span class="tocnumber">4.6</span> <span class="toctext">Office of Marine Operations and R/V <i>Marcus G. Langseth</i></span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Department_of_Earth_and_Environmental_Sciences"><span class="tocnumber">4.7</span> <span class="toctext">Department of Earth and Environmental Sciences</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Major_facilities_and_initiatives"><span class="tocnumber">5</span> <span class="toctext">Major facilities and initiatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Core_Repository"><span class="tocnumber">5.1</span> <span class="toctext">Core Repository</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Tree_Ring_Lab"><span class="tocnumber">5.2</span> <span class="toctext">Tree Ring Lab</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Ocean_Bottom_Seismology_Lab"><span class="tocnumber">5.3</span> <span class="toctext">Ocean Bottom Seismology Lab</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Lamont_Cooperative_Seismographic_Network"><span class="tocnumber">5.4</span> <span class="toctext">Lamont Cooperative Seismographic Network</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Databases_and_Repositories"><span class="tocnumber">5.5</span> <span class="toctext">Databases and Repositories</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Lamont–Doherty Earth Observatory (LDEO) was established in 1949 as the Lamont Geological Observatory on the weekend estate of <a href="/wiki/Thomas_W._Lamont" title="Thomas W. Lamont">Thomas W.</a> and Florence Haskell Corliss Lamont, which was donated to the university for that purpose.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The Observatory’s founder and first director was <a href="/wiki/Maurice_Ewing" title="Maurice Ewing">Maurice "Doc" Ewing</a>, a seismologist who is credited with advancing efforts to study the solid Earth, particularly in areas related to using sound waves to image rock and sediments beneath the ocean floor.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> He was also the first to collect sediment <a href="/wiki/Core_sample" title="Core sample">core samples</a> from the bottom of the ocean,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> a common practice today that helps scientists study changes in the planet's climate and the ocean's <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">thermohaline circulation</a>.</p>
+<p>In 1969, the Observatory was renamed Lamont–Doherty in honor of a major gift from the Henry L. and Grace Doherty Charitable Foundation; in 1993, it was renamed the Lamont–Doherty Earth Observatory in recognition of its expertise in the broad range of Earth sciences. Lamont–Doherty Earth Observatory is Columbia University's Earth sciences research center and is a core component of the <a href="/wiki/The_Earth_Institute" title="The Earth Institute">Earth Institute</a>, a collection of academic and research units within the university that together address complex environmental issues facing the planet and its inhabitants, with particular focus on advancing scientific research to support <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> and the needs of the world's poor.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>To support its research and the work of the broader scientific community, Lamont–Doherty operates the 235-foot (72 m) research vessel, the <a href="/wiki/RV_Marcus_Langseth" title="RV Marcus Langseth">R/V <i>Marcus Langseth</i></a>, which is equipped to undertake a wide range of geological, seismological, oceanographic and biological studies. Lamont–Doherty also houses the world's largest collection of deep-sea and ocean-sediment cores as well as many specialized research laboratories.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:LDEO_Entrance.jpg"><img alt="" class="thumbimage" data-file-height="600" data-file-width="800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/LDEO_Entrance.jpg/220px-LDEO_Entrance.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/LDEO_Entrance.jpg/330px-LDEO_Entrance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/LDEO_Entrance.jpg/440px-LDEO_Entrance.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:LDEO_Entrance.jpg" title="Enlarge"></a></div>
+Entrance to Columbia University's Lamont Campus on Rt. 9W in Palisades, N.Y.</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Mission_statement">Mission statement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=2" title="Edit section: Mission statement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Lamont–Doherty Earth Observatory at Columbia University is one of the world’s leading research centers developing fundamental knowledge about the origin, evolution and future of the natural world. More than 300 research scientists and students study the planet from its deepest interior to the outer reaches of its atmosphere, on every continent and in every ocean. From global climate change to earthquakes, volcanoes, nonrenewable resources, environmental hazards and beyond, Observatory scientists provide a rational basis for the difficult choices facing humankind in the planet’s stewardship.</p>
+<h2><span class="mw-headline" id="Major_achievements">Major achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=3" title="Edit section: Major achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Among the many contributions Lamont–Doherty scientists have made to understanding of the Earth system over the years, they:</p>
+<ul>
+<li>Provided the first definitive evidence to support the theory of <a href="/wiki/Plate_tectonics" title="Plate tectonics">plate tectonics</a> and <a href="/wiki/Continental_drift" title="Continental drift">continental drift</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li>First explained the role of large-scale ocean circulation systems in <a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">abrupt climate change</a><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li>Provided the first evidence that the Earth's <a href="/wiki/Inner_core" title="Inner core">inner core</a> is spinning faster than the rest of the planet<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></li>
+<li>First to systematically study and first to create a <a href="/wiki/Marie_Tharp" title="Marie Tharp">global bathymetric map</a> of the oceans<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></li>
+<li>Demonstrated that changes in the Earth's past climate were linked to changes in the planet's <a class="mw-redirect" href="/wiki/Milankovich_cycles" title="Milankovich cycles">rotation and orbit</a> as well as the <a href="/wiki/Solar_cycle" title="Solar cycle">sun's output</a><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></li>
+<li>Made the first successful prediction of extreme weather associated with an <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o_Southern_Oscillation" title="El Niño Southern Oscillation">El Niño</a> event<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></li>
+<li>First to detect nuclear explosions using seismometers and continue monitoring work as part of the <a class="mw-redirect" href="/wiki/CTBT" title="CTBT">Comprehensive Nuclear Test Ban Treaty</a><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></li>
+<li>Developed the first lunar seismometers and conducted some of the earliest analyses of the moon's structure and tectonic activity<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Major_divisions">Major divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=4" title="Edit section: Major divisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Biology_and_paleo_environment">Biology and paleo environment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=5" title="Edit section: Biology and paleo environment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="external text" href="http://www.ldeo.columbia.edu/research/biology-paleo-environment" rel="nofollow">Division of Biology and Paleo Environment</a> (BPE) includes <a class="mw-redirect" href="/wiki/Oceanographer" title="Oceanographer">oceanographers</a>, <a href="/wiki/Geologist" title="Geologist">geologists</a>, <a class="mw-redirect" href="/wiki/Geochemist" title="Geochemist">geochemists</a>, <a href="/wiki/Biologist" title="Biologist">biologists</a> and <a class="mw-redirect" href="/wiki/Environmental_scientist" title="Environmental scientist">environmental scientists</a> who pursue research in two connected efforts. First, because all biological organisms record the environment in which they exist, BPE scientists use biology to uncover clues about earth’s past environment. They also attempt to understand how modern environmental conditions affect present-day biology. To do this, BPE scientists turn to a number of primary sources, including deep-sea sediment cores (and the fossils of <a href="/wiki/Phytoplankton" title="Phytoplankton">phytoplankton</a> and <a href="/wiki/Zooplankton" title="Zooplankton">zooplankton</a> they contain), samples from <a class="mw-redirect" href="/wiki/Coral_reefs" title="Coral reefs">coral reefs</a>, and <a href="/wiki/Dendrochronology" title="Dendrochronology">growth rings</a> of trees.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:LDEO_Comer_Building.jpg"><img alt="" class="thumbimage" data-file-height="600" data-file-width="800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LDEO_Comer_Building.jpg/220px-LDEO_Comer_Building.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LDEO_Comer_Building.jpg/330px-LDEO_Comer_Building.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LDEO_Comer_Building.jpg/440px-LDEO_Comer_Building.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:LDEO_Comer_Building.jpg" title="Enlarge"></a></div>
+The Gary C. Comer Geochemistry Laboratory Building, home of the Geochemistry Division at the Lamont–Doherty Earth Observatory</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Geochemistry">Geochemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=6" title="Edit section: Geochemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Researchers in the <a class="external text" href="http://www.ldeo.columbia.edu/research/geochemistry" rel="nofollow">Division of Geochemistry</a> study the processes, past and present, that have governed Earth’s many environments. Using <a href="/wiki/Analytical_chemistry" title="Analytical chemistry">chemical</a> and <a href="/wiki/Isotope_analysis" title="Isotope analysis">isotopic</a> analyses, division scientists study samples of air, water, biological remains, rocks and meteorites in order to address a broad range of scientific issues, ranging from the particulate and chemical pollutants emitted by the collapse of the World Trade Center, to changes in Earth's past climate, to the fundamental chemical processes involved in the differentiation and formation of the planet's <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">mantle</a> and core.</p>
+<h3><span class="mw-headline" id="Marine_geology_and_geophysics">Marine geology and geophysics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=7" title="Edit section: Marine geology and geophysics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As its name implies, scientists in the <a class="external text" href="http://www.ldeo.columbia.edu/research/marine-geology-geophysics" rel="nofollow">Division of Marine Geology and Geophysics</a> (MG&amp;G) are primarily concerned with studying the structure and evolution of the Earth's seafloor. To do so, they employ tools that include <a href="/wiki/Side-scan_sonar" title="Side-scan sonar">side-scan sonar</a> and <a href="/wiki/Reflection_seismology" title="Reflection seismology">multi-channel seismic imaging</a> to map the surface and sub-surface, as well as satellite-based <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a>. An early success of MG&amp;G researchers was the discovery of <a href="/wiki/Seafloor_spreading" title="Seafloor spreading">seafloor spreading</a>, which led to the general acceptance of plate tectonics as the broad foundation for understanding earthquake generation. Other MG&amp;G scientists study the interface between ice sheets and bedrock, sediment transport in the Hudson River, and meteorite impacts in the deep ocean.</p>
+<h3><span class="mw-headline" id="Ocean_and_climate_physics">Ocean and climate physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=8" title="Edit section: Ocean and climate physics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="external text" href="http://www.ldeo.columbia.edu/research/ocean-climate-physics" rel="nofollow">Division of Ocean and Climate Physics</a> (OCP) focuses on the links between Earth’s climate system and its oceans, including interactions involving the atmosphere, ocean circulation, planetary volcanism, the cryosphere, the biosphere and external forces such as variability of solar radiation and even the occasional asteroid impact. Scientists are also increasingly interested in understanding the nature of past and present changes to Earth’s climate—whether abrupt or gradual, regional or global—and the potential for human activities to influence the natural system.</p>
+<h3><span id="Division_of_seismology,_geology_and_tectonophysics"></span><span class="mw-headline" id="Division_of_seismology.2C_geology_and_tectonophysics">Division of seismology, geology and tectonophysics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=9" title="Edit section: Division of seismology, geology and tectonophysics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The researchers in the <a class="external text" href="http://www.ldeo.columbia.edu/research/seismology-geology-tectonophysics" rel="nofollow">Seismology, Geology and Tectonophysics Division</a> (SGT) study theoretical and observational <a href="/wiki/Seismology" title="Seismology">seismology</a>, solid Earth dynamics, rock mechanics, structural geology and tectonics, and sedimentary geology. They also contribute to understanding of <a class="mw-redirect" href="/wiki/Earthquakes" title="Earthquakes">earthquakes</a>; the structure of Earth’s <a href="/wiki/Crust_(geology)" title="Crust (geology)">crust</a>, mantle, and core; and the large-scale motions and deformation of the tectonic plates. In addition, the division operates several facilities for the scientific community. In partnership with the <a class="mw-redirect" href="/wiki/U.S._Geological_Survey" title="U.S. Geological Survey">U.S. Geological Survey</a>, SGT operates a network of seismographs throughout the northeastern U.S., supports <a href="/wiki/National_Science_Foundation" title="National Science Foundation">National Science Foundation</a> (NSF) efforts to conduct ocean-bottom seismology research, and provides accurate earthquake source mechanisms to government and academic researchers around the world.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:LDEO_Langseth.jpg"><img alt="" class="thumbimage" data-file-height="535" data-file-width="800" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/LDEO_Langseth.jpg/220px-LDEO_Langseth.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/LDEO_Langseth.jpg/330px-LDEO_Langseth.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/LDEO_Langseth.jpg/440px-LDEO_Langseth.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:LDEO_Langseth.jpg" title="Enlarge"></a></div>
+R/V <i>Marcus G. Langseth</i>, operated by the Lamont–Doherty Earth Observatory</div>
+</div>
+</div>
+<h3><span id="Office_of_Marine_Operations_and_R/V_Marcus_G._Langseth"></span><span class="mw-headline" id="Office_of_Marine_Operations_and_R.2FV_Marcus_G._Langseth">Office of Marine Operations and R/V <i>Marcus G. Langseth</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=10" title="Edit section: Office of Marine Operations and R/V Marcus G. Langseth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The history of Lamont–Doherty's seagoing research began in 1953 with the acquisition of the <a href="/wiki/RV_Vema" title="RV Vema">R/V <i>Vema</i></a> and the formation of a group within the Observatory to organize and support research missions. Today, the <a class="external text" href="http://www.ldeo.columbia.edu/research/office-of-marine-operations" rel="nofollow">Office of Marine Operations</a> oversees geophysical and oceanographic studies on board the Observatory's latest research vessel, the <a class="external text" href="https://www.webcitation.org/62u8VihFY?url=http://www.ldeo.columbia.edu/res/fac/oma/langseth/index.html" rel="nofollow">R/V <i>Marcus Langseth</i></a>, and conducts its own research on the character and operation of various geophysical imaging systems employed by the scientific community.</p>
+<h3><span class="mw-headline" id="Department_of_Earth_and_Environmental_Sciences">Department of Earth and Environmental Sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=11" title="Edit section: Department of Earth and Environmental Sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Robin%2BBell_Lamont_Doherty_Earth_Observatory.jpg"><img alt="" class="thumbimage" data-file-height="300" data-file-width="300" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Robin%2BBell_Lamont_Doherty_Earth_Observatory.jpg/220px-Robin%2BBell_Lamont_Doherty_Earth_Observatory.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/b/b3/Robin%2BBell_Lamont_Doherty_Earth_Observatory.jpg 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Robin%2BBell_Lamont_Doherty_Earth_Observatory.jpg" title="Enlarge"></a></div>
+LDEO scientist <a href="/wiki/Robin_Bell_(scientist)" title="Robin Bell (scientist)">Robin Bell</a> at her computer showing a mountain range found under the Antarctic ice.</div>
+</div>
+</div>
+<p>The Department of Earth and Environmental Sciences (DEES) is the educational arm of Columbia University located on the Lamont–Doherty campus to train graduate and undergraduate students enrolled at the university and at Barnard College. The Lamont–Doherty office of DEES primarily supports the department's graduate program, though many undergraduate students take classes and conduct research at the Observatory. At any given time, between 80 and 90 Ph.D. students are working towards degrees in specialties that include aqueous geochemistry, <a class="mw-redirect" href="/wiki/Atmospheric_science" title="Atmospheric science">atmospheric science</a>, <a class="mw-redirect" href="/wiki/Climate_science" title="Climate science">climate science</a>, <a href="/wiki/Ecophysiology" title="Ecophysiology">ecophysiology</a>, <a href="/wiki/Geology" title="Geology">geology</a>, <a href="/wiki/Paleoclimatology" title="Paleoclimatology">paleoclimatology</a>, <a href="/wiki/Paleontology" title="Paleontology">paleontology</a>, <a href="/wiki/Physical_oceanography" title="Physical oceanography">physical oceanography</a>, solid Earth <a href="/wiki/Geophysics" title="Geophysics">geophysics</a>, and solid Earth <a href="/wiki/Geochemistry" title="Geochemistry">geochemistry</a>. Specific programs at Lamont–Doherty are conducted with many education-affiliates at Columbia and elsewhere in the New York metro area.</p>
+<h2><span class="mw-headline" id="Major_facilities_and_initiatives">Major facilities and initiatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=12" title="Edit section: Major facilities and initiatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:LDEO_DSS_Repository.jpg"><img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LDEO_DSS_Repository.jpg/220px-LDEO_DSS_Repository.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LDEO_DSS_Repository.jpg/330px-LDEO_DSS_Repository.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LDEO_DSS_Repository.jpg/440px-LDEO_DSS_Repository.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:LDEO_DSS_Repository.jpg" title="Enlarge"></a></div>
+One of the 13,000+ physical samples housed in the Lamont Core Repository at the Lamont–Doherty Earth Observatory</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Core_Repository">Core Repository</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=13" title="Edit section: Core Repository">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="external text" href="http://www.ldeo.columbia.edu/res/fac/CORE_REPOSITORY/RHP1.html" rel="nofollow">Lamont–Doherty Core Repository</a> is both an archive of sediment and rocks from on and beneath the ocean floor and an archive of digital data pertaining to the material. The repository contains more than 7,200 meters of core, from every ocean and sea, and many other samples. They are used to study Earth's climate and environment, in other research areas, and for educational purposes.</p>
+<h3><span class="mw-headline" id="Tree_Ring_Lab">Tree Ring Lab</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=14" title="Edit section: Tree Ring Lab">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="external text" href="http://www.ldeo.columbia.edu/res/fac/trl/" rel="nofollow">Tree-Ring Lab</a> (TRL) is dedicated to the application of tree-ring research around the world to improve understanding of Earth's past climate and environmental history. Current research concentrates on the use of tree-ring data networks to study regional climate, global climate teleconnections and anthropogenic impacts on tree growth, and on developing new quantitative techniques.</p>
+<h3><span class="mw-headline" id="Ocean_Bottom_Seismology_Lab">Ocean Bottom Seismology Lab</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=15" title="Edit section: Ocean Bottom Seismology Lab">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="external text" href="http://www.ldeo.columbia.edu/research/seismology-geology-tectonophysics/ocean-bottom-seismology" rel="nofollow">Ocean Bottom Seismology (OBS) Lab</a> develops and operates instruments used to measure deformation of the ocean floor in cooperation with the NSF's <a class="external text" href="http://obsip.ucsd.edu/" rel="nofollow">National Ocean Bottom Seismograph Instrumentation Pool</a> (OBSIP). These instruments permit the study of such phenomena as seafloor spreading and the formation of new crust, convective and hydrothermal processes beneath the seafloor, and the fate of subducting slabs.</p>
+<h3><span class="mw-headline" id="Lamont_Cooperative_Seismographic_Network">Lamont Cooperative Seismographic Network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=16" title="Edit section: Lamont Cooperative Seismographic Network">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="external text" href="http://www.ldeo.columbia.edu/LCSN/" rel="nofollow">Lamont–Doherty Cooperative Seismographic Network</a> (LCSN) operates 40 seismographic stations in seven states—Connecticut, Delaware, Maryland, New Jersey, New York, Pennsylvania and Vermont—to monitor earthquakes occurring primarily in the eastern U.S. The network is an active member of the <a class="external text" href="https://earthquake.usgs.gov/monitoring/anss/" rel="nofollow">Advanced National Seismic System</a> (ANSS), which is a key input to the USGS National Seismic Hazard Maps. It also provides professional development among station operators.</p>
+<h3><span class="mw-headline" id="Databases_and_Repositories">Databases and Repositories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=17" title="Edit section: Databases and Repositories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lamont–Doherty is home to a wide range of geophysical <a class="external text" href="http://www.ldeo.columbia.edu/research/databases-repositories" rel="nofollow">databases and repositories</a> that aid in scientific research, education and outreach. Many of the databases are available online, and the repositories of physical samples, which are open to access by researchers and students from around the world, also make an increasing portion of their holdings available digitally.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Allan_B%C3%A9" title="Allan Bé">Allan Bé</a>, micropaleontologist who worked at the lab</li>
+<li>The <a href="/wiki/Center_for_Climate_and_Life" title="Center for Climate and Life">Center for Climate and Life</a>, located at Lamont-Doherty</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.ldeo.columbia.edu/directory" rel="nofollow">http://www.ldeo.columbia.edu/directory</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.ldeo.columbia.edu/about-ldeo/history-lamont-0" rel="nofollow">LDEO History</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.ldeo.columbia.edu/research/marine-geology-geophysics/mg-g-history" rel="nofollow">Marine Geology History</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">R. L. Bond, "A Core a Day Keeps 'Doc' Happy," L. Lippsett, (ed.), <i>Lamont–Doherty Earth Observatory: Twelve Perspectives on the First Fifty Years (1949–1999)</i>, (Columbia Univ. Press: New York, 1999), 75–84; available at <a class="external free" href="http://www.ldeo.columbia.edu/res/fac/CORE_REPOSITORY/RHP5d.html" rel="nofollow">http://www.ldeo.columbia.edu/res/fac/CORE_REPOSITORY/RHP5d.html</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.earth.columbia.edu" rel="nofollow">The Earth Institute</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">N. D. Opdyke, et al., "Paleomagnetic study of Antarctic deep-sea cores," <i>Science</i> 154(1966): 349–357.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Heirtzler, J. R., et al., "Marine magnetic anomalies, geomagnetic field reversals, and motions of the ocean floor and continents," <i>Journal of Geophysics Research</i>, 73(1968): 2119–2136.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Pitman, W. and M. Talwani, "Sea-floor spreading in the North Atlantic," <i>GSA Bulletin</i>, 83(1972): 619–646.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">W. Broecker and G. Denton, "The role of ocean-atmosphere reorganizations in glacial cycles," <i>Geochemica</i>, 53(1989): 2465–2501.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">X. Song and P. G. Richards, "Seismological evidence for differential rotation of the Earth's inner core," <i>Nature</i>, 382(1996): 1131–1137.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">J. Zhang, et al., "Inner core differential motion confirmed by earthquake waveform doublets," <i>Science</i>, 309(2005): 1357–1360.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">M. Tharp, "Connect the dots: Mapping the seafloor and discovering the mid-ocean ridge," L. Lippsett, (ed.), <i>Lamont–Doherty Earth Observatory: Twelve Perspectives on the First Fifty Years (1949–1999)</i>, (Columbia Univ. Press: New York, 1999), 31–37, available at: <a class="external free" href="http://www.whoi.edu/sbl/liteSite.do?litesiteid9092&amp;articleId13407" rel="nofollow">http://www.whoi.edu/sbl/liteSite.do?litesiteid9092&amp;articleId13407</a>.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">M. Ewing and W. L. Donn, "A theory of ice ages," <i>Science</i>, 123(1956): 1061–1066.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">CLIMAP, "The Surface of the ice-age Earth," <i>Science</i>, 191(1976): 1131–1137.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">J. D. Hays, J. Imbrie, and N. J. Shackleton, "Variations in Earth's orbit—Pacemaker of ice ages," <i>Science</i>, 194(1976): 1121–1132.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">G. Bond, et al., "Persistent solar influence on North Atlantic climate during the Holocene," <i>Science</i>, 294(2001): 2130–2136.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">M. A. Cane, S. E. Zebiak and S. C. Dolan, "Experimental forecasts of El Niño," <i>Nature</i>, 321(1986): 827–832.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">M. A. Cane, et al., "Forecasting Zimbabwean maize yield using eastern equatorial Pacific sea-surface temperature," <i>Nature</i>, 370(1994): 204 – 205.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">J. Oliver and M. Ewing, "Seismic surface waves at Palisades from explosions in Nevada and the Marshal Islands," <i>PNAS</i>, 44(1958): 780–785.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">P. Richards and W-Y. Kim, "Advances in Monitoring Nuclear Weapon Testing," <i>Scientific American</i>, March 2009, available at: <a class="external free" href="http://www.sciam.com/article.cfm?idadvances-in-monitoring-nuclear" rel="nofollow">http://www.sciam.com/article.cfm?idadvances-in-monitoring-nuclear</a>.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">G. Latham, et al., "Moonquakes and lunar tectonism," <i>Earth, Moon, and Planets</i>, 4(1972): 373–382.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.ldeo.columbia.edu/" rel="nofollow">Lamont–Doherty Earth Observatory Website</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lamont%E2%80%93Doherty_Earth_Observatory&amp;params=41.004_N_73.907_W_source:dewiki"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">41°00′14″N</span> <span class="longitude">73°54′25″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">41.004°N 73.907°W</span><span style="display:none">﻿ / <span class="geo">41.004; -73.907</span></span></span></a></span></span></span></p>
+<p><br/></p>
+<div aria-labelledby="Columbia_University" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col" style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Columbia" title="Template:Columbia"><abbr style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Columbia" title="Template talk:Columbia"><abbr style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Columbia&amp;action=edit"><abbr style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Columbia_University" style="font-size:114%;margin:0 4em"><a href="/wiki/Columbia_University" title="Columbia University"><span style="background-color: #75AADB; color:white;">Columbia University</span></a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;width:1%">Academics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Columbia_College,_Columbia_University" title="Columbia College, Columbia University">College</a></li>
+<li><a href="/wiki/Fu_Foundation_School_of_Engineering_and_Applied_Science" title="Fu Foundation School of Engineering and Applied Science">Engineering</a></li>
+<li><a href="/wiki/Columbia_University_School_of_General_Studies" title="Columbia University School of General Studies">General Studies</a></li>
+<li><a href="/wiki/Columbia_Graduate_School_of_Architecture,_Planning_and_Preservation" title="Columbia Graduate School of Architecture, Planning and Preservation">Architecture</a></li>
+<li><a href="/wiki/Columbia_University_School_of_the_Arts" title="Columbia University School of the Arts">Arts</a></li>
+<li><a href="/wiki/Columbia_Graduate_School_of_Arts_and_Sciences" title="Columbia Graduate School of Arts and Sciences">Arts and Sciences</a></li>
+<li><a href="/wiki/Columbia_Business_School" title="Columbia Business School">Business</a></li>
+<li><a class="mw-redirect" href="/wiki/Columbia_School_of_Professional_Studies" title="Columbia School of Professional Studies">Professional Studies</a></li>
+<li><a href="/wiki/Columbia_University_College_of_Dental_Medicine" title="Columbia University College of Dental Medicine">Dental</a></li>
+<li><a href="/wiki/Columbia_University_Graduate_School_of_Journalism" title="Columbia University Graduate School of Journalism">Journalism</a></li>
+<li><a href="/wiki/Columbia_Law_School" title="Columbia Law School">Law</a></li>
+<li><a href="/wiki/Columbia_University_College_of_Physicians_and_Surgeons" title="Columbia University College of Physicians and Surgeons">Medicine</a></li>
+<li><a href="/wiki/Columbia_University_School_of_Nursing" title="Columbia University School of Nursing">Nursing</a></li>
+<li><a href="/wiki/School_of_International_and_Public_Affairs,_Columbia_University" title="School of International and Public Affairs, Columbia University">International Affairs</a></li>
+<li><a href="/wiki/Columbia_University_Mailman_School_of_Public_Health" title="Columbia University Mailman School of Public Health">Public Health</a></li>
+<li><a href="/wiki/Columbia_University_School_of_Social_Work" title="Columbia University School of Social Work">Social Work</a></li>
+<li><a href="/wiki/Barnard_College" title="Barnard College">Barnard</a> (affiliate)</li>
+<li><a href="/wiki/List_College" title="List College">List College</a> (affiliate)</li>
+<li><a href="/wiki/Teachers_College,_Columbia_University" title="Teachers College, Columbia University">Teachers College</a></li>
+<li><a href="/wiki/Union_Theological_Seminary_(New_York_City)" title="Union Theological Seminary (New York City)">UTS</a></li>
+<li><span class="nowrap"><a href="/wiki/The_School_at_Columbia_University" title="The School at Columbia University">The School</a> (K–8 affiliate)</span></li>
+<li><a href="/wiki/Columbia_University_Science_Honors_Program" title="Columbia University Science Honors Program">Science Honors Program</a></li>
+<li><a href="/wiki/Columbia_Grammar_%26_Preparatory_School" title="Columbia Grammar &amp; Preparatory School">Columbia Grammar &amp; Preparatory School</a> (former)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Low_Library_Columbia_University_8-11-06.jpg"><img alt="Low Library Columbia University 8-11-06.jpg" data-file-height="2112" data-file-width="2816" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Low_Library_Columbia_University_8-11-06.jpg/105px-Low_Library_Columbia_University_8-11-06.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Low_Library_Columbia_University_8-11-06.jpg/158px-Low_Library_Columbia_University_8-11-06.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Low_Library_Columbia_University_8-11-06.jpg/210px-Low_Library_Columbia_University_8-11-06.jpg 2x" width="105"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;width:1%">Institutes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barnard_Center_for_Research_on_Women" title="Barnard Center for Research on Women">Barnard Center for Research on Women</a></li>
+<li><a href="/wiki/Columbia_Institute_for_Tele-Information" title="Columbia Institute for Tele-Information">Columbia Institute for Tele-Information</a></li>
+<li><a href="/wiki/Columbia_University_Medical_Center" title="Columbia University Medical Center">Columbia University Medical Center</a></li>
+<li><a href="/wiki/The_Earth_Institute" title="The Earth Institute">The Earth Institute</a></li>
+<li><a href="/wiki/Goddard_Institute_for_Space_Studies" title="Goddard Institute for Space Studies">Goddard Institute</a></li>
+<li><a class="mw-selflink selflink">Lamont–Doherty Earth Observatory</a></li>
+<li><a href="/wiki/Nevis_Laboratories" title="Nevis Laboratories">Nevis Laboratories</a></li>
+<li><a href="/wiki/New_York_State_Psychiatric_Institute" title="New York State Psychiatric Institute">New York State Psychiatric Institute</a></li>
+<li>Institute for the Study of Human Rights</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;width:1%">Athletics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Columbia_Lions" title="Columbia Lions">Columbia Lions</a></li>
+<li><a href="/wiki/Columbia_Lions_football" title="Columbia Lions football">Football</a></li>
+<li><a href="/wiki/Columbia_Lions_baseball" title="Columbia Lions baseball">Baseball</a></li>
+<li><a href="/wiki/Columbia_Lions_men%27s_basketball" title="Columbia Lions men's basketball">Men's basketball</a></li>
+<li><a href="/wiki/Columbia_Lions_women%27s_basketball" title="Columbia Lions women's basketball">Women's basketball</a></li>
+<li><a href="/wiki/Columbia_Lions_fencing" title="Columbia Lions fencing">Fencing</a></li>
+<li><a href="/wiki/Deans%27_Cup" title="Deans' Cup">Deans' Cup</a></li>
+<li><a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a></li>
+<li><a href="/wiki/Columbia_University_Marching_Band" title="Columbia University Marching Band">Marching Band</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;width:1%">Campus</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Columbia_University_Medical_Center" title="Columbia University Medical Center">Medical Center</a></li>
+<li><a href="/wiki/Manhattanville,_Manhattan" title="Manhattanville, Manhattan">Manhattanville</a></li>
+<li><a href="/wiki/Morningside_Heights,_Manhattan" title="Morningside Heights, Manhattan">Morningside Heights</a></li>
+<li><a href="/wiki/Columbia_University_tunnels" title="Columbia University tunnels">Tunnel system</a></li>
+<li><a class="mw-selflink selflink">Lamont</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;width:1%">Student life</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Columbia_Daily_Spectator" title="Columbia Daily Spectator">Daily Spectator</a></i></li>
+<li><i><a href="/wiki/Bwog" title="Bwog">Bwog</a></i></li>
+<li><a href="/wiki/WKCR-FM" title="WKCR-FM">WKCR</a></li>
+<li><a href="/wiki/WBAR_(college_radio)" title="WBAR (college radio)">WBAR</a></li>
+<li><a href="/wiki/Varsity_Show" title="Varsity Show">Varsity Show</a></li>
+<li><a class="new" href="/w/index.php?title=Columbia_(literary_journal)&amp;action=edit&amp;redlink=1" title="Columbia (literary journal) (page does not exist)"><i>Columbia</i> magazine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background-color:#75AADB;color:white;-moz-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; -webkit-box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295; box-shadow: inset 2px 2px 0 #005295, inset -2px -2px 0 #005295;;width:1%">People</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Columbia_University_people" title="List of Columbia University people">Notable alumni and faculty</a></li>
+<li><a href="/wiki/List_of_Presidents_of_Columbia_University" title="List of Presidents of Columbia University">Presidents</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20171020124626
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.290 seconds
+Preprocessor visited node count: 1423/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32007/2097152 bytes
+Template argument size: 861/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.093/10.000 seconds
+Lua memory usage: 3.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  229.161      1 -total
+ 43.59%   99.883      1 Template:Infobox_non-profit
+ 23.57%   54.019      1 Template:Infobox
+ 19.95%   45.707      1 Template:Columbia
+ 18.66%   42.763      1 Template:Navbox
+ 13.48%   30.896      3 Template:Convert
+ 12.29%   28.171      1 Template:Tfm/dated
+ 12.16%   27.864      1 Template:Coord
+ 12.10%   27.722      1 Template:CollegePrimaryStyle
+  6.65%   15.242      2 Template:Unbulleted_list
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2358436-0!canonical and timestamp 20171020124625 and revision id 798586373
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lamont–Doherty_Earth_Observatory&amp;oldid=798586373">https://en.wikipedia.org/w/index.php?title=Lamont–Doherty_Earth_Observatory&amp;oldid=798586373</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Columbia_University" title="Category:Columbia University">Columbia University</a></li><li><a href="/wiki/Category:Geology_organizations" title="Category:Geology organizations">Geology organizations</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Rockland_County,_New_York" title="Category:Buildings and structures in Rockland County, New York">Buildings and structures in Rockland County, New York</a></li><li><a href="/wiki/Category:Columbia_University_research_institutes" title="Category:Columbia University research institutes">Columbia University research institutes</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Coordinates_not_on_Wikidata" title="Category:Coordinates not on Wikidata">Coordinates not on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lamont%E2%80%93Doherty+Earth+Observatory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lamont%E2%80%93Doherty+Earth+Observatory" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Lamont%E2%80%93Doherty_Earth_Observatory" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Lamont%E2%80%93Doherty_Earth_Observatory" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Lamont%E2%80%93Doherty_Earth_Observatory">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Lamont%E2%80%93Doherty_Earth_Observatory" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lamont%E2%80%93Doherty_Earth_Observatory" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;oldid=798586373" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q34051" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lamont%E2%80%93Doherty_Earth_Observatory&amp;id=798586373" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lamont%E2%80%93Doherty+Earth+Observatory">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lamont%E2%80%93Doherty+Earth+Observatory&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lamont-Doherty_Earth_Observatory" hreflang="de" lang="de" title="Lamont-Doherty Earth Observatory – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Lamont-Doherty_Earth_Observatory" hreflang="fr" lang="fr" title="Lamont-Doherty Earth Observatory – French">Français</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q34051#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 September 2017, at 19:29.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lamont%E2%80%93Doherty_Earth_Observatory&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.290","ppvisitednodes":{"value":1423,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":32007,"limit":2097152},"templateargumentsize":{"value":861,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  229.161      1 -total"," 43.59%   99.883      1 Template:Infobox_non-profit"," 23.57%   54.019      1 Template:Infobox"," 19.95%   45.707      1 Template:Columbia"," 18.66%   42.763      1 Template:Navbox"," 13.48%   30.896      3 Template:Convert"," 12.29%   28.171      1 Template:Tfm/dated"," 12.16%   27.864      1 Template:Coord"," 12.10%   27.722      1 Template:CollegePrimaryStyle","  6.65%   15.242      2 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.093","limit":"10.000"},"limitreport-memusage":{"value":4082725,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20171020124626","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1180"});});</script>
+</body>
+</html>

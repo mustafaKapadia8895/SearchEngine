@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Mafic - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mafic","wgTitle":"Mafic","wgCurRevisionId":790728767,"wgRevisionId":790728767,"wgArticleId":21040,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2017","Mineralogy","Igneous petrology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mafic","wgRelevantArticleId":21040,"wgRequestId":"WgH3ugpAEKoAABWdW5gAAABF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Basaltic_lava","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Mafic","wgWikibaseItemId":"Q764372","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/0/08/BasaltUSGOV.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mafic" rel="alternate"/>
+<link href="/w/index.php?title=Mafic&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Mafic&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Mafic" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mafic rootpage-Mafic vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Mafic</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Basaltic_lava&amp;redirect=no" title="Basaltic lava">Basaltic lava</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:BasaltUSGOV.jpg"><img alt="" class="thumbimage" data-file-height="261" data-file-width="360" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BasaltUSGOV.jpg/220px-BasaltUSGOV.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BasaltUSGOV.jpg/330px-BasaltUSGOV.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/08/BasaltUSGOV.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:BasaltUSGOV.jpg" title="Enlarge"></a></div>
+Basalt</div>
+</div>
+</div>
+<p><b>Mafic</b> is an adjective describing a <a class="mw-redirect" href="/wiki/Silicate_mineral" title="Silicate mineral">silicate mineral</a> or <a href="/wiki/Igneous_rock" title="Igneous rock">igneous rock</a> that is rich in <a href="/wiki/Magnesium" title="Magnesium">magnesium</a> and <a href="/wiki/Iron" title="Iron">iron</a>, and is thus a <a href="/wiki/Portmanteau" title="Portmanteau">portmanteau</a> of <b>ma</b>gnesium and <a href="/wiki/Ferric" title="Ferric"><b>f</b>err<b>ic</b></a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Most mafic minerals are dark in color, and common rock-forming mafic minerals include <a href="/wiki/Olivine" title="Olivine">olivine</a>, <a href="/wiki/Pyroxene" title="Pyroxene">pyroxene</a>, <a href="/wiki/Amphibole" title="Amphibole">amphibole</a>, and <a href="/wiki/Biotite" title="Biotite">biotite</a>. Common mafic rocks include <a href="/wiki/Basalt" title="Basalt">basalt</a>, <a href="/wiki/Diabase" title="Diabase">diabase</a> and <a href="/wiki/Gabbro" title="Gabbro">gabbro</a>. Mafic rocks often also contain calcium-rich varieties of <a href="/wiki/Plagioclase" title="Plagioclase">plagioclase</a> feldspar.</p>
+<p>Chemically, mafic rocks are on the other side of the rock spectrum from the <a href="/wiki/Felsic" title="Felsic">felsic</a> rocks. The term roughly corresponds to the older <b>basic rock</b> class.</p>
+<p>Mafic <a href="/wiki/Lava" title="Lava">lava</a>, before cooling, has a low <a href="/wiki/Viscosity" title="Viscosity">viscosity</a>, in comparison with felsic lava, due to the lower <a class="mw-redirect" href="/wiki/Silica" title="Silica">silica</a> content in mafic <a href="/wiki/Magma" title="Magma">magma</a>. Water and other volatiles can more easily and gradually escape from mafic lava. As a result, eruptions of volcanoes made of mafic lavas are less explosively violent than felsic-lava eruptions. Most mafic-lava volcanoes are <a href="/wiki/Shield_volcano" title="Shield volcano">shield volcanoes</a>,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2017)">citation needed</span></a></i>]</sup> like those in <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>.</p>
+<table class="wikitable">
+<tr>
+<th>Rock texture</th>
+<th>Name of mafic rock</th>
+</tr>
+<tr>
+<td><a href="/wiki/Pegmatite" title="Pegmatite">Pegmatitic</a></td>
+<td><a href="/wiki/Gabbro" title="Gabbro">Gabbro</a> <a href="/wiki/Pegmatite" title="Pegmatite">pegmatite</a></td>
+</tr>
+<tr>
+<td>Coarse grained (<a class="mw-redirect" href="/wiki/Phaneritic" title="Phaneritic">phaneritic</a>)</td>
+<td><a href="/wiki/Gabbro" title="Gabbro">Gabbro</a></td>
+</tr>
+<tr>
+<td>Coarse grained and <a href="/wiki/Porphyritic" title="Porphyritic">porphyritic</a></td>
+<td>Porphyritic <a href="/wiki/Gabbro" title="Gabbro">gabbro</a></td>
+</tr>
+<tr>
+<td>Medium grained</td>
+<td><a href="/wiki/Diabase" title="Diabase">Diabase</a> or <a class="mw-redirect" href="/wiki/Dolerite" title="Dolerite">Dolerite</a>, Microgabbro</td>
+</tr>
+<tr>
+<td>Fine grained (<a class="mw-redirect" href="/wiki/Aphanitic" title="Aphanitic">aphanitic</a>)</td>
+<td><a href="/wiki/Basalt" title="Basalt">Basalt</a></td>
+</tr>
+<tr>
+<td>Fine grained and porphyritic</td>
+<td>Porphyritic basalt</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Pyroclastic" title="Pyroclastic">Pyroclastic</a></td>
+<td><a href="/wiki/Basalt" title="Basalt">Basalt</a> <a href="/wiki/Tuff" title="Tuff">tuff</a> or <a href="/wiki/Breccia" title="Breccia">breccia</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Vesicular_texture" title="Vesicular texture">Vesicular</a></td>
+<td>Vesicular <a href="/wiki/Basalt" title="Basalt">basalt</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Amygdule" title="Amygdule">Amygdaloidal</a></td>
+<td>Amygdaloidal <a href="/wiki/Basalt" title="Basalt">basalt</a></td>
+</tr>
+<tr>
+<td>Many small vesicles</td>
+<td><a href="/wiki/Scoria" title="Scoria">Scoria</a></td>
+</tr>
+<tr>
+<td>Glassy texture</td>
+<td><a class="mw-redirect" href="/wiki/Tachylyte" title="Tachylyte">Tachylyte</a>, <a href="/wiki/Sideromelane" title="Sideromelane">sideromelane</a>, <a href="/wiki/Palagonite" title="Palagonite">palagonite</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mafic&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/QAPF_diagram" title="QAPF diagram">QAPF diagram</a></li>
+<li><a href="/wiki/List_of_minerals" title="List of minerals">List of minerals</a></li>
+<li><a href="/wiki/List_of_rock_types" title="List of rock types">List of rock types</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mafic&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.glossary.oilfield.slb.com/en/Terms/m/mafic.aspx" rel="nofollow">Schlumberger: Oilfield Glossary</a></span></li>
+</ol>
+</div>
+</div>
+<div aria-labelledby="Common_igneous_rocks_classified_by_silicon_dioxide_content" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Igneous_rocks" title="Template:Igneous rocks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Igneous_rocks" title="Template talk:Igneous rocks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Igneous_rocks&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Common_igneous_rocks_classified_by_silicon_dioxide_content" style="font-size:114%;margin:0 4em">Common <a href="/wiki/Igneous_rock" title="Igneous rock">igneous rocks</a> classified by <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">silicon dioxide</a> content</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;">Type</td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a href="/wiki/Ultramafic_rock" title="Ultramafic rock">Ultramafic</a><br/>
+&lt;45% <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">SiO<sub>2</sub></a></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a class="mw-selflink selflink">Mafic</a><br/>
+45–52% <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">SiO<sub>2</sub></a></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a href="/wiki/Intermediate_composition" title="Intermediate composition">Intermediate</a><br/>
+52–63% <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">SiO<sub>2</sub></a></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a href="/wiki/Intermediate_composition" title="Intermediate composition">Intermediate</a>–<a href="/wiki/Felsic" title="Felsic">felsic</a><br/>
+63–69% <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">SiO<sub>2</sub></a></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><a href="/wiki/Felsic" title="Felsic">Felsic</a><br/>
+&gt;69% <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">SiO<sub>2</sub></a></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align: center;;;width:12%;">
+<div>
+<p><b><a href="/wiki/Volcanic_rock" title="Volcanic rock">Volcanic rocks</a>:</b><br/>
+<b><a href="/wiki/Subvolcanic_rock" title="Subvolcanic rock">Subvolcanic rocks</a>:</b><br/>
+<b><a href="/wiki/Pluton" title="Pluton">Plutonic rocks</a>:</b></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:12%;">
+<div>
+<p><a href="/wiki/Komatiite" title="Komatiite">Komatiite</a>, <a href="/wiki/Picrite_basalt" title="Picrite basalt">Picrite basalt</a><br/>
+<a href="/wiki/Kimberlite" title="Kimberlite">Kimberlite</a>, <a href="/wiki/Lamproite" title="Lamproite">Lamproite</a><br/>
+<a href="/wiki/Peridotite" title="Peridotite">Peridotite</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:12%;">
+<div>
+<p><a href="/wiki/Basalt" title="Basalt">Basalt</a><br/>
+<a href="/wiki/Diabase" title="Diabase">Diabase (Dolerite)</a><br/>
+<a href="/wiki/Gabbro" title="Gabbro">Gabbro</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:12%;">
+<div>
+<p><a href="/wiki/Andesite" title="Andesite">Andesite</a><br/>
+Micro<a href="/wiki/Diorite" title="Diorite">diorite</a><br/>
+<a href="/wiki/Diorite" title="Diorite">Diorite</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:12%;">
+<div>
+<p><a href="/wiki/Dacite" title="Dacite">Dacite</a><br/>
+Micro<a href="/wiki/Granodiorite" title="Granodiorite">granodiorite</a><br/>
+<a href="/wiki/Granodiorite" title="Granodiorite">Granodiorite</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:12%;">
+<div>
+<p><a href="/wiki/Rhyolite" title="Rhyolite">Rhyolite</a><br/>
+Micro<a href="/wiki/Granite" title="Granite">granite</a>, <a href="/wiki/Aplite" title="Aplite">Aplite</a><br/>
+<a href="/wiki/Granite" title="Granite">Granite</a></p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20171106072940
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.122 seconds
+Preprocessor visited node count: 651/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19929/2097152 bytes
+Template argument size: 2339/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.030/10.000 seconds
+Lua memory usage: 1.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   94.647      1 -total
+ 68.95%   65.263      1 Template:Citation_needed
+ 51.03%   48.296      1 Template:Fix
+ 28.77%   27.232      2 Template:Category_handler
+ 22.67%   21.455      1 Template:Igneous_rocks
+ 19.97%   18.905      1 Template:Navbox_with_columns
+ 19.29%   18.260      1 Template:Delink
+ 10.80%   10.225      1 Template:Navbox
+  8.15%    7.710      1 Template:Reflist
+  3.95%    3.739      1 Template:Fix/category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21040-0!canonical and timestamp 20171106072940 and revision id 790728767
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mafic&amp;oldid=790728767">https://en.wikipedia.org/w/index.php?title=Mafic&amp;oldid=790728767</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Mineralogy" title="Category:Mineralogy">Mineralogy</a></li><li><a href="/wiki/Category:Igneous_petrology" title="Category:Igneous petrology">Igneous petrology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2017" title="Category:Articles with unsourced statements from January 2017">Articles with unsourced statements from January 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mafic" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mafic" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Mafic" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Mafic" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Mafic">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Mafic&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Mafic&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Mafic" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Mafic" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mafic&amp;oldid=790728767" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mafic&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q764372" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mafic&amp;id=790728767" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mafic">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mafic&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Mafic&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Mafies" hreflang="af" lang="af" title="Mafies – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B5%D8%AE%D8%B1_%D9%85%D8%A7%D9%81%D9%8A" hreflang="ar" lang="ar" title="صخر مافي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D0%BD" hreflang="bg" lang="bg" title="Мафичен – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/M%C3%A0fic" hreflang="ca" lang="ca" title="Màfic – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mafity" hreflang="cs" lang="cs" title="Mafity – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mafische_Minerale" hreflang="de" lang="de" title="Mafische Minerale – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/V%C3%A4rvilised_mineraalid" hreflang="et" lang="et" title="Värvilised mineraalid – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/M%C3%A1fico" hreflang="es" lang="es" title="Máfico – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Mafiko" hreflang="eu" lang="eu" title="Mafiko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%81%DB%8C%DA%A9" hreflang="fa" lang="fa" title="مافیک – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Mafique" hreflang="fr" lang="fr" title="Mafique – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Mafik" hreflang="id" lang="id" title="Mafik – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Bas%C3%ADsk_kvika" hreflang="is" lang="is" title="Basísk kvika – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Femico" hreflang="it" lang="it" title="Femico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%A4%D7%99" hreflang="he" lang="he" title="מאפי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%B2%E0%B3%8D%E0%B2%AA%E0%B2%B8%E0%B2%BF%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B2%BE%E0%B2%82%E0%B2%B6_%E0%B2%B6%E0%B2%BF%E0%B2%B2%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81" hreflang="kn" lang="kn" title="ಅಲ್ಪಸಿಲಿಕಾಂಶ ಶಿಲೆಗಳು – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Saxum_maficum" hreflang="la" lang="la" title="Saxum maficum – Latin">Latina</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Mafisch" hreflang="nl" lang="nl" title="Mafisch – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%8B%A6%E9%89%84%E8%B3%AA" hreflang="ja" lang="ja" title="苦鉄質 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Mafisk_mineral" hreflang="no" lang="no" title="Mafisk mineral – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Mafiske_mineral" hreflang="nn" lang="nn" title="Mafiske mineral – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/M%C3%A1fico" hreflang="pt" lang="pt" title="Máfico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Mafic" hreflang="simple" lang="simple" title="Mafic – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Mafick%C3%BD" hreflang="sk" lang="sk" title="Mafický – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Mafi%C4%8Dnost" hreflang="sl" lang="sl" title="Mafičnost – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Mafinen" hreflang="fi" lang="fi" title="Mafinen – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Basisk_bergart" hreflang="sv" lang="sv" title="Basisk bergart – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Mafik" hreflang="tr" lang="tr" title="Mafik – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%96_%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D0%BE%D1%80%D0%BE%D0%B4%D0%B8" hreflang="uk" lang="uk" title="Основні гірські породи – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Mafic" hreflang="vi" lang="vi" title="Mafic – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%93%81%E9%95%81%E8%B4%A8" hreflang="zh" lang="zh" title="铁镁质 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q764372#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 July 2017, at 18:25.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Mafic&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.122","ppvisitednodes":{"value":651,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19929,"limit":2097152},"templateargumentsize":{"value":2339,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   94.647      1 -total"," 68.95%   65.263      1 Template:Citation_needed"," 51.03%   48.296      1 Template:Fix"," 28.77%   27.232      2 Template:Category_handler"," 22.67%   21.455      1 Template:Igneous_rocks"," 19.97%   18.905      1 Template:Navbox_with_columns"," 19.29%   18.260      1 Template:Delink"," 10.80%   10.225      1 Template:Navbox","  8.15%    7.710      1 Template:Reflist","  3.95%    3.739      1 Template:Fix/category"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"10.000"},"limitreport-memusage":{"value":1147131,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20171106072940","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1215"});});</script>
+</body>
+</html>

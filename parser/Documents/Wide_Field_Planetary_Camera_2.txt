@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Wide Field and Planetary Camera 2 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wide_Field_and_Planetary_Camera_2","wgTitle":"Wide Field and Planetary Camera 2","wgCurRevisionId":703399350,"wgRevisionId":703399350,"wgArticleId":884109,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from October 2012","Hubble Space Telescope instruments","Space cameras","Space hardware returned to Earth intact"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wide_Field_and_Planetary_Camera_2","wgRelevantArticleId":884109,"wgRequestId":"WgH23gpAAEQAABnfAKAAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wide_Field_Planetary_Camera_2","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Wide_Field_and_Planetary_Camera_2","wgWikibaseItemId":"Q1194186","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wfpc20101013r.jpg/1200px-Wfpc20101013r.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wide_Field_and_Planetary_Camera_2" rel="alternate"/>
+<link href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Wide_Field_and_Planetary_Camera_2" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wide_Field_and_Planetary_Camera_2 rootpage-Wide_Field_and_Planetary_Camera_2 vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Wide Field and Planetary Camera 2</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Wide_Field_Planetary_Camera_2&amp;redirect=no" title="Wide Field Planetary Camera 2">Wide Field Planetary Camera 2</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Wfpc20101013r.jpg"><img alt="" class="thumbimage" data-file-height="2000" data-file-width="2667" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wfpc20101013r.jpg/220px-Wfpc20101013r.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wfpc20101013r.jpg/330px-Wfpc20101013r.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wfpc20101013r.jpg/440px-Wfpc20101013r.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wfpc20101013r.jpg" title="Enlarge"></a></div>
+Brought back to Earth by the U.S. Space Shuttle, the WFPC is loaded for transport after display at <a class="mw-redirect" href="/wiki/JPL" title="JPL">JPL</a> on its way to its final home at the <a href="/wiki/National_Air_and_Space_Museum" title="National Air and Space Museum">National Air and Space Museum</a> in 2010</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Quantum_efficiency_graph_for_WFPC2-en.svg"><img alt="" class="thumbimage" data-file-height="557" data-file-width="749" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Quantum_efficiency_graph_for_WFPC2-en.svg/220px-Quantum_efficiency_graph_for_WFPC2-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Quantum_efficiency_graph_for_WFPC2-en.svg/330px-Quantum_efficiency_graph_for_WFPC2-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Quantum_efficiency_graph_for_WFPC2-en.svg/440px-Quantum_efficiency_graph_for_WFPC2-en.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Quantum_efficiency_graph_for_WFPC2-en.svg" title="Enlarge"></a></div>
+<a href="/wiki/Quantum_efficiency" title="Quantum efficiency">Quantum efficiency</a> of the <a href="/wiki/Charge-coupled_device" title="Charge-coupled device">CCD</a> chip in the camera</div>
+</div>
+</div>
+<p>The <b>Wide Field and Planetary Camera 2</b> (<b>WFPC2</b>) is a <a href="/wiki/Camera" title="Camera">camera</a> formerly installed on the <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a>. The camera was built by the <a href="/wiki/Jet_Propulsion_Laboratory" title="Jet Propulsion Laboratory">Jet Propulsion Laboratory</a> and is roughly the size of a <a class="mw-redirect" href="/wiki/Baby_grand_piano" title="Baby grand piano">baby grand piano</a>. It was installed by servicing mission 1 (<a href="/wiki/STS-61" title="STS-61">STS-61</a>) in 1993, replacing the telescope's original <a href="/wiki/Wide_Field_and_Planetary_Camera" title="Wide Field and Planetary Camera">Wide Field and Planetary Camera</a> (WF/PC). WFPC2 was used to image the <a href="/wiki/Hubble_Deep_Field" title="Hubble Deep Field">Hubble Deep Field</a> in 1995, the <a class="mw-redirect" href="/wiki/Hourglass_Nebula" title="Hourglass Nebula">Hourglass Nebula</a> and <a href="/wiki/Egg_Nebula" title="Egg Nebula">Egg Nebula</a> in 1996, and the <a href="/wiki/Hubble_Deep_Field_South" title="Hubble Deep Field South">Hubble Deep Field South</a> in 1998. During <a href="/wiki/STS-125" title="STS-125">STS-125</a>, WFPC2 was removed and replaced with the <a href="/wiki/Wide_Field_Camera_3" title="Wide Field Camera 3">Wide Field Camera 3</a> as part of the mission's first spacewalk on May 14, 2009. After returning to Earth, the camera was displayed briefly at the <a href="/wiki/National_Air_and_Space_Museum" title="National Air and Space Museum">National Air and Space Museum</a> and the <a href="/wiki/Jet_Propulsion_Laboratory" title="Jet Propulsion Laboratory">Jet Propulsion Laboratory</a> before returning to its final home at the Smithsonian's <a href="/wiki/National_Air_and_Space_Museum" title="National Air and Space Museum">National Air and Space Museum</a>.<sup class="reference" id="cite_ref-smithsonian_1-0"><a href="#cite_note-smithsonian-1">[1]</a></sup><sup class="reference" id="cite_ref-nest_2-0"><a href="#cite_note-nest-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Design"><span class="tocnumber">1</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Performance"><span class="tocnumber">2</span> <span class="toctext">Performance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#WFPC2_images"><span class="tocnumber">4</span> <span class="toctext">WFPC2 images</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit&amp;section=1" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>WFPC2 was built by <a href="/wiki/NASA" title="NASA">NASA</a>'s <a href="/wiki/Jet_Propulsion_Laboratory" title="Jet Propulsion Laboratory">Jet Propulsion Laboratory</a>, which also built the predecessor <a href="/wiki/Wide_Field_and_Planetary_Camera" title="Wide Field and Planetary Camera">WF/PC</a> camera launched with Hubble in 1990. WFPC2 contains internal corrective optics to fix the spherical aberration in the Hubble telescope's primary mirror.</p>
+<p>The <a href="/wiki/Charge-coupled_device" title="Charge-coupled device">charge-coupled devices</a> (CCDs) in the WFPC2 (designed at JPL and manufactured by Loral) detected <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a> in a range from 120 <a class="mw-redirect" href="/wiki/Nanometer" title="Nanometer">nm</a> to 1000 nm. This included the 380 nm to 780 nm of the <a class="mw-redirect" href="/wiki/Optical_spectrum" title="Optical spectrum">visible spectrum</a>, all of the near <a href="/wiki/Ultraviolet" title="Ultraviolet">ultraviolet</a> (and a small part of the extreme ultraviolet band) and most of the near <a href="/wiki/Infrared" title="Infrared">infrared</a> band. The sensitivity distribution of these CCDs is roughly <a href="/wiki/Normal_distribution" title="Normal distribution">normal</a>, with a peak around 700 nm and concomitantly very poor sensitivity at the extremes of the CCDs' operating range. WFPC2 featured four identical CCD detectors, each 800x800 <a href="/wiki/Pixel" title="Pixel">pixels</a>. Three of these, arranged in an L-formation, comprise Hubble's Wide Field Camera (WFC). Adjacent to them is the Planetary Camera (PC), a fourth CCD with different (narrower-focused) optics. This afforded a more detailed view over a smaller region of the visual field. WFC and PC images are typically combined, producing the WFPC2's characteristic stairstep image. When distributed as non-scientific <a href="/wiki/JPEG" title="JPEG">JPEG</a> files the PC portion of the image is shown with the same resolution as the WFC portions, but astronomers receive a raw scientific image package which presents the PC image in its native, higher detail.</p>
+<p>To allow scientists to view specific parts of the electromagnetic spectrum the WFPC2 featured a rotating wheel which moves different optical filters into the lightpath (between the WFPC2's aperture and the CCD detectors). The 48 filter elements included:</p>
+<ul>
+<li>A set of standard wideband photometric filters.</li>
+<li>A graduated filter, featuring a wide range of very narrowband filters. By positioning the target object at a precise part of the field, the operator can use an accurately picked narrowband filter.</li>
+<li>A number of narrowband optical filters tuned to the wavelengths of various atomic emission lines.</li>
+</ul>
+<h2><span class="mw-headline" id="Performance">Performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit&amp;section=2" title="Edit section: Performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Small_Section_of_the_Carina_Nebula.jpg"><img alt="" class="thumbimage" data-file-height="761" data-file-width="1481" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Small_Section_of_the_Carina_Nebula.jpg/220px-Small_Section_of_the_Carina_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Small_Section_of_the_Carina_Nebula.jpg/330px-Small_Section_of_the_Carina_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Small_Section_of_the_Carina_Nebula.jpg/440px-Small_Section_of_the_Carina_Nebula.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Small_Section_of_the_Carina_Nebula.jpg" title="Enlarge"></a></div>
+Picture of small section of the <a href="/wiki/Carina_Nebula" title="Carina Nebula">Carina Nebula</a> created from images taken with Hubble's Wide Field Planetary Camera 2.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></div>
+</div>
+</div>
+<p>As predicted, over the course of its mission the WFPC2 experienced degradation of the CCDs, resulting in defective ("hot") pixels. The telescope's operators perform monthly calibration tests to catalog these; with the WFPC's <a href="/wiki/Aperture" title="Aperture">aperture</a> closed a number of long exposures are taken, and pixels which differ significantly from near black are flagged. To avoid false positives caused by <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic rays</a> tripping a given pixel, the output of different calibration shots are compared. Pixels which are consistently "hot" are recorded, and astronomers who analyse raw WFPC2 images receive a list of these pixels. Typically astronomers adjust their photo-processing software to ignore these bad pixels.</p>
+<p>WFPC2 was largely superseded for broad-band imaging by the <a href="/wiki/Advanced_Camera_for_Surveys" title="Advanced Camera for Surveys">Advanced Camera for Surveys</a>, installed during servicing mission 3B in 2002. However, the early 2007 failure of ACS resulted in WFPC2 returning to its role as Hubble's primary visible light camera. WFPC2 was removed from HST during Servicing Mission 4 in May 2009, for return to Earth and eventual museum display. It was replaced by <a href="/wiki/Wide_Field_Camera_3" title="Wide Field Camera 3">Wide Field Camera 3</a>, which features two UV/visible detecting CCDs, each 2048x4096 pixels, and a separate IR CCD of 1024 x 1024, capable of receiving infrared radiation up to 1700 nm.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Wide_Field_and_Planetary_Camera" title="Wide Field and Planetary Camera">Wide Field and Planetary Camera</a></li>
+<li><a href="/wiki/Wide_Field_Camera_3" title="Wide Field Camera 3">Wide Field Camera 3</a></li>
+<li><a href="/wiki/Cosmic_Origins_Spectrograph" title="Cosmic Origins Spectrograph">Cosmic Origins Spectrograph</a></li>
+<li><a href="/wiki/Advanced_Camera_for_Surveys" title="Advanced Camera for Surveys">Advanced Camera for Surveys</a></li>
+<li><a href="/wiki/Near_Infrared_Camera_and_Multi-Object_Spectrometer" title="Near Infrared Camera and Multi-Object Spectrometer">Near Infrared Camera and Multi-Object Spectrometer</a></li>
+<li><a href="/wiki/Faint_Object_Camera" title="Faint Object Camera">Faint Object Camera</a></li>
+</ul>
+<h2><span class="mw-headline" id="WFPC2_images">WFPC2 images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit&amp;section=4" title="Edit section: WFPC2 images">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="text-align:center;">
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Jfader_hubble.jpg"><img alt="" data-file-height="598" data-file-width="571" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jfader_hubble.jpg/115px-Jfader_hubble.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jfader_hubble.jpg/172px-Jfader_hubble.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jfader_hubble.jpg/229px-Jfader_hubble.jpg 2x" width="115"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Hubble Space Telescope WFPC2 image of the <a href="/wiki/Hubble_Deep_Field" title="Hubble Deep Field">Hubble Deep Field</a> showing the characteristic stairstep composition of WFPC2 images</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:16px auto;"><a class="image" href="/wiki/File:Eagle_nebula_pillars.jpg"><img alt="" data-file-height="2400" data-file-width="2434" height="118" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eagle_nebula_pillars.jpg/120px-Eagle_nebula_pillars.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eagle_nebula_pillars.jpg/180px-Eagle_nebula_pillars.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eagle_nebula_pillars.jpg/240px-Eagle_nebula_pillars.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Pillars_of_Creation" title="Pillars of Creation">Pillars</a> within <a class="mw-redirect" href="/wiki/Eagle_nebula" title="Eagle nebula">Eagle nebula</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15.5px auto;"><a class="image" href="/wiki/File:1994-02-b-full_jpg.jpg"><img alt="" data-file-height="1483" data-file-width="1495" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1994-02-b-full_jpg.jpg/120px-1994-02-b-full_jpg.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1994-02-b-full_jpg.jpg/180px-1994-02-b-full_jpg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1994-02-b-full_jpg.jpg/240px-1994-02-b-full_jpg.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>WFPC 2 image in 1994 of <a href="/wiki/Messier_100" title="Messier 100">M100 (NGC 4321)</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Nursery_of_New_Stars_-_GPN-2000-000972.jpg"><img alt="" data-file-height="1201" data-file-width="1127" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nursery_of_New_Stars_-_GPN-2000-000972.jpg/113px-Nursery_of_New_Stars_-_GPN-2000-000972.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nursery_of_New_Stars_-_GPN-2000-000972.jpg/169px-Nursery_of_New_Stars_-_GPN-2000-000972.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nursery_of_New_Stars_-_GPN-2000-000972.jpg/225px-Nursery_of_New_Stars_-_GPN-2000-000972.jpg 2x" width="113"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/NGC_604" title="NGC 604">NGC 604</a> in the <a href="/wiki/Triangulum_Galaxy" title="Triangulum Galaxy">Triangulum Galaxy</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Bok_globules_in_IC2944.jpg"><img alt="" data-file-height="1498" data-file-width="1480" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bok_globules_in_IC2944.jpg/119px-Bok_globules_in_IC2944.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bok_globules_in_IC2944.jpg/178px-Bok_globules_in_IC2944.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bok_globules_in_IC2944.jpg/237px-Bok_globules_in_IC2944.jpg 2x" width="119"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Bok_globule" title="Bok globule">Bok globules</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:STSci-PRC01-33_omega_centauri.jpg"><img alt="" data-file-height="1474" data-file-width="1474" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/STSci-PRC01-33_omega_centauri.jpg/120px-STSci-PRC01-33_omega_centauri.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/STSci-PRC01-33_omega_centauri.jpg/180px-STSci-PRC01-33_omega_centauri.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/STSci-PRC01-33_omega_centauri.jpg/240px-STSci-PRC01-33_omega_centauri.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Part of <a href="/wiki/Omega_Centauri" title="Omega Centauri">Omega Centauri</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39.5px auto;"><a class="image" href="/wiki/File:Egg_Nebula.jpg"><img alt="" data-file-height="1020" data-file-width="1720" height="71" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Egg_Nebula.jpg/120px-Egg_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Egg_Nebula.jpg/180px-Egg_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Egg_Nebula.jpg/240px-Egg_Nebula.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Egg_Nebula" title="Egg Nebula">Egg Nebula</a></p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-smithsonian-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-smithsonian_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://blogs.smithsonianmag.com/aroundthemall/2009/05/the-camera-that-saved-hubble-coming-to-the-smithsonian/" rel="nofollow">"<span style="padding-left:0.2em;">"</span>The Camera that Saved Hubble" Coming to the Smithsonian"</a>. May 27, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWide+Field+and+Planetary+Camera+2&amp;rft.btitle=%22The+Camera+that+Saved+Hubble%22+Coming+to+the+Smithsonian&amp;rft.date=2009-05-27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblogs.smithsonianmag.com%2Faroundthemall%2F2009%2F05%2Fthe-camera-that-saved-hubble-coming-to-the-smithsonian%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-nest-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-nest_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.jpl.nasa.gov/news/news.cfm?id=1&amp;release=2010-335#1" rel="nofollow">"The Camera That Saved Hubble Leaves the Nest"</a>. JPL / NASA<span class="reference-accessdate">. Retrieved <span class="nowrap">October 14,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWide+Field+and+Planetary+Camera+2&amp;rft.btitle=The+Camera+That+Saved+Hubble+Leaves+the+Nest&amp;rft.genre=unknown&amp;rft.pub=JPL+%2F+NASA&amp;rft_id=http%3A%2F%2Fwww.jpl.nasa.gov%2Fnews%2Fnews.cfm%3Fid%3D1%26release%3D2010-335%231&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.spacetelescope.org/images/potw1127a/" rel="nofollow">"Return to the Carina Nebula"</a>. <i>ESA/Hubble Picture of the Week</i>. ESA/Hubble<span class="reference-accessdate">. Retrieved <span class="nowrap">July 4,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWide+Field+and+Planetary+Camera+2&amp;rft.atitle=Return+to+the+Carina+Nebula&amp;rft.genre=unknown&amp;rft.jtitle=ESA%2FHubble+Picture+of+the+Week&amp;rft_id=http%3A%2F%2Fwww.spacetelescope.org%2Fimages%2Fpotw1127a%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.stsci.edu/instruments/wfpc2/" rel="nofollow">WFPC2 homepage and user's guide</a></li>
+<li><a class="external text" href="http://www.stsci.edu/proposer/cy11/documents/online/Ch_4_7.html" rel="nofollow">Space Telescope science institute's documentation on the WFPC2</a></li>
+<li><a class="external text" href="http://hubblesite.org/sci.d.tech/behind_the_pictures/meaning_of_color/index.shtml" rel="nofollow">NASA article explaining how color is built from multiple filtered images</a></li>
+<li><a class="external text" href="http://wfc3.gsfc.nasa.gov/overview/introduction.php" rel="nofollow">Wide Field Camera 3 – NASA</a></li>
+<li><a class="external text" href="http://www.spacetelescope.org/about/general/instruments/wfpc2.html" rel="nofollow">the WFPC2 at ESA/Hubble</a></li>
+<li><a class="external text" href="http://www.spacetelescope.org/images/archive/freesearch/wfpc2/viewall/1" rel="nofollow">Images with the WFPC2 at ESA/Hubble</a></li>
+</ul>
+<div aria-labelledby="Hubble_Space_Telescope" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hubble_Space_Telescope" title="Template:Hubble Space Telescope"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hubble_Space_Telescope" title="Template talk:Hubble Space Telescope"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hubble_Space_Telescope&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Hubble_Space_Telescope" style="font-size:114%;margin:0 4em"><a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Current instruments</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advanced_Camera_for_Surveys" title="Advanced Camera for Surveys">Advanced Camera for Surveys (ACS)</a></li>
+<li><a href="/wiki/Cosmic_Origins_Spectrograph" title="Cosmic Origins Spectrograph">Cosmic Origins Spectrograph (COS)</a></li>
+<li><a href="/wiki/Fine_Guidance_Sensor_(HST)" title="Fine Guidance Sensor (HST)">Fine Guidance Sensor (FGS)</a></li>
+<li><a href="/wiki/Near_Infrared_Camera_and_Multi-Object_Spectrometer" title="Near Infrared Camera and Multi-Object Spectrometer">Near Infrared Camera and Multi-Object Spectrometer (NICMOS)</a></li>
+<li><a href="/wiki/Space_Telescope_Imaging_Spectrograph" title="Space Telescope Imaging Spectrograph">Space Telescope Imaging Spectrograph (STIS)</a></li>
+<li><a href="/wiki/Wide_Field_Camera_3" title="Wide Field Camera 3">Wide Field Camera 3 (WFC3)</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:HST-SM4.jpeg"><img alt="HST-SM4.jpeg" data-file-height="1518" data-file-width="2022" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/100px-HST-SM4.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/150px-HST-SM4.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/200px-HST-SM4.jpeg 2x" width="100"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Previous instruments</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Corrective_Optics_Space_Telescope_Axial_Replacement" title="Corrective Optics Space Telescope Axial Replacement">Corrective Optics Space Telescope Axial Replacement (COSTAR)</a></li>
+<li><a href="/wiki/Faint_Object_Camera" title="Faint Object Camera">Faint Object Camera (FOC)</a></li>
+<li><a href="/wiki/Faint_Object_Spectrograph" title="Faint Object Spectrograph">Faint Object Spectrograph (FOS)</a></li>
+<li><a href="/wiki/Goddard_High_Resolution_Spectrograph" title="Goddard High Resolution Spectrograph">Goddard High Resolution Spectrograph (GHRS/HRS)</a></li>
+<li><a href="/wiki/High_Speed_Photometer" title="High Speed Photometer">High Speed Photometer (HSP)</a></li>
+<li><a href="/wiki/Wide_Field_and_Planetary_Camera" title="Wide Field and Planetary Camera">Wide Field and Planetary Camera (WFPC)</a></li>
+<li><a class="mw-selflink selflink">Wide Field and Planetary Camera 2 (WFPC2)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a> missions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Launch:</i> <a href="/wiki/STS-31" title="STS-31">STS-31</a> <small>(1990, <a href="/wiki/Space_Shuttle_Discovery" title="Space Shuttle Discovery"><i>Discovery</i></a>)</small></li>
+<li><i>Servicing:</i> <a href="/wiki/STS-61" title="STS-61">STS-61</a> <small>(1993, <a href="/wiki/Space_Shuttle_Endeavour" title="Space Shuttle Endeavour"><i>Endeavour</i></a>)</small></li>
+<li><a href="/wiki/STS-82" title="STS-82">STS-82</a> <small>(1997, <i>Discovery</i>)</small></li>
+<li><a href="/wiki/STS-103" title="STS-103">STS-103</a> <small>(1999, <i>Discovery</i>)</small></li>
+<li><a href="/wiki/STS-109" title="STS-109">STS-109</a> <small>(2002, <a href="/wiki/Space_Shuttle_Columbia" title="Space Shuttle Columbia"><i>Columbia</i></a>)</small></li>
+<li><a href="/wiki/STS-125" title="STS-125">STS-125</a> <small>(2009, <a href="/wiki/Space_Shuttle_Atlantis" title="Space Shuttle Atlantis"><i>Atlantis</i></a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Special fields and images</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Pillars_of_Creation" title="Pillars of Creation">Pillars of Creation</a></i> <small>(1995)</small></li>
+<li><a href="/wiki/Hubble_Deep_Field" title="Hubble Deep Field">Hubble Deep Field</a> <small>(1995)</small></li>
+<li><a href="/wiki/Hubble_Deep_Field_South" title="Hubble Deep Field South">Hubble Deep Field South</a> <small>(1998)</small></li>
+<li><a href="/wiki/Hubble_Ultra-Deep_Field" title="Hubble Ultra-Deep Field">Hubble Ultra-Deep Field</a> <small>(2003–04)</small></li>
+<li><a href="/wiki/Extended_Groth_Strip" title="Extended Groth Strip">Extended Groth Strip</a> <small>(2004–05)</small></li>
+<li><a href="/wiki/Sagittarius_Window_Eclipsing_Extrasolar_Planet_Search" title="Sagittarius Window Eclipsing Extrasolar Planet Search">SWEEPS</a> <small>(2006)</small></li>
+<li><i><a href="/wiki/Mystic_Mountain" title="Mystic Mountain">Mystic Mountain</a></i> <small>(2010)</small></li>
+<li><a class="mw-redirect" href="/wiki/Hubble_eXtreme_Deep_Field" title="Hubble eXtreme Deep Field">Hubble eXtreme Deep Field</a> <small>(2012)</small></li>
+<li><a href="/wiki/Great_Observatories_Origins_Deep_Survey" title="Great Observatories Origins Deep Survey">Great Observatories Origins Deep Survey</a></li>
+<li><a href="/wiki/List_of_Hubble_anniversary_images" title="List of Hubble anniversary images">Anniversaries</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20171021104557
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.135 seconds
+Preprocessor visited node count: 380/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18507/2097152 bytes
+Template argument size: 239/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  101.841      1 -total
+ 47.70%   48.582      1 Template:Reflist
+ 34.84%   35.483      3 Template:Cite_web
+ 23.79%   24.223      1 Template:Use_mdy_dates
+ 10.93%   11.135      1 Template:Hubble_Space_Telescope
+ 10.01%   10.198      1 Template:DMCA
+  9.28%    9.447      1 Template:Navbox
+  8.87%    9.030      1 Template:Dated_maintenance_category
+  5.02%    5.110      1 Template:FULLROOTPAGENAME
+  3.45%    3.512      1 Template:Ns_has_subpages
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:884109-0!canonical and timestamp 20171021104557 and revision id 703399350
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;oldid=703399350">https://en.wikipedia.org/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;oldid=703399350</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hubble_Space_Telescope_instruments" title="Category:Hubble Space Telescope instruments">Hubble Space Telescope instruments</a></li><li><a href="/wiki/Category:Space_cameras" title="Category:Space cameras">Space cameras</a></li><li><a href="/wiki/Category:Space_hardware_returned_to_Earth_intact" title="Category:Space hardware returned to Earth intact">Space hardware returned to Earth intact</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_October_2012" title="Category:Use mdy dates from October 2012">Use mdy dates from October 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wide+Field+and+Planetary+Camera+2" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wide+Field+and+Planetary+Camera+2" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Wide_Field_and_Planetary_Camera_2" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Wide_Field_and_Planetary_Camera_2" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Wide_Field_and_Planetary_Camera_2">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Wide_Field_and_Planetary_Camera_2" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Wide_Field_and_Planetary_Camera_2" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;oldid=703399350" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1194186" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wide_Field_and_Planetary_Camera_2&amp;id=703399350" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wide+Field+and+Planetary+Camera+2">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wide+Field+and+Planetary+Camera+2&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7_%D9%83%D9%88%D9%83%D8%A8%D9%8A%D8%A9_%D9%88%D8%A7%D8%B3%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_2" hreflang="ar" lang="ar" title="كاميرا كوكبية واسعة المجال 2 – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/C%C3%A0mera_planet%C3%A0ria_i_de_gran_angular_2" hreflang="ca" lang="ca" title="Càmera planetària i de gran angular 2 – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Wide_Field_and_Planetary_Camera_2" hreflang="da" lang="da" title="Wide Field and Planetary Camera 2 – Danish">Dansk</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/C%C3%A1mara_Planetaria_y_de_Gran_Angular_2" hreflang="es" lang="es" title="Cámara Planetaria y de Gran Angular 2 – Spanish">Español</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/WFPC2" hreflang="ko" lang="ko" title="WFPC2 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Wide_Field_and_Planetary_Camera_2" hreflang="id" lang="id" title="Wide Field and Planetary Camera 2 – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Wide_Field_and_Planetary_Camera_2" hreflang="hu" lang="hu" title="Wide Field and Planetary Camera 2 – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%BA%83%E5%9F%9F%E6%83%91%E6%98%9F%E3%82%AB%E3%83%A1%E3%83%A92" hreflang="ja" lang="ja" title="広域惑星カメラ2 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Wide_Field_and_Planetary_Camera_2" hreflang="no" lang="no" title="Wide Field and Planetary Camera 2 – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wide_Field_and_Planetary_Camera_2" hreflang="pl" lang="pl" title="Wide Field and Planetary Camera 2 – Polish">Polski</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C_2" hreflang="th" lang="th" title="กล้องถ่ายภาพสนามกว้างและดาวเคราะห์ 2 – Thai">ไทย</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%BB%A3%E5%9F%9F%E5%92%8C%E8%A1%8C%E6%98%9F%E7%85%A7%E7%9B%B8%E6%A9%9F" hreflang="zh" lang="zh" title="第二代廣域和行星照相機 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1194186#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 February 2016, at 08:02.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Wide_Field_and_Planetary_Camera_2&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.135","ppvisitednodes":{"value":380,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18507,"limit":2097152},"templateargumentsize":{"value":239,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  101.841      1 -total"," 47.70%   48.582      1 Template:Reflist"," 34.84%   35.483      3 Template:Cite_web"," 23.79%   24.223      1 Template:Use_mdy_dates"," 10.93%   11.135      1 Template:Hubble_Space_Telescope"," 10.01%   10.198      1 Template:DMCA","  9.28%    9.447      1 Template:Navbox","  8.87%    9.030      1 Template:Dated_maintenance_category","  5.02%    5.110      1 Template:FULLROOTPAGENAME","  3.45%    3.512      1 Template:Ns_has_subpages"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":2089006,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20171021104557","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

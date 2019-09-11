@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Johnstown Flood - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Johnstown_Flood","wgTitle":"Johnstown Flood","wgCurRevisionId":807040302,"wgRevisionId":807040302,"wgArticleId":454915,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: Extra text","All articles with unsourced statements","Articles with unsourced statements from May 2017","Articles needing additional references from May 2017","All articles needing additional references","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","Coordinates on Wikidata","1889 in Pennsylvania","Andrew Carnegie","Floods in the United States","Disasters in Pennsylvania","Dam failures in the United States","History of the United States (1865–1918)","1889 natural disasters in the United States","1889 meteorology","Natural disasters in Pennsylvania","Johnstown, Pennsylvania","History of Johnstown, Pennsylvania","May 1889 events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Johnstown_Flood","wgRelevantArticleId":454915,"wgRequestId":"Wf8pAwpAIDMAAEPMWiYAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":40.340277777778,"lon":-78.770833333333},"wgWikibaseItemId":"Q691404","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/71/Johnstown_flood_debris.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Johnstown_Flood" rel="alternate"/>
+<link href="/w/index.php?title=Johnstown_Flood&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Johnstown_Flood&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Johnstown_Flood" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Johnstown_Flood rootpage-Johnstown_Flood vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Johnstown Flood</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/The_Johnstown_Flood_(disambiguation)" title="The Johnstown Flood (disambiguation)">The Johnstown Flood (disambiguation)</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Johnstown</caption>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:#aaa solid 1px"><a class="image" href="/wiki/File:Johnstown_flood_debris.jpg" title="Debris litters and completely covers the ground above a Pennsylvania Railroad bridge. A small bridge and several mills and smokestacks are viewable in the distance."><img alt="Debris litters and completely covers the ground above a Pennsylvania Railroad bridge. A small bridge and several mills and smokestacks are viewable in the distance." data-file-height="895" data-file-width="599" height="359" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Johnstown_flood_debris.jpg/240px-Johnstown_flood_debris.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Johnstown_flood_debris.jpg/360px-Johnstown_flood_debris.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Johnstown_flood_debris.jpg/480px-Johnstown_flood_debris.jpg 2x" width="240"/></a>
+<div>Debris above Pennsylvania Railroad bridge</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Date</th>
+<td style="text-align: left;">May 31, 1889<sup class="reference" id="cite_ref-WDL1_1-0"><a href="#cite_note-WDL1-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location" style="text-align: left;"><a href="/wiki/South_Fork,_Pennsylvania" title="South Fork, Pennsylvania">South Fork</a>, <a href="/wiki/East_Conemaugh,_Pennsylvania" title="East Conemaugh, Pennsylvania">East Conemaugh</a>, and <a href="/wiki/Johnstown,_Pennsylvania" title="Johnstown, Pennsylvania">Johnstown, Pennsylvania</a></td>
+</tr>
+<tr>
+<th scope="row">Deaths</th>
+<td style="text-align: left;">2,209<sup class="reference" id="cite_ref-WDL1_1-1"><a href="#cite_note-WDL1-1">[1]</a></sup> or 2,208<sup class="reference" id="cite_ref-McCullough_2-0"><a href="#cite_note-McCullough-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Property damage</th>
+<td style="text-align: left;">US$17 million (about $453 million today<sup class="reference" id="cite_ref-inflation-US_3-0"><a href="#cite_note-inflation-US-3">[3]</a></sup>)</td>
+</tr>
+</table>
+<p>The <b>Johnstown Flood</b> (locally, the <b>Great Flood of 1889</b>) occurred on May 31, 1889, after the <a href="/wiki/Catastrophic_failure" title="Catastrophic failure">catastrophic</a> <a href="/wiki/Dam_failure" title="Dam failure">failure</a> of the <a href="/wiki/South_Fork_Dam" title="South Fork Dam">South Fork Dam</a> on the <a href="/wiki/Little_Conemaugh_River" title="Little Conemaugh River">Little Conemaugh River</a> 14 miles (23 km) upstream of the town of <a href="/wiki/Johnstown,_Pennsylvania" title="Johnstown, Pennsylvania">Johnstown, Pennsylvania</a>. The dam broke after several days of extremely heavy rainfall, releasing 14.55 million cubic meters of water <sup class="reference" id="cite_ref-Colemanetal2016_4-0"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup>. With a volumetric flow rate that temporarily equaled the average flow rate of the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a>,<sup class="reference" id="cite_ref-Perkins_5-0"><a href="#cite_note-Perkins-5">[5]</a></sup> 2,209 people,<sup class="reference" id="cite_ref-Gibson_6-0"><a href="#cite_note-Gibson-6">[6]</a></sup> according to one account, lost their lives, and the flood accounted for US$17 million of damage (about $453 million in 2016 dollars<sup class="reference" id="cite_ref-inflation-US_3-1"><a href="#cite_note-inflation-US-3">[3]</a></sup>).</p>
+<p>The <a href="/wiki/American_Red_Cross" title="American Red Cross">American Red Cross</a>, led by <a href="/wiki/Clara_Barton" title="Clara Barton">Clara Barton</a> and with 50 volunteers, undertook a major <a class="mw-redirect" href="/wiki/Disaster_relief" title="Disaster relief">disaster relief</a> effort.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Support for victims came from all over the United States and 18 foreign countries. After the flood, survivors suffered a series of legal defeats in their attempts to recover damages from the dam's owners. Public indignation at that failure prompted the development in American law changing a <a href="/wiki/Fault_(legal)" title="Fault (legal)">fault</a>-based regime to <a href="/wiki/Strict_liability" title="Strict liability">strict liability</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#South_Fork_Dam_and_Lake_Conemaugh"><span class="tocnumber">1.1</span> <span class="toctext">South Fork Dam and Lake Conemaugh</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Events_of_the_flood"><span class="tocnumber">2</span> <span class="toctext">Events of the flood</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Aftermath"><span class="tocnumber">3</span> <span class="toctext">Aftermath</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Immediately_afterward"><span class="tocnumber">3.1</span> <span class="toctext">Immediately afterward</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Subsequent_floods"><span class="tocnumber">3.2</span> <span class="toctext">Subsequent floods</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Court_case_and_recovery"><span class="tocnumber">3.3</span> <span class="toctext">Court case and recovery</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Investigation_of_the_cause_of_the_1889_dam_breach_and_flood"><span class="tocnumber">3.4</span> <span class="toctext">Investigation of the cause of the 1889 dam breach and flood</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Effect_on_the_development_of_American_law"><span class="tocnumber">3.5</span> <span class="toctext">Effect on the development of American law</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Legacy_and_popular_culture"><span class="tocnumber">4</span> <span class="toctext">Legacy and popular culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Science_fiction"><span class="tocnumber">4.1</span> <span class="toctext">Science fiction</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Film_and_television"><span class="tocnumber">4.2</span> <span class="toctext">Film and television</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Theater"><span class="tocnumber">4.3</span> <span class="toctext">Theater</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Music"><span class="tocnumber">4.4</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Literature"><span class="tocnumber">4.5</span> <span class="toctext">Literature</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The village of Johnstown was founded in 1800 by the <a href="/wiki/Swiss_people" title="Swiss people">Swiss</a> immigrant Joseph Johns (anglicized from "Schantz") where the <a href="/wiki/Stony_Creek_(Susquehanna_River)" title="Stony Creek (Susquehanna River)">Stony Creek</a> and <a href="/wiki/Little_Conemaugh_River" title="Little Conemaugh River">Little Conemaugh</a> rivers joined to form the <a href="/wiki/Conemaugh_River" title="Conemaugh River">Conemaugh River</a>. It began to prosper with the building of the <a class="mw-redirect" href="/wiki/Pennsylvania_Main_Line_Canal" title="Pennsylvania Main Line Canal">Pennsylvania Main Line Canal</a> in 1836 and the construction in the 1850s of the <a href="/wiki/Pennsylvania_Railroad" title="Pennsylvania Railroad">Pennsylvania Railroad</a> and the Cambria Iron Works. By 1889, Johnstown's industries had attracted numerous <a href="/wiki/Welsh_people" title="Welsh people">Welsh</a> and <a href="/wiki/Germans" title="Germans">German</a> immigrants. With a population of 30,000, it was a growing industrial community known for the quality of its <a href="/wiki/Steel" title="Steel">steel</a>.<sup class="reference" id="cite_ref-nps_8-0"><a href="#cite_note-nps-8">[8]</a></sup></p>
+<p>The high, steep hills of the narrow Conemaugh Valley and the <a href="/wiki/Allegheny_Mountains" title="Allegheny Mountains">Allegheny Mountains</a> range to the east kept development close to the riverfront areas. The valley had large amounts of runoff from rain and snowfall. The area surrounding Johnstown is prone to <a class="mw-redirect" href="/wiki/Flooding" title="Flooding">flooding</a> due to its location on the rivers, whose upstream watersheds include an extensive drainage basin of the Allegheny plateau. Adding to these factors, slag from the iron furnaces of the steel mills was dumped along the river to create more land for building.<sup class="reference" id="cite_ref-weather_9-0"><a href="#cite_note-weather-9">[9]</a></sup> Developers' artificial narrowing of the riverbed to maximize early industries left the city even more flood-prone.<sup class="reference" id="cite_ref-nps_8-1"><a href="#cite_note-nps-8">[8]</a></sup> The Conemaugh River immediately downstream of Johnstown is hemmed in by steep mountainsides for about 10 miles (16 km). A roadside plaque alongside Route 56, which follows this river, proclaims that this stretch of valley is the deepest river gorge in North America east of the Rocky Mountains.</p>
+<h3><span class="mw-headline" id="South_Fork_Dam_and_Lake_Conemaugh">South Fork Dam and Lake Conemaugh</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=2" title="Edit section: South Fork Dam and Lake Conemaugh">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Dam_Site_Abutments_P6220313.JPG"><img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dam_Site_Abutments_P6220313.JPG/220px-Dam_Site_Abutments_P6220313.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dam_Site_Abutments_P6220313.JPG/330px-Dam_Site_Abutments_P6220313.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dam_Site_Abutments_P6220313.JPG/440px-Dam_Site_Abutments_P6220313.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Dam_Site_Abutments_P6220313.JPG" title="Enlarge"></a></div>
+The remaining abutment of the South Fork Dam.</div>
+</div>
+</div>
+<p>High above the city, the Commonwealth of <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a> built the <a href="/wiki/South_Fork_Dam" title="South Fork Dam">South Fork Dam</a> between 1838 and 1853, as part of a cross-state canal system, the <a href="/wiki/Main_Line_of_Public_Works" title="Main Line of Public Works">Main Line of Public Works</a>. Johnstown was the eastern terminus of the <a href="/wiki/Main_Line_of_Public_Works#Western_Division_Canal" title="Main Line of Public Works">Western Division Canal</a>, supplied with water by <a class="mw-redirect" href="/wiki/Lake_Conemaugh" title="Lake Conemaugh">Lake Conemaugh</a>, the <a class="mw-redirect" href="/wiki/Reservoir_(water)" title="Reservoir (water)">reservoir</a> behind the dam. As railroads superseded canal barge transport, the Commonwealth abandoned the canal and sold it to the <a href="/wiki/Pennsylvania_Railroad" title="Pennsylvania Railroad">Pennsylvania Railroad</a>. The dam and lake were part of the purchase, and the railroad sold them to private interests.<sup class="reference" id="cite_ref-frank_10-0"><a href="#cite_note-frank-10">[10]</a></sup></p>
+<p><a href="/wiki/Henry_Clay_Frick" title="Henry Clay Frick">Henry Clay Frick</a> led a group of speculators, including Benjamin Ruff, from <a class="mw-redirect" href="/wiki/Pittsburgh,_Pennsylvania" title="Pittsburgh, Pennsylvania">Pittsburgh</a> to purchase the abandoned reservoir, modify it, and convert it into a private resort lake for their wealthy associates. Many were connected through business and social links to <a class="mw-redirect" href="/wiki/Carnegie_Steel" title="Carnegie Steel">Carnegie Steel</a>. Development included lowering the dam to make its top wide enough to hold a road, and putting a fish screen in the <a href="/wiki/Spillway" title="Spillway">spillway</a> (the screen also trapped debris). These alterations are thought to have increased the vulnerability of the dam. Moreover, a system of relief pipes and valves, a feature of the original dam, previously sold off for scrap, was not replaced, so the club had no way of lowering the water level in the lake in case of an emergency. The members built cottages and a clubhouse to create the <a href="/wiki/South_Fork_Fishing_and_Hunting_Club" title="South Fork Fishing and Hunting Club">South Fork Fishing and Hunting Club</a>, an exclusive and private mountain retreat. Membership grew to include more than 50 wealthy Pittsburgh steel, <a href="/wiki/Coal" title="Coal">coal</a>, and railroad <a class="mw-redirect" href="/wiki/Industrialist" title="Industrialist">industrialists</a>.<sup class="reference" id="cite_ref-museum_11-0"><a href="#cite_note-museum-11">[11]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:South_Fork_Reservoir_area_P6220296.JPG"><img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/South_Fork_Reservoir_area_P6220296.JPG/220px-South_Fork_Reservoir_area_P6220296.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/South_Fork_Reservoir_area_P6220296.JPG/330px-South_Fork_Reservoir_area_P6220296.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/South_Fork_Reservoir_area_P6220296.JPG/440px-South_Fork_Reservoir_area_P6220296.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:South_Fork_Reservoir_area_P6220296.JPG" title="Enlarge"></a></div>
+Location of the South Fork Reservoir at Johnstown Flood National Memorial, Penn.</div>
+</div>
+</div>
+<p><a class="mw-redirect" href="/wiki/Lake_Conemaugh" title="Lake Conemaugh">Lake Conemaugh</a> at the club's site was 450 feet (140 m) in elevation above Johnstown. The lake was about 2 miles (3.2 km) long, about 1 mile (1.6 km) wide, and 60 feet (18 m) deep near the dam.</p>
+<p>The dam was 72 feet (22 m) high and 931 feet (284 m) long. After 1881, when the club opened, the dam frequently sprang leaks. It was patched, mostly with mud and straw.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup> There had been some speculation as to the dam's integrity, and concerns had been raised by the head of the Cambria Iron Works downstream in Johnstown.</p>
+<h2><span class="mw-headline" id="Events_of_the_flood"><span id="The_Great_Flood_of_1889"></span> Events of the flood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=3" title="Edit section: Events of the flood">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Johnstown_Flood&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>On May 28, 1889, a low-pressure area formed over <a href="/wiki/Nebraska" title="Nebraska">Nebraska</a> and <a href="/wiki/Kansas" title="Kansas">Kansas</a>. By the time this weather pattern reached western Pennsylvania two days later, it had developed into what would be termed the heaviest rainfall event that had ever been recorded in that part of the United States. The <a class="mw-redirect" href="/wiki/U.S._Army_Signal_Corps" title="U.S. Army Signal Corps">U.S. Army Signal Corps</a> estimated that 6 to 10 inches (150 to 250 mm) of rain fell in 24 hours over the region.<sup class="reference" id="cite_ref-frank_10-1"><a href="#cite_note-frank-10">[10]</a></sup> During the night, small creeks became roaring torrents, ripping out trees and debris. <a class="mw-redirect" href="/wiki/Telegraph" title="Telegraph">Telegraph</a> lines were downed and rail lines were washed away. Before daybreak, the <a href="/wiki/Conemaugh_River" title="Conemaugh River">Conemaugh River</a> that ran through Johnstown was about to overwhelm its banks.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:What_remains_of_the_South_Fork_Dam_(11717678065).jpg"><img alt="" class="thumbimage" data-file-height="3622" data-file-width="5433" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/What_remains_of_the_South_Fork_Dam_%2811717678065%29.jpg/220px-What_remains_of_the_South_Fork_Dam_%2811717678065%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/What_remains_of_the_South_Fork_Dam_%2811717678065%29.jpg/330px-What_remains_of_the_South_Fork_Dam_%2811717678065%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/What_remains_of_the_South_Fork_Dam_%2811717678065%29.jpg/440px-What_remains_of_the_South_Fork_Dam_%2811717678065%29.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:What_remains_of_the_South_Fork_Dam_(11717678065).jpg" title="Enlarge"></a></div>
+The north end of the dam abutment and the farm of Elias Unger; now the visitor center of the Johnstown Flood Museum</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Southfork_Club_P6220294.JPG"><img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Southfork_Club_P6220294.JPG/220px-Southfork_Club_P6220294.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Southfork_Club_P6220294.JPG/330px-Southfork_Club_P6220294.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Southfork_Club_P6220294.JPG/440px-Southfork_Club_P6220294.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Southfork_Club_P6220294.JPG" title="Enlarge"></a></div>
+The former South Fork Fishing and Hunting Club; now the <a href="/wiki/Johnstown_Flood_National_Memorial" title="Johnstown Flood National Memorial">Johnstown Flood National Memorial</a></div>
+</div>
+</div>
+<p>On the morning of May 31, in a farmhouse on a hill just above the South Fork Dam, Elias Unger, president of the South Fork Fishing and Hunting Club, awoke to the sight of Lake Conemaugh swollen after a night-long heavy rainfall. Unger ran outside in the still-pouring rain to assess the situation and saw that the water was nearly cresting the dam. He quickly assembled a group of men to save the face of the dam by trying to unclog the spillway; it was blocked by the broken fish trap and debris caused by the swollen waterline. Other men tried digging a ditch at the other end of the dam, on the western abutment which was lower than the dam crest. The idea was to let more water out of the lake to try to prevent overtopping of the crest, but without success. Most remained on top of the dam, some plowing earth to raise it, while others tried to pile mud and rock on the face to save the eroding wall.</p>
+<p>John Parke, an engineer for the South Fork Club, briefly considered cutting through the dam's end, where the pressure would be less, but decided against it as that would have ensured failure of the dam. Twice, under orders from Unger, Parke rode on horseback to the nearby town of South Fork to the telegraph office to send warnings to Johnstown explaining the critical nature of the eroding dam. But the warnings were not passed to the authorities in town, as there had been many false alarms in the past of the South Fork Dam not holding against flooding.<sup class="reference" id="cite_ref-frank_10-2"><a href="#cite_note-frank-10">[10]</a></sup> Unger, Parke, and the rest of the men continued working until exhausted to save the face of the dam; they abandoned their efforts at around 1:30 p.m., fearing that their efforts were futile and the dam was at risk of imminent collapse. Unger ordered all of his men to fall back to high ground on both sides of the dam where they could do nothing but wait. During the day in Johnstown, the situation worsened as water rose to as high as 10 feet (3.0 m)<sup class="reference" id="cite_ref-Lane.2C_F.W._1966_p.129_12-0"><a href="#cite_note-Lane.2C_F.W._1966_p.129-12">[12]</a></sup> in the streets, trapping some people in their houses.</p>
+<p>Between 2:50 and 2:55 p.m. the South Fork Dam breached.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> A LiDAR analysis of the Conemaugh Lake basin reveals that it contained 14.55 million cubic meters (3.843 billion gallons) of water at the moment the dam collapsed.<sup class="reference" id="cite_ref-Colemanetal2016_4-1"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup> Modern dam-breach computer modeling reveals that it took approximately 65 minutes for most of the lake to empty after the dam began to fail.<sup class="reference" id="cite_ref-Colemanetal2016_4-2"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup> The first town to be hit by the flood was <a href="/wiki/South_Fork,_Pennsylvania" title="South Fork, Pennsylvania">South Fork</a>. The town was on high ground, and most of the people escaped by running up the nearby hills when they saw the dam spill over. Some 20 to 30 houses were destroyed or washed away, and four people were killed.</p>
+<p>Continuing on its way downstream to Johnstown, 14 miles (23 km) west, the water picked up debris, such as trees, houses, and animals. At the Conemaugh Viaduct, a 78-foot (24 m) high railroad bridge, the flood was momentarily stemmed when this debris jammed against the stone bridge's arch. But within seven minutes, the <a href="/wiki/Viaduct" title="Viaduct">viaduct</a> collapsed, allowing the flood to resume its course. However, owing to the delay at the stone arch, the flood waters gained renewed hydraulic head, resulting in a stronger, more abrupt wave of water hitting places downstream than otherwise would have been expected. The small town of <a href="/wiki/Mineral_Point,_Pennsylvania" title="Mineral Point, Pennsylvania">Mineral Point</a>, one mile (1.6 km) below the Conemaugh Viaduct, was the first populated place to be hit with this renewed force. About 30 families lived on the village's single street. After the flood, there were no structures, no topsoil, no sub-soil – only the bedrock was left. The death toll here was approximately 16 people. In 2009, studies showed that the flood's flow rate through the narrow valley exceeded 420,000 cubic feet per second (12,000 m<sup>3</sup>/s), comparable to the flow rate of the Mississippi River at its delta, which varies between 250,000 and 710,000 cu ft/s (7,000 and 20,000 m<sup>3</sup>/s).<sup class="reference" id="cite_ref-Perkins_5-1"><a href="#cite_note-Perkins-5">[5]</a></sup></p>
+<p>The village of East Conemaugh was next. One witness on high ground near the town described the water as almost obscured by debris, resembling "a huge hill rolling over and over".<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> From his idle locomotive in the town's railyard, the engineer John Hess heard and felt the rumbling of the approaching flood. Throwing his locomotive into reverse, Hess raced backward toward East Conemaugh, the whistle blowing constantly. His warning saved many people who reached high ground. When the flood hit, it picked up the locomotive and floated it aside; Hess himself survived, but at least 50 people died, including about 25 passengers stranded on trains in the town.</p>
+<p>Before hitting the main part of Johnstown, the flood surge hit the Cambria Iron Works at the town of <a href="/wiki/Woodvale_Historic_District" title="Woodvale Historic District">Woodvale</a>, sweeping up railroad cars and <a href="/wiki/Barbed_wire" title="Barbed wire">barbed wire</a> in its moil. Of Woodvale's 1,100 residents, 314 died in the flood. Boilers exploded when the flood hit the Gautier Wire Works, causing black smoke seen by the Johnstown residents. Miles of its barbed wire became entangled in the debris in the flood waters.</p>
+<p>Some 57 minutes after the South Fork Dam collapsed, the flood hit Johnstown. The residents were caught by surprise as the wall of water and debris bore down, traveling at 40 miles per hour (64 km/h) and reaching a height of 60 feet (18 m) in places. Some people, realizing the danger, tried to escape by running towards high ground but most people were hit by the surging floodwater. Many people were crushed by pieces of debris, and others became caught in barbed wire from the wire factory upstream and/or drowned. Those who reached attics, or managed to stay afloat on pieces of floating debris, waited hours for help to arrive.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:The_Great_Conemaugh_Valley_Disaster.jpg"><img alt="" class="thumbimage" data-file-height="1467" data-file-width="2592" height="125" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Great_Conemaugh_Valley_Disaster.jpg/220px-The_Great_Conemaugh_Valley_Disaster.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Great_Conemaugh_Valley_Disaster.jpg/330px-The_Great_Conemaugh_Valley_Disaster.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Great_Conemaugh_Valley_Disaster.jpg/440px-The_Great_Conemaugh_Valley_Disaster.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:The_Great_Conemaugh_Valley_Disaster.jpg" title="Enlarge"></a></div>
+A contemporary rendition of the scene at the Stone Bridge (1890)</div>
+</div>
+</div>
+<p>At Johnstown, the <a href="/wiki/Stone_Bridge_(Johnstown,_Pennsylvania)" title="Stone Bridge (Johnstown, Pennsylvania)">Stone Bridge</a>, which was a substantial arched structure, carried the <a href="/wiki/Pennsylvania_Railroad" title="Pennsylvania Railroad">Pennsylvania Railroad</a> across the Conemaugh River. The debris carried by the flood formed a temporary dam at the bridge, resulting in the flood surge rolling upstream along the Stoney Creek River. Eventually, gravity caused the surge to return to the dam, causing a second wave to hit the city, but from a different direction.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Some people who had been washed downstream became trapped in an inferno as the debris piled up against the Stone Bridge caught fire; at least 80 people died there. The fire at the Stone Bridge burned for three days. After floodwaters receded, the pile of debris at the bridge was seen to cover 30 acres (12 ha), and reached 70 feet (21 m) in height. It took workers three months to remove the mass of debris, the delay owing in part to the huge quantity of steel barbed wire from the ironworks. <a href="/wiki/Dynamite" title="Dynamite">Dynamite</a> was eventually used.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> Still standing and in use as a railroad bridge, the Stone Bridge is a landmark associated with survival and recovery from the flood. In 2008, it was restored in a project including new lighting as part of commemorative activities related to the flood.</p>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=4" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Immediately_afterward">Immediately afterward</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=5" title="Edit section: Immediately afterward">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Remmants_of_house_in_Johnstown_Flood.jpg"><img alt="" class="thumbimage" data-file-height="1117" data-file-width="1536" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Remmants_of_house_in_Johnstown_Flood.jpg/220px-Remmants_of_house_in_Johnstown_Flood.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Remmants_of_house_in_Johnstown_Flood.jpg/330px-Remmants_of_house_in_Johnstown_Flood.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Remmants_of_house_in_Johnstown_Flood.jpg/440px-Remmants_of_house_in_Johnstown_Flood.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Remmants_of_house_in_Johnstown_Flood.jpg" title="Enlarge"></a></div>
+A house that was almost completely destroyed in the flood.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Schultz.jpg"><img alt="" class="thumbimage" data-file-height="257" data-file-width="200" height="257" src="//upload.wikimedia.org/wikipedia/commons/7/7c/Schultz.jpg" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Schultz.jpg" title="Enlarge"></a></div>
+The John Schultz house at Johnstown, Pennsylvania after the flood. Skewered by a huge tree uprooted by the flood, the house floated down from its location on Union Street to the end of Main. Six people, including the owner Mr. Schultz, were inside the house when the flood hit. All survived.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:JOFL_destruction.jpg"><img alt="" class="thumbimage" data-file-height="180" data-file-width="375" height="106" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/JOFL_destruction.jpg/220px-JOFL_destruction.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/JOFL_destruction.jpg/330px-JOFL_destruction.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bf/JOFL_destruction.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:JOFL_destruction.jpg" title="Enlarge"></a></div>
+View of lower Johnstown three days after the flood</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Johnstown_Main_Street_1889_flood.jpg"><img alt="" class="thumbimage" data-file-height="1896" data-file-width="2780" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Johnstown_Main_Street_1889_flood.jpg/220px-Johnstown_Main_Street_1889_flood.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Johnstown_Main_Street_1889_flood.jpg/330px-Johnstown_Main_Street_1889_flood.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Johnstown_Main_Street_1889_flood.jpg/440px-Johnstown_Main_Street_1889_flood.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Johnstown_Main_Street_1889_flood.jpg" title="Enlarge"></a></div>
+Main Street after flood</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:After_the_Flood_at_Johnstown_--_Main_Street.jpg"><img alt="" class="thumbimage" data-file-height="637" data-file-width="869" height="161" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/After_the_Flood_at_Johnstown_--_Main_Street.jpg/220px-After_the_Flood_at_Johnstown_--_Main_Street.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/After_the_Flood_at_Johnstown_--_Main_Street.jpg/330px-After_the_Flood_at_Johnstown_--_Main_Street.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/After_the_Flood_at_Johnstown_--_Main_Street.jpg/440px-After_the_Flood_at_Johnstown_--_Main_Street.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:After_the_Flood_at_Johnstown_--_Main_Street.jpg" title="Enlarge"></a></div>
+The authorities averting looting on Main Street, as drawn in <i><a href="/wiki/Harper%27s_Weekly" title="Harper's Weekly">Harper's Weekly</a></i>, June 15, 1889</div>
+</div>
+</div>
+<p>The total death toll was calculated originally as 2,209 people,<sup class="reference" id="cite_ref-WDL1_1-2"><a href="#cite_note-WDL1-1">[1]</a></sup> making the disaster the largest loss of civilian life in the United States at the time. This number of deaths was later surpassed by fatalities in the <a href="/wiki/1900_Galveston_hurricane" title="1900 Galveston hurricane">1900 Galveston hurricane</a> and the <a class="mw-redirect" href="/wiki/September_11,_2001_terrorist_attacks" title="September 11, 2001 terrorist attacks">September 11, 2001 terrorist attacks</a>. However, as pointed out by David McCullough in 1968 (pages 266 and 278),<sup class="reference" id="cite_ref-McCullough_2-1"><a href="#cite_note-McCullough-2">[2]</a></sup> a man reported as presumed dead (not known to have been found) had survived. In 1900, Leroy Temple showed up in Johnstown to reveal he had not died but had extricated himself from the flood debris at the stone bridge below Johnstown and walked out of the valley. Until 1900 Temple had been living in Beverly, Massachusetts. Therefore, the official death toll should be 2,208.<sup class="reference" id="cite_ref-McCullough_2-2"><a href="#cite_note-McCullough-2">[2]</a></sup></p>
+<p>Ninety-nine entire families died in the flood,<sup class="reference" id="cite_ref-WDL1_1-3"><a href="#cite_note-WDL1-1">[1]</a></sup> including 396 children. 124 women and 198 men were widowed, 98 children were orphaned. One third of the dead, 777 people, were never identified; their remains were buried in the "Plot of the Unknown" in Grandview Cemetery in Westmont.</p>
+<p>It was the worst flood to hit the U.S. in the 19th century. Sixteen hundred homes were destroyed, $17 million in property damage levied (approx. $497 million in 2016), and 4 square miles (10 km<sup>2</sup>) of downtown Johnstown were completely destroyed. Clean-up operations continued for years. Although Cambria Iron and Steel's facilities were heavily damaged, they returned to full production within a year and a half.<sup class="reference" id="cite_ref-WDL1_1-4"><a href="#cite_note-WDL1-1">[1]</a></sup></p>
+<p>Working seven days and nights, workmen built a wooden trestle bridge to temporarily replace the huge stone railroad <a href="/wiki/Viaduct" title="Viaduct">viaduct</a>, which had been destroyed by the flood. The <a href="/wiki/Pennsylvania_Railroad" title="Pennsylvania Railroad">Pennsylvania Railroad</a> restored service to <a class="mw-redirect" href="/wiki/Pittsburgh,_Pennsylvania" title="Pittsburgh, Pennsylvania">Pittsburgh</a>, 55 miles (89 km) away, by June 2. Food, clothing, medicine, and other provisions began arriving by rail. <a class="mw-redirect" href="/wiki/Mortician" title="Mortician">Morticians</a> traveled by railroad. Johnstown's first call for help requested <a class="mw-redirect" href="/wiki/Coffins" title="Coffins">coffins</a> and <a class="mw-redirect" href="/wiki/Undertaker" title="Undertaker">undertakers</a>. The <a href="/wiki/Demolition" title="Demolition">demolition</a> expert "Dynamite Bill" Flinn and his 900-man crew cleared the wreckage at the Stone Bridge. They carted off debris, distributed food, and erected temporary housing. At its peak, the army of relief workers totaled about 7,000.</p>
+<p>One of the first outsiders to arrive was <a href="/wiki/Clara_Barton" title="Clara Barton">Clara Barton</a>, nurse, founder and president of the <a href="/wiki/American_Red_Cross" title="American Red Cross">American Red Cross</a>.<sup class="reference" id="cite_ref-WDL1_1-5"><a href="#cite_note-WDL1-1">[1]</a></sup> Barton arrived on June 5, 1889, to lead the group's first major disaster relief effort; she did not leave for more than 5 months. Donations for the relief effort came from all over the United States and overseas. $3,742,818.78 was collected for the Johnstown relief effort from within the U.S. and 18 foreign countries, including Russia, <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Turkey</a>, France, Great Britain, Australia, and Germany.</p>
+<p>Frank Shomo, the last known survivor of the 1889 flood, died March 20, 1997, at the age of 108.<sup class="reference" id="cite_ref-Shomo_17-0"><a href="#cite_note-Shomo-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Subsequent_floods">Subsequent floods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=6" title="Edit section: Subsequent floods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Floods have continued to be a concern for Johnstown, which had major flooding in 1894, 1907, 1924, 1936, and 1977. The biggest flood of the first half of the 20th century was the <a class="mw-redirect" href="/wiki/St._Patrick%27s_Day" title="St. Patrick's Day">St. Patrick's Day</a> <a href="/wiki/Johnstown_flood_of_1936" title="Johnstown flood of 1936">Flood of March 1936</a>. It also reached Pittsburgh, where it was known as the Great <a class="mw-redirect" href="/wiki/Pittsburgh_Flood_1936" title="Pittsburgh Flood 1936">Pittsburgh Flood of 1936</a>. Following the 1936 flood, the U.S. Army Corps of Engineers dredged the river within the city and built concrete river walls, creating a channel nearly 20 feet deep. Upon completion, the Corps proclaimed Johnstown "flood free."</p>
+<p>The new river walls withstood <a href="/wiki/Hurricane_Agnes" title="Hurricane Agnes">Hurricane Agnes</a> in 1972, but on the night of <a href="/wiki/Johnstown_flood_of_1977" title="Johnstown flood of 1977">July 19, 1977</a>, a severe thunderstorm dropped 11 inches of rain in eight hours on the watershed above the city and the rivers began to rise. By dawn, the city was under water that reached as high as 8 feet (2.4 m). Seven counties were declared a disaster area, suffering $200 million in property damage, and 78 people died. Forty were killed by the <a href="/wiki/Laurel_Run_Dam" title="Laurel Run Dam">Laurel Run Dam</a> failure. Another 50,000 were rendered homeless as a result of this "<a href="/wiki/100-year_flood" title="100-year flood">100-year flood</a>". Markers on a corner of City Hall at 401 Main Street show the height of the crests of the 1889, 1936, and 1977 floods.</p>
+<h3><span class="mw-headline" id="Court_case_and_recovery">Court case and recovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=7" title="Edit section: Court case and recovery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the years following the disaster, some people blamed the members of the <a href="/wiki/South_Fork_Fishing_and_Hunting_Club" title="South Fork Fishing and Hunting Club">South Fork Fishing and Hunting Club</a> for their modifications to the dam and failure to maintain it properly. The club had bought and redesigned the dam to turn the area into a vacation retreat in the mountains. They were accused of failing to maintain the dam properly, so that it was unable to contain the additional water of the unusually heavy rainfall.</p>
+<p>Popular feeling ran high and was best summed up in the concluding lines of Isaac Reed's poem:</p>
+<div class="poem">
+<p><span class="mw-poem-indented" style="display: inline-block; margin-left: 1em;">All the horrors that hell could wish,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-left: 1em;">Such was the price that was paid for – fish!"<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></span></p>
+</div>
+<p>The club was successfully defended by the firm of Knox and Reed (now <a class="mw-redirect" href="/wiki/Reed_Smith_LLP" title="Reed Smith LLP">Reed Smith LLP</a>), whose partners <a class="mw-redirect" href="/wiki/Philander_Knox" title="Philander Knox">Philander Knox</a> and James Hay Reed were both Club members. The Club was never held legally responsible for the disaster. The court held the dam break to have been an <a href="/wiki/Act_of_God" title="Act of God">Act of God</a>, and granted the survivors no legal compensation.</p>
+<p>Individual members of the club, millionaires in their day, contributed to the recovery. Along with about half of the club members, <a href="/wiki/Henry_Clay_Frick" title="Henry Clay Frick">Henry Clay Frick</a> donated thousands of dollars to the relief effort in Johnstown. After the flood, <a href="/wiki/Andrew_Carnegie" title="Andrew Carnegie">Andrew Carnegie</a>, already known as an industrialist and philanthropist, built the town a new library.</p>
+<h3><span class="mw-headline" id="Investigation_of_the_cause_of_the_1889_dam_breach_and_flood">Investigation of the cause of the 1889 dam breach and flood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=8" title="Edit section: Investigation of the cause of the 1889 dam breach and flood">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On June 5, 1889, five days after the dam breach flood, the American Society of Civil Engineers (ASCE) appointed a committee of four prominent engineers to investigate the cause of the disaster. This committee was led by the esteemed James B. Francis, a hydraulic engineer best known for his work related to canals, flood control, turbine design, dam construction, and hydraulic calculations. Francis was a founding member of the ASCE and served as its president from November 1880 to January 1882. The ASCE committee visited the South Fork dam, reviewed the original engineering design of the dam and modifications made during repairs, interviewed eyewitnesses, commissioned a topographic survey of the dam remnants, and performed hydrologic calculations. In their final report<sup class="reference" id="cite_ref-Francis1891_19-0"><a href="#cite_note-Francis1891-19">[19]</a></sup> they concluded the South Fork dam would have failed even if it had been maintained within the original design specifications, i.e., with a higher embankment crest and with five large discharge pipes at the dam’s base. This claim by the ASCE committee has now been challenged.<sup class="reference" id="cite_ref-Colemanetal2016_4-3"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup></p>
+<p>The ASCE committee completed their investigation report on January 15, 1890, but the report was sealed and not shared with other ASCE members or the public.<sup class="reference" id="cite_ref-Cole2017_20-0"><a href="#cite_note-Cole2017-20">[20]</a></sup> At ASCE’s annual convention in June 1890, committee member Max Becker was quoted as saying “We will hardly [publish our investigation] report this session, unless pressed to do so, as we do not want to become involved in any litigation”.<sup class="reference" id="cite_ref-Cole2017_20-1"><a href="#cite_note-Cole2017-20">[20]</a></sup> Although many ASCE members clamored for the report, it was not published in the society’s transactions until two years after the disaster, in June 1891.<sup class="reference" id="cite_ref-Francis1891_19-1"><a href="#cite_note-Francis1891-19">[19]</a></sup></p>
+<p>A hydraulic analysis published in 2016 confirms what had long been suspected, that the changes made to the dam by the South Fork Fishing and Hunting Club severely reduced the ability of the dam to withstand major storms.<sup class="reference" id="cite_ref-Colemanetal2016_4-4"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup> Lowering the dam by as much as 0.9 meter (3 ft) and failing to replace the discharge pipes at the base of the dam cut in half the safe discharge capacity of the dam.<sup class="reference" id="cite_ref-Colemanetal2016_4-5"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup> This fatal lowering of the dam greatly reduced the capacity of the main spillway and virtually eliminated the action of an emergency spillway on the western abutment. Walter Frank first documented the presence of that emergency spillway in a 1988 ASCE publication.<sup class="reference" id="cite_ref-frank_10-3"><a href="#cite_note-frank-10">[10]</a></sup> The existence of the emergency spillway is supported by topographic data from 1889<sup class="reference" id="cite_ref-Francis1891_19-2"><a href="#cite_note-Francis1891-19">[19]</a></sup> which shows the western abutment to be about one foot lower than the crest of the dam remnants, even after the dam had previously been lowered as much as 3 feet by the South Fork Fishing and Hunting Club.<sup class="reference" id="cite_ref-Colemanetal2016_4-6"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup> Adding the width of the emergency spillway to that of the main spillway yields the total width of spillway (wasteway) capacity that had been specified in the 1847 design of William Morris, a State Engineer. Lowering the top of the dam by the Club eliminated nearly all of the capacity of the emergency spillway and greatly reduced the discharge capacity of the main spillway on the eastern side. The dam was now vulnerable to large storm events and was unable to survive the May 1889 storm.<sup class="reference" id="cite_ref-Colemanetal2016_4-7"><a href="#cite_note-Colemanetal2016-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Effect_on_the_development_of_American_law">Effect on the development of American law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=9" title="Edit section: Effect on the development of American law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Survivors were unable to recover damages in court because of the club's ample resources. First, the wealthy club owners had designed the club's financial structure to keep their personal assets separated from it and, secondly, it was difficult for any suit to prove that any particular owner had behaved negligently. Though the former reason was probably more central to the failure of survivors' suits against the club, the latter received coverage and extensive criticism in the national press.</p>
+<p>As a result of this criticism, in the 1890s, state courts around the country adopted <i><a class="mw-redirect" href="/wiki/Rylands_v._Fletcher" title="Rylands v. Fletcher">Rylands v. Fletcher</a></i>, a British common-law precedent which had formerly been largely ignored in the United States. State courts' adoption of <i>Rylands</i>, which held that a non-negligent defendant could be held liable for damage caused by the unnatural use of land, foreshadowed the legal system's 20th-century acceptance of <a href="/wiki/Strict_liability" title="Strict liability">strict liability</a>.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Legacy_and_popular_culture"><span id="Legacy"></span> Legacy and popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=10" title="Edit section: Legacy and popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At Point Park in Johnstown, at the confluence of the Stonycreek and Little Conemaugh rivers, an <a href="/wiki/Eternal_flame" title="Eternal flame">eternal flame</a> burns in memory of the flood victims.</p>
+<p>The Carnegie Library is now owned by the Johnstown Historical Society, which has adapted it for use as The Flood Museum.</p>
+<p>Portions of the Stone Bridge have been made part of the <a href="/wiki/Johnstown_Flood_National_Memorial" title="Johnstown Flood National Memorial">Johnstown Flood National Memorial</a>, established in 1969 and managed by the <a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a>.</p>
+<p><span id="Popular_culture"></span><span id="In_popular_culture"></span>The flood has been the subject or setting for numerous histories, novels, and other works as well.</p>
+<h3><span class="mw-headline" id="Science_fiction">Science fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=11" title="Edit section: Science fiction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The <i><a href="/wiki/Star_Trek:_The_Original_Series" title="Star Trek: The Original Series">Star Trek: The Original Series</a></i> novel <i><a href="/wiki/Rough_Trails" title="Rough Trails">Rough Trails</a></i> (2006) (third part of the <i><a href="/wiki/Star_Trek:_New_Earth" title="Star Trek: New Earth">Star Trek: New Earth</a></i> mini-series) by <a class="mw-redirect" href="/wiki/L.A._Graf" title="L.A. Graf">L.A. Graf</a> recreates the Johnstown Flood set on another planet.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></li>
+<li><a href="/wiki/Peg_Kehret" title="Peg Kehret">Peg Kehret</a>'s fantasy novel, <i>The Flood Disaster</i>, features two students assigned a project on the flood who travel back in time.</li>
+<li><a href="/wiki/Murray_Leinster" title="Murray Leinster">Murray Leinster</a>'s fantasy novel <i><a href="/wiki/The_Time_Tunnel#Murray_Leinster_promotional_novel" title="The Time Tunnel">The Time Tunnel</a></i> (1967) features two time travelers who were unable to warn the Johnstown population of the coming disaster.</li>
+<li><a href="/wiki/Catherine_Marshall" title="Catherine Marshall">Catherine Marshall</a>'s novel <i>Julie</i> features a teenage girl living in a small Pennsylvania town below an earthen dam in the 1930s; its events parallel the Johnstown Flood.</li>
+<li>Paul Mark Tag's science fiction novel <i>Prophecy</i> features the flood.</li>
+<li>Donald Keith's science fiction serial <i>Mutiny in the Time Machine</i> was published in Boy's Life magazine beginning in Dec 1962. It involved a Boy Scout troop discovering a time machine and travelling to Johnstown just prior to the flood.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></li>
+<li>In the <a href="/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)" title="Teenage Mutant Ninja Turtles (1987 TV series)">1987–1996 animated Teenage Mutant Ninja Turtles</a> series, when New York City is flooded in the episode "20 000 Leaks Under the City", Burne Thompson says it is the biggest story since the Johnstown Flood.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Film_and_television">Film and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=12" title="Edit section: Film and television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>The Johnstown Flood</i> (1926) is an American silent <a href="/wiki/Epic_film" title="Epic film">epic film</a> directed by <a href="/wiki/Irving_Cummings" title="Irving Cummings">Irving Cummings</a>. A print is held at <a class="mw-redirect" href="/wiki/George_Eastman_House" title="George Eastman House">George Eastman House</a>.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></li>
+<li><i>The Johnstown Flood</i> (1946 film), a 1946 animated film. <a href="/wiki/Mighty_Mouse" title="Mighty Mouse">Mighty Mouse</a> uses time-reversal power to undo the flood and prevent the dam from breaking in the first place. One of a series of cartoons where he stops disasters that actually happened.</li>
+<li><a href="/wiki/The_Johnstown_Flood_(1989_film)" title="The Johnstown Flood (1989 film)"><i>The Johnstown Flood</i> (1989 film)</a>, a 1989 short documentary film which won the Best Documentary Academy Award in 1990.</li>
+<li><a href="/wiki/The_Men_Who_Built_America" title="The Men Who Built America">"Bloody Battles" episode of <i>The Men Who Built America</i></a></li>
+</ul>
+<h3><span class="mw-headline" id="Theater">Theater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=13" title="Edit section: Theater">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>"A True History of the Johnstown Flood" by <a href="/wiki/Rebecca_Gilman" title="Rebecca Gilman">Rebecca Gilman</a><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup></li>
+<li>By the early twentieth century, entertainers developed an exhibition portraying the flood, using moving scenery, light effects, and a live narrator. It was featured as a main attraction at the <a class="new" href="/w/index.php?title=Stockholm_Exhibition_(1909)&amp;action=edit&amp;redlink=1" title="Stockholm Exhibition (1909) (page does not exist)">Stockholm Exhibition</a> of 1909, where it was seen by 100,000 and presented as "our time's greatest electromechanical spectacle".<sup class="reference" id="cite_ref-Johansson_27-0"><a href="#cite_note-Johansson-27">[27]</a></sup> The stage was 82 feet (25 m) wide, and the show employed a total of 13 stagehands.<sup class="reference" id="cite_ref-Johansson_27-1"><a href="#cite_note-Johansson-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=14" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>"<a class="mw-redirect" href="/wiki/Mother_Country_(song)" title="Mother Country (song)">Mother Country</a>", written by singer-songwriter <a href="/wiki/John_Stewart_(musician)" title="John Stewart (musician)">John Stewart</a> in 1969, contains the lyrics "What ever happened to those faces in the old photographs / I mean, the little boys....... /  Boys? . . . . . Hell they were men /  Who stood knee deep in the Johnstown mud /  In the time of that terrible flood /  And they listened to the water, that awful noise /  And then they put away the dreams that belonged to little boys."</li>
+<li>"<a href="/wiki/Highway_Patrolman" title="Highway Patrolman">Highway Patrolman</a>", a track from <a href="/wiki/Bruce_Springsteen" title="Bruce Springsteen">Bruce Springsteen</a>'s 1982 album <a href="/wiki/Nebraska_(album)" title="Nebraska (album)"><i>Nebraska</i></a>, mentions a song titled "Night of the Johnstown Flood."</li>
+<li>"Wall of Water" (2015), written and recorded by amateur singer-songwriter/musician David Zuder of Wadsworth, Ohio (whose maternal family came from Johnstown), includes music and lyrics describing the 1889 flood.</li>
+</ul>
+<h3><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=15" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There is literature about the flood. Poems include:</p>
+<ul>
+<li>"The Pennsylvania Disaster", a poem by <a href="/wiki/William_McGonagall" title="William McGonagall">William McGonagall</a><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup></li>
+<li>"<a class="extiw" href="https://en.wikisource.org/wiki/By_the_Conemaugh" title="s:By the Conemaugh">By the Conemaugh</a>", a poem by <a href="/wiki/Florence_Earle_Coates" title="Florence Earle Coates">Florence Earle Coates</a></li>
+</ul>
+<p>Short stories include:</p>
+<ul>
+<li>Brian Booker's "A Drowning Accident", in <i><a href="/wiki/One_Story" title="One Story">One Story</a></i> (Issue #57, May 30, 2005), was largely based on the Johnstown Flood of 1889.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></li>
+<li><a href="/wiki/Caitl%C3%ADn_R._Kiernan" title="Caitlín R. Kiernan">Caitlín R. Kiernan</a> featured the flood in her "To This Water (Johnstown, Pennsylvania, 1889)", in her collected <i><a href="/wiki/Tales_of_Pain_and_Wonder" title="Tales of Pain and Wonder">Tales of Pain and Wonder</a></i> (1994).</li>
+</ul>
+<p>Books about the flood in a historical context include:</p>
+<ul>
+<li>Willis Fletcher Johnson wrote in 1889 a book called <i>History of the Johnstown Flood</i> (published by Edgewood Publishing Co.), likely the first book account of the flood.</li>
+<li>Gertrude Quinn Slattery, who survived the flood as a six-year-old girl, published a memoir entitled <i>Johnstown and Its Flood</i> (1936).</li>
+<li>Historian and author <a href="/wiki/David_McCullough" title="David McCullough">David McCullough</a>'s first book was <i>The Johnstown Flood</i> (1968), published by <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a>.</li>
+</ul>
+<p>Fictional novels include:</p>
+<ul>
+<li><a href="/wiki/Rudyard_Kipling" title="Rudyard Kipling">Rudyard Kipling</a> noted the flood in his novel, <i><a href="/wiki/Captains_Courageous" title="Captains Courageous">Captains Courageous</a></i> (1897), as the disaster that destroyed the family of the minor character "Pennsylvania Pratt."</li>
+<li>Marden A. Dahlstedt wrote the young adult novel, <i>The Terrible Wave</i> (1972), featuring a young girl as the main character, the book is inspired by the memoir of Gertrude Quinn (Slattery) who was six years old at the time of the flood.</li>
+<li><a href="/wiki/John_Jakes" title="John Jakes">John Jakes</a> featured the flood in his novel, <i>The Americans</i> (1979), set in 1890 and the final book in the series of <i><a href="/wiki/The_Kent_Family_Chronicles" title="The Kent Family Chronicles">The Kent Family Chronicles</a></i>.</li>
+<li>Rosalyn Alsobrook wrote <i>Emerald Storm</i> (1985), a mass market historical romance set in Johnstown. The characters Patricia and Cole try to reunite with each other and loved ones after the flood.</li>
+<li><a href="/wiki/Kathleen_Cambor" title="Kathleen Cambor">Kathleen Cambor</a> wrote the historical novel <i><a href="/wiki/In_Sunlight,_In_a_Beautiful_Garden" title="In Sunlight, In a Beautiful Garden">In Sunlight, In a Beautiful Garden</a></i> (2001), based on events of the flood. The book was a <i><a class="mw-redirect" href="/wiki/New_York_Times" title="New York Times">New York Times</a></i> Notable Book of the Year.</li>
+<li>Richard A. Gregory wrote <i>The Bosses Club, The conspiracy that caused the Johnstown Flood, destroying the iron and steel capital of America</i> (2011), a historical novel that proposes a theory of the involvement of Andrew Carnegie and other wealthy American industrialists in the Johnstown Flood, told through the lives of two survivors.</li>
+<li>Judith Redline Coopey wrote <i>Waterproof: A Novel of the Johnstown Flood</i> (2012), a story of Pamela Gwynedd McCrae from 1889–1939 through flashbacks.</li>
+<li>Kathleen Danielczyk wrote "Summer of Gold and Water" (2013) which tells story of life at the lake, the flood and a coming together of the classes.</li>
+<li>Colleen Coble wrote "The Wedding Quilt Bride" (2001) which tells the story of a romance between a member of the club's granddaughter and a man brought in to see if the dam was really in trouble. It follows him trying to convince the people of the danger and then the flood.</li>
+<li><a class="external text" href="http://authormichaeloates.com/#" rel="nofollow">Michael Stephan Oates</a> wrote the historical fiction novel "Wade in the Water" (2014), a coming of age tale set against the backdrop of the Johnstown flood.</li>
+<li>Jeanette Watts's "Wealth and Privilege" (2014) portrays the Fishing and Hunting Club at its heyday, and then the main characters scramble for their lives in the Flood at the novel's climax.</li>
+<li>Mary Hogan's "The Woman In the Photo" (2016) writes about two young women in present-day and Johnston, Pennsylvania in 1889.</li>
+<li>Jane Claypool Miner wrote "Jennie" (1989). An historical fiction romance written about a young girl who rides the flood from South Fork to Johnstown and survives. She then works as a telegraph operator for the reporters flooding the town while advocating for the people living there.</li>
+</ul>
+<p>Humor as a speaker's resource:</p>
+<ul>
+<li>Variations on story of an elderly man lived through the Johnstown Flood (or in Johnstown PA) and bored countless of his contemporaries with his narratives about the Johnstown Flood. When he died, he went to Heaven and was greeted by St. Peter, whom he told that he wanted to tell the gripping story one more time. He's permitted to retell the story but warned that Noah will be in the crowd or audience.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/St._Francis_Dam" title="St. Francis Dam">St. Francis Dam</a> disaster</li>
+<li><a href="/wiki/Vajont_Dam" title="Vajont Dam">Vajont Dam</a> disaster</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-WDL1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-WDL1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WDL1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-WDL1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-WDL1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-WDL1_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-WDL1_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.wdl.org/en/item/9571/" rel="nofollow">"Johnstown, Pennsylvania, 1904"</a>. <i><a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a></i>. <a href="/wiki/World_Digital_Library" title="World Digital Library">World Digital Library</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Library+of+Congress&amp;rft.atitle=Johnstown%2C+Pennsylvania%2C+1904&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F9571%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-McCullough-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-McCullough_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-McCullough_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-McCullough_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">McCullough, David (1968). <i>The Johnstown Flood</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-671-20714-8" title="Special:BookSources/0-671-20714-8">0-671-20714-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Johnstown+Flood&amp;rft.date=1968&amp;rft.isbn=0-671-20714-8&amp;rft.aulast=McCullough&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-inflation-US-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-inflation-US_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-inflation-US_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation"><cite class="citation web">Federal Reserve Bank of Minneapolis Community Development Project. <a class="external text" href="https://www.minneapolisfed.org/community/teaching-aids/cpi-calculator-information/consumer-price-index-1800" rel="nofollow">"Consumer Price Index (estimate) 1800–"</a>. Federal Reserve Bank of Minneapolis<span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Consumer+Price+Index+%28estimate%29+1800%E2%80%93&amp;rft.pub=Federal+Reserve+Bank+of+Minneapolis&amp;rft.au=Federal+Reserve+Bank+of+Minneapolis+Community+Development+Project&amp;rft_id=https%3A%2F%2Fwww.minneapolisfed.org%2Fcommunity%2Fteaching-aids%2Fcpi-calculator-information%2Fconsumer-price-index-1800&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></span></li>
+<li id="cite_note-Colemanetal2016-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Colemanetal2016_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Colemanetal2016_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Colemanetal2016_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Colemanetal2016_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Colemanetal2016_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Colemanetal2016_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Colemanetal2016_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Colemanetal2016_4-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Coleman, Neil M.; Kaktins, Uldis; Wojno, Stephanie (2016). "Dam-Breach hydrology of the Johnstown flood of 1889–challenging the findings of the 1891 investigation report". <i>Heliyon</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.heliyon.2016.e00120" rel="nofollow">10.1016/j.heliyon.2016.e00120</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Heliyon&amp;rft.atitle=Dam-Breach+hydrology+of+the+Johnstown+flood+of+1889%E2%80%93challenging+the+findings+of+the+1891+investigation+report&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1016%2Fj.heliyon.2016.e00120&amp;rft.aulast=Coleman&amp;rft.aufirst=Neil+M.&amp;rft.au=Kaktins%2C+Uldis&amp;rft.au=Wojno%2C+Stephanie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Perkins-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Perkins_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Perkins_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.sciencenews.org/view/generic/id/48598/title/Johnstown_Flood_matched_volume_of_Mississippi_River" rel="nofollow">Sid Perkins, "Johnstown Flood matched volume of Mississippi River"</a>, <i>Science News</i>, Vol.176 #11, 21 November 2009, accessed 14 October 2012</span></li>
+<li id="cite_note-Gibson-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gibson_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gibson, Christine. <a class="external text" href="https://web.archive.org/web/20101205074823/http://www.americanheritage.com/articles/magazine/ah/2006/4/2006_4_26.shtml" rel="nofollow">"Our 10 Greatest Natural Disasters"</a>. <i>American Heritage</i> (August/September 2006). Archived from <a class="external text" href="http://www.americanheritage.com/articles/magazine/ah/2006/4/2006_4_26.shtml" rel="nofollow">the original</a> on December 5, 2010.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Heritage&amp;rft.atitle=Our+10+Greatest+Natural+Disasters&amp;rft.issue=August%2FSeptember+2006&amp;rft.aulast=Gibson&amp;rft.aufirst=Christine&amp;rft_id=http%3A%2F%2Fwww.americanheritage.com%2Farticles%2Fmagazine%2Fah%2F2006%2F4%2F2006_4_26.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.redcross.org/about-us/history/clara-barton" rel="nofollow">"Founder Clara Barton"</a>. The American National Red Cross<span class="reference-accessdate">. Retrieved <span class="nowrap">25 January</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Founder+Clara+Barton&amp;rft.pub=The+American+National+Red+Cross&amp;rft_id=http%3A%2F%2Fwww.redcross.org%2Fabout-us%2Fhistory%2Fclara-barton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-nps-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-nps_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nps_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.johnstownpa.com/History/hist19.html" rel="nofollow">"Johnstown Flood of 1889 – Historic"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Johnstown+Flood+of+1889+%E2%80%93+Historic&amp;rft_id=http%3A%2F%2Fwww.johnstownpa.com%2FHistory%2Fhist19.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-weather-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-weather_9-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.weather.com/encyclopedia/flood/john89.html" rel="nofollow">"The Johnstown Flood Of 1889", <i>The Weather Channel</i></a> <a class="external text" href="https://web.archive.org/web/20131226205316/http://www.weather.com/encyclopedia/flood/john89.html" rel="nofollow">Archived</a> 2013-12-26 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-frank-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-frank_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-frank_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-frank_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-frank_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Frank, Walter Smoter (2004). <a class="external text" href="http://smoter.com/flooddam/johnstow.htm" rel="nofollow">"The Cause of the Johnstown Flood"</a>. Walter Smoter Frank.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Cause+of+the+Johnstown+Flood&amp;rft.pub=Walter+Smoter+Frank&amp;rft.date=2004&amp;rft.aulast=Frank&amp;rft.aufirst=Walter+Smoter&amp;rft_id=http%3A%2F%2Fsmoter.com%2Fflooddam%2Fjohnstow.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span> <i>Civil Engineering</i>, pp. 63–66, May 1988</span></li>
+<li id="cite_note-museum-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-museum_11-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.jaha.org/FloodMuseum/clubanddam.html" rel="nofollow">"The South Fork Fishing &amp; Hunting Club and the South Fork Dam", Johnstown Flood Museum</a></span></li>
+<li id="cite_note-Lane.2C_F.W._1966_p.129-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lane.2C_F.W._1966_p.129_12-0">^</a></b></span> <span class="reference-text">Lane, F.W. <i>The Elements Rage</i> (David &amp; Charles 1966), p.129</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Kaktins, Uldis, Davis Todd, C., Wojno, S., Coleman, N.M. (2013). Revisiting the timing and events leading to and causing the Johnstown Flood of 1889. Pennsylvania History, v. 80, no. 3, 335–363.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">JAHA <a class="external text" href="http://www.jaha.org/edu/flood/story/prr_reports_flood.html/" rel="nofollow">"Johnstown Flood Museum: Pennsylvania Railroad Interview Transcripts"</a> <a class="external text" href="https://web.archive.org/web/20130329151903/http://www.jaha.org/edu/flood/story/prr_reports_flood.html" rel="nofollow">Archived</a> 2013-03-29 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><i>History of the Johnstown Flood</i>, Willis Fletcher Johnson (1889), pp 61–64. Available on CD-ROM from <a class="external text" href="http://www.betweenthelakes.com/states/johnstown.htm" rel="nofollow">"Johnstown"</a> <a class="external text" href="https://web.archive.org/web/20061020021007/http://www.betweenthelakes.com/states/johnstown.htm" rel="nofollow">Archived</a> 2006-10-20 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., Between the Lakes</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Lane, F.W. <i>The Elements Rage</i> (David &amp; Charles 1966), p.131</span></li>
+<li id="cite_note-Shomo-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shomo_17-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Pace, Eric (March 24, 1997). <a class="external text" href="https://www.webcitation.org/5u8lzVHQX?url=http://www.nytimes.com/1997/03/24/us/frank-shomo-infant-survivor-of-johnstown-flood-dies-at-108.html" rel="nofollow">"Frank Shomo, Infant Survivor Of Johnstown Flood, Dies at 108"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. Archived from <a class="external text" href="https://www.nytimes.com/1997/03/24/us/frank-shomo-infant-survivor-of-johnstown-flood-dies-at-108.html" rel="nofollow">the original</a> on November 10, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Frank+Shomo%2C+Infant+Survivor+Of+Johnstown+Flood%2C+Dies+at+108&amp;rft.date=1997-03-24&amp;rft.aulast=Pace&amp;rft.aufirst=Eric&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1997%2F03%2F24%2Fus%2Ffrank-shomo-infant-survivor-of-johnstown-flood-dies-at-108.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Zebrowski, Ernest (1998). <i>Perils of a Restless Planet: Scientific Perspectives on Natural Disasters</i>. Cambridge University Press. p. 81. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780521654883" title="Special:BookSources/9780521654883">9780521654883</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Perils+of+a+Restless+Planet%3A+Scientific+Perspectives+on+Natural+Disasters&amp;rft.pages=81&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1998&amp;rft.isbn=9780521654883&amp;rft.aulast=Zebrowski&amp;rft.aufirst=Ernest&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Francis1891-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Francis1891_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Francis1891_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Francis1891_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Francis, J.B.; Worthen, W.E.; Becker, M.J.; Fteley, A. (1891). "Report of the Committee on the Cause of the Failure of the South Fork Dam". <i>Transactions of the American Society of Civil Engineers</i>. v. XXIV: pp. 431–469.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Transactions+of+the+American+Society+of+Civil+Engineers&amp;rft.atitle=Report+of+the+Committee+on+the+Cause+of+the+Failure+of+the+South+Fork+Dam&amp;rft.volume=v.+XXIV&amp;rft.pages=pp.+431-469.&amp;rft.date=1891&amp;rft.aulast=Francis&amp;rft.aufirst=J.B.&amp;rft.au=Worthen%2C+W.E.&amp;rft.au=Becker%2C+M.J.&amp;rft.au=Fteley%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text (<a href="/wiki/Category:CS1_maint:_Extra_text" title="Category:CS1 maint: Extra text">link</a>)</span></span></li>
+<li id="cite_note-Cole2017-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cole2017_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cole2017_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Coleman, Neil M.; Wojno, Stephanie; Kaktins, Uldis (2017). <a class="external text" href="https://gsa.confex.com/gsa/2017NE/webprogram/Paper290358.html" rel="nofollow">"The Johnstown Flood of 1889 – Challenging the Findings of the ASCE Investigation Report"</a>. <i>Geological Society of America Abstracts with Programs</i>. <b>49</b> (2). Paper No. 29-10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1130%2Fabs%2F2017NE-290358" rel="nofollow">10.1130/abs/2017NE-290358</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geological+Society+of+America+Abstracts+with+Programs&amp;rft.atitle=The+Johnstown+Flood+of+1889+%E2%80%93+Challenging+the+Findings+of+the+ASCE+Investigation+Report&amp;rft.volume=49&amp;rft.issue=2&amp;rft.pages=Paper+No.+29-10&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1130%2Fabs%2F2017NE-290358&amp;rft.aulast=Coleman&amp;rft.aufirst=Neil+M.&amp;rft.au=Wojno%2C+Stephanie&amp;rft.au=Kaktins%2C+Uldis&amp;rft_id=https%3A%2F%2Fgsa.confex.com%2Fgsa%2F2017NE%2Fwebprogram%2FPaper290358.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shugerman, Jed Handelsman (2000). <a class="external text" href="https://www.yalelawjournal.org/note/the-floodgates-of-strict-liability-bursting-reservoirs-and-the-adoption-of-ligfletcher-v-rylandslig-in-the-gilded-age" rel="nofollow">"Note: The Floodgates of Strict Liability: Bursting Reservoirs and the Adoption of <i>Fletcher v. Rylands</i> in the Gilded Age"</a>. <i>Yale Law Journal</i>. <b>110</b> (2): 333–377.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Yale+Law+Journal&amp;rft.atitle=Note%3A+The+Floodgates+of+Strict+Liability%3A+Bursting+Reservoirs+and+the+Adoption+of+Fletcher+v.+Rylands+in+the+Gilded+Age&amp;rft.volume=110&amp;rft.issue=2&amp;rft.pages=333-377&amp;rft.date=2000&amp;rft.aulast=Shugerman&amp;rft.aufirst=Jed+Handelsman&amp;rft_id=https%3A%2F%2Fwww.yalelawjournal.org%2Fnote%2Fthe-floodgates-of-strict-liability-bursting-reservoirs-and-the-adoption-of-ligfletcher-v-rylandslig-in-the-gilded-age&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Ayers, Jeff (2006). <i><a href="/wiki/Voyages_of_Imagination" title="Voyages of Imagination">Voyages of Imagination</a></i>. <a href="/wiki/Pocket_Books" title="Pocket Books">Pocket Books</a>. pp. 431–432. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-4165-0349-8" title="Special:BookSources/1-4165-0349-8">1-4165-0349-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Voyages+of+Imagination&amp;rft.pages=431-432&amp;rft.pub=Pocket+Books&amp;rft.date=2006&amp;rft.isbn=1-4165-0349-8&amp;rft.aulast=Ayers&amp;rft.aufirst=Jeff&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Inc, Boy Scouts of America (1 December 1962). <a class="external text" href="https://books.google.com/books?id=GTvxk06NVkoC&amp;printsec=frontcover&amp;dq=boy's%20life%20dec%201962&amp;hl=en&amp;sa=X&amp;ei=m6WDU4jSD8TMsQSin4DgDw&amp;ved=0CC0Q6AEwAA#v=onepage&amp;q=boy's%20life%20dec%201962&amp;f=false" rel="nofollow">"Boys' Life"</a>. Boy Scouts of America, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2017</span> – via Google Books.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Boys%27+Life&amp;rft.pub=Boy+Scouts+of+America%2C+Inc.&amp;rft.date=1962-12-01&amp;rft.aulast=Inc&amp;rft.aufirst=Boy+Scouts+of+America&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DGTvxk06NVkoC%26printsec%3Dfrontcover%26dq%3Dboy%27s%2520life%2520dec%25201962%26hl%3Den%26sa%3DX%26ei%3Dm6WDU4jSD8TMsQSin4DgDw%26ved%3D0CC0Q6AEwAA%23v%3Donepage%26q%3Dboy%27s%2520life%2520dec%25201962%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.allreadable.com/1166IOZJ" rel="nofollow">"20 000 Leaks Under the City"</a>. Allreadable. 1989<span class="reference-accessdate">. Retrieved <span class="nowrap">20 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=20+000+Leaks+Under+the+City&amp;rft.pub=Allreadable&amp;rft.date=1989&amp;rft_id=http%3A%2F%2Fwww.allreadable.com%2F1166IOZJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.silentera.com/PSFL/data/J/JohnstownFlood1926.html" rel="nofollow">"Silent Era : Progressive Silent Film List"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Silent+Era+%3A+Progressive+Silent+Film+List&amp;rft_id=http%3A%2F%2Fwww.silentera.com%2FPSFL%2Fdata%2FJ%2FJohnstownFlood1926.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://leisureblogs.chicagotribune.com/the_theater_loop/2010/03/true-history-johnstown-flood-goodman-theatre-review-chris-jones-2-stars.html" rel="nofollow">"Theater Loop – Chicago Theater News &amp; Reviews – Chicago Tribune"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Theater+Loop+%E2%80%93+Chicago+Theater+News+%26+Reviews+%E2%80%93+Chicago+Tribune&amp;rft_id=http%3A%2F%2Fleisureblogs.chicagotribune.com%2Fthe_theater_loop%2F2010%2F03%2Ftrue-history-johnstown-flood-goodman-theatre-review-chris-jones-2-stars.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Johansson-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-Johansson_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Johansson_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.post-gazette.com/pg/11211/1163861-109-0.stm" rel="nofollow">Shelley Johansson of the Johnstown Flood Museum, "First Person: The Swedish Johnstown flood"</a>, <i>Pittsburgh Post-Gazette</i>, 30 July 2011</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a class="external text" href="http://runeberg.org/hvar8dag/10/0648.html" rel="nofollow">"Johnstowns undergång"</a>, <i>Hvar 8 dag</i>, issue 41, 11 July 1909, at Runeberg website</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">McGonagall, William (1889). <a class="external text" href="http://www.mcgonagall-online.org.uk/gems/the-pennsylvania-disaster" rel="nofollow">"The Pennsylvania Disaster"</a>. <i>McGonagall Online</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=McGonagall+Online&amp;rft.atitle=The+Pennsylvania+Disaster&amp;rft.date=1889&amp;rft.aulast=McGonagall&amp;rft.aufirst=William&amp;rft_id=http%3A%2F%2Fwww.mcgonagall-online.org.uk%2Fgems%2Fthe-pennsylvania-disaster&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.one-story.com/index.php?page=story&amp;story_id=57" rel="nofollow">"One Story"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=One+Story&amp;rft_id=http%3A%2F%2Fwww.one-story.com%2Findex.php%3Fpage%3Dstory%26story_id%3D57&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Wescott, David (6 December 2013). <a class="external text" href="http://itsnotalecture.blogspot.com/2013/12/teaching-flood-preparedness-to-noah.html" rel="nofollow">"Teaching flood preparedness to Noah"</a>. <i>It's Not a Lecture</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=It%27s+Not+a+Lecture&amp;rft.atitle=Teaching+flood+preparedness+to+Noah&amp;rft.date=2013-12-06&amp;rft.aulast=Wescott&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fitsnotalecture.blogspot.com%2F2013%2F12%2Fteaching-flood-preparedness-to-noah.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=18" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="image" href="/wiki/File:Wikisource-logo.svg"><img alt="" data-file-height="430" data-file-width="410" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/></a> This article incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>: <cite class="citation encyclopaedia" id="CITEREFChisholm1911">Chisholm, Hugh, ed. (1911). "<a class="extiw" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johnstown_(Pennsylvania)" title="wikisource:1911 Encyclopædia Britannica/Johnstown (Pennsylvania)">Johnstown (Pennsylvania)</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>15</b> (11th ed.). Cambridge University Press. p. 475.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Johnstown+%28Pennsylvania%29&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pages=475&amp;rft.edition=11th&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohnstown+Flood"><span style="display:none;"> </span></span></p>
+<ul>
+<li>Coleman, Neil M., Wojno, Stephanie, and Kaktins, Uldis. (2017). The Johnstown Flood of 1889 – Challenging the Findings of the ASCE Investigation Report. Paper No. 29-10. Geological Society of America Abstracts with Programs. Vol. 49, No. 2. <a class="external free" href="https://gsa.confex.com/gsa/2017NE/webprogram/Paper290358.html" rel="nofollow">https://gsa.confex.com/gsa/2017NE/webprogram/Paper290358.html</a>. doi: 10.1130/abs/2017NE-290358.</li>
+<li>Coleman, Neil M., Kaktins, Uldis, and Wojno, Stephanie (2016). Dam-Breach hydrology of the Johnstown flood of 1889 – challenging the findings of the 1891 investigation report, Heliyon, <a class="external free" href="https://dx.doi.org/10.1016/j.heliyon.2016.e00120" rel="nofollow">https://dx.doi.org/10.1016/j.heliyon.2016.e00120</a>.</li>
+<li>Coleman, Neil M., Wojno, Stephanie, and Kaktins, Uldis. (2016). Dam-breach hydrology of the Johnstown Flood of 1889 – Challenging the findings of the 1891 investigation report. Paper No. 178-5. Geological Society of America Abstracts with Programs. Vol. 48, No. 7. <a class="external free" href="https://gsa.confex.com/gsa/2016AM/webprogram/Paper283665.html" rel="nofollow">https://gsa.confex.com/gsa/2016AM/webprogram/Paper283665.html</a>. doi: 10.1130/abs/2016AM-283665.</li>
+<li>Coleman, Neil M., Davis Todd, C., Myers, Reed A., Kaktins, Uldis (2009). "Johnstown flood of 1889 – destruction and rebirth" (Presentation 76-9). Geological Society of America Abstracts with Programs, Vol. 41, No. 7, p. 216.</li>
+<li>Davis T., C., Coleman, Neil M., Meyers, Reed A., and Kaktins, Uldis (2009). A determination of peak discharge rate and water volume from the 1889 Johnstown Flood (Presentation 76-10). Geological Society of America Abstracts with Programs, Vol. 41, No. 7, p. 216.</li>
+<li>Kaktins, Uldis, Davis Todd, C., Wojno, S., Coleman, N.M. (2013). Revisiting the timing and events leading to and causing the Johnstown Flood of 1889. Pennsylvania History, v. 80, no. 3, 335–363.</li>
+<li>Johnson, Willis Fletcher. <i>History of the Johnstown Flood</i> (1889). <a class="external autonumber" href="https://web.archive.org/web/20061020021007/http://www.betweenthelakes.com/states/johnstown.htm" rel="nofollow">[1]</a></li>
+<li>McCullough, David. <i>The Johnstown Flood</i> (1968); <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-671-20714-8" title="Special:BookSources/0-671-20714-8">0-671-20714-8</a></li>
+<li>O'Connor, R. <i>Johnstown – The Day The Dam Broke</i> (1957).</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johnstown_Flood&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Johnstown_Flood" title="commons:Category:Johnstown Flood">Johnstown Flood</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.nps.gov/jofl/" rel="nofollow">"Johnstown Flood Memorial"</a>, National Park Service</li>
+<li><a class="external text" href="http://www.jaha.org/FloodMuseum/history.html" rel="nofollow">Johnstown Flood Museum</a> – Johnstown Area Heritage Association</li>
+<li><a class="external text" href="https://news.google.com/newspapers?id=0AhmAAAAIBAJ&amp;sjid=148NAAAAIBAJ&amp;pg=4517,501538&amp;dq=valley+of+death+johnstown&amp;hl=en" rel="nofollow">A Valley of Death</a> Three Rivers Tribune (Three Rivers Michigan) #45 Vol. XI June 7, 1889</li>
+<li><a class="external text" href="http://www.visitjohnstownpa.com/things-to-see-do/history-heritage/the-johnstown-flood/" rel="nofollow">"The Johnstown Flood", Greater Johnstown/Cambria County Convention &amp; Visitors Bureau</a></li>
+<li><a class="external text" href="https://books.google.com/books?id=8krlt1-IFkcC&amp;pg=PA81&amp;lpg=PA81&amp;dq=isaac+reed+%22many+thousand+human+lives+-%22&amp;source=bl&amp;ots=egNWWkTlL3&amp;sig=1dKSX0HWbEOdwAqO3Jxbg2tmRBg&amp;hl=en&amp;sa=X&amp;ved=0CB4Q6AEwAGoVChMIq7LGqK73xgIVzLMUCh3t8g2c#v=onepage&amp;q=isaac%20reed%20%22many%20thousand%20human%20lives%20-%22&amp;f=false" rel="nofollow">Perils of a Restless Planet: Scientific Perspectives on Natural Disasters by Ernest Zebrowsky</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Johnstown_Flood&amp;params=40_20_25_N_78_46_15_W_region:US-PA_type:waterbody_source:dewiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°20′25″N</span> <span class="longitude">78°46′15″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.34028°N 78.77083°W</span><span style="display:none">﻿ / <span class="geo">40.34028; -78.77083</span></span></span></a></span></span></span></p>
+<div aria-labelledby="City_of_Johnstown" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Johnstown,_Pennsylvania" title="Template:Johnstown, Pennsylvania"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Johnstown,_Pennsylvania" title="Template talk:Johnstown, Pennsylvania"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Johnstown,_Pennsylvania&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="City_of_Johnstown" style="font-size:114%;margin:0 4em"><a href="/wiki/Johnstown,_Pennsylvania" title="Johnstown, Pennsylvania">City of Johnstown</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Metro Area</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Johnstown,_Pennsylvania" title="Johnstown, Pennsylvania">Johnstown</a></li>
+<li><a href="/wiki/Westmont,_Pennsylvania" title="Westmont, Pennsylvania">Westmont</a></li>
+<li><a href="/wiki/Brownstown,_Cambria_County,_Pennsylvania" title="Brownstown, Cambria County, Pennsylvania">Brownstown</a></li>
+<li><a href="/wiki/Richland_Township,_Cambria_County,_Pennsylvania" title="Richland Township, Cambria County, Pennsylvania">Richland Township</a></li>
+<li><a href="/wiki/East_Conemaugh,_Pennsylvania" title="East Conemaugh, Pennsylvania">East Conemaugh</a></li>
+<li><a href="/wiki/Ferndale,_Pennsylvania" title="Ferndale, Pennsylvania">Ferndale</a></li>
+<li><a href="/wiki/Franklin,_Cambria_County,_Pennsylvania" title="Franklin, Cambria County, Pennsylvania">Franklin</a></li>
+<li><a href="/wiki/Daisytown,_Pennsylvania" title="Daisytown, Pennsylvania">Daisytown</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">History/Attractions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Johnstown Flood</a></li>
+<li><a href="/wiki/Johnstown_Flood_National_Memorial" title="Johnstown Flood National Memorial">Johnstown Flood National Memorial</a></li>
+<li><a href="/wiki/South_Fork_Dam" title="South Fork Dam">South Fork Dam</a></li>
+<li><a href="/wiki/Allegheny_Portage_Railroad" title="Allegheny Portage Railroad">Allegheny Portage Railroad</a></li>
+<li><a href="/wiki/Cambria_Iron_Company" title="Cambria Iron Company">Cambria Iron Company</a></li>
+<li><a href="/wiki/Johnstown_Inclined_Plane" title="Johnstown Inclined Plane">Inclined Plane</a></li>
+<li><a href="/wiki/Grandview_Cemetery,_Johnstown" title="Grandview Cemetery, Johnstown">Grandview Cemetery</a></li>
+<li><a href="/wiki/Staple_Bend_Tunnel" title="Staple Bend Tunnel">Staple Bend Tunnel</a></li>
+<li><a href="/wiki/Stone_Bridge_(Johnstown,_Pennsylvania)" title="Stone Bridge (Johnstown, Pennsylvania)">Stone Bridge</a></li>
+<li><a href="/wiki/Conemaugh_River" title="Conemaugh River">Conemaugh River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Transportation</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/John_Murtha_Johnstown-Cambria_County_Airport" title="John Murtha Johnstown-Cambria County Airport">Airport</a></li>
+<li><a class="mw-redirect" href="/wiki/Johnstown_(Amtrak_station)" title="Johnstown (Amtrak station)">Amtrak</a></li>
+<li><a href="/wiki/CamTran" title="CamTran">CamTran</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Education</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/University_of_Pittsburgh_at_Johnstown" title="University of Pittsburgh at Johnstown">University of Pittsburgh at Johnstown</a></li>
+<li><a href="/wiki/Pennsylvania_Highlands_Community_College" title="Pennsylvania Highlands Community College">Pennsylvania Highlands Community College</a></li>
+<li><a href="/wiki/Greater_Johnstown_High_School" title="Greater Johnstown High School">Greater Johnstown High School</a></li>
+<li><a href="/wiki/Bishop_McCort_High_School" title="Bishop McCort High School">Bishop McCort High School</a></li>
+<li><a href="/wiki/Richland_Senior_High_School" title="Richland Senior High School">Richland Senior High School</a></li>
+<li><a href="/wiki/Westmont_Hilltop_High_School" title="Westmont Hilltop High School">Westmont Hilltop High School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Industry</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AmeriServ_Financial" title="AmeriServ Financial">AmeriServ Financial</a></li>
+<li><a href="/wiki/Concurrent_Technologies_Corporation" title="Concurrent Technologies Corporation">Concurrent Technologies Corporation</a></li>
+<li><a class="mw-redirect" href="/wiki/DRS_Technologies" title="DRS Technologies">DRS Technologies</a></li>
+<li><a href="/wiki/Galliker%27s" title="Galliker's">Galliker's</a></li>
+<li><a href="/wiki/Cambria_Somerset_Authority" title="Cambria Somerset Authority">Cambria Somerset Authority</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Entertainment/Sports</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pasquerilla_Performing_Arts_Center" title="Pasquerilla Performing Arts Center">Pasquerilla Performing Arts Center</a></li>
+<li><a href="/wiki/Johnstown_Symphony_Orchestra" title="Johnstown Symphony Orchestra">Johnstown Symphony Orchestra</a></li>
+<li><a href="/wiki/Johnstown_Blue_Birds" title="Johnstown Blue Birds">Johnstown Blue Birds</a></li>
+<li><a href="/wiki/Johnstown_Jets" title="Johnstown Jets">Johnstown Jets</a></li>
+<li><a href="/wiki/Johnstown_Chiefs" title="Johnstown Chiefs">Johnstown Chiefs</a></li>
+<li><a href="/wiki/Johnstown_Tomahawks" title="Johnstown Tomahawks">Johnstown Tomahawks</a></li>
+<li><a href="/wiki/Cambria_County_War_Memorial_Arena" title="Cambria County War Memorial Arena">Cambria County War Memorial Arena</a></li>
+<li><a href="/wiki/Point_Stadium" title="Point Stadium">Point Stadium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Media/Pop Culture</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Slap_Shot_(film)" title="Slap Shot (film)">Slap Shot</a></i></li>
+<li><i><a href="/wiki/All_the_Right_Moves_(film)" title="All the Right Moves (film)">All the Right Moves</a></i></li>
+<li><i><a href="/wiki/The_Tribune-Democrat" title="The Tribune-Democrat">The Tribune-Democrat</a></i></li>
+<li><i><a href="/wiki/Johnstown_Magazine" title="Johnstown Magazine">Johnstown Magazine</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Television</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks hlist navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><br/>
+<a href="/wiki/Owned-and-operated_television_stations_in_the_United_States" title="Owned-and-operated television stations in the United States">Network O&amp;Os</a> are in <b>bold</b></div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-even hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/WPSU-TV" title="WPSU-TV">WPSU</a> (3.1 <a href="/wiki/PBS" title="PBS">PBS</a>, 3.2 <a href="/wiki/Create_(TV_network)" title="Create (TV network)">Create</a>, 3.3 <a href="/wiki/World_(TV_channel)" title="World (TV channel)">World</a>, 3.4 <a href="/wiki/PBS_Kids" title="PBS Kids">PBS Kids</a>)</li>
+<li><a href="/wiki/WJAC-TV" title="WJAC-TV">WJAC</a> (6.1 <a href="/wiki/NBC" title="NBC">NBC</a>, 6.2 <a href="/wiki/MeTV" title="MeTV">MeTV</a>, 6.3 <a href="/wiki/Comet_(TV_network)" title="Comet (TV network)">Comet</a>, 6.4 <a href="/wiki/Grit_(TV_network)" title="Grit (TV network)">Grit</a>)</li>
+<li><a href="/wiki/WWCP-TV" title="WWCP-TV">WWCP</a> (8.1 <a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">Fox</a>, <a href="/wiki/WATM-TV" title="WATM-TV">8.2</a> <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a>)</li>
+<li><a href="/wiki/WTAJ-TV" title="WTAJ-TV">WTAJ</a> (10.1 <a href="/wiki/CBS" title="CBS">CBS</a>, 10.2 <a href="/wiki/Escape_(TV_network)" title="Escape (TV network)">Escape</a>, 10.3 <a href="/wiki/Laff_(TV_network)" title="Laff (TV network)">Laff</a>)</li>
+<li><a href="/wiki/WSCP-LP" title="WSCP-LP">WSCP-LP</a> (13 <a href="/wiki/Independent_station_(North_America)" title="Independent station (North America)">Ind</a>)</li>
+<li><a href="/wiki/WPCW" title="WPCW">WPCW</a> (19.1 <a href="/wiki/The_CW" title="The CW">CW</a>)</li>
+<li><a href="/wiki/WATM-TV" title="WATM-TV">WATM</a> (23.1 <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a>, <a href="/wiki/WWCP-TV" title="WWCP-TV">23.2</a> <a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">Fox</a>, 23.3 <a href="/wiki/This_TV" title="This TV">This TV</a>, 23.4 <a href="/wiki/Antenna_TV" title="Antenna TV">ATV</a>)</li>
+<li><a href="/wiki/WHVL-LP" title="WHVL-LP">WHVL-LP</a> (29.1 <a href="/wiki/MyNetworkTV" title="MyNetworkTV">MNTV</a>, 29.2 <a href="/wiki/Buzzr" title="Buzzr">Buzzr</a>)</li>
+<li><a href="/wiki/WNEP-TV" title="WNEP-TV">W36BE-D</a> (36.1 <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a>, 36.2 <a href="/wiki/Antenna_TV" title="Antenna TV">ATV</a>, 36.3 <a href="/wiki/Justice_Network" title="Justice Network">Justice</a>)</li>
+<li><a href="/wiki/WKBS-TV" title="WKBS-TV">WKBS</a> (47.1 <a href="/wiki/Cornerstone_Television" title="Cornerstone Television">COR</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Radio</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks hlist navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/WCCL" title="WCCL">WCCL</a></li>
+<li><a href="/wiki/WCRO" title="WCRO">WCRO</a></li>
+<li><a href="/wiki/WCCS" title="WCCS">WCCS</a></li>
+<li><a href="/wiki/WDAD" title="WDAD">WDAD</a></li>
+<li><a href="/wiki/WESA_(FM)" title="WESA (FM)">WESA</a></li>
+<li><a href="/wiki/WFGI-FM" title="WFGI-FM">WFGI-FM</a></li>
+<li><a href="/wiki/WFRB_(AM)" title="WFRB (AM)">WFRB</a></li>
+<li><a href="/wiki/WFRJ" title="WFRJ">WFRJ</a></li>
+<li><a href="/wiki/WJHT" title="WJHT">WJHT</a></li>
+<li><a href="/wiki/WKGE" title="WKGE">WKGE</a></li>
+<li><a href="/wiki/WKYE" title="WKYE">WKYE</a></li>
+<li><a class="mw-redirect" href="/wiki/WLCY-FM" title="WLCY-FM">WLCY</a></li>
+<li><a class="mw-redirect" href="/wiki/WLGY" title="WLGY">WLGY</a></li>
+<li><a class="mw-redirect" href="/wiki/WLKH" title="WLKH">WLKH</a></li>
+<li><a href="/wiki/WLKJ" title="WLKJ">WLKJ</a></li>
+<li><a href="/wiki/WMUG-LP" title="WMUG-LP">WMUG-LP</a></li>
+<li><a href="/wiki/WNTI" title="WNTI">WNTI</a></li>
+<li><a href="/wiki/WNTJ" title="WNTJ">WNTJ</a></li>
+<li><a href="/wiki/WPCL" title="WPCL">WPCL</a></li>
+<li><a class="new" href="/w/index.php?title=WQMU-FM&amp;action=edit&amp;redlink=1" title="WQMU-FM (page does not exist)">WQMU</a></li>
+<li><a href="/wiki/WQED-FM" title="WQED-FM">WQED-FM</a></li>
+<li><a href="/wiki/WRKW" title="WRKW">WRKW</a></li>
+<li><a href="/wiki/WXM33" title="WXM33">WXM33</a></li>
+<li><a href="/wiki/WWGE" title="WWGE">WWGE</a></li>
+<li><a href="/wiki/WYRA" title="WYRA">WYRA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20171104164045
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.584 seconds
+Real time usage: 0.727 seconds
+Preprocessor visited node count: 5014/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89502/2097152 bytes
+Template argument size: 3829/2097152 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 13/500
+Lua time usage: 0.246/10.000 seconds
+Lua memory usage: 9.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  613.088      1 -total
+ 21.01%  128.799      1 Template:Reflist
+ 19.53%  119.711      1 Template:Infobox_flood
+ 19.20%  117.691      1 Template:Infobox_event
+ 17.01%  104.273      1 Template:Infobox
+ 13.23%   81.100      5 Template:Ifempty
+ 13.22%   81.058     23 Template:Convert
+ 12.73%   78.018     13 Template:Cite_web
+  8.34%   51.101      1 Template:Citation_needed
+  7.49%   45.898      1 Template:Fix
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:454915-0!canonical and timestamp 20171104164044 and revision id 807040302
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Johnstown_Flood&amp;oldid=807040302">https://en.wikipedia.org/w/index.php?title=Johnstown_Flood&amp;oldid=807040302</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1889_in_Pennsylvania" title="Category:1889 in Pennsylvania">1889 in Pennsylvania</a></li><li><a href="/wiki/Category:Andrew_Carnegie" title="Category:Andrew Carnegie">Andrew Carnegie</a></li><li><a href="/wiki/Category:Floods_in_the_United_States" title="Category:Floods in the United States">Floods in the United States</a></li><li><a href="/wiki/Category:Disasters_in_Pennsylvania" title="Category:Disasters in Pennsylvania">Disasters in Pennsylvania</a></li><li><a href="/wiki/Category:Dam_failures_in_the_United_States" title="Category:Dam failures in the United States">Dam failures in the United States</a></li><li><a href="/wiki/Category:History_of_the_United_States_(1865%E2%80%931918)" title="Category:History of the United States (1865–1918)">History of the United States (1865–1918)</a></li><li><a href="/wiki/Category:1889_natural_disasters_in_the_United_States" title="Category:1889 natural disasters in the United States">1889 natural disasters in the United States</a></li><li><a href="/wiki/Category:1889_meteorology" title="Category:1889 meteorology">1889 meteorology</a></li><li><a href="/wiki/Category:Natural_disasters_in_Pennsylvania" title="Category:Natural disasters in Pennsylvania">Natural disasters in Pennsylvania</a></li><li><a href="/wiki/Category:Johnstown,_Pennsylvania" title="Category:Johnstown, Pennsylvania">Johnstown, Pennsylvania</a></li><li><a href="/wiki/Category:History_of_Johnstown,_Pennsylvania" title="Category:History of Johnstown, Pennsylvania">History of Johnstown, Pennsylvania</a></li><li><a href="/wiki/Category:May_1889_events" title="Category:May 1889 events">May 1889 events</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text" title="Category:CS1 maint: Extra text">CS1 maint: Extra text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2017" title="Category:Articles with unsourced statements from May 2017">Articles with unsourced statements from May 2017</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2017" title="Category:Articles needing additional references from May 2017">Articles needing additional references from May 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1911_Encyclop%C3%A6dia_Britannica" title="Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica">Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Johnstown+Flood" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Johnstown+Flood" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Johnstown_Flood" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Johnstown_Flood" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Johnstown_Flood">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Johnstown_Flood&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Johnstown_Flood&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Johnstown_Flood" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Johnstown_Flood" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Johnstown_Flood&amp;oldid=807040302" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Johnstown_Flood&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q691404" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Johnstown_Flood&amp;id=807040302" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Johnstown+Flood">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Johnstown+Flood&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Johnstown_Flood&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Johnstown_Flood" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Johnstownsk%C3%A1_potopa" hreflang="cs" lang="cs" title="Johnstownská potopa – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Johnstown-Flut" hreflang="de" lang="de" title="Johnstown-Flut – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Inundaci%C3%B3n_de_Johnstown" hreflang="es" lang="es" title="Inundación de Johnstown – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%84_%D8%AC%D8%A7%D9%86%D8%B2%D8%AA%D8%A7%D9%88%D9%86" hreflang="fa" lang="fa" title="سیل جانزتاون – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Inondation_de_Johnstown_de_1889" hreflang="fr" lang="fr" title="Inondation de Johnstown de 1889 – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A1%B4%EC%8A%A4%ED%83%80%EC%9A%B4_%ED%99%8D%EC%88%98" hreflang="ko" lang="ko" title="존스타운 홍수 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Grande_inondazione_del_1889" hreflang="it" lang="it" title="Grande inondazione del 1889 – Italian">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Inunda%C3%A7%C3%A3o_de_Johnstown" hreflang="pt" lang="pt" title="Inundação de Johnstown – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Johnstown_Flood" hreflang="simple" lang="simple" title="Johnstown Flood – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Johnstownin_tulva" hreflang="fi" lang="fi" title="Johnstownin tulva – Finnish">Suomi</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q691404#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 October 2017, at 14:30.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Johnstown_Flood&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.727","ppvisitednodes":{"value":5014,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89502,"limit":2097152},"templateargumentsize":{"value":3829,"limit":2097152},"expansiondepth":{"value":31,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  613.088      1 -total"," 21.01%  128.799      1 Template:Reflist"," 19.53%  119.711      1 Template:Infobox_flood"," 19.20%  117.691      1 Template:Infobox_event"," 17.01%  104.273      1 Template:Infobox"," 13.23%   81.100      5 Template:Ifempty"," 13.22%   81.058     23 Template:Convert"," 12.73%   78.018     13 Template:Cite_web","  8.34%   51.101      1 Template:Citation_needed","  7.49%   45.898      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.246","limit":"10.000"},"limitreport-memusage":{"value":9523175,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20171104164045","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1181"});});</script>
+</body>
+</html>

@@ -1,0 +1,2401 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Spiny dogfish - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spiny_dogfish","wgTitle":"Spiny dogfish","wgCurRevisionId":807217325,"wgRevisionId":807217325,"wgArticleId":1425524,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from June 2016","Webarchive template wayback links","Articles with 'species' microformats","Wikipedia articles with LCCN identifiers","IUCN Red List vulnerable species","Squalus","Fish of Europe","Marine fish of New Zealand","Fish of the Mediterranean Sea","Fish of the Black Sea","Cosmopolitan animals","Seafood red list","Marine edible fish","Fish described in 1758","Species endangered by use as food"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Spiny_dogfish","wgRelevantArticleId":1425524,"wgRequestId":"WfzKfgpAICkAAKt@QQEAAAEL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q212694","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/0/04/Squalus_acanthias_stellwagen.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Spiny_dogfish" rel="alternate"/>
+<link href="/w/index.php?title=Spiny_dogfish&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Spiny_dogfish&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Spiny_dogfish" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Spiny_dogfish rootpage-Spiny_dogfish vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Spiny dogfish</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Spiny dogfish</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Squalus_acanthias_stellwagen.jpg"><img alt="Squalus acanthias stellwagen.jpg" data-file-height="460" data-file-width="1171" height="86" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Squalus_acanthias_stellwagen.jpg/220px-Squalus_acanthias_stellwagen.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Squalus_acanthias_stellwagen.jpg/330px-Squalus_acanthias_stellwagen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Squalus_acanthias_stellwagen.jpg/440px-Squalus_acanthias_stellwagen.jpg 2x" width="220"/></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2">
+<div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" data-file-height="64" data-file-width="240" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/220px-Status_iucn3.1_VU.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/330px-Status_iucn3.1_VU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/440px-Status_iucn3.1_VU.svg.png 2x" width="220"/><br/>
+<a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a><small> (<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup class="reference" id="cite_ref-IUCN_1-0"><a href="#cite_note-IUCN-1">[1]</a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Squalus" title="e"><img alt="e" data-file-height="16" data-file-width="16" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><a href="/wiki/Chondrichthyes" title="Chondrichthyes">Chondrichthyes</a></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><a href="/wiki/Squaliformes" title="Squaliformes">Squaliformes</a></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><a href="/wiki/Squalidae" title="Squalidae">Squalidae</a></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><i><a href="/wiki/Spurdog" title="Spurdog">Squalus</a></i></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species"><i><b>S. acanthias</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Squalus acanthias</i></span></b><br/>
+<small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Squalus_acanthias_distmap.png"><img alt="Squalus acanthias distmap.png" data-file-height="628" data-file-width="1357" height="102" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Squalus_acanthias_distmap.png/220px-Squalus_acanthias_distmap.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Squalus_acanthias_distmap.png/330px-Squalus_acanthias_distmap.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Squalus_acanthias_distmap.png/440px-Squalus_acanthias_distmap.png 2x" width="220"/></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Range of the spiny dogfish (in blue)</td>
+</tr>
+</table>
+<p>The <b>spiny dogfish</b>, <b>spurdog</b>, <b>mud shark</b>, or <b>piked dogfish</b> (<i>Squalus acanthias</i>) is one of the best known <a href="/wiki/Species" title="Species">species</a> of the <a href="/wiki/Squalidae" title="Squalidae">Squalidae</a> (dogfish) <a href="/wiki/Family_(biology)" title="Family (biology)">family</a> of <a href="/wiki/Shark" title="Shark">sharks</a>, which is part of the <a href="/wiki/Squaliformes" title="Squaliformes">Squaliformes</a> order. While these common names may apply to several species, <i>Squalus acanthias</i> is distinguished by having two spines (one <a class="extiw" href="https://en.wiktionary.org/wiki/anterior" title="wikt:anterior">anterior</a> to each <a href="/wiki/Dorsal_fin" title="Dorsal fin">dorsal fin</a>) and lacks an <a class="mw-redirect" href="/wiki/Anal_fin" title="Anal fin">anal fin</a>. It is found mostly in shallow waters and further offshore in most parts of the world, especially in temperate waters. Spiny dogfish in the northern Pacific Ocean have recently been reevaluated and found to constitute a separate species, now known as "<a href="/wiki/Pacific_spiny_dogfish" title="Pacific spiny dogfish">Pacific spiny dogfish</a>", <i><a class="mw-redirect" href="/wiki/Squalus_suckleyi" title="Squalus suckleyi">Squalus suckleyi</a></i>.<sup class="reference" id="cite_ref-Ebert2010_2-0"><a href="#cite_note-Ebert2010-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description_and_behavior"><span class="tocnumber">1</span> <span class="toctext">Description and behavior</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Commercial_use"><span class="tocnumber">2</span> <span class="toctext">Commercial use</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Conservation_status_and_management"><span class="tocnumber">3</span> <span class="toctext">Conservation status and management</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description_and_behavior">Description and behavior</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spiny_dogfish&amp;action=edit&amp;section=1" title="Edit section: Description and behavior">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The spiny dogfish has dorsal spines, no anal fin, and white spots along its back. The <a class="mw-redirect" href="/wiki/Caudal_(anatomical_term)" title="Caudal (anatomical term)">caudal</a> fin has asymmetrical lobes, forming a <a class="mw-redirect" href="/wiki/Heterocercal" title="Heterocercal">heterocercal</a> tail. The species name <i>acanthias</i> refers to the shark's two spines. These are used defensively. If captured, the shark can arch its back to pierce its captor. Glands at the base of the spines secrete a mild venom.</p>
+<p>Males mature at around 11 years of age, growing to 80–100 cm (2.6–3.3 ft) in length; females mature in 18–21 years and are slightly larger than males, reaching 98.5–159 cm (3.23–5.22 ft).<sup class="reference" id="cite_ref-Animal_3-0"><a href="#cite_note-Animal-3">[3]</a></sup> Both sexes are greyish brown in color and are <a href="/wiki/Countershading" title="Countershading">countershaded</a>. Males are identified by a pair of pelvic fins modified as sperm-transfer organs, or "claspers". The male inserts one clasper into the female cloaca during copulation.</p>
+<p>Reproduction is <a class="mw-redirect" href="/wiki/Aplacental_viviparous" title="Aplacental viviparous">aplacental viviparous</a>, which was before called <a href="/wiki/Ovoviviparity" title="Ovoviviparity">ovoviviparity</a>. Fertilization is internal. The male inserts one clasper into the female oviduct orifice and injects sperm along a groove on the clasper's dorsal section. Immediately following fertilization, the eggs are surrounded by thin shells called "candles" with one candle usually surrounding several eggs. Mating takes place in the winter months with gestation lasting 22–24 months. Litters range between 2 and 11 but average 6 or 7.</p>
+<p>Spiny dogfish are bottom-dwellers They are commonly found at depths of around 50–149 m (164–489 ft), but have been found deeper than 700 m (2,300 ft).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Life span is estimated to be up to 100 years and their gestation period is 18 to 24 months, which may be the longest of any known animal.<sup class="reference" id="cite_ref-lifespan-sharksmou_5-0"><a href="#cite_note-lifespan-sharksmou-5">[5]</a></sup></p>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 243.33333333333px">
+<div style="width: 243.33333333333px">
+<div class="thumb" style="width: 241.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Aiguillat_commun_(tete).jpg"><img alt="" data-file-height="426" data-file-width="856" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aiguillat_commun_%28tete%29.jpg/362px-Aiguillat_commun_%28tete%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aiguillat_commun_%28tete%29.jpg/543px-Aiguillat_commun_%28tete%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aiguillat_commun_%28tete%29.jpg/724px-Aiguillat_commun_%28tete%29.jpg 2x" width="242"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Head</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 154px">
+<div style="width: 154px">
+<div class="thumb" style="width: 152px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Squalus_acanthias_jaws.jpg"><img alt="" data-file-height="436" data-file-width="553" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Squalus_acanthias_jaws.jpg/228px-Squalus_acanthias_jaws.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Squalus_acanthias_jaws.jpg/343px-Squalus_acanthias_jaws.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Squalus_acanthias_jaws.jpg/457px-Squalus_acanthias_jaws.jpg 2x" width="152"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Jaws</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 172.66666666667px">
+<div style="width: 172.66666666667px">
+<div class="thumb" style="width: 170.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Squalus_acanthias_upper_teeth.jpg"><img alt="" data-file-height="436" data-file-width="620" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Squalus_acanthias_upper_teeth.jpg/256px-Squalus_acanthias_upper_teeth.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Squalus_acanthias_upper_teeth.jpg/384px-Squalus_acanthias_upper_teeth.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Squalus_acanthias_upper_teeth.jpg/512px-Squalus_acanthias_upper_teeth.jpg 2x" width="171"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Upper teeth</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 164.66666666667px">
+<div style="width: 164.66666666667px">
+<div class="thumb" style="width: 162.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Squalus_acanthias_lower_teeth.jpg"><img alt="" data-file-height="436" data-file-width="590" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Squalus_acanthias_lower_teeth.jpg/244px-Squalus_acanthias_lower_teeth.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Squalus_acanthias_lower_teeth.jpg/366px-Squalus_acanthias_lower_teeth.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Squalus_acanthias_lower_teeth.jpg/487px-Squalus_acanthias_lower_teeth.jpg 2x" width="163"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Lower teeth</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Commercial_use">Commercial use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spiny_dogfish&amp;action=edit&amp;section=2" title="Edit section: Commercial use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Spiny dogfish are fished for food in <a href="/wiki/Europe" title="Europe">Europe</a>, the <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> and <a href="/wiki/Chile" title="Chile">Chile</a>. The meat is primarily consumed in <a href="/wiki/England" title="England">England</a>, <a href="/wiki/France" title="France">France</a>, the <a href="/wiki/Benelux" title="Benelux">Benelux</a> countries and <a href="/wiki/Germany" title="Germany">Germany</a>. The fins and tails are processed into fin needles and are used in less expensive versions of shark fin soup in Chinese cuisine. In England this and other dogfish are sold in fish and chip shops as "huss", and it was historically sold as "rock salmon" until this term was outlawed by consumer legislation. In France it is sold as "small salmon" (<i>saumonette</i>) and in Belgium and Germany it is sold as "sea eel" (<i>zeepaling</i> and <i>Seeaal</i>, respectively). It is also used as fertilizer, liver oil, and pet food, and, because of its availability, cartilaginous skull, and manageable size, as a popular <a href="/wiki/Vertebrate" title="Vertebrate">vertebrate</a> dissection specimen, in both high schools and universities. Reported catches in 2000–2009 varied between 13,800 (2008) and 31,700 (2000) tonnes.<sup class="reference" id="cite_ref-FAO_6-0"><a href="#cite_note-FAO-6">[6]</a></sup></p>
+<p><a href="/wiki/Bottom_trawling" title="Bottom trawling">Bottom trawlers</a> and sink <a class="mw-redirect" href="/wiki/Gillnet" title="Gillnet">gillnets</a> are the primary equipment used to harvest spiny dogfish. In Mid-Atlantic and Southern New England fisheries, they are often caught when harvesting larger <a href="/wiki/Groundfish" title="Groundfish">groundfish</a>, classified as <a href="/wiki/Bycatch" title="Bycatch">bycatch</a>, and discarded. Recreational fishing accounts for an insignificant portion of the spiny dogfish harvest.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The Cape Cod Commercial Fishermen’s Alliance has sponsored an initiative which promotes local, sustainably caught use of the dogfish in restaurants and fish markets in the <a href="/wiki/Cape_Cod" title="Cape Cod">Cape Cod</a> area of <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>. The effort is funded by the <a class="mw-redirect" href="/wiki/National_Oceanographic_and_Atmospheric_Administration" title="National Oceanographic and Atmospheric Administration">National Oceanographic and Atmospheric Administration</a> and attempts to get the public to consume under utilized fish.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Conservation_status_and_management">Conservation status and management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spiny_dogfish&amp;action=edit&amp;section=3" title="Edit section: Conservation status and management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Mountain_of_dogfish.jpg"><img alt="" class="thumbimage" data-file-height="1920" data-file-width="2560" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mountain_of_dogfish.jpg/220px-Mountain_of_dogfish.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mountain_of_dogfish.jpg/330px-Mountain_of_dogfish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mountain_of_dogfish.jpg/440px-Mountain_of_dogfish.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mountain_of_dogfish.jpg" title="Enlarge"></a></div>
+A large catch of spiny dogfish</div>
+</div>
+</div>
+<p>Once the most abundant shark species in the world, populations of <i>Squalus acanthias</i> have declined significantly. They are classified in the <a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List</a> of threatened species as <a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a> globally and <a href="/wiki/Critically_endangered" title="Critically endangered">Critically endangered</a> in the Northeast Atlantic, meaning stocks around Europe have decreased by at least 95%. This is a direct result of overfishing to supply northern Europe's taste for rock salmon, saumonette or zeepaling. Despite these alarming figures, very few management or conservation measures are in place for <i>Squalus acanthias</i>.<sup class="reference" id="cite_ref-IUCN_1-1"><a href="#cite_note-IUCN-1">[1]</a></sup> In EU waters, a <a class="mw-redirect" href="/wiki/Total_Allowable_Catch" title="Total Allowable Catch">Total Allowable Catch</a> (TAC) has been in place since 1999, but until 2007 it only applied to ICES Areas IIa and IV. It was also set well above the actual weight of fish being caught until 2005, rendering it meaningless. Since 2009 a maximum landing size of 1 m (3.3 ft) has been imposed in order to protect the most valuable mature females. The TAC for 2011 was set at 0 tons, ending targeted fishing for the species in EU waters. It remains to be seen if populations will be able to recover.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>In the recent past the European market for spiny dogfish has increased dramatically, which led to the overfishing and decline of the species. This drastic increase led to the creation and implementation of many fishery management policies placing restrictions on the fishing of spiny dogfish. However, since the species is a late maturing fish, it takes a while to rebuild the population.</p>
+<p>In 2010, Greenpeace International added the spiny dogfish to its seafood red list. "The Greenpeace International seafood red list is a list of fish that are commonly sold in supermarkets around the world, and which have a very high risk of being sourced from unsustainable fisheries."<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> In the same year, the <a class="mw-redirect" href="/wiki/Bonn_Convention" title="Bonn Convention">Convention on Migratory Species</a> (CMS; also known as the <a class="mw-redirect" href="/wiki/Bonn_Convention" title="Bonn Convention">Bonn Convention</a>) listed the species (Northern Hemisphere populations) under Annex I of its <a class="mw-redirect" href="/wiki/Migratory_Sharks_MoU" title="Migratory Sharks MoU">Migratory Shark Memorandum of Understanding</a>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>In recent years however, the US has implemented fishing controls and opened up the fishery. The proposed quota for 2011 was 35.5 million pounds (16.1 million kg) with a trip limit of 4,000 pounds (1,800 kg), an increase over past years in which the quota has ranged from 5 million pounds (2.3 million kg) to 20 million pounds (9.1 million kg) with trip limits from 2,000 to 3,000 pounds (910 to 1,360 kg).<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> In 2010, NOAA announced the Eastern US Atlantic spiny dogfish stocks to be rebuilt<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> and in 2011 concerns about dogfish posing a serious predatory threat to other stocks resulted in an emergency amendment of the quota with nearly 15 million pounds (6.8 million kg) being added.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spiny_dogfish&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web" id="CITEREFFordham.2C_S.Fowler.2C_S.L.Coelho.2C_R.Goldman.2C_K.J.2006">Fordham, S.; Fowler, S.L.; Coelho, R.; Goldman, K.J. &amp; Francis, M. (2006). <a class="external text" href="http://www.iucnredlist.org/details/39326" rel="nofollow">"<i>Squalus acanthias</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.atitle=Squalus+acanthias&amp;rft.au=Coelho%2C+R.&amp;rft.au=Fordham%2C+S.&amp;rft.au=Fowler%2C+S.L.&amp;rft.au=Francis%2C+M.&amp;rft.au=Goldman%2C+K.J.&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species.+Version+2012.1&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F39326&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Ebert2010-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ebert2010_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ebert, D. A.; White, W. T.; Goldman, K. J.; Compagno, L. J.; Daly-Engel, T. S. &amp; Ward, R. D. (2010). "Resurrection and redescription of <i>Squalus suckleyi</i> (Girard, 1854) from the North Pacific, with comments on the <i>Squalus acanthias</i> subgroup (Squaliformes: Squalidae)". <i>Zootaxa</i>. <b>2612</b>: 22–40.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.atitle=Resurrection+and+redescription+of+Squalus+suckleyi+%28Girard%2C+1854%29+from+the+North+Pacific%2C+with+comments+on+the+Squalus+acanthias+subgroup+%28Squaliformes%3A+Squalidae%29&amp;rft.au=Compagno%2C+L.+J.&amp;rft.au=Daly-Engel%2C+T.+S.&amp;rft.au=Ebert%2C+D.+A.&amp;rft.au=Goldman%2C+K.+J.&amp;rft.au=Ward%2C+R.+D.&amp;rft.au=White%2C+W.+T.&amp;rft.date=2010&amp;rft.genre=article&amp;rft.jtitle=Zootaxa&amp;rft.pages=22-40&amp;rft.volume=2612&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Animal-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Animal_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kindersley, Dorling (2001). <i>Animal</i>. New York City: DK Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7894-7764-5" title="Special:BookSources/0-7894-7764-5">0-7894-7764-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.aufirst=Dorling&amp;rft.aulast=Kindersley&amp;rft.btitle=Animal&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-7894-7764-5&amp;rft.place=New+York+City&amp;rft.pub=DK+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="https://books.google.com/books?id=KQdeVX1yX6AC&amp;pg=PA58" rel="nofollow"><i>Jose Castro, Diane Peeble (2011).</i> The Sharks of North America. <i>pg 58</i></a>. Books.google.be. 2011-07-28. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780195392944" title="Special:BookSources/9780195392944">9780195392944</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.btitle=Jose+Castro%2C+Diane+Peeble+%282011%29.+The+Sharks+of+North+America.+pg+58&amp;rft.date=2011-07-28&amp;rft.genre=book&amp;rft.isbn=9780195392944&amp;rft.pub=Books.google.be&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKQdeVX1yX6AC%26pg%3DPA58&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-lifespan-sharksmou-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-lifespan-sharksmou_5-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://sharksmou.org/spiny-dogfish" rel="nofollow">Spiny dogfish</a>. Memorandum of Understanding on the Conservation of Migratory Sharks.</span></li>
+<li id="cite_note-FAO-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-FAO_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">FAO (Food and Agriculture Organization of the United Nations) (2011). <a class="external text" href="ftp://ftp.fao.org/FI/CDrom/CD_yearbook_2009/root/capture/yearbook_capture.pdf" rel="nofollow"><i>Yearbook of fishery and aquaculture statistics 2009. Capture production</i></a> <span style="font-size:85%;">(PDF)</span>. Rome: <a class="mw-redirect" href="/wiki/FAO" title="FAO">FAO</a>. pp. 302–303.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.au=FAO+%28Food+and+Agriculture+Organization+of+the+United+Nations%29&amp;rft.btitle=Yearbook+of+fishery+and+aquaculture+statistics+2009.+Capture+production&amp;rft.date=2011&amp;rft.genre=book&amp;rft.pages=302-303&amp;rft.place=Rome&amp;rft.pub=FAO&amp;rft_id=ftp%3A%2F%2Fftp.fao.org%2FFI%2FCDrom%2FCD_yearbook_2009%2Froot%2Fcapture%2Fyearbook_capture.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Katherine Sosebee; Paul Rago (December 2006). <a class="external text" href="http://www.nefsc.noaa.gov/sos/spsyn/op/dogfish/" rel="nofollow">"Status of Fishery Resources off the Northeastern US: Spiny dogfish (Squalus acanthias)"</a>. NEFSC – Resource Evaluation and Assessment Division.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.au=Katherine+Sosebee&amp;rft.au=Paul+Rago&amp;rft.btitle=Status+of+Fishery+Resources+off+the+Northeastern+US%3A+Spiny+dogfish+%28Squalus+acanthias%29&amp;rft.date=2006-12&amp;rft.genre=unknown&amp;rft.pub=NEFSC+%E2%80%93+Resource+Evaluation+and+Assessment+Division&amp;rft_id=http%3A%2F%2Fwww.nefsc.noaa.gov%2Fsos%2Fspsyn%2Fop%2Fdogfish%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Wilcox, Meg (2017-07-04). <a class="external text" href="https://www.bostonglobe.com/lifestyle/food-dining/2017/07/03/dogfish-what-for-dinner-cape/rtlwFwlNn8RsJ7jqoOx7CN/story.html" rel="nofollow">"Dogfish — it’s what’s for dinner on the Cape"</a>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.atitle=Dogfish+%E2%80%94+it%E2%80%99s+what%E2%80%99s+for+dinner+on+the+Cape&amp;rft.aufirst=Meg&amp;rft.aulast=Wilcox&amp;rft.date=2017-07-04&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Flifestyle%2Ffood-dining%2F2017%2F07%2F03%2Fdogfish-what-for-dinner-cape%2FrtlwFwlNn8RsJ7jqoOx7CN%2Fstory.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ices.dk/committe/acom/comwork/report/2011/2011/Spurdog%20NEA.pdf" rel="nofollow">"Spurdog in the Northeast Atlantic"</a> <span style="font-size:85%;">(PDF)</span>. <i>Advice September 2011</i>. <a href="/wiki/International_Council_for_the_Exploration_of_the_Sea" title="International Council for the Exploration of the Sea">ICES</a>, Copenhagen. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.atitle=Spurdog+in+the+Northeast+Atlantic&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft.jtitle=Advice+September+2011&amp;rft_id=http%3A%2F%2Fwww.ices.dk%2Fcommitte%2Facom%2Fcomwork%2Freport%2F2011%2F2011%2FSpurdog%2520NEA.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since June 2016">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.greenpeace.org/international/seafood/red-list-of-species" rel="nofollow">Greenpeace International Seafood Red list</a> <a class="external text" href="https://web.archive.org/web/20100205030730/http://www.greenpeace.org/international/seafood/red-list-of-species" rel="nofollow">Archived</a> February 5, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Memorandum_of_Understanding_on_the_Conservation_of_Migratory_Sharks" title="Memorandum of Understanding on the Conservation of Migratory Sharks">Memorandum of Understanding on the Conservation of Migratory Sharks</a>. <a class="external text" href="https://web.archive.org/web/20120622052318/http://www.cms.int/species/sharks/MoU/Migratory_Shark_MoU_Eng.pdf" rel="nofollow">PDF</a>. Cms.int. Retrieved on 2016-11-14.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ahherald.com/newsbrief-mainmenu-2/monmouth-county-news/11896-mid-atlantic-council-adopts-increase-in-spiny-dogfish-quotas" rel="nofollow">"Mid-Atlantic Council Adopts Increase in Spiny Dogfish Quotas"</a>. <i>Atlantic Highlands Herald</i>. 19 October 2011.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.atitle=Mid-Atlantic+Council+Adopts+Increase+in+Spiny+Dogfish+Quotas&amp;rft.date=2011-10-19&amp;rft.genre=unknown&amp;rft.jtitle=Atlantic+Highlands+Herald&amp;rft_id=http%3A%2F%2Fwww.ahherald.com%2Fnewsbrief-mainmenu-2%2Fmonmouth-county-news%2F11896-mid-atlantic-council-adopts-increase-in-spiny-dogfish-quotas&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.greateratlantic.fisheries.noaa.gov/nero/hotnews/press_release/2010/news/NR1018/" rel="nofollow">NOAA Announces Recovery of Spiny Dogfish Stock</a>. greateratlantic.fisheries.noaa.gov</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.prnewswire.com/news-releases/threat-of-dogfish-sharks-unite-commercial-and-recreational-fishermen-from-maine-to-north-carolina-61723757.html" rel="nofollow">"Threat of Dogfish Sharks Unite Commercial and Recreational Fishermen From Maine to North Carolina"</a>. FishNet USA via Prnewswire. May 4, 2009.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.btitle=Threat+of+Dogfish+Sharks+Unite+Commercial+and+Recreational+Fishermen+From+Maine+to+North+Carolina&amp;rft.date=2009-05-04&amp;rft.genre=unknown&amp;rft.pub=FishNet+USA+via+Prnewswire&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fthreat-of-dogfish-sharks-unite-commercial-and-recreational-fishermen-from-maine-to-north-carolina-61723757.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spiny_dogfish&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Squalus_acanthias" title="commons:Category:Squalus acanthias">Squalus acanthias</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1103" data-file-width="941" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a class="extiw" href="https://species.wikimedia.org/wiki/Squalus_acanthias" title="wikispecies:Squalus acanthias">Squalus acanthias</a></b></i></td>
+</tr>
+</table>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Greyreefsharksmall2.jpg"><img alt="icon" class="noviewer" data-file-height="42" data-file-width="46" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/5/53/Greyreefsharksmall2.jpg/31px-Greyreefsharksmall2.jpg" srcset="//upload.wikimedia.org/wikipedia/en/5/53/Greyreefsharksmall2.jpg 1.5x" width="31"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sharks" title="Portal:Sharks">Sharks portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a class="external text" href="http://animaldiversity.ummz.umich.edu/site/accounts/information/Squalus_acanthias.html" rel="nofollow">Spiny dogfish</a> at <i>Animal Diversity Web</i></li>
+<li><cite class="citation web"><a class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=160617" rel="nofollow">"Squalus acanthias"</a>. <a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">Integrated Taxonomic Information System</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2006</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpiny+dogfish&amp;rft.btitle=Squalus+acanthias&amp;rft.genre=unknown&amp;rft.pub=Integrated+Taxonomic+Information+System&amp;rft_id=https%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D160617&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Froese, Rainer and Pauly, Daniel, eds. (2005). <a class="external text" href="http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Squalus&amp;speciesname=acanthias" rel="nofollow">"<i>Squalus acanthias</i>"</a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. 10 2005 version.</li>
+<li><a class="external text" href="http://www.marinebiodiversity.ca/shark/english/skull5.htm" rel="nofollow">Canadian Shark Research Laboratory</a></li>
+<li><a class="external text" href="http://www.nzfauna.ac.nz/#!nzfauna---dogfish/cs5g" rel="nofollow">3D model of a spiny dogfish splanchnocranium</a></li>
+</ul>
+<div aria-labelledby="Extant_shark_species" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Selachimorpha" title="Template:Selachimorpha"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Selachimorpha" title="Template talk:Selachimorpha"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Selachimorpha&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Extant_shark_species" style="font-size:114%;margin:0 4em">Extant <a href="/wiki/Shark" title="Shark">shark</a> species</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #ffffff;">
+<div>
+<ul>
+<li>Kingdom <a href="/wiki/Animal" title="Animal">Animalia</a></li>
+<li>Phylum <a href="/wiki/Chordate" title="Chordate">Chordata</a></li>
+<li>Subphylum <a href="/wiki/Vertebrate" title="Vertebrate">Vertebrata</a></li>
+<li>Class <a href="/wiki/Chondrichthyes" title="Chondrichthyes">Chondrichthyes</a></li>
+<li>Subclass <a href="/wiki/Elasmobranchii" title="Elasmobranchii">Elasmobranchii</a></li>
+<li>Subdivision <a href="/wiki/Shark" title="Shark">Selachii</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Carcharhiniformes_.28Ground_sharks.29" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Carcharhiniformes" title="Carcharhiniformes">Carcharhiniformes <small>(Ground sharks)</small></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hemigaleidae" title="Hemigaleidae">Hemigaleidae</a><br/>
+<span style="font-weight:normal;">(Weasel sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Snaggletooth_shark" title="Snaggletooth shark">Hemipristis</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Snaggletooth_shark" title="Snaggletooth shark">Snaggletooth shark (<i>H. elongata</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Hooktooth_shark" title="Hooktooth shark">Chaenogaleus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hooktooth_shark" title="Hooktooth shark">Hooktooth shark (<i>C. macrostoma</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Hemigaleus" title="Hemigaleus">Hemigaleus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Australian_weasel_shark" title="Australian weasel shark">Australian weasel shark (<i>H. australiensis</i>)</a></li>
+<li><a href="/wiki/Sicklefin_weasel_shark" title="Sicklefin weasel shark">Sicklefin weasel shark (<i>H. microstoma</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Paragaleus" title="Paragaleus">Paragaleus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whitetip_weasel_shark" title="Whitetip weasel shark">Whitetip weasel shark (<i>P. leucolomatus</i>)</a></li>
+<li><a href="/wiki/Atlantic_weasel_shark" title="Atlantic weasel shark">Atlantic weasel shark (<i>P. pectoralis</i>)</a></li>
+<li><a href="/wiki/Slender_weasel_shark" title="Slender weasel shark">Slender weasel shark (<i>P. randalli</i>)</a></li>
+<li><a href="/wiki/Straight-tooth_weasel_shark" title="Straight-tooth weasel shark">Straight-tooth weasel shark (<i>P. tengi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Barbeled_houndshark" title="Barbeled houndshark">Leptochariidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Barbeled_houndshark" title="Barbeled houndshark">Leptocharias</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barbeled_houndshark" title="Barbeled houndshark">Barbeled houndshark (<i>L. smithii</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Proscylliidae" title="Proscylliidae">Proscylliidae</a><br/>
+<span style="font-weight:normal;">(Finback sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Harlequin_catshark" title="Harlequin catshark">Ctenacis</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harlequin_catshark" title="Harlequin catshark">Harlequin catshark (<i>C. fehlmanni</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Proscylliidae" title="Proscylliidae">Eridacnis</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cuban_ribbontail_catshark" title="Cuban ribbontail catshark">Cuban ribbontail catshark (<i>E. barbouri</i>)</a></li>
+<li><a href="/wiki/Pygmy_ribbontail_catshark" title="Pygmy ribbontail catshark">Pygmy ribbontail catshark (<i>E. radcliffei</i>)</a></li>
+<li><a href="/wiki/African_ribbontail_catshark" title="African ribbontail catshark">African ribbontail catshark (<i>E. sinuans</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Proscylliidae" title="Proscylliidae">Proscyllium</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Graceful_catshark" title="Graceful catshark">Graceful catshark (<i>P. habereri</i>)</a></li>
+<li><a href="/wiki/Proscyllium_venustum" title="Proscyllium venustum"><i>P. venustum</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pseudotriakidae" title="Pseudotriakidae">Pseudotriakidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Slender_smooth-hound" title="Slender smooth-hound">Gollum</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Slender_smooth-hound" title="Slender smooth-hound">Slender smooth-hound (<i>G. attenuatus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/False_catshark" title="False catshark">Pseudotriakis</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/False_catshark" title="False catshark">False catshark (<i>P. microdon</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hammerhead_shark" title="Hammerhead shark">Sphyrnidae</a><br/>
+<span style="font-weight:normal;">(Hammerhead sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Winghead_shark" title="Winghead shark">Eusphyra</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winghead_shark" title="Winghead shark">Winghead shark (<i>E. blochii</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Hammerhead_shark" title="Hammerhead shark">Sphyrna</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Scalloped_bonnethead" title="Scalloped bonnethead">Scalloped bonnethead (<i>S. corona</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Whitefin_hammerhead" title="Whitefin hammerhead">Whitefin hammerhead (<i>S. couardi</i>)</a></li>
+<li><a href="/wiki/Scalloped_hammerhead" title="Scalloped hammerhead">Scalloped hammerhead (<i>S. lewini</i>)</a></li>
+<li><a href="/wiki/Scoophead" title="Scoophead">Scoophead (<i>S. media</i>)</a></li>
+<li><a href="/wiki/Great_hammerhead" title="Great hammerhead">Great hammerhead (<i>S. mokarran</i>)</a></li>
+<li><a href="/wiki/Bonnethead" title="Bonnethead">Bonnethead (<i>S. tiburo</i>)</a></li>
+<li><a href="/wiki/Smalleye_hammerhead" title="Smalleye hammerhead">Smalleye hammerhead (<i>S. tudes</i>)</a></li>
+<li><a href="/wiki/Smooth_hammerhead" title="Smooth hammerhead">Smooth hammerhead (<i>S. zygaena</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Houndshark" title="Houndshark">Triakidae</a><br/>
+<span style="font-weight:normal;">(Houndsharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Whiskery_shark" title="Whiskery shark">Furgaleus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whiskery_shark" title="Whiskery shark">Whiskery shark (<i>F. macki</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/School_shark" title="School shark">Galeorhinus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/School_shark" title="School shark">School shark (<i>G. galeus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Sailback_houndshark" title="Sailback houndshark">Gogolia</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sailback_houndshark" title="Sailback houndshark">Sailback houndshark (<i>G. filewoodi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Hemitriakis" title="Hemitriakis">Hemitriakis</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Deepwater_sicklefin_hound_shark" title="Deepwater sicklefin hound shark">Deepwater sicklefin hound shark (<i>H. abdita</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Sicklefin_hound_shark" title="Sicklefin hound shark">Sicklefin hound shark (<i>H. falcata</i>)</a></li>
+<li><a href="/wiki/Japanese_topeshark" title="Japanese topeshark">Japanese topeshark (<i>H. japanica</i>)</a></li>
+<li><a href="/wiki/Whitefin_topeshark" title="Whitefin topeshark">Whitefin topeshark (<i>H. leucoperiptera</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Ocelate_topeshark" title="Ocelate topeshark">Ocelate topeshark (<i>Hemitriakis Sp.A</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Blacktip_tope" title="Blacktip tope">Hypogaleus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blacktip_tope" title="Blacktip tope">Blacktip tope (<i>H. hyugaensis</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Iago_(genus)" title="Iago (genus)">Iago</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Longnose_houndshark" title="Longnose houndshark">Longnose houndshark (<i>I. garricki</i>)</a></li>
+<li><a href="/wiki/Bigeye_houndshark" title="Bigeye houndshark">Bigeye houndshark (<i>I. omanensis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Lowfin_houndshark" title="Lowfin houndshark">Lowfin houndshark (<i>Iago Sp.A</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Smooth-hound" title="Smooth-hound">Mustelus</a></i><br/>
+<span style="font-weight:normal;">(Smooth-hounds)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Mustelus_albipinnis" title="Mustelus albipinnis"><i>M. albipinnis</i></a></li>
+<li><a href="/wiki/Gummy_shark" title="Gummy shark">Gummy shark (<i>M. antarcticus</i>)</a></li>
+<li><a href="/wiki/Starry_smooth-hound" title="Starry smooth-hound">Starry smooth-hound (<i>M. asterias</i>)</a></li>
+<li><a href="/wiki/Gray_smooth-hound" title="Gray smooth-hound">Gray smooth-hound (<i>M. californicus</i>)</a></li>
+<li><a href="/wiki/Dusky_smooth-hound" title="Dusky smooth-hound">Dusky smooth-hound (<i>M. canis</i>)</a></li>
+<li><a href="/wiki/Sharptooth_smooth-hound" title="Sharptooth smooth-hound">Sharptooth smooth-hound (<i>M. dorsalis</i>)</a></li>
+<li><a href="/wiki/Striped_smooth-hound" title="Striped smooth-hound">Striped smooth-hound (<i>M. fasciatus</i>)</a></li>
+<li><a href="/wiki/Spotless_smooth-hound" title="Spotless smooth-hound">Spotless smooth-hound (<i>M. griseus</i>)</a></li>
+<li><a href="/wiki/Brown_smooth-hound" title="Brown smooth-hound">Brown smooth-hound (<i>M. henlei</i>)</a></li>
+<li><a href="/wiki/Smalleye_smooth-hound" title="Smalleye smooth-hound">Smalleye smooth-hound (<i>M. higmani</i>)</a></li>
+<li><a href="/wiki/Spotted_estuary_smooth-hound" title="Spotted estuary smooth-hound">Spotted estuary smooth-hound (<i>M. lenticulatus</i>)</a></li>
+<li><a href="/wiki/Sicklefin_smooth-hound" title="Sicklefin smooth-hound">Sicklefin smooth-hound (<i>M. lunulatus</i>)</a></li>
+<li><a href="/wiki/Starspotted_smooth-hound" title="Starspotted smooth-hound">Starspotted smooth-hound (<i>M. manazo</i>)</a></li>
+<li><a href="/wiki/Speckled_smooth-hound" title="Speckled smooth-hound">Speckled smooth-hound (<i>M. mento</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Mustelus_minicanis" title="Mustelus minicanis"><i>M. minicanis</i></a></li>
+<li><a href="/wiki/Arabian_smooth-hound" title="Arabian smooth-hound">Arabian smooth-hound (<i>M. mosis</i>)</a></li>
+<li><a href="/wiki/Common_smooth-hound" title="Common smooth-hound">Common smooth-hound (<i>M. mustelus</i>)</a></li>
+<li><a href="/wiki/Narrowfin_smooth-hound" title="Narrowfin smooth-hound">Narrowfin smooth-hound (<i>M. norrisi</i>)</a></li>
+<li><a href="/wiki/Whitespotted_smooth-hound" title="Whitespotted smooth-hound">Whitespotted smooth-hound (<i>M. palumbes</i>)</a></li>
+<li><a href="/wiki/Blackspotted_smooth-hound" title="Blackspotted smooth-hound">Blackspotted smooth-hound (<i>M. punctulatus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Mustelus_ravidus" title="Mustelus ravidus"><i>M. ravidus</i></a></li>
+<li><a href="/wiki/Narrownose_smooth-hound" title="Narrownose smooth-hound">Narrownose smooth-hound (<i>M. schmitti</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Gulf_smoothhound" title="Gulf smoothhound">Gulf smoothhound (<i>M. sinusmexicanus</i>)</a></li>
+<li><a href="/wiki/Humpback_smooth-hound" title="Humpback smooth-hound">Humpback smooth-hound (<i>M. whitneyi</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Mustelus_widodoi" title="Mustelus widodoi"><i>M. widodoi</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Flapnose_houndshark" title="Flapnose houndshark">Scylliogaleus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flapnose_houndshark" title="Flapnose houndshark">Flapnose houndshark (<i>S. quecketti</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Triakis" title="Triakis">Triakis</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sharpfin_houndshark" title="Sharpfin houndshark">Sharpfin houndshark (<i>T. acutipinna</i>)</a></li>
+<li><a href="/wiki/Spotted_houndshark" title="Spotted houndshark">Spotted houndshark (<i>T. maculata</i>)</a></li>
+<li><a href="/wiki/Sharptooth_houndshark" title="Sharptooth houndshark">Sharptooth houndshark (<i>T. megalopterus</i>)</a></li>
+<li><a href="/wiki/Banded_houndshark" title="Banded houndshark">Banded houndshark (<i>T. scyllium</i>)</a></li>
+<li><a href="/wiki/Leopard_shark" title="Leopard shark">Leopard shark (<i>T. semifasciata</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Requiem_shark" title="Requiem shark">Carcharhinidae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Large family listed below</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Catshark" title="Catshark">Scyliorhinidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Large family listed below</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Family_Carcharhinidae_.28Requiem_sharks.29" style="font-size:114%;margin:0 4em"><span style="font-weight:normal;">Family <a href="/wiki/Requiem_shark" title="Requiem shark">Carcharhinidae <small>(Requiem sharks)</small></a></span></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Carcharhinus" title="Carcharhinus">Carcharhinus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blacknose_shark" title="Blacknose shark">Blacknose shark (<i>C. acronotus</i>)</a></li>
+<li><a href="/wiki/Silvertip_shark" title="Silvertip shark">Silvertip shark (<i>C. albimarginatus</i>)</a></li>
+<li><a href="/wiki/Bignose_shark" title="Bignose shark">Bignose shark (<i>C. altimus</i>)</a></li>
+<li><a href="/wiki/Graceful_shark" title="Graceful shark">Graceful shark (<i>C. amblyrhynchoides</i>)</a></li>
+<li><a href="/wiki/Grey_reef_shark" title="Grey reef shark">Grey reef shark (<i>C. amblyrhynchos</i>)</a></li>
+<li><a href="/wiki/Pigeye_shark" title="Pigeye shark">Pigeye shark (<i>C. amboinensis</i>)</a></li>
+<li><a href="/wiki/Borneo_shark" title="Borneo shark">Borneo shark (<i>C. borneensis</i>)</a></li>
+<li><a href="/wiki/Copper_shark" title="Copper shark">Copper shark (<i>C. brachyurus</i>)</a></li>
+<li><a href="/wiki/Spinner_shark" title="Spinner shark">Spinner shark (<i>C. brevipinna</i>)</a></li>
+<li><a href="/wiki/Nervous_shark" title="Nervous shark">Nervous shark (<i>C. cautus</i>)</a></li>
+<li><a href="/wiki/Whitecheek_shark" title="Whitecheek shark">Whitecheek shark (<i>C. dussumieri</i>)</a></li>
+<li><a href="/wiki/Silky_shark" title="Silky shark">Silky shark (<i>C. falciformis</i>)</a></li>
+<li><a href="/wiki/Creek_whaler" title="Creek whaler">Creek whaler (<i>C. fitzroyensis</i>)</a></li>
+<li><a href="/wiki/Galapagos_shark" title="Galapagos shark">Galapagos shark (<i>C. galapagenisis</i>)</a></li>
+<li><a href="/wiki/Pondicherry_shark" title="Pondicherry shark">Pondicherry shark (<i>C. hemiodon</i>)</a></li>
+<li><a href="/wiki/Finetooth_shark" title="Finetooth shark">Finetooth shark (<i>C. isodon</i>)</a></li>
+<li><a href="/wiki/Smoothtooth_blacktip_shark" title="Smoothtooth blacktip shark">Smoothtooth blacktip shark (<i>C. leiodon</i>)</a></li>
+<li><a href="/wiki/Bull_shark" title="Bull shark">Bull shark (<i>C. leucas</i>)</a></li>
+<li><a href="/wiki/Blacktip_shark" title="Blacktip shark">Blacktip shark (<i>C. limbatus</i>)</a></li>
+<li><a href="/wiki/Oceanic_whitetip_shark" title="Oceanic whitetip shark">Oceanic whitetip shark (<i>C. longimanus</i>)</a></li>
+<li><a href="/wiki/Hardnose_shark" title="Hardnose shark">Hardnose shark (<i>C. macloti</i>)</a></li>
+<li><a href="/wiki/Blacktip_reef_shark" title="Blacktip reef shark">Blacktip reef shark (<i>C. melanopterus</i>)</a></li>
+<li><a href="/wiki/Dusky_shark" title="Dusky shark">Dusky shark (<i>C. obscurus</i>)</a></li>
+<li><a href="/wiki/Caribbean_reef_shark" title="Caribbean reef shark">Caribbean reef shark (<i>C. perezii</i>)</a></li>
+<li><a href="/wiki/Sandbar_shark" title="Sandbar shark">Sandbar shark (<i>C. plumbeus</i>)</a></li>
+<li><a href="/wiki/Smalltail_shark" title="Smalltail shark">Smalltail shark (<i>C. porosus</i>)</a></li>
+<li><a href="/wiki/Blackspot_shark" title="Blackspot shark">Blackspot shark (<i>C. sealei</i>)</a></li>
+<li><a href="/wiki/Night_shark" title="Night shark">Night shark (<i>C. signatus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Spottail_shark" title="Spottail shark">Spottail shark (<i>C. sorrah</i>)</a></li>
+<li><a href="/wiki/Australian_blacktip_shark" title="Australian blacktip shark">Australian blacktip shark (<i>C. tilstoni</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Tiger_shark" title="Tiger shark">Galeocerdo</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tiger_shark" title="Tiger shark">Tiger shark (<i>G. cuvier</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/River_shark" title="River shark">Glyphis</a></i><br/>
+<span style="font-weight:normal;">(River sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ganges_shark" title="Ganges shark">Ganges shark (<i>G. gangeticus</i>)</a></li>
+<li><a href="/wiki/Northern_river_shark" title="Northern river shark">Northern river shark (<i>G. garricki</i>)</a></li>
+<li><a href="/wiki/Speartooth_shark" title="Speartooth shark">Speartooth shark (<i>G. glyphis</i>)</a></li>
+<li><a href="/wiki/Irrawaddy_river_shark" title="Irrawaddy river shark">Irrawaddy river shark (<i>G. siamensis</i>)</a></li>
+<li><a href="/wiki/Borneo_river_shark" title="Borneo river shark">Borneo river shark (<i>Glyphis sp. B</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Daggernose_shark" title="Daggernose shark">Isogomphodon</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Daggernose_shark" title="Daggernose shark">Daggernose shark (<i>I. oxyrhynchus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Broadfin_shark" title="Broadfin shark">Lamiopsis</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Broadfin_shark" title="Broadfin shark">Broadfin shark (<i>L. temminckii</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Sliteye_shark" title="Sliteye shark">Loxodon</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sliteye_shark" title="Sliteye shark">Sliteye shark (<i>L. macrorhinus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Whitenose_shark" title="Whitenose shark">Nasolamia</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whitenose_shark" title="Whitenose shark">Whitenose shark (<i>N. velox</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Negaprion" title="Negaprion">Negaprion</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sicklefin_lemon_shark" title="Sicklefin lemon shark">Sicklefin lemon shark (<i>N. acutidens</i>)</a></li>
+<li><a href="/wiki/Lemon_shark" title="Lemon shark">Lemon shark (<i>N. brevirostris</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Blue_shark" title="Blue shark">Prionace</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue_shark" title="Blue shark">Blue shark (<i>P. glauca</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Rhizoprionodon" title="Rhizoprionodon">Rhizoprionodon</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Milk_shark" title="Milk shark">Milk shark (<i>R. acutus</i>)</a></li>
+<li><a href="/wiki/Brazilian_sharpnose_shark" title="Brazilian sharpnose shark">Brazilian sharpnose shark (<i>R. lalandii</i>)</a></li>
+<li><a href="/wiki/Pacific_sharpnose_shark" title="Pacific sharpnose shark">Pacific sharpnose shark (<i>R. longurio</i>)</a></li>
+<li><a href="/wiki/Grey_sharpnose_shark" title="Grey sharpnose shark">Grey sharpnose shark (<i>R. oligolinx</i>)</a></li>
+<li><a href="/wiki/Caribbean_sharpnose_shark" title="Caribbean sharpnose shark">Caribbean sharpnose shark (<i>R. porosus</i>)</a></li>
+<li><a href="/wiki/Australian_sharpnose_shark" title="Australian sharpnose shark">Australian sharpnose shark (<i>R. taylori</i>)</a></li>
+<li><a href="/wiki/Atlantic_sharpnose_shark" title="Atlantic sharpnose shark">Atlantic sharpnose shark (<i>R. terraenovae</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Spadenose_shark" title="Spadenose shark">Scoliodon</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spadenose_shark" title="Spadenose shark">Spadenose shark (<i>S. laticaudus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Whitetip_reef_shark" title="Whitetip reef shark">Triaenodon</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whitetip_reef_shark" title="Whitetip reef shark">Whitetip reef shark (<i>T. obesus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Family_Scyliorhinidae_.28Catsharks.29" style="font-size:114%;margin:0 4em"><span style="font-weight:normal;">Family <a href="/wiki/Catshark" title="Catshark">Scyliorhinidae <small>(Catsharks)</small></a></span></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Apristurus" title="Apristurus">Apristurus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Flatnose_cat_shark" title="Flatnose cat shark">Flatnose cat shark (<i>A. acanutus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Apristurus_albisoma" title="Apristurus albisoma"><i>A. albisoma</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Apristurus_aphyodes" title="Apristurus aphyodes"><i>A. aphyodes</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Atlantic_ghost_catshark" title="Atlantic ghost catshark">Atlantic ghost catshark (<i>A. atlanticus</i>)</a></li>
+<li><a href="/wiki/Brown_catshark" title="Brown catshark">Brown catshark (<i>A. brunneus</i>)</a></li>
+<li><a href="/wiki/Hoary_catshark" title="Hoary catshark">Hoary catshark (<i>A. canutus</i>)</a></li>
+<li><a href="/wiki/Flaccid_catshark" title="Flaccid catshark">Flaccid catshark (<i>A. exsanguis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Apristurus_fedorovi" title="Apristurus fedorovi"><i>A. fedorovi</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Humpback_cat_shark" title="Humpback cat shark">Humpback cat shark (<i>A. gibbosus</i>)</a></li>
+<li><a href="/wiki/Longfin_catshark" title="Longfin catshark">Longfin catshark (<i>A. herklotsi</i>)</a></li>
+<li><a href="/wiki/Smallbelly_catshark" title="Smallbelly catshark">Smallbelly catshark (<i>A. indicus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Apristurus_internatus" title="Apristurus internatus"><i>A. internatus</i></a></li>
+<li><a href="/wiki/Broadnose_catshark" title="Broadnose catshark">Broadnose catshark (<i>A. investigatoris</i>)</a></li>
+<li><a href="/wiki/Japanese_catshark" title="Japanese catshark">Japanese catshark (<i>A. japonicus</i>)</a></li>
+<li><a href="/wiki/Longnose_catshark" title="Longnose catshark">Longnose catshark (<i>A. kampae</i>)</a></li>
+<li><a href="/wiki/Iceland_catshark" title="Iceland catshark">Iceland catshark (<i>A. laurussonii</i>)</a></li>
+<li><a href="/wiki/Longhead_catshark" title="Longhead catshark">Longhead catshark (<i>A. longicephalus</i>)</a></li>
+<li><a href="/wiki/Flathead_catshark" title="Flathead catshark">Flathead catshark (<i>A. macrorhynchus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Broadmouth_cat_shark" title="Broadmouth cat shark">Broadmouth cat shark (<i>A. macrostomus</i>)</a></li>
+<li><a href="/wiki/Ghost_catshark" title="Ghost catshark">Ghost catshark (<i>A. manis</i>)</a></li>
+<li><a href="/wiki/Black_roughscale_catshark" title="Black roughscale catshark">Black roughscale catshark (<i>A. melanoasper</i>)</a></li>
+<li><a href="/wiki/Smalleye_catshark" title="Smalleye catshark">Smalleye catshark (<i>A. microps</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Smalldorsal_cat_shark" title="Smalldorsal cat shark">Smalldorsal cat shark (<i>A. micropterygeus</i>)</a></li>
+<li><a href="/wiki/Largenose_catshark" title="Largenose catshark">Largenose catshark (<i>A. nasutus</i>)</a></li>
+<li><a href="/wiki/Smallfin_catshark" title="Smallfin catshark">Smallfin catshark (<i>A. parvipinnis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Apristurus_pinguis" title="Apristurus pinguis"><i>A. pinguis</i></a></li>
+<li><a href="/wiki/Spatulasnout_catshark" title="Spatulasnout catshark">Spatulasnout catshark (<i>A. platyrhynchus</i>)</a></li>
+<li><a href="/wiki/Deepwater_catshark" title="Deepwater catshark">Deepwater catshark (<i>A. profundorum</i>)</a></li>
+<li><a href="/wiki/Broadgill_catshark" title="Broadgill catshark">Broadgill catshark (<i>A. riveri</i>)</a></li>
+<li><a href="/wiki/Saldanha_catshark" title="Saldanha catshark">Saldanha catshark (<i>A. saldanha</i>)</a></li>
+<li><a href="/wiki/Pale_catshark" title="Pale catshark">Pale catshark (<i>A. sibogae</i>)</a></li>
+<li><a href="/wiki/South_China_catshark" title="South China catshark">South China catshark (<i>A. sinensis</i>)</a></li>
+<li><a href="/wiki/Spongehead_catshark" title="Spongehead catshark">Spongehead catshark (<i>A. spongiceps</i>)</a></li>
+<li><a href="/wiki/Panama_ghost_catshark" title="Panama ghost catshark">Panama ghost catshark (<i>A. stenseni</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Asymbolus" title="Asymbolus">Asymbolus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Australian_spotted_catshark" title="Australian spotted catshark">Australian spotted catshark (<i>A. analis</i>)</a></li>
+<li><a href="/wiki/Asymbolus_funebris" title="Asymbolus funebris"><i>A. funebris</i></a></li>
+<li><a href="/wiki/Western_spotted_catshark" title="Western spotted catshark">Western spotted catshark (<i>A. occiduus</i>)</a></li>
+<li><a href="/wiki/Pale_spotted_catshark" title="Pale spotted catshark">Pale spotted catshark (<i>A. pallidus</i>)</a></li>
+<li><a href="/wiki/Asymbolus_parvus" title="Asymbolus parvus"><i>A. parvus</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Orange_spotted_catshark" title="Orange spotted catshark"><i>A. rubiginosus</i></a></li>
+<li><a href="/wiki/Variegated_catshark" title="Variegated catshark">Variegated catshark (<i>A. submaculatus</i>)</a></li>
+<li><a href="/wiki/Gulf_catshark" title="Gulf catshark">Gulf catshark (<i>A. vincenti</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Atelomycterus" title="Atelomycterus">Atelomycterus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bali_catshark" title="Bali catshark"><i>A. baliensis</i></a></li>
+<li><a href="/wiki/Banded_sand_catshark" title="Banded sand catshark">Banded sand catshark (<i>A. fasciatus</i>)</a></li>
+<li><a href="/wiki/Australian_marbled_catshark" title="Australian marbled catshark">Australian marbled catshark (<i>A. macleayi</i>)</a></li>
+<li><a href="/wiki/Coral_catshark" title="Coral catshark">Coral catshark (<i>A. marmoratus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Aulohalaelurus" title="Aulohalaelurus">Aulohalaelurus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/New_Caledonia_catshark" title="New Caledonia catshark">New Caledonia catshark (<i>A. kanakorum</i>)</a></li>
+<li><a href="/wiki/Australian_blackspotted_catshark" title="Australian blackspotted catshark">Australian blackspotted catshark (<i>A. labiosus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Cephaloscyllium" title="Cephaloscyllium">Cephaloscyllium</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whitefin_swellshark" title="Whitefin swellshark">Whitefin swellshark (<i>C. albipinnum</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Circle-blotch_pygmy_swellshark" title="Circle-blotch pygmy swellshark">Circle-blotch pygmy swellshark (<i>C. circulopullum</i>)</a></li>
+<li><a href="/wiki/Cook%27s_swellshark" title="Cook's swellshark">Cook's swellshark (<i>C. cooki</i>)</a></li>
+<li><a href="/wiki/Reticulated_swellshark" title="Reticulated swellshark">Reticulated swellshark (<i>C. fasciatum</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Formosa_swellshark" title="Formosa swellshark">Formosa swellshark (<i>C. formosanum</i>)</a></li>
+<li><a href="/wiki/Australian_reticulate_swellshark" title="Australian reticulate swellshark">Australian reticulate swellshark (<i>C. hicosellum</i>)</a></li>
+<li><a href="/wiki/Draughtsboard_shark" title="Draughtsboard shark">Draughtsboard shark (<i>C. isabellum</i>)</a></li>
+<li><a href="/wiki/Australian_swellshark" title="Australian swellshark">Australian swellshark (<i>C. laticeps</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Spotted_swellshark" title="Spotted swellshark">Spotted swellshark (<i>C. maculatum</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Leopard-spotted_swellshark" title="Leopard-spotted swellshark">Leopard-spotted swellshark (<i>C. pardelotum</i>)</a></li>
+<li><a href="/wiki/Painted_swellshark" title="Painted swellshark">Painted swellshark (<i>C. pictum</i>)</a></li>
+<li><a href="/wiki/Sarawak_pygmy_swellshark" title="Sarawak pygmy swellshark">Sarawak pygmy swellshark (<i>C. sarawakensis</i>)</a></li>
+<li><a href="/wiki/Flagtail_swellshark" title="Flagtail swellshark">Flagtail swellshark (<i>C. signourum</i>)</a></li>
+<li><a href="/wiki/Indian_swellshark" title="Indian swellshark">Indian swellshark (<i>C. silasi</i>)</a></li>
+<li><a href="/wiki/Speckled_swellshark" title="Speckled swellshark">Speckled swellshark (<i>C. speccum</i>)</a></li>
+<li><a href="/wiki/Balloon_shark" title="Balloon shark">Balloon shark (<i>C. sufflans</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Blotchy_swell_shark" title="Blotchy swell shark">Blotchy swellshark (<i>C. umbratile</i>)</a></li>
+<li><a href="/wiki/Saddled_swellshark" title="Saddled swellshark">Saddled swellshark (<i>C. variegatum</i>)</a></li>
+<li><a href="/wiki/Swellshark" title="Swellshark">Swellshark (<i>C. ventriosum</i>)</a></li>
+<li><a href="/wiki/Narrowbar_swellshark" title="Narrowbar swellshark">Narrowbar swellshark (<i>C. zebrum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Lollipop_catshark" title="Lollipop catshark">Cephalurus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lollipop_catshark" title="Lollipop catshark">Lollipop catshark (<i>C. cephalus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Figaro_(genus)" title="Figaro (genus)">Figaro</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Australian_sawtail_catshark" title="Australian sawtail catshark">Australian sawtail catshark (<i>F. boardmani</i>)</a></li>
+<li><a href="/wiki/Northern_sawtail_catshark" title="Northern sawtail catshark">Northern sawtail catshark (<i>F. striatus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Galeus" title="Galeus">Galeus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antilles_catshark" title="Antilles catshark">Antilles catshark (<i>G. antillensis</i>)</a></li>
+<li><a href="/wiki/Roughtail_catshark" title="Roughtail catshark">Roughtail catshark (<i>G. arae</i>)</a></li>
+<li><a href="/wiki/Atlantic_sawtail_catshark" title="Atlantic sawtail catshark">Atlantic sawtail cat shark (<i>G. atlanticus</i>)</a></li>
+<li><a href="/wiki/Longfin_sawtail_catshark" title="Longfin sawtail catshark">Longfin sawtail cat shark (<i>G. cadenati</i>)</a></li>
+<li><a href="/wiki/Gecko_catshark" title="Gecko catshark">Gecko catshark (<i>G. eastmani</i>)</a></li>
+<li><a href="/wiki/Slender_sawtail_catshark" title="Slender sawtail catshark">Slender sawtail catshark (<i>G. gracilis</i>)</a></li>
+<li><a href="/wiki/Longnose_sawtail_catshark" title="Longnose sawtail catshark">Longnose sawtail cat shark (<i>G. longirostris</i>)</a></li>
+<li><a href="/wiki/Blackmouth_catshark" title="Blackmouth catshark">Blackmouth catshark (<i>G. melastomus</i>)</a></li>
+<li><a href="/wiki/Southern_sawtail_catshark" title="Southern sawtail catshark">Southern sawtail catshark (<i>G. mincaronei</i>)</a></li>
+<li><a href="/wiki/Mouse_catshark" title="Mouse catshark">Mouse catshark (<i>G. murinus</i>)</a></li>
+<li><a href="/wiki/Broadfin_sawtail_catshark" title="Broadfin sawtail catshark">Broadfin sawtail catshark (<i>G. nipponensis</i>)</a></li>
+<li><a href="/wiki/Peppered_catshark" title="Peppered catshark">Peppered catshark (<i>G. piperatus</i>)</a></li>
+<li><a href="/wiki/African_sawtail_catshark" title="African sawtail catshark">African sawtail catshark (<i>G. polli</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Galeus_priapus" title="Galeus priapus"><i>G. priapus</i></a></li>
+<li><a href="/wiki/Blacktip_sawtail_catshark" title="Blacktip sawtail catshark">Blacktip sawtail catshark (<i>G. sauteri</i>)</a></li>
+<li><a href="/wiki/Dwarf_sawtail_catshark" title="Dwarf sawtail catshark">Dwarf sawtail catshark (<i>G. schultzi</i>)</a></li>
+<li><a href="/wiki/Springer%27s_sawtail_catshark" title="Springer's sawtail catshark">Springer's sawtail cat shark (<i>G. springeri</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Halaelurus" title="Halaelurus">Halaelurus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arabian_catshark" title="Arabian catshark">Arabian catshark (<i>H. alcockii</i>)</a></li>
+<li><a href="/wiki/Speckled_catshark" title="Speckled catshark">Speckled catshark (<i>H. boesemani</i>)</a></li>
+<li><a href="/wiki/Blackspotted_catshark" title="Blackspotted catshark">Blackspotted catshark (<i>H. buergeri</i>)</a></li>
+<li><a href="/wiki/Dusky_catshark" title="Dusky catshark">Dusky catshark (<i>H. canescens</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Broadhead_cat_shark" title="Broadhead cat shark">Broadhead cat shark (<i>H. clevai</i>)</a></li>
+<li><a href="/wiki/New_Zealand_catshark" title="New Zealand catshark">New Zealand catshark (<i>H. dawsoni</i>)</a></li>
+<li><a href="/wiki/Bristly_catshark" title="Bristly catshark">Bristly catshark (<i>H. hispidus</i>)</a></li>
+<li><a href="/wiki/Spotless_catshark" title="Spotless catshark">Spotless catshark (<i>H. immaculatus</i>)</a></li>
+<li><a href="/wiki/Lined_catshark" title="Lined catshark">Lined catshark (<i>H. lineatus</i>)</a></li>
+<li><a href="/wiki/Bythaelurus_lutarius" title="Bythaelurus lutarius">Mud catshark (<i>H. lutarius</i>)</a></li>
+<li><a href="/wiki/Tiger_catshark" title="Tiger catshark">Tiger catshark (<i>H. natalensis</i>)</a></li>
+<li><a href="/wiki/Quagga_catshark" title="Quagga catshark">Quagga catshark (<i>H. quagga</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Haploblepharus" title="Haploblepharus">Haploblepharus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Puffadder_shyshark" title="Puffadder shyshark">Puffadder shyshark (<i>H. edwardsii</i>)</a></li>
+<li><a href="/wiki/Brown_shyshark" title="Brown shyshark">Brown shyshark (<i>H. fuscus</i>)</a></li>
+<li><a href="/wiki/Natal_shyshark" title="Natal shyshark">Natal shyshark (<i>H. kistnasamyi</i>)</a></li>
+<li><a href="/wiki/Dark_shyshark" title="Dark shyshark">Dark shyshark (<i>H. pictus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Holohalaelurus" title="Holohalaelurus">Holohalaelurus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Honeycomb_Izak" title="Honeycomb Izak"><i>H. favus</i></a></li>
+<li><a href="/wiki/Grinning_Izak" title="Grinning Izak"><i>H. grennian</i></a></li>
+<li><a href="/wiki/Crying_Izak" title="Crying Izak">Crying izak (<i>H. melanostigma</i>)</a></li>
+<li><a href="/wiki/White-spotted_Izak" title="White-spotted Izak">African spotted catshark (<i>H. punctatus</i>)</a></li>
+<li><a href="/wiki/Izak_catshark" title="Izak catshark">Izak catshark (<i>H. regani</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Parmaturus" title="Parmaturus">Parmaturus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-tip_catshark" title="White-tip catshark">White-tip catshark (<i>P. albimarginatus</i>)</a></li>
+<li><a href="/wiki/White-clasper_catshark" title="White-clasper catshark">White-clasper catshark (<i>P. albipenis</i>)</a></li>
+<li><a href="/wiki/Beige_catshark" title="Beige catshark">Beige catshark (<i>P. bigus</i>)</a></li>
+<li><a href="/wiki/Campeche_catshark" title="Campeche catshark">Campeche catshark (<i>P. campechiensis</i>)</a></li>
+<li><a href="/wiki/Velvet_catshark" title="Velvet catshark">Velvet catshark (<i>P. lanatus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/McMillan%27s_cat_shark" title="McMillan's cat shark">McMillan's catshark (<i>P. macmillani</i>)</a></li>
+<li><a href="/wiki/Blackgill_catshark" title="Blackgill catshark">Blackgill catshark (<i>P. melanobranchus</i>)</a></li>
+<li><a href="/wiki/Salamander_shark" title="Salamander shark">Salamander shark (<i>P. pilosus</i>)</a></li>
+<li><a href="/wiki/Filetail_catshark" title="Filetail catshark">Filetail catshark (<i>P. xaniurus</i>)</a></li>
+<li><a href="/wiki/Beige_catshark" title="Beige catshark">Shorttail catshark (<i>Parmaturus sp. A</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Onefin_catshark" title="Onefin catshark">Pentanchus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Onefin_catshark" title="Onefin catshark">Onefin catshark (<i>P. profundicolus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Poroderma" title="Poroderma">Poroderma</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pyjama_shark" title="Pyjama shark">Pyjama catshark (<i>P. africanum</i>)</a></li>
+<li><a href="/wiki/Leopard_catshark" title="Leopard catshark">Leopard catshark (<i>P. pantherinum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Schroederichthys" title="Schroederichthys">Schroederichthys</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Narrowmouthed_catshark" title="Narrowmouthed catshark">Narrowmouthed catshark (<i>S. bivius</i>)</a></li>
+<li><a href="/wiki/Redspotted_catshark" title="Redspotted catshark">Redspotted catshark (<i>S. chilensis</i>)</a></li>
+<li><a href="/wiki/Narrowtail_catshark" title="Narrowtail catshark">Narrowtail catshark (<i>S. maculatus</i>)</a></li>
+<li><a href="/wiki/Lizard_catshark" title="Lizard catshark">Lizard catshark (<i>S. saurisqualus</i>)</a></li>
+<li><a href="/wiki/Slender_catshark" title="Slender catshark">Slender catshark (<i>S. tenuis</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><i><a href="/wiki/Scyliorhinus" title="Scyliorhinus">Scyliorhinus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Polkadot_catshark" title="Polkadot catshark">Polkadot catshark (<i>S. besnardi</i>)</a></li>
+<li><a href="/wiki/Boa_catshark" title="Boa catshark">Boa catshark (<i>S. boa</i>)</a></li>
+<li><a href="/wiki/Small-spotted_catshark" title="Small-spotted catshark">Small-spotted catshark (<i>S. canicula</i>)</a></li>
+<li><a href="/wiki/Yellowspotted_catshark" title="Yellowspotted catshark">Yellowspotted catshark (<i>S. capensis</i>)</a></li>
+<li><a href="/wiki/West_African_catshark" title="West African catshark">West African catshark (<i>S. cervigoni</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Comoro_cat_shark" title="Comoro cat shark">Comoro cat shark (<i>S. comoroensis</i>)</a></li>
+<li><a href="/wiki/Brownspotted_catshark" title="Brownspotted catshark">Brownspotted catshark (<i>S. garmani</i>)</a></li>
+<li><a href="/wiki/Freckled_catshark" title="Freckled catshark">Freckled catshark (<i>S. haeckelii</i>)</a></li>
+<li><a href="/wiki/Whitesaddled_catshark" title="Whitesaddled catshark">Whitesaddled catshark (<i>S. hesperius</i>)</a></li>
+<li><a href="/wiki/Scyliorhinus_meadi" title="Scyliorhinus meadi">Blotched catshark (<i>S. meadi</i>)</a></li>
+<li><a href="/wiki/Chain_catshark" title="Chain catshark">Chain catshark (<i>S. retifer</i>)</a></li>
+<li><a href="/wiki/Nursehound" title="Nursehound">Nursehound (<i>S. stellaris</i>)</a></li>
+<li><a href="/wiki/Izu_catshark" title="Izu catshark">Izu cat shark (<i>S. tokubee</i>)</a></li>
+<li><a href="/wiki/Cloudy_catshark" title="Cloudy catshark">Cloudy catshark (<i>S. torazame</i>)</a></li>
+<li><a href="/wiki/Dwarf_catshark" title="Dwarf catshark">Dwarf catshark (<i>S. torrei</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Echinorhiniformes_.28Bramble_sharks.29" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Echinorhinus" title="Echinorhinus">Echinorhiniformes <small>(Bramble sharks)</small></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Echinorhinus" title="Echinorhinus">Echinorhinidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Echinorhinus" title="Echinorhinus">Echinorhinus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bramble_shark" title="Bramble shark">Bramble shark (<i>E. brucus</i>)</a></li>
+<li><a href="/wiki/Prickly_shark" title="Prickly shark">Prickly shark (<i>E. cookei</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Heterodontiformes_.28Bullhead_sharks.29" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Bullhead_shark" title="Bullhead shark">Heterodontiformes <small>(Bullhead sharks)</small></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Bullhead_shark" title="Bullhead shark">Heterodontidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><i><a href="/wiki/Bullhead_shark" title="Bullhead shark">Heterodontus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Horn_shark" title="Horn shark">Horn shark (<i>H. francisci</i>)</a></li>
+<li><a href="/wiki/Crested_bullhead_shark" title="Crested bullhead shark">Crested bullhead shark (<i>H. galeatus</i>)</a></li>
+<li><a href="/wiki/Japanese_bullhead_shark" title="Japanese bullhead shark">Japanese bullhead shark (<i>H. japonicus</i>)</a></li>
+<li><a href="/wiki/Mexican_hornshark" title="Mexican hornshark">Mexican hornshark (<i>H. mexicanus</i>)</a></li>
+<li><a href="/wiki/Oman_bullhead_shark" title="Oman bullhead shark">Oman bullhead shark (<i>H. omanensis</i>)</a></li>
+<li><a href="/wiki/Port_Jackson_shark" title="Port Jackson shark">Port Jackson shark (<i>H. portusjacksoni</i>)</a></li>
+<li><a href="/wiki/Galapagos_bullhead_shark" title="Galapagos bullhead shark">Galapagos bullhead shark (<i>H. quoyi</i>)</a></li>
+<li><a href="/wiki/Whitespotted_bullhead_shark" title="Whitespotted bullhead shark">Whitespotted bullhead shark (<i>H. ramalheira</i>)</a></li>
+<li><a href="/wiki/Zebra_bullhead_shark" title="Zebra bullhead shark">Zebra bullhead shark (<i>H. zebra</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Hexanchiformes" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Hexanchiformes" title="Hexanchiformes">Hexanchiformes</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Frilled_shark" title="Frilled shark">Chlamydoselachidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Frilled_shark" title="Frilled shark">Chlamydoselachus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Frilled_shark" title="Frilled shark">Frilled shark (<i>C. anguineus</i>)</a></li>
+<li><a href="/wiki/Southern_African_frilled_shark" title="Southern African frilled shark">Southern African frilled shark (<i>C. africana</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cow_shark" title="Cow shark">Hexanchidae</a><br/>
+<span style="font-weight:normal;">(Cow sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Sharpnose_sevengill_shark" title="Sharpnose sevengill shark">Heptranchias</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sharpnose_sevengill_shark" title="Sharpnose sevengill shark">Sharpnose sevengill shark (<i>H. perlo</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Hexanchus" title="Hexanchus">Hexanchus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bluntnose_sixgill_shark" title="Bluntnose sixgill shark">Bluntnose sixgill shark (<i>H. griseus</i>)</a></li>
+<li><a href="/wiki/Bigeyed_sixgill_shark" title="Bigeyed sixgill shark">Bigeyed sixgill shark (<i>H. nakamurai</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Broadnose_sevengill_shark" title="Broadnose sevengill shark">Notorynchus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Broadnose_sevengill_shark" title="Broadnose sevengill shark">Broadnose sevengill shark (<i>N. cepedianus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Lamniformes_.28Mackerel_sharks.29" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Lamniformes" title="Lamniformes">Lamniformes <small>(Mackerel sharks)</small></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Thresher_shark" title="Thresher shark">Alopiidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Thresher_shark" title="Thresher shark">Alopias</a></i><br/>
+<span style="font-weight:normal;">(Thresher sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pelagic_thresher" title="Pelagic thresher">Pelagic thresher (<i>A. pelagicus</i>)</a></li>
+<li><a href="/wiki/Bigeye_thresher" title="Bigeye thresher">Bigeye thresher (<i>A. superciliosus</i>)</a></li>
+<li><a href="/wiki/Common_thresher" title="Common thresher">Common thresher (<i>A. vulpinus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Alopias_sp." title="Alopias sp.">Alopias sp. (<i>A. sp.</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Basking_shark" title="Basking shark">Cetorhinidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Basking_shark" title="Basking shark">Cetorhinus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basking_shark" title="Basking shark">Basking shark (<i>C. maximus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lamnidae" title="Lamnidae">Lamnidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Lamnidae" title="Lamnidae">Carcharodon</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Great_white_shark" title="Great white shark">Great white shark (<i>C. carcharias</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Isurus" title="Isurus">Isurus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shortfin_mako_shark" title="Shortfin mako shark">Shortfin mako shark (<i>I. oxyrinchus</i>)</a></li>
+<li><a href="/wiki/Longfin_mako_shark" title="Longfin mako shark">Longfin mako shark (<i>I. paucus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Lamna" title="Lamna">Lamna</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Salmon_shark" title="Salmon shark">Salmon shark (<i>L. ditropis</i>)</a></li>
+<li><a href="/wiki/Porbeagle" title="Porbeagle">Porbeagle (<i>L. nasus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Megamouth_shark" title="Megamouth shark">Megachasmidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Megamouth_shark" title="Megamouth shark">Megachasma</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Megamouth_shark" title="Megamouth shark">Megamouth shark (<i>M. pelagios</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mitsukurinidae" title="Mitsukurinidae">Mitsukurinidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Goblin_shark" title="Goblin shark">Mitsukurina</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Goblin_shark" title="Goblin shark">Goblin shark (<i>M. owstoni</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sand_shark" title="Sand shark">Odontaspididae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Carcharias" title="Carcharias">Carcharias</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Grey_nurse_shark" title="Grey nurse shark">Grey nurse shark (<i>C. taurus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Indian_sand_tiger" title="Indian sand tiger">Indian sand tiger (<i>C. tricuspidatus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Odontaspis" title="Odontaspis">Odontaspis</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Smalltooth_sand_tiger" title="Smalltooth sand tiger">Smalltooth sand tiger (<i>O. ferox</i>)</a></li>
+<li><a href="/wiki/Bigeye_sand_tiger" title="Bigeye sand tiger">Bigeye sand tiger (<i>O. noronhai</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Crocodile_shark" title="Crocodile shark">Pseudocarchariidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.5em"><i><a href="/wiki/Crocodile_shark" title="Crocodile shark">Pseudocarcharias</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crocodile_shark" title="Crocodile shark">Crocodile shark (<i>P. kamoharai</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Orectolobiformes_.28Carpet_sharks.29" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Carpet_shark" title="Carpet shark">Orectolobiformes <small>(Carpet sharks)</small></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Brachaeluridae" title="Brachaeluridae">Brachaeluridae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Blind_shark" title="Blind shark">Brachaelurus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blind_shark" title="Blind shark">Blind shark (<i>B. waddi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Bluegrey_carpetshark" title="Bluegrey carpetshark">Heteroscyllium</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bluegrey_carpetshark" title="Bluegrey carpetshark">Bluegrey carpetshark (<i>H. colcloughi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ginglymostomatidae" title="Ginglymostomatidae">Ginglymostomatidae</a><br/>
+<span style="font-weight:normal;">(Nurse sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Nurse_shark" title="Nurse shark">Ginglymostoma</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nurse_shark" title="Nurse shark">Nurse shark (<i>G. cirratum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Tawny_nurse_shark" title="Tawny nurse shark">Nebrius</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tawny_nurse_shark" title="Tawny nurse shark">Tawny nurse shark (<i>N. ferrugineus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Short-tail_nurse_shark" title="Short-tail nurse shark">Pseudoginglymostoma</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Short-tail_nurse_shark" title="Short-tail nurse shark">Short-tail nurse shark (<i>P. brevicaudatum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hemiscylliidae" title="Hemiscylliidae">Hemiscylliidae</a><br/>
+<span style="font-weight:normal;">(Bamboo sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Chiloscyllium" title="Chiloscyllium">Chiloscyllium</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arabian_carpetshark" title="Arabian carpetshark">Arabian carpetshark (<i>C. arabicum</i>)</a></li>
+<li><a href="/wiki/Burmese_bamboo_shark" title="Burmese bamboo shark">Burmese bamboo shark (<i>C. burmensis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Bluespotted_bamboo_shark" title="Bluespotted bamboo shark">Bluespotted bamboo shark (<i>C. caerulopunctatum</i>)</a></li>
+<li><a href="/wiki/Grey_bamboo_shark" title="Grey bamboo shark">Grey bamboo shark (<i>C. griseum</i>)</a></li>
+<li><a href="/wiki/Hasselt%27s_bamboo_shark" title="Hasselt's bamboo shark">Hasselt's bamboo shark (<i>C. hasseltii</i>)</a></li>
+<li><a href="/wiki/Slender_bamboo_shark" title="Slender bamboo shark">Slender bamboo shark (<i>C. indicum</i>)</a></li>
+<li><a href="/wiki/Whitespotted_bamboo_shark" title="Whitespotted bamboo shark">Whitespotted bamboo shark (<i>C. plagiosum</i>)</a></li>
+<li><a href="/wiki/Brownbanded_bamboo_shark" title="Brownbanded bamboo shark">Brownbanded bamboo shark (<i>C. punctatum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Hemiscyllium" title="Hemiscyllium">Hemiscyllium</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indonesian_speckled_carpetshark" title="Indonesian speckled carpetshark">Indonesian speckled carpetshark (<i>H. freycineti</i>)</a></li>
+<li><a href="/wiki/Hemiscyllium_galei" title="Hemiscyllium galei"><i>H. galei</i></a></li>
+<li><a href="/wiki/Papuan_epaulette_shark" title="Papuan epaulette shark">Papuan epaulette shark (<i>H. hallstromi</i>)</a></li>
+<li><a href="/wiki/Hemiscyllium_henryi" title="Hemiscyllium henryi"><i>H. henryi</i></a></li>
+<li><a href="/wiki/Epaulette_shark" title="Epaulette shark">Epaulette shark (<i>H. ocellatum</i>)</a></li>
+<li><a href="/wiki/Hooded_carpetshark" title="Hooded carpetshark">Hooded carpetshark (<i>H. strahani</i>)</a></li>
+<li><a href="/wiki/Speckled_carpetshark" title="Speckled carpetshark">Speckled carpetshark (<i>H. trispeculare</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wobbegong" title="Wobbegong">Orectolobidae</a><br/>
+<span style="font-weight:normal;">(Wobbegongs)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Tasselled_wobbegong" title="Tasselled wobbegong">Eucrossorhinus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tasselled_wobbegong" title="Tasselled wobbegong">Tasselled wobbegong (<i>E. dasypogon</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Orectolobus" title="Orectolobus">Orectolobus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Floral_banded_wobbegong" title="Floral banded wobbegong">Floral banded wobbegong (<i>O. floridus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Orectolobus_halei" title="Orectolobus halei">Banded wobbegong (<i>O. halei</i>)</a></li>
+<li><a href="/wiki/Orectolobus_hutchinsi" title="Orectolobus hutchinsi">Western wobbegong (<i>O. hutchinsi</i>)</a></li>
+<li><a href="/wiki/Japanese_wobbegong" title="Japanese wobbegong">Japanese wobbegong (<i>O. japonicus</i>)</a></li>
+<li><a href="/wiki/Spotted_wobbegong" title="Spotted wobbegong">Spotted wobbegong (<i>O. maculatus</i>)</a></li>
+<li><a href="/wiki/Ornate_wobbegong" title="Ornate wobbegong">Ornate wobbegong (<i>O. ornatus</i>)</a></li>
+<li><a href="/wiki/Dwarf_spotted_wobbegong" title="Dwarf spotted wobbegong">Dwarf spotted wobbegong (<i>O. parvimaculatus</i>)</a></li>
+<li><a href="/wiki/Orectolobus_reticulatus" title="Orectolobus reticulatus">Network wobbegong (<i>O. reticulatus</i>)</a></li>
+<li><a href="/wiki/Northern_wobbegong" title="Northern wobbegong">Northern wobbegong (<i>O. wardi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Cobbler_wobbegong" title="Cobbler wobbegong">Sutorectus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cobbler_wobbegong" title="Cobbler wobbegong">Cobbler wobbegong (<i>S. tentaculatus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Parascylliidae" title="Parascylliidae">Parascylliidae</a><br/>
+<span style="font-weight:normal;">(Collared carpet sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Cirrhoscyllium" title="Cirrhoscyllium">Cirrhoscyllium</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barbelthroat_carpetshark" title="Barbelthroat carpetshark">Barbelthroat carpetshark (<i>C. expolitum</i>)</a></li>
+<li><a href="/wiki/Taiwan_saddled_carpetshark" title="Taiwan saddled carpetshark">Taiwan saddled carpetshark (<i>C. formosanum</i>)</a></li>
+<li><a href="/wiki/Saddle_carpetshark" title="Saddle carpetshark">Saddle carpetshark (<i>C. japonicum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Parascyllium" title="Parascyllium">Parascyllium</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collared_carpetshark" title="Collared carpetshark">Collared carpetshark (<i>P. collare</i>)</a></li>
+<li><a href="/wiki/Rusty_carpetshark" title="Rusty carpetshark">Rusty carpetshark (<i>P. ferrugineum</i>)</a></li>
+<li><a href="/wiki/Ginger_carpetshark" title="Ginger carpetshark">Ginger carpetshark (<i>P. sparsimaculatum</i>)</a></li>
+<li><a href="/wiki/Necklace_carpetshark" title="Necklace carpetshark">Necklace carpetshark (<i>P. variolatum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Whale_shark" title="Whale shark">Rhincodontidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Whale_shark" title="Whale shark">Rhincodon</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whale_shark" title="Whale shark">Whale shark (<i>R. typus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Zebra_shark" title="Zebra shark">Stegostomatidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:13em"><i><a href="/wiki/Zebra_shark" title="Zebra shark">Stegostoma</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zebra_shark" title="Zebra shark">Zebra shark (<i>S. fasciatum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Pristiophoriformes_.28Sawsharks.29" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Sawshark" title="Sawshark">Pristiophoriformes <small>(Sawsharks)</small></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sawshark" title="Sawshark">Pristiophoridae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:8em"><i><a href="/wiki/Sixgill_sawshark" title="Sixgill sawshark">Pliotrema</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sixgill_sawshark" title="Sixgill sawshark">Sixgill sawshark (<i>P. warreni</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:8em"><i><a href="/wiki/Pristiophorus" title="Pristiophorus">Pristiophorus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Longnose_sawshark" title="Longnose sawshark">Longnose sawshark (<i>P. cirratus</i>)</a></li>
+<li><a href="/wiki/Tropical_sawshark" title="Tropical sawshark">Tropical sawshark (<i>P. delicatus</i>)</a></li>
+<li><a href="/wiki/Japanese_sawshark" title="Japanese sawshark">Japanese sawshark (<i>P. japonicus</i>)</a></li>
+<li><a href="/wiki/Shortnose_sawshark" title="Shortnose sawshark">Shortnose sawshark (<i>P. nudipinnis</i>)</a></li>
+<li><a href="/wiki/Bahamas_sawshark" title="Bahamas sawshark">Bahamas sawshark (<i>P. schroederi</i>)</a></li>
+<li><a href="/wiki/Eastern_Australian_sawshark" title="Eastern Australian sawshark">Eastern Australian sawshark (<i>Pristiophorus peroniensis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Philippine_sawshark" title="Philippine sawshark">Philippine sawshark (<i>Pristiophorus sp. C</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Dwarf_sawshark" title="Dwarf sawshark">Dwarf sawshark (<i>Pristiophorus sp. D</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Squaliformes" style="font-size:114%;margin:0 4em">Order <a href="/wiki/Squaliformes" title="Squaliformes">Squaliformes</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Centrophoridae" title="Centrophoridae">Centrophoridae</a><br/>
+<span style="font-weight:normal;">(Gulper sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Centrophorus" title="Centrophorus">Centrophorus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Needle_dogfish" title="Needle dogfish">Needle dogfish (<i>C. acus</i>)</a></li>
+<li><a href="/wiki/Dwarf_gulper_shark" title="Dwarf gulper shark">Dwarf gulper shark (<i>C. atromarginatus</i>)</a></li>
+<li><a href="/wiki/Gulper_shark" title="Gulper shark">Gulper shark (<i>C. granulosus</i>)</a></li>
+<li><a href="/wiki/Dumb_gulper_shark" title="Dumb gulper shark">Dumb gulper shark (<i>C. harrissoni</i>)</a></li>
+<li><a href="/wiki/Blackfin_gulper_shark" title="Blackfin gulper shark">Blackfin gulper shark (<i>C. isodon</i>)</a></li>
+<li><a href="/wiki/Lowfin_gulper_shark" title="Lowfin gulper shark">Lowfin gulper shark (<i>C. lusitanicus</i>)</a></li>
+<li><a href="/wiki/Smallfin_gulper_shark" title="Smallfin gulper shark">Smallfin gulper shark (<i>C. moluccensis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Taiwan_gulper_shark" title="Taiwan gulper shark">Taiwan gulper shark (<i>C. niaukang</i>)</a></li>
+<li><a href="/wiki/Leafscale_gulper_shark" title="Leafscale gulper shark">Leafscale gulper shark (<i>C. squamosus</i>)</a></li>
+<li><a href="/wiki/Mosaic_gulper_shark" title="Mosaic gulper shark">Mosaic gulper shark (<i>C. tessellatus</i>)</a></li>
+<li><a href="/wiki/Little_gulper_shark" title="Little gulper shark">Little gulper shark (<i>C. uyato</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Deania" title="Deania">Deania</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birdbeak_dogfish" title="Birdbeak dogfish">Birdbeak dogfish (<i>D. calcea</i>)</a></li>
+<li><a href="/wiki/Rough_longnose_dogfish" title="Rough longnose dogfish">Rough longnose dogfish (<i>D. hystricosa</i>)</a></li>
+<li><a href="/wiki/Arrowhead_dogfish" title="Arrowhead dogfish">Arrowhead dogfish (<i>D. profundorum</i>)</a></li>
+<li><a href="/wiki/Longsnout_dogfish" title="Longsnout dogfish">Longsnout dogfish (<i>D. quadrispinosum</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Dalatiidae" title="Dalatiidae">Dalatiidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Taillight_shark" title="Taillight shark">Euprotomicroides</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Taillight_shark" title="Taillight shark">Taillight shark (<i>E. zantedeschia</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Longnose_pygmy_shark" title="Longnose pygmy shark">Heteroscymnoides</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Longnose_pygmy_shark" title="Longnose pygmy shark">Longnose pygmy shark (<i>H. marleyi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Pocket_shark" title="Pocket shark">Mollisquama</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pocket_shark" title="Pocket shark">Pocket shark (<i>M. parini</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Kitefin_shark" title="Kitefin shark">Dalatias</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kitefin_shark" title="Kitefin shark">Kitefin shark (<i>D. licha</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Isistius" title="Isistius">Isistius</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cookiecutter_shark" title="Cookiecutter shark">Cookiecutter shark (<i>I. brasiliensis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/South_China_cookiecutter_shark" title="South China cookiecutter shark">South China cookiecutter shark (<i>I. labialis</i>)</a></li>
+<li><a href="/wiki/Largetooth_cookiecutter_shark" title="Largetooth cookiecutter shark">Largetooth cookiecutter shark (<i>I. plutodus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Pygmy_shark" title="Pygmy shark">Euprotomicrus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pygmy_shark" title="Pygmy shark">Pygmy shark (<i>E. bispinatus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Squaliolus" title="Squaliolus">Squaliolus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Smalleye_pygmy_shark" title="Smalleye pygmy shark">Smalleye pygmy shark (<i>S. aliae</i>)</a></li>
+<li><a href="/wiki/Spined_pygmy_shark" title="Spined pygmy shark">Spined pygmy shark (<i>S. laticaudus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Etmopteridae" title="Etmopteridae">Etmopteridae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Hooktooth_dogfish" title="Hooktooth dogfish">Aculeola</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hooktooth_dogfish" title="Hooktooth dogfish">Hooktooth dogfish (<i>A. nigra</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Centroscyllium" title="Centroscyllium">Centroscyllium</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Highfin_dogfish" title="Highfin dogfish">Highfin dogfish (<i>C. excelsum</i>)</a></li>
+<li><a href="/wiki/Black_dogfish" title="Black dogfish">Black dogfish (<i>C. fabricii</i>)</a></li>
+<li><a href="/wiki/Granular_dogfish" title="Granular dogfish">Granular dogfish (<i>C. granulatum</i>)</a></li>
+<li><a href="/wiki/Bareskin_dogfish" title="Bareskin dogfish">Bareskin dogfish (<i>C. kamoharai</i>)</a></li>
+<li><a href="/wiki/Combtooth_dogfish" title="Combtooth dogfish">Combtooth dogfish (<i>C. nigrum</i>)</a></li>
+<li><a href="/wiki/Ornate_dogfish" title="Ornate dogfish">Ornate dogfish (<i>C. ornatum</i>)</a></li>
+<li><a href="/wiki/Whitefin_dogfish" title="Whitefin dogfish">Whitefin dogfish (<i>C. ritteri</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Etmopterus" title="Etmopterus">Etmopterus</a></i><br/>
+<span style="font-weight:normal;">(Lantern sharks)</span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/New_Zealand_lanternshark" title="New Zealand lanternshark">New Zealand lanternshark (<i>E. baxteri</i>)</a></li>
+<li><a href="/wiki/Blurred_lanternshark" title="Blurred lanternshark">Blurred lanternshark (<i>E. bigelowi</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Shorttail_lanternshark" title="Shorttail lanternshark">Shorttail lanternshark (<i>E. brachyurus</i>)</a></li>
+<li><a href="/wiki/Lined_lanternshark" title="Lined lanternshark">Lined lanternshark (<i>E. bullisi</i>)</a></li>
+<li><a href="/wiki/Etmopterus_burgessi" title="Etmopterus burgessi"><i>E. burgessi</i></a></li>
+<li><a href="/wiki/Cylindrical_lanternshark" title="Cylindrical lanternshark">Cylindrical lanternshark (<i>E. carteri</i>)</a></li>
+<li><a href="/wiki/Tailspot_lanternshark" title="Tailspot lanternshark">Tailspot lanternshark (<i>E. caudistigmus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Combtooth_lanternshark" title="Combtooth lanternshark">Combtooth lanternshark (<i>E. decacuspidatus</i>)</a></li>
+<li><a href="/wiki/Pink_lanternshark" title="Pink lanternshark">Pink lanternshark (<i>E. dianthus</i>)</a></li>
+<li><a href="/wiki/Etmopterus_dislineatus" title="Etmopterus dislineatus"><i>E. dislineatus</i></a></li>
+<li><a href="/wiki/Blackmouth_lanternshark" title="Blackmouth lanternshark">Blackmouth lanternshark (<i>E. evansi</i>)</a></li>
+<li><a href="/wiki/Pygmy_lanternshark" title="Pygmy lanternshark">Pygmy lanternshark (<i>E. fusus</i>)</a></li>
+<li><a href="/wiki/Broadbanded_lanternshark" title="Broadbanded lanternshark">Broadbanded lanternshark (<i>E. gracilispinis</i>)</a></li>
+<li><a href="/wiki/Southern_lanternshark" title="Southern lanternshark">Southern lanternshark (<i>E. granulosus</i>)</a></li>
+<li><a href="/wiki/Caribbean_lanternshark" title="Caribbean lanternshark">Caribbean lanternshark (<i>E. hillianus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Smalleye_lantern_shark" title="Smalleye lantern shark">Smalleye lantern shark (<i>E. litvinovi</i>)</a></li>
+<li><a href="/wiki/Blackbelly_lanternshark" title="Blackbelly lanternshark">Blackbelly lanternshark (<i>E. lucifer</i>)</a></li>
+<li><a href="/wiki/Slendertail_lanternshark" title="Slendertail lanternshark">Slendertail lanternshark (<i>E. molleri</i>)</a></li>
+<li><a href="/wiki/Dwarf_lanternshark" title="Dwarf lanternshark">Dwarf lanternshark (<i>E. perryi</i>)</a></li>
+<li><a href="/wiki/African_lanternshark" title="African lanternshark">African lanternshark (<i>E. polli</i>)</a></li>
+<li><a href="/wiki/Great_lanternshark" title="Great lanternshark">Great lanternshark (<i>E. princeps</i>)</a></li>
+<li><a href="/wiki/False_lanternshark" title="False lanternshark">False lanternshark (<i>E. pseudosqualiolus</i>)</a></li>
+<li><a href="/wiki/Smooth_lanternshark" title="Smooth lanternshark">Smooth lanternshark (<i>E. pusillus</i>)</a></li>
+<li><a href="/wiki/Dense-scale_lantern_shark" title="Dense-scale lantern shark">Dense-scale lantern shark (<i>E. pycnolepis</i>)</a></li>
+<li><a href="/wiki/West_Indian_lanternshark" title="West Indian lanternshark">West Indian lanternshark (<i>E. robinsi</i>)</a></li>
+<li><a href="/wiki/Fringefin_lanternshark" title="Fringefin lanternshark">Fringefin lanternshark (<i>E. schultzi</i>)</a></li>
+<li><a href="/wiki/Thorny_lanternshark" title="Thorny lanternshark">Thorny lanternshark (<i>E. sentosus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Velvet_belly_lantern_shark" title="Velvet belly lantern shark">Velvet belly lantern shark (<i>E. spinax</i>)</a></li>
+<li><a href="/wiki/Splendid_lanternshark" title="Splendid lanternshark">Splendid lanternshark (<i>E. splendidus</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Tasmanian_lanternshark" title="Tasmanian lanternshark">Tasmanian lanternshark (<i>E. tasmaniensis</i>)</a></li>
+<li><a href="/wiki/Brown_lanternshark" title="Brown lanternshark">Brown lanternshark (<i>E. unicolor</i>)</a></li>
+<li><a href="/wiki/Hawaiian_lanternshark" title="Hawaiian lanternshark">Hawaiian lanternshark (<i>E. villosus</i>)</a></li>
+<li><a href="/wiki/Green_lanternshark" title="Green lanternshark">Green lanternshark (<i>E. virens</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Rasptooth_dogfish" title="Rasptooth dogfish">Miroscyllium</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rasptooth_dogfish" title="Rasptooth dogfish">Rasptooth dogfish (<i>M. sheikoi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Viper_dogfish" title="Viper dogfish">Trigonognathus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Viper_dogfish" title="Viper dogfish">Viper dogfish (<i>T. kabeyai</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Oxynotus" title="Oxynotus">Oxynotidae</a><br/>
+<span style="font-weight:normal;">(Rough sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Oxynotus" title="Oxynotus">Oxynotus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Prickly_dogfish" title="Prickly dogfish">Prickly dogfish (<i>O. bruniensis</i>)</a></li>
+<li><a href="/wiki/Caribbean_roughshark" title="Caribbean roughshark">Caribbean roughshark (<i>O. caribbaeus</i>)</a></li>
+<li><a href="/wiki/Angular_roughshark" title="Angular roughshark">Angular roughshark (<i>O. centrina</i>)</a></li>
+<li><a href="/wiki/Japanese_roughshark" title="Japanese roughshark">Japanese roughshark (<i>O. japonicus</i>)</a></li>
+<li><a href="/wiki/Sailfin_roughshark" title="Sailfin roughshark">Sailfin roughshark (<i>O. paradoxus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Somniosidae" title="Somniosidae">Somniosidae</a><br/>
+<span style="font-weight:normal;">(Sleeper sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Centroscymnus" title="Centroscymnus">Centroscymnus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portuguese_dogfish" title="Portuguese dogfish">Portuguese dogfish (<i>C. coelolepis</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Shortnose_velvet_dogfish" title="Shortnose velvet dogfish">Shortnose velvet dogfish (<i>C. cryptacanthus</i>)</a></li>
+<li><a href="/wiki/Roughskin_dogfish" title="Roughskin dogfish">Roughskin dogfish (<i>C. owstoni</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Longnose_velvet_dogfish" title="Longnose velvet dogfish">Centroselachus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Longnose_velvet_dogfish" title="Longnose velvet dogfish">Longnose velvet dogfish (<i>C. crepidater</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a class="mw-redirect" href="/wiki/Proscymnodon" title="Proscymnodon">Proscymnodon</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Largespine_velvet_dogfish" title="Largespine velvet dogfish">Largespine velvet dogfish (<i>P. macracanthus</i>)</a></li>
+<li><a href="/wiki/Plunket_shark" title="Plunket shark">Plunket shark (<i>P. plunketi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Scymnodalatias" title="Scymnodalatias">Scymnodalatias</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whitetail_dogfish" title="Whitetail dogfish">Whitetail dogfish (<i>S. albicauda</i>)</a></li>
+<li><a href="/wiki/Azores_dogfish" title="Azores dogfish">Azores dogfish (<i>S. garricki</i>)</a></li>
+<li><a href="/wiki/Sparsetooth_dogfish" title="Sparsetooth dogfish">Sparsetooth dogfish (<i>S. oligodon</i>)</a></li>
+<li><a href="/wiki/Sherwood_dogfish" title="Sherwood dogfish">Sherwood dogfish (<i>S. sherwoodi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Scymnodon" title="Scymnodon">Scymnodon</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Smallmouth_velvet_dogfish" title="Smallmouth velvet dogfish">Smallmouth velvet dogfish (<i>S. obscurus</i>)</a></li>
+<li><a href="/wiki/Knifetooth_dogfish" title="Knifetooth dogfish">Knifetooth dogfish (<i>S. ringens</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Somniosus" title="Somniosus">Somniosus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Southern_sleeper_shark" title="Southern sleeper shark">Southern sleeper shark (<i>S. antarcticus</i>)</a></li>
+<li><a href="/wiki/Frog_shark" title="Frog shark">Frog shark (<i>S. longus</i> )</a></li>
+<li><a href="/wiki/Greenland_shark" title="Greenland shark">Greenland shark (<i>S. microcephalus</i>)</a></li>
+<li><a href="/wiki/Pacific_sleeper_shark" title="Pacific sleeper shark">Pacific sleeper shark (<i>S. pacificus</i>)</a></li>
+<li><a href="/wiki/Little_sleeper_shark" title="Little sleeper shark">Little sleeper shark (<i>S. rostratus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a class="mw-redirect" href="/wiki/Zameus" title="Zameus">Zameus</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Japanese_velvet_dogfish" title="Japanese velvet dogfish">Japanese velvet dogfish (<i>Z. ichiharai</i>)</a></li>
+<li><a href="/wiki/Velvet_dogfish" title="Velvet dogfish">Velvet dogfish (<i>Z. squamulosus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Squalidae" title="Squalidae">Squalidae</a><br/>
+<span style="font-weight:normal;">(Dogfish sharks)</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Cirrhigaleus" title="Cirrhigaleus">Cirrhigaleus</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Roughskin_spurdog" title="Roughskin spurdog">Roughskin spurdog (<i>C. asper</i>)</a></li>
+<li><a href="/wiki/Mandarin_dogfish" title="Mandarin dogfish">Mandarin dogfish (<i>C. barbifer</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em"><i><a href="/wiki/Spurdog" title="Spurdog">Squalus</a></i><br/>
+<span style="font-weight:normal;">(Spurdogs)</span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Spiny dogfish (<i>S. acanthias</i>)</a></li>
+<li><a href="/wiki/Eastern_highfin_spurdog" title="Eastern highfin spurdog">Eastern highfin spurdog (<i>S. albifrons</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Squalus_acutirostris" title="Squalus acutirostris"><i>S. acutirostris</i></a></li>
+<li><a href="/wiki/Western_highfin_spurdog" title="Western highfin spurdog">Western highfin spurdog (<i>S. altipinnis</i>)</a></li>
+<li><a href="/wiki/Longnose_spurdog" title="Longnose spurdog">Longnose spurdog (<i>S. blainville</i>)</a></li>
+<li><a href="/wiki/Fatspine_spurdog" title="Fatspine spurdog">Fatspine spurdog (<i>S. crassispinus</i>)</a></li>
+<li><a href="/wiki/Cuban_dogfish" title="Cuban dogfish">Cuban dogfish (<i>S. cubensis</i>)</a></li>
+<li><a href="/wiki/Eastern_longnose_spurdog" title="Eastern longnose spurdog">Eastern longnose spurdog (<i>S. grahami</i>)</a></li>
+<li><a href="/wiki/Japanese_spurdog" title="Japanese spurdog">Japanese spurdog (<i>S. japonicus</i>)</a></li>
+<li><a href="/wiki/Shortnose_spurdog" title="Shortnose spurdog">Shortnose spurdog (<i>S. megalops</i>)</a></li>
+<li><a href="/wiki/Blacktailed_spurdog" title="Blacktailed spurdog">Blacktailed spurdog (<i>S. melanurus</i>)</a></li>
+<li><a href="/wiki/Shortspine_spurdog" title="Shortspine spurdog">Shortspine spurdog (<i>S. mitsukurii</i>)</a></li>
+<li><a href="/wiki/Bartail_spurdog" title="Bartail spurdog">Bartail spurdog (<i>S. notocaudatus</i>)</a></li>
+<li><a href="/wiki/Western_longnose_spurdog" title="Western longnose spurdog">Western longnose spurdog (<i>S. nasutus</i>)</a></li>
+<li><a href="/wiki/Cyrano_spurdog" title="Cyrano spurdog">Cyrano spurdog (<i>S. rancureli</i>)</a></li>
+<li><i><a class="mw-redirect" href="/wiki/Squalus_suckleyi" title="Squalus suckleyi">Squalus suckleyi</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Order_Squatiniformes_.28Angel_sharks.29" style="font-size:114%;margin:0 4em">Order <a class="mw-redirect" href="/wiki/Angel_shark" title="Angel shark">Squatiniformes <small>(Angel sharks)</small></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Angel_shark" title="Angel shark">Squatinidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><i><a class="mw-redirect" href="/wiki/Angel_shark" title="Angel shark">Squatina</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sawback_angelshark" title="Sawback angelshark">Sawback angelshark (<i>S. aculeata</i>)</a></li>
+<li><a href="/wiki/African_angelshark" title="African angelshark">African angelshark (<i>S. africana</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Eastern_Australian_angelshark" title="Eastern Australian angelshark">Eastern Australian angelshark (<i>Squatina albipunctata</i>)</a></li>
+<li><a href="/wiki/Argentine_angelshark" title="Argentine angelshark">Argentine angelshark (<i>S. argentina</i>)</a></li>
+<li><a href="/wiki/Chilean_angelshark" title="Chilean angelshark">Chilean angelshark (<i>S. armata</i>)</a></li>
+<li><a href="/wiki/Australian_angelshark" title="Australian angelshark">Australian angelshark (<i>S. australis</i>)</a></li>
+<li><a href="/wiki/Pacific_angelshark" title="Pacific angelshark">Pacific angelshark (<i>S. californica</i>)</a></li>
+<li><a href="/wiki/Sand_devil" title="Sand devil">Sand devil (<i>S. dumeril</i>)</a></li>
+<li><a href="/wiki/Taiwan_angelshark" title="Taiwan angelshark">Taiwan angelshark (<i>S. formosa</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Angular_angel_shark" title="Angular angel shark">Angular angel shark (<i>S. guggenheim</i>)</a></li>
+<li><i><a class="mw-redirect" href="/wiki/Squatina_heteroptera" title="Squatina heteroptera">S. heteroptera</a></i></li>
+<li><a href="/wiki/Japanese_angelshark" title="Japanese angelshark">Japanese angelshark (<i>S. japonica</i>)</a></li>
+<li><a href="/wiki/Indonesian_angelshark" title="Indonesian angelshark">Indonesian angelshark (<i>S. legnota</i>)</a></li>
+<li><a href="/wiki/Pacific_angelshark" title="Pacific angelshark">Cortez angelshark (<i>S. mexicana</i>)</a></li>
+<li><a href="/wiki/Clouded_angelshark" title="Clouded angelshark">Clouded angelshark (<i>S. nebulosa</i>)</a></li>
+<li><a href="/wiki/Smoothback_angelshark" title="Smoothback angelshark">Smoothback angelshark (<i>S. oculata</i>)</a></li>
+<li><a class="mw-redirect" href="/wiki/Squatina_punctata" title="Squatina punctata"><i>S. punctata</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Western_Australian_angelshark" title="Western Australian angelshark">Western Australian angelshark (<i>Squatina pseudocellata</i>)</a></li>
+<li><a href="/wiki/Squatina_squatina" title="Squatina squatina">Angelshark (<i>S. squatina</i>)</a></li>
+<li><a href="/wiki/Ornate_angelshark" title="Ornate angelshark">Ornate angelshark (<i>S. tergocellata</i>)</a></li>
+<li><a href="/wiki/Ocellated_angelshark" title="Ocellated angelshark">Ocellated angelshark (<i>S. tergocellatoides</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style='width:1%;"letter-spacing: .1px;"'><a class="extiw" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy" title="wikidata:Wikidata:WikiProject Taxonomy">Taxon identifiers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="hlist">
+<ul>
+<li><span class="external"><a href="/wiki/Wikidata" title="Wikidata">Wd</a>: <a class="extiw" href="https://www.wikidata.org/wiki/Q212694" title="d:Q212694">Q212694</a></span></li>
+<li><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>:<span class="nowrap"> </span><a class="external text" href="http://animaldiversity.org/accounts/Squalus_acanthias" rel="nofollow">Squalus_acanthias</a></li>
+<li><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>:<span class="nowrap"> </span><a class="external text" href="http://eol.org/pages/206805" rel="nofollow">206805</a></li>
+<li><a href="/wiki/FishBase" title="FishBase">FishBase</a>:<span class="nowrap"> </span><a class="external text" href="http://www.fishbase.org/Summary/speciesSummary.php?id=139" rel="nofollow">139</a></li>
+<li><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>:<span class="nowrap"> </span><a class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=151823" rel="nofollow">151823</a></li>
+<li><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>:<span class="nowrap"> </span><a class="external text" href="http://www.gbif.org/species/5216368" rel="nofollow">5216368</a></li>
+<li><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>:<span class="nowrap"> </span><a class="external text" href="http://www.inaturalist.org/taxa/52306" rel="nofollow">52306</a></li>
+<li><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>:<span class="nowrap"> </span><a class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=160617" rel="nofollow">160617</a></li>
+<li><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>:<span class="nowrap"> </span><a class="external text" href="http://www.iucnredlist.org/details/91209505/0" rel="nofollow">91209505</a></li>
+<li><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>:<span class="nowrap"> </span><a class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=7797" rel="nofollow">7797</a></li>
+<li><a href="/wiki/Plazi" title="Plazi">Plazi</a>:<span class="nowrap"> </span><a class="external text" href="http://treatment.plazi.org/id/2299F15A-D567-3FD6-CDD3-28DFE9BAB8AE" rel="nofollow">2299F15A-D567-3FD6-CDD3-28DFE9BAB8AE</a></li>
+<li><a href="/wiki/ARKive" title="ARKive">ARKive</a>:<span class="nowrap"> </span><a class="external text" href="http://www.arkive.org/spiny-dogfish/squalus-acanthias" rel="nofollow">spiny-dogfish/squalus-acanthias</a></li>
+<li><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>:<span class="nowrap"> </span><a class="external text" href="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=105923" rel="nofollow">105923</a></li>
+<li><a href="/wiki/ZooBank" title="ZooBank">ZooBank</a>:<span class="nowrap"> </span><a class="external text" href="http://zoobank.org/NomenclaturalActs/67EA1137-364E-4BE8-B87A-A07C04E0C8D5" rel="nofollow">67EA1137-364E-4BE8-B87A-A07C04E0C8D5</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="http://id.loc.gov/authorities/subjects/sh85127081" rel="nofollow">sh85127081</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20171030004933
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.112 seconds
+Real time usage: 1.351 seconds
+Preprocessor visited node count: 13761/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 701136/2097152 bytes
+Template argument size: 87255/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 14/500
+Lua time usage: 0.588/10.000 seconds
+Lua memory usage: 9.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1152.752      1 -total
+ 37.73%  434.963     44 Template:Navbox
+ 30.41%  350.570      1 Template:Speciesbox
+ 29.93%  345.023      1 Template:Taxobox/core
+ 25.13%  289.706      1 Template:Taxonbar
+ 24.03%  277.054      1 Template:1x
+ 21.94%  252.927     48 Template:Taxonbar/Link
+ 16.33%  188.213      1 Template:Taxobox/taxonomy
+ 15.34%  176.873      1 Template:Reflist
+ 14.58%  168.031      1 Template:Selachimorpha
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1425524-0!canonical and timestamp 20171030004932 and revision id 807217325
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Spiny_dogfish&amp;oldid=807217325">https://en.wikipedia.org/w/index.php?title=Spiny_dogfish&amp;oldid=807217325</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_vulnerable_species" title="Category:IUCN Red List vulnerable species">IUCN Red List vulnerable species</a></li><li><a href="/wiki/Category:Squalus" title="Category:Squalus">Squalus</a></li><li><a href="/wiki/Category:Fish_of_Europe" title="Category:Fish of Europe">Fish of Europe</a></li><li><a href="/wiki/Category:Marine_fish_of_New_Zealand" title="Category:Marine fish of New Zealand">Marine fish of New Zealand</a></li><li><a href="/wiki/Category:Fish_of_the_Mediterranean_Sea" title="Category:Fish of the Mediterranean Sea">Fish of the Mediterranean Sea</a></li><li><a href="/wiki/Category:Fish_of_the_Black_Sea" title="Category:Fish of the Black Sea">Fish of the Black Sea</a></li><li><a href="/wiki/Category:Cosmopolitan_animals" title="Category:Cosmopolitan animals">Cosmopolitan animals</a></li><li><a href="/wiki/Category:Seafood_red_list" title="Category:Seafood red list">Seafood red list</a></li><li><a href="/wiki/Category:Marine_edible_fish" title="Category:Marine edible fish">Marine edible fish</a></li><li><a href="/wiki/Category:Fish_described_in_1758" title="Category:Fish described in 1758">Fish described in 1758</a></li><li><a href="/wiki/Category:Species_endangered_by_use_as_food" title="Category:Species endangered by use as food">Species endangered by use as food</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2016" title="Category:Articles with dead external links from June 2016">Articles with dead external links from June 2016</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Spiny+dogfish" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Spiny+dogfish" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Spiny_dogfish" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Spiny_dogfish" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Spiny_dogfish">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Spiny_dogfish&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Spiny_dogfish&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Spiny_dogfish" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Spiny_dogfish" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Spiny_dogfish&amp;oldid=807217325" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Spiny_dogfish&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q212694" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Spiny_dogfish&amp;id=807217325" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Spiny+dogfish">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Spiny+dogfish&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Spiny_dogfish&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Squalus_acanthias" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Squalus_acanthias" hreflang="en">Wikispecies</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Spikkel-penhaai" hreflang="af" lang="af" title="Spikkel-penhaai – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0_%D0%B0%D0%BA%D1%83%D0%BB%D0%B0" hreflang="bg" lang="bg" title="Черноморска акула – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Spineg" hreflang="br" lang="br" title="Spineg – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Agullat" hreflang="ca" lang="ca" title="Agullat – Catalan">Català</a></li><li class="interlanguage-link interwiki-co"><a class="interlanguage-link-target" href="https://co.wikipedia.org/wiki/Spinarolu" hreflang="co" lang="co" title="Spinarolu – Corsican">Corsu</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Ci_Pigog" hreflang="cy" lang="cy" title="Ci Pigog – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Pighaj" hreflang="da" lang="da" title="Pighaj – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dornhai" hreflang="de" lang="de" title="Dornhai – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Harilik_ogahai" hreflang="et" lang="et" title="Harilik ogahai – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%91%CE%BA%CE%B1%CE%BD%CE%B8%CE%AF%CE%B1%CF%82" hreflang="el" lang="el" title="Ακανθίας – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Squalus_acanthias" hreflang="es" lang="es" title="Squalus acanthias – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Mielga_pikart" hreflang="eu" lang="eu" title="Mielga pikart – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%B3%D9%87%E2%80%8C%D9%85%D8%A7%D9%87%DB%8C_%D8%AE%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1" hreflang="fa" lang="fa" title="کوسه‌ماهی خاردار – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Squalus_acanthias" hreflang="fr" lang="fr" title="Squalus acanthias – French">Français</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%93%D5%B7%D5%B8%D5%BF_%D5%B7%D5%B6%D5%A1%D5%B1%D5%B8%D6%82%D5%AF" hreflang="hy" lang="hy" title="Փշոտ շնաձուկ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kostelj" hreflang="hr" lang="hr" title="Kostelj – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Squalus_acanthias" hreflang="it" lang="it" title="Squalus acanthias – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A6%D7%9F_%D7%A0%D7%A7%D7%95%D7%93" hreflang="he" lang="he" title="קוצן נקוד – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A5%E1%83%98%E1%83%AA%E1%83%95%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%96%E1%83%95%E1%83%98%E1%83%92%E1%83%94%E1%83%9C%E1%83%98" hreflang="ka" lang="ka" title="ქიცვიანი ზვიგენი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D1%96%D0%BA%D0%B5%D0%BD%D0%B5%D0%BA_%D0%B0%D0%BA%D1%83%D0%BB%D0%B0" hreflang="kk" lang="kk" title="Тікенек акула – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-olo"><a class="interlanguage-link-target" href="https://olo.wikipedia.org/wiki/Piiakuulu" hreflang="olo" lang="olo" title="Piiakuulu – Livvi-Karelian">Livvinkarjala</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Doornhaai" hreflang="nl" lang="nl" title="Doornhaai – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Piggh%C3%A5" hreflang="no" lang="no" title="Pigghå – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Piggh%C3%A5" hreflang="nn" lang="nn" title="Pigghå – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pcd"><a class="interlanguage-link-target" href="https://pcd.wikipedia.org/wiki/Qhyin%60d_m%C3%A9r" hreflang="pcd" lang="pcd" title="Qhyin`d mér – Picard">Picard</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kole%C5%84_pospolity" hreflang="pl" lang="pl" title="Koleń pospolity – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Squalus_acanthias" hreflang="pt" lang="pt" title="Squalus acanthias – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/C%C3%A2ine_de_mare" hreflang="ro" lang="ro" title="Câine de mare – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru badge-Q17559452 badge-recommendedarticle" title="recommended article"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%80%D0%B0%D0%BD" hreflang="ru" lang="ru" title="Катран – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Spiny_dogfish" hreflang="simple" lang="simple" title="Spiny dogfish – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kostelj" hreflang="sh" lang="sh" title="Kostelj – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Piikkihai" hreflang="fi" lang="fi" title="Piikkihai – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Pigghaj" hreflang="sv" lang="sv" title="Pigghaj – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Mahmuzlu_camg%C3%B6z_k%C3%B6pek_bal%C4%B1%C4%9F%C4%B1" hreflang="tr" lang="tr" title="Mahmuzlu camgöz köpek balığı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%80%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" hreflang="uk" lang="uk" title="Катран звичайний – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%99%BD%E6%96%91%E8%A7%92%E9%AF%8A" hreflang="zh" lang="zh" title="白斑角鯊 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q212694#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 October 2017, at 17:11.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Spiny_dogfish&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.112","walltime":"1.351","ppvisitednodes":{"value":13761,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":701136,"limit":2097152},"templateargumentsize":{"value":87255,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"entityaccesscount":{"value":14,"limit":400},"timingprofile":["100.00% 1152.752      1 -total"," 37.73%  434.963     44 Template:Navbox"," 30.41%  350.570      1 Template:Speciesbox"," 29.93%  345.023      1 Template:Taxobox/core"," 25.13%  289.706      1 Template:Taxonbar"," 24.03%  277.054      1 Template:1x"," 21.94%  252.927     48 Template:Taxonbar/Link"," 16.33%  188.213      1 Template:Taxobox/taxonomy"," 15.34%  176.873      1 Template:Reflist"," 14.58%  168.031      1 Template:Selachimorpha"]},"scribunto":{"limitreport-timeusage":{"value":"0.588","limit":"10.000"},"limitreport-memusage":{"value":10454849,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20171030004933","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1320"});});</script>
+</body>
+</html>

@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sled - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sled","wgTitle":"Sled","wgCurRevisionId":792913697,"wgRevisionId":792913697,"wgArticleId":153862,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Use dmy dates from January 2013","Sledding","Sports equipment","Animal-powered vehicles","Sliding vehicles","Snow"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sled","wgRelevantArticleId":153862,"wgRequestId":"WgJ8QApAME8AABUa6ncAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Sleigh","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Sled","wgWikibaseItemId":"Q181388","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uphill_Sleigh_Ride.jpg/1200px-Uphill_Sleigh_Ride.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sled" rel="alternate"/>
+<link href="/w/index.php?title=Sled&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sled&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sled" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sled rootpage-Sled vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sled</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Sleigh&amp;redirect=no" title="Sleigh">Sleigh</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the vehicle. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/SLED_(disambiguation)" title="SLED (disambiguation)">SLED (disambiguation)</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">"Sledge" and "Sleigh" redirect here. For other uses, see <a class="mw-disambig" href="/wiki/Sledge_(disambiguation)" title="Sledge (disambiguation)">Sledge (disambiguation)</a> and <a class="mw-disambig" href="/wiki/Sleigh_(disambiguation)" title="Sleigh (disambiguation)">Sleigh (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Uphill_Sleigh_Ride.jpg"><img alt="" class="thumbimage" data-file-height="1681" data-file-width="2520" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uphill_Sleigh_Ride.jpg/250px-Uphill_Sleigh_Ride.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uphill_Sleigh_Ride.jpg/375px-Uphill_Sleigh_Ride.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uphill_Sleigh_Ride.jpg/500px-Uphill_Sleigh_Ride.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Uphill_Sleigh_Ride.jpg" title="Enlarge"></a></div>
+A <a href="/wiki/Fjord_horse" title="Fjord horse">Fjord horse</a> drawing a sleigh.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Horse-drawn_sleighs_2012_G1.jpg"><img alt="" class="thumbimage" data-file-height="3456" data-file-width="5184" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Horse-drawn_sleighs_2012_G1.jpg/250px-Horse-drawn_sleighs_2012_G1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Horse-drawn_sleighs_2012_G1.jpg/375px-Horse-drawn_sleighs_2012_G1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Horse-drawn_sleighs_2012_G1.jpg/500px-Horse-drawn_sleighs_2012_G1.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Horse-drawn_sleighs_2012_G1.jpg" title="Enlarge"></a></div>
+Horse-drawn sleigh. <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>, 2012</div>
+</div>
+</div>
+<p>A <b>sled</b>, <b>sledge</b>, or <b>sleigh</b> is a land vehicle with a smooth underside or possessing a separate body supported by two or more smooth, relatively narrow, longitudinal <b>runners</b> that travels by sliding across a surface. Most commonly sleds are used on snow or <a href="/wiki/Ice" title="Ice">ice</a>, however in certain cases they may be used on any surfaces, especially on ones with relatively low <a href="/wiki/Friction" title="Friction">friction</a>, such as sand or wet grass. They may be used to transport passengers, cargo, or both. Shades of meaning differentiating the three terms often reflect regional variations depending on historical uses and prevailing climate.</p>
+<p>In <a href="/wiki/British_English" title="British English">Britain</a> <i>sledge</i> is the general term, and more common than <i>sled</i>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> <i><a href="/wiki/Toboggan" title="Toboggan">Toboggan</a></i> is sometimes used synonymously with <i>sledge</i> but more often to refer to a particular type of sledge without runners.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> <i>Sleigh</i> refers to a moderate to large-sized, usually open-topped vehicle to carry passengers or goods, and typically drawn by horses or dogs.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> In Scandinavia particularly a sleigh may also be drawn by <a href="/wiki/Reindeer" title="Reindeer">reindeer</a>, as for <a href="/wiki/Father_Christmas" title="Father Christmas">Father Christmas</a>.</p>
+<p>In <a href="/wiki/American_English" title="American English">American</a> usage <i>sled</i> remains the general term but often implies a smaller device, often for recreational use. <i>Sledge</i> implies a heavier sled used for moving freight or massive objects (<i>syn.</i> "stone boat"). <i>Sleigh</i> refers more specifically than in Britain to a vehicle which is essentially a cold-season alternative to a <a href="/wiki/Carriage" title="Carriage">carriage</a> or <a href="/wiki/Wagon" title="Wagon">wagon</a> and has seating for passengers; what can be called a dog-sleigh in Britain is known only as a dog-sled in North America.</p>
+<p>In <a href="/wiki/Australian_English" title="Australian English">Australia</a>, where there is limited snow, <i>sleigh</i> and <i>sledge</i> are given equal preference in local parlance.<sup class="reference" id="cite_ref-Mac_4-0"><a href="#cite_note-Mac-4">[4]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etymology"><span class="tocnumber">1.1</span> <span class="toctext">Etymology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Modern_sleds"><span class="tocnumber">2</span> <span class="toctext">Modern sleds</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Sleds_for_recreational_sledding"><span class="tocnumber">2.1</span> <span class="toctext">Sleds for recreational sledding</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Sleds_for_competitive_sledding"><span class="tocnumber">2.2</span> <span class="toctext">Sleds for competitive sledding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Other_sleds"><span class="tocnumber">2.3</span> <span class="toctext">Other sleds</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Decorative_Sled.jpg"><img alt="" class="thumbimage" data-file-height="4912" data-file-width="7360" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Decorative_Sled.jpg/220px-Decorative_Sled.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Decorative_Sled.jpg/330px-Decorative_Sled.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Decorative_Sled.jpg/440px-Decorative_Sled.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Decorative_Sled.jpg" title="Enlarge"></a></div>
+Decorative Sled</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:NMA.0035032.jpg"><img alt="" class="thumbimage" data-file-height="1941" data-file-width="3000" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NMA.0035032.jpg/220px-NMA.0035032.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NMA.0035032.jpg/330px-NMA.0035032.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NMA.0035032.jpg/440px-NMA.0035032.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:NMA.0035032.jpg" title="Enlarge"></a></div>
+Sled on <a href="/wiki/Brunnsviken" title="Brunnsviken">Brunnsviken</a>, <a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>. Original av <a class="new" href="/w/index.php?title=Martin_Rudolf_Heland&amp;action=edit&amp;redlink=1" title="Martin Rudolf Heland (page does not exist)">Martin Rudolf Heland</a> (1765–1814).</div>
+</div>
+</div>
+<p>The people of <a href="/wiki/Ancient_Egypt" title="Ancient Egypt">Ancient Egypt</a> are thought to have used sledges extensively in the construction of their public works, in particular for the transportation of heavy <a href="/wiki/Obelisk" title="Obelisk">obelisks</a>.</p>
+<p>Sleds and sledges were found in the <a href="/wiki/Oseberg_Ship" title="Oseberg Ship">Oseberg "Viking" ship</a> excavation. Sledges were useful not only in winter but can be drawn over wet fields, muddy roads, and even hard ground, if one helps them along by greasing the blades with oil or alternatively wetting them with water; in cold weather the water will freeze to ice and they glide along more smoothly with less effort to pull them. The sledge was also highly prized, because – unlike wheeled vehicles – it was exempt from tolls.</p>
+<p>Until the late 19th century, a closed winter sled, or <a href="/wiki/Vozok" title="Vozok">vozok</a>, provided a high-speed means of transport through the snow-covered plains of European <a href="/wiki/Russia" title="Russia">Russia</a> and <a href="/wiki/Siberia" title="Siberia">Siberia</a>. It was a means of transport preferred by royals, bishops, and boyars of <a href="/wiki/Tsardom_of_Russia" title="Tsardom of Russia">Muscovy</a>. Several royal vozoks of historical importance have been preserved in the <a href="/wiki/Kremlin_Armoury" title="Kremlin Armoury">Kremlin Armoury</a>.</p>
+<p>Man-hauled sledges were the traditional means of transport on British exploring expeditions to the <a href="/wiki/Arctic" title="Arctic">Arctic</a> and <a href="/wiki/Antarctic" title="Antarctic">Antarctic</a> regions in the 19th and early 20th centuries. <a href="/wiki/Dog_sled" title="Dog sled">Dog sleds</a> were used by most others, such as <a href="/wiki/Roald_Amundsen" title="Roald Amundsen">Roald Amundsen</a>. Today some people use <a class="mw-redirect" href="/wiki/Kite_flying" title="Kite flying">kites</a> to tow exploration sleds in such climes.</p>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:702px;"><a class="image" href="/wiki/File:Cargo_sled,_McMurdo_Station_(cropped).JPEG"><img alt="" class="thumbimage" data-file-height="350" data-file-width="1727" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cargo_sled%2C_McMurdo_Station_%28cropped%29.JPEG/700px-Cargo_sled%2C_McMurdo_Station_%28cropped%29.JPEG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cargo_sled%2C_McMurdo_Station_%28cropped%29.JPEG/1050px-Cargo_sled%2C_McMurdo_Station_%28cropped%29.JPEG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cargo_sled%2C_McMurdo_Station_%28cropped%29.JPEG/1400px-Cargo_sled%2C_McMurdo_Station_%28cropped%29.JPEG 2x" width="700"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cargo_sled,_McMurdo_Station_(cropped).JPEG" title="Enlarge"></a></div>
+An enormous cargo sled being maneuvered by a 10K-AT "All Terrain" <a class="mw-redirect" href="/wiki/Forklift_truck" title="Forklift truck">forklift</a> at <a href="/wiki/McMurdo_Station" title="McMurdo Station">McMurdo Station</a> in <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>.</div>
+</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:HorseandSleighRide.jpg"><img alt="" class="thumbimage" data-file-height="2848" data-file-width="4288" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/HorseandSleighRide.jpg/250px-HorseandSleighRide.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/HorseandSleighRide.jpg/375px-HorseandSleighRide.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/HorseandSleighRide.jpg/500px-HorseandSleighRide.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:HorseandSleighRide.jpg" title="Enlarge"></a></div>
+Horse-drawn sleigh ride, Pakenham, Ontario, Canada</div>
+</div>
+</div>
+<p>The word <i>sled</i> comes from <a href="/wiki/Middle_English" title="Middle English">Middle English</a> <i>sledde</i>, which itself has the origins in <a class="mw-redirect" href="/wiki/Old_Dutch_language" title="Old Dutch language">Old Dutch</a> word <i>slee</i>, meaning "sliding" or "slider". The same word shares common ancestry with both <i>sleigh</i> and <i>sledge</i>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The word sleigh, on the other hand, is an anglicized form of the modern Dutch word "slee" and was introduced to the English language by Dutch immigrants to North America <sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Modern_sleds">Modern sleds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=3" title="Edit section: Modern sleds">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Sleds_for_recreational_sledding">Sleds for recreational sledding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=4" title="Edit section: Sleds for recreational sledding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Sanki.JPG"><img alt="" class="thumbimage" data-file-height="3598" data-file-width="5397" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sanki.JPG/250px-Sanki.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sanki.JPG/375px-Sanki.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sanki.JPG/500px-Sanki.JPG 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sanki.JPG" title="Enlarge"></a></div>
+A child's sledge (19th century). <a href="/wiki/Radomysl_Castle" title="Radomysl Castle">Radomysl Castle</a><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Casa_Ostra4.jpg"><img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Casa_Ostra4.jpg/250px-Casa_Ostra4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Casa_Ostra4.jpg/375px-Casa_Ostra4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Casa_Ostra4.jpg/500px-Casa_Ostra4.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Casa_Ostra4.jpg" title="Enlarge"></a></div>
+Old horse-drawn sled at a museum</div>
+</div>
+</div>
+<p>There are several types of widely used recreational sleds designed for sliding down snowy hills (<a href="/wiki/Sledding" title="Sledding">sledding</a>):<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<ul>
+<li><a href="/wiki/Toboggan" title="Toboggan">Toboggan</a>, an elongated sled without runners, usually made from wood or plastic<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li>Saucer, a round sled curved like a <a href="/wiki/Contact_lens" title="Contact lens">contact lens</a>, also without runners and usually made out of plastic or metal</li>
+<li>Steel runner sled or <a class="mw-redirect" href="/wiki/Flexible_flyer" title="Flexible flyer">flexible flyer</a>, a steerable wooden sled with thin metal runners<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></li>
+<li><a href="/wiki/Kicksled" title="Kicksled">Kicksled</a> or spark, a human-powered sled</li>
+<li>Inflatable sled or <a href="/wiki/Tubing_(recreation)#Snow" title="Tubing (recreation)">tube</a>, a plastic membrane filled with air to make a very lightweight sled</li>
+<li><a href="/wiki/Foam" title="Foam">Foam</a> slider, a flat piece of durable foam with handles and a smooth underside</li>
+<li>Backcountry sled, a deep, steerable plastic sled to kneel on with pads and a seatbelt, such as the <a class="new" href="/w/index.php?title=Mad_River_Rocket&amp;action=edit&amp;redlink=1" title="Mad River Rocket (page does not exist)">Mad River Rocket</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Sleds_for_competitive_sledding">Sleds for competitive sledding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=5" title="Edit section: Sleds for competitive sledding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A few types of sleds are used only for a specific sport:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Bobsled" title="Bobsled">Bobsled</a> (British bobsleigh), an aerodynamic composite bodied vehicle on lightweight runners</li>
+<li><a href="/wiki/Luge" title="Luge">Luge</a> and the <a href="/wiki/Skeleton_(sport)" title="Skeleton (sport)">skeleton</a>, tiny one or two-person sleds with runners<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></li>
+</ul>
+<p>Various types of sleds are pulled by animals such as <a href="/wiki/Reindeer" title="Reindeer">reindeer</a>, horses, <a href="/wiki/Mule" title="Mule">mules</a>, <a class="mw-redirect" href="/wiki/Oxen" title="Oxen">oxen</a>, or dogs.</p>
+<h3><span class="mw-headline" id="Other_sleds">Other sleds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=6" title="Edit section: Other sleds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Sledge_2.JPG"><img alt="" class="thumbimage" data-file-height="1944" data-file-width="2592" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sledge_2.JPG/250px-Sledge_2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sledge_2.JPG/375px-Sledge_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sledge_2.JPG/500px-Sledge_2.JPG 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sledge_2.JPG" title="Enlarge"></a></div>
+A horse-drawn "stone boat", a sled used in <a href="/wiki/Horse_pulling" title="Horse pulling">horse pulling</a> competition, Spring Fair, Woolbrook, NSW</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Boy_on_snow_sled,_1945.jpg"><img alt="" class="thumbimage" data-file-height="275" data-file-width="514" height="134" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boy_on_snow_sled%2C_1945.jpg/250px-Boy_on_snow_sled%2C_1945.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boy_on_snow_sled%2C_1945.jpg/375px-Boy_on_snow_sled%2C_1945.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boy_on_snow_sled%2C_1945.jpg/500px-Boy_on_snow_sled%2C_1945.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Boy_on_snow_sled,_1945.jpg" title="Enlarge"></a></div>
+Boy on snow sled, 1945</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Self-balancing_scooter" title="Self-balancing scooter">Airboard</a>, an inflatable single-person sled, similar to a <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></li>
+<li>A cutter is a North American type of small horse-drawn sled<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li>
+<li><a href="/wiki/Troika_(driving)" title="Troika (driving)">Troika</a>, a vehicle drawn by three horses, usually a sled, but it may also be a wheeled carriage</li>
+<li>In some regions, "sled" <sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> is colloquial slang for a <a href="/wiki/Snowmobile" title="Snowmobile">snowmobile</a></li>
+<li>In arctic regions, the Inuit <a class="mw-redirect" href="/wiki/Qamutiq" title="Qamutiq">qamutiq</a> is uniquely adapted for travel on the sea ice<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/Ahkio" title="Ahkio">Ahkio</a> or <a class="mw-redirect" href="/wiki/Pulka" title="Pulka">pulka</a>, a traditional sled of the <a class="mw-redirect" href="/wiki/Lapland_(region)" title="Lapland (region)">Lapland</a> region, originally pulled by <a href="/wiki/Reindeer" title="Reindeer">reindeer</a>; now more common as a human or snowmobile-towed sled often used for cold weather expeditions by <a href="/wiki/Mountain_rescue" title="Mountain rescue">mountain rescue</a> teams and military <a class="mw-redirect" href="/wiki/Arctic_warfare" title="Arctic warfare">cold weather units</a> to haul equipment, supplies, and passengers</li>
+<li>In <a href="/wiki/Tractor_pulling" title="Tractor pulling">truck and tractor pulling</a>, an implement pulled behind the machine which uses friction to stop the machine.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Bobsled" title="Bobsled">Bobsled</a></li>
+<li><a href="/wiki/Luge" title="Luge">Luge</a></li>
+<li><a href="/wiki/Mudsled" title="Mudsled">Mudsled</a></li>
+<li><a class="mw-redirect" href="/wiki/Pulka" title="Pulka">Pulka</a></li>
+<li><a href="/wiki/Qamutiik" title="Qamutiik">Qamutiik</a></li>
+<li><a href="/wiki/Skeleton_(sport)" title="Skeleton (sport)">Skeleton</a></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Ski" title="Ski">Ski</a></li>
+<li><a href="/wiki/Snowboard" title="Snowboard">Snowboard</a></li>
+<li><a href="/wiki/Snowmobile" title="Snowmobile">Snowmobile</a></li>
+<li><a href="/wiki/Toboggan" title="Toboggan">Toboggan</a></li>
+<li><a href="/wiki/Travois" title="Travois">Travois</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.collinsdictionary.com/dictionary/english/sledge" rel="nofollow">"Collins 2012 digital edition"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Collins+2012+digital+edition&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Fsledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.collinsdictionary.com/dictionary/english/toboggan" rel="nofollow">"Collins 2012 digital edition"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Collins+2012+digital+edition&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Ftoboggan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.collinsdictionary.com/dictionary/english/sleigh" rel="nofollow">"Collins 2012 digital edition"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Collins+2012+digital+edition&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Fsleigh&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Mac-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mac_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>The <a href="/wiki/Macquarie_Dictionary" title="Macquarie Dictionary">Macquarie Dictionary</a>, 2nd ed.,</i>. North Ryde: Macquarie Library. 1991.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=The+Macquarie+Dictionary%2C+2nd+ed.%2C&amp;rft.date=1991&amp;rft.genre=book&amp;rft.place=North+Ryde&amp;rft.pub=Macquarie+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.thefreedictionary.com/sledge" rel="nofollow">"thefreedictionary entrance on "sled<span style="padding-right:0.2em;">"</span>"</a>. Farlex.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=thefreedictionary+entrance+on+%22sled%22&amp;rft.genre=unknown&amp;rft.pub=Farlex&amp;rft_id=http%3A%2F%2Fwww.thefreedictionary.com%2Fsledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.thefreedictionary.com/sleigh" rel="nofollow">"thefreedictionary entrance on "sleigh<span style="padding-right:0.2em;">"</span>"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=thefreedictionary+entrance+on+%22sleigh%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefreedictionary.com%2Fsleigh&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Bogomolets O. Radomysl castle-Museum on the Royal Road Via Regia. — Kyiv, 2013</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.pariconsleds.com/" rel="nofollow">Parigon Sleds</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.schlitten-bob.de/Hoernerschlitten_idQQ1ZZmodeQQartlistZZcatQQ8" rel="nofollow">"Hörnerschlitten"</a> (in German). www.schlitten-bob.de<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=H%C3%B6rnerschlitten&amp;rft.genre=unknown&amp;rft.pub=www.schlitten-bob.de&amp;rft_id=http%3A%2F%2Fwww.schlitten-bob.de%2FHoernerschlitten_idQQ1ZZmodeQQartlistZZcatQQ8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.schlitten-bob.de/Snowracer_idQQ1ZZmodeQQartlistZZcatQQ13" rel="nofollow">"Snow Racer von Stiga finden Sie in der Rubrik Stiga Schlitten!"</a> (in German). www.schlitten-bob.de<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Snow+Racer+von+Stiga+finden+Sie+in+der+Rubrik+Stiga+Schlitten%21&amp;rft.genre=unknown&amp;rft.pub=www.schlitten-bob.de&amp;rft_id=http%3A%2F%2Fwww.schlitten-bob.de%2FSnowracer_idQQ1ZZmodeQQartlistZZcatQQ13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.schlittendiscount.de/schlitten-holzschlitten/willkommen/" rel="nofollow">"Herzlich Willkommen !"</a> (in German). www.schlittendiscount.de<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Herzlich+Willkommen+%21&amp;rft.genre=unknown&amp;rft.pub=www.schlittendiscount.de&amp;rft_id=http%3A%2F%2Fwww.schlittendiscount.de%2Fschlitten-holzschlitten%2Fwillkommen%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.hoernerrodel.de/shop/hornerschlitten-110-cm-modell-lattensitz/" rel="nofollow">"Hörnerschlitten"</a> (in German). www.hoernerrodel.de<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=H%C3%B6rnerschlitten&amp;rft.genre=unknown&amp;rft.pub=www.hoernerrodel.de&amp;rft_id=http%3A%2F%2Fwww.hoernerrodel.de%2Fshop%2Fhornerschlitten-110-cm-modell-lattensitz%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.hoernerrodel.de/shopk/klappschlitten/" rel="nofollow">"Klappschlitten"</a> (in German). www.hoernerrodel.de<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Klappschlitten&amp;rft.genre=unknown&amp;rft.pub=www.hoernerrodel.de&amp;rft_id=http%3A%2F%2Fwww.hoernerrodel.de%2Fshopk%2Fklappschlitten%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.schlittendiscount.de/lenkbob/" rel="nofollow">"Lenkbob"</a> (in German). www.schlittendiscount.de<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Lenkbob&amp;rft.genre=unknown&amp;rft.pub=www.schlittendiscount.de&amp;rft_id=http%3A%2F%2Fwww.schlittendiscount.de%2Flenkbob%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.sleighs.ca/Our%20Sleighs.htm" rel="nofollow">"Outram's Cutter MFG"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Outram%27s+Cutter+MFG&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sleighs.ca%2FOur%2520Sleighs.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">sledspace.com (2008). <a class="external text" href="http://www.sledspace.com" rel="nofollow">"Sledspace.com – Snowmobile Community"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 Apr</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.au=sledspace.com&amp;rft.btitle=Sledspace.com+%E2%80%93+Snowmobile+Community&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sledspace.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.schlitten-bob.de/Snowracer_idQQ1ZZmodeQQartlistZZcatQQ13" rel="nofollow">"Snowracer"</a> (in German). www.schlitten-bob.de<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=Snowracer&amp;rft.genre=unknown&amp;rft.pub=www.schlitten-bob.de&amp;rft_id=http%3A%2F%2Fwww.schlitten-bob.de%2FSnowracer_idQQ1ZZmodeQQartlistZZcatQQ13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lcata.com/facts.htm" rel="nofollow">"The Sled"</a>. Lake Country Antique Tractor Association<span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASled&amp;rft.btitle=The+Sled&amp;rft.genre=unknown&amp;rft.pub=Lake+Country+Antique+Tractor+Association&amp;rft_id=http%3A%2F%2Flcata.com%2Ffacts.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sled&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Sleds" title="commons:Category:Sleds">Sleds</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.SledRiding.com/horsedrawnsleighrides.html" rel="nofollow">North America's Horse Drawn Sleigh Rides</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1218
+Cached time: 20171017124448
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.275 seconds
+Preprocessor visited node count: 872/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21766/2097152 bytes
+Template argument size: 337/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 3.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  209.283      1 -total
+ 58.66%  122.758      1 Template:Reflist
+ 42.95%   89.883     15 Template:Cite_web
+ 13.67%   28.617      1 Template:Commons_category
+ 11.18%   23.392      1 Template:Use_dmy_dates
+  4.95%   10.359      1 Template:About
+  4.83%   10.099      1 Template:Commons
+  4.80%   10.056      1 Template:DMCA
+  4.23%    8.848      1 Template:Dated_maintenance_category
+  4.04%    8.451      1 Template:Sister_project
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:153862-0!canonical and timestamp 20171017124448 and revision id 792913697
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sled&amp;oldid=792913697">https://en.wikipedia.org/w/index.php?title=Sled&amp;oldid=792913697</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sledding" title="Category:Sledding">Sledding</a></li><li><a href="/wiki/Category:Sports_equipment" title="Category:Sports equipment">Sports equipment</a></li><li><a href="/wiki/Category:Animal-powered_vehicles" title="Category:Animal-powered vehicles">Animal-powered vehicles</a></li><li><a href="/wiki/Category:Sliding_vehicles" title="Category:Sliding vehicles">Sliding vehicles</a></li><li><a href="/wiki/Category:Snow" title="Category:Snow">Snow</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2013" title="Category:Use dmy dates from January 2013">Use dmy dates from January 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sled" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sled" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sled" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sled" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sled">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sled&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sled&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sled" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sled" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sled&amp;oldid=792913697" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sled&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181388" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sled&amp;id=792913697" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sled">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sled&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sled&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sleds" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-kbd"><a class="interlanguage-link-target" href="https://kbd.wikipedia.org/wiki/%D3%80%D1%8D%D0%B6%D1%8C%D1%8D" hreflang="kbd" lang="kbd" title="Ӏэжьэ – Kabardian">Адыгэбзэ</a></li><li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Slee" hreflang="af" lang="af" title="Slee – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B2%D9%84%D8%AC%D8%A9" hreflang="ar" lang="ar" title="مزلجة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Trin%C3%A9u" hreflang="ast" lang="ast" title="Trinéu – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%96" hreflang="be-x-old" lang="be-x-old" title="Сані – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A8%D0%B5%D0%B9%D0%BD%D0%B0" hreflang="bg" lang="bg" title="Шейна – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Trineu" hreflang="ca" lang="ca" title="Trineu – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%C3%87%D1%83%D0%BD%D0%B0" hreflang="cv" lang="cv" title="Çуна – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/San%C4%9B" hreflang="cs" lang="cs" title="Saně – Czech">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Nhanzva" hreflang="sn" lang="sn" title="Nhanzva – Shona">ChiShona</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Sl%C3%A6de" hreflang="da" lang="da" title="Slæde – Danish">Dansk</a></li><li class="interlanguage-link interwiki-pdc"><a class="interlanguage-link-target" href="https://pdc.wikipedia.org/wiki/Schlidde" hreflang="pdc" lang="pdc" title="Schlidde – Pennsylvania German">Deitsch</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schlitten" hreflang="de" lang="de" title="Schlitten – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kelk" hreflang="et" lang="et" title="Kelk – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Trineo" hreflang="es" lang="es" title="Trineo – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Sledo" hreflang="eo" lang="eo" title="Sledo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Lera" hreflang="eu" lang="eu" title="Lera – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D8%AA%D9%85%D9%87" hreflang="fa" lang="fa" title="سورتمه – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tra%C3%AEneau" hreflang="fr" lang="fr" title="Traîneau – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Zorra" hreflang="gl" lang="gl" title="Zorra – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%8D%B0%EB%A7%A4" hreflang="ko" lang="ko" title="썰매 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kereta_salju" hreflang="id" lang="id" title="Kereta salju – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Sle%C3%B0i" hreflang="is" lang="is" title="Sleði – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Slitta" hreflang="it" lang="it" title="Slitta – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%96%D7%97%D7%9C%D7%AA" hreflang="he" lang="he" title="מזחלת – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AE%E1%83%98%E1%83%9A%E1%83%98" hreflang="ka" lang="ka" title="მარხილი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a class="interlanguage-link-target" href="https://csb.wikipedia.org/wiki/Wloknica" hreflang="csb" lang="csb" title="Wloknica – Kashubian">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D0%B0" hreflang="kk" lang="kk" title="Шана – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Sleji" hreflang="sw" lang="sw" title="Sleji – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Trahea" hreflang="la" lang="la" title="Trahea – Latin">Latina</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Rog%C4%97s" hreflang="lt" lang="lt" title="Rogės – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-mdf"><a class="interlanguage-link-target" href="https://mdf.wikipedia.org/wiki/%D0%9D%D1%83%D1%80%D0%B4%D0%B0" hreflang="mdf" lang="mdf" title="Нурда – Moksha">Мокшень</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A7%D0%B0%D1%80%D0%B3%D0%B0" hreflang="mn" lang="mn" title="Чарга – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Slee" hreflang="nl" lang="nl" title="Slee – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%81%9D%E3%82%8A" hreflang="ja" lang="ja" title="そり – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Slede" hreflang="no" lang="no" title="Slede – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Chana" hreflang="uz" lang="uz" title="Chana – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sanie" hreflang="pl" lang="pl" title="Sanie – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Tren%C3%B3" hreflang="pt" lang="pt" title="Trenó – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Sanie" hreflang="ro" lang="ro" title="Sanie – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Suchuqrampa" hreflang="qu" lang="qu" title="Suchuqrampa – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B8" hreflang="ru" lang="ru" title="Сани – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Sled" hreflang="simple" lang="simple" title="Sled – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AE%D9%84%DB%8C%D8%B3%DA%A9%DB%95" hreflang="ckb" lang="ckb" title="خلیسکە – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Sanke" hreflang="sr" lang="sr" title="Sanke – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Sanjke" hreflang="sh" lang="sh" title="Sanjke – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Reki" hreflang="fi" lang="fi" title="Reki – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sl%C3%A4de" hreflang="sv" lang="sv" title="Släde – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%8A%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%BF" hreflang="ta" lang="ta" title="பனிச்சறுக்கு ஊர்தி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/K%C4%B1zak" hreflang="tr" lang="tr" title="Kızak – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B8" hreflang="uk" lang="uk" title="Сани – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vec"><a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Feri%C3%B2n" hreflang="vec" lang="vec" title="Feriòn – Venetian">Vèneto</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%9B%AA%E6%A9%87" hreflang="zh-yue" lang="zh-yue" title="雪橇 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Rag%C4%97s" hreflang="bat-smg" lang="bat-smg" title="Ragės – Samogitian">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9B%AA%E6%A9%87" hreflang="zh" lang="zh" title="雪橇 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181388#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 July 2017, at 14:57.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sled&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.275","ppvisitednodes":{"value":872,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21766,"limit":2097152},"templateargumentsize":{"value":337,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  209.283      1 -total"," 58.66%  122.758      1 Template:Reflist"," 42.95%   89.883     15 Template:Cite_web"," 13.67%   28.617      1 Template:Commons_category"," 11.18%   23.392      1 Template:Use_dmy_dates","  4.95%   10.359      1 Template:About","  4.83%   10.099      1 Template:Commons","  4.80%   10.056      1 Template:DMCA","  4.23%    8.848      1 Template:Dated_maintenance_category","  4.04%    8.451      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":3576654,"limit":52428800}},"cachereport":{"origin":"mw1218","timestamp":"20171017124448","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1244"});});</script>
+</body>
+</html>

@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Panthalassa - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Panthalassa","wgTitle":"Panthalassa","wgCurRevisionId":806826352,"wgRevisionId":806826352,"wgArticleId":222142,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","Plate tectonics","Historical oceans","Paleozoic paleogeography","Mesozoic paleogeography"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Panthalassa","wgRelevantArticleId":222142,"wgRequestId":"Wft@yApAICkAAIMY-osAAACA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q208378","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pangea_continents_and_oceans.svg/1200px-Pangea_continents_and_oceans.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Panthalassa" rel="alternate"/>
+<link href="/w/index.php?title=Panthalassa&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Panthalassa&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Panthalassa" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Panthalassa rootpage-Panthalassa vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Panthalassa</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the Miles Davis album, see <a href="/wiki/Panthalassa:_The_Music_of_Miles_Davis_1969%E2%80%931974" title="Panthalassa: The Music of Miles Davis 1969–1974">Panthalassa: The Music of Miles Davis 1969–1974</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Pangea_continents_and_oceans.svg"><img alt="" class="thumbimage" data-file-height="958" data-file-width="1021" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pangea_continents_and_oceans.svg/220px-Pangea_continents_and_oceans.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pangea_continents_and_oceans.svg/330px-Pangea_continents_and_oceans.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pangea_continents_and_oceans.svg/440px-Pangea_continents_and_oceans.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pangea_continents_and_oceans.svg" title="Enlarge"></a></div>
+When Panthalassa surrounded <a href="/wiki/Pangaea" title="Pangaea">Pangaea</a> <a href="/wiki/Laurasia" title="Laurasia">Laurasia</a> was located in the northern Hemisphere and <a href="/wiki/Gondwana" title="Gondwana">Gondwana</a> in the southern. Outline of present-day landmasses added for orientation.</div>
+</div>
+</div>
+<p><b>Panthalassa</b>, also known as the <b>Panthalassic</b> or <b>Panthalassan Ocean</b>, (from <a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek</a> <span lang="grc" xml:lang="grc"><a class="extiw" href="https://en.wiktionary.org/wiki/%CF%80%E1%BE%B6%CE%BD" title="wikt:πᾶν">πᾶν</a></span> "all" and <span lang="grc" xml:lang="grc"><a class="extiw" href="https://en.wiktionary.org/wiki/%CE%B8%CE%AC%CE%BB%CE%B1%CF%83%CF%83%CE%B1#Ancient_Greek" title="wikt:θάλασσα">θάλασσα</a></span> "sea"),<sup class="reference" id="cite_ref-OnlineEtDict_1-0"><a href="#cite_note-OnlineEtDict-1">[1]</a></sup> was the <a href="/wiki/Superocean" title="Superocean">superocean</a> that surrounded the <a href="/wiki/Supercontinent" title="Supercontinent">supercontinent</a> <a href="/wiki/Pangaea" title="Pangaea">Pangaea</a>. During the <a href="/wiki/Paleozoic" title="Paleozoic">Paleozoic</a>—<a href="/wiki/Mesozoic" title="Mesozoic">Mesozoic</a> transition <abbr title="circa">c.</abbr> 250 <abbr title="million years ago">Ma</abbr> it occupied almost 70% of Earth's surface. Its ocean-floor has completely disappeared because of the continuous subduction along the continental margins on its circumference.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Panthalassa is also referred to as the <b>Paleo-Pacific</b> ("old Pacific") or <b>Proto-Pacific</b> because the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> developed from its centre in the Mesozoic to the present.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Formation"><span class="tocnumber">1</span> <span class="toctext">Formation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reconstruction_of_ocean_basin"><span class="tocnumber">2</span> <span class="toctext">Reconstruction of ocean basin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Eastern_margin"><span class="tocnumber">2.1</span> <span class="toctext">Eastern margin</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Western_margin"><span class="tocnumber">2.2</span> <span class="toctext">Western margin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Palaeo-oceanography"><span class="tocnumber">3</span> <span class="toctext">Palaeo-oceanography</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Notes"><span class="tocnumber">5.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Sources"><span class="tocnumber">5.2</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Formation">Formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=1" title="Edit section: Formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="toccolours searchaux" id="Container" style="text-align: left; padding:0.5em 0 0 0; border-style:solid; float:right;clear:right; padding:0 0.5em; margin:0.3em 0 0.8em 1.4em; overflow: hidden;">
+<div id="Title" style="background-color:#77bb77; font-weight:bold; padding:0.2em; text-align:center; margin:0.6em 0 1.2em 0"><a href="/wiki/Timeline_of_the_evolutionary_history_of_life" title="Timeline of the evolutionary history of life">Life timeline</a></div>
+<div id="Contains-Timeline-Scale-Notes">
+<div style="text-align:right; position:relative; top:-1em;"><small><a href="/wiki/Template:Life_timeline" title="Template:Life timeline"><span style="color:#002bb8;" title="View this timeline in its own page">view</span></a> • <a href="/wiki/Template_talk:Life_timeline" title="Template talk:Life timeline"><span style="color:#002bb8;" title="Discussion about this template">discuss</span></a> • <span class="noprint plainlinksneverexpand" style="color:#002bb8;" title="You can edit this timeline. Please use the preview button before saving."><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Life_timeline&amp;action=edit">edit</a></span></span></small></div>
+<div id="Scale" style="width:3.1em; position:relative; top:-0.82em; float:left; height:36em; padding:0px">
+<div style="float:right; position:absolute; right:-1px; top:35.68281938326em;"><span style="font-size:86%;white-space:nowrap;">-4500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:33.700440528634em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:31.718061674009em;"><span style="font-size:86%;white-space:nowrap;">-4000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:29.735682819383em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:27.753303964758em;"><span style="font-size:86%;white-space:nowrap;">-3500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:25.770925110132em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:23.788546255507em;"><span style="font-size:86%;white-space:nowrap;">-3000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:21.806167400881em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:19.823788546256em;"><span style="font-size:86%;white-space:nowrap;">-2500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:17.84140969163em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:15.859030837004em;"><span style="font-size:86%;white-space:nowrap;">-2000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:13.876651982379em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:11.894273127753em;"><span style="font-size:86%;white-space:nowrap;">-1500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:9.9118942731278em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:7.9295154185022em;"><span style="font-size:86%;white-space:nowrap;">-1000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:5.9471365638767em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:3.9647577092511em;"><span style="font-size:86%;white-space:nowrap;">-500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:1.9823788546256em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:0em;"><span style="font-size:86%;white-space:nowrap;">0 —</span></div>
+</div>
+<div id="ScaleBar" style="width:1px; float:left; height:36em; padding:0; background-color:#242020"></div>
+<div class="toccolours" id="Timeline" style="font-size:100%; width:100%; height:36em; padding:0px; float:left; width:10em; border:none; background-color:#e5cc7f;">
+<div class="bar" style="font-size:100%; background-color:#99ccff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:34.985022026432em; margin-left:0.1em; width:9.9em;">
+<div class="nudge" style="font-size:100%; position:relative; top:16.04em; left:0.5em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-17.492511013216em;"><i><b><small><a href="/wiki/Water" title="Water">water</a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#b3d9ff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:33.938325991189em; margin-left:0.1em; width:9.9em;">
+<div class="nudge" style="font-size:100%; position:relative; top:12.34em; left:0.4em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-16.969162995595em;"><b><a href="/wiki/Unicellular_organism" title="Unicellular organism">Single-celled<br/>
+life</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#99ffff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:27.753303964758em; margin-left:0.7em; width:9.3em;">
+<div class="nudge" style="font-size:100%; position:relative; top:8.64em; left:0.2em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-13.876651982379em;"><i><b><small><a href="/wiki/Evolution_of_photosynthesis" title="Evolution of photosynthesis"><span style="color:green;">photosynthesis</span></a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#b3ffea; border-style: none; position:absolute; text-align:center; margin-top:0em; height:16.651982378855em; margin-left:1.4em; width:8.6em;">
+<div class="nudge" style="font-size:100%; position:relative; top:5.14em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-8.3259911894273em;"><b><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryotes</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#ccffe7; border-style: none; position:absolute; text-align:center; margin-top:0em; height:11.894273127753em; margin-left:1.4em; width:8.6em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.06em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-5.9471365638767em;"><b><a href="/wiki/Multicellular_organism" title="Multicellular organism">Multicellular<br/>
+life</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#cc9900; border-style: none; position:absolute; text-align:center; margin-top:0em; height:3.5191189427313em; margin-left:2em; width:8em;">
+<div class="nudge" style="font-size:100%; position:relative; top:1.14em; left:0em;"></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:; border-style: none; position:absolute; text-align:center; margin-top:0em; height:2.8546255506608em; margin-left:2.5em; width:7.5em;">
+<div class="nudge" style="font-size:100%; position:relative; top:0.69em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-1.4273127753304em;"><b><a href="/wiki/Silurian#Flora_and_fauna" title="Silurian"><span style="color:white;">Land life</span></a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#e6b800; border-style: none; position:absolute; text-align:center; margin-top:0.51938325991189em; height:1.8594713656388em; margin-left:2.5em; width:7.5em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.28em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.92973568281938em;"><small><b><a href="/wiki/Dinosaur" title="Dinosaur">Dinosaurs    </a></b></small></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#ffcc00; border-style: none; position:absolute; text-align:center; margin-top:0em; height:1.5859030837004em; margin-left:3em; width:7em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.36em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.79295154185022em;"><small><b><a href="/wiki/Mammal" title="Mammal">Mammals</a></b></small></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#ffff00; border-style: none; position:absolute; text-align:center; margin-top:0em; height:1.1101321585903em; margin-left:3.67em; width:6.33em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.55506607929515em;"><small><b><a href="/wiki/Flowering_plant" title="Flowering plant">Flowers</a></b></small></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:blue; border-style: none; position:absolute; text-align:center; margin-top:0em; height:0.015859030837004em; margin-left:4.5em; width:5.5em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.0079295154185022em;"> </span></div>
+</div>
+</div>
+<div id="Annotations" style="float:left; position:relative; width:8.25em">
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:36em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/History_of_Earth" title="History of Earth">Earliest Earth</a> (<a href="/wiki/Age_of_the_Earth" title="Age of the Earth">−4540</a>)</span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:34.985022026432em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth" title="Origin of water on Earth">Earliest water</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:33.938325991189em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Earliest_known_life_forms" title="Earliest known life forms">Earliest life</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:30.925110132159em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">LHB meteorites</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:27.753303964758em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Geological_history_of_oxygen" title="Geological history of oxygen">Earliest oxygen</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:19.823788546256em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Geological_history_of_oxygen" title="Geological history of oxygen">Atmospheric oxygen</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18.237885462555em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Great_Oxygenation_Event" title="Great Oxygenation Event">Oxygen crisis</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:9.5154185022026em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Evolution_of_sexual_reproduction#Origin_of_sexual_reproduction" title="Evolution of sexual reproduction">Earliest sexual reproduction</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:4.9955947136564em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Ediacaran_biota" title="Ediacaran biota">Ediacara biota</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:4.2898678414097em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Cambrian_explosion" title="Cambrian explosion"><span style="font-family:sans-serif;font-size:90%;color:#0645ad;background-color:transparent;;">Cambrian explosion</span></a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:0.0079295154185022em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Human" title="Human">Earliest humans</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:0.87224669603524em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:70%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Phanerozoic" title="Phanerozoic">P<br/>
+h<br/>
+a<br/>
+n<br/>
+e<br/>
+r<br/>
+o<br/>
+z<br/>
+o<br/>
+i<br/>
+c</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:5.0035242290749em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:0.5em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:70%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Proterozoic" title="Proterozoic"><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+P<br/>
+r<br/>
+o<br/>
+t<br/>
+e<br/>
+r<br/>
+o<br/>
+z<br/>
+o<br/>
+i<br/>
+c</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:20.537444933921em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:0.75em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:70%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Archean" title="Archean"><br/>
+<br/>
+<br/>
+A<br/>
+r<br/>
+c<br/>
+h<br/>
+e<br/>
+a<br/>
+n</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:31.955947136564em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.25em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:70%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Hadean" title="Hadean">H<br/>
+a<br/>
+d<br/>
+e<br/>
+a<br/>
+n</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:22.599118942731em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.85em; left:-14em; width:7em;">
+<div style="position: absolute; left: -000px; top: 000px"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="font:bold 10px Arial;display:inline;background-color:rgba(255,165,0,0.5);padding:3.537px 10px 3.537px 10px;"><a href="/wiki/Mesoarchean" title="Mesoarchean"><span style="color:black;"><small>Pongola</small></span></a></span></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:17.84140969163em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.85em; left:-13.9em; width:7em;">
+<div style="position: absolute; left: 002px; top: 000px"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="font:bold 10px Arial;display:inline;background-color:rgba(255,165,0,0.5);padding:14px 4px 14px 4px;"><a href="/wiki/Huronian_glaciation" title="Huronian glaciation"><span style="color:black;"><small>Huronian</small></span></a></span></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:5.3722466960352em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-1.15em; left:-13.5em; width:7em;">
+<div style="position: absolute; left: -003px; top: 000px"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="font:bold 9px Arial;display:inline;background-color:rgba(255,165,0,0.5);padding:3px 4px 3px 4px;"><a href="/wiki/Cryogenian" title="Cryogenian"><span style="color:black;"><small>Cryogenian</small></span></a></span></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:3.4493392070485em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-1.15em; left:-13.7em; width:7em;">
+<div style="position: absolute; left: 009px; top: 000px"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="font:bold 10px Arial;display:inline;background-color:rgba(255,165,0,0.5);padding:0px 4px 0px 4px;"><a href="/wiki/Andean-Saharan_glaciation" title="Andean-Saharan glaciation"><span style="color:black;"><small>Andean</small></span></a></span></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:2.4581497797357em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-1em; left:-13.8em; width:7em;">
+<div style="position: absolute; left: 015px; top: 000px"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="font:bold 10px Arial;display:inline;background-color:rgba(255,165,0,0.5);padding:0px 4px 0px 4px;"><a href="/wiki/Karoo_Ice_Age" title="Karoo Ice Age"><span style="color:black;"><small>Karoo</small></span></a></span></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:0.010308370044053em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.28em; left:-13.55em; width:7em;">
+<div style="position: absolute; left: 000px; top: -001px"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="font:bold 9px Arial;display:inline;background-color:rgba(255,165,0,0.5);padding:0px 4px 0px 4px;"><a href="/wiki/Quaternary_glaciation" title="Quaternary glaciation"><span style="color:black;"><small>Quaternary</small></span></a></span></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+</div>
+</div>
+<div class="toccolours" id="Legend" style="margin-left:3.1em; border-style:none; float:left; clear:both;"></div>
+<div class="toccolours" id="Caption" style="margin:0 0.5em; float:left; padding:0 auto; border-style:none; clear:both; text-align:center; width:20.5em"><a href="/wiki/Cartesian_coordinate_system#One_dimension" title="Cartesian coordinate system">Axis scale</a>: <a href="/wiki/Geologic_time_scale" title="Geologic time scale">millions of years</a>.<br/>
+<small><span style="font:bold 10px Arial;display:inline;background-color:rgba(255,165,0,0.5);padding:0px 4px 0px 4px;"><span style="color:black;">Orange labels:</span> <a href="/wiki/Timeline_of_glaciation" title="Timeline of glaciation"><span style="color:black;">known <i><b>ice ages</b></i>.</span></a></span></small><br/>
+<small>Also see: <i><a href="/wiki/Template:Human_timeline" title="Template:Human timeline">Human timeline</a></i> and <i><a href="/wiki/Template:Nature_timeline" title="Template:Nature timeline">Nature timeline</a></i></small></div>
+</div>
+<p>The supercontinent <a href="/wiki/Rodinia" title="Rodinia">Rodinia</a> began to break-up 870–845 <abbr title="million years ago">Ma</abbr> probably as a consequence of a <a class="mw-redirect" href="/wiki/Superplume" title="Superplume">superplume</a> caused by mantle slab avalanches along the margins of the supercontinent. In a second episode <abbr title="circa">c.</abbr> 750 <abbr title="million years ago">Ma</abbr> the western half of Rodinia started to rift part: western <a href="/wiki/Kalahari_Craton" title="Kalahari Craton">Kalahari</a> and <a href="/wiki/South_China_(continent)" title="South China (continent)">South China</a>) broke away from the western margins of <a href="/wiki/Laurentia" title="Laurentia">Laurentia</a>; and by 720 <abbr title="million years ago">Ma</abbr> Australia and East Antarctica had also separated.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> In the Late Jurassic the Pacific Plate opened originating from a <a href="/wiki/Triple_junction" title="Triple junction">triple junction</a> between the Panthalassic <a href="/wiki/Farallon_Plate" title="Farallon Plate">Farallon</a>, <a href="/wiki/Phoenix_Plate" title="Phoenix Plate">Phoenix</a>, and <a href="/wiki/Izanagi_Plate" title="Izanagi Plate">Izanagi</a> plates. Panthalassa can be reconstructed based on magnetic lineations and fracture zones preserved in the western Pacific.<sup class="reference" id="cite_ref-Seton-M.C3.BCller-intro_4-0"><a href="#cite_note-Seton-M.C3.BCller-intro-4">[4]</a></sup></p>
+<p>In western Laurentia (North America), a tectonic episode that preceded this rifting produced <a href="/wiki/Aulacogen" title="Aulacogen">failed rifts</a> that harboured large depositional basins in Western Laurentia. The global ocean of <a href="/wiki/Mirovia" title="Mirovia">Mirovia</a>, an ocean that surrounded Rodinia, started to shrink as the Pan-African ocean and Panthalassa expanded.</p>
+<p>Between 650 million and 550 million years ago, another supercontinent started to form: <a href="/wiki/Pannotia" title="Pannotia">Pannotia</a>, which was shaped like a "V". Inside the "V" was Panthalassa, outside of the "V" were the <a href="/wiki/Pan-African_Ocean" title="Pan-African Ocean">Pan-African Ocean</a> and remnants of the Mirovia Ocean.</p>
+<h2><span class="mw-headline" id="Reconstruction_of_ocean_basin">Reconstruction of ocean basin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=2" title="Edit section: Reconstruction of ocean basin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most of the oceanic plates that formed the ocean floor of Panthalassa have been subducted and traditional plate tectonic reconstructions based on <a href="/wiki/Magnetic_anomaly" title="Magnetic anomaly">magnetic anomalies</a> can therefore only be used for remains from the Cretaceous and later. The former margins of the ocean, however, contain <a href="/wiki/Allochthon" title="Allochthon">allochthonous</a> <a href="/wiki/Terrane" title="Terrane">terranes</a> with preserved Triassic–Jurassic intra-Panthalassic volcanic arcs, including <a class="new" href="/w/index.php?title=Kolyma%E2%80%93Omolon_superterrane&amp;action=edit&amp;redlink=1" title="Kolyma–Omolon superterrane (page does not exist)">Kolyma–Omolon</a> (northeast Asia), <a class="new" href="/w/index.php?title=Anadyr%E2%80%93Koryak_terrane&amp;action=edit&amp;redlink=1" title="Anadyr–Koryak terrane (page does not exist)">Anadyr–Koryak</a> (east Asia), <a class="new" href="/w/index.php?title=Oku%E2%80%93Niikappu_terrane&amp;action=edit&amp;redlink=1" title="Oku–Niikappu terrane (page does not exist)">Oku–Niikappu</a> (Japan), and <a class="mw-redirect" href="/wiki/Wrangellia" title="Wrangellia">Wrangellia</a> and <a href="/wiki/Stikinia" title="Stikinia">Stikinia</a> (western North America). Furthermore, <a href="/wiki/Seismic_tomography" title="Seismic tomography">seismic tomography</a> is being used to identify subducted slabs in the mantle, from which the location of former Panthalassic subduction zones can be derived. A series of such subduction zones, called Telkhinia, defines two separate oceans or systems of oceanic plates — the Pontus and Thalassa oceans.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Named marginal oceans or oceanic plates include (clockwise) <a class="new" href="/w/index.php?title=Mongol-Okhotsk_Ocean&amp;action=edit&amp;redlink=1" title="Mongol-Okhotsk Ocean (page does not exist)">Mongol-Okhotsk</a> (now a <a href="/wiki/Suture_(geology)" title="Suture (geology)">suture</a> between Mongolia and Sea of Okhotsk), <a class="new" href="/w/index.php?title=Oimyakon_Ocean&amp;action=edit&amp;redlink=1" title="Oimyakon Ocean (page does not exist)">Oimyakon</a> (between Asian craton and Kolyma-Omolon), <a href="/wiki/Slide_Mountain_Ocean" title="Slide Mountain Ocean">Slide Mountain Ocean</a> (British Columbia),<sup class="reference" id="cite_ref-N2000_6-0"><a href="#cite_note-N2000-6">[6]</a></sup> and <a class="new" href="/w/index.php?title=Mezcalera_Ocean&amp;action=edit&amp;redlink=1" title="Mezcalera Ocean (page does not exist)">Mezcalera</a> (western Mexico).</p>
+<h3><span class="mw-headline" id="Eastern_margin">Eastern margin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=3" title="Edit section: Eastern margin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The western margin (modern coordinates) of Laurentia originated during the Neoproterozoic break-up of Rodinia. The <a href="/wiki/North_American_Cordillera" title="North American Cordillera">North American Cordillera</a> is an accretionary <a class="mw-redirect" href="/wiki/Orogen" title="Orogen">orogen</a> which grew by the progressive addition of <a href="/wiki/Allochthon" title="Allochthon">allochthonous</a> <a href="/wiki/Terrane" title="Terrane">terranes</a> along this margin from the Late Palaeozoic. Devonian back-arc volcanism reveals how this eastern Panthalassic margin developed into the <a class="mw-redirect" href="/wiki/Active_margin" title="Active margin">active margin</a> it still is in the mid-Palaeozoic. Most of the <a href="/wiki/Continental_fragment" title="Continental fragment">continental fragments</a>, <a href="/wiki/Volcanic_arc" title="Volcanic arc">volcanic arcs</a>, and <a class="mw-redirect" href="/wiki/Ocean_basin" title="Ocean basin">ocean basins</a> added to Laurentia this way contained faunas of Tethyan or Asian affinity. Similar terranes added to the northern Laurentia, in contrast, have affinities with Baltica, Siberia, and the northern <a href="/wiki/Caledonian_orogeny" title="Caledonian orogeny">Caledonies</a>. These latter terranes were probably accreted along the eastern Panthalassa margin by a <a href="/wiki/Caribbean_Plate" title="Caribbean Plate">Caribbean</a>–<a href="/wiki/Scotia_Plate" title="Scotia Plate">Scotia</a>-style subduction system.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Western_margin">Western margin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=4" title="Edit section: Western margin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The evolution of the Panthalassa–Tethys boundary is poorly known because little oceanic crust is preserved — both the Izanagi and the conjugate Pacific Ocean floor is subducted and the ocean ridge that separated them probably subducted <abbr title="circa">c.</abbr> 60–55 <abbr title="million years ago">Ma</abbr>. Today the region is dominated by the collision of the <a href="/wiki/Australian_Plate" title="Australian Plate">Australian Plate</a> with a complex network of plate boundaries in south-east Asia, including the <a href="/wiki/Sundaland" title="Sundaland">Sundaland</a> block. Spreading along the Pacific-Phoenix ridge ended 83 Ma at the Osbourn Trough at the <a href="/wiki/Tonga_Trench" title="Tonga Trench">Tonga</a>-<a href="/wiki/Kermadec_Trench" title="Kermadec Trench">Kermadec Trench</a>.<sup class="reference" id="cite_ref-Seton-M.C3.BCller-intro_4-1"><a href="#cite_note-Seton-M.C3.BCller-intro-4">[4]</a></sup></p>
+<p>During the Permian <a href="/wiki/Atoll" title="Atoll">atolls</a> developed near the Equator on the mid-Panthalassic seamounts. As Panthalassa subducted along its western margin during the Triassic and Early Jurassic, these seamounts and palaeo-atolls were <a href="/wiki/Accretion_(geology)" title="Accretion (geology)">accreted</a> as <a href="/wiki/Allochthon" title="Allochthon">allochthonous</a> limestone blocks and fragments along the Asian margin.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> One such migrating atoll complex now form a 2-kilometre-long (1.2 mi) and 100-to-150-metre-wide (330–490 ft) body of limestone in central <a href="/wiki/Kyushu" title="Kyushu">Kyushu</a>, south-west Japan.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p><a href="/wiki/Fusulinida" title="Fusulinida">Fusuline</a> <a href="/wiki/Foraminifera" title="Foraminifera">foraminifera</a>, a now extinct order of single-celled organisms, developed <a href="/wiki/Gigantism" title="Gigantism">gigantism</a> — the genus <i><a class="new" href="/w/index.php?title=Eopolydiexodina&amp;action=edit&amp;redlink=1" title="Eopolydiexodina (page does not exist)">Eopolydiexodina</a></i>, for example, reached up to 16 cm (6.3 in) in size — and structural sophistication, including symbiont relationships with photosynthesising algae, during the Late Carboniferous and Permian. The <a href="/wiki/Permian%E2%80%93Triassic_extinction_event" title="Permian–Triassic extinction event">Permian–Triassic extinction event</a> <abbr title="circa">c.</abbr> 260 <abbr title="million years ago">Ma</abbr>, however, put an end to this development with only dwarf taxa persisting throughout the Permian until the final fusuline extinction <abbr title="circa">c.</abbr> 252 <abbr title="million years ago">Ma</abbr>. Permian fusulines also developed a remarkable provincialism by which fusulines can be grouped into six domains.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Because of the large size of Panthalassa a hundred million years could separate the accretion of different groups of fusulines. Assuming a minimum accretion rate of 3 centimetres per year (1.2 in/year), the seamount chains on which these groups evolved would be separated by at least 3,000 km (1,900 mi) — these groups apparently evolved in completely different environments.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> A significant sea-level drop at the end of the Permian led to the end-<a href="/wiki/Capitanian" title="Capitanian">Capitanian</a> extinction event. The cause for this extinction is disputed, but a likely candidate is an episode of global cooling which transformed large amount of sea-water into continental ice.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Seamounts accreted in eastern Australia as parts of the <a href="/wiki/Hunter-Bowen_orogeny" title="Hunter-Bowen orogeny">New England orogen</a> reveal the <a href="/wiki/Hotspot_(geology)" title="Hotspot (geology)">hotspot</a> history of Panthalassa.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> From the Late Devonian to the Carboniferous Gondwana and Panthalassa converged along the eastern margin of Australia along a west-dipping subduction system which produced (west to east) a magmatic arc, a <a class="mw-redirect" href="/wiki/Fore-arc_basin" title="Fore-arc basin">fore-arc basin</a>, and an accretionary wedge. Subduction ceased along this margin in the Late Carboniferous and jumped eastward. From the Late Carboniferous to the Early Permian the New England orogen was dominated by an extensional setting related to a subduction to strike-slip transition. Subduction was re-initiated in the Permian and the granitic rocks of the New England <a href="/wiki/Batholith" title="Batholith">Batholith</a> were produced by a magmatic arc, indicating the presence of an active plate margin along most of the orogen. Permian to Cretaceous remains of this convergent margin, preserved as fragments in <a class="mw-redirect" href="/wiki/Zealandia_(continent)" title="Zealandia (continent)">Zealandia</a> (<a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, <a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a>, and the <a href="/wiki/Lord_Howe_Rise" title="Lord Howe Rise">Lord Howe Rise</a>), were rifted off Australia during the Late Cretaceous to Early Tertiary break-up of eastern Gondwana and the opening of the <a href="/wiki/Tasman_Sea" title="Tasman Sea">Tasman Sea</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> The <a href="/wiki/Cretaceous" title="Cretaceous">Cretaceous</a> <a class="new" href="/w/index.php?title=Junction_Plate&amp;action=edit&amp;redlink=1" title="Junction Plate (page does not exist)">Junction Plate</a>, located north of Australia, separated the eastern Tethys from Panthalassa.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Palaeo-oceanography">Palaeo-oceanography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=5" title="Edit section: Palaeo-oceanography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Panthalassa was a hemisphere-sized ocean, much larger than the modern Pacific. It could be expected that the large size would result in relatively simple ocean current circulation patterns, such as a single gyre in each hemisphere, and a mostly stagnant and stratified ocean. Modelling studies, however, suggest that an east-west sea surface temperature (SST) gradient was present in which the coldest water was brought to the surface by <a href="/wiki/Upwelling" title="Upwelling">upwelling</a> in the east while the warmest water extended west into the Tethys Ocean. Subtropical gyres dominated the circulation pattern. The two hemispherical belts were separated by the undulating <a href="/wiki/Intertropical_Convergence_Zone" title="Intertropical Convergence Zone">Intertropical Convergence Zone</a> (ITCZ).<sup class="reference" id="cite_ref-Arias-p3_16-0"><a href="#cite_note-Arias-p3-16">[16]</a></sup></p>
+<p>In northern Panthalassa there was mid-latitude westerlies north of 60°N with easterlies between 60°N and the Equator. Atmospheric circulation north of 30°N is associated with the North Panthalassa High which created <a href="/wiki/Ekman_transport" title="Ekman transport">Ekman convergence</a> between 15°N and 50°N and Ekman divergence between 5°N and 10°N. A pattern which resulted in northward <a class="mw-redirect" href="/wiki/Sverdrup_transport" title="Sverdrup transport">Sverdrup transport</a> in divergence regions and southward in convergence regions. Western boundary currents resulted in an anti-cyclonic subtropical North Panthalassa gyre at mid-latitudes and a meridional anti-cyclonic circulation centred on 20°N.<sup class="reference" id="cite_ref-Arias-p3_16-1"><a href="#cite_note-Arias-p3-16">[16]</a></sup></p>
+<p>In tropical northern Panthalassa trade winds created westward flows while equatorward flows were created by westerlies at higher latitudes. Consequently, trade winds moved water away from Gondwana towards Laurasia in the northern Panthalassa Equatorial Current. When the western margins of Panthalassa were reached intense western boundary currents would form the Eastern Laurasia Current. At mid-latitudes the North Panthalassa Current would bring the water back east where a weak Northwestern Gondwana Current would finally close the gyre. The accumulation of water along the western margin coupled with the <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis effect</a> would have created a Panthalassa Equatorial Counter Current.<sup class="reference" id="cite_ref-Arias-p3_16-2"><a href="#cite_note-Arias-p3-16">[16]</a></sup></p>
+<p>In the southern Panthalassa the four currents of the subtropical gyre, the South Panthalassa Gyre, rotated counterclockwise. The South Equatorial Panthalassa Current flowed westward between the Equator and 10°S into the western, intense South Panthalasssa Current. The South Polar Current then completes the gyre as the Southwestern Gondwana Current. Near the poles easterlies created a subpolar gyre that rotated clockwise.<sup class="reference" id="cite_ref-Arias-p3_16-3"><a href="#cite_note-Arias-p3-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Pacific_Ring_of_Fire" title="Pacific Ring of Fire">Pacific Ring of Fire</a></li>
+<li><a href="/wiki/Paleontology" title="Paleontology">Paleontology</a></li>
+<li><a href="/wiki/Pangaea" title="Pangaea">Pangaea</a></li>
+<li><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-OnlineEtDict-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-OnlineEtDict_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.etymonline.com/index.php?term=Panthalassa&amp;allowed_in_frame=0" rel="nofollow">"Panthalassa"</a>. <a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.btitle=Panthalassa&amp;rft.genre=unknown&amp;rft.pub=Online+Etymology+Dictionary&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3DPanthalassa%26allowed_in_frame%3D0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#CITEREFIsozaki2014">Isozaki 2014</a>, Permo–Triassic Boundary Superanoxia and Extinction, pp. 290–291</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFLiBogdanovaCollinsDavidson2008">Li et al. 2008</a>, Superplume events, continental rifting, and the prolonged break-up process of Rodinia (ca. 860–570 Ma), pp. 199–201</span></li>
+<li id="cite_note-Seton-M.C3.BCller-intro-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Seton-M.C3.BCller-intro_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Seton-M.C3.BCller-intro_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFSetonM.C3.BCller2008">Seton &amp; Müller 2008</a>, Introduction, p. 263</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFVan_der_MeerTorsvikSpakmanVan_Hinsbergen2012">Van der Meer et al. 2012</a>, p. 215</span></li>
+<li id="cite_note-N2000-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-N2000_6-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNoklebergParfenovMongerNorton2000">Nokleberg et al. 2000</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#CITEREFColpronNelson2009">Colpron &amp; Nelson 2009</a>, pp. 273–275</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="#CITEREFKaniHisanabeIsozaki2013">Kani, Hisanabe &amp; Isozaki 2013</a>, Geologic setting, p. 213</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="#CITEREFKasuyaIsozakiIgo2012">Kasuya, Isozaki &amp; Igo 2012</a>, Geological Setting, p. 612</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#CITEREFKasuyaIsozakiIgo2012">Kasuya, Isozaki &amp; Igo 2012</a>, Introduction, pp. 611–612</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="#CITEREFKasuyaIsozakiIgo2012">Kasuya, Isozaki &amp; Igo 2012</a>, Migrating seamounts and fusuline territories in Panthalassa, pp. 620–621</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="#CITEREFKofukudaIsozakiIgo2014">Kofukuda, Isozaki &amp; Igo 2014</a>, Global cooling as a possible cause, p. 64</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#CITEREFFlood1999">Flood 1999</a>, Abstract</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="#CITEREFWaschbuschBeaumontKorsch1999">Waschbusch, Beaumont &amp; Korsch 1999</a>, Tectonic sewtting of the New England orogen and adjacent basins, pp. 204–206</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="#CITEREFTalsmaM.C3.BCllerBungeSeton2010">Talsma et al. 2010</a></span></li>
+<li id="cite_note-Arias-p3-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Arias-p3_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Arias-p3_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Arias-p3_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Arias-p3_16-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFArias2008">Arias 2008</a>, The Panthalassa Ocean, pp. 3–5</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=9" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><cite class="citation journal" id="CITEREFArias2008">Arias, C. (2008). <a class="external text" href="http://eprints.sim.ucm.es/12212/1/Arias__2008_1.pdf" rel="nofollow">"Palaeoceanography and biogeography in the Early Jurassic Panthalassa and Tethys oceans"</a> <span style="font-size:85%;">(PDF)</span>. <i>Gondwana research</i>. <b>14</b> (3): 306–315. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.gr.2008.03.004" rel="nofollow">10.1016/j.gr.2008.03.004</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=Palaeoceanography+and+biogeography+in+the+Early+Jurassic+Panthalassa+and+Tethys+oceans&amp;rft.aufirst=C.&amp;rft.aulast=Arias&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Gondwana+research&amp;rft.pages=306-315&amp;rft.volume=14&amp;rft_id=http%3A%2F%2Feprints.sim.ucm.es%2F12212%2F1%2FArias__2008_1.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gr.2008.03.004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFColpronNelson2009">Colpron, M.; Nelson, J. L. (2009). <a class="external text" href="http://www.em.gov.bc.ca/Mining/Geoscience/Staff/Documents/2009_NW_Passage.pdf" rel="nofollow">"A Palaeozoic Northwest Passage: Incursion of Caledonian, Baltican and Siberian terranes into eastern Panthalassa, and the early evolution of the North American Cordillera"</a> <span style="font-size:85%;">(PDF)</span>. <i>Geological Society, London, Special Publications</i>. <b>318</b> (1): 273–307. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1144%2FSP318.10" rel="nofollow">10.1144/SP318.10</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=A+Palaeozoic+Northwest+Passage%3A+Incursion+of+Caledonian%2C+Baltican+and+Siberian+terranes+into+eastern+Panthalassa%2C+and+the+early+evolution+of+the+North+American+Cordillera&amp;rft.au=Nelson%2C+J.+L.&amp;rft.aufirst=M.&amp;rft.aulast=Colpron&amp;rft.date=2009&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Geological+Society%2C+London%2C+Special+Publications&amp;rft.pages=273-307&amp;rft.volume=318&amp;rft_id=http%3A%2F%2Fwww.em.gov.bc.ca%2FMining%2FGeoscience%2FStaff%2FDocuments%2F2009_NW_Passage.pdf&amp;rft_id=info%3Adoi%2F10.1144%2FSP318.10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation conference" id="CITEREFFlood1999">Flood, P. G. (1999). <a class="external text" href="https://www.researchgate.net/profile/Jonathan_Aitchison/publication/237842579_New_England_Orogen_NEO_99_Conference/links/0046351be4f4e18410000000.pdf#page=33" rel="nofollow"><i>Exotic seamounts within Gondwanan accretionary complexes, Eastern Australia</i></a> <span style="font-size:85%;">(PDF)</span>. Regional geology, tectonics and metallogenesis: New England orogen. University of New England, Armidale. pp. 23–29<span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.aufirst=P.+G.&amp;rft.aulast=Flood&amp;rft.btitle=Exotic+seamounts+within+Gondwanan+accretionary+complexes%2C+Eastern+Australia&amp;rft.date=1999&amp;rft.genre=conference&amp;rft.pages=23-29&amp;rft.place=University+of+New+England%2C+Armidale&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FJonathan_Aitchison%2Fpublication%2F237842579_New_England_Orogen_NEO_99_Conference%2Flinks%2F0046351be4f4e18410000000.pdf%23page%3D33&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFIsozaki2014">Isozaki, Y. (2014). <a class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1001.9743&amp;rep=rep1&amp;type=pdf" rel="nofollow">"Memories of Pre-Jurassic Lost Oceans: How To Retrieve Them From Extant Lands"</a>. <i>Geoscience Canada</i>. <b>41</b> (3): 283–311. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.12789%2Fgeocanj.2014.41.050" rel="nofollow">10.12789/geocanj.2014.41.050</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=Memories+of+Pre-Jurassic+Lost+Oceans%3A+How+To+Retrieve+Them+From+Extant+Lands&amp;rft.aufirst=Y.&amp;rft.aulast=Isozaki&amp;rft.date=2014&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Geoscience+Canada&amp;rft.pages=283-311&amp;rft.volume=41&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.1001.9743%26rep%3Drep1%26type%3Dpdf&amp;rft_id=info%3Adoi%2F10.12789%2Fgeocanj.2014.41.050&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFKaniHisanabeIsozaki2013">Kani, T.; Hisanabe, C.; Isozaki, Y. (2013). <a class="external text" href="https://www.researchgate.net/profile/T_Kani/publication/257517884_The_Capitanian_Permian_minimum_of_87Sr86Sr_ratio_in_the_mid-Panthalassan_paleo-atoll_carbonates_and_its_demise_by_the_deglaciation_and_continental_doming/links/558141b908aed40dd8cd44d7.pdf" rel="nofollow">"The Capitanian (Permian) minimum of <sup>87</sup>Sr/<sup>86</sup>Sr ratio in the mid-Panthalassan paleo-atoll carbonates and its demise by the deglaciation and continental doming"</a> <span style="font-size:85%;">(PDF)</span>. <i>Gondwana Research</i>. <b>24</b> (1): 212–221. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.gr.2012.08.025" rel="nofollow">10.1016/j.gr.2012.08.025</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=The+Capitanian+%28Permian%29+minimum+of+%3Csup%3E87%3C%2Fsup%3ESr%2F%3Csup%3E86%3C%2Fsup%3ESr+ratio+in+the+mid-Panthalassan+paleo-atoll+carbonates+and+its+demise+by+the+deglaciation+and+continental+doming&amp;rft.au=Hisanabe%2C+C.&amp;rft.au=Isozaki%2C+Y.&amp;rft.aufirst=T.&amp;rft.aulast=Kani&amp;rft.date=2013&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Gondwana+Research&amp;rft.pages=212-221&amp;rft.volume=24&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FT_Kani%2Fpublication%2F257517884_The_Capitanian_Permian_minimum_of_87Sr86Sr_ratio_in_the_mid-Panthalassan_paleo-atoll_carbonates_and_its_demise_by_the_deglaciation_and_continental_doming%2Flinks%2F558141b908aed40dd8cd44d7.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gr.2012.08.025&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFKasuyaIsozakiIgo2012">Kasuya, A.; Isozaki, Y.; Igo, H. (2012). <a class="external text" href="http://ea.c.u-tokyo.ac.jp/earth/Members/Isozaki/12Kasuya-GR.pdf" rel="nofollow">"Constraining paleo-latitude of a biogeographic boundary in mid-Panthalassa: Fusuline province shift on the Late Guadalupian (Permian) migrating seamount"</a> <span style="font-size:85%;">(PDF)</span>. <i>Gondwana Research</i>. <b>21</b> (2): 611–623. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.gr.2011.06.001" rel="nofollow">10.1016/j.gr.2011.06.001</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=Constraining+paleo-latitude+of+a+biogeographic+boundary+in+mid-Panthalassa%3A+Fusuline+province+shift+on+the+Late+Guadalupian+%28Permian%29+migrating+seamount&amp;rft.au=Igo%2C+H.&amp;rft.au=Isozaki%2C+Y.&amp;rft.aufirst=A.&amp;rft.aulast=Kasuya&amp;rft.date=2012&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Gondwana+Research&amp;rft.pages=611-623&amp;rft.volume=21&amp;rft_id=http%3A%2F%2Fea.c.u-tokyo.ac.jp%2Fearth%2FMembers%2FIsozaki%2F12Kasuya-GR.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gr.2011.06.001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFKofukudaIsozakiIgo2014">Kofukuda, D.; Isozaki, Y.; Igo, H. (2014). <a class="external text" href="https://www.researchgate.net/profile/Yukio_Isozaki/publication/260009345_A_remarkable_sea-level_drop_and_relevant_biotic_responses_across_the_Guadalupian-Lopingian_Permian_boundary_in_low-latitude_mid-Panthalassa_Irreversible_changes_recorded_in_accreted_paleo-atoll_limest/links/57ecba7308ae92eb4d266262.pdf" rel="nofollow">"A remarkable sea-level drop and relevant biotic responses across the Guadalupian–Lopingian (Permian) boundary in low-latitude mid-Panthalassa: Irreversible changes recorded in accreted paleo-atoll limestones in Akasaka and Ishiyama, Japan"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Asian Earth Sciences</i>. <b>82</b>: 47–65. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jseaes.2013.12.010" rel="nofollow">10.1016/j.jseaes.2013.12.010</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=A+remarkable+sea-level+drop+and+relevant+biotic+responses+across+the+Guadalupian%E2%80%93Lopingian+%28Permian%29+boundary+in+low-latitude+mid-Panthalassa%3A+Irreversible+changes+recorded+in+accreted+paleo-atoll+limestones+in+Akasaka+and+Ishiyama%2C+Japan&amp;rft.au=Igo%2C+H.&amp;rft.au=Isozaki%2C+Y.&amp;rft.aufirst=D.&amp;rft.aulast=Kofukuda&amp;rft.date=2014&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Asian+Earth+Sciences&amp;rft.pages=47-65&amp;rft.volume=82&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FYukio_Isozaki%2Fpublication%2F260009345_A_remarkable_sea-level_drop_and_relevant_biotic_responses_across_the_Guadalupian-Lopingian_Permian_boundary_in_low-latitude_mid-Panthalassa_Irreversible_changes_recorded_in_accreted_paleo-atoll_limest%2Flinks%2F57ecba7308ae92eb4d266262.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jseaes.2013.12.010&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFLiBogdanovaCollinsDavidson2008">Li, Z. X.; Bogdanova, S. V.; Collins, A. S.; Davidson, A.; De Waele, B.; Ernst, R. E.; Fitzsimons, I. C. W.; Fuck, R. A.; Gladkochub, D. P.; Jacobs, J.; Karlstrom, K. E.; Lul, S.; Natapov, L. M.; Pease, V.; Pisarevsky, S. A.; Thrane, K.; Vernikovsky, V. (2008). <a class="external text" href="http://www.bdewaele.be/pdfs/Lietal_IGCP440_map_2008.pdf" rel="nofollow">"Assembly, configuration, and break-up history of Rodinia: A synthesis"</a> <span style="font-size:85%;">(PDF)</span>. <i>Precambrian Research</i>. <b>160</b>: 179–210. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.precamres.2007.04.021" rel="nofollow">10.1016/j.precamres.2007.04.021</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=Assembly%2C+configuration%2C+and+break-up+history+of+Rodinia%3A+A+synthesis&amp;rft.au=Bogdanova%2C+S.+V.&amp;rft.au=Collins%2C+A.+S.&amp;rft.au=Davidson%2C+A.&amp;rft.au=De+Waele%2C+B.&amp;rft.au=Ernst%2C+R.+E.&amp;rft.au=Fitzsimons%2C+I.+C.+W.&amp;rft.au=Fuck%2C+R.+A.&amp;rft.au=Gladkochub%2C+D.+P.&amp;rft.au=Jacobs%2C+J.&amp;rft.au=Karlstrom%2C+K.+E.&amp;rft.au=Lul%2C+S.&amp;rft.au=Natapov%2C+L.+M.&amp;rft.au=Pease%2C+V.&amp;rft.au=Pisarevsky%2C+S.+A.&amp;rft.au=Thrane%2C+K.&amp;rft.au=Vernikovsky%2C+V.&amp;rft.aufirst=Z.+X.&amp;rft.aulast=Li&amp;rft.date=2008&amp;rft.genre=article&amp;rft.jtitle=Precambrian+Research&amp;rft.pages=179-210&amp;rft.volume=160&amp;rft_id=http%3A%2F%2Fwww.bdewaele.be%2Fpdfs%2FLietal_IGCP440_map_2008.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.precamres.2007.04.021&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFNoklebergParfenovMongerNorton2000">Nokleberg, W. J.; Parfenov, L. M.; Monger, J. W. H.; Norton, I. O.; Khanchuk, A. I.; Stone, D. B.; Scotese, C. R.; Scholl, D. W.; Fujita, K. (2000). <a class="external text" href="http://pubs.usgs.gov/pp/2000/1626/pp1626.pdf" rel="nofollow">"Phanerozoic tectonic evolution of the circum-north Pacific"</a> <span style="font-size:85%;">(PDF)</span>. <i>USGS 231 Professional Paper</i>. <b>1626</b>: 1–122<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=Phanerozoic+tectonic+evolution+of+the+circum-north+Pacific&amp;rft.au=Fujita%2C+K.&amp;rft.au=Khanchuk%2C+A.+I.&amp;rft.au=Monger%2C+J.+W.+H.&amp;rft.au=Norton%2C+I.+O.&amp;rft.au=Parfenov%2C+L.+M.&amp;rft.au=Scholl%2C+D.+W.&amp;rft.au=Scotese%2C+C.+R.&amp;rft.au=Stone%2C+D.+B.&amp;rft.aufirst=W.+J.&amp;rft.aulast=Nokleberg&amp;rft.date=2000&amp;rft.genre=article&amp;rft.jtitle=USGS+231+Professional+Paper&amp;rft.pages=1-122&amp;rft.volume=1626&amp;rft_id=http%3A%2F%2Fpubs.usgs.gov%2Fpp%2F2000%2F1626%2Fpp1626.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation conference" id="CITEREFSetonM.C3.BCller2008">Seton, M.; Müller, R. D. (2008). <a class="external text" href="https://www.researchgate.net/profile/Dietmar_Mueller/publication/232095770_Reconstructing_the_junction_between_Panthalassa_and_Tethys_since_the_Early_Cretaceous/links/00b495168a3268a389000000.pdf" rel="nofollow"><i>Reconstructing the junction between Panthalassa and Tethys since the Early Cretaceous</i></a> <span style="font-size:85%;">(PDF)</span>. Eastern Australasian Basins III. Sydney: Petroleum Exploration Society of Australia, Special Publications. pp. 263–266<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.au=M%C3%BCller%2C+R.+D.&amp;rft.aufirst=M.&amp;rft.aulast=Seton&amp;rft.btitle=Reconstructing+the+junction+between+Panthalassa+and+Tethys+since+the+Early+Cretaceous&amp;rft.date=2008&amp;rft.genre=conference&amp;rft.pages=263-266&amp;rft.place=Sydney&amp;rft.pub=Petroleum+Exploration+Society+of+Australia%2C+Special+Publications&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FDietmar_Mueller%2Fpublication%2F232095770_Reconstructing_the_junction_between_Panthalassa_and_Tethys_since_the_Early_Cretaceous%2Flinks%2F00b495168a3268a389000000.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFTalsmaM.C3.BCllerBungeSeton2010">Talsma, A. S.; Müller, R. D.; Bunge, H.-P.; Seton, M. (2010). <a class="external text" href="http://earthbyte.org/Resources/Pdf/Talsma_eresearch_Brisbane_2010.pdf" rel="nofollow">"The Geodynamic Evolution of the Junction Plate: Linking observations to high-resolution models"</a> <span style="font-size:85%;">(PDF)</span>. <i>4th eResearch Australasia Conference</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=The+Geodynamic+Evolution+of+the+Junction+Plate%3A+Linking+observations+to+high-resolution+models&amp;rft.au=Bunge%2C+H.-P.&amp;rft.au=M%C3%BCller%2C+R.+D.&amp;rft.au=Seton%2C+M.&amp;rft.aufirst=A.+S.&amp;rft.aulast=Talsma&amp;rft.date=2010&amp;rft.genre=article&amp;rft.jtitle=4th+eResearch+Australasia+Conference&amp;rft_id=http%3A%2F%2Fearthbyte.org%2FResources%2FPdf%2FTalsma_eresearch_Brisbane_2010.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFVan_der_MeerTorsvikSpakmanVan_Hinsbergen2012">Van der Meer, D. G.; Torsvik, T. H.; Spakman, W.; Van Hinsbergen, D. J. J.; Amaru, M. L. (2012). <a class="external text" href="http://www.geologist.nl/images/2012_vanderMeer_NatGeo.pdf" rel="nofollow">"Intra-Panthalassa Ocean subduction zones revealed by fossil arcs and mantle structure"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Nature_Geoscience" title="Nature Geoscience">Nature Geoscience</a></i>. <b>5</b> (3): 215–219. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fngeo1401" rel="nofollow">10.1038/ngeo1401</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.atitle=Intra-Panthalassa+Ocean+subduction+zones+revealed+by+fossil+arcs+and+mantle+structure&amp;rft.au=Amaru%2C+M.+L.&amp;rft.au=Spakman%2C+W.&amp;rft.au=Torsvik%2C+T.+H.&amp;rft.au=Van+Hinsbergen%2C+D.+J.+J.&amp;rft.aufirst=D.+G.&amp;rft.aulast=Van+der+Meer&amp;rft.date=2012&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Nature+Geoscience&amp;rft.pages=215-219&amp;rft.volume=5&amp;rft_id=http%3A%2F%2Fwww.geologist.nl%2Fimages%2F2012_vanderMeer_NatGeo.pdf&amp;rft_id=info%3Adoi%2F10.1038%2Fngeo1401&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation conference" id="CITEREFWaschbuschBeaumontKorsch1999">Waschbusch, P.; Beaumont, C.; Korsch, R. J. (1999). <a class="external text" href="https://www.researchgate.net/profile/Jonathan_Aitchison/publication/237842579_New_England_Orogen_NEO_99_Conference/links/0046351be4f4e18410000000.pdf#page=33" rel="nofollow"><i>Geodynamic modelling of aspects of the New England Orogen and adjacent Bowen, Gunnedah and Surat basins</i></a> <span style="font-size:85%;">(PDF)</span>. Regional geology, tectonics and metallogenesis: New England orogen. University of New England, Armidale. pp. 203–210<span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.au=Beaumont%2C+C.&amp;rft.au=Korsch%2C+R.+J.&amp;rft.aufirst=P.&amp;rft.aulast=Waschbusch&amp;rft.btitle=Geodynamic+modelling+of+aspects+of+the+New+England+Orogen+and+adjacent+Bowen%2C+Gunnedah+and+Surat+basins&amp;rft.date=1999&amp;rft.genre=conference&amp;rft.pages=203-210&amp;rft.place=University+of+New+England%2C+Armidale&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FJonathan_Aitchison%2Fpublication%2F237842579_New_England_Orogen_NEO_99_Conference%2Flinks%2F0046351be4f4e18410000000.pdf%23page%3D33&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Panthalassa&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a class="external text" href="http://scotese.com/newpage8.htm" rel="nofollow">"Early Triassic"</a>. Paleomap project. 24 January 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APanthalassa&amp;rft.btitle=Early+Triassic&amp;rft.date=2001-01-24&amp;rft.genre=unknown&amp;rft.pub=Paleomap+project&amp;rft_id=http%3A%2F%2Fscotese.com%2Fnewpage8.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20171024113919
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.484 seconds
+Real time usage: 0.555 seconds
+Preprocessor visited node count: 9904/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 186882/2097152 bytes
+Template argument size: 16391/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 2/500
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 7.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  482.365      1 -total
+ 45.80%  220.945      1 Template:Life_timeline
+ 45.11%  217.577      1 Template:Graphical_timeline
+ 14.95%   72.112      1 Template:Reflist
+ 11.66%   56.239     50 Template:Timeline_Note
+ 10.14%   48.915     10 Template:Cite_journal
+  7.85%   37.864      5 Template:Convert
+  7.09%   34.196      2 Template:Cite_web
+  5.87%   28.312      2 Template:Lang
+  5.50%   26.525      4 Template:Period_end
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:222142-0!canonical and timestamp 20171024113921 and revision id 806826352
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Panthalassa&amp;oldid=806826352">https://en.wikipedia.org/w/index.php?title=Panthalassa&amp;oldid=806826352</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Plate_tectonics" title="Category:Plate tectonics">Plate tectonics</a></li><li><a href="/wiki/Category:Historical_oceans" title="Category:Historical oceans">Historical oceans</a></li><li><a href="/wiki/Category:Paleozoic_paleogeography" title="Category:Paleozoic paleogeography">Paleozoic paleogeography</a></li><li><a href="/wiki/Category:Mesozoic_paleogeography" title="Category:Mesozoic paleogeography">Mesozoic paleogeography</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Panthalassa" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Panthalassa" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Panthalassa" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Panthalassa" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Panthalassa">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Panthalassa&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Panthalassa&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Panthalassa" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Panthalassa" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Panthalassa&amp;oldid=806826352" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Panthalassa&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q208378" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Panthalassa&amp;id=806826352" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Panthalassa">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Panthalassa&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Panthalassa&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D8%A7%D8%AA" hreflang="ar" lang="ar" title="أبو المحيطات – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%BB%D0%B0%D1%81%D0%B0" hreflang="be" lang="be" title="Панталаса – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%BB%D0%B0%D1%81%D0%B0" hreflang="bg" lang="bg" title="Панталаса – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pantalassa" hreflang="ca" lang="ca" title="Pantalassa – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Panthalassa" hreflang="cs" lang="cs" title="Panthalassa – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Panthalassa" hreflang="da" lang="da" title="Panthalassa – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Panthalassa" hreflang="de" lang="de" title="Panthalassa – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Panthalassa" hreflang="et" lang="et" title="Panthalassa – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Panthalassa" hreflang="es" lang="es" title="Panthalassa – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Pantalasa" hreflang="eu" lang="eu" title="Pantalasa – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%AA%D8%A7%D9%84%D8%A7%D8%B3%D8%A7" hreflang="fa" lang="fa" title="پانتالاسا – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Panthalassa" hreflang="fr" lang="fr" title="Panthalassa – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%8C%90%ED%83%88%EB%9D%BC%EC%82%AC_%ED%95%B4" hreflang="ko" lang="ko" title="판탈라사 해 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Panthalassa" hreflang="it" lang="it" title="Panthalassa – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%A0%D7%AA%D7%9C%D7%A1%D7%94" hreflang="he" lang="he" title="פנתלסה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%9C%E1%83%97%E1%83%90%E1%83%9A%E1%83%90%E1%83%A1%E1%83%90" hreflang="ka" lang="ka" title="პანთალასა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Pantalasa" hreflang="ht" lang="ht" title="Pantalasa – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Panthalassa" hreflang="la" lang="la" title="Panthalassa – Latin">Latina</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Panthalassza" hreflang="hu" lang="hu" title="Panthalassza – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B4%BE%E0%B5%BB%E0%B4%A4%E0%B4%B2%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%B8" hreflang="ml" lang="ml" title="പാൻതലാസ്സ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Panthalassa" hreflang="nl" lang="nl" title="Panthalassa – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%82%B5%E3%83%A9%E3%83%83%E3%82%B5" hreflang="ja" lang="ja" title="パンサラッサ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Panthalassa" hreflang="no" lang="no" title="Panthalassa – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Panthalassa" hreflang="nn" lang="nn" title="Panthalassa – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Panthalassa" hreflang="pl" lang="pl" title="Panthalassa – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pantalassa" hreflang="pt" lang="pt" title="Pantalassa – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%BB%D0%B0%D1%81%D1%81%D0%B0" hreflang="ru" lang="ru" title="Панталасса – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Panthalassa" hreflang="sk" lang="sk" title="Panthalassa – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Pantalasa" hreflang="sl" lang="sl" title="Pantalasa – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%BB%D0%B0%D1%81%D0%B0" hreflang="sr" lang="sr" title="Панталаса – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Pantalasa" hreflang="sh" lang="sh" title="Pantalasa – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Panthalassa" hreflang="fi" lang="fi" title="Panthalassa – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Panthalassa" hreflang="sv" lang="sv" title="Panthalassa – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Panthalassa" hreflang="tl" lang="tl" title="Panthalassa – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Panthalassa" hreflang="tr" lang="tr" title="Panthalassa – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%BB%D0%B0%D1%81%D1%81%D0%B0" hreflang="uk" lang="uk" title="Панталасса – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Panthalassa" hreflang="vi" lang="vi" title="Panthalassa – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B3%9B%E5%A4%A7%E6%B4%8B" hreflang="zh" lang="zh" title="泛大洋 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q208378#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 October 2017, at 11:39.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Panthalassa&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.555","ppvisitednodes":{"value":9904,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":186882,"limit":2097152},"templateargumentsize":{"value":16391,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  482.365      1 -total"," 45.80%  220.945      1 Template:Life_timeline"," 45.11%  217.577      1 Template:Graphical_timeline"," 14.95%   72.112      1 Template:Reflist"," 11.66%   56.239     50 Template:Timeline_Note"," 10.14%   48.915     10 Template:Cite_journal","  7.85%   37.864      5 Template:Convert","  7.09%   34.196      2 Template:Cite_web","  5.87%   28.312      2 Template:Lang","  5.50%   26.525      4 Template:Period_end"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":7869510,"limit":52428800}},"cachereport":{"origin":"mw1287","timestamp":"20171024113919","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1320"});});</script>
+</body>
+</html>

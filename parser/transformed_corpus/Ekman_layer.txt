@@ -1,0 +1,100 @@
+the ekman layer is the layer in a fluid where there is a force balance between pressure gradient force, coriolis force and turbulent drag. it was first described by vagn walfrid ekman. ekman layers occur both in the atmosphere and in the ocean.there are two types of ekman layers. the first type occurs at the surface of the ocean and is forced by surface winds, which act as a drag on the surface of the ocean. the second type occurs at the bottom of the atmosphere and ocean, where frictional forces are associated with flow over rough surfaces.ekman developed the theory of the ekman layer after fridtjof nansen observed that ice drifts at an angle of 20°-40° to the right of the prevailing wind direction while on an arctic expedition aboard the fram. nansen asked his colleague, vilhelm bjerknes to set one of his students upon study of the problem. bjerknes tapped ekman, who presented his results in 1902 as his doctoral thesis.[1]the mathematical formulation of the ekman layer begins by assuming a neutrally stratified fluid, a balance between the forces of pressure gradient, coriolis and turbulent drag.where
+u
+{\displaystyle \ u}
+and
+v
+{\displaystyle \ v}
+are the velocities in the
+x
+{\displaystyle \ x}
+and
+y
+{\displaystyle \ y}
+directions, respectively,
+f
+{\displaystyle \ f}
+is the local coriolis parameter, and
+k
+m
+{\displaystyle \ k_{m}}
+is the diffusive eddy viscosity, which can be derived using mixing length theory. note that
+p
+{\displaystyle p}
+is a modified pressure: we have incorporated the hydrostatic of the pressure, to take account of gravity.there are many regions where an ekman layer is theoretically plausible; they include the bottom of the atmosphere, near the surface of the earth and ocean, the bottom of the ocean, near the sea floor and at the top of the ocean, near the air-water interface. different boundary conditions are appropriate for each of these different situations. each of these situations can be accounted for through the boundary conditions applied to the resulting system of ordinary differential equations. the separate cases of top and bottom boundary layers are shown below.we will consider boundary conditions of the ekman layer in the upper ocean:[2]where
+τ
+x
+{\displaystyle \ \tau ^{x}}
+and
+τ
+y
+{\displaystyle \ \tau ^{y}}
+are the components of the surface stress,
+τ
+{\displaystyle \ \tau }
+, of the wind field or ice layer at the top of the ocean.for the boundary condition on the other side, as
+z
+→
+∞
+:
+u
+→
+u
+g
+,
+v
+→
+v
+g
+{\displaystyle \ z\to \infty :u\to u_{g},v\to v_{g}}
+, where
+u
+g
+{\displaystyle \ u_{g}}
+and
+v
+g
+{\displaystyle \ v_{g}}
+are the geostrophic flows in the
+x
+{\displaystyle \ x}
+and
+y
+{\displaystyle \ y}
+directions.these differential equations can be solved to find:the value
+d
+{\displaystyle d}
+is called the ekman layer depth, and gives an indication of the penetration depth of wind-induced turbulent mixing in the ocean. note that it varies on two parameters: the turbulent diffusivity
+k
+m
+{\displaystyle k_{m}}
+, and the latitude, as encapsulated by
+f
+{\displaystyle f}
+. for a typical
+k
+m
+=
+0.1
+m
+2
+/
+s
+{\displaystyle k_{m}=0.1m^{2}/s}
+, and at 45° latitude (
+f
+=
+10
+−
+4
+s
+−
+1
+{\displaystyle f=10^{-4}s^{-1}}
+), then
+d
+{\displaystyle d}
+is approximately 45 meters. this ekman depth prediction does not always agree precisely with observations.this variation of horizontal velocity with depth (
+−
+z
+{\displaystyle -z}
+) is referred to as the ekman spiral, diagrammed above and at right.by applying the continuity equation we can have the vertical velocity as followingnote that when vertically-integrated, the volume transport associated with the ekman spiral is to the right of the wind direction in the northern hemisphere.the traditional development of ekman layers bounded below by a surface utilizes two boundary conditions:there is much difficulty associated with observing the ekman layer for two main reasons: the theory is too simplistic as it assumes a constant eddy viscosity, which ekman himself anticipated,[3] sayingand because it is difficult to design instruments with great enough sensitivity to observe the velocity profile in the ocean.the bottom ekman layer can readily be observed in a rotating cylindrical tank of water by dropping in dye and changing the rotation rate slightly.[1] surface ekman layers can also be observed in rotating tanks.[2]in the atmosphere, the ekman solution generally overstates the magnitude of the horizontal wind field because it does not account for the velocity shear in the surface layer. splitting the boundary layer into the surface layer and the ekman layer generally yields more accurate results.[4]the ekman layer, with its distinguishing feature the ekman spiral, is rarely observed in the ocean. the ekman layer near the surface of the ocean extends only about 10 – 20 meters deep,[4] and instrumentation sensitive enough to observe a velocity profile in such a shallow depth has only been available since around 1980.[2] also, wind waves modify the flow near the surface, and make observations close to the surface rather difficult.[5]observations of the ekman layer have only been possible since the development of robust surface moorings and sensitive current meters. ekman himself developed a current meter to observe the spiral that bears his name, but was not successful.[6] the vector measuring current meter [7] and the acoustic doppler current profiler are both used to measure current.the first documented observations of an ekman-like spiral in the ocean were made in the arctic ocean from a drifting ice flow in 1958.[8] more recent observations include (not an exhaustive list):common to several of these observations spirals were found to be 'compressed', displaying larger estimates of eddy viscosity when considering the rate of rotation with depth than the eddy viscosity derived from considering the rate of decay of speed.[10][11][12][14]

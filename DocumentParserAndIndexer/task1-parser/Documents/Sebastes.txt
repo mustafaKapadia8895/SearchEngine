@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sebastes - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sebastes","wgTitle":"Sebastes","wgCurRevisionId":800118408,"wgRevisionId":800118408,"wgArticleId":2284446,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","CS1 maint: Uses authors parameter","Articles with 'species' microformats","Sebastidae","Marine fish genera","Sport fish","Negligibly senescent organisms","Extant Rupelian first appearances","Taxa named by Georges Cuvier"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sebastes","wgRelevantArticleId":2284446,"wgRequestId":"WftgEwpAICsAAHvv3YcAAAAG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q149077","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.5" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sebastes_ruberrimus_1.jpg/1200px-Sebastes_ruberrimus_1.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sebastes" rel="alternate"/>
+<link href="/w/index.php?title=Sebastes&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sebastes&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sebastes" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sebastes rootpage-Sebastes vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><i>Sebastes</i></h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><i>Sebastes</i><br/>
+<small>Temporal range: <span style="display:inline-block;">33.9–0 <a class="mw-redirect" href="/wiki/Megaannum" title="Megaannum">Ma</a></span></small>
+<div id="Timeline-row" style="margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:13px;">
+<div style="position:absolute; height:100%; left:0px; width:208.07692307692px; padding-left:5px; text-align:left; background-color:rgb(254,214,123); background-image: -moz-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -o-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -webkit-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1));"><small><a href="/wiki/Precambrian" title="Precambrian">PreЄ</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(129,170,114); left:36.892307692308px; width:18.818461538462px;"><small><a href="/wiki/Cambrian" title="Cambrian">Є</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,169,138); left:55.710769230769px; width:14.08px;"><small><a href="/wiki/Ordovician" title="Ordovician">O</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(166,223,197); left:69.790769230769px; width:8.3261538461539px;"><small><a href="/wiki/Silurian" title="Silurian">S</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(221,150,81); left:78.116923076923px; width:20.409230769231px;"><small><a href="/wiki/Devonian" title="Devonian">D</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(63,174,173); left:98.526153846154px; width:20.307692307692px;"><small><a href="/wiki/Carboniferous" title="Carboniferous">C</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(247,88,60); left:118.83384615385px; width:15.907015384615px;"><small><a href="/wiki/Permian" title="Permian">P</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(153,78,150); left:134.74086153846px; width:17.126830769231px;"><small><a href="/wiki/Triassic" title="Triassic">T</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,187,231); left:151.86769230769px; width:19.055384615385px;"><small><a href="/wiki/Jurassic" title="Jurassic">J</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(111,200,107); left:170.92307692308px; width:26.738461538462px;"><small><a href="/wiki/Cretaceous" title="Cretaceous">K</a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,161,99); left:197.66153846154px; width:14.543692307692px;"><small><a href="/wiki/Paleogene" title="Paleogene"><small>Pg</small></a></small></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,221,45); left:212.20523076923px; width:6.9215384615385px;"><a href="/wiki/Neogene" title="Neogene"><small>N</small></a></div>
+<div id="end-border" style="position:absolute; height:100%; background-color:#666; width:1px; left:219px"></div>
+<div style="margin:0 auto; line-height:0; clear:both; width:220px; padding:0px; height:8px; overflow:visible; background-color:transparent; position:relative; top:-4px; z-index:100;">
+<div style="position:absolute; height:8px; left:208.52615384615px; width:11.473846153846px; background-color:#360; opacity:0.42;"></div>
+<div style="position:absolute; height:8px; left:208.52615384615px; width:11.473846153846px; background-color:#360; opacity:1;"></div>
+<div style="position:absolute; height:6px; top:1px; left:209.52615384615px; width:9.4738461538462px; background-color:#6c3;"></div>
+</div>
+</div>
+Early <a href="/wiki/Oligocene" title="Oligocene">Oligocene</a> to Present<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Sebastes_ruberrimus_1.jpg"><img alt="Sebastes ruberrimus 1.jpg" data-file-height="976" data-file-width="1304" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sebastes_ruberrimus_1.jpg/300px-Sebastes_ruberrimus_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sebastes_ruberrimus_1.jpg/450px-Sebastes_ruberrimus_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sebastes_ruberrimus_1.jpg/600px-Sebastes_ruberrimus_1.jpg 2x" width="300"/></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>Sebastes ruberrimus</i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class"><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order"><a href="/wiki/Scorpaeniformes" title="Scorpaeniformes">Scorpaeniformes</a> <sup class="reference" id="cite_ref-pdb_2-0"><a href="#cite_note-pdb-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family"><a href="/wiki/Sebastidae" title="Sebastidae">Sebastidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus"><i><b>Sebastes</b></i></span><br/>
+<small><a href="/wiki/Georges_Cuvier" title="Georges Cuvier">G. Cuvier</a>, 1829</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Type_species" title="Type species">Type species</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><i><a class="mw-redirect" href="/wiki/Sebastes_norvegicus" title="Sebastes norvegicus">Sebastes norvegicus</a></i> <sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><br/></td>
+</tr>
+</table>
+<p><i><b>Sebastes</b></i> is a <a href="/wiki/Genus" title="Genus">genus</a> of <a href="/wiki/Fish" title="Fish">fish</a> in the family <a href="/wiki/Sebastidae" title="Sebastidae">Sebastidae</a> (though some include this in <a href="/wiki/Scorpaenidae" title="Scorpaenidae">Scorpaenidae</a>), most of which have the common name of <b>rockfish</b>. A few are called <b>ocean perch</b>, <b>sea perch</b> or <b>redfish</b> instead. Most of the <i>Sebastes</i> species live in the north <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific</a>, although two (<i>Sebastes capensis</i> and <i>Sebastes oculatus</i>) live in the south Pacific/<a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> and four (<i>Sebastes fasciatus</i>, <i>Sebastes mentella</i>, <i>Sebastes norvegicus</i> and <i>Sebastes viviparus</i>) live in the north Atlantic. The coast off South <a href="/wiki/California" title="California">California</a> is the area of highest rockfish <a href="/wiki/Species_richness" title="Species richness">diversity</a>, with 56 species living in the <a href="/wiki/Southern_California_Bight" title="Southern California Bight">Southern California Bight</a>.</p>
+<p>The <a class="mw-redirect" href="/wiki/Fossil_record" title="Fossil record">fossil record</a> of rockfish goes back to the <a href="/wiki/Miocene" title="Miocene">Miocene</a>, from California and Japan (although fossil <a href="/wiki/Otolith" title="Otolith">otoliths</a> from <a href="/wiki/Belgium" title="Belgium">Belgium</a>, "<i>Sebastes</i>" <i>weileri</i>, may push the record back as far as the <a href="/wiki/Oligocene" title="Oligocene">Oligocene</a>).</p>
+<p>Rockfish are an important sport and commercial fish, and many species have been <a class="mw-redirect" href="/wiki/Overfished" title="Overfished">overfished</a>. As a result, seasons are tightly controlled in many areas. <i>Sebastes</i> are sometimes fraudulently substituted for the more expensive <i>Lutjanus campechanus</i>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ecology"><span class="tocnumber">1</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ecotoxicology.2C_radioecology"><span class="tocnumber">2</span> <span class="toctext">Ecotoxicology, radioecology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Species"><span class="tocnumber">3</span> <span class="toctext">Species</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Ecology">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sebastes&amp;action=edit&amp;section=1" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Rockfish range from the <a href="/wiki/Intertidal_zone" title="Intertidal zone">intertidal zone</a> to almost 3,000 metres (9,800 ft) deep, usually living <a class="mw-redirect" href="/wiki/Benthic" title="Benthic">benthically</a> on various substrates, often (as the name suggests) around rock outcrops. Some rockfish species are very long-lived, amongst the <a href="/wiki/List_of_longest-living_organisms" title="List of longest-living organisms">longest-living</a> fish on earth, with several species known to surpass 100 years of age, and a maximum reported age of 205 years for <i><a href="/wiki/Rougheye_rockfish" title="Rougheye rockfish">Sebastes aleutianus</a></i>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span id="Ecotoxicology,_radioecology"></span><span class="mw-headline" id="Ecotoxicology.2C_radioecology">Ecotoxicology, radioecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sebastes&amp;action=edit&amp;section=2" title="Edit section: Ecotoxicology, radioecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Like all carnivores, these fish can bioaccumulate some pollutants or <a href="/wiki/Radionuclide" title="Radionuclide">radionuclides</a> such as <a class="mw-redirect" href="/wiki/Cesium" title="Cesium">cesium</a>. Highly radioactive rockfish have been caught in a port near <a href="/wiki/Fukushima,_Fukushima" title="Fukushima, Fukushima">Fukushima</a> city, Japan, not far from the <a href="/wiki/Fukushima_Daiichi_Nuclear_Power_Plant" title="Fukushima Daiichi Nuclear Power Plant">Fukushima Daiichi Nuclear Power Plant</a>, nearly two years after the <a href="/wiki/Fukushima_Daiichi_nuclear_disaster" title="Fukushima Daiichi nuclear disaster">nuclear disaster</a> (ex: 107000 <a href="/wiki/Becquerel" title="Becquerel">Bq</a>/kg<sup class="reference" id="cite_ref-Tepco2013_6-0"><a href="#cite_note-Tepco2013-6">[6]</a></sup> (2013-02-12) ; 116000 Bq/kg<sup class="reference" id="cite_ref-Tepco2013_6-1"><a href="#cite_note-Tepco2013-6">[6]</a></sup> (2013-02-13) and 132000Bq/kg<sup class="reference" id="cite_ref-Tepco2013_6-2"><a href="#cite_note-Tepco2013-6">[6]</a></sup> (2013-02-13), respectively 1070, 1160 and 1320 times more than the maximum allowed by Japanese authorities (as updated on April 1, 2012)<sup class="reference" id="cite_ref-Tepco2013_6-3"><a href="#cite_note-Tepco2013-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Species">Species</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sebastes&amp;action=edit&amp;section=3" title="Edit section: Species">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are currently 109 recognized species in this genus:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Gopher_rockfish.jpg"><img alt="" class="thumbimage" data-file-height="853" data-file-width="1280" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gopher_rockfish.jpg/250px-Gopher_rockfish.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gopher_rockfish.jpg/375px-Gopher_rockfish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gopher_rockfish.jpg/500px-Gopher_rockfish.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Gopher_rockfish.jpg" title="Enlarge"></a></div>
+<i><a class="mw-redirect" href="/wiki/Sebastes_carnatus" title="Sebastes carnatus">Sebastes carnatus</a></i> at the <a href="/wiki/Monterey_Bay_Aquarium" title="Monterey Bay Aquarium">Monterey Bay Aquarium</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Greenspotrock_100.jpg"><img alt="" class="thumbimage" data-file-height="267" data-file-width="399" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Greenspotrock_100.jpg/250px-Greenspotrock_100.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Greenspotrock_100.jpg/375px-Greenspotrock_100.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/10/Greenspotrock_100.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Greenspotrock_100.jpg" title="Enlarge"></a></div>
+<i><a href="/wiki/Sebastes_chlorostictus" title="Sebastes chlorostictus">Sebastes chlorostictus</a></i> at the <a href="/wiki/Channel_Islands_National_Marine_Sanctuary" title="Channel Islands National Marine Sanctuary">Channel Islands National Marine Sanctuary</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Starryrockfish_300.jpg"><img alt="" class="thumbimage" data-file-height="827" data-file-width="1233" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Starryrockfish_300.jpg/250px-Starryrockfish_300.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Starryrockfish_300.jpg/375px-Starryrockfish_300.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Starryrockfish_300.jpg/500px-Starryrockfish_300.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Starryrockfish_300.jpg" title="Enlarge"></a></div>
+<i><a class="mw-redirect" href="/wiki/Sebastes_constellatus" title="Sebastes constellatus">Sebastes constellatus</a></i></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Mebaru.jpg"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mebaru.jpg/250px-Mebaru.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mebaru.jpg/375px-Mebaru.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mebaru.jpg/500px-Mebaru.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mebaru.jpg" title="Enlarge"></a></div>
+<i><a href="/wiki/Sebastes_inermis" title="Sebastes inermis">Sebastes inermis</a></i></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Sebastes_goodei.jpg"><img alt="" class="thumbimage" data-file-height="405" data-file-width="640" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sebastes_goodei.jpg/250px-Sebastes_goodei.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sebastes_goodei.jpg/375px-Sebastes_goodei.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sebastes_goodei.jpg/500px-Sebastes_goodei.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sebastes_goodei.jpg" title="Enlarge"></a></div>
+<i><a href="/wiki/Sebastes_goodei" title="Sebastes goodei">Sebastes goodei</a></i></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Sebastes_mystinus_2.jpg"><img alt="" class="thumbimage" data-file-height="823" data-file-width="1200" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sebastes_mystinus_2.jpg/250px-Sebastes_mystinus_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sebastes_mystinus_2.jpg/375px-Sebastes_mystinus_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sebastes_mystinus_2.jpg/500px-Sebastes_mystinus_2.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sebastes_mystinus_2.jpg" title="Enlarge"></a></div>
+<i><a class="new" href="/w/index.php?title=Sebastes_diaconus&amp;action=edit&amp;redlink=1" title="Sebastes diaconus (page does not exist)">Sebastes diaconus</a></i> at the <a href="/wiki/Vancouver_Aquarium" title="Vancouver Aquarium">Vancouver Aquarium</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:China_rockfish_3.jpg"><img alt="" class="thumbimage" data-file-height="1840" data-file-width="3264" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/China_rockfish_3.jpg/250px-China_rockfish_3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/China_rockfish_3.jpg/375px-China_rockfish_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/China_rockfish_3.jpg/500px-China_rockfish_3.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:China_rockfish_3.jpg" title="Enlarge"></a></div>
+<i><a class="mw-redirect" href="/wiki/Sebastes_nebulosus" title="Sebastes nebulosus">Sebastes nebulosus</a></i>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Sebastes-marinus-aquarium.jpg"><img alt="" class="thumbimage" data-file-height="1728" data-file-width="2304" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sebastes-marinus-aquarium.jpg/250px-Sebastes-marinus-aquarium.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sebastes-marinus-aquarium.jpg/375px-Sebastes-marinus-aquarium.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sebastes-marinus-aquarium.jpg/500px-Sebastes-marinus-aquarium.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sebastes-marinus-aquarium.jpg" title="Enlarge"></a></div>
+<i><a class="mw-redirect" href="/wiki/Sebastes_norvegicus" title="Sebastes norvegicus">Sebastes norvegicus</a></i> at the <a href="/wiki/New_England_Aquarium" title="New England Aquarium">New England Aquarium</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Murasoi.jpg"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Murasoi.jpg/250px-Murasoi.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Murasoi.jpg/375px-Murasoi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Murasoi.jpg/500px-Murasoi.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Murasoi.jpg" title="Enlarge"></a></div>
+<i><a href="/wiki/Sebastes_pachycephalus" title="Sebastes pachycephalus">Sebastes pachycephalus</a></i>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Treefish.JPG"><img alt="" class="thumbimage" data-file-height="1704" data-file-width="2272" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Treefish.JPG/250px-Treefish.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Treefish.JPG/375px-Treefish.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Treefish.JPG/500px-Treefish.JPG 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Treefish.JPG" title="Enlarge"></a></div>
+<i><a class="mw-redirect" href="/wiki/Sebastes_serriceps" title="Sebastes serriceps">Sebastes serriceps</a></i></div>
+</div>
+</div>
+<ul>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_aleutianus" title="Sebastes aleutianus">Sebastes aleutianus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Barton_Warren_Evermann" title="Barton Warren Evermann">Evermann</a>, 1898)</small> (Rougheye rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_alutus" title="Sebastes alutus">Sebastes alutus</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1890)</small> (Pacific Ocean perch)</li>
+<li><i><a href="/wiki/Sebastes_atrovirens" title="Sebastes atrovirens">Sebastes atrovirens</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Kelp rockfish)</li>
+<li><i><a href="/wiki/Brown_rockfish" title="Brown rockfish">Sebastes auriculatus</a></i> <small><a href="/wiki/Charles_Fr%C3%A9d%C3%A9ric_Girard" title="Charles Frédéric Girard">Girard</a>, 1854</small> (Brown rockfish)</li>
+<li><i><a href="/wiki/Sebastes_aurora" title="Sebastes aurora">Sebastes aurora</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1890)</small> (Aurora rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_babcocki" title="Sebastes babcocki">Sebastes babcocki</a></i> <small>(<a class="new" href="/w/index.php?title=William_Francis_Thompson&amp;action=edit&amp;redlink=1" title="William Francis Thompson (page does not exist)">W. F. Thompson</a>, 1915)</small> (Redbanded rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_baramenuke&amp;action=edit&amp;redlink=1" title="Sebastes baramenuke (page does not exist)">Sebastes baramenuke</a></i> <small>(<a class="new" href="/w/index.php?title=Yojiro_Wakiya&amp;action=edit&amp;redlink=1" title="Yojiro Wakiya (page does not exist)">Wakiya</a>, 1917)</small></li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_borealis" title="Sebastes borealis">Sebastes borealis</a></i> <small><a class="new" href="/w/index.php?title=Vladimir_Viktorovich_Barsukov&amp;action=edit&amp;redlink=1" title="Vladimir Viktorovich Barsukov (page does not exist)">Barsukov</a>, 1970</small> (Shortraker rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_brevispinis&amp;action=edit&amp;redlink=1" title="Sebastes brevispinis (page does not exist)">Sebastes brevispinis</a></i> <small>(<a href="/wiki/Tarleton_Hoffman_Bean" title="Tarleton Hoffman Bean">T. H. Bean</a>, 1884)</small> (Silvergray rockfish)</li>
+<li><i><a href="/wiki/Sebastes_capensis" title="Sebastes capensis">Sebastes capensis</a></i> <small>(<a href="/wiki/Johann_Friedrich_Gmelin" title="Johann Friedrich Gmelin">J. F. Gmelin</a>, 1789)</small> (Cape redfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_carnatus" title="Sebastes carnatus">Sebastes carnatus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Gopher rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_caurinus" title="Sebastes caurinus">Sebastes caurinus</a></i> <small><a href="/wiki/John_Richardson_(naturalist)" title="John Richardson (naturalist)">J. Richardson</a>, 1844</small> (Copper rockfish)</li>
+<li><i><a href="/wiki/Sebastes_chlorostictus" title="Sebastes chlorostictus">Sebastes chlorostictus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Greenspotted rockfish)</li>
+<li><i><a href="/wiki/Sebastes_chrysomelas" title="Sebastes chrysomelas">Sebastes chrysomelas</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1881)</small> (Black-and-yellow rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_ciliatus&amp;action=edit&amp;redlink=1" title="Sebastes ciliatus (page does not exist)">Sebastes ciliatus</a></i> <small>(<a href="/wiki/Wilhelm_Gottlieb_Tilesius_von_Tilenau" title="Wilhelm Gottlieb Tilesius von Tilenau">Tilesius</a>, 1813)</small> (Dusky rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_constellatus" title="Sebastes constellatus">Sebastes constellatus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Starry rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_cortezi&amp;action=edit&amp;redlink=1" title="Sebastes cortezi (page does not exist)">Sebastes cortezi</a></i> <small>(<a href="/wiki/William_Beebe" title="William Beebe">Beebe</a> &amp; <a href="/wiki/John_Tee-Van" title="John Tee-Van">Tee-Van</a>, 1938)</small> (Cortez rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_crameri&amp;action=edit&amp;redlink=1" title="Sebastes crameri (page does not exist)">Sebastes crameri</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a>, 1897)</small> (Darkblotched rockfish)</li>
+<li><i><a href="/wiki/Sebastes_dallii" title="Sebastes dallii">Sebastes dallii</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a class="mw-redirect" href="/wiki/Charles_Henry_Beeson" title="Charles Henry Beeson">Beeson</a>, 1894)</small> (Calico rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_diaconus&amp;action=edit&amp;redlink=1" title="Sebastes diaconus (page does not exist)">Sebastes diaconus</a></i> <small><a class="new" href="/w/index.php?title=Benjamin_W._Frable&amp;action=edit&amp;redlink=1" title="Benjamin W. Frable (page does not exist)">Frable</a>, <a class="new" href="/w/index.php?title=David_Wolfe_Wagman&amp;action=edit&amp;redlink=1" title="David Wolfe Wagman (page does not exist)">D. W. Wagman</a>, <a class="new" href="/w/index.php?title=Taylor_N._Frierson&amp;action=edit&amp;redlink=1" title="Taylor N. Frierson (page does not exist)">Frierson</a>, <a class="new" href="/w/index.php?title=Andres_Aguilar_(biologist)&amp;action=edit&amp;redlink=1" title="Andres Aguilar (biologist) (page does not exist)">A. Aguilar</a> &amp; <a class="new" href="/w/index.php?title=Brian_L._Sidlauskas&amp;action=edit&amp;redlink=1" title="Brian L. Sidlauskas (page does not exist)">Sidlauskas</a>, 2015</small> (Deacon rockfish) <sup class="reference" id="cite_ref-Frable2015_7-0"><a href="#cite_note-Frable2015-7">[7]</a></sup></li>
+<li><i><a href="/wiki/Sebastes_diploproa" title="Sebastes diploproa">Sebastes diploproa</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1890)</small> (Splitnose rockfish)</li>
+<li><i><a href="/wiki/Sebastes_elongatus" title="Sebastes elongatus">Sebastes elongatus</a></i> <small><a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1859</small> (Greenstriped rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_emphaeus&amp;action=edit&amp;redlink=1" title="Sebastes emphaeus (page does not exist)">Sebastes emphaeus</a></i> <small>(<a href="/wiki/Edwin_Chapin_Starks" title="Edwin Chapin Starks">Starks</a>, 1911)</small> (Puget Sound rockfish)</li>
+<li><i><a href="/wiki/Sebastes_ensifer" title="Sebastes ensifer">Sebastes ensifer</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1971</small> (Swordspine rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_entomelas" title="Sebastes entomelas">Sebastes entomelas</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Widow rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_eos&amp;action=edit&amp;redlink=1" title="Sebastes eos (page does not exist)">Sebastes eos</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a href="/wiki/Rosa_Smith_Eigenmann" title="Rosa Smith Eigenmann">R. S. Eigenmann</a>, 1890)</small> (Pink rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_exsul&amp;action=edit&amp;redlink=1" title="Sebastes exsul (page does not exist)">Sebastes exsul</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1971</small> (Buccaneer rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_fasciatus" title="Sebastes fasciatus">Sebastes fasciatus</a></i> <small><a href="/wiki/David_Humphreys_Storer" title="David Humphreys Storer">D. H. Storer</a> (<a class="extiw" href="https://fr.wikipedia.org/wiki/David_Humphreys_Storer" title="fr:David Humphreys Storer">fr</a>), 1854</small> (Acadian redfish)</li>
+<li><i><a href="/wiki/Sebastes_flammeus" title="Sebastes flammeus">Sebastes flammeus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Edwin_Chapin_Starks" title="Edwin Chapin Starks">Starks</a>, 1904)</small></li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_flavidus" title="Sebastes flavidus">Sebastes flavidus</a></i> <small>(<a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1862)</small> (Yellowtail rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_gilli&amp;action=edit&amp;redlink=1" title="Sebastes gilli (page does not exist)">Sebastes gilli</a></i> <small>(<a href="/wiki/Rosa_Smith_Eigenmann" title="Rosa Smith Eigenmann">R. S. Eigenmann</a>, 1891)</small> (Bronzespotted rockfish)</li>
+<li><i><a href="/wiki/Sebastes_glaucus" title="Sebastes glaucus">Sebastes glaucus</a></i> <small><a href="/wiki/Franz_Martin_Hilgendorf" title="Franz Martin Hilgendorf">Hilgendorf</a>, 1880</small> (Gray rockfish)</li>
+<li><i><a href="/wiki/Sebastes_goodei" title="Sebastes goodei">Sebastes goodei</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a href="/wiki/Rosa_Smith_Eigenmann" title="Rosa Smith Eigenmann">R. S. Eigenmann</a>, 1890)</small> (Chilipepper rockfish)</li>
+<li><i><a href="/wiki/Sebastes_helvomaculatus" title="Sebastes helvomaculatus">Sebastes helvomaculatus</a></i> <small><a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1859</small> (Rosethorn rockfish)</li>
+<li><i><a href="/wiki/Sebastes_hopkinsi" title="Sebastes hopkinsi">Sebastes hopkinsi</a></i> <small>(<a class="new" href="/w/index.php?title=Frank_Cramer&amp;action=edit&amp;redlink=1" title="Frank Cramer (page does not exist)">Cramer</a>, 1895)</small> (Squarespot rockfish)</li>
+<li><i><a href="/wiki/Sebastes_hubbsi" title="Sebastes hubbsi">Sebastes hubbsi</a></i> <small>(<a href="/wiki/Kiyomatsu_Matsubara" title="Kiyomatsu Matsubara">Matsubara</a>, 1937)</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_ijimae&amp;action=edit&amp;redlink=1" title="Sebastes ijimae (page does not exist)">Sebastes ijimae</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a class="new" href="/w/index.php?title=Charles_Wiliam_Metz&amp;action=edit&amp;redlink=1" title="Charles Wiliam Metz (page does not exist)">Metz</a>, 1913)</small></li>
+<li><i><a href="/wiki/Sebastes_inermis" title="Sebastes inermis">Sebastes inermis</a></i> <small><a href="/wiki/Georges_Cuvier" title="Georges Cuvier">G. Cuvier</a>, 1829</small> (Japanese red seaperch)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_iracundus&amp;action=edit&amp;redlink=1" title="Sebastes iracundus (page does not exist)">Sebastes iracundus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Edwin_Chapin_Starks" title="Edwin Chapin Starks">Starks</a>, 1904)</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_itinus&amp;action=edit&amp;redlink=1" title="Sebastes itinus (page does not exist)">Sebastes itinus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Edwin_Chapin_Starks" title="Edwin Chapin Starks">Starks</a>, 1904)</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_jordani&amp;action=edit&amp;redlink=1" title="Sebastes jordani (page does not exist)">Sebastes jordani</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1896)</small> (Shortbelly rockfish)</li>
+<li><i><a href="/wiki/Sebastes_joyneri" title="Sebastes joyneri">Sebastes joyneri</a></i> <small><a href="/wiki/Albert_G%C3%BCnther" title="Albert Günther">Günther</a>, 1878</small> (Togot seaperch, or Offshore seaperch)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_kiyomatsui&amp;action=edit&amp;redlink=1" title="Sebastes kiyomatsui (page does not exist)">Sebastes kiyomatsui</a></i> <small><a class="new" href="/w/index.php?title=Yoshiaki_Kai&amp;action=edit&amp;redlink=1" title="Yoshiaki Kai (page does not exist)">Y. Kai</a> &amp; <a class="new" href="/w/index.php?title=Tetsuji_Nakabo&amp;action=edit&amp;redlink=1" title="Tetsuji Nakabo (page does not exist)">Nakabo</a>, 2004</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_koreanus&amp;action=edit&amp;redlink=1" title="Sebastes koreanus (page does not exist)">Sebastes koreanus</a></i> <small><a class="new" href="/w/index.php?title=Ik-Soo_Kim&amp;action=edit&amp;redlink=1" title="Ik-Soo Kim (page does not exist)">I. S. Kim</a> &amp; <a class="new" href="/w/index.php?title=Wan-Ok_Lee&amp;action=edit&amp;redlink=1" title="Wan-Ok Lee (page does not exist)">W. O. Lee</a>, 1994</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_lentiginosus&amp;action=edit&amp;redlink=1" title="Sebastes lentiginosus (page does not exist)">Sebastes lentiginosus</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1971</small> (Freckled rockfish)</li>
+<li><i><a href="/wiki/Sebastes_levis" title="Sebastes levis">Sebastes levis</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a href="/wiki/Rosa_Smith_Eigenmann" title="Rosa Smith Eigenmann">R. S. Eigenmann</a>, 1889)</small> (Cowcod)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_longispinis&amp;action=edit&amp;redlink=1" title="Sebastes longispinis (page does not exist)">Sebastes longispinis</a></i> <small>(<a href="/wiki/Kiyomatsu_Matsubara" title="Kiyomatsu Matsubara">Matsubara</a>, 1934)</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_macdonaldi&amp;action=edit&amp;redlink=1" title="Sebastes macdonaldi (page does not exist)">Sebastes macdonaldi</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a class="mw-redirect" href="/wiki/Charles_Henry_Beeson" title="Charles Henry Beeson">Beeson</a>, 1893)</small> (Mexican rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_maliger" title="Sebastes maliger">Sebastes maliger</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Quillback rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_matsubarai&amp;action=edit&amp;redlink=1" title="Sebastes matsubarai (page does not exist)">Sebastes matsubarai</a></i> <small><a href="/wiki/Franz_Martin_Hilgendorf" title="Franz Martin Hilgendorf">Hilgendorf</a>, 1880</small></li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_melanops" title="Sebastes melanops">Sebastes melanops</a></i> <small><a href="/wiki/Charles_Fr%C3%A9d%C3%A9ric_Girard" title="Charles Frédéric Girard">Girard</a>, 1856</small> (Black rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_melanosema&amp;action=edit&amp;redlink=1" title="Sebastes melanosema (page does not exist)">Sebastes melanosema</a></i> <small><a class="new" href="/w/index.php?title=Robert_N._Lea&amp;action=edit&amp;redlink=1" title="Robert N. Lea (page does not exist)">R. N. Lea</a> &amp; <a class="new" href="/w/index.php?title=John_Edgar_Fitch&amp;action=edit&amp;redlink=1" title="John Edgar Fitch (page does not exist)">Fitch</a>, 1979</small> (Semaphore rockfish)</li>
+<li><i><a href="/wiki/Sebastes_melanostictus" title="Sebastes melanostictus">Sebastes melanostictus</a></i> <small>(<a href="/wiki/Kiyomatsu_Matsubara" title="Kiyomatsu Matsubara">Matsubara</a>, 1934)</small> (Blackspotted rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_melanostomus&amp;action=edit&amp;redlink=1" title="Sebastes melanostomus (page does not exist)">Sebastes melanostomus</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a href="/wiki/Rosa_Smith_Eigenmann" title="Rosa Smith Eigenmann">R. S. Eigenmann</a>, 1890)</small> (Blackgill rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_mentella" title="Sebastes mentella">Sebastes mentella</a></i> <small><a class="new" href="/w/index.php?title=Valentin_Ivanovich_Travin&amp;action=edit&amp;redlink=1" title="Valentin Ivanovich Travin (page does not exist)">Travin</a>, 1951</small> (Deepwater redfish)</li>
+<li><i><a href="/wiki/Sebastes_miniatus" title="Sebastes miniatus">Sebastes miniatus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Vermilion rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_minor&amp;action=edit&amp;redlink=1" title="Sebastes minor (page does not exist)">Sebastes minor</a></i> <small><a class="new" href="/w/index.php?title=Vladimir_Viktorovich_Barsukov&amp;action=edit&amp;redlink=1" title="Vladimir Viktorovich Barsukov (page does not exist)">Barsukov</a>, 1972</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_moseri&amp;action=edit&amp;redlink=1" title="Sebastes moseri (page does not exist)">Sebastes moseri</a></i> <small><a class="new" href="/w/index.php?title=Blaise_Joseph_Eitner&amp;action=edit&amp;redlink=1" title="Blaise Joseph Eitner (page does not exist)">Eitner</a>, 1999</small> (Whitespeckled rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_mystinus" title="Sebastes mystinus">Sebastes mystinus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1881)</small> (Blue rockfish) <sup class="reference" id="cite_ref-Frable2015_7-1"><a href="#cite_note-Frable2015-7">[7]</a></sup></li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_nebulosus" title="Sebastes nebulosus">Sebastes nebulosus</a></i> <small><a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1854</small> (China rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_nigrocinctus" title="Sebastes nigrocinctus">Sebastes nigrocinctus</a></i> <small><a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1859</small> (Tiger rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_nivosus&amp;action=edit&amp;redlink=1" title="Sebastes nivosus (page does not exist)">Sebastes nivosus</a></i> <small><a href="/wiki/Franz_Martin_Hilgendorf" title="Franz Martin Hilgendorf">Hilgendorf</a>, 1880</small></li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_norvegicus" title="Sebastes norvegicus">Sebastes norvegicus</a></i> <small>(<a href="/wiki/Peter_Ascanius" title="Peter Ascanius">Ascanius</a>, 1772)</small> (Golden redfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_notius&amp;action=edit&amp;redlink=1" title="Sebastes notius (page does not exist)">Sebastes notius</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1971</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_nudus&amp;action=edit&amp;redlink=1" title="Sebastes nudus (page does not exist)">Sebastes nudus</a></i> <small><a href="/wiki/Kiyomatsu_Matsubara" title="Kiyomatsu Matsubara">Matsubara</a>, 1943</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_oblongus&amp;action=edit&amp;redlink=1" title="Sebastes oblongus (page does not exist)">Sebastes oblongus</a></i> <small><a href="/wiki/Albert_G%C3%BCnther" title="Albert Günther">Günther</a>, 1877</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_oculatus&amp;action=edit&amp;redlink=1" title="Sebastes oculatus (page does not exist)">Sebastes oculatus</a></i> <small><a href="/wiki/Achille_Valenciennes" title="Achille Valenciennes">Valenciennes</a>, 1833</small> (Patagonian redfish)</li>
+<li><i><a href="/wiki/Sebastes_ovalis" title="Sebastes ovalis">Sebastes ovalis</a></i> <small>(<a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1862)</small> (Speckled rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_owstoni&amp;action=edit&amp;redlink=1" title="Sebastes owstoni (page does not exist)">Sebastes owstoni</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a class="new" href="/w/index.php?title=William_Francis_Thompson&amp;action=edit&amp;redlink=1" title="William Francis Thompson (page does not exist)">W. F. Thompson</a>, 1914)</small></li>
+<li><i><a href="/wiki/Sebastes_pachycephalus" title="Sebastes pachycephalus">Sebastes pachycephalus</a></i> <small><a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a> &amp; <a href="/wiki/Hermann_Schlegel" title="Hermann Schlegel">Schlegel</a>, 1843</small>
+<ul>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_pachycephalus_chalcogrammus&amp;action=edit&amp;redlink=1" title="Sebastes pachycephalus chalcogrammus (page does not exist)">S. p. chalcogrammus</a></i> <small><a href="/wiki/Kiyomatsu_Matsubara" title="Kiyomatsu Matsubara">Matsubara</a>, 1943</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_pachycephalus_nigricans&amp;action=edit&amp;redlink=1" title="Sebastes pachycephalus nigricans (page does not exist)">S. p. nigricans</a></i> <small>(<a class="new" href="/w/index.php?title=Peter_Yulevich_Schmidt&amp;action=edit&amp;redlink=1" title="Peter Yulevich Schmidt (page does not exist)">P. Y. Schmidt</a>, 1930)</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_pachycephalus_pachycephalus&amp;action=edit&amp;redlink=1" title="Sebastes pachycephalus pachycephalus (page does not exist)">S. p. pachycephalus</a></i> <small><a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a> &amp; <a href="/wiki/Hermann_Schlegel" title="Hermann Schlegel">Schlegel</a>, 1843</small></li>
+</ul>
+</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_paucispinis" title="Sebastes paucispinis">Sebastes paucispinis</a></i> <small><a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1854</small> (Bocaccio rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_peduncularis&amp;action=edit&amp;redlink=1" title="Sebastes peduncularis (page does not exist)">Sebastes peduncularis</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1975</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_phillipsi&amp;action=edit&amp;redlink=1" title="Sebastes phillipsi (page does not exist)">Sebastes phillipsi</a></i> <small>(<a class="new" href="/w/index.php?title=John_Edgar_Fitch&amp;action=edit&amp;redlink=1" title="John Edgar Fitch (page does not exist)">Fitch</a>, 1964)</small> (Chameleon rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_pinniger" title="Sebastes pinniger">Sebastes pinniger</a></i> <small>(<a href="/wiki/Theodore_Gill" title="Theodore Gill">T. N. Gill</a>, 1864)</small> (Canary rockfish)</li>
+<li><i><a href="/wiki/Sebastes_polyspinis" title="Sebastes polyspinis">Sebastes polyspinis</a></i> <small>(<a href="/wiki/Anatoly_Yakovlevich_Taranetz" title="Anatoly Yakovlevich Taranetz">Taranetz</a> &amp; <a class="new" href="/w/index.php?title=Peter_Alekseevich_Moiseev&amp;action=edit&amp;redlink=1" title="Peter Alekseevich Moiseev (page does not exist)">Moiseev</a>, 1933)</small> (Northern rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_proriger&amp;action=edit&amp;redlink=1" title="Sebastes proriger (page does not exist)">Sebastes proriger</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Redstripe rockfish)</li>
+<li><i><a href="/wiki/Sebastes_rastrelliger" title="Sebastes rastrelliger">Sebastes rastrelliger</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Grass rockfish)</li>
+<li><i><a href="/wiki/Sebastes_reedi" title="Sebastes reedi">Sebastes reedi</a></i> <small>(<a class="new" href="/w/index.php?title=Sigurd_Jergen_Westrheim&amp;action=edit&amp;redlink=1" title="Sigurd Jergen Westrheim (page does not exist)">Westrheim</a> &amp; <a class="new" href="/w/index.php?title=Henry_Tsuyuki&amp;action=edit&amp;redlink=1" title="Henry Tsuyuki (page does not exist)">Tsuyuki</a>, 1967)</small> (Yellowmouth rockfish)</li>
+<li><i><a href="/wiki/Sebastes_rosaceus" title="Sebastes rosaceus">Sebastes rosaceus</a></i> <small><a href="/wiki/William_Orville_Ayres" title="William Orville Ayres">Ayres</a>, 1854</small> (Rosy rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_rosenblatti&amp;action=edit&amp;redlink=1" title="Sebastes rosenblatti (page does not exist)">Sebastes rosenblatti</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1971</small> (Greenblotched rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_ruberrimus" title="Sebastes ruberrimus">Sebastes ruberrimus</a></i> <small>(<a class="new" href="/w/index.php?title=Frank_Cramer&amp;action=edit&amp;redlink=1" title="Frank Cramer (page does not exist)">Cramer</a>, 1895)</small> (Yelloweye rockfish)</li>
+<li><i><a href="/wiki/Sebastes_rubrivinctus" title="Sebastes rubrivinctus">Sebastes rubrivinctus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Flag rockfish)</li>
+<li><i><a href="/wiki/Sebastes_rufinanus" title="Sebastes rufinanus">Sebastes rufinanus</a></i> <small><a class="new" href="/w/index.php?title=Robert_N._Lea&amp;action=edit&amp;redlink=1" title="Robert N. Lea (page does not exist)">R. N. Lea</a> &amp; <a class="new" href="/w/index.php?title=John_Edgar_Fitch&amp;action=edit&amp;redlink=1" title="John Edgar Fitch (page does not exist)">Fitch</a>, 1972</small> (Dwarf Red rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_rufus&amp;action=edit&amp;redlink=1" title="Sebastes rufus (page does not exist)">Sebastes rufus</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a href="/wiki/Rosa_Smith_Eigenmann" title="Rosa Smith Eigenmann">R. S. Eigenmann</a>, 1890)</small> (Bank rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_saxicola&amp;action=edit&amp;redlink=1" title="Sebastes saxicola (page does not exist)">Sebastes saxicola</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1890)</small> (Stripetail rockfish)</li>
+<li><i><a href="/wiki/Sebastes_schlegelii" title="Sebastes schlegelii">Sebastes schlegelii</a></i> <small><a href="/wiki/Franz_Martin_Hilgendorf" title="Franz Martin Hilgendorf">Hilgendorf</a>, 1880</small> (Korean rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_scythropus&amp;action=edit&amp;redlink=1" title="Sebastes scythropus (page does not exist)">Sebastes scythropus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/John_Otterbein_Snyder" title="John Otterbein Snyder">Snyder</a>, 1900)</small></li>
+<li><i><a href="/wiki/Sebastes_semicinctus" title="Sebastes semicinctus">Sebastes semicinctus</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1897)</small> (Halfbanded rockfish)</li>
+<li><i><a href="/wiki/Sebastes_serranoides" title="Sebastes serranoides">Sebastes serranoides</a></i> <small>(<a href="/wiki/Carl_H._Eigenmann" title="Carl H. Eigenmann">C. H. Eigenmann</a> &amp; <a href="/wiki/Rosa_Smith_Eigenmann" title="Rosa Smith Eigenmann">R. S. Eigenmann</a>, 1890)</small> (Olive rockfish)</li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_serriceps" title="Sebastes serriceps">Sebastes serriceps</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1880)</small> (Treefish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_simulans&amp;action=edit&amp;redlink=1" title="Sebastes simulans (page does not exist)">Sebastes simulans</a></i> <small>(<a class="mw-redirect" href="/wiki/Theodore_Nicholas_Gill" title="Theodore Nicholas Gill">T. N. Gill</a>, 1864)</small> <sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_simulator&amp;action=edit&amp;redlink=1" title="Sebastes simulator (page does not exist)">Sebastes simulator</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1971</small> (Pinkrose rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_sinensis&amp;action=edit&amp;redlink=1" title="Sebastes sinensis (page does not exist)">Sebastes sinensis</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1890)</small> (Blackmouth rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_spinorbis&amp;action=edit&amp;redlink=1" title="Sebastes spinorbis (page does not exist)">Sebastes spinorbis</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1975</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_steindachneri&amp;action=edit&amp;redlink=1" title="Sebastes steindachneri (page does not exist)">Sebastes steindachneri</a></i> <small><a href="/wiki/Franz_Martin_Hilgendorf" title="Franz Martin Hilgendorf">Hilgendorf</a>, 1880</small></li>
+<li><i><a href="/wiki/Sebastes_taczanowskii" title="Sebastes taczanowskii">Sebastes taczanowskii</a></i> <small><a href="/wiki/Franz_Steindachner" title="Franz Steindachner">Steindachner</a>, 1880</small> (White-edged rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_thompsoni&amp;action=edit&amp;redlink=1" title="Sebastes thompsoni (page does not exist)">Sebastes thompsoni</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Carl_Leavitt_Hubbs" title="Carl Leavitt Hubbs">C. L. Hubbs</a>, 1925)</small></li>
+<li><i><a href="/wiki/Sebastes_trivittatus" title="Sebastes trivittatus">Sebastes trivittatus</a></i> <small><a href="/wiki/Franz_Martin_Hilgendorf" title="Franz Martin Hilgendorf">Hilgendorf</a>, 1880</small></li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_umbrosus&amp;action=edit&amp;redlink=1" title="Sebastes umbrosus (page does not exist)">Sebastes umbrosus</a></i> <small>(<a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">D. S. Jordan</a> &amp; <a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1882)</small> (Honeycomb rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_variabilis&amp;action=edit&amp;redlink=1" title="Sebastes variabilis (page does not exist)">Sebastes variabilis</a></i> <small>(<a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1814)</small> (Light dusky rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_variegatus&amp;action=edit&amp;redlink=1" title="Sebastes variegatus (page does not exist)">Sebastes variegatus</a></i> <small><a class="new" href="/w/index.php?title=Jay_Charles_Quast&amp;action=edit&amp;redlink=1" title="Jay Charles Quast (page does not exist)">Quast</a>, 1971</small> (Harlequin rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_varispinis&amp;action=edit&amp;redlink=1" title="Sebastes varispinis (page does not exist)">Sebastes varispinis</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a>, 1975</small></li>
+<li><i><a href="/wiki/Sebastes_ventricosus" title="Sebastes ventricosus">Sebastes ventricosus</a></i> <small><a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a> &amp; <a href="/wiki/Hermann_Schlegel" title="Hermann Schlegel">Schlegel</a>, 1843</small> (Japanese black seaperch)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_viviparus&amp;action=edit&amp;redlink=1" title="Sebastes viviparus (page does not exist)">Sebastes viviparus</a></i> <small><a href="/wiki/Henrik_Nikolai_Kr%C3%B8yer" title="Henrik Nikolai Krøyer">Krøyer</a>, 1845</small> (Norway redfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_vulpes&amp;action=edit&amp;redlink=1" title="Sebastes vulpes (page does not exist)">Sebastes vulpes</a></i> <small><a href="/wiki/Ludwig_Heinrich_Philipp_D%C3%B6derlein" title="Ludwig Heinrich Philipp Döderlein">Döderlein</a> (<a class="extiw" href="https://de.wikipedia.org/wiki/Ludwig_Heinrich_Philipp_D%C3%B6derlein" title="de:Ludwig Heinrich Philipp Döderlein">de</a>), 1884</small> (Fox jacopever)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_wakiyai&amp;action=edit&amp;redlink=1" title="Sebastes wakiyai (page does not exist)">Sebastes wakiyai</a></i> <small>(<a href="/wiki/Kiyomatsu_Matsubara" title="Kiyomatsu Matsubara">Matsubara</a>, 1934)</small></li>
+<li><i><a class="mw-redirect" href="/wiki/Sebastes_wilsoni" title="Sebastes wilsoni">Sebastes wilsoni</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1915)</small> (Pygmy rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_zacentrus&amp;action=edit&amp;redlink=1" title="Sebastes zacentrus (page does not exist)">Sebastes zacentrus</a></i> <small>(<a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">C. H. Gilbert</a>, 1890)</small> (Sharpchin rockfish)</li>
+<li><i><a class="new" href="/w/index.php?title=Sebastes_zonatus&amp;action=edit&amp;redlink=1" title="Sebastes zonatus (page does not exist)">Sebastes zonatus</a></i> <small><a class="new" href="/w/index.php?title=Chen_Lo-Chai&amp;action=edit&amp;redlink=1" title="Chen Lo-Chai (page does not exist)">L. C. Chen</a> &amp; <a class="new" href="/w/index.php?title=Vladimir_Viktorovich_Barsukov&amp;action=edit&amp;redlink=1" title="Vladimir Viktorovich Barsukov (page does not exist)">Barsukov</a>, 1976</small></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sebastes&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Sebastes" title="commons:Category:Sebastes">Sebastes</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sepkoski, J. (2002). <a class="external text" href="https://web.archive.org/web/20090220223520/http://strata.ummp.lsa.umich.edu/jack/showgenera.php?taxon=611&amp;rank=class" rel="nofollow">"A compendium of fossil marine animal genera"</a>. <i>Bulletins of American Paleontology</i>. <b>364</b>: 560. Archived from <a class="external text" href="http://strata.ummp.lsa.umich.edu/jack/showgenera.php?taxon=611&amp;rank=class" rel="nofollow">the original</a> on 2009-02-20.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASebastes&amp;rft.atitle=A+compendium+of+fossil+marine+animal+genera&amp;rft.aufirst=J.&amp;rft.aulast=Sepkoski&amp;rft.date=2002&amp;rft.genre=article&amp;rft.jtitle=Bulletins+of+American+Paleontology&amp;rft.pages=560&amp;rft.volume=364&amp;rft_id=http%3A%2F%2Fstrata.ummp.lsa.umich.edu%2Fjack%2Fshowgenera.php%3Ftaxon%3D611%26rank%3Dclass&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-pdb-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pdb_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://paleodb.org/cgi-bin/bridge.pl?a=checkTaxonInfo&amp;taxon_no=35888&amp;is_real_user=1" rel="nofollow">"Scorpaeniformes"</a>. Paleobiology Database.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASebastes&amp;rft.btitle=Scorpaeniformes&amp;rft.genre=unknown&amp;rft.pub=Paleobiology+Database&amp;rft_id=http%3A%2F%2Fpaleodb.org%2Fcgi-bin%2Fbridge.pl%3Fa%3DcheckTaxonInfo%26taxon_no%3D35888%26is_real_user%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Kendall, A.W.Jr. <a class="external text" href="http://spo.nwr.noaa.gov/mfr622/mfr6221.pdf" rel="nofollow">"An Historical Review of <i>Sebastes</i> Taxonomy and Systematics"</a> <span style="font-size:85%;">(PDF)</span>. <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASebastes&amp;rft.au=Kendall%2C+A.W.Jr.&amp;rft.btitle=An+Historical+Review+of+Sebastes+Taxonomy+and+Systematics&amp;rft.genre=unknown&amp;rft.pub=NOAA&amp;rft_id=http%3A%2F%2Fspo.nwr.noaa.gov%2Fmfr622%2Fmfr6221.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.fda.gov/Food/FoodScienceResearch/RFE/ucm071528.htm" rel="nofollow">"Regulatory Fish Encyclopedia"</a>. U.S. <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASebastes&amp;rft.btitle=Regulatory+Fish+Encyclopedia&amp;rft.genre=unknown&amp;rft.pub=U.S.+Food+and+Drug+Administration&amp;rft_id=http%3A%2F%2Fwww.fda.gov%2FFood%2FFoodScienceResearch%2FRFE%2Fucm071528.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cailliet, G.M., Andrews, A.H., Burton, E.J., Watters, D.L., Kline, D.E. &amp; Ferry-Graham, L.A. (2001). "Age determination and validation studies of marine fishes: do deep-dwellers live longer?". <i>Experimental Gerontology</i>. <b>36</b> (4–6): 739–764. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fs0531-5565%2800%2900239-4" rel="nofollow">10.1016/s0531-5565(00)00239-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASebastes&amp;rft.atitle=Age+determination+and+validation+studies+of+marine+fishes%3A+do+deep-dwellers+live+longer%3F&amp;rft.au=Cailliet%2C+G.M.%2C+Andrews%2C+A.H.%2C+Burton%2C+E.J.%2C+Watters%2C+D.L.%2C+Kline%2C+D.E.+%26++Ferry-Graham%2C+L.A.&amp;rft.date=2001&amp;rft.genre=article&amp;rft.issue=4%E2%80%936&amp;rft.jtitle=Experimental+Gerontology&amp;rft.pages=739-764&amp;rft.volume=36&amp;rft_id=info%3Adoi%2F10.1016%2Fs0531-5565%2800%2900239-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Tepco2013-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tepco2013_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tepco2013_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Tepco2013_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Tepco2013_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">TEPCO (2013): Nuclide Analysis Results of Fish and Shellfish (The Ocean Area Within 20km Radius of Fukushima Daiichi NPS &lt;1/13&gt;.</span></li>
+<li id="cite_note-Frable2015-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Frable2015_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Frable2015_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Frable, B.W., Wagman, D.W., Frierson, T.N., Aguilar, A. &amp; Sidlauskas, B.L. (2015). <a class="external text" href="http://fishbull.noaa.gov/1134/frable.pdf" rel="nofollow">"A new species of <i>Sebastes</i> (Scorpaeniformes: Sebastidae) from the northeastern Pacific, with a redescription of the blue rockfish, <i>S. mystinus</i> (Jordan and Gilbert, 1881)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Fishery Bulletin</i>. <b>113</b> (4): 355–377. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.7755%2Ffb.113.4.1" rel="nofollow">10.7755/fb.113.4.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASebastes&amp;rft.atitle=A+new+species+of+Sebastes+%28Scorpaeniformes%3A+Sebastidae%29+from+the+northeastern+Pacific%2C+with+a+redescription+of+the+blue+rockfish%2C+S.+mystinus+%28Jordan+and+Gilbert%2C+1881%29&amp;rft.date=2015&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Fishery+Bulletin&amp;rft.pages=355-377&amp;rft.volume=113&amp;rft_id=http%3A%2F%2Ffishbull.noaa.gov%2F1134%2Ffrable.pdf&amp;rft_id=info%3Adoi%2F10.7755%2Ffb.113.4.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Kai, Y., Muto, N., Noda, T., Orr, J.W. &amp; Nakabo, T. (2013): First Record of the Rockfish <i>Sebastes melanops</i> from the Western North Pacific, with Comments on its Synonymy (Osteichthyes: Scorpaenoidei: Sebastidae). <i>Species Diversity, 18 (2): 175-182.</i></span></li>
+</ol>
+</div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20171101131223
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.424 seconds
+Real time usage: 0.505 seconds
+Preprocessor visited node count: 12396/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 44794/2097152 bytes
+Template argument size: 15536/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 0/500
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 4.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  432.861      1 -total
+ 66.20%  286.570      1 Template:Taxobox
+ 62.82%  271.902      1 Template:Taxobox/core
+ 35.68%  154.440      1 Template:Fossilrange
+ 33.84%  146.490      1 Template:Phanerozoic_220px
+ 27.60%  119.464     11 Template:Fossil_range/bar
+ 26.25%  113.610     34 Template:Period_start
+ 16.43%   71.101     14 Template:Taxobox_colour
+ 15.75%   68.189     34 Template:Period_id
+ 14.62%   63.288     14 Template:Delink
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2284446-0!canonical and timestamp 20171101131223 and revision id 800118408
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sebastes&amp;oldid=800118408">https://en.wikipedia.org/w/index.php?title=Sebastes&amp;oldid=800118408</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sebastidae" title="Category:Sebastidae">Sebastidae</a></li><li><a href="/wiki/Category:Marine_fish_genera" title="Category:Marine fish genera">Marine fish genera</a></li><li><a href="/wiki/Category:Sport_fish" title="Category:Sport fish">Sport fish</a></li><li><a href="/wiki/Category:Negligibly_senescent_organisms" title="Category:Negligibly senescent organisms">Negligibly senescent organisms</a></li><li><a href="/wiki/Category:Extant_Rupelian_first_appearances" title="Category:Extant Rupelian first appearances">Extant Rupelian first appearances</a></li><li><a href="/wiki/Category:Taxa_named_by_Georges_Cuvier" title="Category:Taxa named by Georges Cuvier">Taxa named by Georges Cuvier</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sebastes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sebastes" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sebastes" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sebastes" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sebastes">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sebastes&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sebastes&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sebastes" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sebastes" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sebastes&amp;oldid=800118408" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sebastes&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q149077" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sebastes&amp;id=800118408" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sebastes">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sebastes&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sebastes&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sebastes" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Sebastes" hreflang="en">Wikispecies</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%BA%D1%96%D1%8F_%D0%B0%D0%BA%D1%83%D0%BD%D1%96" hreflang="be" lang="be" title="Марскія акуні – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sebastes" hreflang="ca" lang="ca" title="Sebastes – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Sebastes" hreflang="ceb" lang="ceb" title="Sebastes – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sebastes" hreflang="cs" lang="cs" title="Sebastes – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sebastes" hreflang="de" lang="de" title="Sebastes – German">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Sebastes" hreflang="eo" lang="eo" title="Sebastes – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B5%D8%AE%D8%B1%D9%87%E2%80%8C%D9%85%D8%A7%D9%87%DB%8C_(%D8%B3%D8%B1%D8%AF%D9%87)" hreflang="fa" lang="fa" title="صخره‌ماهی (سرده) – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Sebastes" hreflang="fr" lang="fr" title="Sebastes – French">Français</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Karfi" hreflang="is" lang="is" title="Karfi – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sebastes" hreflang="it" lang="it" title="Sebastes – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%95%D7%A8%D7%93%D7%95%D7%9F_(%D7%93%D7%92)" hreflang="he" lang="he" title="ורדון (דג) – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B5%D2%A3%D1%96%D0%B7_%D0%B0%D0%BB%D0%B0%D0%B1%D2%B1%D2%93%D0%B0%D1%81%D1%8B" hreflang="kk" lang="kk" title="Теңіз алабұғасы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sebastes" hreflang="nl" lang="nl" title="Sebastes – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%90%E3%83%AB%E5%B1%9E" hreflang="ja" lang="ja" title="メバル属 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sebastes" hreflang="pl" lang="pl" title="Sebastes – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sebastes" hreflang="pt" lang="pt" title="Sebastes – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%BA%D1%83%D0%BD%D0%B8" hreflang="ru" lang="ru" title="Морские окуни – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Sebastes" hreflang="fi" lang="fi" title="Sebastes – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sebastes" hreflang="sv" lang="sv" title="Sebastes – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Sebastes" hreflang="vi" lang="vi" title="Sebastes – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Sebastes" hreflang="war" lang="war" title="Sebastes – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%AE%8B%E5%B1%AC" hreflang="zh" lang="zh" title="平鮋屬 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q149077#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 September 2017, at 16:24.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sebastes&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.424","walltime":"0.505","ppvisitednodes":{"value":12396,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":44794,"limit":2097152},"templateargumentsize":{"value":15536,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  432.861      1 -total"," 66.20%  286.570      1 Template:Taxobox"," 62.82%  271.902      1 Template:Taxobox/core"," 35.68%  154.440      1 Template:Fossilrange"," 33.84%  146.490      1 Template:Phanerozoic_220px"," 27.60%  119.464     11 Template:Fossil_range/bar"," 26.25%  113.610     34 Template:Period_start"," 16.43%   71.101     14 Template:Taxobox_colour"," 15.75%   68.189     34 Template:Period_id"," 14.62%   63.288     14 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.125","limit":"10.000"},"limitreport-memusage":{"value":4983654,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20171101131223","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

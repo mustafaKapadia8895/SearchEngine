@@ -1,0 +1,1436 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Frigate - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Frigate","wgTitle":"Frigate","wgCurRevisionId":809268147,"wgRevisionId":809268147,"wgArticleId":11464,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Use dmy dates from July 2012","All articles with unsourced statements","Articles with unsourced statements from October 2017","Articles with unsourced statements","Ship types"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Frigate","wgRelevantArticleId":11464,"wgRequestId":"WgJtQApAAEMAAEITgd4AAACT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q161705","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg/1200px-HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Frigate" rel="alternate"/>
+<link href="/w/index.php?title=Frigate&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Frigate&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Frigate" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Frigate rootpage-Frigate vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Frigate</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the warship. For the bird, see <a class="mw-redirect" href="/wiki/Frigate_bird" title="Frigate bird">Frigate bird</a>. For the album by April Wine, see <a href="/wiki/Frigate_(album)" title="Frigate (album)">Frigate (album)</a>.</div>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:284px;max-width:284px">
+<div class="tsingle" style="margin:1px;width:282px;max-width:282px">
+<div class="thumbimage"><a class="image" href="/wiki/File:HMCS_Halifax_(FFH_330)_en_route_to_Haiti_2010-01-18.jpg"><img alt="" data-file-height="1358" data-file-width="2100" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg/280px-HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg/420px-HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg/560px-HMCS_Halifax_%28FFH_330%29_en_route_to_Haiti_2010-01-18.jpg 2x" width="280"/></a></div>
+<div class="thumbcaption" style="clear:left"><a href="/wiki/HMCS_Halifax_(FFH_330)" title="HMCS Halifax (FFH 330)">HMCS <i>Halifax</i></a> of the <a href="/wiki/Royal_Canadian_Navy" title="Royal Canadian Navy">Royal Canadian Navy</a></div>
+</div>
+<div class="tsingle" style="margin:1px;width:282px;max-width:282px">
+<div class="thumbimage"><a class="image" href="/wiki/File:US_Navy_020612-N-9407M-518_British_frigate_HMS_Richmond_(F-239)_launches_an_AGM-84A_%22Harpoon%22_missile.jpg"><img alt="" data-file-height="1405" data-file-width="1967" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/US_Navy_020612-N-9407M-518_British_frigate_HMS_Richmond_%28F-239%29_launches_an_AGM-84A_%22Harpoon%22_missile.jpg/280px-US_Navy_020612-N-9407M-518_British_frigate_HMS_Richmond_%28F-239%29_launches_an_AGM-84A_%22Harpoon%22_missile.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/US_Navy_020612-N-9407M-518_British_frigate_HMS_Richmond_%28F-239%29_launches_an_AGM-84A_%22Harpoon%22_missile.jpg/420px-US_Navy_020612-N-9407M-518_British_frigate_HMS_Richmond_%28F-239%29_launches_an_AGM-84A_%22Harpoon%22_missile.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/US_Navy_020612-N-9407M-518_British_frigate_HMS_Richmond_%28F-239%29_launches_an_AGM-84A_%22Harpoon%22_missile.jpg/560px-US_Navy_020612-N-9407M-518_British_frigate_HMS_Richmond_%28F-239%29_launches_an_AGM-84A_%22Harpoon%22_missile.jpg 2x" width="280"/></a></div>
+<div class="thumbcaption" style="clear:left"><a href="/wiki/HMS_Richmond_(F239)" title="HMS Richmond (F239)">HMS <i>Richmond</i></a> of the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a></div>
+</div>
+<div class="tsingle" style="margin:1px;width:282px;max-width:282px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Sergey_Gorshkov_class.GIF"><img alt="" data-file-height="421" data-file-width="747" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sergey_Gorshkov_class.GIF/280px-Sergey_Gorshkov_class.GIF" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sergey_Gorshkov_class.GIF/420px-Sergey_Gorshkov_class.GIF 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sergey_Gorshkov_class.GIF/560px-Sergey_Gorshkov_class.GIF 2x" width="280"/></a></div>
+<div class="thumbcaption" style="clear:left"><i>Admiral Sergei Gorshkov</i> of the <a href="/wiki/Russian_Navy" title="Russian Navy">Russian Navy</a></div>
+</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:BADEN-WURTTEMBERG_00257_(cropped).jpg"><img alt="" class="thumbimage" data-file-height="2890" data-file-width="4335" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/BADEN-WURTTEMBERG_00257_%28cropped%29.jpg/300px-BADEN-WURTTEMBERG_00257_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/BADEN-WURTTEMBERG_00257_%28cropped%29.jpg/450px-BADEN-WURTTEMBERG_00257_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/BADEN-WURTTEMBERG_00257_%28cropped%29.jpg/600px-BADEN-WURTTEMBERG_00257_%28cropped%29.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:BADEN-WURTTEMBERG_00257_(cropped).jpg" title="Enlarge"></a></div>
+The "Baden-Württemberg", an <a class="mw-redirect" href="/wiki/F125-class_frigate" title="F125-class frigate">F125-class frigate</a> of the <a href="/wiki/German_Navy" title="German Navy">German Navy</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Forbin-090531-N-9988F-406.jpg"><img alt="" class="thumbimage" data-file-height="1403" data-file-width="2100" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Forbin-090531-N-9988F-406.jpg/220px-Forbin-090531-N-9988F-406.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Forbin-090531-N-9988F-406.jpg/330px-Forbin-090531-N-9988F-406.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Forbin-090531-N-9988F-406.jpg/440px-Forbin-090531-N-9988F-406.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Forbin-090531-N-9988F-406.jpg" title="Enlarge"></a></div>
+The "Forbin", an <a href="/wiki/Horizon-class_frigate" title="Horizon-class frigate">Horizon-class frigate</a> of the <a href="/wiki/French_Navy" title="French Navy">French Navy</a></div>
+</div>
+</div>
+<p>A <b>frigate</b> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'f' in 'find'">f</span><span title="'r' in 'rye'">r</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/ɡ/: 'g' in 'guy'">ɡ</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'t' in 'tie'">t</span></span>/</a></span></span> is any of several types of <a href="/wiki/Warship" title="Warship">warship</a>, the term having been used for ships of various sizes and roles over the last few centuries.</p>
+<p>In the 17th century, this term was used for any warship built for speed and maneuverability, the description often used being "frigate-built". These could be warships carrying their principal batteries of carriage-mounted <a href="/wiki/Naval_artillery" title="Naval artillery">guns</a> on a single <a href="/wiki/Deck_(ship)" title="Deck (ship)">deck</a> or on two decks (with further smaller carriage-mounted guns usually carried on the forecastle and quarterdeck of the vessel). The term was generally used for ships too small to stand in the <a href="/wiki/Line_of_battle" title="Line of battle">line of battle</a>, although early line-of-battle ships were frequently referred to as frigates when they were built for speed.</p>
+<p>In the 18th century, the term referred to ships that were usually as long as a <a href="/wiki/Ship_of_the_line" title="Ship of the line">ship of the line</a> and were <a href="/wiki/Square_rig" title="Square rig">square-rigged</a> on all three masts (<a class="mw-redirect" href="/wiki/Full_rigged" title="Full rigged">full rigged</a>), but were faster and with lighter armament, used for patrolling and escort. In the definition adopted by the <a class="mw-redirect" href="/wiki/British_Admiralty" title="British Admiralty">British Admiralty</a>, they were <a href="/wiki/Rating_system_of_the_Royal_Navy" title="Rating system of the Royal Navy">rated ships</a> of at least 28 guns, carrying their principal armaments upon a single continuous deck — the upper deck — while ships of the line possessed two or more continuous decks bearing batteries of guns.</p>
+<p>In the late 19th century (beginning about 1858 with the construction of prototypes by the British and French navies), the <b>armoured frigate</b> was a type of <a href="/wiki/Ironclad_warship" title="Ironclad warship">ironclad warship</a> that for a time was the most powerful type of vessel afloat. The term "frigate" was used because such ships still mounted their principal armaments on a single continuous upper deck.</p>
+<p>In modern navies, frigates are used to protect other warships and <a class="mw-redirect" href="/wiki/Merchant-marine" title="Merchant-marine">merchant-marine</a> ships, especially as <a href="/wiki/Anti-submarine_warfare" title="Anti-submarine warfare">anti-submarine warfare</a> (ASW) combatants for amphibious expeditionary forces, underway replenishment groups, and merchant <a href="/wiki/Convoy" title="Convoy">convoys</a>. Ship classes dubbed "frigates" have also more closely resembled <a href="/wiki/Corvette" title="Corvette">corvettes</a>, <a href="/wiki/Destroyer" title="Destroyer">destroyers</a>, <a href="/wiki/Cruiser" title="Cruiser">cruisers</a>, and even battleships. Some European navies such as the French, German or Spanish ones use the term "frigate" for both their destroyers and frigates.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2017)">citation needed</span></a></i>]</sup> The rank "<a href="/wiki/Frigate_captain" title="Frigate captain">frigate captain</a>" derives from the name of this type of ship.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Age_of_sail"><span class="tocnumber">1</span> <span class="toctext">Age of sail</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Origins"><span class="tocnumber">1.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Classic_design"><span class="tocnumber">1.2</span> <span class="toctext">Classic design</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Heavy_frigates"><span class="tocnumber">1.3</span> <span class="toctext">Heavy frigates</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Role"><span class="tocnumber">1.4</span> <span class="toctext">Role</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Age_of_steam"><span class="tocnumber">2</span> <span class="toctext">Age of steam</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Armoured_frigate"><span class="tocnumber">2.1</span> <span class="toctext">Armoured frigate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#World_War_II"><span class="tocnumber">3</span> <span class="toctext">World War II</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Contemporary"><span class="tocnumber">4</span> <span class="toctext">Contemporary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Guided-missile_role"><span class="tocnumber">4.1</span> <span class="toctext">Guided-missile role</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Other_uses"><span class="tocnumber">4.2</span> <span class="toctext">Other uses</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Anti-submarine_role"><span class="tocnumber">4.3</span> <span class="toctext">Anti-submarine role</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Further_developments"><span class="tocnumber">4.4</span> <span class="toctext">Further developments</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Littoral_Combat_Ship_.28LCS.29"><span class="tocnumber">4.5</span> <span class="toctext">Littoral Combat Ship (LCS)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Frigates_in_preservation"><span class="tocnumber">5</span> <span class="toctext">Frigates in preservation</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Lists"><span class="tocnumber">6.1</span> <span class="toctext">Lists</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also_2"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Notes"><span class="tocnumber">8.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Bibliography"><span class="tocnumber">8.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Age_of_sail">Age of sail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=1" title="Edit section: Age of sail">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=2" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Frc3a9gate-c3a0-la-voile1.jpg"><img alt="" class="thumbimage" data-file-height="1558" data-file-width="2185" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Frc3a9gate-c3a0-la-voile1.jpg/220px-Frc3a9gate-c3a0-la-voile1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Frc3a9gate-c3a0-la-voile1.jpg/330px-Frc3a9gate-c3a0-la-voile1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Frc3a9gate-c3a0-la-voile1.jpg/440px-Frc3a9gate-c3a0-la-voile1.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Frc3a9gate-c3a0-la-voile1.jpg" title="Enlarge"></a></div>
+Light frigate, circa 1675–1680</div>
+</div>
+</div>
+<p>The term "frigate" (Italian: <i>fregata</i>; Spanish/Catalan/Portuguese/Sicilian: <i>fragata</i>; Dutch: <i>fregat</i>; French: <i>frégate</i>) originated in the <a class="mw-redirect" href="/wiki/Mediterranean" title="Mediterranean">Mediterranean</a> in the late 15th century, referring to a lighter <a href="/wiki/Galleass" title="Galleass">galleass</a> type ship with oars, sails and a light armament, built for speed and maneuverability.<sup class="reference" id="cite_ref-Henderson_1-0"><a href="#cite_note-Henderson-1">[1]</a></sup> The etymology of the word is unknown, although it may have originated as a <a class="mw-redirect" href="/wiki/Corruption_(linguistic)" title="Corruption (linguistic)">corruption</a> of <i><a class="extiw" href="https://en.wiktionary.org/wiki/aphractus" title="wikt:aphractus">aphractus</a></i>, a <a href="/wiki/Latin" title="Latin">Latin</a> word for an open vessel with no lower deck. <i>Aphractus</i> was, in turn, derived from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> phrase ἄφρακτος ναῦς (<i>aphraktos naus</i>), or "undefended ship".</p>
+<p>In 1583, during the <a href="/wiki/Eighty_Years%27_War" title="Eighty Years' War">Eighty Years' War</a>, <a href="/wiki/Habsburg_Spain" title="Habsburg Spain">Habsburg Spain</a> recovered the <a href="/wiki/Southern_Netherlands" title="Southern Netherlands">Southern Netherlands</a> from the rebellious <a class="mw-redirect" href="/wiki/Dutch_(ethnic_group)" title="Dutch (ethnic group)">Dutch</a>. This soon led to the occupied ports being used as bases for <a class="mw-redirect" href="/wiki/Privateers" title="Privateers">privateers</a>, the <a class="mw-redirect" href="/wiki/Dunkirker" title="Dunkirker">Dunkirkers</a>, to attack the shipping of the Dutch and their allies. To achieve this they developed small, maneuverable, sailing vessels that came to be referred to as frigates. The success of these Dunkirker vessels influenced the ship design of other navies contending with them but because most regular navies required ships of greater endurance than the Dunkirker frigates could provide, the term was soon applied less exclusively to any relatively fast and elegant sail-only war ship. In French, the term "frigate" became a verb, meaning 'to build long and low', and an adjective, adding further confusion. Even the huge English <a href="/wiki/HMS_Sovereign_of_the_Seas" title="HMS Sovereign of the Seas"><i>Sovereign of the Seas</i></a> could be described as "a delicate frigate" by a contemporary after her upper decks were reduced in 1651.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The navy of the <a href="/wiki/Dutch_Republic" title="Dutch Republic">Dutch Republic</a> was the first navy to build the larger ocean-going frigates. The Dutch navy had three principal tasks in the struggle against Spain: to protect Dutch merchant ships at sea, to blockade the ports of Spanish-held <a href="/wiki/Flanders" title="Flanders">Flanders</a> to damage trade and halt enemy <a class="mw-redirect" href="/wiki/Privateering" title="Privateering">privateering</a>, and to fight the Spanish fleet and prevent troop landings. The first two tasks required speed, shallowness of draft for the shallow waters around the Netherlands, and the ability to carry sufficient supplies to maintain a blockade. The third task required heavy armament, sufficient to fight against the Spanish fleet. The first of these larger battle-capable frigates were built around 1600 at <a href="/wiki/Hoorn" title="Hoorn">Hoorn</a> in <a href="/wiki/County_of_Holland" title="County of Holland">Holland</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> By the later stages of the <a href="/wiki/Eighty_Years%27_War" title="Eighty Years' War">Eighty Years' War</a> the Dutch had switched entirely from the heavier ships still used by the English and Spanish to the lighter frigates, carrying around 40 guns and weighing around 300 tons.</p>
+<p>The effectiveness of the Dutch frigates became most visible in the <a href="/wiki/Battle_of_the_Downs" title="Battle of the Downs">Battle of the Downs</a> in 1639, encouraging most other navies, especially the English, to adopt similar designs.</p>
+<p>The fleets built by the <a href="/wiki/Commonwealth_of_England" title="Commonwealth of England">Commonwealth of England</a> in the 1650s generally consisted of ships described as "frigates", the largest of which were two-decker 'great frigates' of the <a class="mw-redirect" href="/wiki/Third_rate" title="Third rate">third rate</a>. Carrying 60 guns, these vessels were as big and capable as 'great ships' of the time; however, most other frigates at the time were used as '<a href="/wiki/Cruiser" title="Cruiser">cruisers</a>': independent fast ships. The term "frigate" implied a long hull design, which relates directly to speed (see <a href="/wiki/Hull_speed" title="Hull speed">hull speed</a>) and also, in turn, helped the development of the <a href="/wiki/Broadside" title="Broadside">broadside</a> tactic in naval warfare.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:La_Boudeuse.jpg"><img alt="" class="thumbimage" data-file-height="241" data-file-width="350" height="151" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/La_Boudeuse.jpg/220px-La_Boudeuse.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/La_Boudeuse.jpg/330px-La_Boudeuse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/55/La_Boudeuse.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:La_Boudeuse.jpg" title="Enlarge"></a></div>
+<a href="/wiki/French_frigate_Boudeuse_(1766)" title="French frigate Boudeuse (1766)"><i>Boudeuse</i></a>, of <a href="/wiki/Louis_Antoine_de_Bougainville" title="Louis Antoine de Bougainville">Louis Antoine de Bougainville</a></div>
+</div>
+</div>
+<p>At this time, a further design evolved, reintroducing oars to create the galley frigate such as <a href="/wiki/HMS_Charles_Galley_(1676)" title="HMS Charles Galley (1676)">HMS <i>Charles Galley</i></a> of 1676 which was rated as a 32-gun fifth rate but also had a bank of 40 oars set below the upper deck which could be used to propel the ship in the absence of a favourable wind.</p>
+<p>In Danish, the word "fregat" is often applied to warships carrying as few as 16 guns, such as <a href="/wiki/HMS_Falcon_(1802)" title="HMS Falcon (1802)">HMS <i>Falcon</i></a> which the British classified as a sloop.</p>
+<p>Under the <a href="/wiki/Rating_system_of_the_Royal_Navy" title="Rating system of the Royal Navy">rating system of the Royal Navy</a>, by the middle of the 18th century, the term "frigate" was technically restricted to single-decked ships of the <a class="mw-redirect" href="/wiki/Fifth_rate" title="Fifth rate">fifth rate</a>, though small 28-gun frigates were classed as <a class="mw-redirect" href="/wiki/Sixth_rate" title="Sixth rate">sixth rate</a>.<sup class="reference" id="cite_ref-Henderson_1-1"><a href="#cite_note-Henderson-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Classic_design">Classic design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=3" title="Edit section: Classic design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lutine1.jpg"><img alt="" class="thumbimage" data-file-height="300" data-file-width="400" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lutine1.jpg/220px-Lutine1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lutine1.jpg/330px-Lutine1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a4/Lutine1.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lutine1.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Magicienne-class_frigate" title="Magicienne-class frigate">A <i>Magicienne</i>-class frigate</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG"><img alt="" class="thumbimage" data-file-height="1617" data-file-width="4503" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG/220px-Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG/330px-Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG/440px-Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Main_batteries_of_M%C3%A9duse-Garneray-IMG_4787-cropped.JPG" title="Enlarge"></a></div>
+Gun deck of the <a href="/wiki/Pallas-class_frigate_(1808)" title="Pallas-class frigate (1808)"><i>Pallas</i>-class</a> frigate <a href="/wiki/French_frigate_M%C3%A9duse_(1810)" title="French frigate Méduse (1810)"><i>Méduse</i></a></div>
+</div>
+</div>
+<p>The classic sailing frigate, well-known today for its role in the <a class="mw-redirect" href="/wiki/Napoleonic_wars" title="Napoleonic wars">Napoleonic wars</a>, can be traced back to French developments in the second quarter of the 18th century. The French-built <a href="/wiki/French_frigate_M%C3%A9d%C3%A9e_(1741)" title="French frigate Médée (1741)">Médée</a> of 1740 is often regarded as the first example of this type. These ships were square-rigged and carried all their main guns on a single continuous upper deck. The lower deck, known as the "gun deck", now carried no armament, and functioned as a "berth deck" where the crew lived, and was in fact placed below the waterline of the new frigates.<sup class="reference" id="cite_ref-Breen_4-0"><a href="#cite_note-Breen-4">[4]</a></sup></p>
+<p>A total of fifty-nine French sailing frigates were built between 1777 and 1790, with a standard design averaging a hull length of 135 ft (41 m) and an average draught of 13 ft (4.0 m). The new frigates recorded sailing speeds of up to 14 knots (26 km/h; 16 mph), significantly faster than their predecessor vessels.<sup class="reference" id="cite_ref-Breen_4-1"><a href="#cite_note-Breen-4">[4]</a></sup> They were able to fight with all their guns when the seas were so rough that comparable two-deckers had to close the gun-ports on their lower decks (see the <a href="/wiki/Action_of_13_January_1797" title="Action of 13 January 1797">Action of 13 January 1797</a>, for an example when this was decisive). Like the larger 74 which was developed at the same time, the new frigates sailed well and were good fighting vessels due to a combination of long hulls and low upperworks compared to vessels of comparable size and firepower.</p>
+<p>The <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> captured a handful of the new French frigates during the <a href="/wiki/War_of_the_Austrian_Succession" title="War of the Austrian Succession">War of the Austrian Succession</a> (1740–1748) and were impressed by them, particularly for their inshore handling capabilities. They soon built copies and started to adapt the type to their own needs, setting the standard for other frigates as the leading naval power. The first British frigates carried 28 guns including an upper deck battery of twenty-four 9-pounder guns (the remaining four smaller guns were carried on the quarter deck) but soon developed into fifth-rate ships of 32 or 36 guns including an upper deck battery of twenty-six 12-pounder guns, with the remaining six or ten smaller guns carried on the quarter deck and forecastle. From around 1778, a larger "heavy" frigate was developed with a main battery of twenty-six or twenty-eight 18-pounder guns (again with the remaining ten smaller guns carried on the quarter deck and forecastle).</p>
+<p>Both British and American frigates could (and usually did) additionally carry smaller carriage-mounted guns on their quarter decks and <a href="/wiki/Forecastle" title="Forecastle">forecastles</a> (the superstructures above the upper deck). Technically, rated ships with fewer than 28 guns could not be classed as frigates but as "<a href="/wiki/Post_ship" title="Post ship">post ships</a>"; however, in common parlance most post ships were often described as "frigates", the same casual misuse of the term being extended to smaller two-decked ships that were too small to stand in the line of battle.</p>
+<p>Royal Navy frigates of the late 18th century included the 1780-vintage <i>Perseverance</i> class, which measured around 900 <a href="/wiki/Builder%27s_Old_Measurement" title="Builder's Old Measurement">tons burthen</a> and carried 36 guns; this successful class was followed by numerous other classes that measured over 1,000 tons burthen and carried 38 guns.</p>
+<h3><span class="mw-headline" id="Heavy_frigates">Heavy frigates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=4" title="Edit section: Heavy frigates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg"><img alt="" class="thumbimage" data-file-height="1444" data-file-width="1500" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg/220px-US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg/330px-US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg/440px-US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:US_Navy_101021-N-7642M-317_USS_Constitution_returns_to_her_pier_after_an_underway_to_celebrate_her_213th_launching_day_anniversary.jpg" title="Enlarge"></a></div>
+<a href="/wiki/USS_Constitution" title="USS Constitution">USS <i>Constitution</i></a>.</div>
+</div>
+</div>
+<p>In 1797, three of the <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a>'s <a href="/wiki/Original_six_frigates_of_the_United_States_Navy" title="Original six frigates of the United States Navy">first six major ships</a> were rated as 44-gun frigates (or "super-frigates"), which operationally carried fifty-six to sixty 24-pounder long guns and 32-pounder or 42-pounder <a href="/wiki/Carronade" title="Carronade">carronades</a> on two decks; by all regards they were exceptionally powerful and tough. These ships were so well-armed that they were often regarded as equal to ships of the line, and after a series of losses at the outbreak of the <a href="/wiki/War_of_1812" title="War of 1812">War of 1812</a>, Royal Navy fighting instructions ordered British frigates (usually of 38 guns or less) to never engage American frigates at any less than a 2:1 advantage. <a href="/wiki/USS_Constitution" title="USS Constitution">USS <i>Constitution</i></a>, preserved as a <a href="/wiki/Museum_ship" title="Museum ship">museum ship</a> by the US Navy, is the oldest commissioned warship afloat, and is a surviving example of a frigate from the <a href="/wiki/Age_of_Sail" title="Age of Sail">Age of Sail</a>. <i>Constitution</i> and her sister ships <a href="/wiki/USS_President_(1800)" title="USS President (1800)"><i>President</i></a> and <a href="/wiki/USS_United_States_(1797)" title="USS United States (1797)"><i>United States</i></a> were created in a response to deal with the Barbary Coast pirates and in conjunction with the <a href="/wiki/Naval_Act_of_1794" title="Naval Act of 1794">Naval Act of 1794</a>. The three big frigates, when built, had a distinctive building pattern which minimised "<a href="/wiki/Hogging_and_sagging" title="Hogging and sagging">hogging</a>" (in which the centre of the keel rises while both ends drop) and improves hydrodynamic efficiency.<sup class="reference" id="cite_ref-Archibald.2C_Roger_1997_5-0"><a href="#cite_note-Archibald.2C_Roger_1997-5">[5]</a></sup></p>
+<p>The hull was designed so that all the weight from the guns was upon the keel itself. <a href="/wiki/Joshua_Humphreys" title="Joshua Humphreys">Joshua Humphreys</a> proposed that only <a href="/wiki/Live_oak" title="Live oak">live oak</a>, a tree that grew only in America, should be used to build these ships. The method was to use diagonal riders, eight on each side that sat at a 45 degree angle. These beams of live oak were about 2 feet (61 cm) wide and around 1 foot (30 cm) thick and helped to maintain the shape of the hull, serving also to reduce flexibility and to minimize impacts.<sup class="reference" id="cite_ref-Archibald.2C_Roger_1997_5-1"><a href="#cite_note-Archibald.2C_Roger_1997-5">[5]</a></sup> These ideas were considered revolutionary in the late 18th and early 19th century. A three-layer method was used in which the planks along the sides of the hull were laid horizontally across the <a href="/wiki/Frame_(nautical)" title="Frame (nautical)">frames</a>, making a crossing or checker board pattern. The sides of the ship could be as thick as 25 inches (64 cm), and were able to absorb substantial damage. The strength of this braced construction earned USS <i>Constitution</i> the nickname "Old Ironsides".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources.">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Role">Role</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=5" title="Edit section: Role">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a class="image" href="/wiki/File:20000_Abraham_Lincoln.jpg"><img alt="" class="thumbimage" data-file-height="621" data-file-width="474" height="314" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20000_Abraham_Lincoln.jpg/240px-20000_Abraham_Lincoln.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20000_Abraham_Lincoln.jpg/360px-20000_Abraham_Lincoln.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5c/20000_Abraham_Lincoln.jpg 2x" width="240"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:20000_Abraham_Lincoln.jpg" title="Enlarge"></a></div>
+The fictitious, but representative, ironclad frigate USS <i>Abraham Lincoln</i>, from <a href="/wiki/Jules_Verne" title="Jules Verne">Jules Verne</a>'s novel <i><a href="/wiki/Twenty_Thousand_Leagues_Under_the_Sea" title="Twenty Thousand Leagues Under the Sea">Twenty Thousand Leagues Under the Sea</a></i></div>
+</div>
+</div>
+<p>Frigates were perhaps the hardest-worked of warship types during the <a href="/wiki/Age_of_Sail" title="Age of Sail">Age of Sail</a>. While smaller than a <a class="mw-redirect" href="/wiki/Ship-of-the-line" title="Ship-of-the-line">ship-of-the-line</a>, they were formidable opponents for the large numbers of <a href="/wiki/Sloop" title="Sloop">sloops</a> and <a href="/wiki/Gunboat" title="Gunboat">gunboats</a>, not to mention <a href="/wiki/Privateer" title="Privateer">privateers</a> or merchantmen. Able to carry six months' stores, they had very long range; and vessels larger than frigates were considered too valuable to operate independently.</p>
+<p>Frigates scouted for the fleet, went on commerce-raiding missions and patrols, and conveyed messages and dignitaries. Usually, frigates would fight in small numbers or singly against other frigates. They would avoid contact with <a class="mw-redirect" href="/wiki/Ships-of-the-line" title="Ships-of-the-line">ships-of-the-line</a>; even in the midst of a fleet engagement it was bad etiquette for a ship of the line to fire on an enemy frigate which had not fired first.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Frigates were involved in fleet battles, often as "repeating frigates". In the smoke and confusion of battle, <a href="/wiki/Naval_flag_signalling" title="Naval flag signalling">signals</a> made by the fleet commander, whose <a href="/wiki/Flagship" title="Flagship">flagship</a> might be in the thick of the fighting, might be missed by the other ships of the fleet.<sup class="reference" id="cite_ref-EB_7-0"><a href="#cite_note-EB-7">[7]</a></sup> Frigates were therefore stationed to windward or leeward of the main <a href="/wiki/Line_of_battle" title="Line of battle">line of battle</a>, and had to maintain a clear line of sight to the commander's flagship. Signals from the flagship were then repeated by the frigates, which themselves standing out of the line and clear from the smoke and disorder of battle, could be more easily seen by the other ships of the fleet.<sup class="reference" id="cite_ref-EB_7-1"><a href="#cite_note-EB-7">[7]</a></sup> If damage or loss of masts prevented the flagship from making clear conventional signals, the repeating frigates could interpret them and hoist their own in the correct manner, passing on the commander's instructions clearly.<sup class="reference" id="cite_ref-EB_7-2"><a href="#cite_note-EB-7">[7]</a></sup></p>
+<p>For officers in the Royal Navy, a frigate was a desirable posting. Frigates often saw action, which meant a greater chance of glory, promotion, and <a href="/wiki/Prize_money" title="Prize money">prize money</a>.</p>
+<p>Unlike larger ships that were placed <a class="mw-redirect" href="/wiki/Reserve_Fleet" title="Reserve Fleet">in ordinary</a>, frigates were kept in service in peacetime as a cost-saving measure and to provide experience to frigate captains and officers which would be useful in wartime. Frigates could also carry <a class="mw-redirect" href="/wiki/Marine_(military)" title="Marine (military)">marines</a> for boarding enemy ships or for operations on shore; in 1832, the frigate <a href="/wiki/USS_Potomac_(1822)" title="USS Potomac (1822)">USS <i>Potomac</i></a> landed a party of 282 sailors and Marines ashore in the US Navy's <a href="/wiki/First_Sumatran_expedition" title="First Sumatran expedition">first Sumatran expedition</a>.</p>
+<p>Common armament was one gundeck with 24–30 long guns, from 8- to 24-pounders (3.6 to 11 kg), with up to a dozen light guns or <a href="/wiki/Carronade" title="Carronade">carronades</a> on the quarterdeck and forecastle above.</p>
+<p>Frigates remained a crucial element of navies until the mid-19th century. The first <a class="mw-redirect" href="/wiki/Ironclad" title="Ironclad">ironclads</a> were classified as "frigates" because of the number of guns they carried. However, terminology changed as iron and steam became the norm, and the role of the frigate was assumed first by the <a href="/wiki/Protected_cruiser" title="Protected cruiser">protected cruiser</a> and then by the <a href="/wiki/Light_cruiser" title="Light cruiser">light cruiser</a>.</p>
+<p>Frigates are often the vessel of choice in historical naval novels due to their relative freedom compared to ships of the line (kept for fleet actions) and smaller vessels (generally assigned to a home port and less widely ranging). For example, the <a href="/wiki/Patrick_O%27Brian" title="Patrick O'Brian">Patrick O'Brian</a> <a href="/wiki/Aubrey%E2%80%93Maturin_series" title="Aubrey–Maturin series">Aubrey–Maturin series</a>, <a href="/wiki/C._S._Forester" title="C. S. Forester">C. S. Forester</a>'s <a href="/wiki/Horatio_Hornblower" title="Horatio Hornblower">Horatio Hornblower</a> series and <a href="/wiki/Douglas_Reeman" title="Douglas Reeman">Alexander Kent</a>'s <a class="mw-redirect" href="/wiki/Richard_Bolitho" title="Richard Bolitho">Richard Bolitho</a> series. The motion picture <i><a href="/wiki/Master_and_Commander:_The_Far_Side_of_the_World" title="Master and Commander: The Far Side of the World">Master and Commander: The Far Side of the World</a></i> features a reconstructed historic frigate, <a href="/wiki/HMS_Surprise_(replica_ship)" title="HMS Surprise (replica ship)">HMS <i>Rose</i></a>, to depict Aubrey's frigate HMS <i>Surprise</i>.</p>
+<h2><span class="mw-headline" id="Age_of_steam">Age of steam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=6" title="Edit section: Age of steam">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Steam_frigate" title="Steam frigate">Steam frigate</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lebreton_engraving-26.jpg"><img alt="" class="thumbimage" data-file-height="1291" data-file-width="1935" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lebreton_engraving-26.jpg/220px-Lebreton_engraving-26.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lebreton_engraving-26.jpg/330px-Lebreton_engraving-26.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lebreton_engraving-26.jpg/440px-Lebreton_engraving-26.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lebreton_engraving-26.jpg" title="Enlarge"></a></div>
+French <a href="/wiki/Paddle_steamer" title="Paddle steamer">paddle</a> frigate <a href="/wiki/French_frigate_Descartes" title="French frigate Descartes"><i>Descartes</i></a></div>
+</div>
+</div>
+<p>Vessels classed as frigates continued to play a great role in navies with the adoption of steam power in the 19th century. In the 1830s, navies experimented with large <a href="/wiki/Paddle_steamer" title="Paddle steamer">paddle steamers</a> equipped with large guns mounted on one deck, which were termed "paddle frigates".</p>
+<p>From the mid-1840s on, frigates which more closely resembled the traditional sailing frigate were built with steam engines and screw <a href="/wiki/Propeller" title="Propeller">propellers</a>. These "<a class="mw-redirect" href="/wiki/Screw_frigate" title="Screw frigate">screw frigates</a>", built first of wood and later of <a href="/wiki/Wrought_iron" title="Wrought iron">iron</a>, continued to perform the traditional role of the frigate until late in the 19th century.</p>
+<h3><span class="mw-headline" id="Armoured_frigate">Armoured frigate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=7" title="Edit section: Armoured frigate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From 1859, armour was added to ships based on existing frigate and <a href="/wiki/Ship_of_the_line" title="Ship of the line">ship of the line</a> designs. The additional weight of the armour on these first <a href="/wiki/Ironclad_warship" title="Ironclad warship">ironclad warships</a> meant that they could have only one gun deck, and they were technically frigates, even though they were more powerful than existing ships-of-the-line and occupied the same strategic role. The phrase "armoured frigate" remained in use for some time to denote a sail-equipped, broadside-firing type of ironclad.</p>
+<p>After 1875, the term "frigate" fell out of use. Vessels with armoured sides were designated as "<a href="/wiki/Battleship" title="Battleship">battleships</a>" or "<a href="/wiki/Armored_cruiser" title="Armored cruiser">armoured cruisers</a>", while "<a href="/wiki/Protected_cruiser" title="Protected cruiser">protected cruisers</a>" only possessed an armoured deck, and unarmoured vessels, including frigates and sloops, were classified as "unprotected cruisers".</p>
+<h2><span class="mw-headline" id="World_War_II">World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=8" title="Edit section: World War II">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/List_of_frigates_of_the_Second_World_War" title="List of frigates of the Second World War">List of frigates of the Second World War</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lochmorlich.jpg"><img alt="" class="thumbimage" data-file-height="273" data-file-width="470" height="128" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lochmorlich.jpg/220px-Lochmorlich.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lochmorlich.jpg/330px-Lochmorlich.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lochmorlich.jpg/440px-Lochmorlich.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lochmorlich.jpg" title="Enlarge"></a></div>
+A <a class="mw-redirect" href="/wiki/Loch_class_frigate" title="Loch class frigate">Loch-class frigate</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:USS_Gallup_(PF-47).jpg"><img alt="" class="thumbimage" data-file-height="656" data-file-width="1003" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/USS_Gallup_%28PF-47%29.jpg/220px-USS_Gallup_%28PF-47%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/USS_Gallup_%28PF-47%29.jpg/330px-USS_Gallup_%28PF-47%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/USS_Gallup_%28PF-47%29.jpg/440px-USS_Gallup_%28PF-47%29.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:USS_Gallup_(PF-47).jpg" title="Enlarge"></a></div>
+The U.S. Navy <a href="/wiki/Tacoma-class_frigate" title="Tacoma-class frigate"><i>Tacoma</i>-class</a> patrol frigate <a href="/wiki/USS_Gallup_(PF-47)" title="USS Gallup (PF-47)">USS <i>Gallup</i></a> at <a class="mw-redirect" href="/wiki/San_Pedro,_California" title="San Pedro, California">San Pedro</a>, <a href="/wiki/California" title="California">California</a>, on 30 May 1944</div>
+</div>
+</div>
+<p>Modern frigates are related to earlier frigates only by name. The term "frigate" was readopted during the <a href="/wiki/World_War_II" title="World War II">Second World War</a> by the British <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> to describe an <a href="/wiki/Anti-submarine_warfare" title="Anti-submarine warfare">anti-submarine</a> escort vessel that was larger than a <a href="/wiki/Corvette" title="Corvette">corvette</a>, while smaller than a <a href="/wiki/Destroyer" title="Destroyer">destroyer</a>. Equal in size and capability to the American <a href="/wiki/Destroyer_escort" title="Destroyer escort">destroyer escort</a>, frigates are usually less expensive to build and maintain.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Anti-submarine escorts had previously been classified as <a href="/wiki/Sloop-of-war" title="Sloop-of-war">sloops</a> by the Royal Navy, and the <a href="/wiki/Black_Swan-class_sloop" title="Black Swan-class sloop"><i>Black Swan</i>-class</a> sloops of 1939–1945 were as large as the new types of frigate, and more heavily armed. Twenty-two of these were reclassified as frigates after the war, as were the remaining 24 smaller <a href="/wiki/Castle-class_corvette" title="Castle-class corvette">Castle-class</a> corvettes.</p>
+<p>The frigate was introduced to remedy some of the shortcomings inherent in the corvette design: limited armament, a hull form not suited to open-ocean work, a single <a class="mw-redirect" href="/wiki/Driveshaft" title="Driveshaft">shaft</a> which limited speed and maneuverability, and a lack of range. The frigate was designed and built to the same mercantile construction standards (<a href="/wiki/Scantling" title="Scantling">scantlings</a>) as the corvette, allowing manufacture by yards unused to warship construction. The first frigates of the <a href="/wiki/River-class_frigate" title="River-class frigate">River class</a> (1941) were essentially two sets of corvette machinery in one larger hull, armed with the latest <a href="/wiki/Hedgehog_(weapon)" title="Hedgehog (weapon)">Hedgehog</a> anti-submarine weapon.</p>
+<p>The frigate possessed less offensive firepower and speed than a <a href="/wiki/Destroyer" title="Destroyer">destroyer</a>, but such qualities were not required for anti-submarine warfare. Submarines were slow while submerged, and <a class="mw-redirect" href="/wiki/ASDIC" title="ASDIC">ASDIC</a> sets did not operate effectively at speeds of over 20 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a> (23 <a href="/wiki/Miles_per_hour" title="Miles per hour">mph</a>; 37 <a href="/wiki/Kilometres_per_hour" title="Kilometres per hour">km/h</a>). Rather, the frigate was an austere and weatherly vessel suitable for mass-construction and fitted with the latest innovations in anti-submarine warfare. As the frigate was intended purely for convoy duties, and not to deploy with the fleet, it had limited range and speed.</p>
+<p>The contemporary <a href="/wiki/Nazi_Germany" title="Nazi Germany">German</a> <i><a href="/wiki/F-class_escort_ship" title="F-class escort ship">Flottenbegleiter</a></i> ("fleet escorts"), also known as "F-Boats", were essentially frigates.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> They were based on a pre-war <i><a href="/wiki/Oberkommando_der_Marine" title="Oberkommando der Marine">Oberkommando der Marine</a></i> concept of vessels which could fill roles such as fast minesweeper, minelayer, merchant escort and anti-submarine vessel. Because of the <a href="/wiki/Treaty_of_Versailles" title="Treaty of Versailles">Treaty of Versailles</a> their displacement was officially limited to 600 tons, although in reality they exceeded this by about 100 tons. F-boats had two stacks and two 105 mm gun turrets. The design was flawed because of its narrow beam, sharp bow and unreliable high pressure steam turbines. F-boats were succeeded in operational duties by <a class="mw-redirect" href="/wiki/Torpedo_boat_type_35" title="Torpedo boat type 35">Type 35</a> and <a class="mw-redirect" href="/wiki/Elbing_class_torpedo_boat" title="Elbing class torpedo boat">Elbing class torpedo boats</a>. <i>Flottenbegleiter</i> remained in service as advanced training vessels.</p>
+<p>It was not until the Royal Navy's <a href="/wiki/Bay-class_frigate" title="Bay-class frigate">Bay class</a> of 1944 that a British design classified as a "frigate" was produced for fleet use, although it still suffered from limited speed. These <a href="/wiki/Anti-aircraft_warfare" title="Anti-aircraft warfare">anti-aircraft</a> frigates, built on incomplete <a href="/wiki/Loch-class_frigate" title="Loch-class frigate">Loch-class</a> frigate hulls, were similar to the <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a>'s <a href="/wiki/Destroyer_escort" title="Destroyer escort">destroyer escorts</a> (DE), although the latter had greater speed and offensive armament to better suit them to fleet deployments. The destroyer escort concept came from design studies by the <a href="/wiki/General_Board_of_the_United_States_Navy" title="General Board of the United States Navy">General Board of the United States Navy</a> in 1940, as modified by requirements established by a British commission in 1941<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> prior to the American entry into the war, for deep-water escorts. The American-built destroyer escorts serving in the <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> were rated as <a href="/wiki/Captain-class_frigate" title="Captain-class frigate">Captain-class</a> frigates. The U.S. Navy's two <a href="/wiki/Canada" title="Canada">Canadian</a>-built <a class="mw-redirect" href="/wiki/Asheville-class_frigate" title="Asheville-class frigate"><i>Asheville</i>-class</a> and 96 British-influenced, American-built <a href="/wiki/Tacoma-class_frigate" title="Tacoma-class frigate"><i>Tacoma</i>-class</a> frigates that followed originally were classified as "patrol <a href="/wiki/Gunboat" title="Gunboat">gunboats</a>" (PG) in the U.S. Navy but on 15 April 1943 were all reclassified as <b>patrol frigates (PF)</b>.</p>
+<h2><span class="mw-headline" id="Contemporary">Contemporary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=9" title="Edit section: Contemporary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Guided-missile_role">Guided-missile role</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=10" title="Edit section: Guided-missile role">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:HMCS_Regina_(FFH_334)_Frigate.jpg"><img alt="" class="thumbimage" data-file-height="1500" data-file-width="2100" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HMCS_Regina_%28FFH_334%29_Frigate.jpg/220px-HMCS_Regina_%28FFH_334%29_Frigate.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HMCS_Regina_%28FFH_334%29_Frigate.jpg/330px-HMCS_Regina_%28FFH_334%29_Frigate.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HMCS_Regina_%28FFH_334%29_Frigate.jpg/440px-HMCS_Regina_%28FFH_334%29_Frigate.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:HMCS_Regina_(FFH_334)_Frigate.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Royal_Canadian_Navy" title="Royal Canadian Navy">Royal Canadian Navy</a> <a href="/wiki/Halifax-class_frigate" title="Halifax-class frigate"><i>Halifax</i>-class</a> frigate <a href="/wiki/HMCS_Regina_(FFH_334)" title="HMCS Regina (FFH 334)">HMCS <i>Regina</i></a> escorting the American aircraft carrier <a href="/wiki/USS_Kitty_Hawk_(CV-63)" title="USS Kitty Hawk (CV-63)">USS <i>Kitty Hawk</i></a> across the Pacific Ocean in 2008</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Chilean_frigate_Almirante_Lynch.jpg"><img alt="" class="thumbimage" data-file-height="2000" data-file-width="3000" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chilean_frigate_Almirante_Lynch.jpg/220px-Chilean_frigate_Almirante_Lynch.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chilean_frigate_Almirante_Lynch.jpg/330px-Chilean_frigate_Almirante_Lynch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chilean_frigate_Almirante_Lynch.jpg/440px-Chilean_frigate_Almirante_Lynch.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Chilean_frigate_Almirante_Lynch.jpg" title="Enlarge"></a></div>
+The <a href="/wiki/Ecuadorian_Navy" title="Ecuadorian Navy">Ecuadorian Navy</a> <a href="/wiki/Leander-class_frigate" title="Leander-class frigate"><i>Leander</i>-class</a> frigate BAE <i>Morán Valverde</i>, formerly the <a href="/wiki/Chilean_Navy" title="Chilean Navy">Chilean Navy</a>'s <a href="/wiki/Chilean_frigate_Almirante_Lynch_(PFG-07)" title="Chilean frigate Almirante Lynch (PFG-07)"><i>Almirante Lynch</i></a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:USS_Leahy_DLG-16.jpg"><img alt="" class="thumbimage" data-file-height="705" data-file-width="900" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/USS_Leahy_DLG-16.jpg/220px-USS_Leahy_DLG-16.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/USS_Leahy_DLG-16.jpg/330px-USS_Leahy_DLG-16.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/USS_Leahy_DLG-16.jpg/440px-USS_Leahy_DLG-16.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:USS_Leahy_DLG-16.jpg" title="Enlarge"></a></div>
+<a href="/wiki/USS_Leahy_(DLG-16)" title="USS Leahy (DLG-16)">USS <i>Leahy</i></a> departing <a class="mw-redirect" href="/wiki/San_Diego,_California" title="San Diego, California">San Diego</a>, California, in May 1978. She was classified as a guided-missile frigate (DLG-16) until 1975, when she was reclassified as a <a class="mw-redirect" href="/wiki/Guided-missile_cruiser" title="Guided-missile cruiser">guided-missile cruiser</a> (CG-16).</div>
+</div>
+</div>
+<p>The introduction of the <a href="/wiki/Surface-to-air_missile" title="Surface-to-air missile">surface-to-air missile</a> after World War II made relatively small ships effective for anti-aircraft warfare: the "guided missile frigate." In the USN, these vessels were called "<a href="/wiki/Ocean_escort" title="Ocean escort">ocean escorts</a>" and <a href="/wiki/Hull_classification_symbol" title="Hull classification symbol">designated</a> "DE" or "DEG" until 1975 – a holdover from the World War II <a href="/wiki/Destroyer_escort" title="Destroyer escort">destroyer escort</a> or "DE". The <a href="/wiki/Royal_Canadian_Navy" title="Royal Canadian Navy">Royal Canadian Navy</a> and British <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> maintained the use of the term "frigate"; likewise, the French Navy refers to missile-equipped ship, up to cruiser-sized ships (<a href="/wiki/Suffren-class_frigate" title="Suffren-class frigate"><i>Suffren</i></a>, <a href="/wiki/Tourville-class_frigate" title="Tourville-class frigate"><i>Tourville</i></a>, and <a href="/wiki/Horizon-class_frigate" title="Horizon-class frigate"><i>Horizon</i> classes</a>), by the name of "frégate", while smaller units are named <i><a href="/wiki/Aviso" title="Aviso">aviso</a></i>. The Soviet Navy used the term "guard-ship" (<i>сторожевой корабль</i>).</p>
+<p>From the 1950s to the 1970s, the <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a> commissioned ships classed as guided missile frigates (<a href="/wiki/Hull_classification_symbol" title="Hull classification symbol">hull classification symbol</a> DLG or DLGN, literally meaning guided missile <a href="/wiki/Destroyer_leader" title="Destroyer leader">destroyer leaders</a>), which were actually anti-aircraft warfare <a href="/wiki/Cruiser" title="Cruiser">cruisers</a> built on <a href="/wiki/Destroyer" title="Destroyer">destroyer</a>-style hulls. These had one or two twin launchers per ship for the <a href="/wiki/RIM-2_Terrier" title="RIM-2 Terrier">RIM-2 Terrier</a> missile, upgraded to the <a href="/wiki/RIM-67_Standard" title="RIM-67 Standard">RIM-67 Standard</a> ER missile in the 1980s. This type of ship was intended primarily to defend aircraft carriers against anti-ship <a href="/wiki/Cruise_missile" title="Cruise missile">cruise missiles</a>, augmenting and eventually replacing converted World War II cruisers (CAG/CLG/CG) in this role. The guided missile frigates also had an anti-submarine capability that most of the World War II cruiser conversions lacked. Some of these ships — <a href="/wiki/USS_Bainbridge_(CGN-25)" title="USS Bainbridge (CGN-25)"><i>Bainbridge</i></a> and <a href="/wiki/USS_Truxtun_(CGN-35)" title="USS Truxtun (CGN-35)"><i>Truxtun</i></a> along with the <a href="/wiki/California-class_cruiser" title="California-class cruiser"><i>California</i></a> and <a href="/wiki/Virginia-class_cruiser" title="Virginia-class cruiser"><i>Virginia</i> classes</a> — were <a href="/wiki/United_States_naval_reactors" title="United States naval reactors">nuclear-powered</a> (DLGN).<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> These "frigates" were roughly mid-way in size between cruisers and destroyers. This was similar to the use of the term "frigate" during the age of sail during which it referred to a medium-sized warship, but it was inconsistent with conventions used by other contemporary navies which regarded frigates as being smaller than destroyers. During the <a href="/wiki/United_States_Navy_1975_ship_reclassification" title="United States Navy 1975 ship reclassification">1975 ship reclassification</a>, the large American frigates were redesignated as guided missile cruisers or destroyers (CG/CGN/DDG), while <a href="/wiki/Ocean_escort" title="Ocean escort">ocean escorts</a> (the American classification for ships smaller than destroyers, with hull symbol DE/DEG (<a href="/wiki/Destroyer_escort" title="Destroyer escort">destroyer escort</a>)) were reclassified as frigates (FF/FFG), sometimes incorrectly called "fast frigates". In the late 1970s the <a class="mw-redirect" href="/wiki/US_Navy" title="US Navy">US Navy</a> introduced the 51-ship <a href="/wiki/Oliver_Hazard_Perry-class_frigate" title="Oliver Hazard Perry-class frigate"><i>Oliver Hazard Perry</i>-class</a> guided missile frigates (FFG), the last of which was decommissioned in 2015, although some serve in other navies.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> By 1995 the older guided missile cruisers and destroyers were replaced by the <a href="/wiki/Ticonderoga-class_cruiser" title="Ticonderoga-class cruiser"><i>Ticonderoga</i>-class cruisers</a> and <a href="/wiki/Arleigh_Burke-class_destroyer" title="Arleigh Burke-class destroyer"><i>Arleigh Burke</i>-class destroyers</a>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<p>One of the most successful post-1945 designs was the British <a href="/wiki/Leander-class_frigate" title="Leander-class frigate"><i>Leander</i>-class</a> frigate, which was used by several navies. Laid down in 1959, the <i>Leander</i>s were based on the previous <a href="/wiki/Whitby-class_frigate" title="Whitby-class frigate">Type 12 anti-submarine frigate</a> but equipped for anti-aircraft use as well. They were used by the UK into the 1990s, at which point some were sold onto other navies. The <i>Leander</i> design, or improved versions of it, were licence-built for other navies as well.</p>
+<p>Nearly all modern frigates are equipped with some form of offensive or defensive missiles, and as such are rated as guided-missile frigates (FFG). Improvements in surface-to-air missiles (e.g., the <a href="/wiki/Eurosam" title="Eurosam">Eurosam</a> <a class="mw-redirect" href="/wiki/MBDA_Aster" title="MBDA Aster">Aster 15</a>) allow modern guided-missile frigates to form the core of many modern navies and to be used as a fleet defence platform, without the need for specialised anti-air warfare frigates.</p>
+<h3><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=11" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Royal Navy <a href="/wiki/Salisbury-class_frigate" title="Salisbury-class frigate">Type 61 <i>Salisbury</i> class</a> were <a href="/wiki/Radar_picket" title="Radar picket">"air direction"</a> frigates equipped to track aircraft. To this end they had reduced armament compared to the <a href="/wiki/Leopard-class_frigate" title="Leopard-class frigate">Type 41 <i>Leopard</i>-class</a> air-defence frigates built on the same hull.</p>
+<p>Multi-role frigates like the <a href="/wiki/MEKO_200" title="MEKO 200">MEKO 200</a>, <a href="/wiki/Anzac-class_frigate" title="Anzac-class frigate"><i>Anzac</i></a> and <a href="/wiki/Halifax-class_frigate" title="Halifax-class frigate"><i>Halifax</i> classes</a> are designed for navies needing warships deployed in a variety of situations that a general frigate class would not be able to fulfill and not requiring the need for deploying <a href="/wiki/Destroyer" title="Destroyer">destroyers</a>.</p>
+<h3><span class="mw-headline" id="Anti-submarine_role">Anti-submarine role</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=12" title="Edit section: Anti-submarine role">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:HMS_Somerset_(F82).jpg"><img alt="" class="thumbimage" data-file-height="1309" data-file-width="1745" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/HMS_Somerset_%28F82%29.jpg/220px-HMS_Somerset_%28F82%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/HMS_Somerset_%28F82%29.jpg/330px-HMS_Somerset_%28F82%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/HMS_Somerset_%28F82%29.jpg/440px-HMS_Somerset_%28F82%29.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:HMS_Somerset_(F82).jpg" title="Enlarge"></a></div>
+<a href="/wiki/HMS_Somerset_(F82)" title="HMS Somerset (F82)">HMS <i>Somerset</i></a> of the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a>. <a href="/wiki/Type_23_frigate" title="Type 23 frigate">Type 23 frigates</a> were built for <a href="/wiki/Anti-submarine_warfare" title="Anti-submarine warfare">anti-submarine warfare</a> but are capable multi-purpose ships.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></div>
+</div>
+</div>
+<p>At the opposite end of the spectrum, some frigates are specialised for <a href="/wiki/Anti-submarine_warfare" title="Anti-submarine warfare">anti-submarine warfare</a>. Increasing submarine speeds towards the end of World War II (see <a class="mw-redirect" href="/wiki/German_Type_XXI_submarine" title="German Type XXI submarine">German Type XXI submarine</a>) greatly reduced the margin of speed superiority of frigate over submarine. The frigate could no longer be slow and powered by mercantile machinery and consequently postwar frigates, such as the <a href="/wiki/Type_12_frigate" title="Type 12 frigate"><i>Whitby</i> class</a>, were faster.</p>
+<p>Such ships carry improved <a href="/wiki/Sonar" title="Sonar">sonar</a> equipment, such as the <a href="/wiki/Sonar#Anti-submarine_warfare" title="Sonar">variable depth sonar</a> or <a href="/wiki/Towed_array_sonar" title="Towed array sonar">towed array</a>, and specialised weapons such as <a href="/wiki/Torpedo" title="Torpedo">torpedoes</a>, forward-throwing weapons such as <a href="/wiki/Limbo_(weapon)" title="Limbo (weapon)">Limbo</a> and missile-carried anti-submarine torpedoes such as <a class="mw-redirect" href="/wiki/ASROC" title="ASROC">ASROC</a> or <a href="/wiki/Ikara_(missile)" title="Ikara (missile)">Ikara</a>. Surface-to-air missiles such as <a href="/wiki/AIM-7_Sparrow#Sea_Sparrow" title="AIM-7 Sparrow">Sea Sparrow</a> and surface-to-surface missiles such as <a href="/wiki/Exocet" title="Exocet">Exocet</a> give them defensive and offensive capabilities. The Royal Navy's original <a href="/wiki/Type_22_frigate" title="Type 22 frigate">Type 22 frigate</a> is an example of a specialised anti-submarine warfare frigate.</p>
+<p>Especially for anti-submarine warfare, most modern frigates have a <a href="/wiki/Helipad" title="Helipad">landing deck</a> and <a href="/wiki/Hangar" title="Hangar">hangar</a> aft to operate <a href="/wiki/Helicopter" title="Helicopter">helicopters</a>, eliminating the need for the frigate to close with unknown sub-surface threats, and using fast helicopters to attack nuclear submarines which may be faster than surface warships. For this task the helicopter is equipped with sensors such as <a href="/wiki/Sonobuoy" title="Sonobuoy">sonobuoys</a>, wire-mounted dipping sonar and <a href="/wiki/Magnetic_anomaly_detector" title="Magnetic anomaly detector">magnetic anomaly detectors</a> to identify possible threats, and torpedoes or <a class="mw-redirect" href="/wiki/Depth-charge" title="Depth-charge">depth-charges</a> to attack them.</p>
+<p>With their onboard radar helicopters can also be used to reconnoitre over-the-horizon targets and, if equipped with <a href="/wiki/Anti-ship_missile" title="Anti-ship missile">anti-ship missiles</a> such as <a class="mw-redirect" href="/wiki/Penguin_missile" title="Penguin missile">Penguin</a> or <a href="/wiki/Sea_Skua" title="Sea Skua">Sea Skua</a>, to attack them. The helicopter is also invaluable for <a href="/wiki/Search_and_rescue" title="Search and rescue">search and rescue</a> operation and has largely replaced the use of <a href="/wiki/Dinghy" title="Dinghy">small boats</a> or the <a href="/wiki/Underway_replenishment" title="Underway replenishment">jackstay rig</a> for such duties as transferring personnel, mail and cargo between ships or to shore. With helicopters these tasks can be accomplished faster and less dangerously, and without the need for the frigate to slow down or change course.</p>
+<h3><span class="mw-headline" id="Further_developments">Further developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=13" title="Edit section: Further developments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Shivalik_Maiden_Sortie.jpg"><img alt="" class="thumbimage" data-file-height="732" data-file-width="1199" height="134" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Shivalik_Maiden_Sortie.jpg/220px-Shivalik_Maiden_Sortie.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Shivalik_Maiden_Sortie.jpg/330px-Shivalik_Maiden_Sortie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Shivalik_Maiden_Sortie.jpg/440px-Shivalik_Maiden_Sortie.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Shivalik_Maiden_Sortie.jpg" title="Enlarge"></a></div>
+The stealthy <a href="/wiki/Shivalik-class_frigate" title="Shivalik-class frigate"><i>Shivalik</i>-class</a> frigate of the Indian Navy</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FS_Surcouf.jpg"><img alt="" class="thumbimage" data-file-height="548" data-file-width="746" height="162" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FS_Surcouf.jpg/220px-FS_Surcouf.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FS_Surcouf.jpg/330px-FS_Surcouf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FS_Surcouf.jpg/440px-FS_Surcouf.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FS_Surcouf.jpg" title="Enlarge"></a></div>
+The stealthy <a href="/wiki/La_Fayette-class_frigate" title="La Fayette-class frigate"><i>La Fayette</i> class</a> of the French Navy that introduced the Stealth Technology in the early 1990's</div>
+</div>
+</div>
+<p><a href="/wiki/Stealth_technology" title="Stealth technology">Stealth technology</a> has been introduced in modern frigate design by the French <a href="/wiki/La_Fayette-class_frigate" title="La Fayette-class frigate"><i>La Fayette</i> class</a> design.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Frigate shapes are designed to offer a minimal <a class="mw-redirect" href="/wiki/Radar_cross_section" title="Radar cross section">radar cross section</a>, which also lends them good air penetration; the maneuverability of these frigates has been compared to that of sailing ships. Examples are the French <a href="/wiki/Horizon-class_frigate" title="Horizon-class frigate"><i>Horizon</i> class</a> with the <a class="mw-redirect" href="/wiki/Aster_15" title="Aster 15">Aster 15</a> and <a class="mw-redirect" href="/wiki/Aster_30" title="Aster 30">Aster 30</a> missile for anti-missile capabilities, the <a href="/wiki/Germany" title="Germany">German</a> <a class="mw-redirect" href="/wiki/F125-class_frigate" title="F125-class frigate">F125</a> and <a href="/wiki/Sachsen-class_frigate" title="Sachsen-class frigate"><i>Sachsen</i>-class</a> frigates, the <a href="/wiki/Turkey" title="Turkey">Turkish</a> <a href="/wiki/TF2000-class_frigate" title="TF2000-class frigate">TF2000</a> type frigates with the <a class="mw-redirect" href="/wiki/MK-41_VLS" title="MK-41 VLS">MK-41 VLS</a>, and the <a href="/wiki/India" title="India">Indian</a> <a href="/wiki/Shivalik-class_frigate" title="Shivalik-class frigate"><i>Shivalik</i></a> and <a href="/wiki/Talwar-class_frigate" title="Talwar-class frigate"><i>Talwar</i> classes</a> with the <a class="mw-redirect" href="/wiki/Brahmos_missile" title="Brahmos missile">Brahmos missile</a> system.</p>
+<p>The modern <a href="/wiki/French_Navy" title="French Navy">French Navy</a> applies the term first-class frigate and second-class frigate to both destroyers and frigates in service. Pennant numbers remain divided between F-series numbers for those ships internationally recognised as frigates and D-series pennant numbers for those more traditionally recognised as destroyers. This can result in some confusion as certain classes are referred to as frigates in French service while similar ships in other navies are referred to as destroyers. This also results in some recent classes of French ships such as the <a href="/wiki/Horizon-class_frigate" title="Horizon-class frigate"><i>Horizon</i> class</a> being among the largest in the world to carry the rating of frigate.</p>
+<p>In the <a href="/wiki/German_Navy" title="German Navy">German Navy</a>, frigates were used to replace aging destroyers; however in size and role the new German frigates exceed the former class of destroyers. The future German <a class="mw-redirect" href="/wiki/F125-class_frigate" title="F125-class frigate">F125-class frigate</a> will be the largest class of frigates worldwide with a displacement of more than 7,200 tons. The same was done in the <a href="/wiki/Spanish_Navy" title="Spanish Navy">Spanish Navy</a>, which went ahead with the deployment of the first <a class="mw-redirect" href="/wiki/Aegis_combat_system" title="Aegis combat system">Aegis</a> frigates, the <a href="/wiki/%C3%81lvaro_de_Baz%C3%A1n-class_frigate" title="Álvaro de Bazán-class frigate"><i>Álvaro de Bazán</i>-class</a> frigates.</p>
+<h3><span id="Littoral_Combat_Ship_(LCS)"></span><span class="mw-headline" id="Littoral_Combat_Ship_.28LCS.29">Littoral Combat Ship (LCS)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=14" title="Edit section: Littoral Combat Ship (LCS)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:USS_Independence_LCS-2_at_pierce_(cropped).jpg"><img alt="" class="thumbimage" data-file-height="874" data-file-width="1309" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/USS_Independence_LCS-2_at_pierce_%28cropped%29.jpg/220px-USS_Independence_LCS-2_at_pierce_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/USS_Independence_LCS-2_at_pierce_%28cropped%29.jpg/330px-USS_Independence_LCS-2_at_pierce_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/USS_Independence_LCS-2_at_pierce_%28cropped%29.jpg/440px-USS_Independence_LCS-2_at_pierce_%28cropped%29.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:USS_Independence_LCS-2_at_pierce_(cropped).jpg" title="Enlarge"></a></div>
+<a href="/wiki/USS_Independence_(LCS-2)" title="USS Independence (LCS-2)">USS <i>Independence</i></a>, an <a href="/wiki/Independence-class_littoral_combat_ship" title="Independence-class littoral combat ship"><i>Independence</i>-class</a> <a href="/wiki/Littoral_combat_ship" title="Littoral combat ship">littoral combat ship</a> of the United States Navy</div>
+</div>
+</div>
+<p>Some new classes of ships similar to <a href="/wiki/Corvette" title="Corvette">corvettes</a> are optimized for high-speed deployment and combat with small craft rather than combat between equal opponents; an example is the U.S. <a class="mw-redirect" href="/wiki/Littoral_Combat_Ship" title="Littoral Combat Ship">Littoral Combat Ship</a> (LCS). As of 2015, all <a href="/wiki/Oliver_Hazard_Perry-class_frigate" title="Oliver Hazard Perry-class frigate"><i>Oliver Hazard Perry</i>-class</a> frigates in the United States Navy have been decommissioned, and their role partially being assumed by the new LCS. While the LCS class ships are smaller than the frigate class they will replace, they offer a similar degree of weaponry while requiring less than half the crew complement and offering a top speed of over 40 knots (74 km/h; 46 mph). A major advantage for the LCS ships is that they are designed around specific mission modules allowing them to fulfill a variety of roles. The modular system also allows for most upgrades to be performed ashore and installed later into the ship, keeping the ships available for deployment for the maximum time.</p>
+<p>The latest U.S. deactivation plans means that this is the first time that the U.S. Navy has been without a frigate class of ships since 1943 (technically <a href="/wiki/USS_Constitution" title="USS Constitution">USS <i>Constitution</i></a> is rated as a frigate and is still in commission, but does not count towards Navy force levels).<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<p>The remaining 20 LCSs to be acquired from 2019 and onwards that will be enhanced will be designated as frigates, and existing ships given modifications may also have their classification changed to <i>FF</i> as well.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Frigates_in_preservation">Frigates in preservation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=15" title="Edit section: Frigates in preservation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A few nations have frigates on display as museum ships. They are:</p>
+<dl>
+<dt>Sail frigates</dt>
+</dl>
+<ul>
+<li><a href="/wiki/USS_Constitution" title="USS Constitution">USS <i>Constitution</i></a> in <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/United_States" title="United States">United States</a>. Second oldest commissioned warship in the world, oldest commissioned warship afloat. Active as the flagship of the <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a>.</li>
+<li><a href="/wiki/HMS_Unicorn_(1824)" title="HMS Unicorn (1824)">HMS <i>Unicorn</i> (1824)</a> in <a href="/wiki/Dundee" title="Dundee">Dundee</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>.</li>
+<li><a href="/wiki/HMS_Trincomalee" title="HMS Trincomalee">HMS <i>Trincomalee</i></a> in <a href="/wiki/Hartlepool" title="Hartlepool">Hartlepool</a>, <a href="/wiki/England" title="England">England</a>.</li>
+<li><a href="/wiki/HMS_Surprise_(replica_ship)" title="HMS Surprise (replica ship)">HMS <i>Surprise</i></a> in <a href="/wiki/San_Diego" title="San Diego">San Diego</a>, <a href="/wiki/United_States" title="United States">United States</a>, replica of HMS <i>Rose</i>, used in the film, <a href="/wiki/Master_and_Commander:_The_Far_Side_of_the_World" title="Master and Commander: The Far Side of the World">Master and Commander: The Far Side of the World</a>.</li>
+<li>NRP <i><a class="mw-redirect" href="/wiki/Dom_Fernando_II_e_Gloria" title="Dom Fernando II e Gloria">Dom Fernando II e Gloria</a></i> in <a href="/wiki/Almada" title="Almada">Almada</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a>.</li>
+<li>FS <a href="/wiki/French_frigate_Hermione_(1779)" title="French frigate Hermione (1779)"><i>Hermione</i></a>, sailing replica of the <i>Hermione</i> of 1779 which carried <a href="/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette" title="Gilbert du Motier, Marquis de Lafayette">Lafayette</a> to the United States.</li>
+<li>Russian <a class="mw-redirect" href="/wiki/Standart_(frigate)" title="Standart (frigate)">frigate Standart</a>, a sailing replica of Russia's first warship, homeported in <a href="/wiki/Saint_Petersburg" title="Saint Petersburg">Saint Petersburg</a>, <a href="/wiki/Russia" title="Russia">Russia</a>.</li>
+</ul>
+<dl>
+<dt>Steam frigates</dt>
+</dl>
+<ul>
+<li><a href="/wiki/HNLMS_Bonaire" title="HNLMS Bonaire">HNLMS <i>Bonaire</i></a> in <a href="/wiki/Den_Helder" title="Den Helder">Den Helder</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>.</li>
+<li><a class="mw-redirect" href="/wiki/Danish_steam_frigate_Jylland" title="Danish steam frigate Jylland">Danish steam frigate Jylland</a> in <a href="/wiki/Ebeltoft" title="Ebeltoft">Ebeltoft</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a>.</li>
+<li><a class="mw-redirect" href="/wiki/Japanese_frigate_Kaiyo_Maru" title="Japanese frigate Kaiyo Maru">Japanese frigate Kaiyo Maru</a>, replica in <a class="mw-redirect" href="/wiki/Esashi,_Hokkaid%C5%8D_(Hiyama)" title="Esashi, Hokkaidō (Hiyama)">Esashi</a>, <a href="/wiki/Japan" title="Japan">Japan</a>.</li>
+<li><a href="/wiki/HMS_Warrior_(1860)" title="HMS Warrior (1860)">HMS <i>Warrior</i> (1860)</a> in <a href="/wiki/Portsmouth" title="Portsmouth">Portsmouth</a>, <a href="/wiki/England" title="England">England</a>.</li>
+</ul>
+<dl>
+<dt>Modern frigates</dt>
+</dl>
+<ul>
+<li><a href="/wiki/HDMS_Peder_Skram_(F352)" title="HDMS Peder Skram (F352)">HDMS <i>Peder Skram</i> (F352)</a> in <a href="/wiki/Copenhagen" title="Copenhagen">Copenhagen</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a>.</li>
+<li><a href="/wiki/HMAS_Diamantina_(K377)" title="HMAS Diamantina (K377)">HMAS <i>Diamantina</i> (K377)</a> in <a href="/wiki/Queensland" title="Queensland">Queensland</a>, <a href="/wiki/Australia" title="Australia">Australia</a>.</li>
+<li>TCG <i>Ege</i> (F256), formerly <a href="/wiki/USS_Ainsworth_(FF-1090)" title="USS Ainsworth (FF-1090)">USS <i>Ainsworth</i> (FF-1090)</a> in <a class="mw-redirect" href="/wiki/Izmit" title="Izmit">Izmit</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>.</li>
+<li>ROKS <i>Taedong</i> (PF-63), formerly <a href="/wiki/USS_Tacoma_(PF-3)" title="USS Tacoma (PF-3)">USS <i>Tacoma</i> (PF-3)</a> in <a href="/wiki/South_Korea" title="South Korea">South Korea</a>.</li>
+<li>HTMS <i>Tachin</i> (PF-1), formerly <a href="/wiki/USS_Glendale_(PF-36)" title="USS Glendale (PF-36)">USS <i>Glendale</i> (PF-36)</a> in <a class="mw-redirect" href="/wiki/Nakhon_Nayok" title="Nakhon Nayok">Nakhon Nayok</a>, <a href="/wiki/Thailand" title="Thailand">Thailand</a>.</li>
+<li>HTMS <i>Prasase</i> (PF-2), formerly <a href="/wiki/USS_Gallup_(PF-47)" title="USS Gallup (PF-47)">USS <i>Gallup</i> (PF-47)</a> in <a href="/wiki/Rayong_Province" title="Rayong Province">Rayong Province</a>, <a href="/wiki/Thailand" title="Thailand">Thailand</a>.</li>
+<li>CNS <i>Nanchong</i> (FF-502) in <a href="/wiki/Qingdao" title="Qingdao">Qingdao</a>, <a href="/wiki/China" title="China">China</a>.</li>
+<li>CNS <i>Yingtan</i> (FFG-531) in <a href="/wiki/Qingdao" title="Qingdao">Qingdao</a>, <a href="/wiki/China" title="China">China</a>.</li>
+<li>CNS <i>Xiamen</i> (FFG-515) in <a href="/wiki/Taizhou,_Jiangsu" title="Taizhou, Jiangsu">Taizhou</a>, <a href="/wiki/China" title="China">China</a>.</li>
+<li><a href="/wiki/HMS_President_(1918)" title="HMS President (1918)">HMS <i>President</i> (1918)</a> in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a>.</li>
+<li><a href="/wiki/HMS_Wellington_(U65)" title="HMS Wellington (U65)">HMS <i>Wellington</i> (U65)</a> in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a>.</li>
+<li>RFS <i>Druzhnyy</i> in <a href="/wiki/Moscow" title="Moscow">Moscow</a>, <a href="/wiki/Russia" title="Russia">Russia</a>.</li>
+<li><a href="/wiki/HNoMS_Narvik_(F304)" title="HNoMS Narvik (F304)">HNoMS <i>Narvik</i> (F304)</a> in <a href="/wiki/Horten" title="Horten">Horten</a>, <a href="/wiki/Norway" title="Norway">Norway</a>.</li>
+<li><a href="/wiki/KD_Rahmat" title="KD Rahmat">KD Rahmat</a> in <a href="/wiki/Lumut,_Malaysia" title="Lumut, Malaysia">Lumut, Malaysia</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_frigate_classes" title="List of frigate classes">List of frigate classes</a></li>
+<li><a href="/wiki/United_States_Navy_1975_ship_reclassification" title="United States Navy 1975 ship reclassification">United States Navy 1975 ship reclassification</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_frigates_of_the_Second_World_War" title="List of frigates of the Second World War">List of frigates of the Second World War</a></li>
+</ul>
+<h3><span class="mw-headline" id="Lists">Lists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=17" title="Edit section: Lists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/List_of_frigate_classes_by_country" title="List of frigate classes by country">List of frigate classes by country</a></div>
+<p>Note that Algerian, Tripolitan and Tunisian sail frigates are listed under Turkey. All Italian city-state frigates are listed under Italy.</p>
+<table class="wikitable">
+<tr>
+<th width="25%">Sail frigates<br/>
+(1640–1860)</th>
+<th width="25%">Steam frigates<br/>
+(1830–1880)</th>
+<th width="25%">Modern frigates<br/>
+(1940–present)</th>
+<th width="25%">Current frigates</th>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/List_of_Austrian_sail_frigates" title="List of Austrian sail frigates">Austria</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Austrian_steam_frigates&amp;action=edit&amp;redlink=1" title="List of Austrian steam frigates (page does not exist)">Austria</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/Royal_Australian_Navy" title="Royal Australian Navy">Australia</a></td>
+<td><a class="mw-redirect" href="/wiki/List_of_current_ships_of_the_Royal_Australian_Navy" title="List of current ships of the Royal Australian Navy">Australia</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/List_of_active_ships_of_the_Bangladesh_Navy" title="List of active ships of the Bangladesh Navy">Bangladesh</a></td>
+<td><a href="/wiki/List_of_active_ships_of_the_Bangladesh_Navy" title="List of active ships of the Bangladesh Navy">Bangladesh</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/List_of_ships_of_the_Canadian_Navy#1939-1945_.28World_War_II.29" title="List of ships of the Canadian Navy">Canada</a></td>
+<td><a href="/wiki/Halifax-class_frigate" title="Halifax-class frigate">Canada</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/Ships_of_the_People%27s_Liberation_Army_Navy#Frigates" title="Ships of the People's Liberation Army Navy">China</a></td>
+<td><a href="/wiki/Type_054A_frigate" title="Type 054A frigate">China</a></td>
+</tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=List_of_Republic_of_Ragusa_sail_frigates&amp;action=edit&amp;redlink=1" title="List of Republic of Ragusa sail frigates (page does not exist)">Republic of Ragusa (Croatia)</a></td>
+<td></td>
+<td></td>
+<td><a class="new" href="/w/index.php?title=List_of_Croatian_Navy&amp;action=edit&amp;redlink=1" title="List of Croatian Navy (page does not exist)">Croatia</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_Danish_sail_frigates" title="List of Danish sail frigates">Denmark</a></td>
+<td><a class="new" href="/w/index.php?title=List_if_Danish_steam_frigates&amp;action=edit&amp;redlink=1" title="List if Danish steam frigates (page does not exist)">Denmark</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Danish_modern_frigates&amp;action=edit&amp;redlink=1" title="List of Danish modern frigates (page does not exist)">Denmark</a></td>
+<td><a href="/wiki/List_of_active_Royal_Danish_Navy_ships" title="List of active Royal Danish Navy ships">Denmark</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_Egyptian_sail_frigates" title="List of Egyptian sail frigates">Egypt</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Egyptian_steam_frigates&amp;action=edit&amp;redlink=1" title="List of Egyptian steam frigates (page does not exist)">Egypt</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/List_of_Finnish_modern_frigates" title="List of Finnish modern frigates">Finland</a></td>
+<td></td>
+</tr>
+<tr>
+<td align="center" colspan="4"><a href="/wiki/List_of_French_sail_frigates" title="List of French sail frigates">France</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_German_sail_frigates" title="List of German sail frigates">Germany</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_German_steam_frigates&amp;action=edit&amp;redlink=1" title="List of German steam frigates (page does not exist)">Germany</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_German_modern_frigates&amp;action=edit&amp;redlink=1" title="List of German modern frigates (page does not exist)">Germany</a></td>
+<td><a class="mw-redirect" href="/wiki/List_of_German_current_frigates" title="List of German current frigates">Germany</a></td>
+</tr>
+<tr>
+<td align="center" colspan="4"><a href="/wiki/List_of_frigates_of_the_Hellenic_Navy" title="List of frigates of the Hellenic Navy">Greece</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/Shivalik_class_frigate" title="Shivalik class frigate">India</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/Current_Iranian_Navy_vessels" title="Current Iranian Navy vessels">Iran</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/List_of_Italian_sail_frigates" title="List of Italian sail frigates">Italy</a></td>
+<td><a href="/wiki/List_of_Italian_steam_frigates" title="List of Italian steam frigates">Italy</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Italian_modern_frigates&amp;action=edit&amp;redlink=1" title="List of Italian modern frigates (page does not exist)">Italy</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Italian_current_frigates&amp;action=edit&amp;redlink=1" title="List of Italian current frigates (page does not exist)">Italy</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/Royal_Malaysian_Navy#Frigate" title="Royal Malaysian Navy">Malaysia</a></td>
+<td><a href="/wiki/Royal_Malaysian_Navy#Frigate" title="Royal Malaysian Navy">Malaysia</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="new" href="/w/index.php?title=List_of_Equipment_in_Myanmar_Navy&amp;action=edit&amp;redlink=1" title="List of Equipment in Myanmar Navy (page does not exist)">Myanmar</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Equipment_in_Myanmar_Navy&amp;action=edit&amp;redlink=1" title="List of Equipment in Myanmar Navy (page does not exist)">Myanmar</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_Netherlands_sail_frigates" title="List of Netherlands sail frigates">Netherlands</a></td>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/List_of_Netherlands_current_frigates" title="List of Netherlands current frigates">Netherlands</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="new" href="/w/index.php?title=List_of_New_Zealand_Modern_frigates&amp;action=edit&amp;redlink=1" title="List of New Zealand Modern frigates (page does not exist)">New Zealand</a></td>
+<td><a class="mw-redirect" href="/wiki/New_Zealand_Navy" title="New Zealand Navy">New Zealand</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="new" href="/w/index.php?title=List_of_Norwegian_frigates&amp;action=edit&amp;redlink=1" title="List of Norwegian frigates (page does not exist)">Norway</a></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/F-22P" title="F-22P">Pakistan</a></td>
+<td><a class="mw-redirect" href="/wiki/F-22P" title="F-22P">Pakistan</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_Peruvian_steam_frigates" title="List of Peruvian steam frigates">Peru</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Peruvian_modern_frigates&amp;action=edit&amp;redlink=1" title="List of Peruvian modern frigates (page does not exist)">Peru</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Peruvian_current_frigates&amp;action=edit&amp;redlink=1" title="List of Peruvian current frigates (page does not exist)">Peru</a></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/List_of_ships_of_the_Philippine_Navy" title="List of ships of the Philippine Navy">Philippines</a></td>
+<td><a href="/wiki/List_of_ships_of_the_Philippine_Navy" title="List of ships of the Philippine Navy">Philippines</a></td>
+</tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=List_of_Portuguese_sail_frigates&amp;action=edit&amp;redlink=1" title="List of Portuguese sail frigates (page does not exist)">Portugal</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Portuguese_steam_frigates&amp;action=edit&amp;redlink=1" title="List of Portuguese steam frigates (page does not exist)">Portugal</a></td>
+<td><a href="/wiki/List_of_ships_of_the_Portuguese_Navy#Frigates" title="List of ships of the Portuguese Navy">Portugal</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=List_of_Moldavian_sail_frigates&amp;action=edit&amp;redlink=1" title="List of Moldavian sail frigates (page does not exist)">Romania</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Danubian_Principalities_steam_frigates&amp;action=edit&amp;redlink=1" title="List of Danubian Principalities steam frigates (page does not exist)">Romania</a></td>
+<td><a href="/wiki/Romanian_Naval_Forces#Fleet" title="Romanian Naval Forces">Romania</a></td>
+<td><a href="/wiki/Romanian_Naval_Forces#Fleet" title="Romanian Naval Forces">Romania</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_Russian_sail_frigates" title="List of Russian sail frigates">Russia</a></td>
+<td><a href="/wiki/List_of_Russian_steam_frigates" title="List of Russian steam frigates">Russia</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Russian_modern_frigates&amp;action=edit&amp;redlink=1" title="List of Russian modern frigates (page does not exist)">Russia</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Russian_current_frigates&amp;action=edit&amp;redlink=1" title="List of Russian current frigates (page does not exist)">Russia</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="/wiki/Republic_of_Singapore_Navy#Frigates" title="Republic of Singapore Navy">Singapore</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/Valour_class_frigate" title="Valour class frigate">South Africa</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_Spanish_sail_frigates" title="List of Spanish sail frigates">Spain</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Spanish_steam_frigates&amp;action=edit&amp;redlink=1" title="List of Spanish steam frigates (page does not exist)">Spain</a></td>
+<td><a href="/wiki/List_of_retired_Spanish_Navy_ships#Frigates" title="List of retired Spanish Navy ships">Spain</a></td>
+<td><a href="/wiki/List_of_active_Spanish_Navy_ships#Frigates_.2810.29" title="List of active Spanish Navy ships">Spain</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_Swedish_sail_frigates" title="List of Swedish sail frigates">Sweden</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/List_of_Turkish_sail_frigates" title="List of Turkish sail frigates">Turkey</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_Turkish_steam_frigates&amp;action=edit&amp;redlink=1" title="List of Turkish steam frigates (page does not exist)">Turkey</a></td>
+<td><a class="mw-redirect" href="/wiki/List_of_Turkish_frigates" title="List of Turkish frigates">Turkey</a></td>
+<td><a class="mw-redirect" href="/wiki/List_of_Turkish_current_frigates" title="List of Turkish current frigates">Turkey</a></td>
+</tr>
+<tr>
+<td align="center" colspan="4"><a href="/wiki/List_of_frigate_classes_of_the_Royal_Navy" title="List of frigate classes of the Royal Navy">United Kingdom</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_sailing_frigates_of_the_United_States_Navy" title="List of sailing frigates of the United States Navy">United States</a></td>
+<td><a href="/wiki/List_of_steam_frigates_of_the_United_States_Navy" title="List of steam frigates of the United States Navy">United States</a></td>
+<td><a href="/wiki/List_of_frigates_of_the_United_States_Navy" title="List of frigates of the United States Navy">United States</a></td>
+<td><a href="/wiki/List_of_frigates_of_the_United_States_Navy" title="List of frigates of the United States Navy">United States</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/List_of_frigates_of_the_ROC_Navy" title="List of frigates of the ROC Navy">Republic of China (Taiwan)</a></td>
+<td><a class="mw-redirect" href="/wiki/List_of_frigates_of_the_ROC_Navy" title="List of frigates of the ROC Navy">Republic of China (Taiwan)</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a class="new" href="/w/index.php?title=List_of_frigate_classes_of_the_Royal_Yugoslav_Navy&amp;action=edit&amp;redlink=1" title="List of frigate classes of the Royal Yugoslav Navy (page does not exist)">Yugoslavia</a></td>
+<td><a class="new" href="/w/index.php?title=List_of_frigate_classes_of_the_SFR_Yugoslav_Navy&amp;action=edit&amp;redlink=1" title="List of frigate classes of the SFR Yugoslav Navy (page does not exist)">Yugoslavia</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also_2">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_Escorteurs_of_the_French_Navy" title="List of Escorteurs of the French Navy">List of Escorteurs of the French Navy</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=20" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-Henderson-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Henderson_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Henderson_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Henderson, James: <i>Frigates Sloops &amp; Brigs</i>. Pen &amp; Sword Books, London, 2005. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84415-301-0" title="Special:BookSources/1-84415-301-0">1-84415-301-0</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Rodger (2004) p. 216</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Geofrrey Parker, <i>The Military Revolution: Military Innovation and the Rise of the West 1500–1800</i>, p. 99</span></li>
+<li id="cite_note-Breen-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Breen_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Breen_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Breen, Colin; Forsythe, Wes (2007). "The French Shipwreck La Surveillante, Lost in Bantry Bay, Ireland, in 1797". <i>Historical Archaeology</i>. Society for Historical Archaeology. <b>41</b> (3): 41–42. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/25617454" rel="nofollow">25617454</a>. <span style="font-size:90%; color:#555">(Subscription required (<span style="border-bottom:1px dotted;cursor:help" title="The site requires a paid subscription to access this page.">help</span>))</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Historical+Archaeology&amp;rft.atitle=The+French+Shipwreck+La+Surveillante%2C+Lost+in+Bantry+Bay%2C+Ireland%2C+in+1797&amp;rft.volume=41&amp;rft.issue=3&amp;rft.pages=41-42&amp;rft.date=2007&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F25617454&amp;rft.aulast=Breen&amp;rft.aufirst=Colin&amp;rft.au=Forsythe%2C+Wes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Archibald.2C_Roger_1997-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Archibald.2C_Roger_1997_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Archibald.2C_Roger_1997_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Archibald, Roger. 1997. Six ships that shook the world. American Heritage of Invention &amp; Technology 13, (2): 24.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Lavery, Brian (1989). <i>Nelson's Navy: The Ships, Men and Organisation 1793–1815</i>. Annapolis: Naval Institute Press. pp. 49, 298–300. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-59114-611-9" title="Special:BookSources/1-59114-611-9">1-59114-611-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nelson%27s+Navy%3A+The+Ships%2C+Men+and+Organisation+1793%E2%80%931815&amp;rft.place=Annapolis&amp;rft.pages=49%2C+298-300&amp;rft.pub=Naval+Institute+Press&amp;rft.date=1989&amp;rft.isbn=1-59114-611-9&amp;rft.aulast=Lavery&amp;rft.aufirst=Brian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-EB-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-EB_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EB_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EB_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>Encyclopædia Britannica</i>. <b>17</b>. p. 469.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pages=469&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">ARG. <a class="external text" href="http://www.military-today.com/navy/top_10_frigates.htm" rel="nofollow">"Top 10 Frigates | Military-Today.com"</a>. <i>www.military-today.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.military-today.com&amp;rft.atitle=Top+10+Frigates+%7C+Military-Today.com&amp;rft.au=ARG&amp;rft_id=http%3A%2F%2Fwww.military-today.com%2Fnavy%2Ftop_10_frigates.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.prinzeugen.com/FRIND.htm" rel="nofollow">prinzeugen.com "Frigate: An Online Photo Album".</a> Retrieved on: 11 February 2008.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Gardiner, Robert, ed., <i>Conway's All the World's Fighting Ships, 1922–1946</i>, New York: Mayflower Books, 1980, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8317-0303-2" title="Special:BookSources/0-8317-0303-2">0-8317-0303-2</a>, p. 149.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Bauer and Roberts, pp. 215-217</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Bauer and Roberts, pp. 251-252</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Gardiner and Chumbley, pp. 580-585</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.royalnavy.mod.uk/operations-and-support/surface-fleet/type-23-frigates/" rel="nofollow">http://www.royalnavy.mod.uk/operations-and-support/surface-fleet/type-23-frigates/</a> Type 23 frigates at the Royal Navy website</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.militaryfactory.com/ships/frigates.asp" rel="nofollow">"Navy Frigate Warships"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Navy+Frigate+Warships&amp;rft_id=http%3A%2F%2Fwww.militaryfactory.com%2Fships%2Ffrigates.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Larter, David (2 July 2014). <a class="external text" href="http://www.militarytimes.com/article/20140702/NEWS04/307020082/Decommissioning-plan-pulls-all-frigates-from-fleet-by-end-FY-15" rel="nofollow">"Decommissioning plan pulls all frigates from fleet by end of FY '15"</a>. <i>Militarytimes.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Militarytimes.com&amp;rft.atitle=Decommissioning+plan+pulls+all+frigates+from+fleet+by+end+of+FY+%2715&amp;rft.date=2014-07-02&amp;rft.aulast=Larter&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.militarytimes.com%2Farticle%2F20140702%2FNEWS04%2F307020082%2FDecommissioning-plan-pulls-all-frigates-from-fleet-by-end-FY-15&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a class="external text" href="http://news.usni.org/2015/01/15/sna-modified-littoral-combat-ship-class-changed-fast-frigate" rel="nofollow">SNA: Modified Littoral Combat Ships to be Designated Frigates</a> – News.USNI.org, 15 January 2015</span></li>
+</ol>
+</div>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=21" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation book"><a href="/wiki/K._Jack_Bauer" title="K. Jack Bauer">Bauer, K. Jack</a>; Roberts, Stephen S. (1991). <i>Register of Ships of the U.S. Navy, 1775-1990: Major Combatants</i>. <a href="/wiki/Westport,_Connecticut" title="Westport, Connecticut">Westport, Connecticut</a>: Greenwood Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-313-26202-0" title="Special:BookSources/0-313-26202-0">0-313-26202-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Register+of+Ships+of+the+U.S.+Navy%2C+1775-1990%3A+Major+Combatants&amp;rft.place=Westport%2C+Connecticut&amp;rft.pub=Greenwood+Press&amp;rft.date=1991&amp;rft.isbn=0-313-26202-0&amp;rft.aulast=Bauer&amp;rft.aufirst=K.+Jack&amp;rft.au=Roberts%2C+Stephen+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></li>
+<li>Bennett, G. (2001)<i>The Battle of Trafalgar</i>, Barnsley (2004). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84415-107-7" title="Special:BookSources/1-84415-107-7">1-84415-107-7</a></li>
+<li>Constam, Angus &amp; Bryan, Tony, British Napoleonic Ship-Of-The-Line, Osprey Publishing, 184176308X</li>
+<li><cite class="citation book">Gardiner, Robert; Chumbley, Stephen (1995). <i>Conway's All the World's Fighting Ships 1947-1995</i>. London: Conway Maritime Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-55750-132-7" title="Special:BookSources/1-55750-132-7">1-55750-132-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Conway%27s+All+the+World%27s+Fighting+Ships+1947-1995&amp;rft.place=London&amp;rft.pub=Conway+Maritime+Press&amp;rft.date=1995&amp;rft.isbn=1-55750-132-7&amp;rft.aulast=Gardiner&amp;rft.aufirst=Robert&amp;rft.au=Chumbley%2C+Stephen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrigate"><span style="display:none;"> </span></span></li>
+<li>Gardiner, Robert &amp; Lambert, Andrew, (Editors), (2001) <i>Steam, Steel and Shellfire: The Steam Warship, 1815–1905</i> (Conway's History of the Ship series), Book Sales,</li>
+<li>Gresham, John D. "The swift and sure steeds of the fighting sail fleet were its dashing frigates", <i>Military Heritage</i> magazine, (John D. Gresham, Military Heritage, February 2002, Volume 3, No.4, pp. 12 to 17 and p. 87).</li>
+<li><a class="mw-redirect" href="/wiki/Rodger,_N._A._M." title="Rodger, N. A. M.">Rodger, N. A. M.</a> <i>The Command of the Ocean, a Naval History of Britain 1649–1815</i>, London (2004). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7139-9411-8" title="Special:BookSources/0-7139-9411-8">0-7139-9411-8</a></li>
+<li><a href="/wiki/Andrew_Lambert" title="Andrew Lambert">Lambert, Andrew</a> (1984) <i>Battleships in Transition, the Creation of the Steam Battlefleet 1815–1860</i>, published Conway Maritime Press, . <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-85177-315-X" title="Special:BookSources/0-85177-315-X">0-85177-315-X</a></li>
+<li>Lavery, Brian (1989) <i>Nelson's Navy: The Ships, Men and Organisation 1793–1815</i>. Annapolis, Md.: Naval Institute Press, . <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-59114-611-9" title="Special:BookSources/1-59114-611-9">1-59114-611-9</a>.</li>
+<li>Lavery, Brian (1983) <i>The Ship of the Line, Volume 1: The Development of the Battlefleet, 1650–1850</i>. Annapolis, Md.: Naval Institute Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87021-631-7" title="Special:BookSources/0-87021-631-7">0-87021-631-7</a>.</li>
+<li>Lavery, Brian. (1984) <i>The Ship of the Line, Volume 2: Design, Construction and Fittings</i>. Annapolis, Md.: <a class="mw-redirect" href="/wiki/Naval_Institute_Press" title="Naval Institute Press">Naval Institute Press</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87021-953-7" title="Special:BookSources/0-87021-953-7">0-87021-953-7</a>.</li>
+<li>Mahan, A.T., (2007) <i>The Influence of Sea Power Upon History 1660–1783</i>, Cosimo, Inc.,</li>
+<li>Marriott, Leo. <i>Royal Navy Frigates 1945–1983</i>, Ian Allan, 1983, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7110-1322-5" title="Special:BookSources/0-7110-1322-5">0-7110-1322-5</a></li>
+<li>Macfarquhar, Colin &amp; Gleig, George (eds.), ((1797)) <i>Encyclopædia Britannica: Or, A Dictionary of Arts, Sciences, and Miscellaneous Literature</i>, London, Volume 17, Third Edition.</li>
+<li>Rodger, N.A.M. ((2004)) <i>The Command of the Ocean, a Naval History of Britain 1649–1815</i>, London . <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7139-9411-8" title="Special:BookSources/0-7139-9411-8">0-7139-9411-8</a></li>
+<li>Sondhaus, L. <i>Naval Warfare, 1815–1914</i></li>
+<li>Winfield, Rif. (1997) <i>The 50-Gun Ship</i>. London: Caxton Editions, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84067-365-6" title="Special:BookSources/1-84067-365-6">1-84067-365-6</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-86176-025-6" title="Special:BookSources/1-86176-025-6">1-86176-025-6</a></li>
+<li>Lavery, B. (2004) <i>Ship</i>, Dorling Kindersly, Ltd . <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-4053-1154-1" title="Special:BookSources/1-4053-1154-1">1-4053-1154-1</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frigate&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/frigate" title="wiktionary:Special:Search/frigate">frigate</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Frigates" title="commons:Category:Frigates">Frigates</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.battleships-cruisers.co.uk/frigates.htm" rel="nofollow">Frigates</a> from battleships-cruisers.co.uk – history and pictures of United Kingdom frigates since World War II</li>
+<li><a class="external text" href="http://www.destroyersonline.com/usndd/fftypes.htm?" rel="nofollow">Frigates</a> from Destroyers OnLine – pictures, history, crews of United States frigates since 1963</li>
+<li><a class="external text" href="http://www.greatgridlock.net/Sqrigg/squrig2.html" rel="nofollow">The Development of the Full-Rigged Ship From the Carrack to the Full-Rigger</a></li>
+</ul>
+<div aria-labelledby="Rating_system_of_the_Royal_Navy" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Rating_system_of_the_Royal_Navy" title="Template:Rating system of the Royal Navy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Rating_system_of_the_Royal_Navy" title="Template talk:Rating system of the Royal Navy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Rating_system_of_the_Royal_Navy&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Rating_system_of_the_Royal_Navy" style="font-size:114%;margin:0 4em"><a href="/wiki/Rating_system_of_the_Royal_Navy" title="Rating system of the Royal Navy">Rating system of the Royal Navy</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ship_of_the_line" title="Ship of the line">Ships of the line</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First-rate" title="First-rate">First-rate</a></li>
+<li><a href="/wiki/Second-rate" title="Second-rate">Second-rate</a></li>
+<li><a href="/wiki/Third-rate" title="Third-rate">Third-rate</a></li>
+<li><a href="/wiki/Fourth-rate" title="Fourth-rate">Fourth-rate</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Battleship1.jpg"><img alt="Battleship1.jpg" data-file-height="728" data-file-width="604" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Battleship1.jpg/75px-Battleship1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Battleship1.jpg/112px-Battleship1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Battleship1.jpg/149px-Battleship1.jpg 2x" width="75"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Frigates</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fifth-rate" title="Fifth-rate">Fifth-rate</a></li>
+<li><a href="/wiki/Sixth-rate" title="Sixth-rate">Sixth-rate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Others</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Post_ship" title="Post ship">Post ship</a></li>
+<li><a href="/wiki/Gunboat" title="Gunboat">Gunboat</a></li>
+<li><a href="/wiki/Sloop-of-war" title="Sloop-of-war">Sloop-of-war</a></li>
+<li><a href="/wiki/Brig" title="Brig">Brig</a></li>
+<li><a href="/wiki/Cutter_(boat)" title="Cutter (boat)">Cutter</a></li>
+<li><a href="/wiki/Schooner" title="Schooner">Schooner</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Types_of_sailing_vessels_and_rigs" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sailing_vessels_and_rigs" title="Template:Sailing vessels and rigs"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sailing_vessels_and_rigs" title="Template talk:Sailing vessels and rigs"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sailing_vessels_and_rigs&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Types_of_sailing_vessels_and_rigs" style="font-size:114%;margin:0 4em">Types of <a href="/wiki/Sailing" title="Sailing">sailing</a> vessels and <a href="/wiki/Rigging" title="Rigging">rigs</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Sailing rigs</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bermuda_rig" title="Bermuda rig">Bermuda rig</a></li>
+<li><a href="/wiki/Crab_claw_sail" title="Crab claw sail">Crab claw</a></li>
+<li><a href="/wiki/Fore-and-aft_rig" title="Fore-and-aft rig">Fore-and-aft rig</a></li>
+<li><a href="/wiki/Gaff_rig" title="Gaff rig">Gaff rig</a></li>
+<li><a href="/wiki/Junk_rig" title="Junk rig">Junk rig</a></li>
+<li><a href="/wiki/Lateen" title="Lateen">Lateen rig</a></li>
+<li><a href="/wiki/Lug_sail" title="Lug sail">Lug rig</a></li>
+<li><a href="/wiki/Mast_aft_rig" title="Mast aft rig">Mast aft rig</a></li>
+<li><a href="/wiki/Square_rig" title="Square rig">Square rig</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">By <a href="/wiki/Sail_plan" title="Sail plan">sail plan</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barque" title="Barque">Barque</a></li>
+<li><a href="/wiki/Brig" title="Brig">Brig</a></li>
+<li><a href="/wiki/Brigantine" title="Brigantine">Brigantine</a></li>
+<li><a href="/wiki/Barquentine" title="Barquentine">Barquentine</a></li>
+<li><a href="/wiki/Catboat" title="Catboat">Catboat</a></li>
+<li><a href="/wiki/Cutter_(boat)" title="Cutter (boat)">Cutter</a></li>
+<li><a href="/wiki/Full-rigged_ship" title="Full-rigged ship">Full-rigged ship</a></li>
+<li><a href="/wiki/Jackass-barque" title="Jackass-barque">Jackass-barque</a></li>
+<li><a href="/wiki/Ketch" title="Ketch">Ketch</a></li>
+<li><a href="/wiki/Mistico_(boat)" title="Mistico (boat)">Mistico</a></li>
+<li><a href="/wiki/Schooner" title="Schooner">Schooner</a></li>
+<li><a href="/wiki/Sloop" title="Sloop">Sloop</a></li>
+<li><a href="/wiki/Snow_(ship)" title="Snow (ship)">Snow</a></li>
+<li><a href="/wiki/Yawl" title="Yawl">Yawl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Multihull" title="Multihull">Multihull</a> vessels</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%CA%BBalia" title="ʻalia">ʻalia</a></li>
+<li><a href="/wiki/Amatasi" title="Amatasi">Amatasi</a></li>
+<li><a href="/wiki/Baurua" title="Baurua">Baurua</a></li>
+<li><a href="/wiki/Camakau" title="Camakau">Camakau</a></li>
+<li><a href="/wiki/Catamaran" title="Catamaran">Catamaran</a></li>
+<li><a href="/wiki/Drua" title="Drua">Drua</a></li>
+<li><a href="/wiki/Jukung" title="Jukung">Jukung</a></li>
+<li><a href="/wiki/Kaep" title="Kaep">Kaep</a></li>
+<li><a href="/wiki/Kalia_(watercraft)" title="Kalia (watercraft)">Kalia</a></li>
+<li><a href="/wiki/Lakatoi" title="Lakatoi">Lakatoi</a></li>
+<li><a href="/wiki/Outrigger_canoe" title="Outrigger canoe">Outrigger canoe</a></li>
+<li><a href="/wiki/Pahi" title="Pahi">Pahi</a></li>
+<li><a href="/wiki/Paraw" title="Paraw">Paraw</a></li>
+<li><a href="/wiki/Pentamaran" title="Pentamaran">Pentamaran</a></li>
+<li><a href="/wiki/Proa" title="Proa">Proa</a></li>
+<li><a href="/wiki/Quadrimaran" title="Quadrimaran">Quadrimaran</a></li>
+<li><a href="/wiki/Takia_(watercraft)" title="Takia (watercraft)">Takia</a></li>
+<li><a href="/wiki/Tepukei" title="Tepukei">Tepukei</a></li>
+<li><a href="/wiki/Tipairua" title="Tipairua">Tipairua</a></li>
+<li><a href="/wiki/Tongiaki" title="Tongiaki">Tongiaki</a></li>
+<li><a href="/wiki/Trimaran" title="Trimaran">Trimaran</a></li>
+<li><a href="/wiki/Ungalawa" title="Ungalawa">Ungalawa</a></li>
+<li><a href="/wiki/Va%27a-tele" title="Va'a-tele">Va'a-tele</a></li>
+<li><a href="/wiki/Vaka_katea" title="Vaka katea">Vaka katea</a></li>
+<li><a href="/wiki/Vinta" title="Vinta">Vinta</a></li>
+<li><a href="/wiki/Wa_(watercraft)" title="Wa (watercraft)">Wa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Naval &amp; merchant<br/>
+vessels<br/>
+(by origin date)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ancient</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boita" title="Boita">Boita</a></li>
+<li><a href="/wiki/Dhow" title="Dhow">Dhow</a></li>
+<li><a href="/wiki/Galley" title="Galley">Galley</a>
+<ul>
+<li><a href="/wiki/Penteconter" title="Penteconter">Penteconter</a></li>
+<li><a href="/wiki/Bireme" title="Bireme">Bireme</a></li>
+<li><a href="/wiki/Trireme" title="Trireme">Trireme</a></li>
+<li><a class="mw-redirect" href="/wiki/Quadriremes" title="Quadriremes">Quadriremes</a></li>
+<li><a href="/wiki/Tessarakonteres" title="Tessarakonteres">Tessarakonteres</a></li>
+<li><a href="/wiki/Dromon" title="Dromon">Dromon</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Junk_(ship)" title="Junk (ship)">Junk</a></li>
+<li><a href="/wiki/Mtepe" title="Mtepe">Mtepe</a></li>
+<li><a href="/wiki/Uru_(boat)" title="Uru (boat)">Uru</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Medieval</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Balinger" title="Balinger">Balinger</a></li>
+<li><a href="/wiki/Birlinn" title="Birlinn">Birlinn</a></li>
+<li><a href="/wiki/Cog_(ship)" title="Cog (ship)">Cog</a></li>
+<li><a href="/wiki/Hulk_(medieval_ship_type)" title="Hulk (medieval ship type)">Hulk</a></li>
+<li><a href="/wiki/Knarr" title="Knarr">Knarr</a></li>
+<li><a href="/wiki/Koch_(boat)" title="Koch (boat)">Koch</a></li>
+<li><a href="/wiki/Kondura_(ship)" title="Kondura (ship)">Kondura</a></li>
+<li><a href="/wiki/Longship" title="Longship">Longship</a></li>
+<li><a href="/wiki/Shitik" title="Shitik">Shitik</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">15th c.</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carrack" title="Carrack">Carrack</a></li>
+<li><a href="/wiki/Chinese_treasure_ship" title="Chinese treasure ship">Chinese treasure ship</a></li>
+<li><a href="/wiki/Caravel" title="Caravel">Caravel</a></li>
+<li><a href="/wiki/Hoy_(boat)" title="Hoy (boat)">Hoy</a></li>
+<li><a href="/wiki/Trabaccolo" title="Trabaccolo">Trabaccolo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">16th c.</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crommesteven" title="Crommesteven">Crommesteven</a></li>
+<li><a href="/wiki/Galiot" title="Galiot">Galiot</a></li>
+<li><a href="/wiki/Galleon" title="Galleon">Galleon</a></li>
+<li><a href="/wiki/Galleass" title="Galleass">Galleass</a></li>
+<li><a href="/wiki/Flyboat" title="Flyboat">Flyboat</a></li>
+<li><a href="/wiki/Fluyt" title="Fluyt">Fluyt</a></li>
+<li><a href="/wiki/Full-rigged_pinnace" title="Full-rigged pinnace">Full-rigged pinnace</a></li>
+<li><a href="/wiki/Lorcha_(boat)" title="Lorcha (boat)">Lorcha</a></li>
+<li><a href="/wiki/Man-of-war" title="Man-of-war">Man-of-war</a></li>
+<li><a href="/wiki/Patache" title="Patache">Patache</a></li>
+<li><a href="/wiki/Square-rigged_caravel" title="Square-rigged caravel">Square-rigged caravel (<i>round</i> or <i>de armada</i>)</a></li>
+<li><a href="/wiki/Xebec" title="Xebec">Xebec</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">17th c.</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bermuda_sloop" title="Bermuda sloop">Bermuda sloop</a></li>
+<li><a href="/wiki/Corvette" title="Corvette">Corvette</a></li>
+<li><a href="/wiki/East_Indiaman" title="East Indiaman">East Indiaman</a></li>
+<li><a class="mw-selflink selflink">Frigate</a></li>
+<li><a href="/wiki/Galeas" title="Galeas">Galeas</a></li>
+<li><a href="/wiki/Koff_(ship_type)" title="Koff (ship type)">Koff</a></li>
+<li><a href="/wiki/Pinisi" title="Pinisi">Pinisi</a></li>
+<li><a href="/wiki/Polacca" title="Polacca">Polacca</a></li>
+<li><a href="/wiki/Ship_of_the_line" title="Ship of the line">Ship of the line</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">18th c.</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bilander" title="Bilander">Bilander</a></li>
+<li><a href="/wiki/Clipper" title="Clipper">Clipper</a> (<a href="/wiki/Baltimore_Clipper" title="Baltimore Clipper">Baltimore Clipper</a>)</li>
+<li><a href="/wiki/Gallivat_(boat)" title="Gallivat (boat)">Gallivat</a></li>
+<li><a href="/wiki/Grab_(ship)" title="Grab (ship)">Grab</a></li>
+<li><a href="/wiki/Gundalow" title="Gundalow">Gundalow</a></li>
+<li><a href="/wiki/Seventy-four_(ship)" title="Seventy-four (ship)">74-gun</a></li>
+<li><a href="/wiki/Ship_of_the_line" title="Ship of the line">Ship of the line</a></li>
+<li><a href="/wiki/Sloop-of-war" title="Sloop-of-war">Sloop-of-war</a></li>
+<li><a href="/wiki/Sp%C3%A9ronare" title="Spéronare">Spéronare</a></li>
+<li><a href="/wiki/Trincadour" title="Trincadour">Trincadour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">19th c.</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blackwall_frigate" title="Blackwall frigate">Blackwall frigate</a></li>
+<li><a href="/wiki/Dutch_clipper" title="Dutch clipper">Dutch clipper</a></li>
+<li><a href="/wiki/Down_Easter_(ship)" title="Down Easter (ship)">Down Easter</a></li>
+<li><a href="/wiki/Elissa_(ship)" title="Elissa (ship)">Elissa</a></li>
+<li><a href="/wiki/Windjammer" title="Windjammer">Windjammer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Fishing vessels</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barca-longa" title="Barca-longa">Barca-longa</a></li>
+<li><a href="/wiki/Falku%C5%A1a" title="Falkuša">Falkuša</a></li>
+<li><a href="/wiki/Felucca" title="Felucca">Felucca</a></li>
+<li><a href="/wiki/Fifie" title="Fifie">Fifie</a></li>
+<li><a href="/wiki/Gableboat" title="Gableboat">Gableboat</a></li>
+<li><a href="/wiki/Herring_buss" title="Herring buss">Herring buss</a></li>
+<li><a href="/wiki/Jangada" title="Jangada">Jangada</a></li>
+<li><a href="/wiki/Lugger" title="Lugger">Lugger</a></li>
+<li><a href="/wiki/Masula_boat" title="Masula boat">Masula</a></li>
+<li><a href="/wiki/Nordland_(boat)" title="Nordland (boat)">Nordland</a></li>
+<li><a href="/wiki/Sixareen" title="Sixareen">Sixareen</a></li>
+<li><a class="mw-redirect" href="/wiki/Sgoth_Niseach" title="Sgoth Niseach">Sgoth</a></li>
+<li><a href="/wiki/Smack_(ship)" title="Smack (ship)">Smack</a></li>
+<li><a href="/wiki/Tartane" title="Tartane">Tartane</a></li>
+<li><a href="/wiki/Well_smack" title="Well smack">Well smack</a></li>
+<li><a href="/wiki/Yoal" title="Yoal">Yoal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Recreational vessels</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dinghy" title="Dinghy">Dinghy</a></li>
+<li><a href="/wiki/Mast_aft_rig" title="Mast aft rig">Mast aft rig</a></li>
+<li><a href="/wiki/Pocket_cruiser" title="Pocket cruiser">Pocket cruiser</a></li>
+<li><a href="/wiki/Sailing_hydrofoil" title="Sailing hydrofoil">Sailing hydrofoil</a></li>
+<li><a href="/wiki/Sportsboat" title="Sportsboat">Sportsboat</a></li>
+<li><a href="/wiki/Trailer_sailer" title="Trailer sailer">Trailer sailer</a></li>
+<li><a href="/wiki/James_Wharram" title="James Wharram">Wharrams</a></li>
+<li><a href="/wiki/Windsurfing" title="Windsurfing">Windsurfer</a></li>
+<li><a href="/wiki/Yacht" title="Yacht">Yacht</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Special terms</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Inflatable_boat" title="Inflatable boat">Inflatable</a></li>
+<li><a href="/wiki/Razee" title="Razee">Razee</a></li>
+<li><a href="/wiki/Sewn_boat" title="Sewn boat">Sewn</a></li>
+<li><a href="/wiki/Tall_ship" title="Tall ship">Tall ship</a></li>
+<li><a href="/wiki/Ultra_light_displacement_boat" title="Ultra light displacement boat">ULDB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Floating_restaurant" title="Floating restaurant">Floating restaurant</a></li>
+<li><a class="mw-redirect" href="/wiki/Bristol_Channel_Pilot_Cutter" title="Bristol Channel Pilot Cutter">Bristol Channel Pilot Cutter</a></li>
+<li><a href="/wiki/Fusta" title="Fusta">Fusta</a></li>
+<li><a href="/wiki/Mersey_flat" title="Mersey flat">Mersey flat</a></li>
+<li><a href="/wiki/Norfolk_punt" title="Norfolk punt">Norfolk punt</a></li>
+<li><a href="/wiki/Norfolk_wherry" title="Norfolk wherry">Norfolk wherry</a></li>
+<li><a href="/wiki/Pausik" title="Pausik">Pausik</a></li>
+<li><a href="/wiki/Pink_(ship)" title="Pink (ship)">Pink</a></li>
+<li><a href="/wiki/Pinnace_(ship%27s_boat)" title="Pinnace (ship's boat)">Pinnace (ship's boat)</a></li>
+<li><a href="/wiki/Pram_(ship)" title="Pram (ship)">Pram</a></li>
+<li><a href="/wiki/Scow" title="Scow">Scow</a></li>
+<li><a href="/wiki/Thames_sailing_barge" title="Thames sailing barge">Thames sailing barge</a></li>
+<li><a href="/wiki/Wherry" title="Wherry">Wherry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Naval_ships_and_warships_in_the_Late_Modern_period" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Warship_types_of_the_19th_%26_20th_centuries" title="Template:Warship types of the 19th &amp; 20th centuries"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Warship_types_of_the_19th_%26_20th_centuries" title="Template talk:Warship types of the 19th &amp; 20th centuries"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Warship_types_of_the_19th_%26_20th_centuries&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Naval_ships_and_warships_in_the_Late_Modern_period" style="font-size:114%;margin:0 4em"><a href="/wiki/Naval_ship" title="Naval ship">Naval ships</a> and <a href="/wiki/Warship" title="Warship">warships</a> in the <a href="/wiki/Modern_history#Late_modern_period" title="Modern history">Late Modern period</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_naval_ship_classes_in_service" title="List of naval ship classes in service">Naval ship classes in service</a>
+<ul>
+<li><a href="/wiki/List_of_submarine_classes_in_service" title="List of submarine classes in service">submarine</a></li>
+<li><a href="/wiki/List_of_auxiliary_ship_classes_in_service" title="List of auxiliary ship classes in service">auxiliary</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Maritime_geography" title="Maritime geography">Operational zones</a>
+<ul>
+<li><a href="/wiki/Blue-water_navy" title="Blue-water navy">Blue-water navy</a></li>
+<li><a href="/wiki/Brown-water_navy" title="Brown-water navy">Brown-water navy</a></li>
+<li><a href="/wiki/Green-water_navy" title="Green-water navy">Green-water navy</a></li>
+</ul>
+</li>
+<li>Gun placement
+<ul>
+<li><a class="mw-redirect" href="/wiki/Broadside_ironclad" title="Broadside ironclad">Broadside</a></li>
+<li><a href="/wiki/Central_battery_ship" title="Central battery ship">Central battery/casemate</a></li>
+<li><a href="/wiki/Turret_ship" title="Turret ship">Turretes</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aircraft_carrier" title="Aircraft carrier">Aircraft carriers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aircraft_cruiser" title="Aircraft cruiser">Aircraft cruiser</a></li>
+<li><a href="/wiki/Amphibious_assault_ship" title="Amphibious assault ship">Amphibious assault ship</a></li>
+<li><a href="/wiki/Anti-submarine_warfare_carrier" title="Anti-submarine warfare carrier">Anti-submarine warfare carrier</a></li>
+<li><a href="/wiki/Balloon_carrier" title="Balloon carrier">Balloon carrier</a></li>
+<li><a href="/wiki/CAM_ship" title="CAM ship">CAM ship</a></li>
+<li><a href="/wiki/Escort_carrier" title="Escort carrier">Escort carrier</a></li>
+<li><a href="/wiki/Fighter_catapult_ship" title="Fighter catapult ship">Fighter catapult ship</a></li>
+<li><a href="/wiki/Fleet_carrier" title="Fleet carrier">Fleet carrier</a></li>
+<li><a href="/wiki/Helicopter_carrier" title="Helicopter carrier">Helicopter carrier</a></li>
+<li><a href="/wiki/Light_aircraft_carrier" title="Light aircraft carrier">Light aircraft carrier</a></li>
+<li><a href="/wiki/Merchant_aircraft_carrier" title="Merchant aircraft carrier">Merchant aircraft carrier</a></li>
+<li><a href="/wiki/Seaplane_tender" title="Seaplane tender">Seaplane tender</a></li>
+<li><a href="/wiki/Submarine_aircraft_carrier" title="Submarine aircraft carrier">Submarine aircraft carrier</a></li>
+<li><a href="/wiki/Supercarrier" title="Supercarrier">Supercarrier</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Battleship" title="Battleship">Battleships</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coastal_defence_ship" title="Coastal defence ship">Coastal defence ship</a></li>
+<li><a href="/wiki/Dreadnought" title="Dreadnought">Dreadnought</a></li>
+<li><a href="/wiki/Fast_battleship" title="Fast battleship">Fast battleship</a></li>
+<li><a href="/wiki/Pre-dreadnought_battleship" title="Pre-dreadnought battleship">Pre-dreadnought battleship</a></li>
+<li><a href="/wiki/Dreadnought#Super-dreadnoughts" title="Dreadnought">Super-dreadnought</a> (<a href="/wiki/Standard-type_battleship" title="Standard-type battleship">Standard-type battleship</a>)</li>
+<li><a href="/wiki/Treaty_battleship" title="Treaty battleship">Treaty battleship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cruiser" title="Cruiser">Cruisers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Armored_cruiser" title="Armored cruiser">Armored cruiser</a></li>
+<li><a href="/wiki/Battlecruiser" title="Battlecruiser">Battlecruiser</a></li>
+<li><a href="/wiki/Flight_deck_cruiser" title="Flight deck cruiser">Flight deck cruiser</a></li>
+<li><a href="/wiki/Heavy_cruiser" title="Heavy cruiser">Heavy cruiser</a>
+<ul>
+<li><a href="/wiki/Deutschland-class_cruiser" title="Deutschland-class cruiser">Pocket battleship</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Light_cruiser" title="Light cruiser">Light cruiser</a></li>
+<li><a href="/wiki/Merchant_raider" title="Merchant raider">Merchant raider</a></li>
+<li><a href="/wiki/Protected_cruiser" title="Protected cruiser">Protected cruiser</a></li>
+<li><a href="/wiki/Strike_cruiser" title="Strike cruiser">Strike cruiser</a></li>
+<li><a href="/wiki/Torpedo_cruiser" title="Torpedo cruiser">Torpedo cruiser</a></li>
+<li><a href="/wiki/Unprotected_cruiser" title="Unprotected cruiser">Unprotected cruiser</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Escort</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aviso" title="Aviso">Aviso</a></li>
+<li><a href="/wiki/Convoy_rescue_ship" title="Convoy rescue ship">Convoy rescue ship</a></li>
+<li><a href="/wiki/Destroyer" title="Destroyer">Destroyer</a></li>
+<li><a href="/wiki/Destroyer_escort" title="Destroyer escort">Destroyer escort</a></li>
+<li><a href="/wiki/Destroyer_leader" title="Destroyer leader">Destroyer leader</a></li>
+<li><a href="/wiki/Escort_destroyer" title="Escort destroyer">Escort destroyer</a></li>
+<li><a class="mw-selflink selflink">Frigate</a></li>
+<li><a href="/wiki/Guided_missile_destroyer" title="Guided missile destroyer">Guided missile destroyer</a></li>
+<li><a href="/wiki/Kaib%C5%8Dkan" title="Kaibōkan">Kaibōkan</a></li>
+<li><a href="/wiki/Sloop-of-war" title="Sloop-of-war">Sloop</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amphibious_transport_dock" title="Amphibious transport dock">Amphibious transport dock</a></li>
+<li><a href="/wiki/Amphibious_warfare_ship" title="Amphibious warfare ship">Amphibious warfare ship</a></li>
+<li><a href="/wiki/Attack_transport" title="Attack transport">Attack transport</a></li>
+<li><a href="/wiki/Dock_landing_ship" title="Dock landing ship">Dock landing ship</a></li>
+<li><a href="/wiki/Landing_craft" title="Landing craft">Landing craft</a></li>
+<li><a href="/wiki/Landing_craft_carrier" title="Landing craft carrier">Landing craft carrier</a></li>
+<li><a href="/wiki/Landing_Craft_Support" title="Landing Craft Support">Landing Craft Support</a></li>
+<li><a class="mw-redirect" href="/wiki/Landing_Ship_Heavy" title="Landing Ship Heavy">Landing Ship Heavy</a></li>
+<li><a href="/wiki/Landing_ship,_infantry" title="Landing ship, infantry">Landing ship, infantry</a></li>
+<li><a href="/wiki/Landing_Ship_Medium" title="Landing Ship Medium">Landing Ship Medium</a></li>
+<li><a href="/wiki/Landing_Ship,_Tank" title="Landing Ship, Tank">Landing Ship, Tank</a></li>
+<li><a class="mw-redirect" href="/wiki/Landing_Ship_Vehicle" title="Landing Ship Vehicle">Landing Ship Vehicle</a></li>
+<li><a href="/wiki/Troopship" title="Troopship">Troopship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Patrol craft</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Armed_boarding_steamer" title="Armed boarding steamer">Armed boarding steamer</a></li>
+<li><a href="/wiki/Armed_yacht" title="Armed yacht">Armed yacht</a></li>
+<li><a href="/wiki/Coastal_Motor_Boat" title="Coastal Motor Boat">Coastal Motor Boat</a></li>
+<li><a href="/wiki/Corvette" title="Corvette">Corvette</a></li>
+<li><a href="/wiki/Gunboat" title="Gunboat">Gunboat</a></li>
+<li><a href="/wiki/Harbour_Defence_Motor_Launch" title="Harbour Defence Motor Launch">Harbour Defence Motor Launch</a></li>
+<li><a href="/wiki/Motor_Launch" title="Motor Launch">Motor Launch</a></li>
+<li><a href="/wiki/Naval_drifter" title="Naval drifter">Naval drifter</a></li>
+<li><a href="/wiki/Naval_trawler" title="Naval trawler">Naval trawler</a></li>
+<li><a href="/wiki/Ocean_boarding_vessel" title="Ocean boarding vessel">Ocean boarding vessel</a></li>
+<li><a href="/wiki/Patrol_boat" title="Patrol boat">Patrol boat</a></li>
+<li><a href="/wiki/Q-ship" title="Q-ship">Q-ship</a></li>
+<li><a href="/wiki/Steam_Gun_Boat" title="Steam Gun Boat">Steam Gun Boat</a></li>
+<li><a href="/wiki/Submarine_chaser" title="Submarine chaser">Submarine chaser</a></li>
+<li><a href="/wiki/Torpedo_boat" title="Torpedo boat">Torpedo boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Fast_attack_craft" title="Fast attack craft">Fast attack craft</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/E-boat" title="E-boat">E-boat</a></li>
+<li><a class="mw-redirect" href="/wiki/MAS_(boat)" title="MAS (boat)">MAS</a></li>
+<li><a href="/wiki/Motor_Gun_Boat" title="Motor Gun Boat">MGB</a></li>
+<li><a href="/wiki/Missile_boat" title="Missile boat">Missile boat</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat" title="Motor Torpedo Boat">MTB</a></li>
+<li><a href="/wiki/MT_explosive_motorboat" title="MT explosive motorboat">MTM</a></li>
+<li><a href="/wiki/MTSM_motor_torpedo_boat" title="MTSM motor torpedo boat">MTSM</a></li>
+<li><a href="/wiki/PT_boat" title="PT boat">PT boat</a></li>
+<li><a href="/wiki/Shin%27y%C5%8D-class_suicide_motorboat" title="Shin'yō-class suicide motorboat">Shin'yō</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Mine warfare</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Danlayer" title="Danlayer">Danlayer</a></li>
+<li><a href="/wiki/Destroyer_minesweeper" title="Destroyer minesweeper">Destroyer minesweeper</a></li>
+<li><a href="/wiki/Mine_countermeasures_vessel" title="Mine countermeasures vessel">Mine countermeasures vessel</a></li>
+<li><a href="/wiki/Mine_planter_(U.S._Army)" title="Mine planter (U.S. Army)">Mine planter</a></li>
+<li><a href="/wiki/Minehunter" title="Minehunter">Minehunter</a></li>
+<li><a href="/wiki/Minelayer" title="Minelayer">Minelayer</a></li>
+<li><a href="/wiki/Minesweeper" title="Minesweeper">Minesweeper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Command and support</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amenities_ship" title="Amenities ship">Amenities ship</a></li>
+<li><a href="/wiki/Ammunition_ship" title="Ammunition ship">Ammunition ship</a></li>
+<li><a href="/wiki/Auxiliary_repair_dock" title="Auxiliary repair dock">Auxiliary repair dock</a></li>
+<li><a href="/wiki/Auxiliary_ship" title="Auxiliary ship">Auxiliary ship</a></li>
+<li><a href="/wiki/Collier_(ship)" title="Collier (ship)">Collier</a></li>
+<li><a href="/wiki/Combat_stores_ship" title="Combat stores ship">Combat stores ship</a></li>
+<li><a href="/wiki/Command_ship" title="Command ship">Command ship</a></li>
+<li><a href="/wiki/Crane_vessel" title="Crane vessel">Crane vessel</a></li>
+<li><a href="/wiki/Depot_ship" title="Depot ship">Depot ship</a></li>
+<li><a href="/wiki/Destroyer_tender" title="Destroyer tender">Destroyer tender</a></li>
+<li><a href="/wiki/Dispatch_boat" title="Dispatch boat">Dispatch boat</a></li>
+<li><a href="/wiki/Fast_combat_support_ship" title="Fast combat support ship">Fast combat support ship</a></li>
+<li><a href="/wiki/General_stores_issue_ship" title="General stores issue ship">General stores issue ship</a></li>
+<li><a href="/wiki/Hospital_ship" title="Hospital ship">Hospital ship</a></li>
+<li><a href="/wiki/Tugboat" title="Tugboat">Naval tugboat</a></li>
+<li><a href="/wiki/Net_laying_ship" title="Net laying ship">Net laying ship</a></li>
+<li><a href="/wiki/Repair_ship" title="Repair ship">Repair ship</a></li>
+<li><a href="/wiki/Replenishment_oiler" title="Replenishment oiler">Replenishment oiler</a></li>
+<li><a href="/wiki/Submarine_tender" title="Submarine tender">Submarine tender</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Submarine" title="Submarine">Submarines</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Attack_submarine" title="Attack submarine">Attack submarine</a></li>
+<li><a href="/wiki/Ballistic_missile_submarine" title="Ballistic missile submarine">Ballistic missile submarine</a></li>
+<li><a href="/wiki/Coastal_submarine" title="Coastal submarine">Coastal submarine</a></li>
+<li><a href="/wiki/Cruise_missile_submarine" title="Cruise missile submarine">Cruise missile submarine</a></li>
+<li><a href="/wiki/Cruiser_submarine" title="Cruiser submarine">Cruiser submarine</a></li>
+<li><a href="/wiki/Deep-submergence_vehicle" title="Deep-submergence vehicle">Deep-submergence vehicle</a>
+<ul>
+<li><a href="/wiki/Deep-submergence_rescue_vehicle" title="Deep-submergence rescue vehicle">DSRV</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fleet_submarine" title="Fleet submarine">Fleet submarine</a></li>
+<li><a href="/wiki/Midget_submarine" title="Midget submarine">Midget submarine</a></li>
+<li><a href="/wiki/U-boat" title="U-boat">U-boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Miscellaneous</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arsenal_ship" title="Arsenal ship">Arsenal ship</a></li>
+<li><a href="/wiki/Barracks_ship" title="Barracks ship">Barracks ship</a></li>
+<li><a href="/wiki/Breastwork_monitor" title="Breastwork monitor">Breastwork monitor</a></li>
+<li><a href="/wiki/Capital_ship" title="Capital ship">Capital ship</a></li>
+<li><a href="/wiki/Flagship" title="Flagship">Flagship</a></li>
+<li><a href="/wiki/Guard_ship" title="Guard ship">Guard ship</a></li>
+<li><a href="/wiki/Littoral_combat_ship" title="Littoral combat ship">Littoral combat ship</a></li>
+<li><a href="/wiki/Monitor_(warship)" title="Monitor (warship)">Monitor</a></li>
+<li><a href="/wiki/River_monitor" title="River monitor">River monitor</a></li>
+<li><a href="/wiki/Training_ship" title="Training ship">Training ship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20171108023322
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.508 seconds
+Real time usage: 0.669 seconds
+Preprocessor visited node count: 7999/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 109916/2097152 bytes
+Template argument size: 10636/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.148/10.000 seconds
+Lua memory usage: 7.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  453.784      1 -total
+ 24.99%  113.407      1 Template:Reflist
+ 15.68%   71.143     13 Template:ISBN
+  8.51%   38.610      8 Template:Convert
+  8.09%   36.689      1 Template:IPAc-en
+  7.12%   32.330      1 Template:Cite_journal
+  6.44%   29.229      2 Template:Fix
+  5.89%   26.710     13 Template:Catalog_lookup_link
+  5.78%   26.216      1 Template:Citation_needed
+  4.78%   21.697      1 Template:About
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11464-0!canonical and timestamp 20171108023323 and revision id 809268147
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Frigate&amp;oldid=809268147">https://en.wikipedia.org/w/index.php?title=Frigate&amp;oldid=809268147</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ship_types" title="Category:Ship types">Ship types</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2012" title="Category:Use dmy dates from July 2012">Use dmy dates from July 2012</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2017" title="Category:Articles with unsourced statements from October 2017">Articles with unsourced statements from October 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements" title="Category:Articles with unsourced statements">Articles with unsourced statements</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Frigate" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Frigate" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Frigate" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Frigate" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Frigate">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Frigate&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Frigate&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Frigate" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Frigate" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Frigate&amp;oldid=809268147" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Frigate&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q161705" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Frigate&amp;id=809268147" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Frigate">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Frigate&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Frigate&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Frigates" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Fregat" hreflang="af" lang="af" title="Fregat – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%82%D8%A7%D8%B7%D8%A9" hreflang="ar" lang="ar" title="فرقاطة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-gn"><a class="interlanguage-link-target" href="https://gn.wikipedia.org/wiki/Mar%C3%A3mbotayga" hreflang="gn" lang="gn" title="Marãmbotayga – Guarani">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-bjn"><a class="interlanguage-link-target" href="https://bjn.wikipedia.org/wiki/Pargata" hreflang="bjn" lang="bjn" title="Pargata – Banjar">Bahasa Banjar</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/H%C5%8D%CD%98-%C5%8De-l%C4%81m" hreflang="zh-min-nan" lang="zh-min-nan" title="Hō͘-ōe-lām – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A4%D1%80%D1%8D%D0%B3%D0%B0%D1%82" hreflang="be" lang="be" title="Фрэгат – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%B0" hreflang="bg" lang="bg" title="Фрегата – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Fregata" hreflang="bs" lang="bs" title="Fregata – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Fourgadenn" hreflang="br" lang="br" title="Fourgadenn – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fragata" hreflang="ca" lang="ca" title="Fragata – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82" hreflang="cv" lang="cv" title="Фрегат – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Fregata" hreflang="cs" lang="cs" title="Fregata – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fregat" hreflang="da" lang="da" title="Fregat – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fregatte" hreflang="de" lang="de" title="Fregatte – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Fregatt" hreflang="et" lang="et" title="Fregatt – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A6%CF%81%CE%B5%CE%B3%CE%AC%CF%84%CE%B1" hreflang="el" lang="el" title="Φρεγάτα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fragata" hreflang="es" lang="es" title="Fragata – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Fregato" hreflang="eo" lang="eo" title="Fregato – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Fragata_(ontzia)" hreflang="eu" lang="eu" title="Fragata (ontzia) – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%88%DA%86%D9%87" hreflang="fa" lang="fa" title="ناوچه – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fr%C3%A9gate_(navire)" hreflang="fr" lang="fr" title="Frégate (navire) – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Fragata_(buque)" hreflang="gl" lang="gl" title="Fragata (buque) – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EA%B9%83" hreflang="ko" lang="ko" title="프리깃 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%97%E0%A4%9F" hreflang="hi" lang="hi" title="फ़्रिगट – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Fregata" hreflang="hr" lang="hr" title="Fregata – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Fregato" hreflang="io" lang="io" title="Fregato – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fregat" hreflang="id" lang="id" title="Fregat – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Freig%C3%A1ta" hreflang="is" lang="is" title="Freigáta – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Fregata_(nave)" hreflang="it" lang="it" title="Fregata (nave) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%99%D7%92%D7%98%D7%94" hreflang="he" lang="he" title="פריגטה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%A0%E1%83%94%E1%83%92%E1%83%90%E1%83%A2%E1%83%98" hreflang="ka" lang="ka" title="ფრეგატი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Fregate" hreflang="lv" lang="lv" title="Fregate – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Fregata" hreflang="lt" lang="lt" title="Fregata – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Fregatt" hreflang="hu" lang="hu" title="Fregatt – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Frigat" hreflang="ms" lang="ms" title="Frigat – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Fregat" hreflang="nl" lang="nl" title="Fregat – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%B2%E3%83%BC%E3%83%88" hreflang="ja" lang="ja" title="フリゲート – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fregatt" hreflang="no" lang="no" title="Fregatt – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fregatt" hreflang="nn" lang="nn" title="Fregatt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Fregata_(naviri)" hreflang="oc" lang="oc" title="Fregata (naviri) – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Fregata_(okr%C4%99t)" hreflang="pl" lang="pl" title="Fregata (okręt) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fragata" hreflang="pt" lang="pt" title="Fragata – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Fregat%C4%83" hreflang="ro" lang="ro" title="Fregată – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82" hreflang="ru" lang="ru" title="Фрегат – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Frigate" hreflang="sco" lang="sco" title="Frigate – Scots">Scots</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%AD%E0%B7%92_%E0%B7%83%E0%B6%B6%E0%B7%8A%E0%B6%B8%E0%B7%90%E0%B6%BB%E0%B7%93%E0%B6%B1_%E0%B6%86%E0%B6%BB%E0%B6%9A%E0%B7%8A%E0%B7%82%E0%B7%92%E0%B6%AD_%E0%B6%B1%E0%B7%8F%E0%B7%80%E0%B7%94%E0%B6%9A_%E0%B6%BA%E0%B7%94%E0%B6%B0_%E0%B6%9A%E0%B6%A7%E0%B6%BA%E0%B7%94%E0%B6%AD%E0%B7%94" hreflang="si" lang="si" title="ප්‍රති සබ්මැරීන ආරක්ෂිත නාවුක යුධ කටයුතු – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Frigate" hreflang="simple" lang="simple" title="Frigate – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Fregata_(novovek)" hreflang="sk" lang="sk" title="Fregata (novovek) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Fregata" hreflang="sl" lang="sl" title="Fregata – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%B0" hreflang="sr" lang="sr" title="Фрегата – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Fregata" hreflang="sh" lang="sh" title="Fregata – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Fregatti" hreflang="fi" lang="fi" title="Fregatti – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fregatt" hreflang="sv" lang="sv" title="Fregatt – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/F%C4%B1rkateyn" hreflang="tr" lang="tr" title="Fırkateyn – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82" hreflang="uk" lang="uk" title="Фрегат – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/T%C3%A0u_frigate" hreflang="vi" lang="vi" title="Tàu frigate – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%B7%A1%E9%98%B2%E8%89%A6" hreflang="zh-yue" lang="zh-yue" title="巡防艦 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B7%A1%E9%98%B2%E8%89%A6" hreflang="zh" lang="zh" title="巡防艦 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q161705#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 November 2017, at 02:33.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Frigate&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.508","walltime":"0.669","ppvisitednodes":{"value":7999,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":109916,"limit":2097152},"templateargumentsize":{"value":10636,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  453.784      1 -total"," 24.99%  113.407      1 Template:Reflist"," 15.68%   71.143     13 Template:ISBN","  8.51%   38.610      8 Template:Convert","  8.09%   36.689      1 Template:IPAc-en","  7.12%   32.330      1 Template:Cite_journal","  6.44%   29.229      2 Template:Fix","  5.89%   26.710     13 Template:Catalog_lookup_link","  5.78%   26.216      1 Template:Citation_needed","  4.78%   21.697      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.148","limit":"10.000"},"limitreport-memusage":{"value":7430581,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20171108023322","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

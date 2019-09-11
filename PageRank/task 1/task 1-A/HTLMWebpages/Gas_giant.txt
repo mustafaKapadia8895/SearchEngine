@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Gas giant - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gas_giant","wgTitle":"Gas giant","wgCurRevisionId":808103914,"wgRevisionId":808103914,"wgArticleId":44687845,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Gas giants","Types of planet"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gas_giant","wgRelevantArticleId":44687845,"wgRequestId":"Wf25HgpAAEYAAI8UIccAAABN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q121750","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/c1/Jupiter_New_Horizons.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gas_giant" rel="alternate"/>
+<link href="/w/index.php?title=Gas_giant&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Gas_giant&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Gas_giant" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gas_giant rootpage-Gas_giant vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Gas giant</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the band, see <a href="/wiki/Gas_Giants_(band)" title="Gas Giants (band)">Gas Giants (band)</a>.</div>
+<div class="thumb tmulti tright" style="background-color:light grey">
+<div class="thumbinner" style="width:234px;max-width:234px;background-color:light grey">
+<div class="tsingle" style="background-color:light grey;margin:1px;width:232px;max-width:232px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Jupiter_New_Horizons.jpg"><img alt="" data-file-height="549" data-file-width="579" height="218" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jupiter_New_Horizons.jpg/230px-Jupiter_New_Horizons.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jupiter_New_Horizons.jpg/345px-Jupiter_New_Horizons.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jupiter_New_Horizons.jpg/460px-Jupiter_New_Horizons.jpg 2x" width="230"/></a></div>
+<div class="thumbcaption" style="clear:left"><a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> photographed by <i><a href="/wiki/New_Horizons" title="New Horizons">New Horizons</a></i> in January 2007</div>
+</div>
+<div class="tsingle" style="background-color:light grey;margin:1px;width:232px;max-width:232px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Saturn_Equinox_09212014.jpg"><img alt="" data-file-height="4312" data-file-width="5720" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Saturn_Equinox_09212014.jpg/230px-Saturn_Equinox_09212014.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Saturn_Equinox_09212014.jpg/345px-Saturn_Equinox_09212014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Saturn_Equinox_09212014.jpg/460px-Saturn_Equinox_09212014.jpg 2x" width="230"/></a></div>
+<div class="thumbcaption" style="clear:left"><a href="/wiki/Saturn" title="Saturn">Saturn</a> at equinox, photographed by <i><a href="/wiki/Cassini%E2%80%93Huygens" title="Cassini–Huygens">Cassini</a></i> in August 2009</div>
+</div>
+</div>
+</div>
+<p>A <b>gas giant</b> is a <a href="/wiki/Giant_planet" title="Giant planet">giant planet</a> composed mainly of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and <a href="/wiki/Helium" title="Helium">helium</a>. <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> and <a href="/wiki/Saturn" title="Saturn">Saturn</a> are the gas giants of the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>. The term "gas giant" was originally synonymous with "giant planet", but in the 1990s it became known that <a href="/wiki/Uranus" title="Uranus">Uranus</a> and <a href="/wiki/Neptune" title="Neptune">Neptune</a> are really a distinct class of giant planet, being composed mainly of heavier volatile substances (which are referred to as "ices"). For this reason, Uranus and Neptune are now often classified in the separate category of <a href="/wiki/Ice_giant" title="Ice giant">ice giants</a>.</p>
+<p>Jupiter and Saturn consist mostly of hydrogen and helium, with heavier elements making up between 3 and 13 percent of the mass.<sup class="reference" id="cite_ref-Guillot_1-0"><a href="#cite_note-Guillot-1">[1]</a></sup> They are thought to consist of an outer layer of <a class="mw-redirect" href="/wiki/Molecular_hydrogen" title="Molecular hydrogen">molecular hydrogen</a> surrounding a layer of liquid <a href="/wiki/Metallic_hydrogen" title="Metallic hydrogen">metallic hydrogen</a>, with probably a molten rocky core. The outermost portion of their hydrogen atmosphere is characterized by many layers of visible clouds that are mostly composed of water and ammonia. The layer of metallic hydrogen makes up the bulk of each planet, and is referred to as "metallic" because the very large pressure turns hydrogen into an electrical conductor. The gas giants' cores are thought to consist of heavier elements at such high temperatures (20,000 <a href="/wiki/Kelvin" title="Kelvin">K</a>) and pressures that their properties are poorly understood.<sup class="reference" id="cite_ref-Guillot_1-1"><a href="#cite_note-Guillot-1">[1]</a></sup></p>
+<p>The defining differences between a <a href="/wiki/Brown_dwarf#Low-mass_brown_dwarfs_vs._high-mass_planets" title="Brown dwarf">very low-mass brown dwarf</a> and a gas giant (estimated at about 13 Jupiter masses) are debated.<sup class="reference" id="cite_ref-PT-June2008_2-0"><a href="#cite_note-PT-June2008-2">[2]</a></sup> One school of thought is based on formation; the other, on the physics of the interior.<sup class="reference" id="cite_ref-PT-June2008_2-1"><a href="#cite_note-PT-June2008-2">[2]</a></sup> Part of the debate concerns whether "brown dwarfs" must, by definition, have experienced <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">nuclear fusion</a> at some point in their history.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Terminology"><span class="tocnumber">1</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Extrasolar"><span class="tocnumber">3</span> <span class="toctext">Extrasolar</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Cold_gas_giants"><span class="tocnumber">3.1</span> <span class="toctext">Cold gas giants</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gas_dwarfs"><span class="tocnumber">3.2</span> <span class="toctext">Gas dwarfs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gas_giant&amp;action=edit&amp;section=1" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term <i>gas giant</i> was coined in 1952 by the science fiction writer <a href="/wiki/James_Blish" title="James Blish">James Blish</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> and was originally used to refer to all <a href="/wiki/Giant_planet" title="Giant planet">giant planets</a>. It is, arguably, something of a misnomer because throughout most of the volume of all giant planets, the pressure is so high that matter is not in gaseous form.<sup class="reference" id="cite_ref-ddl2011_4-0"><a href="#cite_note-ddl2011-4">[4]</a></sup> Other than solids in the core and the upper layers of the atmosphere, all matter is above the <a href="/wiki/Critical_point_(thermodynamics)#Pure_substances:_vapor.E2.80.93liquid_critical_point" title="Critical point (thermodynamics)">critical point</a>, where there is no distinction between liquids and gases. The term has nevertheless caught on, because planetary scientists typically use "rock", "gas", and "ice" as shorthands for classes of elements and compounds commonly found as planetary constituents, irrespective of what <a class="mw-redirect" href="/wiki/Phase_of_matter" title="Phase of matter">phase</a> the matter may appear in. In the outer Solar System, hydrogen and helium are referred to as "gases"; water, methane, and ammonia as "ices"; and silicates and metals as "rock". Because Uranus and Neptune are primarily composed of, in this terminology, ices, not gas, they are increasingly referred to as <a href="/wiki/Ice_giant" title="Ice giant">ice giants</a> and separated from the gas giants.</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gas_giant&amp;action=edit&amp;section=2" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Sudarsky%27s_gas_giant_classification" title="Sudarsky's gas giant classification">Sudarsky's gas giant classification</a></div>
+<p>Gas giants can, theoretically, be divided into five distinct classes according to their modeled physical atmospheric properties, and hence their appearance: ammonia clouds (I), water clouds (II), cloudless (III), alkali-metal clouds (IV), and silicate clouds (V). Jupiter and Saturn are both class I. <a href="/wiki/Hot_Jupiter" title="Hot Jupiter">Hot Jupiters</a> are class IV or V.</p>
+<h2><span class="mw-headline" id="Extrasolar">Extrasolar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gas_giant&amp;action=edit&amp;section=3" title="Edit section: Extrasolar">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Cold_gas_giants">Cold gas giants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gas_giant&amp;action=edit&amp;section=4" title="Edit section: Cold gas giants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A cold hydrogen-rich gas giant more massive than Jupiter but less than about 500 <a href="/wiki/Earth_mass" title="Earth mass"><i>M</i><sub>⊕</sub></a> (<span class="nowrap">1.6</span> <a href="/wiki/Jupiter_mass" title="Jupiter mass"><i>M</i><sub>J</sub></a>) will only be slightly larger in volume than Jupiter.<sup class="reference" id="cite_ref-Seager2007_5-0"><a href="#cite_note-Seager2007-5">[5]</a></sup> For masses above 500 <i>M</i><sub>⊕</sub>, <a href="/wiki/Gravity" title="Gravity">gravity</a> will cause the planet to shrink (see <a href="/wiki/Degenerate_matter" title="Degenerate matter">degenerate matter</a>).<sup class="reference" id="cite_ref-Seager2007_5-1"><a href="#cite_note-Seager2007-5">[5]</a></sup></p>
+<p><a href="/wiki/Kelvin%E2%80%93Helmholtz_mechanism" title="Kelvin–Helmholtz mechanism">Kelvin–Helmholtz heating</a> can cause a gas giant to radiate more energy than it receives from its host star.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-bagenal_7-0"><a href="#cite_note-bagenal-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Gas_dwarfs">Gas dwarfs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gas_giant&amp;action=edit&amp;section=5" title="Edit section: Gas dwarfs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Gas_dwarf" title="Gas dwarf">Gas dwarf</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Mini-Neptune" title="Mini-Neptune">Mini-Neptune</a></div>
+<p>Although the words "gas" and "giant" are often combined, hydrogen planets need not be as large as the familiar gas giants from the Solar System. However, smaller gas planets and planets closer to their star will lose atmospheric mass more quickly via <a href="/wiki/Hydrodynamic_escape" title="Hydrodynamic escape">hydrodynamic escape</a> than larger planets and planets farther out.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>A gas dwarf could be defined as a planet with a rocky core that has accumulated a thick envelope of hydrogen, helium and other volatiles, having as result a total radius between 1.7 and 3.9 Earth-radii.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-dangelo_bodenheimer_2016_11-0"><a href="#cite_note-dangelo_bodenheimer_2016-11">[11]</a></sup></p>
+<p>The smallest known extrasolar planet that is likely a "gas planet" is <a class="mw-redirect" href="/wiki/Kepler-138d" title="Kepler-138d">Kepler-138d</a>, which has the same mass as Earth but is 60% larger and therefore has a density that indicates a thick gas envelope.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>A low-mass gas planet can still have a radius resembling that of a gas giant if it has the right temperature.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gas_giant&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System" title="List of gravitationally rounded objects of the Solar System">List of gravitationally rounded objects of the Solar System</a></li>
+<li><a href="/wiki/List_of_planet_types" title="List of planet types">List of planet types</a></li>
+<li><a href="/wiki/Hot_Jupiter" title="Hot Jupiter">Hot Jupiter</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gas_giant&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Guillot-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Guillot_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Guillot_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The Interior of Jupiter, Guillot et al., in <i>Jupiter: The Planet, Satellites and Magnetosphere</i>, Bagenal et al., editors, Cambridge University Press, 2004</span></li>
+<li id="cite_note-PT-June2008-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-PT-June2008_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PT-June2008_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Burgasser, A. J. (June 2008). <a class="external text" href="http://astro.berkeley.edu/~gmarcy/astro160/papers/brown_dwarfs_failed_stars.pdf" rel="nofollow">"Brown dwarfs: Failed stars, super Jupiters"</a> <span style="font-size:85%;">(<a class="mw-redirect" href="/wiki/PDF" title="PDF">PDF</a>)</span>. <i><a href="/wiki/Physics_Today" title="Physics Today">Physics Today</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 January</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.atitle=Brown+dwarfs%3A+Failed+stars%2C+super+Jupiters&amp;rft.aufirst=A.+J.&amp;rft.aulast=Burgasser&amp;rft.date=2008-06&amp;rft.genre=unknown&amp;rft.jtitle=Physics+Today&amp;rft_id=http%3A%2F%2Fastro.berkeley.edu%2F~gmarcy%2Fastro160%2Fpapers%2Fbrown_dwarfs_failed_stars.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Science Fiction Citations, <a class="external text" href="http://www.jessesword.com/sf/view/52" rel="nofollow">Citations for gas giant n.</a></span></li>
+<li id="cite_note-ddl2011-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-ddl2011_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">D'Angelo, G.; Durisen, R. H.; Lissauer, J. J. (2011). "Giant Planet Formation". In S. Seager. <a class="external text" href="http://www.uapress.arizona.edu/Books/bid2263.htm" rel="nofollow"><i>Exoplanets</i></a>. University of Arizona Press, Tucson, AZ. pp. 319–346. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010exop.book..319D" rel="nofollow">2010exop.book..319D</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/1006.5486" rel="nofollow">1006.5486</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.atitle=Giant+Planet+Formation&amp;rft.au=Durisen%2C+R.+H.&amp;rft.au=Lissauer%2C+J.+J.&amp;rft.aufirst=G.&amp;rft.aulast=D%27Angelo&amp;rft.btitle=Exoplanets&amp;rft.date=2011&amp;rft.genre=bookitem&amp;rft.pages=319-346&amp;rft.pub=University+of+Arizona+Press%2C+Tucson%2C+AZ&amp;rft_id=http%3A%2F%2Fwww.uapress.arizona.edu%2FBooks%2Fbid2263.htm&amp;rft_id=info%3Aarxiv%2F1006.5486&amp;rft_id=info%3Abibcode%2F2010exop.book..319D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Seager2007-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Seager2007_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Seager2007_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Seager, S.; Kuchner, M.; Hier-Majumder, C. A.; Militzer, B. (2007). "Mass-Radius Relationships for Solid Exoplanets". <i>The Astrophysical Journal</i>. <b>669</b> (2): 1279–1297. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007ApJ...669.1279S" rel="nofollow">2007ApJ...669.1279S</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/0707.2895" rel="nofollow">0707.2895</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F521346" rel="nofollow">10.1086/521346</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.atitle=Mass-Radius+Relationships+for+Solid+Exoplanets&amp;rft.au=Hier-Majumder%2C+C.+A.&amp;rft.au=Kuchner%2C+M.&amp;rft.au=Militzer%2C+B.&amp;rft.aufirst=S.&amp;rft.aulast=Seager&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=1279-1297&amp;rft.volume=669&amp;rft_id=info%3Aarxiv%2F0707.2895&amp;rft_id=info%3Abibcode%2F2007ApJ...669.1279S&amp;rft_id=info%3Adoi%2F10.1086%2F521346&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Patrick G. J. Irwin (2003). <a class="external text" href="https://books.google.com/?id=p8wCsJweUb0C&amp;pg=PA63&amp;dq=%22kelvin+helmholtz+mechanism%22" rel="nofollow"><i>Giant Planets of Our Solar System: Atmospheres, Composition, and Structure</i></a>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-540-00681-8" title="Special:BookSources/3-540-00681-8">3-540-00681-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.au=Patrick+G.+J.+Irwin&amp;rft.btitle=Giant+Planets+of+Our+Solar+System%3A+Atmospheres%2C+Composition%2C+and+Structure&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=3-540-00681-8&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3Dp8wCsJweUb0C%26pg%3DPA63%26dq%3D%2522kelvin%2Bhelmholtz%2Bmechanism%2522&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-bagenal-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-bagenal_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lasp.colorado.edu/~bagenal/3750/ClassNotes/Class12/Class12.html" rel="nofollow">"Class 12 – Giant Planets – Heat and Formation"</a>. <i>3750 – Planets, Moons &amp; Rings</i>. Colorado University, Boulder. 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.atitle=Class+12+%E2%80%93+Giant+Planets+%E2%80%93+Heat+and+Formation&amp;rft.date=2004&amp;rft.genre=unknown&amp;rft.jtitle=3750+%E2%80%93+Planets%2C+Moons+%26+Rings&amp;rft_id=http%3A%2F%2Flasp.colorado.edu%2F~bagenal%2F3750%2FClassNotes%2FClass12%2FClass12.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Feng Tian; Toon, Owen B.; Pavlov, Alexander A.; De Sterck, H. (March 10, 2005). "Transonic hydrodynamic escape of hydrogen from extrasolar planetary atmospheres". <i>The Astrophysical Journal</i>. <b>621</b> (2): 1049–1060. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005ApJ...621.1049T" rel="nofollow">2005ApJ...621.1049T</a>. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a> <span class="plainlinks"><a class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.122.9085" rel="nofollow">10.1.1.122.9085</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F427204" rel="nofollow">10.1086/427204</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.atitle=Transonic+hydrodynamic+escape+of+hydrogen+from+extrasolar+planetary+atmospheres&amp;rft.au=De+Sterck%2C+H.&amp;rft.au=Feng+Tian&amp;rft.au=Pavlov%2C+Alexander+A.&amp;rft.au=Toon%2C+Owen+B.&amp;rft.date=2005-03-10&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=1049-1060&amp;rft.volume=621&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.122.9085&amp;rft_id=info%3Abibcode%2F2005ApJ...621.1049T&amp;rft_id=info%3Adoi%2F10.1086%2F427204&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://arxiv.org/pdf/1001.4851" rel="nofollow">Mass-radius relationships for exoplanets</a>, Damian C. Swift, Jon Eggert, Damien G. Hicks, Sebastien Hamel, Kyle Caspersen, Eric Schwegler, and Gilbert W. Collins</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://arxiv.org/ftp/arxiv/papers/1405/1405.7695.pdf" rel="nofollow">Three regimes of extrasolar planets inferred from host star metallicities</a>, Buchhave et al.</span></li>
+<li id="cite_note-dangelo_bodenheimer_2016-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-dangelo_bodenheimer_2016_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">D'Angelo, G.; Bodenheimer, P. (2016). "In Situ and Ex Situ Formation Models of Kepler 11 Planets". <i>The Astrophysical Journal</i>. <b>1606</b>: in press. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016arXiv160608088D" rel="nofollow">2016arXiv160608088D</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/1606.08088" rel="nofollow">1606.08088</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.atitle=In+Situ+and+Ex+Situ+Formation+Models+of+Kepler+11+Planets&amp;rft.au=Bodenheimer%2C+P.&amp;rft.aufirst=G.&amp;rft.aulast=D%27Angelo&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=in+press&amp;rft.volume=1606&amp;rft_id=info%3Aarxiv%2F1606.08088&amp;rft_id=info%3Abibcode%2F2016arXiv160608088D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cowen, Ron (2014). <a class="external text" href="http://www.nature.com/news/earth-mass-exoplanet-is-no-earth-twin-1.14477" rel="nofollow">"Earth-mass exoplanet is no Earth twin"</a>. <i>Nature</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature.2014.14477" rel="nofollow">10.1038/nature.2014.14477</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGas+giant&amp;rft.atitle=Earth-mass+exoplanet+is+no+Earth+twin&amp;rft.aufirst=Ron&amp;rft.aulast=Cowen&amp;rft.date=2014&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnews%2Fearth-mass-exoplanet-is-no-earth-twin-1.14477&amp;rft_id=info%3Adoi%2F10.1038%2Fnature.2014.14477&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">*<a class="external text" href="http://arxiv.org/abs/1304.5157" rel="nofollow">Mass-Radius Relationships for Very Low Mass Gaseous Planets</a>, <a href="/wiki/Konstantin_Batygin" title="Konstantin Batygin">Konstantin Batygin</a>, David J. Stevenson, 18 Apr 2013</span></li>
+</ol>
+</div>
+<div aria-labelledby="The_Solar_System" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Solar_System" title="Template:Solar System"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Solar_System" title="Template talk:Solar System"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Solar_System&amp;action=edit"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Solar_System" style="font-size:114%;margin:0 4em">The <a href="/wiki/Solar_System" title="Solar System">Solar System</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align:center;">
+<div>
+<div class="noresize"><map id="ImageMap_1_1232985135" name="ImageMap_1_1232985135">
+<area alt="The Sun" coords="0,0,90,35" href="/wiki/Sun" shape="rect" title="The Sun"/>
+<area alt="Mercury" coords="112,18,6" href="/wiki/Mercury_(planet)" shape="circle" title="Mercury"/>
+<area alt="Venus" coords="153,18,8" href="/wiki/Venus" shape="circle" title="Venus"/>
+<area alt="The Moon" coords="204,10,4" href="/wiki/Moon" shape="circle" title="The Moon"/>
+<area alt="Earth" coords="195,18,8" href="/wiki/Earth" shape="circle" title="Earth"/>
+<area alt="Mars" coords="233,18,8" href="/wiki/Mars" shape="circle" title="Mars"/>
+<area alt="Phobos and Deimos" coords="241,13,3" href="/wiki/Moons_of_Mars" shape="circle" title="Phobos and Deimos"/>
+<area alt="Ceres" coords="271,18,5" href="/wiki/Ceres_(dwarf_planet)" shape="circle" title="Ceres"/>
+<area alt="The main asteroid belt" coords="256,0,288,35" href="/wiki/Asteroid_belt" shape="rect" title="The main asteroid belt"/>
+<area alt="Jupiter" coords="316,19,15" href="/wiki/Jupiter" shape="circle" title="Jupiter"/>
+<area alt="Moons of Jupiter" coords="329,6,6" href="/wiki/Moons_of_Jupiter" shape="circle" title="Moons of Jupiter"/>
+<area alt="Rings of Jupiter" coords="298,18,335,20" href="/wiki/Rings_of_Jupiter" shape="rect" title="Rings of Jupiter"/>
+<area alt="Saturn" coords="372,18,12" href="/wiki/Saturn" shape="circle" title="Saturn"/>
+<area alt="Moons of Saturn" coords="381,7,6" href="/wiki/Moons_of_Saturn" shape="circle" title="Moons of Saturn"/>
+<area alt="Rings of Saturn" coords="353,5,389,31" href="/wiki/Rings_of_Saturn" shape="rect" title="Rings of Saturn"/>
+<area alt="Uranus" coords="418,18,12" href="/wiki/Uranus" shape="circle" title="Uranus"/>
+<area alt="Moons of Uranus" coords="427,10,6" href="/wiki/Moons_of_Uranus" shape="circle" title="Moons of Uranus"/>
+<area alt="Rings of Uranus" coords="408,4,429,34" href="/wiki/Rings_of_Uranus" shape="rect" title="Rings of Uranus"/>
+<area alt="Neptune" coords="462,18,12" href="/wiki/Neptune" shape="circle" title="Neptune"/>
+<area alt="Moons of Neptune" coords="471,10,5" href="/wiki/Moons_of_Neptune" shape="circle" title="Moons of Neptune"/>
+<area alt="Rings of Neptune" coords="441,9,485,28" href="/wiki/Rings_of_Neptune" shape="rect" title="Rings of Neptune"/>
+<area alt="Pluto" coords="504,18,12" href="/wiki/Pluto" shape="circle" title="Pluto"/>
+<area alt="Moons of Pluto" coords="510,13,8" href="/wiki/Moons_of_Pluto" shape="circle" title="Moons of Pluto"/>
+<area alt="Haumea" coords="534,18,12" href="/wiki/Haumea" shape="circle" title="Haumea"/>
+<area alt="Moons of Haumea" coords="540,13,8" href="/wiki/Moons_of_Haumea" shape="circle" title="Moons of Haumea"/>
+<area alt="Makemake" coords="567,18,12" href="/wiki/Makemake" shape="circle" title="Makemake"/>
+<area alt="S/2015 (136472) 1" coords="571,13,8" href="/wiki/S/2015_(136472)_1" shape="circle" title="S/2015 (136472) 1"/>
+<area alt="The Kuiper Belt" coords="490,0,580,35" href="/wiki/Kuiper_belt" shape="rect" title="The Kuiper Belt"/>
+<area alt="Eris" coords="596,18,12" href="/wiki/Eris_(dwarf_planet)" shape="circle" title="Eris"/>
+<area alt="Dysnomia" coords="602,13,8" href="/wiki/Dysnomia_(moon)" shape="circle" title="Dysnomia"/>
+<area alt="The Scattered Disc" coords="581,0,610,35" href="/wiki/Scattered_disc" shape="rect" title="The Scattered Disc"/>
+<area alt="The Hills Cloud" coords="623,0,640,35" href="/wiki/Hills_cloud" shape="rect" title="The Hills Cloud"/>
+<area alt="The Oort Cloud" coords="641,0,666,35" href="/wiki/Oort_cloud" shape="rect" title="The Oort Cloud"/></map><img alt="Solar System Template Final.png" data-file-height="36" data-file-width="666" height="36" src="//upload.wikimedia.org/wikipedia/commons/b/b8/Solar_System_Template_Final.png" usemap="#ImageMap_1_1232985135" width="666"/></div>
+<ul>
+<li><a href="/wiki/Sun" title="Sun">The Sun</a></li>
+<li><a href="/wiki/Mercury_(planet)" title="Mercury (planet)">Mercury</a></li>
+<li><a href="/wiki/Venus" title="Venus">Venus</a></li>
+<li><a href="/wiki/Earth" title="Earth">Earth</a></li>
+<li><a href="/wiki/Mars" title="Mars">Mars</a></li>
+<li><i><a href="/wiki/Ceres_(dwarf_planet)" title="Ceres (dwarf planet)">Ceres</a></i></li>
+<li><a href="/wiki/Jupiter" title="Jupiter">Jupiter</a></li>
+<li><a href="/wiki/Saturn" title="Saturn">Saturn</a></li>
+<li><a href="/wiki/Uranus" title="Uranus">Uranus</a></li>
+<li><a href="/wiki/Neptune" title="Neptune">Neptune</a></li>
+<li><i><a href="/wiki/Pluto" title="Pluto">Pluto</a></i></li>
+<li><i><a href="/wiki/Haumea" title="Haumea">Haumea</a></i></li>
+<li><i><a href="/wiki/Makemake" title="Makemake">Makemake</a></i></li>
+<li><i><a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">Eris</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align:center;;width:1%"><a href="/wiki/Planet" title="Planet">Planets</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Terrestrial_planet" title="Terrestrial planet">Terrestrial planets</a>
+<ul>
+<li><a href="/wiki/Mercury_(planet)" title="Mercury (planet)">Mercury</a></li>
+<li><a href="/wiki/Venus" title="Venus">Venus</a></li>
+<li><a href="/wiki/Earth" title="Earth">Earth</a></li>
+<li><a href="/wiki/Mars" title="Mars">Mars</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Giant_planet" title="Giant planet">Giant planets</a>
+<ul>
+<li><a href="/wiki/Jupiter" title="Jupiter">Jupiter</a></li>
+<li><a href="/wiki/Saturn" title="Saturn">Saturn</a></li>
+<li><a href="/wiki/Uranus" title="Uranus">Uranus</a></li>
+<li><a href="/wiki/Neptune" title="Neptune">Neptune</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Dwarf_planet" title="Dwarf planet">Dwarf planets</a>
+<ul>
+<li><a href="/wiki/Ceres_(dwarf_planet)" title="Ceres (dwarf planet)">Ceres</a></li>
+<li><a href="/wiki/Pluto" title="Pluto">Pluto</a></li>
+<li><a href="/wiki/Haumea" title="Haumea">Haumea</a></li>
+<li><a href="/wiki/Makemake" title="Makemake">Makemake</a></li>
+<li><a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">Eris</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align:center;;width:1%"><a href="/wiki/Ring_system" title="Ring system">Rings</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rings_of_Jupiter" title="Rings of Jupiter">Jovian</a></li>
+<li><a href="/wiki/Rings_of_Saturn" title="Rings of Saturn">Saturnian</a> <span style="font-size:90%;">(<a href="/wiki/Rings_of_Rhea" title="Rings of Rhea">Rhean</a>)</span></li>
+<li><a href="/wiki/Rings_of_Chariklo" title="Rings of Chariklo">Charikloan</a></li>
+<li><a href="/wiki/2060_Chiron#Rings" title="2060 Chiron">Chironean</a></li>
+<li><a href="/wiki/Rings_of_Uranus" title="Rings of Uranus">Uranian</a></li>
+<li><a href="/wiki/Rings_of_Neptune" title="Rings of Neptune">Neptunian</a></li>
+<li><a href="/wiki/Haumea#Ring" title="Haumea">Haumean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align:center;;width:1%"><a href="/wiki/Natural_satellite" title="Natural satellite">Moons</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Moon" title="Moon">1 Terrestrial (Moon)</a></li>
+<li><a href="/wiki/Claimed_moons_of_Earth" title="Claimed moons of Earth">Other near-Earth objects</a></li>
+<li><a href="/wiki/Moons_of_Mars" title="Moons of Mars">2 Martian</a>
+<ul>
+<li><a href="/wiki/Phobos_(moon)" title="Phobos (moon)">Phobos</a></li>
+<li><a href="/wiki/Deimos_(moon)" title="Deimos (moon)">Deimos</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Moons_of_Jupiter" title="Moons of Jupiter">69 Jovian</a>
+<ul>
+<li><a href="/wiki/Ganymede_(moon)" title="Ganymede (moon)">Ganymede</a></li>
+<li><a href="/wiki/Callisto_(moon)" title="Callisto (moon)">Callisto</a></li>
+<li><a href="/wiki/Io_(moon)" title="Io (moon)">Io</a></li>
+<li><a href="/wiki/Europa_(moon)" title="Europa (moon)">Europa</a></li>
+<li><a href="/wiki/Moons_of_Jupiter#List" title="Moons of Jupiter">all</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Moons_of_Saturn" title="Moons of Saturn">62 Saturnian</a>
+<ul>
+<li><a href="/wiki/Titan_(moon)" title="Titan (moon)">Titan</a></li>
+<li><a href="/wiki/Rhea_(moon)" title="Rhea (moon)">Rhea</a></li>
+<li><a href="/wiki/Iapetus_(moon)" title="Iapetus (moon)">Iapetus</a></li>
+<li><a href="/wiki/Dione_(moon)" title="Dione (moon)">Dione</a></li>
+<li><a href="/wiki/Tethys_(moon)" title="Tethys (moon)">Tethys</a></li>
+<li><a href="/wiki/Enceladus" title="Enceladus">Enceladus</a></li>
+<li><a href="/wiki/Mimas_(moon)" title="Mimas (moon)">Mimas</a></li>
+<li><a href="/wiki/Hyperion_(moon)" title="Hyperion (moon)">Hyperion</a></li>
+<li><a href="/wiki/Phoebe_(moon)" title="Phoebe (moon)">Phoebe</a></li>
+<li><a href="/wiki/Moons_of_Saturn#List" title="Moons of Saturn">all</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Moons_of_Uranus" title="Moons of Uranus">27 Uranian</a>
+<ul>
+<li><a href="/wiki/Titania_(moon)" title="Titania (moon)">Titania</a></li>
+<li><a href="/wiki/Oberon_(moon)" title="Oberon (moon)">Oberon</a></li>
+<li><a href="/wiki/Umbriel_(moon)" title="Umbriel (moon)">Umbriel</a></li>
+<li><a href="/wiki/Ariel_(moon)" title="Ariel (moon)">Ariel</a></li>
+<li><a href="/wiki/Miranda_(moon)" title="Miranda (moon)">Miranda</a></li>
+<li><a href="/wiki/Moons_of_Uranus#List" title="Moons of Uranus">all</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Moons_of_Neptune" title="Moons of Neptune">14 Neptunian</a>
+<ul>
+<li><a href="/wiki/Triton_(moon)" title="Triton (moon)">Triton</a></li>
+<li><a href="/wiki/Proteus_(moon)" title="Proteus (moon)">Proteus</a></li>
+<li><a href="/wiki/Nereid_(moon)" title="Nereid (moon)">Nereid</a></li>
+<li><a href="/wiki/Moons_of_Neptune#List" title="Moons of Neptune">all</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Moons_of_Pluto" title="Moons of Pluto">5 Plutonian</a>
+<ul>
+<li><a href="/wiki/Charon_(moon)" title="Charon (moon)">Charon</a></li>
+<li><a href="/wiki/Nix_(moon)" title="Nix (moon)">Nix</a></li>
+<li><a href="/wiki/Hydra_(moon)" title="Hydra (moon)">Hydra</a></li>
+<li><a href="/wiki/Kerberos_(moon)" title="Kerberos (moon)">Kerberos</a></li>
+<li><a href="/wiki/Styx_(moon)" title="Styx (moon)">Styx</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Moons_of_Haumea" title="Moons of Haumea">2 Haumean</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Hi%CA%BBiaka_(moon)" title="Hiʻiaka (moon)">Hiʻiaka</a></li>
+<li><a class="mw-redirect" href="/wiki/Namaka_(moon)" title="Namaka (moon)">Namaka</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/S/2015_(136472)_1" title="S/2015 (136472) 1">1 Makemakean (S/2015 (136472) 1)</a></li>
+<li><a href="/wiki/Dysnomia_(moon)" title="Dysnomia (moon)">1 Eridian (Dysnomia)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align:center;;width:1%">Lists</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Solar_System_objects" title="List of Solar System objects">Solar System objects</a>
+<ul>
+<li><a href="/wiki/List_of_Solar_System_objects_by_size" title="List of Solar System objects by size">By size</a></li>
+<li><a href="/wiki/Timeline_of_discovery_of_Solar_System_planets_and_their_moons" title="Timeline of discovery of Solar System planets and their moons">By discovery date</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_minor_planets" title="List of minor planets">Minor planets</a></li>
+<li><a href="/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System" title="List of gravitationally rounded objects of the Solar System">Gravitationally rounded objects</a></li>
+<li><a href="/wiki/List_of_possible_dwarf_planets" title="List of possible dwarf planets">Possible dwarf planets</a></li>
+<li><a href="/wiki/List_of_natural_satellites" title="List of natural satellites">Natural satellites</a></li>
+<li><a href="/wiki/Lists_of_comets" title="Lists of comets">Comets</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align:center;;width:1%"><a href="/wiki/Small_Solar_System_body" title="Small Solar System body">Small Solar<br/>
+System bodies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Meteoroid" title="Meteoroid">Meteoroids</a></li>
+<li><a href="/wiki/Minor_planet" title="Minor planet">Minor planets</a>
+<ul>
+<li><a href="/wiki/Minor-planet_moon" title="Minor-planet moon">moons</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Comet" title="Comet">Comets</a></li>
+<li><a href="/wiki/Damocloid" title="Damocloid">Damocloids</a></li>
+<li><a href="/wiki/List_of_Mercury-crossing_minor_planets" title="List of Mercury-crossing minor planets">Mercury-crossers</a></li>
+<li><a href="/wiki/List_of_Venus-crossing_minor_planets" title="List of Venus-crossing minor planets">Venus-crossers</a></li>
+<li><a href="/wiki/2013_ND15" title="2013 ND15">Venus trojans</a></li>
+<li><a href="/wiki/Near-Earth_object" title="Near-Earth object">Near-Earth objects</a></li>
+<li><a href="/wiki/List_of_Earth-crossing_minor_planets" title="List of Earth-crossing minor planets">Earth-crossers</a></li>
+<li><a href="/wiki/Earth_trojan" title="Earth trojan">Earth trojans</a></li>
+<li><a href="/wiki/List_of_Mars-crossing_minor_planets" title="List of Mars-crossing minor planets">Mars-crossers</a></li>
+<li><a href="/wiki/Mars_trojan" title="Mars trojan">Mars trojans</a></li>
+<li><a href="/wiki/Asteroid_belt" title="Asteroid belt">Asteroid belt</a></li>
+<li><a href="/wiki/Asteroid" title="Asteroid">Asteroids</a>
+<ul>
+<li>first discovered: <a href="/wiki/Ceres_(dwarf_planet)" title="Ceres (dwarf planet)">Ceres</a></li>
+<li><a href="/wiki/2_Pallas" title="2 Pallas">Pallas</a></li>
+<li><a href="/wiki/3_Juno" title="3 Juno">Juno</a></li>
+<li><a href="/wiki/4_Vesta" title="4 Vesta">Vesta</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Asteroid_family" title="Asteroid family">Families</a></li>
+<li><a href="/wiki/List_of_exceptional_asteroids" title="List of exceptional asteroids">Notable asteroids</a></li>
+<li><a href="/wiki/Kirkwood_gap" title="Kirkwood gap">Kirkwood gap</a></li>
+<li><a href="/wiki/Main-belt_comet" title="Main-belt comet">Main-belt comets</a></li>
+<li><a href="/wiki/Jupiter_trojan" title="Jupiter trojan">Jupiter trojans</a></li>
+<li><a href="/wiki/List_of_Jupiter-crossing_minor_planets" title="List of Jupiter-crossing minor planets">Jupiter-crossers</a></li>
+<li><a href="/wiki/Centaur_(minor_planet)" title="Centaur (minor planet)">Centaurs</a></li>
+<li><a href="/wiki/List_of_Saturn-crossing_minor_planets" title="List of Saturn-crossing minor planets">Saturn-crossers</a></li>
+<li><a href="/wiki/2011_QF99" title="2011 QF99">Uranus trojans</a></li>
+<li><a href="/wiki/List_of_Uranus-crossing_minor_planets" title="List of Uranus-crossing minor planets">Uranus-crossers</a></li>
+<li><a href="/wiki/Neptune_trojan" title="Neptune trojan">Neptune trojans</a></li>
+<li><a href="/wiki/Cis-Neptunian_object" title="Cis-Neptunian object">Cis-Neptunian objects</a></li>
+<li><a href="/wiki/Trans-Neptunian_object" title="Trans-Neptunian object">Trans-Neptunian objects</a></li>
+<li><a href="/wiki/List_of_Neptune-crossing_minor_planets" title="List of Neptune-crossing minor planets">Neptune-crossers</a></li>
+<li><a href="/wiki/Plutoid" title="Plutoid">Plutoids</a></li>
+<li><a href="/wiki/Kuiper_belt" title="Kuiper belt">Kuiper belt</a>
+<ul>
+<li><a href="/wiki/Plutino" title="Plutino">Plutinos</a></li>
+<li><a href="/wiki/Classical_Kuiper_belt_object" title="Classical Kuiper belt object">Cubewanos</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Scattered_disc" title="Scattered disc">Scattered disc</a></li>
+<li><a href="/wiki/Detached_object" title="Detached object">Detached objects</a></li>
+<li><a href="/wiki/Sednoid" title="Sednoid">Sednoids</a></li>
+<li><a href="/wiki/Hills_cloud" title="Hills cloud">Hills cloud</a></li>
+<li><a href="/wiki/Oort_cloud" title="Oort cloud">Oort cloud</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align:center;;width:1%"><a href="/wiki/List_of_hypothetical_Solar_System_objects" title="List of hypothetical Solar System objects">Hypothetical<br/>
+objects</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vulcan_(hypothetical_planet)" title="Vulcan (hypothetical planet)">Vulcan</a></li>
+<li><a href="/wiki/Vulcanoid" title="Vulcanoid">Vulcanoids</a></li>
+<li><a href="/wiki/Phaeton_(hypothetical_planet)" title="Phaeton (hypothetical planet)">Phaeton</a></li>
+<li><a href="/wiki/Planet_V" title="Planet V">Planet V</a></li>
+<li><a href="/wiki/Theia_(planet)" title="Theia (planet)">Theia</a></li>
+<li><a href="/wiki/Five-planet_Nice_model" title="Five-planet Nice model">Fifth giant</a></li>
+<li><a href="/wiki/Planets_beyond_Neptune" title="Planets beyond Neptune">Planets beyond Neptune</a></li>
+<li><a href="/wiki/Tyche_(hypothetical_planet)" title="Tyche (hypothetical planet)">Tyche</a></li>
+<li><a href="/wiki/Nemesis_(hypothetical_star)" title="Nemesis (hypothetical star)">Nemesis</a></li>
+<li><a href="/wiki/Planet_Nine" title="Planet Nine">Planet Nine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align:center;;width:1%"><a href="/wiki/Space_exploration" title="Space exploration">Exploration</a><br/>
+(<a href="/wiki/Outline_of_space_exploration" title="Outline of space exploration">outline</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discovery_and_exploration_of_the_Solar_System" title="Discovery and exploration of the Solar System">Discovery</a>
+<ul>
+<li><a href="/wiki/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/Timeline_of_discovery_of_Solar_System_planets_and_their_moons" title="Timeline of discovery of Solar System planets and their moons">Timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spaceflight" title="Spaceflight">Spaceflight</a></li>
+<li><a href="/wiki/Robotic_spacecraft" title="Robotic spacecraft">Robotic spacecraft</a></li>
+<li><a href="/wiki/Human_spaceflight" title="Human spaceflight">Human spaceflight</a></li>
+<li><a href="/wiki/Space_colonization" title="Space colonization">Colonization</a></li>
+<li><a href="/wiki/List_of_Solar_System_probes" title="List of Solar System probes">List of probes</a></li>
+<li><a href="/wiki/Timeline_of_Solar_System_exploration" title="Timeline of Solar System exploration">Timeline</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Exploration_of_Mercury" title="Exploration of Mercury">Mercury</a></li>
+<li><a href="/wiki/Observations_and_explorations_of_Venus" title="Observations and explorations of Venus">Venus</a></li>
+<li><a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">Moon</a></li>
+<li><a href="/wiki/Exploration_of_Mars" title="Exploration of Mars">Mars</a></li>
+<li><a href="/wiki/Ceres_(dwarf_planet)#Exploration" title="Ceres (dwarf planet)">Ceres</a></li>
+<li><a href="/wiki/Asteroid#Exploration" title="Asteroid">Asteroids</a>
+<ul>
+<li><a href="/wiki/Asteroid_mining" title="Asteroid mining">Mining</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_missions_to_comets" title="List of missions to comets">Comets</a></li>
+<li><a href="/wiki/Exploration_of_Jupiter" title="Exploration of Jupiter">Jupiter</a></li>
+<li><a href="/wiki/Exploration_of_Saturn" title="Exploration of Saturn">Saturn</a></li>
+<li><a href="/wiki/Exploration_of_Uranus" title="Exploration of Uranus">Uranus</a></li>
+<li><a href="/wiki/Exploration_of_Neptune" title="Exploration of Neptune">Neptune</a></li>
+<li><a href="/wiki/Exploration_of_Pluto" title="Exploration of Pluto">Pluto</a></li>
+<li><a href="/wiki/Deep_space_exploration" title="Deep space exploration">Deep space</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align:center;">
+<div>
+<dl>
+<dd><a href="/wiki/Outline_of_the_Solar_System" title="Outline of the Solar System">Outline of the Solar System</a></dd>
+<dt><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <span style="font-weight:normal;"><a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portals</a></span></dt>
+<dd><a href="/wiki/Portal:Solar_System" title="Portal:Solar System">Solar System</a></dd>
+<dd><a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">Astronomy</a></dd>
+<dd><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences</a></dd>
+<dd><a href="/wiki/Portal:Mars" title="Portal:Mars">Mars</a></dd>
+<dd><a href="/wiki/Portal:Jupiter" title="Portal:Jupiter">Jupiter</a></dd>
+<dd><a href="/wiki/Portal:Uranus" title="Portal:Uranus">Uranus</a></dd>
+<dd><a href="/wiki/Portal:Cosmology" title="Portal:Cosmology">Cosmology</a></dd>
+</dl>
+<p><a href="/wiki/Solar_System" title="Solar System">Solar System</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Local_Interstellar_Cloud" title="Local Interstellar Cloud">Local Interstellar Cloud</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Local_Bubble" title="Local Bubble">Local Bubble</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Gould_Belt" title="Gould Belt">Gould Belt</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Orion_Arm" title="Orion Arm">Orion Arm</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Satellite_galaxies_of_the_Milky_Way" title="Satellite galaxies of the Milky Way">Milky Way subgroup</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Local_Group" title="Local Group">Local Group</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Virgo_Supercluster" title="Virgo Supercluster">Virgo Supercluster</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Laniakea_Supercluster" title="Laniakea Supercluster">Laniakea Supercluster</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Pisces%E2%80%93Cetus_Supercluster_Complex" title="Pisces–Cetus Supercluster Complex">Pisces–Cetus Supercluster Complex</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Observable_universe" title="Observable universe">Observable universe</a> <span style="font-size: 120%;">→</span> <a href="/wiki/Universe" title="Universe">Universe</a><br/>
+<span style="font-size:90%;">Each arrow (<span style="font-size: 120%;">→</span>) may be read as "within" or "part of".</span></p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Exoplanetology" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Exoplanet" title="Template:Exoplanet"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Exoplanet" title="Template talk:Exoplanet"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Exoplanet&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Exoplanetology" style="font-size:114%;margin:0 4em"><a href="/wiki/Exoplanetology" title="Exoplanetology">Exoplanetology</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Planet" title="Planet">Planet</a>
+<ul>
+<li><a href="/wiki/Definition_of_planet" title="Definition of planet">Definition</a>
+<ul>
+<li><a href="/wiki/IAU_definition_of_planet" title="IAU definition of planet">IAU</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Planetary_science" title="Planetary science">Planetary science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;">Main topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Exoplanet" title="Exoplanet">Exoplanet</a></li>
+<li><a href="/wiki/Methods_of_detecting_exoplanets" title="Methods of detecting exoplanets">Methods of detecting exoplanets</a></li>
+<li><a href="/wiki/Planetary_system" title="Planetary system">Planetary system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;">Sizes and <a href="/wiki/List_of_planet_types" title="List of planet types">types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a href="/wiki/Terrestrial_planet" title="Terrestrial planet">Terrestrial</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_planet" title="Carbon planet">Carbon planet</a></li>
+<li><a href="/wiki/Coreless_planet" title="Coreless planet">Coreless planet</a></li>
+<li><a href="/wiki/Desert_planet" title="Desert planet">Desert planet</a></li>
+<li><a href="/wiki/Dwarf_planet" title="Dwarf planet">Dwarf planet</a></li>
+<li><a href="/wiki/Ice_planet" title="Ice planet">Ice planet</a></li>
+<li><a href="/wiki/Iron_planet" title="Iron planet">Iron planet</a></li>
+<li><a href="/wiki/Lava_planet" title="Lava planet">Lava planet</a></li>
+<li><a href="/wiki/Mega-Earth" title="Mega-Earth">Mega-Earth</a></li>
+<li><a href="/wiki/Ocean_planet" title="Ocean planet">Ocean planet</a></li>
+<li><a href="/wiki/Sub-Earth" title="Sub-Earth">Sub-Earth</a></li>
+<li><a href="/wiki/Super-Earth" title="Super-Earth">Super-Earth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a class="mw-selflink selflink">Gaseous</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chthonian_planet" title="Chthonian planet">Chthonian planet</a></li>
+<li><a href="/wiki/Eccentric_Jupiter" title="Eccentric Jupiter">Eccentric Jupiter</a></li>
+<li><a href="/wiki/Gas_dwarf" title="Gas dwarf">Gas dwarf</a></li>
+<li><a href="/wiki/Helium_planet" title="Helium planet">Helium planet</a></li>
+<li><a href="/wiki/Hot_Jupiter" title="Hot Jupiter">Hot Jupiter</a></li>
+<li><a href="/wiki/Hot_Neptune" title="Hot Neptune">Hot Neptune</a></li>
+<li><a href="/wiki/Ice_giant" title="Ice giant">Ice giant</a></li>
+<li><a href="/wiki/Mini-Neptune" title="Mini-Neptune">Mini-Neptune</a></li>
+<li><a href="/wiki/Super-Jupiter" title="Super-Jupiter">Super-Jupiter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;">Other types</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brown_dwarf" title="Brown dwarf">Brown dwarf</a></li>
+<li><a href="/wiki/Circumbinary_planet" title="Circumbinary planet">Circumbinary planet</a></li>
+<li><a href="/wiki/Double_planet" title="Double planet">Double planet</a></li>
+<li><a href="/wiki/Mesoplanet" title="Mesoplanet">Mesoplanet</a></li>
+<li><a href="/wiki/Planet#Planetary-mass_objects" title="Planet">Planemo</a></li>
+<li><a href="/wiki/Planetesimal" title="Planetesimal">Planetesimal</a></li>
+<li><a href="/wiki/Protoplanet" title="Protoplanet">Protoplanet</a></li>
+<li><a href="/wiki/Pulsar_planet" title="Pulsar planet">Pulsar planet</a></li>
+<li><a href="/wiki/Sub-brown_dwarf" title="Sub-brown dwarf">Sub-brown dwarf</a></li>
+<li><a href="/wiki/Ultra-cool_dwarf" title="Ultra-cool dwarf">Ultra-cool dwarf</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;">Formation and evolution</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accretion_(astrophysics)" title="Accretion (astrophysics)">Accretion</a></li>
+<li><a href="/wiki/Stellar_collision#Formation_of_planets" title="Stellar collision">Merging stars</a></li>
+<li><a href="/wiki/Nebular_hypothesis" title="Nebular hypothesis">Nebular hypothesis</a></li>
+<li><a href="/wiki/Planetary_migration" title="Planetary migration">Planetary migration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a href="/wiki/Planetary_system" title="Planetary system">Systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Exocomet" title="Exocomet">Exocomet</a></li>
+<li><a href="/wiki/Exomoon" title="Exomoon">Exomoon</a></li>
+<li><a href="/wiki/Interstellar_comet" title="Interstellar comet">Interstellar comet</a></li>
+<li><a href="/wiki/Orbital_resonance#Mean-motion_resonances_among_extrasolar_planets" title="Orbital resonance">Mean-motion resonances</a></li>
+<li><a href="/wiki/Retrograde_and_prograde_motion#Exoplanets" title="Retrograde and prograde motion">Retrograde planet</a></li>
+<li><a href="/wiki/Rogue_planet" title="Rogue planet">Rogue planet</a></li>
+<li><a href="/wiki/Titius%E2%80%93Bode_law#Lunar_systems_and_other_planetary_systems" title="Titius–Bode law">Titius–Bode laws</a></li>
+<li><a href="/wiki/Co-orbital_configuration#Trojans" title="Co-orbital configuration">Trojan planet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a href="/wiki/Planetary_system#Planet-hosting_stars" title="Planetary system">Host stars</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/A-type_main-sequence_star#Planets" title="A-type main-sequence star">A</a></li>
+<li><a href="/wiki/B-type_main-sequence_star#Planets" title="B-type main-sequence star">B</a></li>
+<li><a href="/wiki/Binary_star#Planets" title="Binary star">Binary star</a></li>
+<li><a href="/wiki/Brown_dwarf#Planets_around_brown_dwarfs" title="Brown dwarf">Brown dwarfs</a></li>
+<li><a href="/wiki/Extragalactic_planet" title="Extragalactic planet">Extragalactic planet</a></li>
+<li><a href="/wiki/F-type_main-sequence_star#Planets" title="F-type main-sequence star">F/Yellow-white dwarfs</a></li>
+<li><a href="/wiki/G-type_main-sequence_star#Planets" title="G-type main-sequence star">G/Yellow dwarfs</a></li>
+<li><a href="/wiki/Herbig_Ae/Be_star#Planets" title="Herbig Ae/Be star">Herbig Ae/Be</a></li>
+<li><a href="/wiki/K-type_main-sequence_star#Planets" title="K-type main-sequence star">K/Orange dwarfs</a></li>
+<li><a href="/wiki/Red_dwarf#Planets" title="Red dwarf">M/Red dwarfs</a></li>
+<li><a href="/wiki/Globular_cluster#Planets" title="Globular cluster">Planets in globular clusters</a></li>
+<li><a href="/wiki/Pulsar_planet" title="Pulsar planet">Pulsar</a></li>
+<li><a href="/wiki/Red_giant#Planets" title="Red giant">Red giant</a></li>
+<li><a href="/wiki/Subdwarf_B_star#Planetary_systems" title="Subdwarf B star">Subdwarf B</a></li>
+<li><a href="/wiki/Subgiant#Planets" title="Subgiant">Subgiant</a></li>
+<li><a href="/wiki/T_Tauri_star#Planets" title="T Tauri star">T Tauri</a></li>
+<li><a href="/wiki/White_dwarf#Debris_disks_and_planets" title="White dwarf">White dwarfs</a></li>
+<li><a href="/wiki/Giant_star#Yellow_giants" title="Giant star">Yellow giant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a href="/wiki/Methods_of_detecting_exoplanets" title="Methods of detecting exoplanets">Detection</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astrometry" title="Astrometry">Astrometry</a></li>
+<li><a href="/wiki/Methods_of_detecting_exoplanets#Direct_imaging" title="Methods of detecting exoplanets">Direct imaging</a>
+<ul>
+<li><a href="/wiki/List_of_directly_imaged_exoplanets" title="List of directly imaged exoplanets">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gravitational_microlensing" title="Gravitational microlensing">Microlensing</a>
+<ul>
+<li><a href="/wiki/List_of_exoplanets_detected_by_microlensing" title="List of exoplanets detected by microlensing">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Polarimetry" title="Polarimetry">Polarimetry</a></li>
+<li><a href="/wiki/Methods_of_detecting_exoplanets#Pulsar_timing" title="Methods of detecting exoplanets">Pulsar timing</a>
+<ul>
+<li><a href="/wiki/List_of_exoplanets_detected_by_timing" title="List of exoplanets detected by timing">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Doppler_spectroscopy" title="Doppler spectroscopy">Radial velocity</a>
+<ul>
+<li><a href="/wiki/List_of_exoplanets_detected_by_radial_velocity" title="List of exoplanets detected by radial velocity">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Methods_of_detecting_exoplanets#Transit_photometry" title="Methods of detecting exoplanets">Transit method</a>
+<ul>
+<li><a href="/wiki/List_of_transiting_exoplanets" title="List of transiting exoplanets">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Transit-timing_variation" title="Transit-timing variation">Transit-timing variation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a href="/wiki/Planetary_habitability" title="Planetary habitability">Habitability</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astrobiology" title="Astrobiology">Astrobiology</a></li>
+<li><a href="/wiki/Circumstellar_habitable_zone" title="Circumstellar habitable zone">Circumstellar habitable zone</a></li>
+<li><a href="/wiki/Earth_analog" title="Earth analog">Earth analog</a></li>
+<li><a href="/wiki/Extraterrestrial_liquid_water" title="Extraterrestrial liquid water">Extraterrestrial liquid water</a></li>
+<li><a href="/wiki/Habitability_of_natural_satellites" title="Habitability of natural satellites">Habitability of natural satellites</a></li>
+<li><a href="/wiki/Superhabitable_planet" title="Superhabitable planet">Superhabitable planet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;">Catalogues</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catalog_of_Nearby_Habitable_Systems" title="Catalog of Nearby Habitable Systems">Catalog of Nearby Habitable Systems</a></li>
+<li><a href="/wiki/Exoplanet_Data_Explorer" title="Exoplanet Data Explorer">Exoplanet Data Explorer</a></li>
+<li><a href="/wiki/Extrasolar_Planets_Encyclopaedia" title="Extrasolar Planets Encyclopaedia">Extrasolar Planets Encyclopaedia</a></li>
+<li><a href="/wiki/NASA_Exoplanet_Archive" title="NASA Exoplanet Archive">NASA Exoplanet Archive</a></li>
+<li><a href="/wiki/NASA_Star_and_Exoplanet_Database" title="NASA Star and Exoplanet Database">NASA Star and Exoplanet Database</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a href="/wiki/Lists_of_planets" title="Lists of planets">Lists</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Exoplanetary systems
+<ul>
+<li><a href="/wiki/List_of_exoplanetary_host_stars" title="List of exoplanetary host stars">Host stars</a></li>
+<li><a href="/wiki/List_of_multiplanetary_systems" title="List of multiplanetary systems">Multiplanetary systems</a></li>
+<li><a href="/wiki/List_of_stars_with_proplyds" title="List of stars with proplyds">Stars with proplyds</a></li>
+</ul>
+</li>
+<li>Exoplanets
+<ul>
+<li><a href="/wiki/List_of_exoplanets" title="List of exoplanets">List of exoplanets</a></li>
+<li><a href="/wiki/Discoveries_of_exoplanets" title="Discoveries of exoplanets">Discoveries</a></li>
+<li><a href="/wiki/List_of_exoplanet_extremes" title="List of exoplanet extremes">Extremes</a></li>
+<li><a href="/wiki/List_of_exoplanet_firsts" title="List of exoplanet firsts">Firsts</a></li>
+<li><a href="/wiki/List_of_nearest_exoplanets" title="List of nearest exoplanets">Nearest</a></li>
+<li><a href="/wiki/List_of_largest_exoplanets" title="List of largest exoplanets">Largest</a></li>
+<li><a href="/wiki/List_of_most_massive_exoplanets" title="List of most massive exoplanets">Most massive</a></li>
+<li><a href="/wiki/List_of_nearest_terrestrial_exoplanet_candidates" title="List of nearest terrestrial exoplanet candidates">Terrestrial candidates</a></li>
+<li><a href="/wiki/List_of_exoplanets_discovered_using_the_Kepler_spacecraft" title="List of exoplanets discovered using the Kepler spacecraft">Kepler</a></li>
+<li><a href="/wiki/List_of_potentially_habitable_exoplanets" title="List of potentially habitable exoplanets">Potentially habitable</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carl_Sagan_Institute" title="Carl Sagan Institute">Carl Sagan Institute</a></li>
+<li><a href="/wiki/Phase_curve_(astronomy)#Exoplanets" title="Phase curve (astronomy)">Exoplanet phase curves</a></li>
+<li><a href="/wiki/Nexus_for_Exoplanet_System_Science" title="Nexus for Exoplanet System Science">Nexus for Exoplanet System Science</a></li>
+<li><a href="/wiki/Planets_in_science_fiction" title="Planets in science fiction">Planets in science fiction</a></li>
+<li><a href="/wiki/Sudarsky%27s_gas_giant_classification" title="Sudarsky's gas giant classification">Sudarsky's gas giant classification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Discoveries_of_exoplanets" title="Discoveries of exoplanets">Discoveries of exoplanets</a></li>
+<li><a href="/wiki/List_of_exoplanet_search_projects" title="List of exoplanet search projects">Search projects</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1279
+Cached time: 20171031222110
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.297 seconds
+Preprocessor visited node count: 1007/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 83113/2097152 bytes
+Template argument size: 592/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 3.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  223.850      1 -total
+ 38.29%   85.704      1 Template:Reflist
+ 34.08%   76.285      3 Template:Navbox
+ 31.86%   71.318      1 Template:Solar_System
+ 17.65%   39.513      1 Template:Solar_System_navmap
+ 16.51%   36.967      2 Template:Cite_web
+ 11.78%   26.364      1 Template:For
+  7.03%   15.731      4 Template:Cite_journal
+  3.85%    8.616      1 Template:Exoplanet
+  3.70%    8.288      2 Template:Cite_book
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:44687845-0!canonical and timestamp 20171031222110 and revision id 808103914
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gas_giant&amp;oldid=808103914">https://en.wikipedia.org/w/index.php?title=Gas_giant&amp;oldid=808103914</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gas_giants" title="Category:Gas giants">Gas giants</a></li><li><a href="/wiki/Category:Types_of_planet" title="Category:Types of planet">Types of planet</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gas+giant" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Gas+giant" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Gas_giant" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Gas_giant" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Gas_giant">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Gas_giant&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Gas_giant&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Gas_giant" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Gas_giant" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gas_giant&amp;oldid=808103914" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gas_giant&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q121750" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gas_giant&amp;id=808103914" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gas+giant">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gas+giant&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Gas_giant&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Gasreus" hreflang="af" lang="af" title="Gasreus – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Gasriese" hreflang="als" lang="als" title="Gasriese – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%D8%A7%D9%82_%D8%BA%D8%A7%D8%B2%D9%8A" hreflang="ar" lang="ar" title="عملاق غازي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Xigante_gaseosu" hreflang="ast" lang="ast" title="Xigante gaseosu – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a class="interlanguage-link-target" href="https://gn.wikipedia.org/wiki/Mbyjajere_mba%27et%C4%A9va" hreflang="gn" lang="gn" title="Mbyjajere mba'etĩva – Guarani">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%A6%E0%A7%88%E0%A6%A4%E0%A7%8D%E0%A6%AF" hreflang="bn" lang="bn" title="গ্যাসীয় দৈত্য – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B0%D0%B2%D1%8B%D1%8F_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8B" hreflang="be" lang="be" title="Газавыя планеты – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B0%D0%B2%D1%8B%D1%8F_%D0%BF%D0%BB%D1%8F%D0%BD%D1%8D%D1%82%D1%8B" hreflang="be-x-old" lang="be-x-old" title="Газавыя плянэты – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2_%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82" hreflang="bg" lang="bg" title="Газов гигант – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Gegant_gas%C3%B3s" hreflang="ca" lang="ca" title="Gegant gasós – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Plynn%C3%BD_obr" hreflang="cs" lang="cs" title="Plynný obr – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Cawr_nwy" hreflang="cy" lang="cy" title="Cawr nwy – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Gask%C3%A6mpe" hreflang="da" lang="da" title="Gaskæmpe – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gasplanet" hreflang="de" lang="de" title="Gasplanet – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Hiidplaneet" hreflang="et" lang="et" title="Hiidplaneet – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%91%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%B3%CE%AF%CE%B3%CE%B1%CE%BD%CF%84%CE%B1%CF%82" hreflang="el" lang="el" title="Αέριος γίγαντας – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Gigante_gaseoso" hreflang="es" lang="es" title="Gigante gaseoso – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Gasgiganto" hreflang="eo" lang="eo" title="Gasgiganto – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Gasezko_erraldoi" hreflang="eu" lang="eu" title="Gasezko erraldoi – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%BA%D9%88%D9%84_%DA%AF%D8%A7%D8%B2%DB%8C" hreflang="fa" lang="fa" title="غول گازی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Plan%C3%A8te_g%C3%A9ante_gazeuse" hreflang="fr" lang="fr" title="Planète géante gazeuse – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Gasreus" hreflang="fy" lang="fy" title="Gasreus – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Foawr_gas" hreflang="gv" lang="gv" title="Foawr gas – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Xigante_gasoso" hreflang="gl" lang="gl" title="Xigante gasoso – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B1%B0%EB%8C%80_%EA%B0%80%EC%8A%A4_%ED%96%89%EC%84%B1" hreflang="ko" lang="ko" title="거대 가스 행성 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%80%D5%BD%D5%AF%D5%A1_%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF" hreflang="hy" lang="hy" title="Հսկա մոլորակ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%88%E0%A4%B8_%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%B5" hreflang="hi" lang="hi" title="गैस दानव – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Plinoviti_div" hreflang="hr" lang="hr" title="Plinoviti div – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Raksasa_gas" hreflang="id" lang="id" title="Raksasa gas – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-os"><a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%C3%A6" hreflang="os" lang="os" title="Газон планетæ – Ossetic">Ирон</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Gasrisi" hreflang="is" lang="is" title="Gasrisi – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Gigante_gassoso" hreflang="it" lang="it" title="Gigante gassoso – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A2%D7%A0%D7%A7_%D7%92%D7%96%D7%99%D7%9D" hreflang="he" lang="he" title="ענק גזים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%A3%E1%83%9E%E1%83%98%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%AF%E1%83%92%E1%83%A3%E1%83%A4%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%9A%E1%83%90%E1%83%9C%E1%83%94%E1%83%A2%E1%83%94%E1%83%91%E1%83%98" hreflang="ka" lang="ka" title="იუპიტერის ჯგუფის პლანეტები – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/D%C3%AAw%C3%AA_gaz%C3%AA" hreflang="ku" lang="ku" title="Dêwê gazê – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Planeta_iovialis" hreflang="la" lang="la" title="Planeta iovialis – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/G%C4%81zu_plan%C4%93ta" hreflang="lv" lang="lv" title="Gāzu planēta – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Gasplan%C3%A9it" hreflang="lb" lang="lb" title="Gasplanéit – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Planetos_mil%C5%BEin%C4%97s" hreflang="lt" lang="lt" title="Planetos milžinės – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Gigante_gas%C3%B9s" hreflang="lmo" lang="lmo" title="Gigante gasùs – Lombard">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/%C3%93ri%C3%A1sbolyg%C3%B3" hreflang="hu" lang="hu" title="Óriásbolygó – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BE%E0%B4%A4%E0%B4%95%E0%B4%AD%E0%B5%80%E0%B4%AE%E0%B4%A8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B5%BC" hreflang="ml" lang="ml" title="വാതകഭീമന്മാർ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%B8%E0%A5%80_%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A5%82_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9" hreflang="mr" lang="mr" title="राक्षसी वायू ग्रह – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Gergasi_gas" hreflang="ms" lang="ms" title="Gergasi gas – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B9%D0%BD_%D0%B3%D0%B0%D1%80%D0%B8%D0%B3" hreflang="mn" lang="mn" title="Хийн гариг – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%93%E1%80%AC%E1%80%90%E1%80%BA%E1%80%84%E1%80%BD%E1%80%B1%E1%80%B7%E1%80%82%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%9F%E1%80%BA%E1%80%98%E1%80%AE%E1%80%9C%E1%80%B0%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" hreflang="my" lang="my" title="ဓာတ်ငွေ့ဂြိုဟ်ဘီလူးများ – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Gasreus" hreflang="nl" lang="nl" title="Gasreus – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%95%E0%A5%8B_%E0%A4%AA%E0%A4%BF%E0%A4%A3%E0%A5%8D%E0%A4%A1" hreflang="ne" lang="ne" title="ग्यासको पिण्ड – Nepali">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88" hreflang="ja" lang="ja" title="ガスジャイアント – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Gasskjempe" hreflang="no" lang="no" title="Gasskjempe – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%88%E0%A8%B8_%E0%A8%A6%E0%A8%BF%E0%A8%93" hreflang="pa" lang="pa" title="ਗੈਸ ਦਿਓ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%DA%AF%DB%8C%D8%B3_%D8%AC%D9%86" hreflang="pnb" lang="pnb" title="گیس جن – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Gigant_gaseus" hreflang="pms" lang="pms" title="Gigant gaseus – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Gazowy_olbrzym" hreflang="pl" lang="pl" title="Gazowy olbrzym – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Planeta_gasoso" hreflang="pt" lang="pt" title="Planeta gasoso – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Gigant_gazos" hreflang="ro" lang="ro" title="Gigant gazos – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%8B" hreflang="ru" lang="ru" title="Газовые гиганты – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Gas_giant" hreflang="simple" lang="simple" title="Gas giant – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Jovi%C3%A1lna_plan%C3%A9ta" hreflang="sk" lang="sk" title="Joviálna planéta – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Plinasti_orjak" hreflang="sl" lang="sl" title="Plinasti orjak – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Neefaha_Waawayn" hreflang="so" lang="so" title="Neefaha Waawayn – Somali">Soomaaliga</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%88%D1%83%D0%BF%D0%B8%D1%82%D0%B5%D1%80%D0%BE%D0%B2%D0%BE%D0%B3_%D1%82%D0%B8%D0%BF%D0%B0" hreflang="sr" lang="sr" title="Планета Јупитеровог типа – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Plinoviti_div" hreflang="sh" lang="sh" title="Plinoviti div – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/J%C3%A4ttil%C3%A4isplaneetta" hreflang="fi" lang="fi" title="Jättiläisplaneetta – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Gasj%C3%A4tte" hreflang="sv" lang="sv" title="Gasjätte – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Dambuhalang_gas" hreflang="tl" lang="tl" title="Dambuhalang gas – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B3%E0%AE%BF_%E0%AE%85%E0%AE%B0%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="வளி அரக்கக்கோள் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BB%D1%8B_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0" hreflang="tt" lang="tt" title="Газлы планета – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%AA%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C" hreflang="th" lang="th" title="ดาวแก๊สยักษ์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Gaz_devi" hreflang="tr" lang="tr" title="Gaz devi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D1%96_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B8" hreflang="uk" lang="uk" title="Газові планети – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%AF%DB%8C%D8%B3%DB%8C_%D8%AF%DB%8C%D9%88" hreflang="ur" lang="ur" title="گیسی دیو – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh_kh%C3%AD_kh%E1%BB%95ng_l%E1%BB%93" hreflang="vi" lang="vi" title="Hành tinh khí khổng lồ – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Higante_nga_gas" hreflang="war" lang="war" title="Higante nga gas – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B0%A3%E9%AB%94%E5%A4%A7%E8%A1%8C%E6%98%9F" hreflang="zh-yue" lang="zh-yue" title="氣體大行星 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B0%A3%E6%85%8B%E5%B7%A8%E8%A1%8C%E6%98%9F" hreflang="zh" lang="zh" title="氣態巨行星 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q121750#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 October 2017, at 22:21.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Gas_giant&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.297","ppvisitednodes":{"value":1007,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":83113,"limit":2097152},"templateargumentsize":{"value":592,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  223.850      1 -total"," 38.29%   85.704      1 Template:Reflist"," 34.08%   76.285      3 Template:Navbox"," 31.86%   71.318      1 Template:Solar_System"," 17.65%   39.513      1 Template:Solar_System_navmap"," 16.51%   36.967      2 Template:Cite_web"," 11.78%   26.364      1 Template:For","  7.03%   15.731      4 Template:Cite_journal","  3.85%    8.616      1 Template:Exoplanet","  3.70%    8.288      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.067","limit":"10.000"},"limitreport-memusage":{"value":3498777,"limit":52428800}},"cachereport":{"origin":"mw1279","timestamp":"20171031222110","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1275"});});</script>
+</body>
+</html>

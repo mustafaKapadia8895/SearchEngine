@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Autosome - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Autosome","wgTitle":"Autosome","wgCurRevisionId":797939469,"wgRevisionId":797939469,"wgArticleId":1916,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chromosomes","Cytogenetics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Autosome","wgRelevantArticleId":1916,"wgRequestId":"WgJ-YwpAIDcAACdgtwIAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"AtDNA","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Autosome","wgWikibaseItemId":"Q186380","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/fd/Human_male_karyotype.gif" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Autosome" rel="alternate"/>
+<link href="/w/index.php?title=Autosome&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Autosome&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Autosome" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Autosome rootpage-Autosome vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Autosome</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=AtDNA&amp;redirect=no" title="AtDNA">AtDNA</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about a type of chromosome. For the ancestral discovery method using autosomal DNA, see <a href="/wiki/Genealogical_DNA_test#Geographic_origin_tests" title="Genealogical DNA test">Genealogical DNA test § Geographic origin tests</a>.</div>
+<p>An <b>autosome</b> is a <a href="/wiki/Chromosome" title="Chromosome">chromosome</a> that is not an <a href="/wiki/Allosome" title="Allosome">allosome</a> (a sex chromosome).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The members of an autosome pair in a <a class="mw-redirect" href="/wiki/Diploid" title="Diploid">diploid</a> cell have the same morphology unlike those in allosome pairs which may have different structure. The <a href="/wiki/DNA" title="DNA">DNA</a> in autosomes is collectively known as <b>atDNA</b> or <b>auDNA</b>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>For example, <a href="/wiki/Human" title="Human">humans</a> have a <a class="mw-redirect" href="/wiki/Diploid" title="Diploid">diploid</a> <a href="/wiki/Human_genome" title="Human genome">genome</a> that usually contains 22 pairs of autosomes and one <a href="/wiki/Allosome" title="Allosome">allosome</a> pair (46 chromosomes total). The autosome pairs are labeled with numbers (1–22 in humans) roughly in order of their sizes in base pairs, while allosomes are labelled with their letters.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> By contrast, the allosome pair consists of two <a href="/wiki/X_chromosome" title="X chromosome">X chromosomes</a> in females or one X and one <a href="/wiki/Y_chromosome" title="Y chromosome">Y chromosome</a> in males. (Unusual combinations of <a href="/wiki/XYY_syndrome" title="XYY syndrome">XYY</a>, <a href="/wiki/Klinefelter_syndrome" title="Klinefelter syndrome">XXY</a>, <a href="/wiki/Triple_X_syndrome" title="Triple X syndrome">XXX</a>, <a class="mw-redirect" href="/wiki/XXXX_syndrome" title="XXXX syndrome">XXXX</a>, <a class="mw-redirect" href="/wiki/XXXXX_syndrome" title="XXXXX syndrome">XXXXX</a> or <a href="/wiki/XXYY_syndrome" title="XXYY syndrome">XXYY</a>, among <a href="/wiki/Aneuploidy" title="Aneuploidy">other allosome combinations</a>, are known to occur and usually cause developmental abnormalities.)</p>
+<p>Autosomes still contain sexual determination genes even though they are not sex chromosomes. For example, the <a class="mw-redirect" href="/wiki/SRY" title="SRY">SRY</a> gene on the Y chromosome encodes the transcription factor <a class="mw-redirect" href="/wiki/Testis_determining_factor" title="Testis determining factor">TDF</a> and is vital for male sex determination during development. TDF functions by activating the <a href="/wiki/SOX9" title="SOX9">SOX9</a> gene on <a href="/wiki/Chromosome_17_(human)" title="Chromosome 17 (human)">chromosome 17</a>, so mutations of the <a href="/wiki/SOX9" title="SOX9">SOX9</a> gene can cause humans with a Y chromosome to develop as females.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>All human autosomes have been identified and mapped by extracting the chromosomes from a cell arrested in <a href="/wiki/Metaphase" title="Metaphase">metaphase</a> or <a href="/wiki/Prometaphase" title="Prometaphase">prometaphase</a> and then staining them with some sort of dye (most commonly, <a href="/wiki/Giemsa_stain" title="Giemsa stain">Giemsa</a>).<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> These chromosomes are typically viewed as <a class="mw-redirect" href="/wiki/Karyogram" title="Karyogram">karyograms</a> for easy comparison. Clinical geneticists can compare the karyogram of an individual to a reference karyogram to discover the cytogenetic basis of certain <a href="/wiki/Phenotype" title="Phenotype">phenotypes</a>. For example, the karyogram of someone with <a href="/wiki/Patau_syndrome" title="Patau syndrome">Patau Syndrome</a> would show that they possess three copies of <a href="/wiki/Chromosome_13_(human)" title="Chromosome 13 (human)">chromosome 13</a>. Karyograms and staining techniques can only detect large-scale disruptions to chromosomes—chromosomal aberrations smaller than a few million base pairs generally cannot be seen on a karyogram.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<table border="1" class="wikitable" style="width: 75%; margin: 1em auto 1em auto;">
+<tr>
+<th colspan="2"><a href="/wiki/Karyotype" title="Karyotype">Karyotype</a> of human chromosomes</th>
+</tr>
+<tr>
+<td align="center">Female (XX)</td>
+<td align="center">Male (XY)</td>
+</tr>
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a class="image" href="/wiki/File:PLoSBiol3.5.Fig7ChromosomesAluFish.jpg"><img alt="PLoSBiol3.5.Fig7ChromosomesAluFish.jpg" data-file-height="640" data-file-width="2346" height="115" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/PLoSBiol3.5.Fig7ChromosomesAluFish.jpg/420px-PLoSBiol3.5.Fig7ChromosomesAluFish.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/PLoSBiol3.5.Fig7ChromosomesAluFish.jpg/630px-PLoSBiol3.5.Fig7ChromosomesAluFish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/PLoSBiol3.5.Fig7ChromosomesAluFish.jpg/840px-PLoSBiol3.5.Fig7ChromosomesAluFish.jpg 2x" width="420"/></a></div>
+</div>
+</td>
+<td>
+<div class="center">
+<div class="floatnone"><a class="image" href="/wiki/File:Human_male_karyotype.gif"><img alt="Human male karyotype.gif" data-file-height="331" data-file-width="424" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Human_male_karyotype.gif/331px-Human_male_karyotype.gif" srcset="//upload.wikimedia.org/wikipedia/commons/f/fd/Human_male_karyotype.gif 1.5x" width="331"/></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">There are two copies of each <b>autosome</b> (chromosomes 1–22) in both females and males. The <b>sex chromosomes</b> are different: There are two copies of the X-chromosome in females, but males have a single X-chromosome and a Y-chromosome.</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Autosomal_genetic_disorders">Autosomal genetic disorders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autosome&amp;action=edit&amp;section=1" title="Edit section: Autosomal genetic disorders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:208px;"><a class="image" href="/wiki/File:Autosomal_recessive_inheritance.gif"><img alt="" class="thumbimage" data-file-height="218" data-file-width="206" height="218" src="//upload.wikimedia.org/wikipedia/commons/a/a0/Autosomal_recessive_inheritance.gif" width="206"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Autosomal_recessive_inheritance.gif" title="Enlarge"></a></div>
+An illustration of the inheritance pattern and phenotypic effects of an autosomal recessive gene.</div>
+</div>
+</div>
+<p>Autosomal genetic disorders can arise due to a number of causes, some of the most common being <a href="/wiki/Nondisjunction" title="Nondisjunction">nondisjunction</a> in parental germ cells or <a href="/wiki/Mendelian_inheritance" title="Mendelian inheritance">Mendelian inheritance</a> of deleterious alleles from parents. Autosomal genetic disorders which exhibit Mendelian inheritance can be inherited either in an <a class="mw-redirect" href="/wiki/Autosomal_dominant" title="Autosomal dominant">autosomal dominant</a> or recessive fashion.<sup class="reference" id="cite_ref-:0_7-0"><a href="#cite_note-:0-7">[7]</a></sup> These disorders manifest in and are passed on by either sex with equal frequency.<sup class="reference" id="cite_ref-:0_7-1"><a href="#cite_note-:0-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Autosomal dominant disorders are often present in both parent and child, as the child needs to inherit only one copy of the deleterious <a href="/wiki/Allele" title="Allele">allele</a> to manifest the disease. Autosomal recessive diseases, however, require two copies of the deleterious allele for the disease to manifest. Because it is possible to possess one copy of a deleterious allele without presenting a disease phenotype, two phenotypically normal parents can have a child with the disease if both parents are carriers (also known as <a class="mw-redirect" href="/wiki/Heterozygote" title="Heterozygote">heterozygotes</a>) for the condition.</p>
+<p>Autosomal <a href="/wiki/Aneuploidy" title="Aneuploidy">aneuploidy</a> can also result in disease conditions. Aneuploidy of autosomes is not well tolerated and usually results in miscarriage of the developing fetus. Fetuses with aneuploidy of gene-rich chromosomes—such as <a href="/wiki/Chromosome_1_(human)" title="Chromosome 1 (human)">chromosome 1</a>—never survive to term,<sup class="reference" id="cite_ref-:1_9-0"><a href="#cite_note-:1-9">[9]</a></sup> and fetuses with aneuploidy of gene-poor chromosomes—such as <a href="/wiki/Chromosome_21_(human)" title="Chromosome 21 (human)">chromosome 21</a>— are still miscarried over 23% of the time.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Possessing a single copy of an autosome (known as a monosomy) is nearly always incompatible with life, though very rarely some monosomies can survive past birth. Having three copies of an autosome (known as a trisomy) is far more compatible with life, however. A common example is <a href="/wiki/Down_syndrome" title="Down syndrome">Down syndrome</a>, which is caused by possessing three copies of <a href="/wiki/Chromosome_21_(human)" title="Chromosome 21 (human)">chromosome 21</a> instead of the usual two.<sup class="reference" id="cite_ref-:1_9-1"><a href="#cite_note-:1-9">[9]</a></sup></p>
+<p>Partial aneuploidy can also occur as a result of <a href="/wiki/Chromosomal_translocation" title="Chromosomal translocation">unbalanced translocations</a> during meiosis.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Deletions of part of a chromosome cause partial monosomies, while duplications can cause partial trisomies. If the duplication or deletion is large enough, it can be discovered by analyzing a karyogram of the individual. Autosomal translocations can be responsible for a number of diseases, ranging from <a href="/wiki/Cancer" title="Cancer">cancer</a> to <a href="/wiki/Schizophrenia" title="Schizophrenia">schizophrenia</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Unlike single gene disorders, diseases caused by aneuploidy are the result of improper <a href="/wiki/Gene_dosage" title="Gene dosage">gene dosage</a>, not nonfunctional gene product.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autosome&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Aneuploidy" title="Aneuploidy">Aneuploidy</a> (abnormal number of chromosomes)</li>
+<li><a class="mw-redirect" href="/wiki/Autosomal_dominant" title="Autosomal dominant">Autosomal dominant</a></li>
+<li><a class="mw-redirect" href="/wiki/Autosomal_recessive" title="Autosomal recessive">Autosomal recessive</a></li>
+<li><a href="/wiki/Homologous_chromosome" title="Homologous chromosome">Homologous chromosome</a></li>
+<li><a href="/wiki/Pseudoautosomal_region" title="Pseudoautosomal region">Pseudoautosomal region</a></li>
+<li><a href="/wiki/XY_sex-determination_system" title="XY sex-determination system">XY sex-determination system</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autosome&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Griffiths, Anthony J. F. (1999). <a class="external text" href="https://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=autosome&amp;rid=iga.section.222" rel="nofollow"><i>An Introduction to genetic analysis</i></a>. New York: W.H. Freeman. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7167-3771-X" title="Special:BookSources/0-7167-3771-X">0-7167-3771-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.aufirst=Anthony+J.+F.&amp;rft.aulast=Griffiths&amp;rft.btitle=An+Introduction+to+genetic+analysis&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=0-7167-3771-X&amp;rft.place=New+York&amp;rft.pub=W.H.+Freeman&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fbooks%2Fbv.fcgi%3Fhighlight%3Dautosome%26rid%3Diga.section.222&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.isogg.org/wiki/Autosomal_DNA" rel="nofollow">http://www.isogg.org/wiki/Autosomal_DNA</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="http://ghr.nlm.nih.gov/glossary=autosome" rel="nofollow">http://ghr.nlm.nih.gov/glossary=autosome</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Foster, Jamie W., et al. "Campomelic dysplasia and autosomal sex reversal caused by mutations in an SRY-related gene." <i>Nature</i> 372.6506 (1994): 525–529.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.encyclopedia.com/topic/Chromosome_mapping.aspx" rel="nofollow">"Chromosome mapping Facts, information, pictures | Encyclopedia.com articles about Chromosome mapping"</a>. <i>www.encyclopedia.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-04</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=Chromosome+mapping+Facts%2C+information%2C+pictures+%7C+Encyclopedia.com+articles+about+Chromosome+mapping&amp;rft.genre=unknown&amp;rft.jtitle=www.encyclopedia.com&amp;rft_id=http%3A%2F%2Fwww.encyclopedia.com%2Ftopic%2FChromosome_mapping.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Nussbaum RL, McInnes RR, Willard HF, Hamosh A, Thompson MW. <i>Thompson &amp; Thompson Genetics in Medicine.</i> 7th ed., page 69. Philadelphia: Saunders/Elsevier; 2007</span></li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.britannica.com/science/human-genetic-disease" rel="nofollow">"human genetic disease"</a>. <i>Encyclopædia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=human+genetic+disease&amp;rft.genre=unknown&amp;rft.jtitle=Encyclop%C3%A6dia+Britannica&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2Fscience%2Fhuman-genetic-disease&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nature.com/scitable/topicpage/mendelian-genetics-patterns-of-inheritance-and-single-966" rel="nofollow">"Gregor Mendel and Single-Gene Disorders | Learn Science at Scitable"</a>. <i>www.nature.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=Gregor+Mendel+and+Single-Gene+Disorders+%7C+Learn+Science+at+Scitable&amp;rft.genre=unknown&amp;rft.jtitle=www.nature.com&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fscitable%2Ftopicpage%2Fmendelian-genetics-patterns-of-inheritance-and-single-966&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-:1-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Wang, Jin-Chen C. (2005-01-01). Gersen, Steven L.; MEd, Martha B. Keagle, eds. <a class="external text" href="https://link.springer.com/chapter/10.1385/1-59259-833-1%3A133" rel="nofollow"><i>Autosomal Aneuploidy</i></a>. Humana Press. pp. 133–164. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-58829-300-8" title="Special:BookSources/978-1-58829-300-8">978-1-58829-300-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.aufirst=Jin-Chen+C.&amp;rft.aulast=Wang&amp;rft.btitle=Autosomal+Aneuploidy&amp;rft.date=2005-01-01&amp;rft.genre=book&amp;rft.isbn=978-1-58829-300-8&amp;rft.pages=133-164&amp;rft.pub=Humana+Press&amp;rft_id=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1385%2F1-59259-833-1%253A133&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Savva, George M.; Morris, Joan K.; Mutton, David E.; Alberman, Eva (2006-06-01). "Maternal age-specific fetal loss rates in Down syndrome pregnancies". <i>Prenatal Diagnosis</i>. <b>26</b> (6): 499–504. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0197-3851" rel="nofollow">0197-3851</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16634111" rel="nofollow">16634111</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fpd.1443" rel="nofollow">10.1002/pd.1443</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=Maternal+age-specific+fetal+loss+rates+in+Down+syndrome+pregnancies&amp;rft.au=Alberman%2C+Eva&amp;rft.au=Morris%2C+Joan+K.&amp;rft.au=Mutton%2C+David+E.&amp;rft.aufirst=George+M.&amp;rft.aulast=Savva&amp;rft.date=2006-06-01&amp;rft.genre=article&amp;rft.issn=0197-3851&amp;rft.issue=6&amp;rft.jtitle=Prenatal+Diagnosis&amp;rft.pages=499-504&amp;rft.volume=26&amp;rft_id=info%3Adoi%2F10.1002%2Fpd.1443&amp;rft_id=info%3Apmid%2F16634111&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ghr.nlm.nih.gov/glossary=translocation" rel="nofollow">"Translocation - Glossary Entry"</a>. <i>Genetics Home Reference</i>. 2015-11-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=Translocation+-+Glossary+Entry&amp;rft.date=2015-11-02&amp;rft.genre=unknown&amp;rft.jtitle=Genetics+Home+Reference&amp;rft_id=http%3A%2F%2Fghr.nlm.nih.gov%2Fglossary%3Dtranslocation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Strefford, Jonathan C.; An, Qian; Harrison, Christine J. (2009-07-15). "Modeling the molecular consequences of unbalanced translocations in cancer: lessons from acute lymphoblastic leukemia". <i>Cell Cycle (Georgetown, Tex.)</i>. <b>8</b> (14): 2175–2184. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1551-4005" rel="nofollow">1551-4005</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19556891" rel="nofollow">19556891</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.4161%2Fcc.8.14.9103" rel="nofollow">10.4161/cc.8.14.9103</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=Modeling+the+molecular+consequences+of+unbalanced+translocations+in+cancer%3A+lessons+from+acute+lymphoblastic+leukemia&amp;rft.au=An%2C+Qian&amp;rft.au=Harrison%2C+Christine+J.&amp;rft.aufirst=Jonathan+C.&amp;rft.aulast=Strefford&amp;rft.date=2009-07-15&amp;rft.genre=article&amp;rft.issn=1551-4005&amp;rft.issue=14&amp;rft.jtitle=Cell+Cycle+%28Georgetown%2C+Tex.%29&amp;rft.pages=2175-2184&amp;rft.volume=8&amp;rft_id=info%3Adoi%2F10.4161%2Fcc.8.14.9103&amp;rft_id=info%3Apmid%2F19556891&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Klar, Amar J. S. (2002-04-01). <a class="external text" href="http://www.genetics.org/content/160/4/1745" rel="nofollow">"The Chromosome 1;11 Translocation Provides the Best Evidence Supporting Genetic Etiology for Schizophrenia and Bipolar Affective Disorders"</a>. <i>Genetics</i>. <b>160</b> (4): 1745–1747. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0016-6731" rel="nofollow">0016-6731</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1462039" rel="nofollow">1462039</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11973326" rel="nofollow">11973326</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=The+Chromosome+1%3B11+Translocation+Provides+the+Best+Evidence+Supporting+Genetic+Etiology+for+Schizophrenia+and+Bipolar+Affective+Disorders&amp;rft.aufirst=Amar+J.+S.&amp;rft.aulast=Klar&amp;rft.date=2002-04-01&amp;rft.genre=article&amp;rft.issn=0016-6731&amp;rft.issue=4&amp;rft.jtitle=Genetics&amp;rft.pages=1745-1747&amp;rft.volume=160&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1462039&amp;rft_id=http%3A%2F%2Fwww.genetics.org%2Fcontent%2F160%2F4%2F1745&amp;rft_id=info%3Apmid%2F11973326&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Disteche, Christine M. (2012-01-01). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3767307" rel="nofollow">"Dosage Compensation of the Sex Chromosomes"</a>. <i>Annual Review of Genetics</i>. <b>46</b>: 537–560. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0066-4197" rel="nofollow">0066-4197</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3767307" rel="nofollow">3767307</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22974302" rel="nofollow">22974302</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1146%2Fannurev-genet-110711-155454" rel="nofollow">10.1146/annurev-genet-110711-155454</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutosome&amp;rft.atitle=Dosage+Compensation+of+the+Sex+Chromosomes&amp;rft.aufirst=Christine+M.&amp;rft.aulast=Disteche&amp;rft.date=2012-01-01&amp;rft.genre=article&amp;rft.issn=0066-4197&amp;rft.jtitle=Annual+Review+of+Genetics&amp;rft.pages=537-560&amp;rft.volume=46&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3767307&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3767307&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev-genet-110711-155454&amp;rft_id=info%3Apmid%2F22974302&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<div aria-labelledby="Cytogenetics:_chromosomes" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chromosome_genetics" title="Template talk:Chromosome genetics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chromosome_genetics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cytogenetics:_chromosomes" style="font-size:114%;margin:0 4em"><a href="/wiki/Cytogenetics" title="Cytogenetics">Cytogenetics</a>: <a href="/wiki/Chromosome" title="Chromosome">chromosomes</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Basic<br/>
+concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Karyotype" title="Karyotype">Karyotype</a></li>
+<li><a href="/wiki/Ploidy" title="Ploidy">Ploidy</a></li>
+<li><a class="mw-redirect" href="/wiki/Genetic_material" title="Genetic material">Genetic material</a>/<a href="/wiki/Genome" title="Genome">Genome</a></li>
+<li><a href="/wiki/Chromatin" title="Chromatin">Chromatin</a>
+<ul>
+<li><a href="/wiki/Euchromatin" title="Euchromatin">Euchromatin</a></li>
+<li><a href="/wiki/Heterochromatin" title="Heterochromatin">Heterochromatin</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chromosome" title="Chromosome">Chromosome</a></li>
+<li><a href="/wiki/Chromatid" title="Chromatid">Chromatid</a></li>
+<li><a href="/wiki/Nucleosome" title="Nucleosome">Nucleosome</a></li>
+<li><a href="/wiki/Nuclear_organization" title="Nuclear organization">Nuclear organization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Types</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Autosome</a>/<a href="/wiki/Sex-determination_system" title="Sex-determination system">Sex chromosome</a> (or <a href="/wiki/Allosome" title="Allosome">allosome</a> or heterosome)</li>
+<li><a href="/wiki/Microchromosome" title="Microchromosome">Macrochromosome/Microchromosome</a></li>
+<li><a href="/wiki/Circular_bacterial_chromosome" title="Circular bacterial chromosome">Circular chromosome</a>/<a class="new" href="/w/index.php?title=Linear_chromosome&amp;action=edit&amp;redlink=1" title="Linear chromosome (page does not exist)">Linear chromosome</a></li>
+<li><a class="mw-redirect" href="/wiki/Extra_chromosome" title="Extra chromosome">Extra chromosome</a> (or accessory chromosome)</li>
+<li><a href="/wiki/Small_supernumerary_marker_chromosome" title="Small supernumerary marker chromosome">Supernumerary chromosome</a></li>
+<li><a href="/wiki/B_chromosome" title="B chromosome">A chromosome/B chromosome</a></li>
+<li><a href="/wiki/Lampbrush_chromosome" title="Lampbrush chromosome">Lampbrush chromosome</a></li>
+<li><a href="/wiki/Polytene_chromosome" title="Polytene chromosome">Polytene chromosome</a></li>
+<li><a href="/wiki/Dinokaryon" title="Dinokaryon">Dinoflagellate chromosomes</a></li>
+<li><a href="/wiki/Homologous_chromosome" title="Homologous chromosome">Homologous chromosome</a></li>
+<li><a href="/wiki/Isochromosome" title="Isochromosome">Isochromosome</a></li>
+<li><a href="/wiki/Satellite_chromosome" title="Satellite chromosome">Satellite chromosome</a></li>
+<li><i>Centromere position</i>
+<ul>
+<li><a href="/wiki/Centromere#Metacentric" title="Centromere">Metacentric</a></li>
+<li><a class="mw-redirect" href="/wiki/Submetacentric" title="Submetacentric">Submetacentric</a></li>
+<li><a class="mw-redirect" href="/wiki/Telocentric" title="Telocentric">Telocentric</a></li>
+<li><a class="mw-redirect" href="/wiki/Acrocentric" title="Acrocentric">Acrocentric</a></li>
+<li><a href="/wiki/Centromere#Holocentric" title="Centromere">Holocentric</a></li>
+</ul>
+</li>
+<li><i>Centromere number</i>
+<ul>
+<li><a href="/wiki/Acentric_fragment" title="Acentric fragment">Acentric</a></li>
+<li><a class="new" href="/w/index.php?title=Monocentric&amp;action=edit&amp;redlink=1" title="Monocentric (page does not exist)">Monocentric</a></li>
+<li><a class="new" href="/w/index.php?title=Dicentric&amp;action=edit&amp;redlink=1" title="Dicentric (page does not exist)">Dicentric</a></li>
+<li><a href="/wiki/Polycentric_chromosome" title="Polycentric chromosome">Polycentric</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Processes<br/>
+and evolution</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mitosis" title="Mitosis">Mitosis</a></li>
+<li><a href="/wiki/Meiosis" title="Meiosis">Meiosis</a></li>
+<li><a href="/wiki/Chromosome_abnormality#Structural_abnormalities" title="Chromosome abnormality">Structural alterations</a>
+<ul>
+<li><a href="/wiki/Chromosomal_inversion" title="Chromosomal inversion">Chromosomal inversion</a></li>
+<li><a href="/wiki/Chromosomal_translocation" title="Chromosomal translocation">Chromosomal translocation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chromosome_abnormality#Numerical_disorders" title="Chromosome abnormality">Numerical alterations</a>
+<ul>
+<li><a href="/wiki/Aneuploidy" title="Aneuploidy">Aneuploidy</a></li>
+<li><a class="mw-redirect" href="/wiki/Euploidy" title="Euploidy">Euploidy</a></li>
+<li><a href="/wiki/Polyploid" title="Polyploid">Polyploidy</a></li>
+<li><a href="/wiki/Paleopolyploidy" title="Paleopolyploidy">Paleopolyploidy</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/Polyploidization" title="Polyploidization">Polyploidization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Structures</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Telomere" title="Telomere">Telomere</a>: <a href="/wiki/Telomere-binding_protein" title="Telomere-binding protein">Telomere-binding protein</a> (<a href="/wiki/TINF2" title="TINF2">TINF2</a>)</li>
+<li><a href="/wiki/Protamine" title="Protamine">Protamine</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Histone" title="Histone">Histone</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Histone_H1" title="Histone H1">H1</a></li>
+<li><a href="/wiki/Histone_H2A" title="Histone H2A">H2A</a></li>
+<li><a href="/wiki/Histone_H2B" title="Histone H2B">H2B</a></li>
+<li><a href="/wiki/Histone_H3" title="Histone H3">H3</a></li>
+<li><a href="/wiki/Histone_H4" title="Histone H4">H4</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Centromere" title="Centromere">Centromere</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CENPA" title="CENPA">A</a></li>
+<li><a href="/wiki/Centromere_protein_B" title="Centromere protein B">B</a></li>
+<li><a href="/wiki/CENPC1" title="CENPC1">C1</a></li>
+<li><a class="new" href="/w/index.php?title=CENPC2&amp;action=edit&amp;redlink=1" title="CENPC2 (page does not exist)">C2</a></li>
+<li><a href="/wiki/Centromere_protein_E" title="Centromere protein E">E</a></li>
+<li><a href="/wiki/CENPF" title="CENPF">F</a></li>
+<li><a href="/wiki/CENPH" title="CENPH">H</a></li>
+<li><a href="/wiki/CENPI" title="CENPI">I</a></li>
+<li><a href="/wiki/CENPJ" title="CENPJ">J</a></li>
+<li><a href="/wiki/CENPK" title="CENPK">K</a></li>
+<li><a href="/wiki/CENPM" title="CENPM">M</a></li>
+<li><a href="/wiki/CENPN" title="CENPN">N</a></li>
+<li><a href="/wiki/CENPO" title="CENPO">O</a></li>
+<li><a class="new" href="/w/index.php?title=CENPP&amp;action=edit&amp;redlink=1" title="CENPP (page does not exist)">P</a></li>
+<li><a class="new" href="/w/index.php?title=CENPQ&amp;action=edit&amp;redlink=1" title="CENPQ (page does not exist)">Q</a></li>
+<li><a href="/wiki/CENPT" title="CENPT">T</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">See also</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extrachromosomal_DNA" title="Extrachromosomal DNA">Extrachromosomal DNA</a>
+<ul>
+<li><a href="/wiki/Plasmid" title="Plasmid">Plasmid</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_organisms_by_chromosome_count" title="List of organisms by chromosome count">List of organisms by chromosome count</a></li>
+<li><a class="new" href="/w/index.php?title=List_of_chromosome_lengths_for_various_organisms&amp;action=edit&amp;redlink=1" title="List of chromosome lengths for various organisms (page does not exist)">List of chromosome lengths for various organisms</a></li>
+<li><a href="/wiki/List_of_sequenced_eukaryotic_genomes" title="List of sequenced eukaryotic genomes">List of sequenced genomes</a></li>
+<li><a href="/wiki/International_System_for_Human_Cytogenetic_Nomenclature" title="International System for Human Cytogenetic Nomenclature">International System for Human Cytogenetic Nomenclature</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Human_genome" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chromosomes" title="Template:Chromosomes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chromosomes" title="Template talk:Chromosomes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chromosomes&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Human_genome" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_genome" title="Human genome">Human genome</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Nuclear_DNA" title="Nuclear DNA">Nuclear genome</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Autosome</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chromosome_1_(human)" title="Chromosome 1 (human)">1</a></li>
+<li><a href="/wiki/Chromosome_2_(human)" title="Chromosome 2 (human)">2</a></li>
+<li><a href="/wiki/Chromosome_3_(human)" title="Chromosome 3 (human)">3</a></li>
+<li><a href="/wiki/Chromosome_4_(human)" title="Chromosome 4 (human)">4</a></li>
+<li><a href="/wiki/Chromosome_5_(human)" title="Chromosome 5 (human)">5</a></li>
+<li><a href="/wiki/Chromosome_6_(human)" title="Chromosome 6 (human)">6</a></li>
+<li><a href="/wiki/Chromosome_7_(human)" title="Chromosome 7 (human)">7</a></li>
+<li><a href="/wiki/Chromosome_8_(human)" title="Chromosome 8 (human)">8</a></li>
+<li><a href="/wiki/Chromosome_9_(human)" title="Chromosome 9 (human)">9</a></li>
+<li><a href="/wiki/Chromosome_10_(human)" title="Chromosome 10 (human)">10</a></li>
+<li><a href="/wiki/Chromosome_11_(human)" title="Chromosome 11 (human)">11</a></li>
+<li><a href="/wiki/Chromosome_12_(human)" title="Chromosome 12 (human)">12</a></li>
+<li><a href="/wiki/Chromosome_13_(human)" title="Chromosome 13 (human)">13</a></li>
+<li><a href="/wiki/Chromosome_14_(human)" title="Chromosome 14 (human)">14</a></li>
+<li><a href="/wiki/Chromosome_15_(human)" title="Chromosome 15 (human)">15</a></li>
+<li><a href="/wiki/Chromosome_16_(human)" title="Chromosome 16 (human)">16</a></li>
+<li><a href="/wiki/Chromosome_17_(human)" title="Chromosome 17 (human)">17</a></li>
+<li><a href="/wiki/Chromosome_18_(human)" title="Chromosome 18 (human)">18</a></li>
+<li><a href="/wiki/Chromosome_19_(human)" title="Chromosome 19 (human)">19</a></li>
+<li><a href="/wiki/Chromosome_20_(human)" title="Chromosome 20 (human)">20</a></li>
+<li><a href="/wiki/Chromosome_21_(human)" title="Chromosome 21 (human)">21</a></li>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Allosome" title="Allosome">Sex chromosome</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/X_chromosome" title="X chromosome">X</a></li>
+<li><a href="/wiki/Y_chromosome" title="Y chromosome">Y</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mitochondrial_DNA" title="Mitochondrial DNA">Mitochondrial genome</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/Human_mitochondrial_genetics" title="Human mitochondrial genetics">Human mitochondrial DNA</a></div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1186
+Cached time: 20171026045903
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.191 seconds
+Preprocessor visited node count: 712/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 48808/2097152 bytes
+Template argument size: 72/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.062/10.000 seconds
+Lua memory usage: 3.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  144.600      1 -total
+ 63.66%   92.053      1 Template:Reflist
+ 24.12%   34.879      2 Template:Cite_book
+ 14.87%   21.504      1 Template:About
+ 14.39%   20.808      4 Template:Navbox
+ 11.78%   17.031      4 Template:Cite_journal
+ 10.65%   15.397      1 Template:Chromo
+ 10.47%   15.144      4 Template:Cite_web
+  4.43%    6.411      1 Template:Chromosomes
+  1.21%    1.752      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1916-0!canonical and timestamp 20171026045903 and revision id 797939469
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Autosome&amp;oldid=797939469">https://en.wikipedia.org/w/index.php?title=Autosome&amp;oldid=797939469</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chromosomes" title="Category:Chromosomes">Chromosomes</a></li><li><a href="/wiki/Category:Cytogenetics" title="Category:Cytogenetics">Cytogenetics</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Autosome" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Autosome" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Autosome" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Autosome" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Autosome">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Autosome&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Autosome&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Autosome" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Autosome" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Autosome&amp;oldid=797939469" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Autosome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q186380" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Autosome&amp;id=797939469" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Autosome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Autosome&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Autosome&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Autosomes" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B5%D8%A8%D8%BA%D9%8A_%D8%AC%D8%B3%D9%85%D9%8A" hreflang="ar" lang="ar" title="صبغي جسمي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A6%9C%E0%A7%8B%E0%A6%AE" hreflang="bn" lang="bn" title="অটোজোম – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Si%C3%B4ng-ji%C3%A1m-sek-th%C3%A9" hreflang="zh-min-nan" lang="zh-min-nan" title="Siông-jiám-sek-thé – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%BE%D0%BC%D0%B8" hreflang="bg" lang="bg" title="Автозоми – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Autosom" hreflang="bs" lang="bs" title="Autosom – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Autosoma" hreflang="ca" lang="ca" title="Autosoma – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Autoz%C3%B3m" hreflang="cs" lang="cs" title="Autozóm – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Autosom" hreflang="da" lang="da" title="Autosom – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Autosom" hreflang="de" lang="de" title="Autosom – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Autosoom" hreflang="et" lang="et" title="Autosoom – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Autosoma" hreflang="es" lang="es" title="Autosoma – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/A%C5%ADtosomo" hreflang="eo" lang="eo" title="Aŭtosomo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Autosoma" hreflang="eu" lang="eu" title="Autosoma – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D9%88%D8%B2%D9%88%D9%85" hreflang="fa" lang="fa" title="اتوزوم – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Autosome" hreflang="fr" lang="fr" title="Autosome – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Uaths%C3%B3im" hreflang="ga" lang="ga" title="Uathsóim – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Autosoma" hreflang="gl" lang="gl" title="Autosoma – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%83%81%EC%97%BC%EC%83%89%EC%B2%B4" hreflang="ko" lang="ko" title="상염색체 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Autosom" hreflang="hr" lang="hr" title="Autosom – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Samlitningur" hreflang="is" lang="is" title="Samlitningur – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Autosoma" hreflang="it" lang="it" title="Autosoma – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%98%D7%95%D7%96%D7%95%D7%9D" hreflang="he" lang="he" title="אוטוזום – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D1%83%D1%82%D0%BE%D1%81%D0%BE%D0%BC%D0%B0%D0%BB%D0%B0%D1%80" hreflang="kk" lang="kk" title="Аутосомалар – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Otoz%C3%B2m" hreflang="ht" lang="ht" title="Otozòm – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Otozom" hreflang="ku" lang="ku" title="Otozom – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Autosoma" hreflang="lt" lang="lt" title="Autosoma – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Autosz%C3%B3ma" hreflang="hu" lang="hu" title="Autoszóma – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Autosoom" hreflang="nl" lang="nl" title="Autosoom – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%B8%B8%E6%9F%93%E8%89%B2%E4%BD%93" hreflang="ja" lang="ja" title="常染色体 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Autosom" hreflang="no" lang="no" title="Autosom – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Autosomy" hreflang="pl" lang="pl" title="Autosomy – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Autossomo" hreflang="pt" lang="pt" title="Autossomo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Autozom" hreflang="ro" lang="ro" title="Autozom – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D1%83%D1%82%D0%BE%D1%81%D0%BE%D0%BC%D0%B0" hreflang="ru" lang="ru" title="Аутосома – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Avtosom" hreflang="sl" lang="sl" title="Avtosom – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%84%DB%95%D8%B4%DB%95%DA%A9%DA%95%DB%86%D9%85%DB%86%D8%B3%DB%86%D9%85" hreflang="ckb" lang="ckb" title="لەشەکڕۆمۆسۆم – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%90%D1%83%D1%82%D0%BE%D0%B7%D0%BE%D0%BC" hreflang="sr" lang="sr" title="Аутозом – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Autosom" hreflang="sh" lang="sh" title="Autosom – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Autosomi" hreflang="fi" lang="fi" title="Autosomi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Autosom" hreflang="sv" lang="sv" title="Autosom – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%A9%E0%AF%8D%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF" hreflang="ta" lang="ta" title="தன்நிறப்புரி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%AD%E0%B9%82%E0%B8%95%E0%B9%82%E0%B8%8B%E0%B8%A1" hreflang="th" lang="th" title="ออโตโซม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Otozomlar" hreflang="tr" lang="tr" title="Otozomlar – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D1%83%D1%82%D0%BE%D1%81%D0%BE%D0%BC%D0%B0" hreflang="uk" lang="uk" title="Аутосома – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E5%B8%B8%E6%9F%93%E8%89%B2%E9%AB%94" hreflang="zh-classical" lang="zh-classical" title="常染色體 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B8%B8%E6%9F%93%E8%89%B2%E4%BD%93" hreflang="zh" lang="zh" title="常染色体 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q186380#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 August 2017, at 02:05.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Autosome&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.191","ppvisitednodes":{"value":712,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":48808,"limit":2097152},"templateargumentsize":{"value":72,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  144.600      1 -total"," 63.66%   92.053      1 Template:Reflist"," 24.12%   34.879      2 Template:Cite_book"," 14.87%   21.504      1 Template:About"," 14.39%   20.808      4 Template:Navbox"," 11.78%   17.031      4 Template:Cite_journal"," 10.65%   15.397      1 Template:Chromo"," 10.47%   15.144      4 Template:Cite_web","  4.43%    6.411      1 Template:Chromosomes","  1.21%    1.752      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":3352307,"limit":52428800}},"cachereport":{"origin":"mw1186","timestamp":"20171026045903","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1185"});});</script>
+</body>
+</html>

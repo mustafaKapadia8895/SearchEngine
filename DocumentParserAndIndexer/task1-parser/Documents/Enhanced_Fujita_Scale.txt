@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Enhanced Fujita scale - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Enhanced_Fujita_scale","wgTitle":"Enhanced Fujita scale","wgCurRevisionId":805501301,"wgRevisionId":805501301,"wgArticleId":3724479,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles to be expanded from May 2013","All articles to be expanded","Articles using small message boxes","Hazard scales","Wind","Tornado"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Enhanced_Fujita_scale","wgRelevantArticleId":3724479,"wgRequestId":"Wfy9BQpAIC4AAFjE2DYAAABV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Enhanced_Fujita_Scale","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Enhanced_Fujita_scale","wgWikibaseItemId":"Q429050","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Enhanced_Fujita_scale" rel="alternate"/>
+<link href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Enhanced_Fujita_scale" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Enhanced_Fujita_scale rootpage-Enhanced_Fujita_scale vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Enhanced Fujita scale</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Enhanced_Fujita_Scale&amp;redirect=no" title="Enhanced Fujita Scale">Enhanced Fujita Scale</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note"><a class="mw-redirect" href="/wiki/EF5" title="EF5">EF5</a> redirects here. For an organic chemical radioisotope used in cancer research, see <a href="/wiki/18F-EF5" title="18F-EF5">18F-EF5</a>.</div>
+<table align="right" border="0" cellpadding="0" cellspacing="0" style="background:transparent; margin: .1em; text-align:center">
+<tr>
+<td colspan="7" nowrap="nowrap"><small><a class="mw-selflink selflink">Enhanced Fujita Scale</a></small></td>
+</tr>
+<tr>
+<td style="background-color:#00faf4;width:2.2em" title="EF0: 65-85 mph; Light damage">EF0</td>
+<td style="background-color:#ffffcc;width:2.2em" title="EF1: 86-110 mph; Moderate damage">EF1</td>
+<td style="background-color:#ffe775;width:2.2em" title="EF2: 111-135 mph; Considerable damage">EF2</td>
+<td style="background-color:#ffc140;width:2.2em" title="EF3: 136-165 mph; Severe damage">EF3</td>
+<td style="background-color:#ff8f20;width:2.2em" title="EF4: 166-200 mph; Devastating damage">EF4</td>
+<td style="background-color:#ff6060;width:2.2em" title="EF5: &gt;200 mph; Incredible damage">EF5</td>
+</tr>
+</table>
+<p>The <b>Enhanced Fujita scale</b> (<b>EF-Scale</b>) rates the intensity of <a href="/wiki/Tornado" title="Tornado">tornadoes</a> in the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/Canada" title="Canada">Canada</a> based on the damage they cause.</p>
+<p>Implemented in place of the <a href="/wiki/Fujita_scale" title="Fujita scale">Fujita scale</a> introduced in 1971 by <a href="/wiki/Ted_Fujita" title="Ted Fujita">Tetsuya Theodore Fujita</a>, it began operational use in the United States on February 1, 2007, followed by Canada on April 1, 2013.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The scale has the same basic design as the original Fujita scale—six categories from zero to five, representing increasing degrees of damage. It was revised to reflect better examinations of tornado damage surveys, so as to align wind speeds more closely with associated storm damage. Better standardizing and elucidating what was previously subjective and ambiguous, it also adds more types of structures and vegetation, expands degrees of damage, and better accounts for variables such as differences in construction quality.</p>
+<p>The newer scale was publicly unveiled by the <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> at a conference of the <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a> in <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a> on February 2, 2006. It was developed from 2000 to 2004 by the Fujita Scale Enhancement Project of the <a class="mw-redirect" href="/wiki/Wind_Science_and_Engineering_Research_Center" title="Wind Science and Engineering Research Center">Wind Science and Engineering Research Center</a> at <a href="/wiki/Texas_Tech_University" title="Texas Tech University">Texas Tech University</a>, which brought together dozens of expert <a class="mw-redirect" href="/wiki/Meteorologist" title="Meteorologist">meteorologists</a> and <a href="/wiki/Civil_engineer" title="Civil engineer">civil engineers</a> in addition to its own resources.</p>
+<p>As with the Fujita scale, the Enhanced Fujita scale remains a damage scale and only a proxy for actual wind speeds. While the wind speeds associated with the damage listed have not undergone empirical analysis (such as detailed physical or any numerical modeling) owing to excessive cost, the wind speeds were obtained through a process of <a href="/wiki/Expert_elicitation" title="Expert elicitation">expert elicitation</a> based on various engineering studies since the 1970s as well as from field experience of meteorologists and engineers. In addition to damage to structures and vegetation, radar data, <a href="/wiki/Photogrammetry" title="Photogrammetry">photogrammetry</a>, and <a class="mw-redirect" href="/wiki/Cycloidal" title="Cycloidal">cycloidal</a> marks (ground swirl patterns) may be utilized when available.</p>
+<p>The scale was used for the first time in the United States a year after its public announcement when parts of central Florida were struck by <a class="mw-redirect" href="/wiki/2007_Central_Florida_tornadoes" title="2007 Central Florida tornadoes">multiple tornadoes</a>, the strongest of which were rated at EF3 on the new scale. It was used for the first time in Canada shortly after its implementation there when a tornado developed near the town on <a href="/wiki/Shelburne,_Ontario" title="Shelburne, Ontario">Shelburne, Ontario</a> on April 18, 2013, causing up to EF1 damage.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Parameters"><span class="tocnumber">1</span> <span class="toctext">Parameters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Damage_indicators_and_degrees_of_damage"><span class="tocnumber">1.1</span> <span class="toctext">Damage indicators and degrees of damage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Differences_from_the_Fujita_scale"><span class="tocnumber">2</span> <span class="toctext">Differences from the Fujita scale</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Rating_classifications"><span class="tocnumber">3</span> <span class="toctext">Rating classifications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Parameters">Parameters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=1" title="Edit section: Parameters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The six categories for the EF scale are listed below, in order of increasing intensity. Although the <a href="/wiki/Wind_speed" title="Wind speed">wind speeds</a> and photographic damage examples are updated, the damage descriptions given are those from the Fujita scale, which are more or less still accurate. However, for the actual EF scale in practice, damage indicators (the type of structure which has been damaged) are predominantly used in determining the tornado intensity.<sup class="reference" id="cite_ref-SPC_EF_Scale_4-0"><a href="#cite_note-SPC_EF_Scale-4">[4]</a></sup></p>
+<table class="wikitable">
+<tr style="text-align:center; background:gainsboro;">
+<td rowspan="2"><b>Scale</b></td>
+<td colspan="3"><b>Wind speed</b><br/>
+<b>(Estimated)</b><sup class="reference" id="cite_ref-EF_SPC_5-0"><a href="#cite_note-EF_SPC-5">[5]</a></sup></td>
+<td rowspan="2"><b>Relative frequency</b></td>
+<td rowspan="2"><b>Potential damage</b></td>
+<td rowspan="2"><b>Example of damage</b></td>
+</tr>
+<tr style="text-align:center; background:gainsboro;">
+<td><b>mph</b></td>
+<td><b>km/h</b></td>
+<td><b>m/s</b></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FAF4" width="6%"><b>EF0</b></td>
+<td style="text-align:center; width:6%;">65–85</td>
+<td style="text-align:center; width:6%;">105–137</td>
+<td style="text-align:center; width:6%;">29–37</td>
+<td style="text-align:center; width:6%;">56.88%</td>
+<td><span id="EF0"></span>Minor or no damage.
+<p>Peels surface off some roofs; some damage to gutters or siding; branches broken off trees; shallow-rooted trees pushed over. Confirmed tornadoes with no reported damage (i.e., those that remain in open fields) are always rated EF0.</p>
+</td>
+<td><a class="image" href="/wiki/File:EF0_tornado_damage_example_(1).jpg" title="EF0 damage example--Shingles are torn from roof"><img alt="EF0 damage example--Shingles are torn from roof" data-file-height="427" data-file-width="636" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/EF0_tornado_damage_example_%281%29.jpg/150px-EF0_tornado_damage_example_%281%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/EF0_tornado_damage_example_%281%29.jpg/225px-EF0_tornado_damage_example_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/EF0_tornado_damage_example_%281%29.jpg/300px-EF0_tornado_damage_example_%281%29.jpg 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFFCC"><b>EF1</b></td>
+<td style="text-align:center;">86–110</td>
+<td style="text-align:center;">138–177</td>
+<td style="text-align:center;">38–49</td>
+<td style="text-align:center;">31.07%</td>
+<td><span id="EF1"></span>Moderate damage.
+<p>Roofs severely stripped; mobile homes overturned or badly damaged; loss of exterior doors; windows and other glass broken.</p>
+</td>
+<td><a class="image" href="/wiki/File:EF1_tornado_damage_example.jpg" title="EF1 damage example -- Sections of roofing are removed from the home, leaving the internal decking exposed."><img alt="EF1 damage example -- Sections of roofing are removed from the home, leaving the internal decking exposed." data-file-height="438" data-file-width="640" height="103" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/EF1_tornado_damage_example.jpg/150px-EF1_tornado_damage_example.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/EF1_tornado_damage_example.jpg/225px-EF1_tornado_damage_example.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/EF1_tornado_damage_example.jpg/300px-EF1_tornado_damage_example.jpg 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFE775"><b>EF2</b></td>
+<td style="text-align:center;">111–135</td>
+<td style="text-align:center;">178–217</td>
+<td style="text-align:center;">50–60</td>
+<td style="text-align:center;">8.80%</td>
+<td><span id="EF2"></span>Considerable damage.
+<p>Roofs torn off well-constructed houses; foundations of frame homes shifted; mobile homes completely destroyed; large trees snapped or uprooted; light-object missiles generated; cars lifted off ground.</p>
+</td>
+<td><a class="image" href="/wiki/File:WelchEF2Damage2012.jpg" title="EF2 damage example -- Roof is completely removed from the house"><img alt="EF2 damage example -- Roof is completely removed from the house" data-file-height="2448" data-file-width="3264" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/WelchEF2Damage2012.jpg/150px-WelchEF2Damage2012.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/WelchEF2Damage2012.jpg/225px-WelchEF2Damage2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/WelchEF2Damage2012.jpg/300px-WelchEF2Damage2012.jpg 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFC140"><b>EF3</b></td>
+<td style="text-align:center;">136–165</td>
+<td style="text-align:center;">218–266</td>
+<td style="text-align:center;">61–73</td>
+<td style="text-align:center;">2.51%</td>
+<td><span id="EF3"></span>Severe damage.
+<p>Entire stories of well-constructed houses destroyed; severe damage to large buildings such as shopping malls; trains overturned; trees debarked; heavy cars lifted off the ground and thrown; structures with weak foundations are badly damaged.</p>
+</td>
+<td><a class="image" href="/wiki/File:May_31,_2013_EF3_St._Louis_tornado_damage.jpg" title="EF3 damage example -- House is destroyed, with only interior rooms remaining"><img alt="EF3 damage example -- House is destroyed, with only interior rooms remaining" data-file-height="960" data-file-width="1280" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/May_31%2C_2013_EF3_St._Louis_tornado_damage.jpg/150px-May_31%2C_2013_EF3_St._Louis_tornado_damage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/May_31%2C_2013_EF3_St._Louis_tornado_damage.jpg/225px-May_31%2C_2013_EF3_St._Louis_tornado_damage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/May_31%2C_2013_EF3_St._Louis_tornado_damage.jpg/300px-May_31%2C_2013_EF3_St._Louis_tornado_damage.jpg 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FF8F20"><b>EF4</b></td>
+<td style="text-align:center;">166–200</td>
+<td style="text-align:center;">267–322</td>
+<td style="text-align:center;">74–90</td>
+<td style="text-align:center;">0.66%</td>
+<td><span id="EF4"></span>Extreme damage.
+<p>Well-constructed and whole <a class="mw-redirect" href="/wiki/Frame_house" title="Frame house">frame houses</a> completely leveled; cars and other large objects thrown and small missiles generated.</p>
+</td>
+<td><a class="image" href="/wiki/File:Hattiesburg_leveled_house_feb_2013.JPG" title="EF4 damage example -- House is completely leveled, with only rubble remaining on the foundation"><img alt="EF4 damage example -- House is completely leveled, with only rubble remaining on the foundation" data-file-height="725" data-file-width="967" height="112" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hattiesburg_leveled_house_feb_2013.JPG/150px-Hattiesburg_leveled_house_feb_2013.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hattiesburg_leveled_house_feb_2013.JPG/225px-Hattiesburg_leveled_house_feb_2013.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hattiesburg_leveled_house_feb_2013.JPG/300px-Hattiesburg_leveled_house_feb_2013.JPG 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FF6060"><b>EF5</b></td>
+<td style="text-align:center;">&gt;200</td>
+<td style="text-align:center;">&gt;322</td>
+<td style="text-align:center;">&gt;90</td>
+<td style="text-align:center;">0.08%</td>
+<td><span id="EF5"></span>Total destruction of buildings.
+<p>Strong-framed, well-built houses leveled off foundations are swept away; steel-reinforced concrete structures are critically damaged; tall buildings collapse or have severe structural deformations; some cars, trucks and train cars can be thrown approximately 1 mile (1.6 kilometres).</p>
+</td>
+<td><a class="image" href="/wiki/File:EF5damageMoore2013.jpg" title="EF5 damage example -- Well-built house is swept completely away, leaving only the slab foundation"><img alt="EF5 damage example -- Well-built house is swept completely away, leaving only the slab foundation" data-file-height="768" data-file-width="1024" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/EF5damageMoore2013.jpg/150px-EF5damageMoore2013.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/EF5damageMoore2013.jpg/225px-EF5damageMoore2013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/EF5damageMoore2013.jpg/300px-EF5damageMoore2013.jpg 2x" width="150"/></a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Damage_indicators_and_degrees_of_damage">Damage indicators and degrees of damage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=2" title="Edit section: Damage indicators and degrees of damage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The EF scale currently has 28 damage indicators (DI), or types of structures and vegetation, each with a varying number of degrees of damage (DoD). Larger degrees of damage done to the damage indicators correspond to higher wind speeds.<sup class="reference" id="cite_ref-EF-Scale_6-0"><a href="#cite_note-EF-Scale-6">[6]</a></sup> The links in the right column of the following table describe the degrees of damage for the damage indicators listed in each row.</p>
+<table class="wikitable">
+<tr>
+<th>DI No.</th>
+<th>Damage Indicator (DI)</th>
+<th>Degrees of Damage (DOD)</th>
+</tr>
+<tr>
+<td style="text-align:center;">1</td>
+<td>Small Barns or Farm Outbuildings (SBO)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/c/c7/EF_DI1_%28SBO%29.jpg" title="EF DI1 (SBO).jpg">8</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">2</td>
+<td>One- or Two-Family Residences (FR12)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/4/47/EF_DI2_%28FR12%29.jpg" title="EF DI2 (FR12).jpg">10</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">3</td>
+<td>Manufactured Home – Single Wide (MHSW)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/b/b9/EF_DI3_%28MHSW%29.jpg" title="EF DI3 (MHSW).jpg">9</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">4</td>
+<td>Manufactured Home – Double Wide (MHDW)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/1/1a/EF_DI4_%28MHDW%29.jpg" title="EF DI4 (MHDW).jpg">12</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">5</td>
+<td>Apartments, Condos, Townhouses [3 stories or less] (ACT)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/0/07/EF_DI5_%28ACT%29.jpg" title="EF DI5 (ACT).jpg">6</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">6</td>
+<td>Motel (M)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/f/f3/EF_DI6_%28M%29.jpg" title="EF DI6 (M).jpg">10</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">7</td>
+<td>Masonry Apartment or Motel Building (MAM)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/c/c1/EF_DI7_%28MAM%29.jpg" title="EF DI7 (MAM).jpg">7</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">8</td>
+<td>Small Retail Building [Fast Food Restaurants] (SRB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/a/ab/EF_DI8_%28SRB%29.jpg" title="EF DI8 (SRB).jpg">8</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">9</td>
+<td>Small Professional Building [Doctor's Office, Branch Banks] (SPB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/3/30/EF_DI9_%28SPB%29.jpg" title="EF DI9 (SPB).jpg">9</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">10</td>
+<td>Strip Mall (SM)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/2/28/EF_DI10_%28SM%29.jpg" title="EF DI10 (SM).jpg">9</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">11</td>
+<td>Large Shopping Mall (LSM)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/8/81/EF_DI11_%28LSM%29.jpg" title="EF DI11 (LSM).jpg">9</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">12</td>
+<td>Large, Isolated Retail Building [K-Mart, Wal-Mart] (LIRB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/1/17/EF_DI12_%28LIRB%29.jpg" title="EF DI12 (LIRB).jpg">7</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">13</td>
+<td>Automobile Showroom (ASR)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/1/1f/EF_DI13_%28ASR%29.jpg" title="EF DI13 (ASR).jpg">8</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">14</td>
+<td>Automobile Service Building (ASB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/9/95/EF_DI14_%28ASB%29.jpg" title="EF DI14 (ASB).jpg">8</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">15</td>
+<td>Elementary School [Single Story; Interior or Exterior Hallways] (ES)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/7/76/EF_DI15_%28ES%29.jpg" title="EF DI15 (ES).jpg">10</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">16</td>
+<td>Junior or Senior High School (JHSH)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/e/e0/EF_DI16_%28JHSH%29.jpg" title="EF DI16 (JHSH).jpg">11</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">17</td>
+<td>Low-Rise Building [1–4 Stories] (LRB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/e/e1/EF_DI17_%28LRB%29.jpg" title="EF DI17 (LRB).jpg">7</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">18</td>
+<td>Mid-Rise Building [5–20 Stories] (MRB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/0/05/EF_DI18_%28MROB%29.jpg" title="EF DI18 (MROB).jpg">10</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">19</td>
+<td>High-Rise Building [More than 20 Stories] (HRB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/5/5a/EF_DI19_%28HROB%29.jpg" title="EF DI19 (HROB).jpg">10</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">20</td>
+<td>Institutional Building [Hospital, Government or University Building] (IB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/d/d7/EF_DI20_%28IB%29.jpg" title="EF DI20 (IB).jpg">11</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">21</td>
+<td>Metal Building System (MBS)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/7/7b/EF_DI21_%28MBS%29.jpg" title="EF DI21 (MBS).jpg">8</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">22</td>
+<td>Service Station Canopy (SSC)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/d/de/EF_DI22_%28SSC%29.jpg" title="EF DI22 (SSC).jpg">6</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">23</td>
+<td>Warehouse Building [Tilt-up Walls or Heavy-Timber Construction] (WHB)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/0/07/EF_DI23_%28WHB%29.jpg" title="EF DI23 (WHB).jpg">7</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">24</td>
+<td>Electrical Transmission Lines (ETL)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/8/80/EF_DI_24_%28ETL%29.jpg" title="EF DI 24 (ETL).jpg">6</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">25</td>
+<td>Free-Standing Towers (FST)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/f/f7/EF_DI25_%28FST%29.jpg" title="EF DI25 (FST).jpg">3</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">26</td>
+<td>Free-Standing Light Poles, Luminary Poles, Flag Poles (FSP)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/8/8f/EF_DI26_%28FSP%29.jpg" title="EF DI26 (FSP).jpg">3</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">27</td>
+<td>Trees: Hardwood (TH)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/2/2c/EF_DI27_%28TH%29.jpg" title="EF DI27 (TH).jpg">5</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">28</td>
+<td>Trees: Softwood (TS)</td>
+<td style="text-align:center;"><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/5/5f/EF_DI28_%28TS%29.jpg" title="EF DI28 (TS).jpg">5</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Differences_from_the_Fujita_scale">Differences from the Fujita scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=3" title="Edit section: Differences from the Fujita scale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The new scale takes into account quality of construction and standardizes different kinds of structures. The wind speeds on the original scale were deemed by meteorologists and engineers as being too high, and engineering studies indicated that slower winds than initially estimated cause the respective degrees of damage. The old scale lists an F5 tornado as wind speeds of 261–318 mph (420–512 km/h), while the new scale lists an EF5 as a tornado with winds above 200 mph (322 km/h), found to be sufficient to cause the damage previously ascribed to the F5 range of wind speeds. None of the tornadoes recorded on or before January 31, 2007, will be re-categorized.</p>
+<p>Essentially, there is no functional difference in how tornadoes are rated. The old ratings and new ratings are smoothly connected with a linear formula. The only differences are adjusted wind speeds, measurements of which were not used in previous ratings, and refined damage descriptions; this is to standardize ratings and to make it easier to rate tornadoes which strike few structures. Twenty-eight Damage Indicators (DI), with descriptions such as "double-wide <a href="/wiki/Mobile_home" title="Mobile home">mobile home</a>" or "<a href="/wiki/Strip_mall" title="Strip mall">strip mall</a>", are used along with Degrees of Damage (DOD) to determine wind estimates. Different structures, depending on their building materials and ability to survive high winds, have their own DIs and DODs. Damage descriptors and wind speeds will also be readily updated as new information is learned.<sup class="reference" id="cite_ref-EF-Scale_6-1"><a href="#cite_note-EF-Scale-6">[6]</a></sup></p>
+<p>Since the new system still uses actual tornado damage and similar degrees of damage for each category to estimate the storm's wind speed, the National Weather Service states that the new scale will likely not lead to an increase in a number of tornadoes classified as EF5. Additionally, the upper bound of the wind speed range for EF5 is open—in other words, there is no maximum wind speed designated.<sup class="reference" id="cite_ref-SPC_EF_Scale_4-1"><a href="#cite_note-SPC_EF_Scale-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Rating_classifications">Rating classifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=4" title="Edit section: Rating classifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg"><img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/></a></td>
+<td class="mbox-text">
+<div class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(May 2013)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="wikitable" style="float: right;">
+<caption>Tornado rating classifications</caption>
+<tr>
+<th style="background: #e0e0ff;"><b>EF0</b></th>
+<th style="background: #e0e0ff;"><b>EF1</b></th>
+<th style="background: #e0e0ff;"><b>EF2</b></th>
+<th style="background: #e0e0ff;"><b>EF3</b></th>
+<th style="background: #e0e0ff;"><b>EF4</b></th>
+<th style="background: #e0e0ff;"><b>EF5</b></th>
+</tr>
+<tr>
+<td colspan="2" style="background: #ffffcc;">Weak</td>
+<td colspan="2" style="background: #ffc140;">Strong</td>
+<td colspan="2" style="background: #ff6060;">Violent</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4" style="background: #ffe775;">Significant</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3" style="background: #ff8f20;">Intense</td>
+</tr>
+</table>
+<p>For purposes such as <a href="/wiki/Tornado_climatology" title="Tornado climatology">tornado climatology</a> studies, Enhanced Fujita scale ratings may be grouped into classes.<sup class="reference" id="cite_ref-significant_tornadoes_7-0"><a href="#cite_note-significant_tornadoes-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Usually, the classic version always suggests EF4 and EF5 are the most violent tornadoes.</p>
+<p>The table shown to the right shows other variations of the tornado rating classifications based on certain areas.</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort scale</a></li>
+<li><a class="mw-redirect" href="/wiki/Saffir%E2%80%93Simpson_hurricane_wind_scale" title="Saffir–Simpson hurricane wind scale">Saffir–Simpson hurricane wind scale</a></li>
+<li><a href="/wiki/Severe_weather_terminology_(United_States)" title="Severe weather terminology (United States)">Severe weather terminology (United States)</a></li>
+<li><a href="/wiki/TORRO_scale" title="TORRO scale">TORRO scale</a></li>
+<li><a class="mw-redirect" href="/wiki/Tornado_intensity_and_damage" title="Tornado intensity and damage">Tornado intensity and damage</a></li>
+<li><a href="/wiki/Wind_engineering" title="Wind engineering">Wind engineering</a></li>
+<li><a href="/wiki/List_of_tornadoes_and_tornado_outbreaks" title="List of tornadoes and tornado outbreaks">List of tornadoes and tornado outbreaks</a>
+<ul>
+<li><a href="/wiki/List_of_F5_and_EF5_tornadoes" title="List of F5 and EF5 tornadoes">List of F5 and EF5 tornadoes</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.spc.noaa.gov/faq/tornado/f-scale.html" rel="nofollow">NOAA: Fujita Tornado Damage Scale</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.tornadofacts.net/tornado-scale.php" rel="nofollow">Tornado Damage Scales: Fujita Scale and Enhanced Fujita Scale</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&amp;n=41E875DA-1" rel="nofollow">"Enhanced Fujita Scale"</a>. Environment Canada.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnhanced+Fujita+scale&amp;rft.btitle=Enhanced+Fujita+Scale&amp;rft.genre=unknown&amp;rft.pub=Environment+Canada&amp;rft_id=http%3A%2F%2Fwww.ec.gc.ca%2Fmeteo-weather%2Fdefault.asp%3Flang%3DEn%26n%3D41E875DA-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-SPC_EF_Scale-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-SPC_EF_Scale_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SPC_EF_Scale_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.spc.noaa.gov/efscale/" rel="nofollow">"The Enhanced Fujita Scale (EF Scale)"</a>. Storm Prediction Center. 2007-02-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnhanced+Fujita+scale&amp;rft.btitle=The+Enhanced+Fujita+Scale+%28EF+Scale%29&amp;rft.date=2007-02-02&amp;rft.genre=unknown&amp;rft.pub=Storm+Prediction+Center&amp;rft_id=http%3A%2F%2Fwww.spc.noaa.gov%2Fefscale%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-EF_SPC-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-EF_SPC_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.spc.noaa.gov/efscale/ef-scale.html" rel="nofollow">"Enhanced F Scale for Tornado Damage"</a>. Storm Prediction Center<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnhanced+Fujita+scale&amp;rft.btitle=Enhanced+F+Scale+for+Tornado+Damage&amp;rft.genre=unknown&amp;rft.pub=Storm+Prediction+Center&amp;rft_id=http%3A%2F%2Fwww.spc.noaa.gov%2Fefscale%2Fef-scale.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-EF-Scale-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-EF-Scale_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EF-Scale_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a class="new" href="/w/index.php?title=James_R._McDonald&amp;action=edit&amp;redlink=1" title="James R. McDonald (page does not exist)">McDonald, James</a>; Kishor C. Mehta (October 10, 2006). <a class="external text" href="http://www.depts.ttu.edu/weweb/Pubs/fscale/EFScale.pdf" rel="nofollow"><i>A recommendation for an Enhanced Fujita scale (EF-Scale)</i></a> <span style="font-size:85%;">(PDF)</span>. Lubbock, Texas: <a class="mw-redirect" href="/wiki/Wind_Science_and_Engineering_Research_Center" title="Wind Science and Engineering Research Center">Wind Science and Engineering Research Center</a>, <a href="/wiki/Texas_Tech_University" title="Texas Tech University">Texas Tech University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnhanced+Fujita+scale&amp;rft.au=Kishor+C.+Mehta&amp;rft.aufirst=James&amp;rft.aulast=McDonald&amp;rft.btitle=A+recommendation+for+an+Enhanced+Fujita+scale+%28EF-Scale%29&amp;rft.date=2006-10-10&amp;rft.genre=book&amp;rft.place=Lubbock%2C+Texas&amp;rft.pub=Wind+Science+and+Engineering+Research+Center%2C+Texas+Tech+University&amp;rft_id=http%3A%2F%2Fwww.depts.ttu.edu%2Fweweb%2FPubs%2Ffscale%2FEFScale.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-significant_tornadoes-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-significant_tornadoes_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Thomas_P._Grazulis" title="Thomas P. Grazulis">Grazulis, Thomas P.</a> (July 1993). <i>Significant Tornadoes 1680–1991</i>. St. Johnsbury, Vermont: The Tornado Project of Environmental Films. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-879362-03-1" title="Special:BookSources/1-879362-03-1">1-879362-03-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnhanced+Fujita+scale&amp;rft.aufirst=Thomas+P.&amp;rft.aulast=Grazulis&amp;rft.btitle=Significant+Tornadoes+1680%E2%80%931991&amp;rft.date=1993-07&amp;rft.genre=book&amp;rft.isbn=1-879362-03-1&amp;rft.place=St.+Johnsbury%2C+Vermont&amp;rft.pub=The+Tornado+Project+of+Environmental+Films&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.tornadoproject.com/fscale/fscale.htm" rel="nofollow">The Fujita Scale of Tornado Intensity</a> <a class="external text" href="https://web.archive.org/web/20111230005516/http://www.tornadoproject.com/fscale/fscale.htm" rel="nofollow">Archived</a> December 30, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. at tornadoproject.com</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nssl.noaa.gov/hazard/" rel="nofollow">"Severe Thunderstorm Climatology"</a>. National Severe Storms Laboratory, <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a>, US Department of Commerce. 29 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnhanced+Fujita+scale&amp;rft.btitle=Severe+Thunderstorm+Climatology&amp;rft.date=2013-03-29&amp;rft.genre=unknown&amp;rft.pub=National+Severe+Storms+Laboratory%2C+National+Oceanic+and+Atmospheric+Administration%2C+US+Department+of+Commerce&amp;rft_id=http%3A%2F%2Fwww.nssl.noaa.gov%2Fhazard%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><cite class="citation journal"><a href="/wiki/Roger_Edwards_(meteorologist)" title="Roger Edwards (meteorologist)">Edwards, Roger</a>; J. G. LaDue; J. T. Ferree; K. Scharfenberg; C. Maier; W. L. Coulbourne (2013). "Tornado Intensity Estimation: Past, Present, and Future". <i>Bull. Amer. Meteor. Soc</i>. <b>94</b> (5): 641–53. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2013BAMS...94..641E" rel="nofollow">2013BAMS...94..641E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2FBAMS-D-11-00006.1" rel="nofollow">10.1175/BAMS-D-11-00006.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnhanced+Fujita+scale&amp;rft.atitle=Tornado+Intensity+Estimation%3A+Past%2C+Present%2C+and+Future&amp;rft.au=C.+Maier&amp;rft.au=J.+G.+LaDue&amp;rft.au=J.+T.+Ferree&amp;rft.au=K.+Scharfenberg&amp;rft.au=W.+L.+Coulbourne&amp;rft.aufirst=Roger&amp;rft.aulast=Edwards&amp;rft.date=2013&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Bull.+Amer.+Meteor.+Soc.&amp;rft.pages=641-53&amp;rft.volume=94&amp;rft_id=info%3Abibcode%2F2013BAMS...94..641E&amp;rft_id=info%3Adoi%2F10.1175%2FBAMS-D-11-00006.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Enhanced_Fujita_scale" title="commons:Special:Search/Enhanced Fujita scale">Enhanced Fujita scale</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a>
+<ul>
+<li><a class="external text" href="http://www.noaanews.noaa.gov/stories2006/s2573.htm" rel="nofollow">NOAA National Weather Service Improves Tornado Rating System</a> at <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a> News</li>
+<li><a class="external text" href="http://www.spc.noaa.gov/efscale/" rel="nofollow">The Enhanced Fujita Scale (EF Scale)</a> at <a href="/wiki/Storm_Prediction_Center" title="Storm Prediction Center">Storm Prediction Center</a></li>
+<li><a class="external text" href="http://wdtb.noaa.gov/courses/EF-scale/" rel="nofollow">EF-Scale Training</a> at The Warning Decision Training Branch of <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> (NWS)</li>
+<li><a class="external text" href="http://www.ncdc.noaa.gov/oa/satellite/satelliteseye/educational/fujita.html" rel="nofollow">The Enhanced Fujita Tornado Scale</a> at <a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">National Climatic Data Center</a></li>
+<li><a class="external text" href="http://www.srh.noaa.gov/ssd/techmemo/sr147.pdf" rel="nofollow">The Tornado: An Engineering-Oriented Perspective</a> (NWS SR147)</li>
+<li><a class="external text" href="http://www.srh.noaa.gov/ssd/techmemo/sr146.pdf" rel="nofollow">A Guide for Conducting Convective Windstorm Surveys</a> (NWS SR146)</li>
+</ul>
+</li>
+<li><a class="external text" href="https://web.archive.org/web/20070306232403/http://www.wind.ttu.edu/F_Scale/" rel="nofollow">Fujita Scale Enhancement Project</a> (<a class="mw-redirect" href="/wiki/Wind_Science_and_Engineering_Research_Center" title="Wind Science and Engineering Research Center">Wind Science and Engineering Research Center</a> at <a href="/wiki/Texas_Tech_University" title="Texas Tech University">Texas Tech University</a>)</li>
+<li><a class="external text" href="http://ams.confex.com/ams/annual2003/techprogram/program_149.htm" rel="nofollow">Symposium on the F-Scale and Severe-Weather Damage Assessment</a> at <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a></li>
+<li><a class="external text" href="http://meted.ucar.edu/resource/wcm/ftp/FinalNWSF-scaleAssessmentGuide.pdf" rel="nofollow">A Guide to F-Scale Damage Assessment</a>, MetEd, <a href="/wiki/University_Corporation_for_Atmospheric_Research" title="University Corporation for Atmospheric Research">University Corporation for Atmospheric Research</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20060317202608/http://www.fema.gov/fima/mat/fema342.shtm" rel="nofollow">Mitigation Assessment Team Report: Midwest Tornadoes of May 3, 1999</a> (<a href="/wiki/Federal_Emergency_Management_Agency" title="Federal Emergency Management Agency">Federal Emergency Management Agency</a>)</li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20171028093230
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.255 seconds
+Preprocessor visited node count: 929/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18160/2097152 bytes
+Template argument size: 316/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 4.49 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  185.209      1 -total
+ 36.24%   67.128      1 Template:Reflist
+ 20.01%   37.052      4 Template:Cite_web
+ 16.18%   29.972      1 Template:Expand_section
+ 14.06%   26.040      2 Template:Convert
+ 13.58%   25.154      1 Template:Ambox
+ 10.97%   20.315      1 Template:Hatlink
+  5.28%    9.780      6 Template:Anchor
+  4.78%    8.848      2 Template:Cite_book
+  3.56%    6.593      1 Template:Cite_journal
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3724479-0!canonical and timestamp 20171028093230 and revision id 805501301
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Enhanced_Fujita_scale&amp;oldid=805501301">https://en.wikipedia.org/w/index.php?title=Enhanced_Fujita_scale&amp;oldid=805501301</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hazard_scales" title="Category:Hazard scales">Hazard scales</a></li><li><a href="/wiki/Category:Wind" title="Category:Wind">Wind</a></li><li><a href="/wiki/Category:Tornado" title="Category:Tornado">Tornado</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2013" title="Category:Articles to be expanded from May 2013">Articles to be expanded from May 2013</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Enhanced+Fujita+scale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Enhanced+Fujita+scale" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Enhanced_Fujita_scale" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Enhanced_Fujita_scale" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Enhanced_Fujita_scale">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Enhanced_Fujita_scale" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Enhanced_Fujita_scale" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;oldid=805501301" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Enhanced_Fujita_scale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q429050" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Enhanced_Fujita_scale&amp;id=805501301" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Enhanced+Fujita+scale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Enhanced+Fujita+scale&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Enhanced_Fujita_scale&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Enhanced_Fujita_Scale" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Escala_Fujita_millorada" hreflang="ca" lang="ca" title="Escala Fujita millorada – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Fujitova_stupnice" hreflang="cs" lang="cs" title="Fujitova stupnice – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Enhanced_Fujita_Skala" hreflang="de" lang="de" title="Enhanced Fujita Skala – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%95%CE%BD%CE%B9%CF%83%CF%87%CF%85%CE%BC%CE%AD%CE%BD%CE%B7_%CE%9A%CE%BB%CE%AF%CE%BC%CE%B1%CE%BA%CE%B1_%CE%A6%CE%BF%CF%85%CF%84%CE%B6%CE%AF%CF%84%CE%B1" hreflang="el" lang="el" title="Ενισχυμένη Κλίμακα Φουτζίτα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Escala_Fujita_mejorada" hreflang="es" lang="es" title="Escala Fujita mejorada – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89chelle_de_Fujita_am%C3%A9lior%C3%A9e" hreflang="fr" lang="fr" title="Échelle de Fujita améliorée – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Escala_Fujita-Pearson_mellorada" hreflang="gl" lang="gl" title="Escala Fujita-Pearson mellorada – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B0%9C%EB%9F%89_%ED%9B%84%EC%A7%80%ED%83%80_%EB%93%B1%EA%B8%89" hreflang="ko" lang="ko" title="개량 후지타 등급 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Enhanced_Fujita_scale" hreflang="it" lang="it" title="Enhanced Fujita scale – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%94%B9%E8%89%AF%E8%97%A4%E7%94%B0%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB" hreflang="ja" lang="ja" title="改良藤田スケール – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Escala_Fujita_melhorada" hreflang="pt" lang="pt" title="Escala Fujita melhorada – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Enhanced_Fujita_scale" hreflang="simple" lang="simple" title="Enhanced Fujita scale – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Paranneltu_Fujitan_asteikko" hreflang="fi" lang="fi" title="Paranneltu Fujitan asteikko – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%87%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%AA%E0%AF%81%E0%AE%9C%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE_%E0%AE%92%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B3%E0%AE%B5%E0%AF%81" hreflang="ta" lang="ta" title="மேம்படுத்தப்பட்ட புஜித்தா ஒப்பளவு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Thang_%C4%91%E1%BB%99_Fujita_c%E1%BA%A3i_ti%E1%BA%BFn" hreflang="vi" lang="vi" title="Thang độ Fujita cải tiến – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%94%B9%E8%89%AF%E8%97%A4%E7%94%B0%E7%BA%A7%E6%95%B0" hreflang="zh" lang="zh" title="改良藤田级数 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q429050#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 October 2017, at 20:35.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Enhanced_Fujita_scale&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.255","ppvisitednodes":{"value":929,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18160,"limit":2097152},"templateargumentsize":{"value":316,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  185.209      1 -total"," 36.24%   67.128      1 Template:Reflist"," 20.01%   37.052      4 Template:Cite_web"," 16.18%   29.972      1 Template:Expand_section"," 14.06%   26.040      2 Template:Convert"," 13.58%   25.154      1 Template:Ambox"," 10.97%   20.315      1 Template:Hatlink","  5.28%    9.780      6 Template:Anchor","  4.78%    8.848      2 Template:Cite_book","  3.56%    6.593      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.074","limit":"10.000"},"limitreport-memusage":{"value":4709359,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20171028093230","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Haddock - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Haddock","wgTitle":"Haddock","wgCurRevisionId":807409100,"wgRevisionId":807409100,"wgArticleId":313822,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with 'species' microformats","All articles with failed verification","Articles with failed verification from October 2015","Commons category with local link different than on Wikidata","IUCN Red List vulnerable species","Gadidae","Marine edible fish","Seafood red list","Commercial fish","Fish of the Arctic Ocean","Fish of the North Sea","Fish of Europe","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Haddock","wgRelevantArticleId":313822,"wgRequestId":"WgEYfgpAADsAAHE5WsQAAACI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q202406","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/0/03/Melanogrammus_aeglefinus.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Haddock" rel="alternate"/>
+<link href="/w/index.php?title=Haddock&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Haddock&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Haddock" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Haddock rootpage-Haddock vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Haddock</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Haddock_(disambiguation)" title="Haddock (disambiguation)">Haddock (disambiguation)</a>.</div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Haddock</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Melanogrammus_aeglefinus.png"><img alt="Melanogrammus aeglefinus.png" data-file-height="150" data-file-width="248" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Melanogrammus_aeglefinus.png/220px-Melanogrammus_aeglefinus.png" srcset="//upload.wikimedia.org/wikipedia/commons/0/03/Melanogrammus_aeglefinus.png 1.5x" width="220"/></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>Melanogrammus aeglefinus</i></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Haddock,_Boston_Aquarium.JPG"><img alt="Haddock, Boston Aquarium.JPG" data-file-height="2000" data-file-width="3008" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haddock%2C_Boston_Aquarium.JPG/220px-Haddock%2C_Boston_Aquarium.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haddock%2C_Boston_Aquarium.JPG/330px-Haddock%2C_Boston_Aquarium.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haddock%2C_Boston_Aquarium.JPG/440px-Haddock%2C_Boston_Aquarium.JPG 2x" width="220"/></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Haddock at the <a href="/wiki/New_England_Aquarium" title="New England Aquarium">New England Aquarium</a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2">
+<div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" data-file-height="64" data-file-width="240" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Status_iucn2.3_VU.svg/220px-Status_iucn2.3_VU.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Status_iucn2.3_VU.svg/330px-Status_iucn2.3_VU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Status_iucn2.3_VU.svg/440px-Status_iucn2.3_VU.svg.png 2x" width="220"/><br/>
+<a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a><small> (<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 2.3</a>)</small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Melanogrammus" title="e"><img alt="e" data-file-height="16" data-file-width="16" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><a href="/wiki/Gadiformes" title="Gadiformes">Gadiformes</a></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><a href="/wiki/Gadidae" title="Gadidae">Gadidae</a></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><i><a class="mw-selflink selflink">Melanogrammus</a></i><br/>
+<small><a href="/wiki/Theodore_Gill" title="Theodore Gill">T. N. Gill</a>, 1862</small></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species"><i><b>M. aeglefinus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Melanogrammus aeglefinus</i></span></b><br/>
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, 1758)</small></td>
+</tr>
+</table>
+<p>The <b>haddock</b> (<i>Melanogrammus aeglefinus</i>) is a saltwater fish, found in the North <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> and associated seas.</p>
+<p>The haddock is easily recognized by a black <a href="/wiki/Lateral_line" title="Lateral line">lateral line</a> running along its white side (not to be confused with <a href="/wiki/Pollock" title="Pollock">pollock</a> which has the reverse, i.e., white line on black side) and a distinctive dark blotch above the <a href="/wiki/Fish_anatomy#Types_of_fin" title="Fish anatomy">pectoral fin</a>, often described as a "thumbprint" or even the "Devil's thumbprint" or "St. Peter's mark".<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Haddock is most commonly found at depths of 40 to 133 m (131 to 436 ft), but has a range as deep as 300 m (980 ft). It thrives in temperatures of 2 to 10 °C (36 to 50 °F). Juveniles prefer shallower waters and larger adults deeper water. Generally, adult haddock do not engage in long migratory behaviour as do the younger fish, but seasonal movements have been known to occur across all ages. Haddock feed primarily on small <a href="/wiki/Invertebrate" title="Invertebrate">invertebrates</a>, although larger members of the species may occasionally consume fish.</p>
+<p>Haddock range in size between 38 and 69 centimeters in length and 0.9 to 1.8 kilograms in weight.<sup class="reference" id="cite_ref-Fisheries_and_Oceans_Canada_2-0"><a href="#cite_note-Fisheries_and_Oceans_Canada-2">[2]</a></sup> Growth rates of haddock have changed significantly over the past 30 to 40 years. Presently, growth is more rapid, with haddock reaching their adult size much earlier than previously noted. However, the degree to which these younger fish contribute to reproductive success of the population is unknown. Growth rates of haddock, however, had slowed in recent years. Some evidence indicates it may be the result of an exceptionally large year class in 2003. One<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (October 2015)">not in citation given</span></a></i>]</sup> <a href="/wiki/Spawn_(biology)" title="Spawn (biology)">Spawning</a> occurs between January and June, peaking during late March and early April. The most important spawning grounds are in the waters off middle <a href="/wiki/Norway" title="Norway">Norway</a>, near southwest <a href="/wiki/Iceland" title="Iceland">Iceland</a>, and <a href="/wiki/Georges_Bank" title="Georges Bank">Georges Bank</a>. An average-sized female produces approximately 850,000 eggs, and larger females are capable of producing up to 3 million eggs each year.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Parasites"><span class="tocnumber">1</span> <span class="toctext">Parasites</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fisheries"><span class="tocnumber">2</span> <span class="toctext">Fisheries</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#As_food"><span class="tocnumber">3</span> <span class="toctext">As food</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_references"><span class="tocnumber">5</span> <span class="toctext">Other references</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Parasites">Parasites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haddock&amp;action=edit&amp;section=1" title="Edit section: Parasites">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cod and related species are plagued by parasites. For example, the <a class="mw-redirect" href="/wiki/Cod_worm" title="Cod worm">cod worm</a>, <i>Lernaeocera branchialis</i>, starts life as a <a href="/wiki/Copepod" title="Copepod">copepod</a>, a small, free-swimming crustacean <a href="/wiki/Larva" title="Larva">larva</a>. The first host used by cod worm is a <a href="/wiki/Flatfish" title="Flatfish">flatfish</a> or <a href="/wiki/Lumpsucker" title="Lumpsucker">lumpsucker</a>, which they capture with grasping hooks at the front of their bodies. They penetrate the lumpsucker with a thin <a class="extiw" href="https://en.wiktionary.org/wiki/filament" title="wiktionary:filament">filament</a> which they use to suck its blood. The nourished cod worms then mate on the lumpsucker.<sup class="reference" id="cite_ref-Matthews_4-0"><a href="#cite_note-Matthews-4">[4]</a></sup><sup class="reference" id="cite_ref-Piper_5-0"><a href="#cite_note-Piper-5">[5]</a></sup></p>
+<p>The female worm, with her now fertilized eggs, then finds a cod, or a cod-like fish such as a haddock or <a href="/wiki/Whiting_(fish)" title="Whiting (fish)">whiting</a>. There, the worm clings to the <a href="/wiki/Gill" title="Gill">gills</a> while it metamorphoses into a plump, sinusoidal, wormlike body, with a coiled mass of egg strings at the rear. The front part of the worm's body penetrates the body of the cod until it enters the rear bulb of the host's <a href="/wiki/Heart" title="Heart">heart</a>. There, firmly rooted in the cod's circulatory system, the front part of the parasite develops like the branches of a tree, reaching into the main <a href="/wiki/Artery" title="Artery">artery</a>. In this way, the worm extracts nutrients from the cod's blood, remaining safely tucked beneath the cod's gill cover until it releases a new generation of offspring into the water.<sup class="reference" id="cite_ref-Matthews_4-1"><a href="#cite_note-Matthews-4">[4]</a></sup><sup class="reference" id="cite_ref-Piper_5-1"><a href="#cite_note-Piper-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Fisheries">Fisheries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haddock&amp;action=edit&amp;section=2" title="Edit section: Fisheries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Haddock_fins.tiff"><img alt="" class="thumbimage" data-file-height="717" data-file-width="1704" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Haddock_fins.tiff/lossless-page1-220px-Haddock_fins.tiff.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Haddock_fins.tiff/lossless-page1-330px-Haddock_fins.tiff.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Haddock_fins.tiff/lossless-page1-440px-Haddock_fins.tiff.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Haddock_fins.tiff" title="Enlarge"></a></div>
+<a href="/wiki/Fish_fin" title="Fish fin">Fins</a>, <a href="/wiki/Barbel_(anatomy)" title="Barbel (anatomy)">barbel</a> and <a href="/wiki/Lateral_line" title="Lateral line">lateral line</a> on a haddock. Haddock have three <a href="/wiki/Dorsal_fin" title="Dorsal fin">dorsal fins</a> and two <a class="mw-redirect" href="/wiki/Anal_fin" title="Anal fin">anal fins</a>.</div>
+</div>
+</div>
+<p>Reaching sizes up to 1.1 m (3 ft 7 in), haddock is fished for year-round. Some of the methods used are Danish <a href="/wiki/Seine_fishing" title="Seine fishing">seine nets</a>, trawlers, long lines and fishing nets. The commercial catch of haddock in <a href="/wiki/North_America" title="North America">North America</a> had declined sharply in recent years, but is now recovering, with recruitment rates running around where they historically were from the 1930s to 1960s.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In 2010, Greenpeace International has added the haddock to its seafood red list. "The Greenpeace International seafood red list is a list of fish that are commonly sold in supermarkets around the world, and which have a very high risk of being sourced from unsustainable fisheries."<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Haddock populations on the offshore grounds of <a href="/wiki/Georges_Bank" title="Georges Bank">Georges Bank</a> off <a href="/wiki/New_England" title="New England">New England</a> and <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a> have made a remarkable comeback with the adoption of catch shares management program, and are currently harvested at only a fraction of sustainable yields.</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="As_food">As food</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haddock&amp;action=edit&amp;section=3" title="Edit section: As food">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Cod_as_food" title="Cod as food">Cod as food</a></div>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Haddock_dishes" title="commons:Category:Haddock dishes">Haddock dishes</a></b></i>.</td>
+</tr>
+</table>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:10th_May_2012_Smoked_Haddock.jpg"><img alt="" class="thumbimage" data-file-height="2912" data-file-width="4368" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/10th_May_2012_Smoked_Haddock.jpg/220px-10th_May_2012_Smoked_Haddock.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/10th_May_2012_Smoked_Haddock.jpg/330px-10th_May_2012_Smoked_Haddock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/10th_May_2012_Smoked_Haddock.jpg/440px-10th_May_2012_Smoked_Haddock.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:10th_May_2012_Smoked_Haddock.jpg" title="Enlarge"></a></div>
+Smoked Haddock served with <a class="mw-redirect" href="/wiki/Onions" title="Onions">onions</a> and <a href="/wiki/Capsicum" title="Capsicum">red peppers</a></div>
+</div>
+</div>
+<table class="infobox nowrap" style="width:22em">
+<caption style="white-space:normal; padding-bottom:0.15em;">Haddock, roast</caption>
+<tr>
+<th colspan="2" style="text-align:center">Nutritional value per 100 g (3.5 oz)</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Food_energy" title="Food energy">Energy</a></th>
+<td>469 kJ (112 kcal)</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/Carbohydrate" title="Carbohydrate">Carbohydrates</a></b></div>
+</th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="position:relative;left:-0.65em;">0.0 g</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Dietary_fiber" title="Dietary fiber">Dietary fiber</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">0.0 g</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/Fat" title="Fat">Fat</a></b></div>
+</th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="position:relative;left:-0.65em;">0.93 g</div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;">
+<div style="position:relative;left:-0.65em;"><b><a href="/wiki/Protein_(nutrient)" title="Protein (nutrient)">Protein</a></b></div>
+</th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="position:relative;left:-0.65em;">24.24 g</div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Vitamin" title="Vitamin">Vitamins</a></th>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Thiamine" title="Thiamine">Thiamine <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">1</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(3%)</div>
+0.040 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Riboflavin" title="Riboflavin">Riboflavin <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">2</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(4%)</div>
+0.045 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Niacin" title="Niacin">Niacin <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">3</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(31%)</div>
+4.632 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Pantothenic_acid" title="Pantothenic acid">Pantothenic acid <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">5</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(3%)</div>
+0.150 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Vitamin_B6" title="Vitamin B6">Vitamin B<span style="position: relative; top: 0.3em;"><span style="font-size:75%;">6</span></span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(27%)</div>
+0.346 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Folate" title="Folate">Folate <span style="font-size:90%;">(B<span style="position: relative; top: 0.35em;"><span style="font-size:90%;">9</span></span>)</span></a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(3%)</div>
+13 μg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Vitamin_C" title="Vitamin C">Vitamin C</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(0%)</div>
+0.00 mg</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Mineral_(nutrient)" title="Mineral (nutrient)">Minerals</a></th>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Calcium#Biological_and_pathological_role" title="Calcium">Calcium</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(4%)</div>
+42 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Iron#Biological_and_pathological_role" title="Iron">Iron</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(10%)</div>
+1.35 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Magnesium_in_biology" title="Magnesium in biology">Magnesium</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(14%)</div>
+50 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Phosphorus#Biological_role" title="Phosphorus">Phosphorus</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(34%)</div>
+241 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Potassium#In_diet" title="Potassium">Potassium</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(8%)</div>
+399 mg</td>
+</tr>
+<tr>
+<th scope="row" style="padding-left:0.65em;line-height:1.1em;font-weight:normal;padding-right:0.25em;"><a href="/wiki/Zinc#Biological_role" title="Zinc">Zinc</a></th>
+<td style="vertical-align:middle;padding-left:0.65em;line-height:1.1em;">
+<div style="float: right;">(5%)</div>
+0.48 mg</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="plainlist" style="font-size:90%;background:#e0e0e0;padding:0.15em;line-height:1.25em;">
+<ul>
+<li>Units</li>
+<li>μg = <a href="/wiki/Microgram" title="Microgram">micrograms</a> • mg = <a class="mw-redirect" href="/wiki/Milligram" title="Milligram">milligrams</a></li>
+<li>IU = <a href="/wiki/International_unit" title="International unit">International units</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="wrap" colspan="2" style="text-align:center;font-size:90%;background:#e0e0e0;padding:0.3em;line-height:1.5em;font-weight:normal;">Percentages are roughly approximated using <a href="/wiki/Dietary_Reference_Intake" title="Dietary Reference Intake">US recommendations</a> for adults.<br/>
+<span class="nowrap"><small>Source: <a class="external text" href="https://ndb.nal.usda.gov/ndb/search/list" rel="nofollow">USDA Nutrient Database</a></small></span></td>
+</tr>
+</table>
+<p>Haddock is a very popular food fish, sold fresh, smoked, frozen, dried, or to a small extent canned. Haddock, along with <a href="/wiki/Atlantic_cod" title="Atlantic cod">Atlantic cod</a> and <a href="/wiki/Plaice" title="Plaice">plaice</a>, is one of the most popular fish used in British <a href="/wiki/Fish_and_chips" title="Fish and chips">fish and chips</a>.</p>
+<p>Fresh haddock has clean, white flesh and can be cooked in the same ways as cod. Freshness of a haddock fillet can be determined by how well it holds together, as a fresh one will be firm; also, fillets should be translucent, while older fillets turn chalky (nearly opaque). Young, fresh haddock and cod fillets are often sold as <a href="/wiki/Scrod" title="Scrod">scrod</a> in <a class="mw-redirect" href="/wiki/Boston,_Massachusetts" title="Boston, Massachusetts">Boston, Massachusetts</a>; this refers to the size of the fish which have a variety of sizes, i.e., scrod, markets, and cows. Haddock is the predominant fish of choice in Scotland in a fish supper. It is also the main ingredient of Norwegian fishballs (<i>fiskeboller</i>).</p>
+<p>Unlike the related <a href="/wiki/Cod" title="Cod">cod</a>, haddock does not <a href="/wiki/Salted_fish" title="Salted fish">salt</a> well and is often preserved by <a href="/wiki/Dried_fish" title="Dried fish">drying</a> and <a href="/wiki/Smoked_fish" title="Smoked fish">smoking</a>.</p>
+<p>The smoking of haddock was highly refined in <a href="/wiki/Grimsby" title="Grimsby">Grimsby</a>. <a href="/wiki/Traditional_Grimsby_smoked_fish" title="Traditional Grimsby smoked fish">Traditional Grimsby smoked fish</a> (mainly haddock, but sometimes cod) is produced in the traditional smokehouses in Grimsby, which are mostly family-run businesses that have developed their skills over many generations.<sup class="reference" id="cite_ref-gtfs_8-0"><a href="#cite_note-gtfs-8">[8]</a></sup> Grimsby fish market sources its haddock from the North East Atlantic, principally Iceland, Norway and the Faroe Islands. These fishing grounds are sustainably managed<sup class="reference" id="cite_ref-ice_9-0"><a href="#cite_note-ice-9">[9]</a></sup> and have not seen the large scale depreciation in fish stocks seen in EU waters.<sup class="reference" id="cite_ref-eu_10-0"><a href="#cite_note-eu-10">[10]</a></sup></p>
+<p>One popular form of haddock is <a href="/wiki/Finnan_haddie" title="Finnan haddie">Finnan haddie</a> which takes its name from the fishing village of <a href="/wiki/Findon,_Aberdeenshire" title="Findon, Aberdeenshire">Finnan or Findon</a> in Scotland, where it was originally cold-smoked over <a href="/wiki/Peat" title="Peat">peat</a>. Finnan haddie is often served <a href="/wiki/Poaching_(cooking)" title="Poaching (cooking)">poached</a> in milk for <a href="/wiki/Breakfast" title="Breakfast">breakfast</a>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The town of <a href="/wiki/Arbroath" title="Arbroath">Arbroath</a> on the east coast of Scotland produces the <a href="/wiki/Arbroath_smokie" title="Arbroath smokie">Arbroath smokie</a>. This is a hot-smoked haddock which requires no further cooking before eating.</p>
+<p>Smoked haddock naturally has an off-white colour; it is very often <a href="/wiki/Dye" title="Dye">dyed</a> yellow, as are other smoked fish. Smoked haddock is the essential ingredient in the Anglo-Indian dish <i><a href="/wiki/Kedgeree" title="Kedgeree">kedgeree</a></i>, and also in the Scottish dish "<a class="mw-redirect" href="/wiki/Cullen_Skink" title="Cullen Skink">Cullen Skink</a>" (a 'chowder' like soup).</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haddock&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.ocean.udel.edu/mas/seafood/haddock.html" rel="nofollow">Haddock</a></span></li>
+<li id="cite_note-Fisheries_and_Oceans_Canada-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fisheries_and_Oceans_Canada_2-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.dfo-mpo.gc.ca/fm-gp/sustainable-durable/fisheries-peches/haddock-aiglefin-eng.htm" rel="nofollow">Fisheries and Oceans Canada</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nefsc.noaa.gov/nefsc/publications/crd/crd0216/" rel="nofollow">NEFSC Ref Doc 02-16</a></span></li>
+<li id="cite_note-Matthews-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Matthews_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Matthews_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Matthews B (1998) <a class="external text" href="https://books.google.com/books?id=UILMlQpNVCYC&amp;printsec=frontcover&amp;dq=%22An+Introduction+to+Parasitology%22&amp;hl=en&amp;ei=sUlsTbSBFIqecNrPlbID&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDIQ6AEwAA#v=onepage&amp;q&amp;f=false" rel="nofollow"><i>An Introduction to Parasitology</i></a> Page 73–74. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-57691-8" title="Special:BookSources/978-0-521-57691-8">978-0-521-57691-8</a>.</span></li>
+<li id="cite_note-Piper-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Piper_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Piper_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>Extraordinary Animals: An Encyclopedia of Curious and Unusual Animals</i>. <a class="mw-redirect" href="/wiki/Greenwood_Press_(publisher)" title="Greenwood Press (publisher)">Greenwood Press</a>. 2007.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Extraordinary+Animals%3A+An+Encyclopedia+of+Curious+and+Unusual+Animals&amp;rft.pub=Greenwood+Press&amp;rft.date=2007&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHaddock"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nefsc.noaa.gov/nefsc/publications/crd/crd0611/" rel="nofollow">NEFSC Ref Doc 06-11</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.greenpeace.org/international/en/campaigns/oceans/seafood/red-list-of-species/" rel="nofollow">Greenpeace International Seafood Red list</a></span></li>
+<li id="cite_note-gtfs-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-gtfs_8-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.gtfsgroup.co.uk/history.html" rel="nofollow">Grimsby Traditional Fish Smokers Group</a> <a class="external text" href="https://web.archive.org/web/20100903070347/http://www.gtfsgroup.co.uk/history.html" rel="nofollow">Archived</a> 2010-09-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-ice-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ice_9-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.ices.dk/committe/acom/comwork/report/2010/Special%20Requests/Icelandic%20cod%20management%20plan.pdf" rel="nofollow">Icelandic Request on the Evaluation of Icelandic Cod and Haddock Management Plan</a> <a class="external text" href="https://web.archive.org/web/20101206231019/http://www.ices.dk/committe/acom/comwork/report/2010/Special%20Requests/Icelandic%20cod%20management%20plan.pdf" rel="nofollow">Archived</a> 2010-12-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-eu-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-eu_10-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://eur-lex.europa.eu/Result.do?T1=V5&amp;T2=2008&amp;T3=331&amp;RechType=RECH_naturel&amp;Submit=Search" rel="nofollow">European Commission, Communication on Fishing Opportunities for 2009. May 2008</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.scotlandontv.tv/scotland_on_tv/video.html?vxSiteId=60fdd544-9c52-4e17-be7e-57a2a2d76992&amp;vxChannel=Food%20Recipes&amp;vxClipId=1380_SMG1149&amp;vxBitrate=300" rel="nofollow">Full recipe for Finnan Haddie from Scottish chef John Quigley</a> <a class="external text" href="https://web.archive.org/web/20071024113234/http://www.scotlandontv.tv/scotland_on_tv/video.html?vxSiteId=60fdd544-9c52-4e17-be7e-57a2a2d76992&amp;vxChannel=Food%20Recipes&amp;vxClipId=1380_SMG1149&amp;vxBitrate=300" rel="nofollow">Archived</a> 2007-10-24 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Other_references">Other references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haddock&amp;action=edit&amp;section=5" title="Edit section: Other references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/haddock" title="wiktionary:haddock">haddock</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1103" data-file-width="941" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a class="extiw" href="https://species.wikimedia.org/wiki/Melanogrammus_aeglefinus" title="wikispecies:Melanogrammus aeglefinus">Melanogrammus aeglefinus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation web" id="CITEREFSobel1996">Sobel (1996). <a class="external text" href="http://www.iucnredlist.org/details/13045" rel="nofollow">"<i>Melanogrammus aeglefinus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2006</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2006</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species.+Version+2006&amp;rft.atitle=Melanogrammus+aeglefinus&amp;rft.date=1996&amp;rft.au=Sobel&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F13045&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHaddock"><span style="display:none;"> </span></span> Listed as Vulnerable (VU A1d+2d v2.3)</li>
+<li>Froese, Rainer and Pauly, Daniel, eds. (2005). <a class="external text" href="http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Melanogrammus&amp;speciesname=aeglefinus" rel="nofollow">"<i>Melanogrammus aeglefinus</i>"</a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. May 2005 version.</li>
+<li>Alan Davidson, <i>North Atlantic Seafood</i>, 1979, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-670-51524-8" title="Special:BookSources/0-670-51524-8">0-670-51524-8</a>.</li>
+<li><a class="external text" href="http://www.fishwatch.gov/seafood_profiles/species/haddock/species_pages/haddock.htm" rel="nofollow">Haddock</a> <i>NOAA FishWatch</i>. Retrieved 5 November 2012.</li>
+</ul>
+<div aria-labelledby="Principal_commercial_fishery_species_groups" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Commercial_fish_topics" title="Template:Commercial fish topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Commercial_fish_topics" title="Template talk:Commercial fish topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Commercial_fish_topics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Principal_commercial_fishery_species_groups" style="font-size:114%;margin:0 4em">Principal commercial <a href="/wiki/Fishery" title="Fishery">fishery</a> species groups</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wild_fisheries" title="Wild fisheries">Wild</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pelagic_fish" title="Pelagic fish">Large pelagic fish</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mackerel" title="Mackerel">Mackerel</a></li>
+<li><a href="/wiki/Salmon" title="Salmon">Salmon</a></li>
+<li><a href="/wiki/Pacific_saury" title="Pacific saury">Saury</a></li>
+<li><a href="/wiki/Shark" title="Shark">Shark</a></li>
+<li><a href="/wiki/Swordfish" title="Swordfish">Swordfish</a></li>
+<li><a href="/wiki/Tuna" title="Tuna">Tuna</a>
+<ul>
+<li><a href="/wiki/Albacore" title="Albacore">albacore</a></li>
+<li><a href="/wiki/Bigeye_tuna" title="Bigeye tuna">bigeye</a></li>
+<li><a href="/wiki/Atlantic_bluefin_tuna" title="Atlantic bluefin tuna">Atlantic bluefin</a></li>
+<li><a href="/wiki/Pacific_bluefin_tuna" title="Pacific bluefin tuna">Pacific bluefin</a></li>
+<li><a href="/wiki/Southern_bluefin_tuna" title="Southern bluefin tuna">southern bluefin</a></li>
+<li><a href="/wiki/Skipjack_tuna" title="Skipjack tuna">skipjack</a></li>
+<li><a href="/wiki/Yellowfin_tuna" title="Yellowfin tuna">yellowfin</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Forage_fish" title="Forage fish">Forage fish</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anchovy" title="Anchovy">Anchovy</a></li>
+<li><a href="/wiki/Capelin" title="Capelin">Capelin</a></li>
+<li><a href="/wiki/Herring" title="Herring">Herring</a></li>
+<li><a href="/wiki/Ilish" title="Ilish">Ilish</a></li>
+<li><a href="/wiki/Menhaden" title="Menhaden">Menhaden</a></li>
+<li><a href="/wiki/Sardine" title="Sardine">Sardines</a></li>
+<li><a class="mw-redirect" href="/wiki/Shad" title="Shad">Shad</a></li>
+<li><a href="/wiki/Sprat" title="Sprat">Sprat</a>
+<ul>
+<li><a href="/wiki/European_sprat" title="European sprat">european</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Demersal_fish" title="Demersal fish">Demersal fish</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catfish" title="Catfish">Catfish</a></li>
+<li><a href="/wiki/Cod_fisheries" title="Cod fisheries">Cod</a>
+<ul>
+<li><a href="/wiki/Atlantic_cod" title="Atlantic cod">Atlantic</a></li>
+<li><a href="/wiki/Pacific_cod" title="Pacific cod">Pacific</a></li>
+<li><a href="/wiki/Alaska_pollock" title="Alaska pollock">Alaska pollock</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Flatfish" title="Flatfish">Flatfish</a>
+<ul>
+<li><a href="/wiki/Flounder" title="Flounder">flounder</a></li>
+<li><a href="/wiki/Halibut" title="Halibut">halibut</a></li>
+<li><a href="/wiki/Plaice" title="Plaice">plaice</a></li>
+<li><a href="/wiki/Sole_(fish)" title="Sole (fish)">sole</a></li>
+<li><a href="/wiki/Turbot" title="Turbot">turbot</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Haddock</a></li>
+<li><a href="/wiki/Mullet_(fish)" title="Mullet (fish)">Mullet</a></li>
+<li><a href="/wiki/Orange_roughy" title="Orange roughy">Orange roughy</a></li>
+<li><a href="/wiki/Pollock" title="Pollock">Pollock</a></li>
+<li><a href="/wiki/Sebastes" title="Sebastes">Rockfish</a></li>
+<li><a href="/wiki/Sillaginidae" title="Sillaginidae">Smelt-whitings</a></li>
+<li><a class="mw-redirect" href="/wiki/Toothfish" title="Toothfish">Toothfish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Freshwater_fish" title="Freshwater fish">Freshwater fish</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carp" title="Carp">Carp</a></li>
+<li><a href="/wiki/Sturgeon" title="Sturgeon">Sturgeon</a></li>
+<li><a href="/wiki/Tilapia" title="Tilapia">Tilapia</a></li>
+<li><a href="/wiki/Trout" title="Trout">Trout</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Wild_fish" title="Wild fish">Other wild fish</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eel" title="Eel">Eel</a></li>
+<li><a href="/wiki/Whitebait" title="Whitebait">Whitebait</a></li>
+<li><a href="/wiki/Category:Commercial_fish" title="Category:Commercial fish">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Crustacean" title="Crustacean">Crustaceans</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crab_fisheries" title="Crab fisheries">Crab</a></li>
+<li><a href="/wiki/Krill_fishery" title="Krill fishery">Krill</a></li>
+<li><a href="/wiki/Lobster_fishing" title="Lobster fishing">Lobster</a></li>
+<li><a href="/wiki/Shrimp_fishery" title="Shrimp fishery">Shrimp</a></li>
+<li><a href="/wiki/Category:Commercial_crustaceans" title="Category:Commercial crustaceans">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Mollusc" title="Mollusc">Molluscs</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abalone" title="Abalone">Abalone</a></li>
+<li><a href="/wiki/Mussel" title="Mussel">Mussels</a></li>
+<li><a href="/wiki/Octopus" title="Octopus">Octopus</a></li>
+<li><a href="/wiki/Oyster" title="Oyster">Oysters</a></li>
+<li><a href="/wiki/Scallop" title="Scallop">Scallops</a></li>
+<li><a href="/wiki/Squid" title="Squid">Squid</a></li>
+<li><a href="/wiki/Category:Commercial_molluscs" title="Category:Commercial molluscs">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Echinoderm" title="Echinoderm">Echinoderms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trepanging" title="Trepanging">Sea cucumbers</a></li>
+<li><a href="/wiki/Sea_urchin" title="Sea urchin">Sea urchin</a></li>
+<li><a href="/wiki/Category:Commercial_echinoderms" title="Category:Commercial echinoderms">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Atlantic_cod.jpg" title="Atlantic cod"><img alt="Atlantic cod" data-file-height="255" data-file-width="600" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atlantic_cod.jpg/140px-Atlantic_cod.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atlantic_cod.jpg/210px-Atlantic_cod.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atlantic_cod.jpg/280px-Atlantic_cod.jpg 2x" width="140"/></a><br/>
+<br/>
+<a class="image" href="/wiki/File:Lobster_(PSF).png" title="Lobster"><img alt="Lobster" data-file-height="1748" data-file-width="2821" height="62" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lobster_%28PSF%29.png/100px-Lobster_%28PSF%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lobster_%28PSF%29.png/150px-Lobster_%28PSF%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lobster_%28PSF%29.png/200px-Lobster_%28PSF%29.png 2x" width="100"/></a><br/>
+<br/>
+<a class="image" href="/wiki/File:Pacific_oysters_01.jpg" title="Pacific oysters"><img alt="Pacific oysters" data-file-height="1282" data-file-width="1750" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_oysters_01.jpg/80px-Pacific_oysters_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_oysters_01.jpg/120px-Pacific_oysters_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_oysters_01.jpg/160px-Pacific_oysters_01.jpg 2x" width="80"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aquaculture" title="Aquaculture">Farmed</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carp#Aquaculture" title="Carp">Carp</a>
+<ul>
+<li><a href="/wiki/Bighead_carp" title="Bighead carp">bighead</a></li>
+<li><a href="/wiki/Common_carp" title="Common carp">common</a></li>
+<li><a href="/wiki/Crucian_carp" title="Crucian carp">crucian</a></li>
+<li><a href="/wiki/Grass_carp" title="Grass carp">grass</a></li>
+<li><a href="/wiki/Silver_carp" title="Silver carp">silver</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Aquaculture_of_catfish" title="Aquaculture of catfish">Catfish</a></li>
+<li><a href="/wiki/Freshwater_prawn_farming" title="Freshwater prawn farming">Freshwater prawns</a></li>
+<li><a href="/wiki/Gilt-head_bream" title="Gilt-head bream">Gilt-head bream</a></li>
+<li><a href="/wiki/Mussel#Aquaculture" title="Mussel">Mussels</a></li>
+<li><a href="/wiki/Oyster_farming" title="Oyster farming">Oysters</a></li>
+<li><a class="mw-redirect" href="/wiki/Aquaculture_of_salmon" title="Aquaculture of salmon">Salmon</a>
+<ul>
+<li><a href="/wiki/Atlantic_salmon" title="Atlantic salmon">Atlantic</a></li>
+<li><a href="/wiki/Rainbow_trout" title="Rainbow trout">salmon trout</a></li>
+<li><a href="/wiki/Coho_salmon" title="Coho salmon">coho</a></li>
+<li><a href="/wiki/Chinook_salmon" title="Chinook salmon">chinook</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Scallop_aquaculture" title="Scallop aquaculture">Scallops</a></li>
+<li><a href="/wiki/Seaweed_farming" title="Seaweed farming">Seaweed</a></li>
+<li><a href="/wiki/Marine_shrimp_farming" title="Marine shrimp farming">Shrimp</a></li>
+<li><a href="/wiki/Aquaculture_of_tilapia" title="Aquaculture of tilapia">Tilapia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Commercial_fishing" title="Commercial fishing">Commercial fishing</a></li>
+<li><a class="mw-redirect" href="/wiki/World_fish_production" title="World fish production">World fish production</a></li>
+<li><a href="/wiki/List_of_commercially_important_fish_species" title="List of commercially important fish species">Commercial species</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_fishing_topics_by_subject" title="List of fishing topics by subject">Fishing topics</a></li>
+<li><a class="mw-redirect" href="/wiki/Fisheries_glossary" title="Fisheries glossary">Fisheries glossary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style='width:1%;"letter-spacing: .1px;"'><a class="extiw" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy" title="wikidata:Wikidata:WikiProject Taxonomy">Taxon identifiers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="hlist">
+<ul>
+<li><span class="external"><a href="/wiki/Wikidata" title="Wikidata">Wd</a>: <a class="extiw" href="https://www.wikidata.org/wiki/Q202406" title="d:Q202406">Q202406</a></span></li>
+<li><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>:<span class="nowrap"> </span><a class="external text" href="http://animaldiversity.org/accounts/Melanogrammus_aeglefinus" rel="nofollow">Melanogrammus_aeglefinus</a></li>
+<li><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>:<span class="nowrap"> </span><a class="external text" href="http://eol.org/pages/212899" rel="nofollow">212899</a></li>
+<li><a href="/wiki/FishBase" title="FishBase">FishBase</a>:<span class="nowrap"> </span><a class="external text" href="http://www.fishbase.org/Summary/speciesSummary.php?id=1381" rel="nofollow">1381</a></li>
+<li><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>:<span class="nowrap"> </span><a class="external text" href="http://www.gbif.org/species/2415822" rel="nofollow">2415822</a></li>
+<li><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>:<span class="nowrap"> </span><a class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=164744" rel="nofollow">164744</a></li>
+<li><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>:<span class="nowrap"> </span><a class="external text" href="http://www.iucnredlist.org/details/13045/0" rel="nofollow">13045</a></li>
+<li><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>:<span class="nowrap"> </span><a class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=8056" rel="nofollow">8056</a></li>
+<li><a href="/wiki/ARKive" title="ARKive">ARKive</a>:<span class="nowrap"> </span><a class="external text" href="http://www.arkive.org/haddock/melanogrammus-aeglefinus" rel="nofollow">haddock/melanogrammus-aeglefinus</a></li>
+<li><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>:<span class="nowrap"> </span><a class="external text" href="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=126437" rel="nofollow">126437</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20171107022047
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.924 seconds
+Real time usage: 1.149 seconds
+Preprocessor visited node count: 13063/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 124513/2097152 bytes
+Template argument size: 15243/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 10/500
+Lua time usage: 0.529/10.000 seconds
+Lua memory usage: 9.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1072.667      1 -total
+ 40.11%  430.266      1 Template:Speciesbox
+ 39.27%  421.257      1 Template:Taxobox/core
+ 22.90%  245.588      3 Template:Navbox
+ 22.50%  241.322      1 Template:Taxonbar
+ 21.08%  226.137      1 Template:1x
+ 20.76%  222.633      1 Template:Taxobox/taxonomy
+ 18.80%  201.624     48 Template:Taxonbar/Link
+ 16.27%  174.488      6 Template:Infobox
+ 13.85%  148.574    105 Template:Taxon_info
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:313822-0!canonical and timestamp 20171107022046 and revision id 807409100
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Haddock&amp;oldid=807409100">https://en.wikipedia.org/w/index.php?title=Haddock&amp;oldid=807409100</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_vulnerable_species" title="Category:IUCN Red List vulnerable species">IUCN Red List vulnerable species</a></li><li><a href="/wiki/Category:Gadidae" title="Category:Gadidae">Gadidae</a></li><li><a href="/wiki/Category:Marine_edible_fish" title="Category:Marine edible fish">Marine edible fish</a></li><li><a href="/wiki/Category:Seafood_red_list" title="Category:Seafood red list">Seafood red list</a></li><li><a href="/wiki/Category:Commercial_fish" title="Category:Commercial fish">Commercial fish</a></li><li><a href="/wiki/Category:Fish_of_the_Arctic_Ocean" title="Category:Fish of the Arctic Ocean">Fish of the Arctic Ocean</a></li><li><a href="/wiki/Category:Fish_of_the_North_Sea" title="Category:Fish of the North Sea">Fish of the North Sea</a></li><li><a href="/wiki/Category:Fish_of_Europe" title="Category:Fish of Europe">Fish of Europe</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_October_2015" title="Category:Articles with failed verification from October 2015">Articles with failed verification from October 2015</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Haddock" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Haddock" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Haddock" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Haddock" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Haddock">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Haddock&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Haddock&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Haddock" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Haddock" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Haddock&amp;oldid=807409100" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Haddock&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q202406" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Haddock&amp;id=807409100" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Haddock">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Haddock&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Haddock&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Melanogrammus_aeglefinus" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Melanogrammus_aeglefinus" hreflang="en">Wikispecies</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Skelvis" hreflang="af" lang="af" title="Skelvis – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D9%82" hreflang="ar" lang="ar" title="الحدوق – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Pik%C5%9Fa" hreflang="az" lang="az" title="Pikşa – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D1%96%D0%BA%D1%88%D0%B0" hreflang="be" lang="be" title="Пікша – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D1%88%D0%B0" hreflang="bg" lang="bg" title="Пикша – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Azen_(pesk)" hreflang="br" lang="br" title="Azen (pesk) – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Eglef%C3%AD" hreflang="ca" lang="ca" title="Eglefí – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="ceb" lang="ceb" title="Melanogrammus aeglefinus – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Hadog" hreflang="cy" lang="cy" title="Hadog – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kuller" hreflang="da" lang="da" title="Kuller – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schellfisch" hreflang="de" lang="de" title="Schellfisch – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="es" lang="es" title="Melanogrammus aeglefinus – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Eglefino" hreflang="eo" lang="eo" title="Eglefino – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Eglefino" hreflang="eu" lang="eu" title="Eglefino – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%BA%D9%86%E2%80%8C%D9%85%D8%A7%D9%87%DB%8C_%DA%A9%D9%88%DA%86%DA%A9" hreflang="fa" lang="fa" title="روغن‌ماهی کوچک – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/H%C3%BDsa" hreflang="fo" lang="fo" title="Hýsa – Faroese">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Aiglefin" hreflang="fr" lang="fr" title="Aiglefin – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Cad%C3%B3g" hreflang="ga" lang="ga" title="Cadóg – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Adag" hreflang="gd" lang="gd" title="Adag – Scottish Gaelic">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Fogueiro" hreflang="gl" lang="gl" title="Fogueiro – Galician">Galego</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8A%D5%AB%D5%B7%D5%AF%D5%A1" hreflang="hy" lang="hy" title="Պիշկա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Eglefino" hreflang="io" lang="io" title="Eglefino – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Haddock" hreflang="id" lang="id" title="Haddock – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9Dsa" hreflang="is" lang="is" title="Ýsa – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="it" lang="it" title="Melanogrammus aeglefinus – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%98%E1%83%A5%E1%83%A8%E1%83%90" hreflang="ka" lang="ka" title="პიქშა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Juodad%C4%97m%C4%97_menk%C4%97" hreflang="lt" lang="lt" title="Juodadėmė menkė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Foltos_t%C5%91kehal" hreflang="hu" lang="hu" title="Foltos tőkehal – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="nl" lang="nl" title="Melanogrammus aeglefinus – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%80%E3%83%A9" hreflang="ja" lang="ja" title="コダラ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Hyse" hreflang="no" lang="no" title="Hyse – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Hyse" hreflang="nn" lang="nn" title="Hyse – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pcd"><a class="interlanguage-link-target" href="https://pcd.wikipedia.org/wiki/%C3%89qh%C3%A9lfin" hreflang="pcd" lang="pcd" title="Éqhélfin – Picard">Picard</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Plamiak" hreflang="pl" lang="pl" title="Plamiak – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="pt" lang="pt" title="Melanogrammus aeglefinus – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Eglefin" hreflang="ro" lang="ro" title="Eglefin – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D1%88%D0%B0" hreflang="ru" lang="ru" title="Пикша – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Haddock" hreflang="sco" lang="sco" title="Haddock – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Haddock" hreflang="simple" lang="simple" title="Haddock – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="sr" lang="sr" title="Melanogrammus aeglefinus – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kolja" hreflang="fi" lang="fi" title="Kolja – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kolja" hreflang="sv" lang="sv" title="Kolja – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="tl" lang="tl" title="Melanogrammus aeglefinus – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Mezgit" hreflang="tr" lang="tr" title="Mezgit – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%BA%D1%88%D0%B0_(%D1%80%D0%B8%D0%B1%D0%B0)" hreflang="uk" lang="uk" title="Пікша (риба) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Melanogrammus_aeglefinus" hreflang="war" lang="war" title="Melanogrammus aeglefinus – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%BB%91%E7%B7%9A%E9%B1%88" hreflang="zh" lang="zh" title="黑線鱈 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q202406#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 October 2017, at 19:28.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Haddock&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.924","walltime":"1.149","ppvisitednodes":{"value":13063,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":124513,"limit":2097152},"templateargumentsize":{"value":15243,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":10,"limit":400},"timingprofile":["100.00% 1072.667      1 -total"," 40.11%  430.266      1 Template:Speciesbox"," 39.27%  421.257      1 Template:Taxobox/core"," 22.90%  245.588      3 Template:Navbox"," 22.50%  241.322      1 Template:Taxonbar"," 21.08%  226.137      1 Template:1x"," 20.76%  222.633      1 Template:Taxobox/taxonomy"," 18.80%  201.624     48 Template:Taxonbar/Link"," 16.27%  174.488      6 Template:Infobox"," 13.85%  148.574    105 Template:Taxon_info"]},"scribunto":{"limitreport-timeusage":{"value":"0.529","limit":"10.000"},"limitreport-memusage":{"value":10469346,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20171107022047","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1274,"wgHostname":"mw1264"});});</script>
+</body>
+</html>

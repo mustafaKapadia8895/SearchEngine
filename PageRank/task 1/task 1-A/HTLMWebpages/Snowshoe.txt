@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Snowshoe - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Snowshoe","wgTitle":"Snowshoe","wgCurRevisionId":807442030,"wgRevisionId":807442030,"wgArticleId":87493,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2008","Articles with unsourced statements from January 2010","Articles containing potentially dated statements from 2006","All articles containing potentially dated statements","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","Articles containing video clips","Footwear","Traditional footwear","Hiking equipment","Snow","Snowshoeing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Snowshoe","wgRelevantArticleId":87493,"wgRequestId":"WfPLxgpAAEAAAF23ieUAAABC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q214724","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.4" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/47/Atlas_snowshoes.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Snowshoe" rel="alternate"/>
+<link href="/w/index.php?title=Snowshoe&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Snowshoe&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Snowshoe" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Snowshoe rootpage-Snowshoe vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Snowshoe</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about snow footwear. For the resort, see <a href="/wiki/Snowshoe_Mountain" title="Snowshoe Mountain">Snowshoe Mountain</a>. For the hare, see <a href="/wiki/Snowshoe_hare" title="Snowshoe hare">Snowshoe hare</a>. For other uses, see <a class="mw-disambig" href="/wiki/Snowshoe_(disambiguation)" title="Snowshoe (disambiguation)">Snowshoe (disambiguation)</a>.</div>
+<table align="right">
+<tr>
+<td>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a class="image" href="/wiki/File:Atlas_snowshoes.jpg"><img alt="" class="thumbimage" data-file-height="599" data-file-width="469" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Atlas_snowshoes.jpg/175px-Atlas_snowshoes.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Atlas_snowshoes.jpg/263px-Atlas_snowshoes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Atlas_snowshoes.jpg/350px-Atlas_snowshoes.jpg 2x" width="175"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Atlas_snowshoes.jpg" title="Enlarge"></a></div>
+A pair of modern snowshoes</div>
+</div>
+</div>
+</td>
+<td>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a class="image" href="/wiki/File:Snowshoe2.jpg"><img alt="" class="thumbimage" data-file-height="1600" data-file-width="1200" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Snowshoe2.jpg/175px-Snowshoe2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Snowshoe2.jpg/263px-Snowshoe2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Snowshoe2.jpg/350px-Snowshoe2.jpg 2x" width="175"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoe2.jpg" title="Enlarge"></a></div>
+Traditional snowshoe</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<p>A <b>snowshoe</b> is <a href="/wiki/Footwear" title="Footwear">footwear</a> for walking over <a href="/wiki/Snow" title="Snow">snow</a>. Snowshoes work by distributing the weight of the person over a larger area so that the person's foot does not sink completely into the snow, a quality called "flotation". Snowshoeing is a form of hiking.</p>
+<p>Traditional snowshoes have a hardwood frame with <a href="/wiki/Rawhide_(material)" title="Rawhide (material)">rawhide</a> lacings. Some modern snowshoes are similar, but most are made of materials such as lightweight metal, plastic, and synthetic fabric. In addition to distributing the weight, snowshoes are generally raised at the toe for maneuverability. They must not accumulate snow, hence the <a href="/wiki/Latticework" title="Latticework">latticework</a>, and require bindings to attach them to the feet.</p>
+<p>In the past, snowshoes were essential tools for fur traders, <a class="mw-redirect" href="/wiki/Animal_trapping" title="Animal trapping">trappers</a> and anyone whose life or living depended on the ability to get around in areas of deep and frequent snowfall, and they remain necessary equipment for <a href="/wiki/Park_ranger" title="Park ranger">forest rangers</a> and others who must be able to get around areas inaccessible to motorized vehicles when the snow is deep. However, snowshoes are mainly used today for recreation, primarily by <a href="/wiki/Hiking" title="Hiking">hikers</a> and <a href="/wiki/Running" title="Running">runners</a> who like to continue their hobby in wintertime. Snowshoeing is easy to learn and in appropriate conditions is a relatively safe and inexpensive recreational activity. However, snowshoeing in icy, steep terrain can be more dangerous.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development"><span class="tocnumber">1</span> <span class="toctext">Development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Origins"><span class="tocnumber">1.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#North_American_indigenous_peoples"><span class="tocnumber">1.2</span> <span class="toctext">North American indigenous peoples</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Use_by_Europeans"><span class="tocnumber">1.3</span> <span class="toctext">Use by Europeans</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Modern"><span class="tocnumber">2</span> <span class="toctext">Modern</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#The_.22Western.22"><span class="tocnumber">2.1</span> <span class="toctext">The "Western"</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Selection"><span class="tocnumber">3</span> <span class="toctext">Selection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Bindings"><span class="tocnumber">3.1</span> <span class="toctext">Bindings</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Accessories"><span class="tocnumber">3.2</span> <span class="toctext">Accessories</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Techniques_employed_with_snowshoes"><span class="tocnumber">4</span> <span class="toctext">Techniques employed with snowshoes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Walking"><span class="tocnumber">4.1</span> <span class="toctext">Walking</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Turning"><span class="tocnumber">4.1.1</span> <span class="toctext">Turning</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Ascending"><span class="tocnumber">4.1.2</span> <span class="toctext">Ascending</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Descending"><span class="tocnumber">4.1.3</span> <span class="toctext">Descending</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Breaking_trail"><span class="tocnumber">4.1.4</span> <span class="toctext">Breaking trail</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Benefits"><span class="tocnumber">4.2</span> <span class="toctext">Benefits</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Adverse_effects"><span class="tocnumber">4.3</span> <span class="toctext">Adverse effects</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Winter_recreation"><span class="tocnumber">4.4</span> <span class="toctext">Winter recreation</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Competition"><span class="tocnumber">4.5</span> <span class="toctext">Competition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Maintenance_and_repair"><span class="tocnumber">5</span> <span class="toctext">Maintenance and repair</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=1" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=2" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Snow_Shoe_Maker_between_ca._1900-1930.jpg"><img alt="" class="thumbimage" data-file-height="586" data-file-width="342" height="291" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Snow_Shoe_Maker_between_ca._1900-1930.jpg/170px-Snow_Shoe_Maker_between_ca._1900-1930.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Snow_Shoe_Maker_between_ca._1900-1930.jpg/255px-Snow_Shoe_Maker_between_ca._1900-1930.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Snow_Shoe_Maker_between_ca._1900-1930.jpg/340px-Snow_Shoe_Maker_between_ca._1900-1930.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snow_Shoe_Maker_between_ca._1900-1930.jpg" title="Enlarge"></a></div>
+Traditional snowshoe maker, c. 1900-1930</div>
+</div>
+</div>
+<p>Before people built snowshoes, nature provided examples. Several animals, most notably the <a href="/wiki/Snowshoe_hare" title="Snowshoe hare">snowshoe hare</a>, had <a href="/wiki/Evolution" title="Evolution">evolved</a> over the years with oversized feet enabling them to move more quickly through deep snow.</p>
+<p>The origin and age of snowshoes are not precisely known, although historians believe they were invented from 4,000 to 6,000 years ago, probably starting in <a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a>.<sup class="reference" id="cite_ref-refGvsnowshoes_1-0"><a href="#cite_note-refGvsnowshoes-1">[1]</a></sup> <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> <a href="/wiki/Archaeology" title="Archaeology">archaeologist</a> <a href="/wiki/Jacqui_Wood" title="Jacqui Wood">Jacqui Wood</a> hypothesized that the equipment interpreted to be the frame of a backpack of the <a href="/wiki/Chalcolithic" title="Chalcolithic">Chalcolithic</a> <a href="/wiki/Mummy" title="Mummy">mummy</a> <a href="/wiki/%C3%96tzi" title="Ötzi">Ötzi</a> was actually part of a snowshoe.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/Strabo" title="Strabo">Strabo</a> wrote that the inhabitants of the <a href="/wiki/Caucasus" title="Caucasus">Caucasus</a> used to attach flat surfaces of leather under their feet and that its inhabitants used round wooden surfaces, something akin to blocks, instead. However, the "traditional" webbed snowshoe as we know it today had direct origins to North American indigenous people, e.g., the Huron, Cree, and so forth.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> <a href="/wiki/Samuel_de_Champlain" title="Samuel de Champlain">Samuel de Champlain</a> wrote, referencing the Huron and Algonquin First Nations, in his travel memoirs (V.III, pg. 164), "Winter, when there is much snow, they (the Indians) make a kind of snowshoe that are two to three times larger than those in France, that they tie to their feet, and thus go on the snow, without sinking into it, otherwise they would not be able to hunt or go from one location to the other".</p>
+<p>Two groups of snowshoe pioneers diverged early on, setting patterns that can still be seen today. One group abandoned the snowshoe as it migrated north to what is now <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a>, eventually turning the design into the forerunners of the <a href="/wiki/Cross-country_skiing" title="Cross-country skiing">Nordic ski</a>. The other went northeast, eventually crossing the <a href="/wiki/Bering_Strait" title="Bering Strait">Bering Strait</a> into <a href="/wiki/North_America" title="North America">North America</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2008)">citation needed</span></a></i>]</sup></p>
+<p>In 2016, Italian scientists reported "the oldest snowshoe in the world" discovered in <a class="mw-redirect" href="/wiki/The_Dolomites" title="The Dolomites">the Dolomites</a> and dated to between 3800 and 3700 B.C.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="North_American_indigenous_peoples">North American indigenous peoples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=3" title="Edit section: North American indigenous peoples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Ojibwa_dance.jpg"><img alt="" class="thumbimage" data-file-height="913" data-file-width="1400" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ojibwa_dance.jpg/220px-Ojibwa_dance.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ojibwa_dance.jpg/330px-Ojibwa_dance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ojibwa_dance.jpg/440px-Ojibwa_dance.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ojibwa_dance.jpg" title="Enlarge"></a></div>
+Plains <a class="mw-redirect" href="/wiki/Ojibwa_people" title="Ojibwa people">Ojibwa</a> performing a snowshoe dance by <a href="/wiki/George_Catlin" title="George Catlin">George Catlin</a></div>
+</div>
+</div>
+<p>The indigenous people of North America developed the most advanced and diverse snowshoes prior to the 20th century. Nearly every <a href="/wiki/Indigenous_peoples_of_the_Americas" title="Indigenous peoples of the Americas">North American aboriginal</a> culture developed its own particular shape of shoe, the simplest and most primitive being those of the far north. The <a href="/wiki/Inuit" title="Inuit">Inuit</a> have two styles, one being triangular in shape and about 18 inches (46 cm) in length, and the other almost circular, both reflecting the need for high flotation in deep, loose and powdery snow. However, contrary to popular perception, the Inuit did not use their snowshoes much since they did most of their foot travel in winter over sea ice or on the <a href="/wiki/Tundra" title="Tundra">tundra</a>, where snow does not pile up deeply.</p>
+<p>Southward the shoe becomes gradually narrower and longer, the largest being the hunting snow-shoe of the <a href="/wiki/Cree" title="Cree">Cree</a>, which is nearly 6 ft (1.8 m) long and turned up at the toe. Even smaller models, developed most notably by the <a href="/wiki/Iroquois" title="Iroquois">Iroquois</a>, are narrower and shorter, reflecting the need for maneuverability in <a href="/wiki/Forest" title="Forest">forested</a> areas.</p>
+<p>The <a href="/wiki/Plains_Indians" title="Plains Indians">Plains Indians</a> wore snowshoes on their winter season <a class="mw-redirect" href="/wiki/American_Bison" title="American Bison">bison</a> hunts before <a href="/wiki/Horse" title="Horse">horses</a> were introduced. Despite their great diversity in form, snowshoes were, in fact, one of the few cultural elements common to all tribes that lived where the winters were snowy, in particular, the Northern regions.</p>
+<h3><span class="mw-headline" id="Use_by_Europeans">Use by Europeans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=4" title="Edit section: Use by Europeans">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Swedishnowshoe.PNG"><img alt="" class="thumbimage" data-file-height="298" data-file-width="382" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Swedishnowshoe.PNG/200px-Swedishnowshoe.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Swedishnowshoe.PNG/300px-Swedishnowshoe.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/d/df/Swedishnowshoe.PNG 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Swedishnowshoe.PNG" title="Enlarge"></a></div>
+16th century depiction of Swedish traveler with horse</div>
+</div>
+</div>
+<p>Snowshoes were slowly adopted by Europeans in what became Canada and the United States, with the <a href="/wiki/French_people" title="French people">French</a> <i><a href="/wiki/Voyageurs" title="Voyageurs">voyageurs</a></i> and <a href="/wiki/Coureur_des_bois" title="Coureur des bois">Coureur des bois</a> well in advance of British <a href="/wiki/Settler" title="Settler">settlers</a>. According to the Encyclopædia Britannica, French Voyageurs were primarily 18th and 19th century French Canadian fur traders who explored the frontier waterways by canoe. The Europeans adopted the use of snowshoes through the <a href="/wiki/French_and_Indian_Wars" title="French and Indian Wars">French and Indian Wars</a>. Superior French snowshoeing skill almost turned the <a href="/wiki/French_and_Indian_War" title="French and Indian War">French and Indian War</a>, a conflict that saw two engagements named the <a href="/wiki/Battle_on_Snowshoes" title="Battle on Snowshoes">Battle on Snowshoes</a>, to their favor.</p>
+<p>However, the British were quick learners. The <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> reports the term being used by the English as early as 1674. Sixteen years later, after a French-Indian raiding party attacked a British settlement near what is today <a href="/wiki/Schenectady,_New_York" title="Schenectady, New York">Schenectady, New York</a>, the British took to their own snowshoes and pursued the attackers for almost 50 miles (80 km), ultimately recovering both people and goods taken by their attackers.</p>
+<p>The "teardrop" snowshoes worn by lumberjacks are about 40 inches (1.0 m) long and broad in proportion, while the tracker's shoe is over 5 feet (1.5 m) long and very narrow. This form, the stereotypical snowshoe, resembles a <a href="/wiki/Tennis" title="Tennis">tennis</a> <a class="mw-redirect" href="/wiki/Racquet" title="Racquet">racquet</a>, and indeed the French term is <i>raquette de neige</i>.</p>
+<p>This form was copied by the Canadian snowshoe clubs of the late 18th century. Founded for military training purposes, they became the earliest recreational users of snowshoes.</p>
+<p>The snowshoe clubs such as the <a href="/wiki/Montreal_Snow_Shoe_Club" title="Montreal Snow Shoe Club">Montreal Snow Shoe Club</a> (1840) shortened the teardrop to about 40 inches (100 cm) long and 15 to 18 inches (380 to 460 mm) broad, slightly turned up at the toe and terminating in a kind of tail behind. This is made very light for racing purposes, but much stouter for touring or hunting. The tail keeps the shoe straight while walking.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snowshoes_two_styles.JPG"><img alt="" class="thumbimage" data-file-height="2736" data-file-width="3648" height="165" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d6/Snowshoes_two_styles.JPG/220px-Snowshoes_two_styles.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d6/Snowshoes_two_styles.JPG/330px-Snowshoes_two_styles.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/d6/Snowshoes_two_styles.JPG/440px-Snowshoes_two_styles.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoes_two_styles.JPG" title="Enlarge"></a></div>
+Teardrop showshoes and Bearpaw snowshoes in the <a href="/wiki/Gatineau_Park" title="Gatineau Park">Gatineau Park</a>.</div>
+</div>
+</div>
+<p>Another variant, the "bearpaw", ends in a curved heel instead of a tail. While many early enthusiasts found this more difficult to learn on, as they were thicker in the middle and rather cumbersome, they did have the advantage of being easier to pack and nimbler in tight spaces. Two forms of traditional bearpaw snowshoes developed: an eastern version used by "spruce gummers" consisting of an oval frame with wooden cross braces, and a western version with a rounded triangular frame and no wooden bracing.</p>
+<p>Traditional snowshoes are made of a single strip of some tough wood, usually <a class="mw-redirect" href="/wiki/White_ash" title="White ash">white ash</a>, curved round and fastened together at the ends and supported in the middle by a light cross-bar. The space within the frame is filled with a close webbing of dressed <a class="mw-redirect" href="/wiki/Caribou" title="Caribou">caribou</a> or neat's-hide strips, leaving a small opening just behind the cross-bar for the toe of the <a class="mw-redirect" href="/wiki/Moccasin_(footwear)" title="Moccasin (footwear)">moccasined</a> foot. They are fastened to the moccasin by <a href="/wiki/Leather" title="Leather">leather</a> thongs, sometimes by <a href="/wiki/Buckle" title="Buckle">buckles</a>. Such shoes are still made and sold by native peoples.</p>
+<h2><span class="mw-headline" id="Modern">Modern</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=5" title="Edit section: Modern">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Couple_Snowshoeing.jpg"><img alt="" class="thumbimage" data-file-height="873" data-file-width="583" height="299" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Couple_Snowshoeing.jpg/200px-Couple_Snowshoeing.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Couple_Snowshoeing.jpg/300px-Couple_Snowshoeing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Couple_Snowshoeing.jpg/400px-Couple_Snowshoeing.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Couple_Snowshoeing.jpg" title="Enlarge"></a></div>
+Canadian couple snowshoeing in 1907</div>
+</div>
+</div>
+<p>Outside of indigenous populations and some competitions such as <a href="/wiki/Arctic_Winter_Games" title="Arctic Winter Games">Arctic Winter Games</a>, very few of the old-fashioned snowshoes are actually used by enthusiasts anymore, although some value them for the artisanship involved in their construction. They are sometimes seen as decorations, mounted on walls or on <a href="/wiki/Fireplace_mantel" title="Fireplace mantel">mantels</a> in ski lodges.</p>
+<p>Even though many enthusiasts prefer aluminum snowshoes, there is still a large group of snowshoe enthusiasts who prefer wooden snowshoes. Wooden frames do not freeze as readily. Many enthusiasts also prefer wood snowshoes because they are very quiet.</p>
+<p>While recreational use of snowshoes began with snowshoe clubs in <a href="/wiki/Quebec" title="Quebec">Quebec</a>, Canada (who held events where races and hikes were combined with fine food and drink), the manufacture of snowshoes for recreational purposes really began in the late 19th century, when serious recreational use became more widespread.</p>
+<p>In the late 20th century the snowshoe underwent a radical redesign. It started in the 1950s when the <a href="/wiki/Vermont" title="Vermont">Vermont</a>-based Tubbs company created the <a href="/wiki/Green_Mountains" title="Green Mountains">Green Mountain</a> Bearpaw, which combined the shortness of that style with an even narrower width than had previously been used (<a href="#refPospisil1979">Pospisil 1979</a>). This rapidly became one of the most popular snowshoes of its day.</p>
+<h3><span id='The_"Western"'></span><span class="mw-headline" id="The_.22Western.22">The "Western"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=6" title='Edit section: The "Western"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1972, experimenting with new designs in <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>'s <a class="mw-redirect" href="/wiki/Cascade_Mountains" title="Cascade Mountains">Cascade Mountains</a>, Gene and Bill Prater created the snowshoe known today. They began using <a class="mw-redirect" href="/wiki/Aluminum" title="Aluminum">aluminum</a> tubing and replaced the lace with <a href="/wiki/Neoprene" title="Neoprene">neoprene</a> and <a href="/wiki/Nylon" title="Nylon">nylon</a> decking. To make them easier to use in <a href="/wiki/Mountaineering" title="Mountaineering">mountaineering</a>, the Praters developed a hinged binding and added <a href="/wiki/Cleat_(shoe)" title="Cleat (shoe)">cleats</a> to the bottom of the shoe.</p>
+<p>The Sherpa Snowshoe company started manufacturing these "<a href="/wiki/Western_United_States" title="Western United States">Western</a>" shoes and they proved very popular. <a href="/wiki/Eastern_United_States" title="Eastern United States">Eastern</a> snowshoers were a bit more skeptical at first, believing that the style was unnecessary in the east, until the Praters demonstrated their improved effectiveness on <a href="/wiki/New_Hampshire" title="New Hampshire">New Hampshire</a>'s <a href="/wiki/Mount_Washington_(New_Hampshire)" title="Mount Washington (New Hampshire)">Mount Washington</a>.</p>
+<p>These use an <a class="mw-redirect" href="/wiki/Aluminum" title="Aluminum">aluminum</a> or <a href="/wiki/Stainless_steel" title="Stainless steel">stainless steel</a> frame and take advantage of technical advances in <a href="/wiki/Plastic" title="Plastic">plastics</a> and <a href="/wiki/Injection_moulding" title="Injection moulding">injection molding</a> to make a lighter and more durable shoe. They require little maintenance, and usually incorporate aggressive <a class="mw-redirect" href="/wiki/Crampon" title="Crampon">crampons</a>.</p>
+<p>Some, such as the "Denali" model made by <a href="/wiki/Mountain_Safety_Research" title="Mountain Safety Research">Mountain Safety Research</a>, use no metal frame and can be fitted with optional detachable tail extenders. Newer models have heel-lifters, called "ascenders", that flip up to facilitate hill climbing.</p>
+<p>The use of solid decking in place of the standard latticework of lacing came as a surprise to many enthusiasts, since it challenged a long-held belief that the lattice was necessary to prevent snow from accumulating on the shoe. In practice, however, it seems that very little snow comes through the openings in either type of shoe.</p>
+<p>Neoprene/nylon decks also displayed superior water resistance, neither stretching as rawhide will when wet nor requiring annual treatment with <a href="/wiki/Spar_varnish#Spar_varnish" title="Spar varnish">spar varnish</a>, features that were immediately appreciated. Eventually they were replaced with even lighter materials such as <a href="/wiki/Polypropylene" title="Polypropylene">polypropylene</a>. This tendency also gave way to the creation of inflatable snowshoes made of different fabrics such as <a href="/wiki/Cordura" title="Cordura">cordura</a> and <a href="/wiki/Thermoplastic_polyurethane" title="Thermoplastic polyurethane">thermoplatic polyurethane (TPU)</a>.</p>
+<p>These more athletic designs have helped the sport enjoy a renaissance after a period of eclipse when winter recreationists showed more interest in skiing. In the U.S., the number of snowshoers tripled during the 1990s.</p>
+<p>In fact, <a href="/wiki/Ski_resort" title="Ski resort">ski resorts</a> with available land are beginning to offer snowshoe trails to visitors, and some popular hiking areas are almost as busy in the colder months as they are on warm summer weekends.</p>
+<h2><span class="mw-headline" id="Selection">Selection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=7" title="Edit section: Selection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Snowshoes_and_bindings.jpg"><img alt="" class="thumbimage" data-file-height="615" data-file-width="365" height="253" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Snowshoes_and_bindings.jpg/150px-Snowshoes_and_bindings.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Snowshoes_and_bindings.jpg/225px-Snowshoes_and_bindings.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Snowshoes_and_bindings.jpg/300px-Snowshoes_and_bindings.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoes_and_bindings.jpg" title="Enlarge"></a></div>
+Properly adjusted bindings on two snowshoes of different size. Note use of <a href="/wiki/Gaiters" title="Gaiters">gaiters</a>.</div>
+</div>
+</div>
+<p>As many winter recreationists rediscover snowshoeing, many more new models of snowshoe are becoming available. Ski areas and outdoor equipment stores are offering snowshoes for <a href="/wiki/Renting" title="Renting">rent</a>.</p>
+<p>Snowshoes today are divided into three types:</p>
+<ul>
+<li>aerobic/running (small and light; not intended for backcountry use);</li>
+<li>recreational (a bit larger; meant for use in gentle-to moderate walks of 3–5 miles (4.8–8.0 km)); and</li>
+<li>mountaineering (the largest, meant for serious hill-climbing, long-distance trips and off-trail use).</li>
+</ul>
+<p>Sizes are often given in inches, even though snowshoes are nowhere near perfectly <a href="/wiki/Rectangle" title="Rectangle">rectangular</a>. Mountaineering shoes can be at least 30 inches (76 cm) long by 10 inches (25 cm) wide; a lighter pair of racing shoes can be slightly narrower and 25 inches (64 cm) or shorter.</p>
+<p>Regardless of configuration, all wooden shoes are referred to as "traditional" and all shoes made of other materials are called "modern."</p>
+<p>Notwithstanding these variations in planned use, larger users should plan on buying larger snowshoes. A common formula is that for every pound of body weight, there should be one square inch of snowshoe surface (14.5 cm²/kg) per snowshoe to adequately support the wearer. Users should also consider the weight of any gear they will be packing, especially if they expect to break trail. Those planning to travel into deep powder look for even larger shoes.</p>
+<p>Many manufacturers now include weight-based flotation ratings for their shoes, although there is no standard for setting this yet.</p>
+<h3><span class="mw-headline" id="Bindings">Bindings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=8" title="Edit section: Bindings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Snowshoe_reverse.jpg"><img alt="" class="thumbimage" data-file-height="1269" data-file-width="2346" height="81" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Snowshoe_reverse.jpg/150px-Snowshoe_reverse.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Snowshoe_reverse.jpg/225px-Snowshoe_reverse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Snowshoe_reverse.jpg/300px-Snowshoe_reverse.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoe_reverse.jpg" title="Enlarge"></a></div>
+Underside of a modern fixed-rotation binding snowshoe, showing cleats for <a href="/wiki/Traction_(engineering)" title="Traction (engineering)">traction</a> on steep slopes.</div>
+</div>
+</div>
+<p>As is often the case with downhill skis, wood-frame snowshoes and suitable bindings are typically marketed and purchased separately rather than as a single piece. One common style is termed the "H" binding, as it consists of a <a href="/wiki/Strap#binding_strap" title="Strap">strap</a> around the heel crossing a strap around the toe and one at the instep, forming a rough version of the eponymous letter.</p>
+<p>On modern shoes, there are two styles of binding: fixed-rotation (also known as "limited-rotation") bindings, and full-rotation (also known as "pivot") bindings.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> With either binding system, the <a href="/wiki/Heel" title="Heel">heel</a> is left free, and the difference is in how the ball of the foot is attached to the snowshoe.</p>
+<p>In fixed-rotation bindings, the binding is attached to the snowshoe with an elastic strap that brings the tail of the snowshoe up with each step. The snowshoe therefore moves with the foot and the tail does not drag. Fixed-rotation bindings are preferred for racing.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Full-rotation bindings allow the user's toes to pivot below the deck of the snowshoe. They allow the <a class="mw-redirect" href="/wiki/Crampon" title="Crampon">crampon</a> cleats that are under the foot to be kicked into a slope for grip in climbing, but are relatively awkward for stepping sideways and backwards as the tail of the snowshoe can drag. Fixed-rotation bindings often cause snow to be kicked up the back of the wearer's legs; this does not tend to happen with full-rotation bindings.</p>
+<p>A series of straps, usually three, are used to fasten the foot to the snowshoe. Some styles of binding use a cup for the toe. It is important that a user be able to manipulate these straps easily, as removing or securing the foot often must be done outdoors in cold weather with bare hands, exposing him or her to the possibility of <a href="/wiki/Frostbite" title="Frostbite">frostbite</a>. When putting on snowshoes, left is distinguished from right by which way the loose ends of the binding straps point: always outward, to avoid stepping on them repeatedly.</p>
+<p>In 1994, Bill Torres and a younger associate developed the step-in binding, designed to make it easier for snowshoers wearing hard-shelled plastic boots (serious mountaineers) to change from snowshoes to crampons and back again as needed.</p>
+<h3><span class="mw-headline" id="Accessories">Accessories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=9" title="Edit section: Accessories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:MSR_snowshoes.jpg"><img alt="" class="thumbimage" data-file-height="620" data-file-width="486" height="191" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MSR_snowshoes.jpg/150px-MSR_snowshoes.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MSR_snowshoes.jpg/225px-MSR_snowshoes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MSR_snowshoes.jpg/300px-MSR_snowshoes.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:MSR_snowshoes.jpg" title="Enlarge"></a></div>
+MSR solid plastic snowshoes</div>
+</div>
+</div>
+<p>Snowshoers often use <a class="mw-redirect" href="/wiki/Trekking_poles" title="Trekking poles">trekking poles</a> as an accessory to help them keep their balance on the snow. Some manufacturers have begun making special snowshoeing models of their poles, with larger baskets more like those found on <a class="mw-redirect" href="/wiki/Ski_poles" title="Ski poles">ski poles</a> (which can also be used).</p>
+<p>Other than that, no other special accessories are required. Most types of footwear can be worn with snowshoes, although <a href="/wiki/Hiking_boot" title="Hiking boot">hiking boots</a> are the preferred choice among most recreational users (except racers, who prefer <a class="mw-redirect" href="/wiki/Athletic_shoe" title="Athletic shoe">running shoes</a>). <a href="/wiki/Ski_boot" title="Ski boot">Ski boots</a>, however, will only work with certain snowshoes such as the MSR Denali, otherwise requiring backcountry skiers to carry other footwear for the snowshoe portion of their trip.</p>
+<p>If going into deep snow, snowshoers will often take along <a class="mw-redirect" href="/wiki/Gaiter" title="Gaiter">gaiters</a> to keep snow from getting into their boots from above. Some manufacturers make their snowshoes with boot or toe covers to provide the same protection.</p>
+<p>A carrier of some type is also advisable, particularly if the trip will not take place entirely on snowshoes. Some <a href="/wiki/Backpack" title="Backpack">backpack</a> manufacturers have designed special packs with "<a class="mw-redirect" href="/wiki/Daisy_chain_(climbing)" title="Daisy chain (climbing)">daisy chains</a>," strips of looped nylon <a href="/wiki/Webbing" title="Webbing">webbing</a> on which the shoes can be secured. Snowshoe manufacturers, too, have begun including carriers and <a href="/wiki/Tote_bag" title="Tote bag">tote bags</a> for their products, if for no other reason than to prevent the often-sharp cleats on the bottom from damaging surfaces they come in contact with.</p>
+<p>Since snowshoeing is commonly done in cold weather, users typically prepare for it by dressing in layers and carrying the appropriate equipment.</p>
+<h2><span class="mw-headline" id="Techniques_employed_with_snowshoes">Techniques employed with snowshoes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=10" title="Edit section: Techniques employed with snowshoes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Snowshoers_in_Bryce_Canyon.jpg"><img alt="" class="thumbimage" data-file-height="1125" data-file-width="1500" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Snowshoers_in_Bryce_Canyon.jpg/200px-Snowshoers_in_Bryce_Canyon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Snowshoers_in_Bryce_Canyon.jpg/300px-Snowshoers_in_Bryce_Canyon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Snowshoers_in_Bryce_Canyon.jpg/400px-Snowshoers_in_Bryce_Canyon.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoers_in_Bryce_Canyon.jpg" title="Enlarge"></a></div>
+Snowshoers in <a href="/wiki/Bryce_Canyon_National_Park" title="Bryce Canyon National Park">Bryce Canyon</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:200px;" videopayload='&lt;div class="mediaContainer" style="width:640px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Snowshoeing.ogv/640px--Snowshoeing.ogv.jpg" controls="" preload="none" autoplay="" style="width:640px;height:480px" class="kskin" data-durationhint="19.9" data-startoffset="0" data-mwtitle="Snowshoeing.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/Snowshoeing.ogv/Snowshoeing.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="640" data-height="480" data-bandwidth="1064168" data-framerate="20"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/8/8c/Snowshoeing.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Original Ogg file, 640 × 480 (1.07 Mbps)" data-shorttitle="Ogg source" data-width="640" data-height="480" data-bandwidth="1068396" data-framerate="20"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/Snowshoeing.ogv/Snowshoeing.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="214" data-height="160" data-bandwidth="182752" data-framerate="20"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/Snowshoeing.ogv/Snowshoeing.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="320" data-height="240" data-bandwidth="295296" data-framerate="20"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/Snowshoeing.ogv/Snowshoeing.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="480" data-height="360" data-bandwidth="546440" data-framerate="20"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Snowshoeing.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Snowshoeing.ogv/200px--Snowshoeing.ogv.jpg" style="width:200px;height:150px"/><a href="//upload.wikimedia.org/wikipedia/commons/8/8c/Snowshoeing.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoeing.ogv" title="Enlarge"></a></div>
+Snowshoeing.</div>
+</div>
+</div>
+<p>Snowshoes function best when there is enough snow beneath them to pack a layer between them and the ground, usually at a depth of 8 inches (20 cm) or more. However, contrary to popular belief, snowshoes perform poorly on very icy and steep terrain. Compared to <a href="/wiki/Crampons" title="Crampons">crampons</a>, snowshoes give relatively little grip on ice. It is common for novice snowshoers to climb up a steep slope to a summit and then have difficulty climbing back down, which tends to be more difficult than ascending. In icy conditions, summer hiking routes may require <a href="/wiki/Mountaineering" title="Mountaineering">mountaineering</a> skills and equipment, not snowshoes.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Walking">Walking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=11" title="Edit section: Walking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is often said by snowshoers that if you can walk, you can snowshoe. This is true in optimal conditions, but snowshoeing properly requires some slight adjustments to walking. The method of walking is to lift the shoes slightly and slide the inner edges over each other, thus avoiding the unnatural and fatiguing "straddle-gait" that would otherwise be necessary. A snowshoer must be willing to roll his or her feet slightly as well. An exaggerated stride works best when starting out, particularly with larger or traditional shoes.</p>
+<h4><span class="mw-headline" id="Turning">Turning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=12" title="Edit section: Turning">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Walking skills are easily transferable to straightforward snowshoe travel, but this is not always the case with turning around. While a snowshoer with space to do so can, and usually does, simply walk in a small <a href="/wiki/Semicircle" title="Semicircle">semicircle</a>, on a steep slope or in close quarters such as a <a class="mw-redirect" href="/wiki/Boreal_forest" title="Boreal forest">boreal forest</a> this may be impractical or impossible. It is thus necessary in such circumstances to execute a "kick turn" similar to the one employed on skis: lifting one foot high enough to keep the entire snowshoe in the air while keeping the other planted, putting the foot at a <a href="/wiki/Right_angle" title="Right angle">right angle</a> to the other (or as close as possible for the situation and the snowshoer's physical comfort), then planting it on the snow and quickly repeating the action with the other foot. This is much easier to accomplish with poles.</p>
+<h4><span class="mw-headline" id="Ascending">Ascending</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=13" title="Edit section: Ascending">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snowshoe_heel_lift_cropped.jpg"><img alt="" class="thumbimage" data-file-height="447" data-file-width="571" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Snowshoe_heel_lift_cropped.jpg/220px-Snowshoe_heel_lift_cropped.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Snowshoe_heel_lift_cropped.jpg/330px-Snowshoe_heel_lift_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Snowshoe_heel_lift_cropped.jpg/440px-Snowshoe_heel_lift_cropped.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoe_heel_lift_cropped.jpg" title="Enlarge"></a></div>
+Some modern snowshoes have bars that can be flipped up for ascending steep slopes. The wearer's heel can rest on the bar.</div>
+</div>
+</div>
+<p>While the cleating and traction improvements to modern snowshoes have greatly enhanced snowshoers' climbing abilities, on very steep slopes it is still beneficial to make "kick steps," kicking the toes of the shoes into the snow to create a kind of snow stairs for the next traveler to use.</p>
+<p>Alternatively, snowshoers can use two techniques borrowed from skis: the herringbone (walking uphill with the shoes spread outward at an angle to increase their support) and the sidestep.</p>
+<p>For those snowshoers who use poles, it can be easier to rely on the poles to 'pull' oneself with regular stride, up the slope.</p>
+<h4><span class="mw-headline" id="Descending">Descending</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=14" title="Edit section: Descending">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Once a trail has been broken up a mountain or hill, snowshoers often find a way to speed up the return trip that manages to also be fun and rests the leg muscles: <i><a href="/wiki/Glissade_(climbing)" title="Glissade (climbing)">glissading</a></i> the trail, or sliding down on their <a href="/wiki/Buttocks" title="Buttocks">buttocks</a>. This does not damage the trail, and in fact helps pack the snow better for later users.</p>
+<p>In situations where they must break trail downhill and thus cannot glissade, snowshoers sometimes run downhill in exaggerated steps, sliding slightly on the snow as they do, an option sometimes called "step sliding." Also effective, are poles placed in front as you descend in a regular stride. If carrying poles and properly experienced, they can also employ skiing techniques such as <a href="/wiki/Telemark_skiing" title="Telemark skiing">telemarking</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></i>]</sup></p>
+<h4><span class="mw-headline" id="Breaking_trail">Breaking trail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=15" title="Edit section: Breaking trail">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snowshoe_track_in_woods.jpg"><img alt="" class="thumbimage" data-file-height="2052" data-file-width="1272" height="355" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Snowshoe_track_in_woods.jpg/220px-Snowshoe_track_in_woods.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Snowshoe_track_in_woods.jpg/330px-Snowshoe_track_in_woods.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Snowshoe_track_in_woods.jpg/440px-Snowshoe_track_in_woods.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoe_track_in_woods.jpg" title="Enlarge"></a></div>
+A broken snowshoe trail</div>
+</div>
+</div>
+<p>On newly fallen snow it is necessary for a snowshoer to "break" a trail. This is tiring (it may require up to 50% more energy than simply following behind) even on level terrain, and frequently in groups this work is shared among all participants.</p>
+<p>A trail breaker can improve the quality of the ensuing route by using a technique, similar to the hiking <a href="/wiki/Rest_step" title="Rest step">rest step</a>, called "stamping": pausing momentarily after each step before putting full weight on the foot. This helps smooth the snow underneath and compacts it even better for the next user.</p>
+<p>A well-broken trail is usually a rut in the snow about 6–8 inches (15–20 cm) deep and 2 feet (61 cm) wide. While it may appear after heavy use as if it is possible to "bareboot" or walk it without benefit of snowshoes, this practice is frowned upon by serious snowshoers as it leads to "postholing," or roughening of the trail from places where boots have fallen through (initial appearances to the contrary, the snow in a broken trail is not sufficiently packed to support the more concentrated weight of a foot).</p>
+<p>In soft conditions, following trails broken by <a href="/wiki/Ski_touring" title="Ski touring">backcountry skiers</a> can be difficult on snowshoes. In addition, since snowshoes destroy ski tracks, many areas ask that snowshoers observe traditional backcountry courtesy and stay out of ski tracks. Ski trails are normally much narrower than a typical snowshoe trail, and less well packed because skis offer more flotation than snowshoes. If the snow is deep and soft, snowshoers may find themselves postholing right through the ski track. In most cases the ski track offers little advantage and putting in a separate snowshoe track allows both snowshoers and skiers to have a positive experience and avoids friction with skiers who often resent having their tracks obliterated and their skiing enjoyment greatly reduced.</p>
+<h3><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=16" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:182px;"><a class="image" href="/wiki/File:Snowshoer_with_perching_bird.jpg"><img alt="" class="thumbimage" data-file-height="2288" data-file-width="1712" height="241" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snowshoer_with_perching_bird.jpg/180px-Snowshoer_with_perching_bird.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snowshoer_with_perching_bird.jpg/270px-Snowshoer_with_perching_bird.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snowshoer_with_perching_bird.jpg/360px-Snowshoer_with_perching_bird.jpg 2x" width="180"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoer_with_perching_bird.jpg" title="Enlarge"></a></div>
+A young snowshoer with a wild bird.</div>
+</div>
+</div>
+<p>Snowshoeing expands the potential for exercise available in the wintertime. As of 2006<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Snowshoe&amp;action=edit">[update]</a></sup>, at least 500 <a href="/wiki/Education_in_the_United_States" title="Education in the United States">American schools</a>, mostly but not exclusively in the <a href="/wiki/Northeastern_United_States" title="Northeastern United States">Northeast</a> have started offering snowshoe programs in their <a href="/wiki/Physical_education" title="Physical education">physical education</a> classes to help combat <a href="/wiki/Obesity" title="Obesity">obesity</a>. It had the added benefit of being gentler on the feet than walking or running the equivalent routes, since snow cushions the foot's impact.</p>
+<p>For the same reason, it is less detrimental to the environment, since the snow likewise buffers the earth against the impact of so many hikers and campers, cutting back on trail <a href="/wiki/Erosion" title="Erosion">erosion</a> and other effects of heavy use.</p>
+<p>Snowshoeing makes even familiar hikes different and new. If the snow is deep enough, obstacles such as large boulders and fallen logs can be more easily bypassed.</p>
+<h3><span class="mw-headline" id="Adverse_effects">Adverse effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=17" title="Edit section: Adverse effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Immoderate snowshoeing leads to serious lameness of the feet and ankles which Canadian <i><a class="mw-redirect" href="/wiki/Coureur_de_bois" title="Coureur de bois">voyageurs</a></i> called <i>mal de raquette</i>. Modern snowshoes are much lighter and more comfortable so that lameness caused by snowshoeing is now very rare.</p>
+<p>Nonetheless, many snowshoers find that their legs, particularly their <a class="mw-redirect" href="/wiki/Calf_muscle" title="Calf muscle">calf muscles</a>, take some time to get used to snowshoeing again at the start of each winter. Frequently the first serious trip leaves them <a href="/wiki/Delayed_onset_muscle_soreness" title="Delayed onset muscle soreness">sore for several days afterwards</a>.</p>
+<h3><span class="mw-headline" id="Winter_recreation">Winter recreation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=18" title="Edit section: Winter recreation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Snowshoer_packing_skis.jpg"><img alt="" class="thumbimage" data-file-height="2384" data-file-width="1636" height="219" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Snowshoer_packing_skis.jpg/150px-Snowshoer_packing_skis.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Snowshoer_packing_skis.jpg/225px-Snowshoer_packing_skis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Snowshoer_packing_skis.jpg/300px-Snowshoer_packing_skis.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoer_packing_skis.jpg" title="Enlarge"></a></div>
+A snowshoer packing downhill skis.</div>
+</div>
+</div>
+<p>The resurgence of interest in snowshoeing in the late 20th century was in some part due to <a href="/wiki/Snowboard" title="Snowboard">snowboarders</a>, who took to them as a way to reach backcountry powder bowls and other areas while they were still banned from most ski areas. Their similarities to snowboards, in shape and binding, led many of them to continue use even after snowboarders were allowed to use most ski slopes. Despite most ski areas now allowing snowboarders, there is a growing interest in backcountry and sidecountry snowboarding in the search for fresh powder. The recent development of <a href="/wiki/Splitboard" title="Splitboard">splitboards</a> has enabled snowboarders to access backcountry without the need for snowshoes.</p>
+<p><a href="/wiki/Alpine_skiing" title="Alpine skiing">Downhill skiers</a>, too, found snowshoes useful in reaching the same areas.</p>
+<p>Another popular expedition, particularly among hikers, is the "ski-shoe" trip combining a <a href="/wiki/Cross-country_skiing" title="Cross-country skiing">cross-country ski</a> portion on a level, wide <a href="/wiki/Trail" title="Trail">trail</a> with a snowshoe up a less skiable section, usually to a mountain summit.</p>
+<h3><span class="mw-headline" id="Competition">Competition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=19" title="Edit section: Competition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Runners have found that using light snowshoes allows them to continue exercising and racing during winter. Like their warm-weather counterparts, events cover all distances, from <a href="/wiki/Sprint_(running)" title="Sprint (running)">sprints</a> of 100 m to the 100 km "Iditashoe." There are even <a href="/wiki/Hurdling" title="Hurdling">hurdle</a> events.</p>
+<p>Snowshoe segments have become common in many <a href="/wiki/Multi-sport_event" title="Multi-sport event">multi-sport events</a> and <a href="/wiki/Adventure_racing" title="Adventure racing">adventure races</a>, including a required snowshoe segment in the winter <a href="/wiki/Quadrathlon" title="Quadrathlon">quadrathlon</a>. Some competitors in those events like <a href="/wiki/Sally_Edwards" title="Sally Edwards">Sally Edwards</a> and <a class="new" href="/w/index.php?title=Tom_Sobal&amp;action=edit&amp;redlink=1" title="Tom Sobal (page does not exist)">Tom Sobal</a> have emerged as stars.</p>
+<p>While snowshoe racing has probably been around as long as there have been snowshoes, as an organized sport it is relatively new. The <a class="new" href="/w/index.php?title=United_States_Snowshoe_Association&amp;action=edit&amp;redlink=1" title="United States Snowshoe Association (page does not exist)">United States Snowshoe Association</a> was founded in 1977 to serve as a governing body for competitive snowshoeing. It is headquartered in <a href="/wiki/Corinth_(village),_New_York" title="Corinth (village), New York">Corinth</a>, New York, which considers itself the "Snowshoe Capital of the World" as a result. Similar organizations, such as the <a class="new" href="/w/index.php?title=European_Snowshoe_Committee&amp;action=edit&amp;redlink=1" title="European Snowshoe Committee (page does not exist)">European Snowshoe Committee</a> and Japan's <a class="new" href="/w/index.php?title=Chikyu_Network&amp;action=edit&amp;redlink=1" title="Chikyu Network (page does not exist)">Chikyu Network</a>, exist in other countries and there is an international competitive level as well.</p>
+<p>Snowshoe races are part of the <a href="/wiki/Arctic_Winter_Games" title="Arctic Winter Games">Arctic Winter Games</a> and the winter <a href="/wiki/Special_Olympics" title="Special Olympics">Special Olympics</a>. However, they are not yet an <a href="/wiki/Winter_Olympic_Games" title="Winter Olympic Games">Olympic</a> event.</p>
+<h2><span class="mw-headline" id="Maintenance_and_repair">Maintenance and repair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=20" title="Edit section: Maintenance and repair">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:127px;"><a class="image" href="/wiki/File:Snowshoes.JPG"><img alt="" class="thumbimage" data-file-height="3072" data-file-width="1587" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Snowshoes.JPG/125px-Snowshoes.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Snowshoes.JPG/188px-Snowshoes.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Snowshoes.JPG/250px-Snowshoes.JPG 2x" width="125"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowshoes.JPG" title="Enlarge"></a></div>
+Rawhide webbing</div>
+</div>
+</div>
+<p>The rawhide webbing of traditional snowshoes, as noted above, needs regular <a href="/wiki/Waterproofing" title="Waterproofing">waterproofing</a>. <a href="/wiki/Spar_varnish#Spar_varnish" title="Spar varnish">Spar varnish</a> is the preferred waterproofing for traditional snowshoes. A light sanding is preferred before 3 coats of spar varnish is applied. Modern snowshoes need no regular maintenance save a sharpening of cleats if desired.</p>
+<p>Both kinds of snowshoe, however, can and do break. The most common damage suffered is to the frame, which can be splinted with a stick or piece of wood if necessary. Decking rarely gets broken, but if it is punctured and the hole looks as if it might continue to grow, the best solution is the <a class="mw-redirect" href="/wiki/Repair" title="Repair">patching</a> kits made for <a href="/wiki/Tent" title="Tent">tents</a>.</p>
+<p><a href="/wiki/Cable_tie" title="Cable tie">Cable ties</a> can serve many purposes in repairing snowshoes. They can splint frames in a pinch, replace a broken rivet, secure a tie or lace, and repair winter clothing as well.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="490" data-file-width="768" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/BathingSuit1920s.jpg/32px-BathingSuit1920s.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/BathingSuit1920s.jpg/48px-BathingSuit1920s.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/BathingSuit1920s.jpg/64px-BathingSuit1920s.jpg 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Fashion" title="Portal:Fashion">Fashion portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="28" data-file-width="32" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/64px-Portal-puzzle.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Winter" title="Portal:Winter">Winter portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Winter_sport" title="Winter sport">Winter sports</a></li>
+<li><i><a href="/wiki/Les_raquetteurs" title="Les raquetteurs">Les raquetteurs</a></i></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-refGvsnowshoes-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-refGvsnowshoes_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.gvsnowshoes.com/eng/hist_raq.html" rel="nofollow">"Raquettes GV - Fabricant de raquettes à neige"</a>. <i>Raquettes GV</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.atitle=Raquettes+GV+-+Fabricant+de+raquettes+%C3%A0+neige&amp;rft.genre=unknown&amp;rft.jtitle=Raquettes+GV&amp;rft_id=http%3A%2F%2Fwww.gvsnowshoes.com%2Feng%2Fhist_raq.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.timesonline.co.uk/tol/life_and_style/court_and_social/the_hitch/article516866.ece" rel="nofollow">"The Times - UK News, World News and Opinion"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.btitle=The+Times+-+UK+News%2C+World+News+and+Opinion&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.timesonline.co.uk%2Ftol%2Flife_and_style%2Fcourt_and_social%2Fthe_hitch%2Farticle516866.ece&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.snowshoemag.com/2012/06/17/snowshoes-and-the-canadian-first-nations/" rel="nofollow">"Snowshoes and the Canadian First Nations"</a>. <i>Snowshoe Magazine</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.atitle=Snowshoes+and+the+Canadian+First+Nations&amp;rft.genre=unknown&amp;rft.jtitle=Snowshoe+Magazine&amp;rft_id=http%3A%2F%2Fwww.snowshoemag.com%2F2012%2F06%2F17%2Fsnowshoes-and-the-canadian-first-nations%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Squires, Nick (2016-09-12). <a class="external text" href="http://www.telegraph.co.uk/news/2016/09/12/worlds-oldest-snowshoe-found-on-a-glacier-in-italys-dolomites/" rel="nofollow">"World's oldest snowshoe found on a glacier in Italy's Dolomites"</a>. <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Telegraph</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.atitle=World%27s+oldest+snowshoe+found+on+a+glacier+in+Italy%27s+Dolomites&amp;rft.aufirst=Nick&amp;rft.aulast=Squires&amp;rft.date=2016-09-12&amp;rft.genre=article&amp;rft.jtitle=The+Telegraph&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2016%2F09%2F12%2Fworlds-oldest-snowshoe-found-on-a-glacier-in-italys-dolomites%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Read, Tracy C. <a class="external text" href="http://www.canadiangeographic.ca/travel/travel_magazine/winter_2006/gearup.asp" rel="nofollow">Snow dancin': A first-time buyer's guide to today's sure-footed, cutting-edge snowshoes</a> . <i>Canadian Geographic</i>, retrieved December 31, 2009</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><i>Snowshoeing, a Trailside Guide</i>, by Larry Olmsted, p 35</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Stueck, Wendy. <a class="external text" href="https://www.theglobeandmail.com/news/national/snowshoes-create-false-confidence-rescue-veteran-says-after-man-slides-to-his-death/article1390943/" rel="nofollow">Snowshoes create false confidence, rescue veteran says after man slides to his death</a> <i>The <a class="mw-redirect" href="/wiki/Globe_and_Mail" title="Globe and Mail">Globe and Mail</a> " Dec. 07, 2009, retrieved Jan 1 2010</i></span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li><a class="image" href="/wiki/File:Wikisource-logo.svg"><img alt="" data-file-height="430" data-file-width="410" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/></a> This article incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>: <cite class="citation encyclopaedia" id="CITEREFChisholm1911">Chisholm, Hugh, ed. (1911). "<a class="extiw" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Snow-shoes" title="wikisource:1911 Encyclopædia Britannica/Snow-shoes">Snow-shoes</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>25</b> (11th ed.). Cambridge University Press. p. 296.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.atitle=Snow-shoes&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pages=296&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><i><a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a></i>, February 13, 2006; <a class="external text" href="http://www.cnn.com/2006/EDUCATION/02/13/snowshoe.physed.ap/index.html" rel="nofollow">Snowshoes are alternatives in winter gym class</a>.</li>
+<li><cite class="citation book">Davidson, Daniel Sutherland (1937). <i>Snowshoes</i>. Vol. 6 in Memoirs of the American Philosophical Society. Philadelphia. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/3394641" rel="nofollow">3394641</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.aufirst=Daniel+Sutherland&amp;rft.aulast=Davidson&amp;rft.btitle=Snowshoes&amp;rft.date=1937&amp;rft.genre=book&amp;rft.place=Philadelphia&amp;rft.series=Vol.+6+in+Memoirs+of+the+American+Philosophical+Society&amp;rft_id=info%3Aoclcnum%2F3394641&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Drummond, Thomas (December 1916). "The Canadian snowshoe". <i>Transactions of the Royal Society of Canada, section 2</i>. 3. <b>10</b>: 305–20 + pl. 1–6.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.atitle=The+Canadian+snowshoe&amp;rft.aufirst=Thomas&amp;rft.aulast=Drummond&amp;rft.date=1916-12&amp;rft.genre=article&amp;rft.jtitle=Transactions+of+the+Royal+Society+of+Canada%2C+section+2&amp;rft.pages=305-20+%2B+pl.+1-6&amp;rft.volume=10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li>Heilman, Carl; <a class="external text" href="http://www.carlheilman.com/snowshoes-walk.html" rel="nofollow">If You Can Walk... You Can Snowshoe</a> at carlheilman.com date unknown, retrieved January 10, 2006.</li>
+<li>Kreps, E; <i>Camp and Trail Methods</i>, A.R. Harding Co, Columbus Ohio</li>
+<li><cite class="citation book">Mason, Otis Tufton (1896). "Primitive travel and transportation". <i>Report of the U.S. National Museum for 1894</i>. Washington: Government Printing Office. pp. 237–593 + pl. 1–25.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.atitle=Primitive+travel+and+transportation&amp;rft.aufirst=Otis+Tufton&amp;rft.aulast=Mason&amp;rft.btitle=Report+of+the+U.S.+National+Museum+for+1894&amp;rft.date=1896&amp;rft.genre=bookitem&amp;rft.pages=237-593+%2B+pl.+1-25&amp;rft.place=Washington&amp;rft.pub=Government+Printing+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Olmsted, Larry; <i>Snowshoeing: A Trailside Guide</i>, W.W. Norton, New York, N.Y. 1997. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-393-31720-X" title="Special:BookSources/0-393-31720-X">0-393-31720-X</a>.</li>
+<li><cite id="refPospisil1979"><cite class="citation" id="CITEREFPospisil1979">Pospisil, Allan (1979-11-19), <a class="external text" href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1126307/index.htm" rel="nofollow">"At Vermont Tubbs they still make snowshoes the way they used to"</a>, <i>Sports Illustrated</i>, <b>51</b> (21), p. 6</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.atitle=At+Vermont+Tubbs+they+still+make+snowshoes+the+way+they+used+to&amp;rft.aufirst=Allan&amp;rft.aulast=Pospisil&amp;rft.date=1979-11-19&amp;rft.genre=article&amp;rft.issue=21&amp;rft.jtitle=Sports+Illustrated&amp;rft.pages=6&amp;rft.volume=51&amp;rft_id=http%3A%2F%2Fsportsillustrated.cnn.com%2Fvault%2Farticle%2Fmagazine%2FMAG1126307%2Findex.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></cite></li>
+<li><cite class="citation book">Prater, Gene (2002). Dave Felkley, ed. <i>Snowshoeing: from novice to master</i>. Mountaineers Outdoor Expert Series (5th ed.). Seattle: Mountaineers Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-89886-891-3" title="Special:BookSources/978-0-89886-891-3">978-0-89886-891-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowshoe&amp;rft.aufirst=Gene&amp;rft.aulast=Prater&amp;rft.btitle=Snowshoeing%3A+from+novice+to+master&amp;rft.date=2002&amp;rft.edition=5th&amp;rft.genre=book&amp;rft.isbn=978-0-89886-891-3&amp;rft.place=Seattle&amp;rft.pub=Mountaineers+Books&amp;rft.series=Mountaineers+Outdoor+Expert+Series&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Prosek, James; February 6, 2004; <a class="external text" href="https://query.nytimes.com/gst/fullpage.html?sec=travel&amp;res=990DE5DD103BF935A35751C0A9629C8B63" rel="nofollow">JOURNEYS: Making Tracks in a World Gone Silent</a>, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>.</li>
+<li>Tucker, Jim; <a class="external text" href="http://www.snowshoeracing.com/history.htm" rel="nofollow">History of Snowshoeing</a>, at snowshoeracing.com, retrieved January 18, 2006.</li>
+<li>Woodward, Angela; <a class="external text" href="http://www.madehow.com/Volume-6/Snowshoe.html" rel="nofollow">Snowshoe</a>, at madehow.com, retrieved January 22, 2006.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowshoe&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Snowshoes" title="commons:Category:Snowshoes">Snowshoes</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.gvsnowshoes.com/eng/hist_raq.html" rel="nofollow">History of the Snowshoe in Canada</a></li>
+<li><a class="external text" href="http://umaine.edu/hudsonmuseum/exhibits/online/snowshoes/" rel="nofollow">University of Maine Hudson Museum online exhibit "Snowshoes: A Gift from Gluskabe"</a> information includes Maine Indian, northeastern, Franco-American, and contemporary native snowshoes</li>
+<li><a class="external text" href="http://www.snowshoemag.com/first.cfm" rel="nofollow">First Timer's Guide to Snowshoeing</a></li>
+<li><a class="external text" href="http://www.guidedolomiti.com/en/snowshoeing-winter-trekking/" rel="nofollow">GuideDolomiti</a> Learn more about snowshoeing</li>
+<li><a class="external text" href="http://www.snowshoes.net/docs/" rel="nofollow">Snowshoe University</a></li>
+<li><a class="external text" href="http://science.discovery.com/tv-shows/how-its-made/videos/how-its-made-mini-episodes-traditional-snow-shoes.htm" rel="nofollow">How traditional snowshoes are made</a> (video).</li>
+</ul>
+<div aria-labelledby="Footwear" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Footwear" title="Template:Footwear"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Footwear" title="Template talk:Footwear"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Footwear&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Footwear" style="font-size:114%;margin:0 4em"><a href="/wiki/Footwear" title="Footwear">Footwear</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Men's<br/>
+dress shoes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blucher_shoe" title="Blucher shoe">Blucher</a></li>
+<li><a href="/wiki/Brogue_shoe" title="Brogue shoe">Brogues</a></li>
+<li><a href="/wiki/Brothel_creeper" title="Brothel creeper">Brothel creepers</a></li>
+<li><a href="/wiki/Derby_shoe" title="Derby shoe">Derby</a></li>
+<li><a href="/wiki/Monk_shoe" title="Monk shoe">Monks</a></li>
+<li><a href="/wiki/Oxford_shoe" title="Oxford shoe">Oxfords</a></li>
+<li><a href="/wiki/Slip-on_shoe" title="Slip-on shoe">Slip-ons (Loafers)</a></li>
+<li><a href="/wiki/Spectator_shoe" title="Spectator shoe">Spectator shoes (Co-respondent shoes)</a></li>
+<li><a href="/wiki/Venetian-style_shoe" title="Venetian-style shoe">Venetian-style shoes</a></li>
+<li><a href="/wiki/Winklepicker" title="Winklepicker">Winklepickers</a></li>
+<li><a href="/wiki/Wholecut" title="Wholecut">Wholecuts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Women's<br/>
+dress shoes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ballet_flat" title="Ballet flat">Ballet flats</a></li>
+<li><a href="/wiki/Court_shoe" title="Court shoe">Court shoes</a></li>
+<li><a href="/wiki/High-heeled_footwear" title="High-heeled footwear">High-heeled footwear</a></li>
+<li><a href="/wiki/Mary_Jane_(shoe)" title="Mary Jane (shoe)">Mary Janes</a></li>
+<li><a href="/wiki/Mojari" title="Mojari">Mojari</a></li>
+<li><a href="/wiki/Mule_(shoe)" title="Mule (shoe)">Mules</a></li>
+<li><a href="/wiki/Peep-toe_shoe" title="Peep-toe shoe">Peep-toe shoes</a></li>
+<li><a href="/wiki/Saddle_shoe" title="Saddle shoe">Saddle shoes</a></li>
+<li><a href="/wiki/Slingback" title="Slingback">Slingbacks</a></li>
+<li><a href="/wiki/Slip-on_shoe" title="Slip-on shoe">Slip-ons (Loafers)</a></li>
+<li><a href="/wiki/Venetian-style_shoe" title="Venetian-style shoe">Venetian-style shoes</a></li>
+<li><a href="/wiki/Winklepicker" title="Winklepicker">Winklepickers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other shoes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Driving_moccasins" title="Driving moccasins">Driving moccasins</a></li>
+<li><a href="/wiki/Flip-flops" title="Flip-flops">Flip-flops</a></li>
+<li><a href="/wiki/Galoshes" title="Galoshes">Galoshes</a></li>
+<li><a href="/wiki/Platform_shoe" title="Platform shoe">Platform shoes</a></li>
+<li><a href="/wiki/Sandal" title="Sandal">Sandals</a></li>
+<li><a href="/wiki/Self-tying_shoes" title="Self-tying shoes">Self-tying shoes</a></li>
+<li><a href="/wiki/Slide_(footwear)" title="Slide (footwear)">Slides</a></li>
+<li><a href="/wiki/Slipper" title="Slipper">Slippers</a></li>
+<li><a href="/wiki/Veldskoen" title="Veldskoen">Veldskoens</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Clog" title="Clog">Wooden footwear</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bakya" title="Bakya">Bakya</a></li>
+<li><a href="/wiki/Clog_(British)" title="Clog (British)">British clogs</a></li>
+<li><a href="/wiki/Cantabrian_albarcas" title="Cantabrian albarcas">Cantabrian albarcas</a></li>
+<li><a href="/wiki/Clog" title="Clog">Clogs</a></li>
+<li><a href="/wiki/Geta_(footwear)" title="Geta (footwear)">Getas</a></li>
+<li><a href="/wiki/Klomp" title="Klomp">Klompen</a></li>
+<li><a href="/wiki/Namaksin" title="Namaksin">Namaksin</a></li>
+<li><a href="/wiki/Paduka" title="Paduka">Padukas</a></li>
+<li><a href="/wiki/Patten_(shoe)" title="Patten (shoe)">Pattens</a></li>
+<li><a href="/wiki/Sabot_(shoe)" title="Sabot (shoe)">Sabot</a></li>
+<li><a href="/wiki/Tr%C3%A4skor" title="Träskor">Träskor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Military footwear</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ammunition_boot" title="Ammunition boot">Ammunition boots</a></li>
+<li><a href="/wiki/Bunny_boots" title="Bunny boots">Bunny boots</a></li>
+<li><a href="/wiki/Combat_boot" title="Combat boot">Combat boots</a></li>
+<li><a href="/wiki/Jackboot" title="Jackboot">Jackboots</a></li>
+<li><a href="/wiki/Jump_boot" title="Jump boot">Jump boots</a></li>
+<li><a href="/wiki/Jungle_boot" title="Jungle boot">Jungle boots</a></li>
+<li><a href="/wiki/Tanker_boot" title="Tanker boot">Tanker boots</a></li>
+<li><a href="/wiki/Trench_boot" title="Trench boot">Trench boots</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Sport-related<br/>
+footwear</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sneakers" title="Sneakers">Athletic shoes</a></li>
+<li><a href="/wiki/Ballet_shoe" title="Ballet shoe">Ballet shoes</a></li>
+<li><a href="/wiki/Boat_shoe" title="Boat shoe">Boat shoes</a></li>
+<li><a href="/wiki/Climbing_shoe" title="Climbing shoe">Climbing shoes</a></li>
+<li><a href="/wiki/Cross_country_running_shoe" title="Cross country running shoe">Cross country running shoes</a></li>
+<li><a href="/wiki/Cycling_shoe" title="Cycling shoe">Cycling shoes</a></li>
+<li><a href="/wiki/Football_boot" title="Football boot">Football boots</a></li>
+<li><a class="mw-redirect" href="/wiki/Ghillies" title="Ghillies">Ghillies</a></li>
+<li><a href="/wiki/Hiking_boot" title="Hiking boot">Hiking boots</a></li>
+<li><a href="/wiki/Ice_skate" title="Ice skate">Ice skates</a></li>
+<li><a href="/wiki/Inline_skates" title="Inline skates">Inline skates</a></li>
+<li><a href="/wiki/Jika-tabi" title="Jika-tabi">Jika-tabi</a></li>
+<li><a href="/wiki/Kung_fu_shoe" title="Kung fu shoe">Kung fu shoe</a></li>
+<li><a href="/wiki/Minimalist_shoe" title="Minimalist shoe">Minimalist shoes</a></li>
+<li><a href="/wiki/Motorcycle_boot" title="Motorcycle boot">Motorcycle boots</a></li>
+<li><a href="/wiki/Mountaineering_boot" title="Mountaineering boot">Mountaineering boots</a></li>
+<li><a href="/wiki/Plimsoll_shoe" title="Plimsoll shoe">Plimsolls</a></li>
+<li><a href="/wiki/Racing_flat" title="Racing flat">Racing flats</a></li>
+<li><a href="/wiki/Riding_boot" title="Riding boot">Riding boots</a></li>
+<li><a href="/wiki/Roller_shoe" title="Roller shoe">Roller shoes</a></li>
+<li><a href="/wiki/Roller_skates" title="Roller skates">Roller skates</a></li>
+<li><a href="/wiki/Safari_boot" title="Safari boot">Safari boots</a></li>
+<li><a href="/wiki/Skate_shoe" title="Skate shoe">Skate shoes</a></li>
+<li><a href="/wiki/Ski_boot" title="Ski boot">Ski boots</a></li>
+<li><a href="/wiki/Sneakers" title="Sneakers">Sneakers</a></li>
+<li><a href="/wiki/Swimfin" title="Swimfin">Swimfins</a></li>
+<li><a href="/wiki/Water_shoe" title="Water shoe">Water shoes</a></li>
+<li><a href="/wiki/Wrestling_shoe" title="Wrestling shoe">Wrestling shoes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Fashion_boot" title="Fashion boot">Fashion boots</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chelsea_boot" title="Chelsea boot">Chelsea boots</a> (<a href="/wiki/Beatle_boot" title="Beatle boot">Beatle boots</a>)</li>
+<li><a href="/wiki/Chukka_boot" title="Chukka boot">Chukka boots</a></li>
+<li><a href="/wiki/Go-go_boot" title="Go-go boot">Go-go boots</a></li>
+<li><a href="/wiki/Knee-high_boot" title="Knee-high boot">Knee-high boots</a></li>
+<li><a href="/wiki/Over-the-knee_boot" title="Over-the-knee boot">Over-the-knee boots</a></li>
+<li><a class="mw-redirect" href="/wiki/Platform_boot" title="Platform boot">Platform boots</a></li>
+<li><a href="/wiki/Thigh-high_boots" title="Thigh-high boots">Thigh-high boots</a></li>
+<li><a href="/wiki/Ugg_boots" title="Ugg boots">Ugg boots</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Work boots</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Australian_work_boot" title="Australian work boot">Australian work boots</a></li>
+<li><a href="/wiki/Cowboy_boot" title="Cowboy boot">Cowboy boots</a></li>
+<li><a href="/wiki/Engineer_boot" title="Engineer boot">Engineer boots</a></li>
+<li><a href="/wiki/Hip_boot" title="Hip boot">Hip boots</a></li>
+<li><a href="/wiki/Rigger_boot" title="Rigger boot">Rigger boots</a></li>
+<li><a href="/wiki/Steel-toe_boot" title="Steel-toe boot">Steel-toe boots</a></li>
+<li><a href="/wiki/Waders_(footwear)" title="Waders (footwear)">Waders</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other boots</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jodhpur_boot" title="Jodhpur boot">Jodhpur boots</a></li>
+<li><a href="/wiki/Wellington_boot" title="Wellington boot">Wellington boots</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Traditional_footwear" title="Category:Traditional footwear">Traditional<br/>
+footwear</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abaca_slippers" title="Abaca slippers">Abacas</a></li>
+<li><a href="/wiki/Abarka" title="Abarka">Abarkas</a></li>
+<li><a class="mw-redirect" href="/wiki/Alpargata" title="Alpargata">Alpargatas</a></li>
+<li><a href="/wiki/Avarca" title="Avarca">Avarcas</a></li>
+<li><a href="/wiki/Balgha" title="Balgha">Balghas</a></li>
+<li><a href="/wiki/Bast_shoe" title="Bast shoe">Bast shoes</a></li>
+<li><a href="/wiki/Clog" title="Clog">Clogs</a></li>
+<li><a href="/wiki/Espadrille" title="Espadrille">Espadrilles</a></li>
+<li><a href="/wiki/Galesh" title="Galesh">Galesh</a></li>
+<li><a href="/wiki/Giveh" title="Giveh">Giveh</a></li>
+<li><a href="/wiki/Haferlschuh" title="Haferlschuh">Haferlschuh</a></li>
+<li><a href="/wiki/Hnyat-phanat" title="Hnyat-phanat">Hnyat-phanats</a></li>
+<li><a href="/wiki/Huarache_(shoe)" title="Huarache (shoe)">Huarache (shoe)</a></li>
+<li><a href="/wiki/Hwa" title="Hwa">Hwas</a></li>
+<li><a href="/wiki/Jorabs" title="Jorabs">Jorabs</a></li>
+<li><a href="/wiki/Moccasin" title="Moccasin">Moccasins</a></li>
+<li><a href="/wiki/Mojari" title="Mojari">Mojaris</a></li>
+<li><a href="/wiki/Mukluk" title="Mukluk">Mukluks</a></li>
+<li><a href="/wiki/Opanak" title="Opanak">Opanaks</a></li>
+<li><a href="/wiki/Peshawari_chappal" title="Peshawari chappal">Peshawari chappals</a></li>
+<li><a class="mw-selflink selflink">Snowshoes</a></li>
+<li><a href="/wiki/Valenki" title="Valenki">Valenkis</a></li>
+<li><a href="/wiki/Waraji" title="Waraji">Warajis</a></li>
+<li><a href="/wiki/Kolhapuri_chappal" title="Kolhapuri chappal">Kolhapuri chappals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Historical_footwear" title="Category:Historical footwear">Historical footwear</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Areni-1_shoe" title="Areni-1 shoe">Areni-1 shoes</a></li>
+<li><a href="/wiki/Buskin" title="Buskin">Buskins</a></li>
+<li><a href="/wiki/Caligae" title="Caligae">Caligae</a></li>
+<li><a href="/wiki/Chopine" title="Chopine">Chopines</a></li>
+<li><a href="/wiki/Crakow_(shoe)" title="Crakow (shoe)">Crakow (Poulaine)</a></li>
+<li><a href="/wiki/Hessian_(boot)" title="Hessian (boot)">Hessians</a></li>
+<li><a href="/wiki/Pampootie" title="Pampootie">Pampooties</a></li>
+<li><a class="mw-redirect" href="/wiki/Pirate_boots" title="Pirate boots">Pirate boots</a></li>
+<li><a href="/wiki/Sabaton" title="Sabaton">Sabatons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Shoe construction</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bespoke_shoes" title="Bespoke shoes">Bespoke shoes</a></li>
+<li><a href="/wiki/Blake_construction" title="Blake construction">Blake construction</a></li>
+<li><a href="/wiki/Goodyear_welt" title="Goodyear welt">Goodyear welt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Socks" title="Socks">Socks</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anklet_(sock)" title="Anklet (sock)">Anklets</a></li>
+<li><a class="mw-redirect" href="/wiki/Bobby_socks" title="Bobby socks">Bobby socks</a></li>
+<li><a href="/wiki/Dress_socks" title="Dress socks">Dress socks</a></li>
+<li><a href="/wiki/Footwraps" title="Footwraps">Footwraps</a></li>
+<li><a href="/wiki/Knee_highs" title="Knee highs">Knee highs</a></li>
+<li><a href="/wiki/Toe_socks" title="Toe socks">Toe socks</a></li>
+<li><a href="/wiki/Tabi" title="Tabi">Tabi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Lists</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_shoe_styles" title="List of shoe styles">List of shoe styles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1221
+Cached time: 20171028000801
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.304 seconds
+Real time usage: 0.429 seconds
+Preprocessor visited node count: 2178/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52630/2097152 bytes
+Template argument size: 2317/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 5.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.797      1 -total
+ 17.87%   53.394      1 Template:Reflist
+ 17.22%   51.446      2 Template:Citation_needed
+ 15.67%   46.824      2 Template:Fix
+ 13.24%   39.570     14 Template:Convert
+ 11.88%   35.508      3 Template:Cite_web
+  8.28%   24.752      4 Template:Category_handler
+  8.22%   24.550      1 Template:Commons_category
+  7.54%   22.544      1 Template:EB1911
+  6.64%   19.844      1 Template:ISBN
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:87493-0!canonical and timestamp 20171028000802 and revision id 807442030
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Snowshoe&amp;oldid=807442030">https://en.wikipedia.org/w/index.php?title=Snowshoe&amp;oldid=807442030</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Footwear" title="Category:Footwear">Footwear</a></li><li><a href="/wiki/Category:Traditional_footwear" title="Category:Traditional footwear">Traditional footwear</a></li><li><a href="/wiki/Category:Hiking_equipment" title="Category:Hiking equipment">Hiking equipment</a></li><li><a href="/wiki/Category:Snow" title="Category:Snow">Snow</a></li><li><a href="/wiki/Category:Snowshoeing" title="Category:Snowshoeing">Snowshoeing</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2008" title="Category:Articles with unsourced statements from March 2008">Articles with unsourced statements from March 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2010" title="Category:Articles with unsourced statements from January 2010">Articles with unsourced statements from January 2010</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2006" title="Category:Articles containing potentially dated statements from 2006">Articles containing potentially dated statements from 2006</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1911_Encyclop%C3%A6dia_Britannica" title="Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica">Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Snowshoe" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Snowshoe" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Snowshoe" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Snowshoe" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Snowshoe">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Snowshoe&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Snowshoe&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Snowshoe" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Snowshoe" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Snowshoe&amp;oldid=807442030" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Snowshoe&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q214724" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Snowshoe&amp;id=807442030" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Snowshoe">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Snowshoe&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Snowshoe&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Snowshoes" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-kbd"><a class="interlanguage-link-target" href="https://kbd.wikipedia.org/wiki/%D0%9F%D1%86%D1%8B%D0%BA%D1%8A%D1%83%D1%8D" hreflang="kbd" lang="kbd" title="Пцыкъуэ – Kabardian">Адыгэбзэ</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B0%D8%A7%D8%A1_%D8%A7%D9%84%D8%AB%D9%84%D8%AC" hreflang="ar" lang="ar" title="حذاء الثلج – Arabic">العربية</a></li><li class="interlanguage-link interwiki-atj"><a class="interlanguage-link-target" href="https://atj.wikipedia.org/wiki/Asamikaniwon" hreflang="atj" lang="atj" title="Asamikaniwon – Atikamekw">Atikamekw</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Raquetes_de_neu" hreflang="ca" lang="ca" title="Raquetes de neu – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sn%C4%9B%C5%BEnice" hreflang="cs" lang="cs" title="Sněžnice – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Snesko" hreflang="da" lang="da" title="Snesko – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schneeschuh" hreflang="de" lang="de" title="Schneeschuh – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/R%C3%A4%C3%A4tsad" hreflang="et" lang="et" title="Räätsad – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Raquetas_de_nieve" hreflang="es" lang="es" title="Raquetas de nieve – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Ne%C4%9D%C5%9Duo" hreflang="eo" lang="eo" title="Neĝŝuo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Elur-erraketa" hreflang="eu" lang="eu" title="Elur-erraketa – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%DA%86%DB%8C%D9%84%D9%87" hreflang="fa" lang="fa" title="پاچیله – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Raquette_%C3%A0_neige" hreflang="fr" lang="fr" title="Raquette à neige – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%84%A4%ED%94%BC" hreflang="ko" lang="ko" title="설피 – Korean">한국어</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Snj%C3%B3%C3%BEr%C3%BAgur" hreflang="is" lang="is" title="Snjóþrúgur – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Racchette_da_neve" hreflang="it" lang="it" title="Racchette da neve – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A0%D7%A2%D7%9C%D7%99_%D7%A9%D7%9C%D7%92" hreflang="he" lang="he" title="נעלי שלג – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Sniegba%C4%8Diai" hreflang="lt" lang="lt" title="Sniegbačiai – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/H%C3%B3talp" hreflang="hu" lang="hu" title="Hótalp – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sneeuwschoen" hreflang="nl" lang="nl" title="Sneeuwschoen – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC" hreflang="ja" lang="ja" title="スノーシュー – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Truger" hreflang="no" lang="no" title="Truger – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Truger" hreflang="nn" lang="nn" title="Truger – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Rakiety_%C5%9Bnie%C5%BCne" hreflang="pl" lang="pl" title="Rakiety śnieżne – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Raquete_de_neve" hreflang="pt" lang="pt" title="Raquete de neve – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B5%D0%B3%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%8B" hreflang="ru" lang="ru" title="Снегоступы – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Lumikenk%C3%A4" hreflang="fi" lang="fi" title="Lumikenkä – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sn%C3%B6skor" hreflang="sv" lang="sv" title="Snöskor – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%A9%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B5%E0%AE%BF_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%A3%E0%AE%BF" hreflang="ta" lang="ta" title="பனித்தூவி காலணி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-chy"><a class="interlanguage-link-target" href="https://chy.wikipedia.org/wiki/Hesto%27tono%27k%C3%AAhan%C3%B4tse" hreflang="chy" lang="chy" title="Hesto'tono'kêhanôtse – Cheyenne">Tsetsêhestâhese</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kar_ayakkab%C4%B1s%C4%B1" hreflang="tr" lang="tr" title="Kar ayakkabısı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BD%D1%96%D0%B3%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B8" hreflang="uk" lang="uk" title="Снігоступи – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vec"><a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Ciaspe" hreflang="vec" lang="vec" title="Ciaspe – Venetian">Vèneto</a></li><li class="interlanguage-link interwiki-diq"><a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/Sewl%C3%AA_vewre" hreflang="diq" lang="diq" title="Sewlê vewre – Zazaki">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9B%AA%E9%9E%8B" hreflang="zh" lang="zh" title="雪鞋 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q214724#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 28 October 2017, at 00:08.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Snowshoe&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.429","ppvisitednodes":{"value":2178,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52630,"limit":2097152},"templateargumentsize":{"value":2317,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  298.797      1 -total"," 17.87%   53.394      1 Template:Reflist"," 17.22%   51.446      2 Template:Citation_needed"," 15.67%   46.824      2 Template:Fix"," 13.24%   39.570     14 Template:Convert"," 11.88%   35.508      3 Template:Cite_web","  8.28%   24.752      4 Template:Category_handler","  8.22%   24.550      1 Template:Commons_category","  7.54%   22.544      1 Template:EB1911","  6.64%   19.844      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":5997425,"limit":52428800}},"cachereport":{"origin":"mw1221","timestamp":"20171028000801","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1269"});});</script>
+</body>
+</html>

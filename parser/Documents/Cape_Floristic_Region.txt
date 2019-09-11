@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Cape Floristic Region - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cape_Floristic_Region","wgTitle":"Cape Floristic Region","wgCurRevisionId":803562889,"wgRevisionId":803562889,"wgArticleId":4767343,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Articles using Wikidata location map with locally defined parameters","Articles using Infobox World Heritage Site using locally defined parameters","All articles with unsourced statements","Articles with unsourced statements from July 2013","Floristic regions","Fynbos","Endemic flora of South Africa","Flora of South Africa","Mediterranean forests, woodlands, and scrub","Afromontane ecoregions","Afrotropic ecozone","Biodiversity hotspots","Geography of South Africa","World Heritage Sites in South Africa"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cape_Floristic_Region","wgRelevantArticleId":4767343,"wgRequestId":"WgH6-ApAME8AALj033EAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":-34.166666666667,"lon":18.375},"wgWikibaseItemId":"Q1974274","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flora_at_Cape_Peninsula.JPG/1200px-Flora_at_Cape_Peninsula.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cape_Floristic_Region" rel="alternate"/>
+<link href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Cape_Floristic_Region" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cape_Floristic_Region rootpage-Cape_Floristic_Region vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Cape Floristic Region</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Cape Region" redirects here. For the region in Delaware, see <a href="/wiki/Cape_Region_(Delaware)" title="Cape Region (Delaware)">Cape Region (Delaware)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption class="category"><b>Cape Floral Region Protected Areas</b></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Flora_at_Cape_Peninsula.JPG"><img alt="Flora at Cape Peninsula.JPG" data-file-height="2336" data-file-width="3504" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flora_at_Cape_Peninsula.JPG/220px-Flora_at_Cape_Peninsula.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flora_at_Cape_Peninsula.JPG/330px-Flora_at_Cape_Peninsula.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flora_at_Cape_Peninsula.JPG/440px-Flora_at_Cape_Peninsula.JPG 2x" width="220"/></a>
+<div>
+<div style="padding-top:0.2em;line-height:1.4em;"><a href="/wiki/Fynbos" title="Fynbos">Fynbos</a> in the Western Cape</div>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ddd;"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">UNESCO World Heritage Site</a></th>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" href="/wiki/Table_of_World_Heritage_Sites_by_country" title="Table of World Heritage Sites by country">Location</a></th>
+<td>South Africa <a href="https://www.wikidata.org/wiki/Q1974274#P17" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Cape_Floristic_Region&amp;params=34_10_00_S_18_22_30_E_region:ZA_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°10′00″S</span> <span class="longitude">18°22′30″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.16667°S 18.37500°E</span><span style="display:none">﻿ / <span class="geo">-34.16667; 18.37500</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Cape_Floristic_Region&amp;params=34_10_00_S_18_22_30_E_region:ZA_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°10′00″S</span> <span class="longitude">18°22′30″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.16667°S 18.37500°E</span><span style="display:none">﻿ / <span class="geo">-34.16667; 18.37500</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row">Area</th>
+<td>78,555 km<sup>2</sup> (8.4556<span style="margin:0 .15em 0 .25em">×</span>10<sup>11</sup> sq ft)</td>
+</tr>
+<tr>
+<th scope="row">Includes</th>
+<td>Boland Mountain Complex<br/>
+<a href="/wiki/Baviaanskloof_Mega_Reserve" title="Baviaanskloof Mega Reserve">Baviaanskloof Mega Reserve</a><br/>
+<a href="/wiki/Boosmansbos_Wilderness_Area" title="Boosmansbos Wilderness Area">Boosmansbos Wilderness Area</a><br/>
+<a href="/wiki/Cederberg" title="Cederberg">Cederberg</a><br/>
+<a href="/wiki/De_Hoop_Nature_Reserve" title="De Hoop Nature Reserve">De Hoop Nature Reserve</a><br/>
+<a href="/wiki/Groot_Winterhoek" title="Groot Winterhoek">Winterhoek</a><br/>
+<a href="/wiki/Swartberg" title="Swartberg">Swartberg</a><br/>
+<a href="/wiki/Table_Mountain_National_Park" title="Table Mountain National Park">Table Mountain National Park</a> <a href="https://www.wikidata.org/wiki/Q1974274?uselang=en#P527" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/World_Heritage_Site#Selection_criteria" title="World Heritage Site">Criteria</a></th>
+<td>Natural: ix, x</td>
+</tr>
+<tr>
+<th scope="row">Reference</th>
+<td><a class="external text" href="http://whc.unesco.org/en/list/1007" rel="nofollow">1007</a></td>
+</tr>
+<tr>
+<th scope="row">Inscription</th>
+<td>2004 <small>(28th <a href="/wiki/World_Heritage_Committee" title="World Heritage Committee">Session</a>)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:240px;padding:0">
+<div style="position:relative;width:240px"><a class="image" href="/wiki/File:South_Africa_relief_location_map.svg" title="Cape Floristic Region is located in South Africa"><img alt="Cape Floristic Region is located in South Africa" data-file-height="1741" data-file-width="2031" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/South_Africa_relief_location_map.svg/240px-South_Africa_relief_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/South_Africa_relief_location_map.svg/360px-South_Africa_relief_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/South_Africa_relief_location_map.svg/480px-South_Africa_relief_location_map.svg.png 2x" width="240"/></a>
+<div style="position:absolute;top:92.289%;left:13.808%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Cape Floristic Region" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Cape Floristic Region" width="8"/></div>
+</div>
+</div>
+<div>
+<div style="line-height:1.2em;">Location of Cape Floristic Region</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="text-align: right;">[<a class="extiw" href="https://www.wikidata.org/wiki/Q1974274" title="d:Q1974274">edit on Wikidata</a>]</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fynbos_18_months_after_fire_-_360_degree_photo.jpg"><img alt="" class="thumbimage" data-file-height="2688" data-file-width="5376" height="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fynbos_18_months_after_fire_-_360_degree_photo.jpg/220px-Fynbos_18_months_after_fire_-_360_degree_photo.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fynbos_18_months_after_fire_-_360_degree_photo.jpg/330px-Fynbos_18_months_after_fire_-_360_degree_photo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fynbos_18_months_after_fire_-_360_degree_photo.jpg/440px-Fynbos_18_months_after_fire_-_360_degree_photo.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fynbos_18_months_after_fire_-_360_degree_photo.jpg" title="Enlarge"></a></div>
+A 360 degree photograph of fynbos in the <a href="/wiki/Groot_Winterhoek" title="Groot Winterhoek">Groot Winterhoek</a> region of the Western Cape about 18 months after a fire. New plants can be seen in various stages of growth following the fire. The infertile white soil that fynbos tends to grow in can also be clearly seen. <a class="extiw" href="https://tools.wmflabs.org/panoviewer/#Fynbos_18_months_after_fire_-_360_degree_photo.jpg" title="toollabs:panoviewer/">Click here</a> to see the photograph in 360 degrees.</div>
+</div>
+</div>
+<p>The <b>Cape Floristic Region</b> is a <a class="mw-redirect" href="/wiki/Floristic_region" title="Floristic region">floristic region</a> located near the southern tip of <a href="/wiki/South_Africa" title="South Africa">South Africa</a>. It is the only floristic region of the Cape (South African) Floristic Kingdom, and includes only one <a class="mw-redirect" href="/wiki/Floristic_province" title="Floristic province">floristic province</a>, known as the Cape Floristic Province.</p>
+<p>The Cape Floristic Region, the smallest of the six recognised <a href="/wiki/Phytochorion" title="Phytochorion">floral kingdoms</a> of the world, is an area of extraordinarily high diversity and <a href="/wiki/Endemism" title="Endemism">endemism</a>, and is home to over 9,000 vascular plant species, of which 69 percent are endemic.<sup class="reference" id="cite_ref-Odendaal_2008_1-0"><a href="#cite_note-Odendaal_2008-1">[1]</a></sup> Much of this diversity is associated with the <a href="/wiki/Fynbos" title="Fynbos">fynbos</a> biome, a Mediterranean-type, fire-prone shrubland.<sup class="reference" id="cite_ref-Odendaal_2008_1-1"><a href="#cite_note-Odendaal_2008-1">[1]</a></sup> The economical worth of fynbos biodiversity, based on harvests of fynbos products (e.g. <a href="/wiki/Wildflower" title="Wildflower">wildflowers</a>) and <a class="mw-redirect" href="/wiki/Eco-tourism" title="Eco-tourism">eco-tourism</a>, is estimated to be in the region of <a href="/wiki/South_African_rand" title="South African rand">R</a>77 million a year.<sup class="reference" id="cite_ref-Odendaal_2008_1-2"><a href="#cite_note-Odendaal_2008-1">[1]</a></sup> Thus, it is clear that the Cape Floristic Region has both economic and intrinsic biological value as a <a href="/wiki/Biodiversity_hotspot" title="Biodiversity hotspot">biodiversity hotspot</a>.<sup class="reference" id="cite_ref-Odendaal_2008_1-3"><a href="#cite_note-Odendaal_2008-1">[1]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Location_and_description"><span class="tocnumber">1</span> <span class="toctext">Location and description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Flora"><span class="tocnumber">2</span> <span class="toctext">Flora</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ecology"><span class="tocnumber">3</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#World_Heritage_Site"><span class="tocnumber">4</span> <span class="toctext">World Heritage Site</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Location_and_description">Location and description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit&amp;section=1" title="Edit section: Location and description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Home to the greatest non-tropical concentration of higher plant species in the world, the region is the only hotspot that encompasses an entire floral kingdom, and holds five of South Africa’s 12 endemic plant families and 160 endemic genera. Covering 78,555 km², Cape Floristic Region hotspot is located entirely within the borders of South Africa. It is one of the five temperate Mediterranean-type systems on the hotspots list, and is one of only two hotspots that encompass an entire floral kingdom (the other being <a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a>)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup>. The Region covers the <a href="/wiki/Mediterranean_climate" title="Mediterranean climate">Mediterranean climate</a> region of South Africa in the <a href="/wiki/Western_Cape" title="Western Cape">Western Cape</a> in the southwestern corner of the country, and extends eastward into the <a href="/wiki/Eastern_Cape" title="Eastern Cape">Eastern Cape</a>, a transitional zone between the winter rainfall region to the west and the summer-rainfall region to the east in <a href="/wiki/KwaZulu-Natal" title="KwaZulu-Natal">KwaZulu-Natal</a>.</p>
+<h2><span class="mw-headline" id="Flora">Flora</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit&amp;section=2" title="Edit section: Flora">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most of the region is covered with <a href="/wiki/Fynbos" title="Fynbos">fynbos</a>, a <a class="mw-redirect" href="/wiki/Sclerophyllous" title="Sclerophyllous">sclerophyllous</a> <a href="/wiki/Shrubland" title="Shrubland">shrubland</a> occurring on acid sands or nutrient poor soils derived from Table Mountain Sandstones (Cape Supergroup). Fynbos is home to an amazing diversity of plant species including many members of the Protea family (<a href="/wiki/Proteaceae" title="Proteaceae">Proteaceae</a>), Heath family (<a href="/wiki/Ericaceae" title="Ericaceae">Ericaceae</a>), and Reed family of restios (<a href="/wiki/Restionaceae" title="Restionaceae">Restionaceae</a>). Other vegetation types are <a class="mw-redirect" href="/wiki/Sandveld" title="Sandveld">sandveld</a>, a soft coastal <a class="mw-redirect" href="/wiki/Scrubland" title="Scrubland">scrubland</a> found mostly on the west-facing coast of the <a class="mw-redirect" href="/wiki/Western_Cape_Province" title="Western Cape Province">Western Cape Province</a>, on tertiary sands. <a href="/wiki/Renosterveld" title="Renosterveld">Renosterveld</a> is a grassy shrubland dominated by members of the Daisy family (<a href="/wiki/Asteraceae" title="Asteraceae">Asteraceae</a> – particularly <a class="mw-redirect" href="/wiki/Renosterbos" title="Renosterbos">renosterbos</a> (<i>Elytropappus rhinocerotis</i>), graminoids and geophytes, occurring on the base-rich shaley soils of the coastal forelands. Small pockets of <a href="/wiki/Afromontane" title="Afromontane">Afromontane</a> forest (<a href="/wiki/Southern_Afrotemperate_Forest" title="Southern Afrotemperate Forest">Southern Afrotemperate Forest</a>) can be found in humid and sheltered areas.</p>
+<p>According to Takhtajan (1978), the following families are endemic or subendemic to the region: <a href="/wiki/Grubbiaceae" title="Grubbiaceae">Grubbiaceae</a>, <a class="mw-redirect" href="/wiki/Roridulaceae" title="Roridulaceae">Roridulaceae</a>, <a href="/wiki/Bruniaceae" title="Bruniaceae">Bruniaceae</a>, <a href="/wiki/Penaeaceae" title="Penaeaceae">Penaeaceae</a>, <a class="mw-redirect" href="/wiki/Greyiaceae" title="Greyiaceae">Greyiaceae</a>, <a class="mw-redirect" href="/wiki/Geissolomataceae" title="Geissolomataceae">Geissolomataceae</a>, Retziaceae (<i><a href="/wiki/Retzia" title="Retzia">Retzia</a></i>) and <a href="/wiki/Stilbaceae" title="Stilbaceae">Stilbaceae</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Ecology">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit&amp;section=3" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a class="mw-redirect" href="/wiki/World_Wildlife_Fund" title="World Wildlife Fund">World Wildlife Fund</a> divides the Cape floristic region into three <a href="/wiki/Ecoregion" title="Ecoregion">ecoregions</a>, the <a class="mw-redirect" href="/wiki/Lowland_fynbos_and_renosterveld" title="Lowland fynbos and renosterveld">Lowland fynbos and renosterveld</a>, <a class="mw-redirect" href="/wiki/Montane_fynbos_and_renosterveld" title="Montane fynbos and renosterveld">Montane fynbos and renosterveld</a> and the <a href="/wiki/Albany_thickets" title="Albany thickets">Albany thickets</a>.</p>
+<p>The fynbos ecoregions are designated one of the <a href="/wiki/Global_200" title="Global 200">Global 200</a> priority ecoregions for conservation. <a href="/wiki/Conservation_International" title="Conservation International">Conservation International</a> declared the Cape floristic region to be a <a href="/wiki/Biodiversity_hotspot" title="Biodiversity hotspot">biodiversity hotspot</a>.</p>
+<p>It is thought that the Cape Floristic Region is experiencing one of the most rapid rates of extinction in the world due to habitat loss, land degradation, and invasive alien plants.<sup class="reference" id="cite_ref-extincitionCap_4-0"><a href="#cite_note-extincitionCap-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="World_Heritage_Site">World Heritage Site</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit&amp;section=4" title="Edit section: World Heritage Site">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Biodiversity_Hotspots.svg"><img alt="" class="thumbimage" data-file-height="2435" data-file-width="4378" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Biodiversity_Hotspots.svg/220px-Biodiversity_Hotspots.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Biodiversity_Hotspots.svg/330px-Biodiversity_Hotspots.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Biodiversity_Hotspots.svg/440px-Biodiversity_Hotspots.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Biodiversity_Hotspots.svg" title="Enlarge"></a></div>
+<a href="/wiki/Biodiversity_hotspot" title="Biodiversity hotspot">Biodiversity hotspots</a> of the world showing the Cape Floristic Region (number 12)</div>
+</div>
+</div>
+<p>In 2004, the "Cape Floral Region Protected Areas" were inscribed as a <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Site</a>. The site includes eight representative protected areas:</p>
+<ul>
+<li><a href="/wiki/Table_Mountain_National_Park" title="Table Mountain National Park">Table Mountain National Park</a></li>
+<li><a class="mw-redirect" href="/wiki/Cederberg_Wilderness_Area" title="Cederberg Wilderness Area">Cederberg Wilderness Area</a></li>
+<li><a class="mw-redirect" href="/wiki/Groot_Winterhoek_Wilderness_Area" title="Groot Winterhoek Wilderness Area">Groot Winterhoek Wilderness Area</a></li>
+<li>Boland Mountain Complex (<a class="new" href="/w/index.php?title=Limietberg_Nature_Reserve&amp;action=edit&amp;redlink=1" title="Limietberg Nature Reserve (page does not exist)">Limietberg Nature Reserve</a>, <a href="/wiki/Jonkershoek_Nature_Reserve" title="Jonkershoek Nature Reserve">Jonkershoek Nature Reserve</a>, <a href="/wiki/Assegaaibosch_Nature_Reserve" title="Assegaaibosch Nature Reserve">Assegaaibosch Nature Reserve</a>, <a class="mw-redirect" href="/wiki/Hottentots_Holland_Nature_Reserve" title="Hottentots Holland Nature Reserve">Hottentots Holland Nature Reserve</a>, <a href="/wiki/Kogelberg_Nature_Reserve" title="Kogelberg Nature Reserve">Kogelberg Nature Reserve</a>)</li>
+<li><a href="/wiki/De_Hoop_Nature_Reserve" title="De Hoop Nature Reserve">De Hoop Nature Reserve</a></li>
+<li><a href="/wiki/Boosmansbos_Wilderness_Area" title="Boosmansbos Wilderness Area">Boosmansbos Wilderness Area</a></li>
+<li>Swartberg Complex (<a class="new" href="/w/index.php?title=Swartberg_Nature_Reserve&amp;action=edit&amp;redlink=1" title="Swartberg Nature Reserve (page does not exist)">Swartberg Nature Reserve</a>, <a class="new" href="/w/index.php?title=Gamkapoort_Nature_Reserve&amp;action=edit&amp;redlink=1" title="Gamkapoort Nature Reserve (page does not exist)">Gamkapoort Nature Reserve</a>, <a class="new" href="/w/index.php?title=Towerkop_Nature_Reserve&amp;action=edit&amp;redlink=1" title="Towerkop Nature Reserve (page does not exist)">Towerkop Nature Reserve</a>)</li>
+<li><a href="/wiki/Baviaanskloof_Mega_Reserve" title="Baviaanskloof Mega Reserve">Baviaanskloof Mega Reserve</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This article incorporates CC BY-3.0 text from the reference<sup class="reference" id="cite_ref-Odendaal_2008_1-4"><a href="#cite_note-Odendaal_2008-1">[1]</a></sup></p>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Odendaal_2008-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Odendaal_2008_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Odendaal_2008_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Odendaal_2008_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Odendaal_2008_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Odendaal_2008_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Odendaal L. J., Haupt T. M. &amp; Griffiths C. L. (2008). "The alien invasive land snail <i>Theba pisana</i> in the West Coast National Park: Is there cause for concern?". <i><a class="new" href="/w/index.php?title=Koedoe_%E2%80%93_African_Protected_Area_Conservation_and_Science&amp;action=edit&amp;redlink=1" title="Koedoe – African Protected Area Conservation and Science (page does not exist)">Koedoe – African Protected Area Conservation and Science</a></i> <b>50</b>(1): 93-98. <a class="external text" href="http://www.koedoe.co.za/index.php/koedoe/article/view/153" rel="nofollow">abstract</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.4102%2Fkoedoe.v50i1.153" rel="nofollow">10.4102/koedoe.v50i1.153</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Тахтаджян А. Л. Флористические области Земли / Академия наук СССР. Ботанический институт им. В. Л. Комарова. — Л.: Наука, Ленинградское отделение, 1978. — 247 с. — 4000 экз. <a class="external text" href="http://herba.msu.ru/shipunov/school/books/takhtajan1978_flor_oblasti_zemli.djvu" rel="nofollow">DjVu</a>, <a class="external text" href="https://books.google.com/books?id=9gylTK3CsScC" rel="nofollow">Google Books</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Takhtajan, A. (1986). <i>Floristic Regions of the World</i>. (translated by T.J. Crovello &amp; A. Cronquist). University of California Press, Berkeley, <a class="external text" href="http://www.gbv.de/dms/bs/toc/024192430.pdf" rel="nofollow">PDF</a>, <a class="external text" href="http://herba.msu.ru/shipunov/school/books/takhtajan1986_flor_regions.djvu" rel="nofollow">DjVu</a>.</span></li>
+<li id="cite_note-extincitionCap-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-extincitionCap_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">South African Press Association (14 August 2014). <a class="external text" href="http://www.iol.co.za/news/south-africa/western-cape/cape-is-world-s-extinction-capital-1.1735307#.U_Sh8PmSySo" rel="nofollow">"Cape is world's extinction capital"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACape+Floristic+Region&amp;rft.au=South+African+Press+Association&amp;rft.btitle=Cape+is+world%27s+extinction+capital&amp;rft.date=2014-08-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iol.co.za%2Fnews%2Fsouth-africa%2Fwestern-cape%2Fcape-is-world-s-extinction-capital-1.1735307%23.U_Sh8PmSySo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Cape_Floral" title="commons:Category:Cape Floral">Cape Floristic Region (Cape Floral)</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="https://web.archive.org/web/20060418152238/http://www.biodiversityhotspots.org/xp/Hotspots/cape_floristic/" rel="nofollow">Conservation International: Cape floristic Region – biodiversity hotspot</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20101203225809/http://www.capeaction.org.za/index.php?C=about&amp;P=6" rel="nofollow">Cape Action: the Cape floristic Region</a></li>
+</ul>
+<div aria-labelledby="Floristic_regions_of_the_world" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Floristic_regions" title="Template:Floristic regions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Floristic_regions" title="Template talk:Floristic regions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Floristic_regions&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Floristic_regions_of_the_world" style="font-size:114%;margin:0 4em"><a href="/wiki/Phytochorion" title="Phytochorion">Floristic regions</a> of the <a href="/wiki/World" title="World">world</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Boreal_Kingdom" title="Boreal Kingdom">Holarctic Kingdom</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Circumboreal_Region" title="Circumboreal Region">Circumboreal</a></li>
+<li><a href="/wiki/Eastern_Asiatic_Region" title="Eastern Asiatic Region">Eastern Asiatic</a></li>
+<li><a href="/wiki/North_American_Atlantic_Region" title="North American Atlantic Region">North American Atlantic</a></li>
+<li><a href="/wiki/Rocky_Mountain_Floristic_Region" title="Rocky Mountain Floristic Region">Rocky Mountain</a></li>
+<li><a href="/wiki/Macaronesia" title="Macaronesia">Macaronesian</a></li>
+<li><a href="/wiki/Mediterranean_Basin" title="Mediterranean Basin">Mediterranean</a></li>
+<li><a href="/wiki/Saharo-Arabian_Region" title="Saharo-Arabian Region">Saharo-Arabian</a></li>
+<li><a href="/wiki/Phytochorion#VIII._Irano-Turanian_Region" title="Phytochorion">Irano-Turanian</a></li>
+<li><a href="/wiki/Madrean_Region" title="Madrean Region">Madrean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Paleotropical_Kingdom" title="Paleotropical Kingdom">Paleotropical Kingdom</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Guineo-Congolian_Region&amp;action=edit&amp;redlink=1" title="Guineo-Congolian Region (page does not exist)">Guineo-Congolian</a></li>
+<li><a class="new" href="/w/index.php?title=Usambara-Zululand_Region&amp;action=edit&amp;redlink=1" title="Usambara-Zululand Region (page does not exist)">Usambara-Zululand</a></li>
+<li><a class="new" href="/w/index.php?title=Sudano-Zambezian_Region&amp;action=edit&amp;redlink=1" title="Sudano-Zambezian Region (page does not exist)">Sudano-Zambezian</a></li>
+<li><a class="new" href="/w/index.php?title=Karoo-Namib_Region&amp;action=edit&amp;redlink=1" title="Karoo-Namib Region (page does not exist)">Karoo-Namib</a></li>
+<li><a class="new" href="/w/index.php?title=St._Helena_and_Ascension_Region&amp;action=edit&amp;redlink=1" title="St. Helena and Ascension Region (page does not exist)">St. Helena and Ascension</a></li>
+<li><a href="/wiki/Ecoregions_of_Madagascar" title="Ecoregions of Madagascar">Madagascan</a></li>
+<li><a class="new" href="/w/index.php?title=Indian_Region&amp;action=edit&amp;redlink=1" title="Indian Region (page does not exist)">Indian</a></li>
+<li><a class="mw-redirect" href="/wiki/Indochinese_Region" title="Indochinese Region">Indochinese</a></li>
+<li><a href="/wiki/Malesia" title="Malesia">Malesian</a></li>
+<li><a class="new" href="/w/index.php?title=Fijian_Region&amp;action=edit&amp;redlink=1" title="Fijian Region (page does not exist)">Fijian</a></li>
+<li><a class="new" href="/w/index.php?title=Polynesian_Region&amp;action=edit&amp;redlink=1" title="Polynesian Region (page does not exist)">Polynesian</a></li>
+<li><a class="new" href="/w/index.php?title=Hawaiian_Region&amp;action=edit&amp;redlink=1" title="Hawaiian Region (page does not exist)">Hawaiian</a></li>
+<li><a class="new" href="/w/index.php?title=Neocaledonian_region&amp;action=edit&amp;redlink=1" title="Neocaledonian region (page does not exist)">Neocaledonian</a></li>
+<li><a href="/wiki/Flora_of_Australia" title="Flora of Australia">Australian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Neotropic_ecozone" title="Neotropic ecozone">Neotropical Kingdom</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Caribbean_Floristic_Region&amp;action=edit&amp;redlink=1" title="Caribbean Floristic Region (page does not exist)">Caribbean</a></li>
+<li><a class="new" href="/w/index.php?title=Region_of_the_Guayana_Highlands&amp;action=edit&amp;redlink=1" title="Region of the Guayana Highlands (page does not exist)">Guayana Highlands</a></li>
+<li><a class="new" href="/w/index.php?title=Amazonian_Region&amp;action=edit&amp;redlink=1" title="Amazonian Region (page does not exist)">Amazonian</a></li>
+<li><a class="new" href="/w/index.php?title=Brazilian_Region&amp;action=edit&amp;redlink=1" title="Brazilian Region (page does not exist)">Brazilian</a></li>
+<li><a class="new" href="/w/index.php?title=Andean_Floristic_Region&amp;action=edit&amp;redlink=1" title="Andean Floristic Region (page does not exist)">Andean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">South African Kingdom</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Cape</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Australian_Kingdom" title="Australian Kingdom">Australian Kingdom</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Northeast_Australian_region&amp;action=edit&amp;redlink=1" title="Northeast Australian region (page does not exist)">Northeast</a></li>
+<li><a class="new" href="/w/index.php?title=Southwest_Australian_region&amp;action=edit&amp;redlink=1" title="Southwest Australian region (page does not exist)">Southwest</a></li>
+<li><a class="new" href="/w/index.php?title=Central_Australian_or_Eremaean_region&amp;action=edit&amp;redlink=1" title="Central Australian or Eremaean region (page does not exist)">Central Australian or Eremaean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Antarctic_Floristic_Kingdom" title="Antarctic Floristic Kingdom">Antarctic Kingdom</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fernandezian_Region" title="Fernandezian Region">Fernandezian</a></li>
+<li><a class="new" href="/w/index.php?title=Chile-Patagonian_Region&amp;action=edit&amp;redlink=1" title="Chile-Patagonian Region (page does not exist)">Chile-Patagonian</a></li>
+<li><a class="new" href="/w/index.php?title=Region_of_the_South_Subantarctic_Islands&amp;action=edit&amp;redlink=1" title="Region of the South Subantarctic Islands (page does not exist)">South Subantarctic Islands</a></li>
+<li><a class="new" href="/w/index.php?title=Neozeylandic_Region&amp;action=edit&amp;redlink=1" title="Neozeylandic Region (page does not exist)">Neozeylandic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="World_Heritage_Sites_in_South_Africa" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:World_Heritage_Sites_in_South_Africa" title="Template:World Heritage Sites in South Africa"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:World_Heritage_Sites_in_South_Africa" title="Template talk:World Heritage Sites in South Africa"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_Heritage_Sites_in_South_Africa&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_Heritage_Sites_in_South_Africa" style="font-size:114%;margin:0 4em"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Sites</a> in <a href="/wiki/South_Africa" title="South Africa">South Africa</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><i>For official site names, see each article or the <a href="/wiki/List_of_World_Heritage_Sites_in_South_Africa" title="List of World Heritage Sites in South Africa">List of World Heritage Sites in South Africa</a>.</i></div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Cape Floral Region</a> <small>Protected Areas</small></li>
+<li>Fossil Hominid Sites of South Africa
+<ul>
+<li><a href="/wiki/Cradle_of_Humankind" title="Cradle of Humankind">Cradle of Humankind</a></li>
+<li><a class="mw-redirect" href="/wiki/Makapan" title="Makapan">Makapan Valley</a></li>
+<li><a href="/wiki/Taung" title="Taung">Taung Child</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ISimangaliso_Wetland_Park" title="ISimangaliso Wetland Park">iSimangaliso Wetland Park</a></li>
+<li><a href="/wiki/Kingdom_of_Mapungubwe" title="Kingdom of Mapungubwe">Mapungubwe</a> <small>Cultural Landscape</small></li>
+<li><a href="/wiki/Richtersveld" title="Richtersveld">Richtersveld</a> <small>Cultural and Botanical Landscape</small></li>
+<li><a href="/wiki/Robben_Island" title="Robben Island">Robben Island</a></li>
+<li><small>uKhahlamba /</small> <a href="/wiki/Drakensberg" title="Drakensberg">Drakensberg</a> <small>Park</small></li>
+<li><a href="/wiki/Vredefort_crater" title="Vredefort crater">Vredefort Dome</a></li>
+<li><a href="/wiki/%C7%80Xam_and_%C7%82Khomani_heartland" title="ǀXam and ǂKhomani heartland">ǀXam and ǂKhomani heartland</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" class="thumbborder" data-file-height="600" data-file-width="900" height="39" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/58px-Flag_of_South_Africa.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/87px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/116px-Flag_of_South_Africa.svg.png 2x" width="58"/></a></span></div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1210
+Cached time: 20171103050910
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.425 seconds
+Preprocessor visited node count: 1874/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61493/2097152 bytes
+Template argument size: 5192/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 8/500
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 6.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  363.282      1 -total
+ 59.07%  214.585      1 Template:Infobox_World_Heritage_Site
+ 55.61%  202.020      1 Template:Infobox
+ 11.83%   42.994      1 Template:Reflist
+ 10.07%   36.576      1 Template:Wikidata_location
+ 10.07%   36.574      1 Template:Citation_needed
+  9.05%   32.868      1 Template:Fix
+  8.93%   32.428      1 Template:Comma_separated_values
+  8.90%   32.327      1 Template:Convert
+  7.81%   28.362      1 Template:Cite_web
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4767343-0!canonical and timestamp 20171103050909 and revision id 803562889
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cape_Floristic_Region&amp;oldid=803562889">https://en.wikipedia.org/w/index.php?title=Cape_Floristic_Region&amp;oldid=803562889</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Floristic_regions" title="Category:Floristic regions">Floristic regions</a></li><li><a href="/wiki/Category:Fynbos" title="Category:Fynbos">Fynbos</a></li><li><a href="/wiki/Category:Endemic_flora_of_South_Africa" title="Category:Endemic flora of South Africa">Endemic flora of South Africa</a></li><li><a href="/wiki/Category:Flora_of_South_Africa" title="Category:Flora of South Africa">Flora of South Africa</a></li><li><a href="/wiki/Category:Mediterranean_forests,_woodlands,_and_scrub" title="Category:Mediterranean forests, woodlands, and scrub">Mediterranean forests, woodlands, and scrub</a></li><li><a href="/wiki/Category:Afromontane_ecoregions" title="Category:Afromontane ecoregions">Afromontane ecoregions</a></li><li><a href="/wiki/Category:Afrotropic_ecozone" title="Category:Afrotropic ecozone">Afrotropic ecozone</a></li><li><a href="/wiki/Category:Biodiversity_hotspots" title="Category:Biodiversity hotspots">Biodiversity hotspots</a></li><li><a href="/wiki/Category:Geography_of_South_Africa" title="Category:Geography of South Africa">Geography of South Africa</a></li><li><a href="/wiki/Category:World_Heritage_Sites_in_South_Africa" title="Category:World Heritage Sites in South Africa">World Heritage Sites in South Africa</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_using_Wikidata_location_map_with_locally_defined_parameters" title="Category:Articles using Wikidata location map with locally defined parameters">Articles using Wikidata location map with locally defined parameters</a></li><li><a href="/wiki/Category:Articles_using_Infobox_World_Heritage_Site_using_locally_defined_parameters" title="Category:Articles using Infobox World Heritage Site using locally defined parameters">Articles using Infobox World Heritage Site using locally defined parameters</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cape+Floristic+Region" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cape+Floristic+Region" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Cape_Floristic_Region" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Cape_Floristic_Region" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Cape_Floristic_Region">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Cape_Floristic_Region&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Cape_Floristic_Region&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cape_Floristic_Region" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cape_Floristic_Region" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cape_Floristic_Region&amp;oldid=803562889" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cape_Floristic_Region&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1974274" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cape_Floristic_Region&amp;id=803562889" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cape+Floristic+Region">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cape+Floristic+Region&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Cape_Floristic_Region&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cape_Floral" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Kaapse_floraryk" hreflang="af" lang="af" title="Kaapse floraryk – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D9%8A%D8%A9_%D8%A7%D9%84%D8%B2%D9%87%D9%88%D8%B1_%D9%81%D9%8A_%D8%A7%D9%84%D9%83%D9%8A%D8%A8" hreflang="ar" lang="ar" title="محمية الزهور في الكيب – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Regi%C3%B3_flor%C3%ADstica_del_Cap" hreflang="ca" lang="ca" title="Regió florística del Cap – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Cape_Floral_Region" hreflang="da" lang="da" title="Cape Floral Region – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Cape_Floral" hreflang="de" lang="de" title="Cape Floral – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%81reas_protegidas_de_la_Regi%C3%B3n_floral_del_Cabo" hreflang="es" lang="es" title="Áreas protegidas de la Región floral del Cabo – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/R%C3%A9gion_floristique_du_Cap" hreflang="fr" lang="fr" title="Région floristique du Cap – French">Français</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Cvjetno_podru%C4%8Dje_rtova" hreflang="hr" lang="hr" title="Cvjetno područje rtova – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Regione_floristica_del_Capo" hreflang="it" lang="it" title="Regione floristica del Capo – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%9E%E1%83%98%E1%83%A1_%E1%83%A4%E1%83%9A%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A0%E1%83%94%E1%83%92%E1%83%98%E1%83%9D%E1%83%9C%E1%83%98" hreflang="ka" lang="ka" title="კაპის ფლორისტული რეგიონი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kapo_g%C4%97li%C5%B3_regionas" hreflang="lt" lang="lt" title="Kapo gėlių regionas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%87%E0%B4%AA%E0%B5%8D_%E0%B4%AB%E0%B5%8D%E0%B4%B2%E0%B5%8B%E0%B4%B1%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%95%E0%B5%8D_%E0%B4%AE%E0%B5%87%E0%B4%96%E0%B4%B2" hreflang="ml" lang="ml" title="കേപ് ഫ്ലോറിസ്റ്റിക് മേഖല – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Floraregio_van_de_Kaap" hreflang="nl" lang="nl" title="Floraregio van de Kaap – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%AA%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%AA_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0_%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A4_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B0%E0%A5%82" hreflang="ne" lang="ne" title="केप पुष्प क्षेत्र संरक्षित क्षेत्रहरू – Nepali">नेपाली</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Cape_floraregion" hreflang="no" lang="no" title="Cape floraregion – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pa%C5%84stwo_przyl%C4%85dkowe" hreflang="pl" lang="pl" title="Państwo przylądkowe – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%81reas_protegidas_da_regi%C3%A3o_floral_do_Cabo" hreflang="pt" lang="pt" title="Áreas protegidas da região floral do Cabo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Капская область – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Cape_flower_region" hreflang="simple" lang="simple" title="Cape flower region – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%81%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82" hreflang="sr" lang="sr" title="Капска област – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Cape_Floral" hreflang="sh" lang="sh" title="Cape Floral – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kaps_floraregion" hreflang="sv" lang="sv" title="Kaps floraregion – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C3%9Cmit_Burnu%27ndaki_Koruma_Alanlar%C4%B1" hreflang="tr" lang="tr" title="Ümit Burnu'ndaki Koruma Alanları – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%81%D1%8C%D0%BA%D0%B5_%D1%84%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" hreflang="uk" lang="uk" title="Капське флористичне царство – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_hoa_m%C5%A9i_H%E1%BA%A3o_V%E1%BB%8Dng" hreflang="vi" lang="vi" title="Khu bảo tồn hoa mũi Hảo Vọng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%B4%9B%E5%8B%92%E5%B0%94%E8%A7%92" hreflang="zh" lang="zh" title="弗洛勒尔角 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1974274#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 October 2017, at 07:42.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cape_Floristic_Region&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.425","ppvisitednodes":{"value":1874,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61493,"limit":2097152},"templateargumentsize":{"value":5192,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  363.282      1 -total"," 59.07%  214.585      1 Template:Infobox_World_Heritage_Site"," 55.61%  202.020      1 Template:Infobox"," 11.83%   42.994      1 Template:Reflist"," 10.07%   36.576      1 Template:Wikidata_location"," 10.07%   36.574      1 Template:Citation_needed","  9.05%   32.868      1 Template:Fix","  8.93%   32.428      1 Template:Comma_separated_values","  8.90%   32.327      1 Template:Convert","  7.81%   28.362      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":6869961,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20171103050910","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1244"});});</script>
+</body>
+</html>

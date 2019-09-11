@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Mid-Atlantic Ridge - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mid-Atlantic_Ridge","wgTitle":"Mid-Atlantic Ridge","wgCurRevisionId":809199593,"wgRevisionId":809199593,"wgArticleId":145705,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Underwater ridges of the Atlantic Ocean","Geology of the Atlantic Ocean","Plate tectonics","Geology of Iceland","Geology of Saint Helena, Ascension and Tristan da Cunha"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mid-Atlantic_Ridge","wgRelevantArticleId":145705,"wgRequestId":"WgIAYwpAEK0AACy@zFAAAAAN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q207313","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b2/Mid-atlantic_ridge_map.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mid-Atlantic_Ridge" rel="alternate"/>
+<link href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mid-Atlantic_Ridge rootpage-Mid-Atlantic_Ridge vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Mid-Atlantic Ridge</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Mid-atlantic_ridge_map.png"><img alt="" class="thumbimage" data-file-height="415" data-file-width="200" height="415" src="//upload.wikimedia.org/wikipedia/commons/b/b2/Mid-atlantic_ridge_map.png" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mid-atlantic_ridge_map.png" title="Enlarge"></a></div>
+A map of the Mid-Atlantic Ridge</div>
+</div>
+</div>
+<p>The <b>Mid-Atlantic Ridge (MAR)</b> is a <a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">mid-ocean ridge</a>, a <a href="/wiki/Divergent_boundary" title="Divergent boundary">divergent</a> <a href="/wiki/Plate_tectonics" title="Plate tectonics">tectonic plate</a> or constructive plate boundary located along the floor of the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, and part of the <a href="/wiki/List_of_mountain_ranges#By_length" title="List of mountain ranges">longest mountain range in the world</a>. In the North Atlantic it separates the <a href="/wiki/Eurasian_Plate" title="Eurasian Plate">Eurasian</a> and <a href="/wiki/North_American_Plate" title="North American Plate">North American Plates</a>, and in the South Atlantic it separates the <a href="/wiki/African_Plate" title="African Plate">African</a> and <a href="/wiki/South_American_Plate" title="South American Plate">South American Plates</a>. The ridge extends from a junction with the <a href="/wiki/Gakkel_Ridge" title="Gakkel Ridge">Gakkel Ridge</a> (Mid-Arctic Ridge) northeast of <a href="/wiki/Greenland" title="Greenland">Greenland</a> southward to the <a href="/wiki/Bouvet_Triple_Junction" title="Bouvet Triple Junction">Bouvet Triple Junction</a> in the South Atlantic. Although the Mid-Atlantic Ridge is mostly an underwater feature, portions of it have enough elevation to extend above sea level. The section of the ridge that includes the island of <a href="/wiki/Iceland" title="Iceland">Iceland</a> is also known as the <b>Reykjanes Ridge</b>. The ridge has an average spreading rate of about 2.5 centimetres (0.98 in) per year.<sup class="reference" id="cite_ref-USGS_understanding_1-0"><a href="#cite_note-USGS_understanding-1">[1]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Discovery"><span class="tocnumber">1</span> <span class="toctext">Discovery</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Notable_features"><span class="tocnumber">2</span> <span class="toctext">Notable features</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Islands"><span class="tocnumber">3</span> <span class="toctext">Islands</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Geology"><span class="tocnumber">4</span> <span class="toctext">Geology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=1" title="Edit section: Discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Pangea_animation_03.gif"><img alt="" class="thumbimage" data-file-height="160" data-file-width="200" height="160" src="//upload.wikimedia.org/wikipedia/commons/8/8e/Pangea_animation_03.gif" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pangea_animation_03.gif" title="Enlarge"></a></div>
+Pangaea's separation animated</div>
+</div>
+</div>
+<p>A ridge under the Atlantic Ocean was first inferred by <a href="/wiki/Matthew_Fontaine_Maury" title="Matthew Fontaine Maury">Matthew Fontaine Maury</a> in 1850. The existence of the ridge was discovered during the <a href="/wiki/Challenger_expedition" title="Challenger expedition">expedition of HMS <i>Challenger</i></a> in 1872.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> A team of scientists on board, led by <a href="/wiki/Charles_Wyville_Thomson" title="Charles Wyville Thomson">Charles Wyville Thomson</a>, discovered a large rise in the middle of the Atlantic while investigating the future location for a <a href="/wiki/Transatlantic_telegraph_cable" title="Transatlantic telegraph cable">transatlantic telegraph cable</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The existence of such a ridge was confirmed by sonar in 1925<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> and was found to extend around the <a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">Cape of Good Hope</a> into the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> by the <a href="/wiki/German_Meteor_expedition" title="German Meteor expedition">German Meteor expedition</a>.<sup class="reference" id="cite_ref-Stein_5-0"><a href="#cite_note-Stein-5">[5]</a></sup></p>
+<p>In the 1950s, mapping of the <a href="/wiki/Earth" title="Earth">Earth</a>'s ocean floors by <a href="/wiki/Bruce_C._Heezen" title="Bruce C. Heezen">Bruce Heezen</a>, <a href="/wiki/Maurice_Ewing" title="Maurice Ewing">Maurice Ewing</a>, <a href="/wiki/Marie_Tharp" title="Marie Tharp">Marie Tharp</a> and others revealed that the Mid-Atlantic Ridge had a strange <a href="/wiki/Bathymetry" title="Bathymetry">bathymetry</a> of valleys and ridges,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> with its central valley being <a href="/wiki/Seismology" title="Seismology">seismologically</a> active and the <a href="/wiki/Epicenter" title="Epicenter">epicenter</a> of many <a href="/wiki/Earthquake" title="Earthquake">earthquakes</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Ewing, Heezen and Tharp discovered that the ridge is part of a 40,000-km-long essentially continuous system of <a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">mid-ocean ridges</a> on the floors of all the Earth’s oceans.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The discovery of this worldwide ridge system led to the <a href="/wiki/Theory" title="Theory">theory</a> of <a href="/wiki/Seafloor_spreading" title="Seafloor spreading">seafloor spreading</a> and general acceptance of <a href="/wiki/Alfred_Wegener" title="Alfred Wegener">Wegener</a>'s theory of <a href="/wiki/Continental_drift" title="Continental drift">continental drift</a> and expansion in the modified form of <a href="/wiki/Plate_tectonics" title="Plate tectonics">plate tectonics</a>. The ridge is central to the breakup of the <a href="/wiki/Hypothesis" title="Hypothesis">hypothetical</a> <a href="/wiki/Supercontinent" title="Supercontinent">supercontinent</a> of <a href="/wiki/Pangaea" title="Pangaea">Pangaea</a> that began some 180 million years ago.</p>
+<h2><span class="mw-headline" id="Notable_features">Notable features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=2" title="Edit section: Notable features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:363px;max-width:363px">
+<div class="tsingle" style="float:left;margin:1px;width:152px;max-width:152px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Iceland_Mid-Atlantic_Ridge_Fig16.gif"><img alt="" data-file-height="390" data-file-width="376" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Iceland_Mid-Atlantic_Ridge_Fig16.gif/150px-Iceland_Mid-Atlantic_Ridge_Fig16.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Iceland_Mid-Atlantic_Ridge_Fig16.gif/225px-Iceland_Mid-Atlantic_Ridge_Fig16.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Iceland_Mid-Atlantic_Ridge_Fig16.gif/300px-Iceland_Mid-Atlantic_Ridge_Fig16.gif 2x" width="150"/></a></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:207px;max-width:207px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Iceland_mid_atlantic_ridge.JPG"><img alt="" data-file-height="2448" data-file-width="3264" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Iceland_mid_atlantic_ridge.JPG/205px-Iceland_mid_atlantic_ridge.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Iceland_mid_atlantic_ridge.JPG/308px-Iceland_mid_atlantic_ridge.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Iceland_mid_atlantic_ridge.JPG/410px-Iceland_mid_atlantic_ridge.JPG 2x" width="205"/></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">In Iceland the Mid-Atlantic Ridge passes across the <a href="/wiki/%C3%9Eingvellir" title="Þingvellir">Þingvellir</a> National Park, a popular destination for tourists</div>
+</div>
+</div>
+<p>The Mid-Atlantic Ridge includes a deep <a href="/wiki/Rift_valley" title="Rift valley">rift valley</a> that runs along the axis of the ridge along nearly its entire length. This rift marks the actual boundary between adjacent tectonic plates, where <a href="/wiki/Magma" title="Magma">magma</a> from the <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">mantle</a> reaches the seafloor, erupting as <a href="/wiki/Lava" title="Lava">lava</a> and producing new <a href="/wiki/Oceanic_crust" title="Oceanic crust">crustal</a> material for the plates.</p>
+<p>Near the <a href="/wiki/Equator" title="Equator">equator</a>, the Mid-Atlantic Ridge is divided into the North Atlantic Ridge and the South Atlantic Ridge by the <a href="/wiki/Romanche_Trench" title="Romanche Trench">Romanche Trench</a>, a narrow submarine trench with a maximum depth of 7,758 m (25,453 ft), one of the deepest locations of the Atlantic Ocean. This trench, however, is not regarded as the boundary between the North and South American Plates, nor the Eurasian and African Plates.</p>
+<h2><span class="mw-headline" id="Islands">Islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=3" title="Edit section: Islands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The islands on or near the Mid-Atlantic Ridge, from north to south, with their respective highest peaks and location, are:</p>
+<p><b>Northern Hemisphere (North Atlantic Ridge)</b>:</p>
+<ol>
+<li><a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> (<a href="/wiki/Beerenberg" title="Beerenberg">Beerenberg</a>, 2277 m (at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=71_06_N_08_12_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">71°06′N</span> <span class="longitude">08°12′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">71.100°N 8.200°W</span><span style="display:none">﻿ / <span class="geo">71.100; -8.200</span></span></span></a></span>), in the <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a></li>
+<li><a href="/wiki/Iceland" title="Iceland">Iceland</a> (<a href="/wiki/Hvannadalshn%C3%BAkur" title="Hvannadalshnúkur">Hvannadalshnúkur</a> in the <a href="/wiki/Vatnaj%C3%B6kull" title="Vatnajökull">Vatnajökull</a>, 2109.6 m (at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=64_01_N_16_41_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">64°01′N</span> <span class="longitude">16°41′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">64.017°N 16.683°W</span><span style="display:none">﻿ / <span class="geo">64.017; -16.683</span></span></span></a></span>), through which the ridge runs</li>
+<li><a href="/wiki/Azores" title="Azores">Azores</a> (<a class="mw-redirect" href="/wiki/Ponta_do_Pico" title="Ponta do Pico">Ponta do Pico</a> or Pico Alto, on <a href="/wiki/Pico_Island" title="Pico Island">Pico Island</a>, 2351 m, (at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=38_28_0_N_28_24_0_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">38°28′0″N</span> <span class="longitude">28°24′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">38.46667°N 28.40000°W</span><span style="display:none">﻿ / <span class="geo">38.46667; -28.40000</span></span></span></a></span>)</li>
+<li><a class="mw-redirect" href="/wiki/Saint_Peter_and_Paul_Rocks" title="Saint Peter and Paul Rocks">Saint Peter and Paul Rocks</a> (Southwest Rock, 22.5 m, at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=00_55_08_N_29_20_35_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">00°55′08″N</span> <span class="longitude">29°20′35″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">0.91889°N 29.34306°W</span><span style="display:none">﻿ / <span class="geo">0.91889; -29.34306</span></span></span></a></span>)</li>
+</ol>
+<p><b>Southern Hemisphere (South Atlantic Ridge)</b>:</p>
+<ol>
+<li><a href="/wiki/Ascension_Island" title="Ascension Island">Ascension Island</a> (The Peak, Green Mountain, 859 m, at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=07_59_S_14_25_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">07°59′S</span> <span class="longitude">14°25′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">7.983°S 14.417°W</span><span style="display:none">﻿ / <span class="geo">-7.983; -14.417</span></span></span></a></span>)</li>
+<li><a href="/wiki/Saint_Helena" title="Saint Helena">Saint Helena</a> (<a href="/wiki/Diana%27s_Peak" title="Diana's Peak">Diana's Peak</a>, 818 m at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=15_57_S_5_41_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">15°57′S</span> <span class="longitude">5°41′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">15.950°S 5.683°W</span><span style="display:none">﻿ / <span class="geo">-15.950; -5.683</span></span></span></a></span>)</li>
+<li><a href="/wiki/Tristan_da_Cunha" title="Tristan da Cunha">Tristan da Cunha</a> (<a href="/wiki/Queen_Mary%27s_Peak" title="Queen Mary's Peak">Queen Mary's Peak</a>, 2062 m, at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=37_05_S_12_17_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°05′S</span> <span class="longitude">12°17′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.083°S 12.283°W</span><span style="display:none">﻿ / <span class="geo">-37.083; -12.283</span></span></span></a></span>)</li>
+<li><a href="/wiki/Gough_Island" title="Gough Island">Gough Island</a> (<a href="/wiki/Gough_Island" title="Gough Island">Edinburgh Peak</a>, 909 m, at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=40_20_S_10_00_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°20′S</span> <span class="longitude">10°00′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.333°S 10.000°W</span><span style="display:none">﻿ / <span class="geo">-40.333; -10.000</span></span></span></a></span>)</li>
+<li><a href="/wiki/Bouvet_Island" title="Bouvet Island">Bouvet Island</a> (<a href="/wiki/Olavtoppen" title="Olavtoppen">Olavtoppen</a>, 780 m, at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mid-Atlantic_Ridge&amp;params=54_24_S_03_21_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">54°24′S</span> <span class="longitude">03°21′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">54.400°S 3.350°E</span><span style="display:none">﻿ / <span class="geo">-54.400; 3.350</span></span></span></a></span>)</li>
+</ol>
+<h2><span class="mw-headline" id="Geology">Geology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=4" title="Edit section: Geology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg"><img alt="" class="thumbimage" data-file-height="1080" data-file-width="1920" height="124" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg/220px-Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg/440px-Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Expl2286_-_Flickr_-_NOAA_Photo_Library.jpg" title="Enlarge"></a></div>
+Basaltic rocks of the MAR collected by the Hercules ROV during the 2005 <a href="/wiki/Lost_City_Hydrothermal_Field" title="Lost City Hydrothermal Field">Lost City</a> Expedition.</div>
+</div>
+</div>
+<dl>
+<dd><i>For a general explanation of mid-oceanic ridges, see <a class="mw-redirect" href="/wiki/Mid-oceanic_ridge" title="Mid-oceanic ridge">mid-oceanic ridge</a> and <a href="/wiki/Seafloor_spreading" title="Seafloor spreading">seafloor spreading</a></i></dd>
+</dl>
+<p>The ridge sits atop a geologic feature known as the <b>Mid-Atlantic Rise</b>, which is a progressive bulge that runs the length of the Atlantic Ocean, with the ridge resting on the highest point of this linear bulge. This bulge is thought to be caused by upward convective forces in the <a href="/wiki/Asthenosphere" title="Asthenosphere">asthenosphere</a> pushing the <a href="/wiki/Oceanic_crust" title="Oceanic crust">oceanic crust</a> and <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>. This divergent boundary first formed in the <a href="/wiki/Triassic" title="Triassic">Triassic</a> period, when a series of <a href="/wiki/Triple_junction" title="Triple junction">three-armed</a> <a href="/wiki/Graben" title="Graben">grabens</a> coalesced on the supercontinent <a href="/wiki/Pangaea" title="Pangaea">Pangaea</a> to form the ridge. Usually, only two arms of any given three-armed graben become part of a divergent plate boundary. The failed arms are called <i><a href="/wiki/Aulacogen" title="Aulacogen">aulacogens</a></i>, and the aulacogens of the Mid-Atlantic Ridge eventually became many of the large river valleys seen along the <a href="/wiki/Americas" title="Americas">Americas</a> and <a href="/wiki/Africa" title="Africa">Africa</a> (including the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a>, <a href="/wiki/Amazon_River" title="Amazon River">Amazon River</a> and <a href="/wiki/Niger_River" title="Niger River">Niger River</a>). The <a href="/wiki/Fundy_Basin" title="Fundy Basin">Fundy Basin</a> on the Atlantic coast of North America between <a href="/wiki/New_Brunswick" title="New Brunswick">New Brunswick</a> and <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a> in <a href="/wiki/Canada" title="Canada">Canada</a> is evidence of the ancestral Mid-Atlantic Ridge.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Atlantis_Massif" title="Atlantis Massif">Atlantis Massif</a></li>
+<li><a class="mw-redirect" href="/wiki/Central_Atlantic_Magmatic_Province" title="Central Atlantic Magmatic Province">Central Atlantic Magmatic Province</a></li>
+<li><a href="/wiki/Fifteen-Twenty_Fracture_Zone" title="Fifteen-Twenty Fracture Zone">Fifteen-Twenty Fracture Zone</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-USGS_understanding-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-USGS_understanding_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">USGS (5 May 1999). <a class="external text" href="http://pubs.usgs.gov/gip/dynamic/understanding.html" rel="nofollow">"Understanding plate motions"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Understanding+plate+motions&amp;rft.date=1999-05-05&amp;rft.au=USGS&amp;rft_id=http%3A%2F%2Fpubs.usgs.gov%2Fgip%2Fdynamic%2Funderstanding.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Hsü, Kenneth J. (1992). <a class="external text" href="https://books.google.com/books?id=ZlQABAAAQBAJ&amp;pg=PA57" rel="nofollow"><i>Challenger at Sea: A Ship That Revolutionized Earth Science</i></a>. <a href="/wiki/Princeton_University_Press" title="Princeton University Press">Princeton University Press</a>. p. 57. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-691-08735-0" title="Special:BookSources/0-691-08735-0">0-691-08735-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Challenger+at+Sea%3A+A+Ship+That+Revolutionized+Earth+Science&amp;rft.pages=57&amp;rft.pub=Princeton+University+Press&amp;rft.date=1992&amp;rft.isbn=0-691-08735-0&amp;rft.aulast=Hs%C3%BC&amp;rft.aufirst=Kenneth+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZlQABAAAQBAJ%26pg%3DPA57&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Redfern, R.; 2001: <i>Origins, the Evolution of Continents, Oceans and Life</i>, <a href="/wiki/University_of_Oklahoma" title="University of Oklahoma">University of Oklahoma</a> Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84188-192-9" title="Special:BookSources/1-84188-192-9">1-84188-192-9</a>, p. 26</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Alexander Hellemans and Brian Bunch, 1989, <i>Timeline of Science</i>, Sidgwick and Jackson, London</span></li>
+<li id="cite_note-Stein-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stein_5-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://ipy.arcticportal.org/ipy-blogs/item/831-a-victory-in-peace-the-german-atlantic-expedition-1925-27" rel="nofollow">Stein, Glenn, <i>A Victory in Peace: The German Atlantic Expedition 1925-27,</i> June 2007</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Maurice_Ewing" title="Maurice Ewing">Ewing, W.M.</a>; Dorman, H.J.; Ericson, J.N.; <a class="mw-redirect" href="/wiki/Bruce_Heezen" title="Bruce Heezen">Heezen, B.C.</a> (1953). "Exploration of the northwest Atlantic mid-ocean canyon". <i><a class="mw-redirect" href="/wiki/Bulletin_of_the_Geological_Society_of_America" title="Bulletin of the Geological Society of America">Bulletin of the Geological Society of America</a></i>. <b>64</b>: 865–868. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1130%2F0016-7606%281953%2964%5B865%3Aeotnam%5D2.0.co%3B2" rel="nofollow">10.1130/0016-7606(1953)64[865:eotnam]2.0.co;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+Geological+Society+of+America&amp;rft.atitle=Exploration+of+the+northwest+Atlantic+mid-ocean+canyon&amp;rft.volume=64&amp;rft.pages=865-868&amp;rft.date=1953&amp;rft_id=info%3Adoi%2F10.1130%2F0016-7606%281953%2964%5B865%3Aeotnam%5D2.0.co%3B2&amp;rft.aulast=Ewing&amp;rft.aufirst=W.M.&amp;rft.au=Dorman%2C+H.J.&amp;rft.au=Ericson%2C+J.N.&amp;rft.au=Heezen%2C+B.C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Heezen, B. C.; <a href="/wiki/Marie_Tharp" title="Marie Tharp">Tharp, M.</a> (1954). "Physiographic diagram of the western North Atlantic". <i><a class="mw-redirect" href="/wiki/Bulletin_of_the_Geological_Society_of_America" title="Bulletin of the Geological Society of America">Bulletin of the Geological Society of America</a></i>. <b>65</b>: 1261.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+Geological+Society+of+America&amp;rft.atitle=Physiographic+diagram+of+the+western+North+Atlantic&amp;rft.volume=65&amp;rft.pages=1261&amp;rft.date=1954&amp;rft.aulast=Heezen&amp;rft.aufirst=B.+C.&amp;rft.au=Tharp%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hill, M.N.; Laughton, A.S. (1954). "Seismic Observations in the Eastern Atlantic, 1952". <i><a class="mw-redirect" href="/wiki/Proceedings_of_the_Royal_Society_of_London_A" title="Proceedings of the Royal Society of London A">Proceedings of the Royal Society of London A</a>: Mathematical and Physical Sciences</i>. <b>222</b> (1150): 348–356. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1098%2Frspa.1954.0078" rel="nofollow">10.1098/rspa.1954.0078</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society+of+London+A%3A+Mathematical+and+Physical+Sciences&amp;rft.atitle=Seismic+Observations+in+the+Eastern+Atlantic%2C+1952&amp;rft.volume=222&amp;rft.issue=1150&amp;rft.pages=348-356&amp;rft.date=1954&amp;rft_id=info%3Adoi%2F10.1098%2Frspa.1954.0078&amp;rft.aulast=Hill&amp;rft.aufirst=M.N.&amp;rft.au=Laughton%2C+A.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Spencer, Edgar W. (1977). <a class="external text" href="https://books.google.com/books?id=uAi0AAAAIAAJ" rel="nofollow"><i>Introduction to the Structure of the Earth</i></a> (2nd ed.). Tokyo: McGraw-Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-085751-2" title="Special:BookSources/0-07-085751-2">0-07-085751-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+the+Structure+of+the+Earth&amp;rft.place=Tokyo&amp;rft.edition=2nd&amp;rft.pub=McGraw-Hill&amp;rft.date=1977&amp;rft.isbn=0-07-085751-2&amp;rft.aulast=Spencer&amp;rft.aufirst=Edgar+W.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DuAi0AAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal" id="CITEREFBurkeDewey1973">Burke, K.; Dewey, J. F. (1973). <a class="external text" href="http://es.ucsc.edu/~rcoe/eart206/Burke&amp;Dewey_Aulacogens-%20TJs_JGeol73.pdf" rel="nofollow">"Plume-generated triple junctions: key indicators in applying plate tectonics to old rocks"</a> <span style="font-size:85%;">(PDF)</span>. <i>The Journal of Geology</i>: 406–433<span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Geology&amp;rft.atitle=Plume-generated+triple+junctions%3A+key+indicators+in+applying+plate+tectonics+to+old+rocks&amp;rft.pages=406-433&amp;rft.date=1973&amp;rft.aulast=Burke&amp;rft.aufirst=K.&amp;rft.au=Dewey%2C+J.+F.&amp;rft_id=http%3A%2F%2Fes.ucsc.edu%2F~rcoe%2Feart206%2FBurke%26Dewey_Aulacogens-%2520TJs_JGeol73.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal" id="CITEREFBurke1976">Burke, K. (1976). <a class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.8997&amp;rep=rep1&amp;type=pdf" rel="nofollow">"Development of graben associated with the initial ruptures of the Atlantic Ocean"</a> <span style="font-size:85%;">(PDF)</span>. <i>Tectonophysics</i>. <b>36</b> (1–3): 93–112. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0040-1951%2876%2990009-3" rel="nofollow">10.1016/0040-1951(76)90009-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tectonophysics&amp;rft.atitle=Development+of+graben+associated+with+the+initial+ruptures+of+the+Atlantic+Ocean&amp;rft.volume=36&amp;rft.issue=1%E2%80%933&amp;rft.pages=93-112&amp;rft.date=1976&amp;rft_id=info%3Adoi%2F10.1016%2F0040-1951%2876%2990009-3&amp;rft.aulast=Burke&amp;rft.aufirst=K.&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.473.8997%26rep%3Drep1%26type%3Dpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMid-Atlantic+Ridge"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=7" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Evans, Rachel. "<a class="external text" href="http://www.loc.gov/loc/lcib/0211/tharp.html" rel="nofollow">Plumbing Depths to Reach New Heights: Marie Tharp Explains Marine Geological Maps.</a>" <i>The Library of Congress Information Bulletin.</i> November 2002.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.mar-eco.no/" rel="nofollow">MAR-ECO, a Census of Marine Life project on life along the Mid-Atlantic Ridge</a></li>
+</ul>
+<div aria-labelledby="Mid-ocean_ridges" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mid-ocean_ridges" title="Template:Mid-ocean ridges"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mid-ocean_ridges" title="Template talk:Mid-ocean ridges"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mid-ocean_ridges&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Mid-ocean_ridges" style="font-size:114%;margin:0 4em"><a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">Mid-ocean ridges</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Present</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Central_Indian_Ridge" title="Central Indian Ridge">Central Indian</a></li>
+<li><a href="/wiki/Chile_Rise" title="Chile Rise">Chile</a></li>
+<li><a href="/wiki/East_Pacific_Rise" title="East Pacific Rise">East Pacific</a></li>
+<li><a href="/wiki/Explorer_Ridge" title="Explorer Ridge">Explorer</a></li>
+<li><a href="/wiki/Gakkel_Ridge" title="Gakkel Ridge">Gakkel</a></li>
+<li><a href="/wiki/Gorda_Ridge" title="Gorda Ridge">Gorda</a></li>
+<li><a href="/wiki/Juan_de_Fuca_Ridge" title="Juan de Fuca Ridge">Juan de Fuca</a></li>
+<li><a class="mw-selflink selflink">Mid-Atlantic</a></li>
+<li><a href="/wiki/Pacific-Antarctic_Ridge" title="Pacific-Antarctic Ridge">Pacific-Antarctic</a></li>
+<li><a href="/wiki/South_American%E2%80%93Antarctic_Ridge" title="South American–Antarctic Ridge">South American-Antarctic</a></li>
+<li><a href="/wiki/Southeast_Indian_Ridge" title="Southeast Indian Ridge">Southeast Indian</a></li>
+<li><a href="/wiki/Southwest_Indian_Ridge" title="Southwest Indian Ridge">Southwest Indian</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:World_Distribution_of_Mid-Oceanic_Ridges.gif"><img alt="World Distribution of Mid-Oceanic Ridges.gif" data-file-height="620" data-file-width="964" height="77" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/World_Distribution_of_Mid-Oceanic_Ridges.gif/120px-World_Distribution_of_Mid-Oceanic_Ridges.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/World_Distribution_of_Mid-Oceanic_Ridges.gif/180px-World_Distribution_of_Mid-Oceanic_Ridges.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/World_Distribution_of_Mid-Oceanic_Ridges.gif/240px-World_Distribution_of_Mid-Oceanic_Ridges.gif 2x" width="120"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Former</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aegir_Ridge" title="Aegir Ridge">Aegir</a></li>
+<li><a href="/wiki/Alpha_Ridge" title="Alpha Ridge">Alpha</a></li>
+<li><a href="/wiki/Kula-Farallon_Ridge" title="Kula-Farallon Ridge">Kula-Farallon</a></li>
+<li><a href="/wiki/Pacific-Farallon_Ridge" title="Pacific-Farallon Ridge">Pacific-Farallon</a></li>
+<li><a href="/wiki/Pacific-Kula_Ridge" title="Pacific-Kula Ridge">Pacific-Kula</a></li>
+<li><a href="/wiki/Phoenix_Ridge" title="Phoenix Ridge">Phoenix</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/242531964" rel="nofollow">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/242531964" rel="nofollow">242531964</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4039662-9" rel="nofollow">4039662-9</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1278
+Cached time: 20171107184035
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.307 seconds
+Preprocessor visited node count: 1168/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37796/2097152 bytes
+Template argument size: 516/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  254.980      1 -total
+ 48.54%  123.769      1 Template:Reflist
+ 20.76%   52.937      2 Template:Convert
+ 14.19%   36.173      1 Template:Cite_web
+ 13.75%   35.070      9 Template:Coord
+ 12.23%   31.194      5 Template:Cite_journal
+ 10.90%   27.796      1 Template:ISBN
+  8.15%   20.780      1 Template:Authority_control
+  4.46%   11.369      1 Template:Catalog_lookup_link
+  4.03%   10.277      2 Template:Cite_book
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:145705-0!canonical and timestamp 20171107184035 and revision id 809199593
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mid-Atlantic_Ridge&amp;oldid=809199593">https://en.wikipedia.org/w/index.php?title=Mid-Atlantic_Ridge&amp;oldid=809199593</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Underwater_ridges_of_the_Atlantic_Ocean" title="Category:Underwater ridges of the Atlantic Ocean">Underwater ridges of the Atlantic Ocean</a></li><li><a href="/wiki/Category:Geology_of_the_Atlantic_Ocean" title="Category:Geology of the Atlantic Ocean">Geology of the Atlantic Ocean</a></li><li><a href="/wiki/Category:Plate_tectonics" title="Category:Plate tectonics">Plate tectonics</a></li><li><a href="/wiki/Category:Geology_of_Iceland" title="Category:Geology of Iceland">Geology of Iceland</a></li><li><a href="/wiki/Category:Geology_of_Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Category:Geology of Saint Helena, Ascension and Tristan da Cunha">Geology of Saint Helena, Ascension and Tristan da Cunha</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mid-Atlantic+Ridge" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mid-Atlantic+Ridge" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Mid-Atlantic_Ridge" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Mid-Atlantic_Ridge" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Mid-Atlantic_Ridge">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Mid-Atlantic_Ridge" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Mid-Atlantic_Ridge" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;oldid=809199593" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mid-Atlantic_Ridge&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q207313" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mid-Atlantic_Ridge&amp;id=809199593" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mid-Atlantic+Ridge">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mid-Atlantic+Ridge&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Mid-Atlantic_Ridge&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Mid-Atlantic_Ridge" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B9%D8%B1%D8%A7%D9%81_%D9%85%D9%86%D8%AA%D8%B5%D9%81_%D8%A7%D9%84%D8%A3%D8%B7%D9%84%D8%B3%D9%8A" hreflang="ar" lang="ar" title="أعراف منتصف الأطلسي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Orta_Atlantika_silsil%C9%99si" hreflang="az" lang="az" title="Orta Atlantika silsiləsi – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Dorsal_mesoatl%C3%A0ntica" hreflang="ca" lang="ca" title="Dorsal mesoatlàntica – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/St%C5%99edoatlantsk%C3%BD_h%C5%99bet" hreflang="cs" lang="cs" title="Středoatlantský hřbet – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Midtatlantiske_ryg" hreflang="da" lang="da" title="Midtatlantiske ryg – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mittelatlantischer_R%C3%BCcken" hreflang="de" lang="de" title="Mittelatlantischer Rücken – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kesk-Atlandi_m%C3%A4estik" hreflang="et" lang="et" title="Kesk-Atlandi mäestik – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CF%83%CE%BF-%CE%91%CF%84%CE%BB%CE%B1%CE%BD%CF%84%CE%B9%CE%BA%CE%AE_%CF%85%CF%86%CE%B1%CE%BB%CE%BF%CF%81%CF%81%CE%AC%CF%87%CE%B7" hreflang="el" lang="el" title="Μεσο-Ατλαντική υφαλορράχη – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Dorsal_Mesoatl%C3%A1ntica" hreflang="es" lang="es" title="Dorsal Mesoatlántica – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Mezatlantika_dorso" hreflang="eo" lang="eo" title="Mezatlantika dorso – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Erdialdeko_Atlantikoko_dortsala" hreflang="eu" lang="eu" title="Erdialdeko Atlantikoko dortsala – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%B4%D8%AA%D9%87_%D9%85%DB%8C%D8%A7%D9%86%DB%8C_%D8%A7%D9%82%DB%8C%D8%A7%D9%86%D9%88%D8%B3_%D8%A7%D8%B7%D9%84%D8%B3" hreflang="fa" lang="fa" title="پشته میانی اقیانوس اطلس – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dorsale_m%C3%A9dio-atlantique" hreflang="fr" lang="fr" title="Dorsale médio-atlantique – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Droim_an_Atlantaigh_L%C3%A1ir" hreflang="ga" lang="ga" title="Droim an Atlantaigh Láir – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Dorsal_mesoatl%C3%A1ntica" hreflang="gl" lang="gl" title="Dorsal mesoatlántica – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8C%80%EC%84%9C%EC%96%91_%EC%A4%91%EC%95%99_%ED%95%B4%EB%A0%B9" hreflang="ko" lang="ko" title="대서양 중앙 해령 – Korean">한국어</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Atlantshafshryggurinn" hreflang="is" lang="is" title="Atlantshafshryggurinn – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Dorsale_medio_atlantica" hreflang="it" lang="it" title="Dorsale medio atlantica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%9B%D7%A1_%D7%94%D7%9E%D7%A8%D7%9B%D7%96-%D7%90%D7%98%D7%9C%D7%A0%D7%98%D7%99" hreflang="he" lang="he" title="הרכס המרכז-אטלנטי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%A3%E1%83%90%E1%83%90%E1%83%A2%E1%83%9A%E1%83%90%E1%83%9C%E1%83%A2%E1%83%98%E1%83%99%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A5%E1%83%94%E1%83%93%E1%83%98" hreflang="ka" lang="ka" title="შუაატლანტიკური ქედი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Mgongo_kati_wa_Atlantiki" hreflang="sw" lang="sw" title="Mgongo kati wa Atlantiki – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Vidusatlantijas_gr%C4%93da" hreflang="lv" lang="lv" title="Vidusatlantijas grēda – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Vidurio_Atlanto_kalnag%C5%ABbris" hreflang="lt" lang="lt" title="Vidurio Atlanto kalnagūbris – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/K%C3%B6z%C3%A9p-Atlanti-h%C3%A1ts%C3%A1g" hreflang="hu" lang="hu" title="Közép-Atlanti-hátság – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Rabung_Tengah_Atlantik" hreflang="ms" lang="ms" title="Rabung Tengah Atlantik – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Mid-Atlantische_Rug" hreflang="nl" lang="nl" title="Mid-Atlantische Rug – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E4%B8%AD%E5%A4%AE%E6%B5%B7%E5%B6%BA" hreflang="ja" lang="ja" title="大西洋中央海嶺 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-ce"><a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%AE%D0%BA%D0%BA%D1%8A%D0%B5%D1%80%D0%B0-%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%D0%BD_%D0%B4%D1%83%D0%BA%D1%8A" hreflang="ce" lang="ce" title="Юккъера-Атлантикан дукъ – Chechen">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Den_midtatlantiske_ryggen" hreflang="no" lang="no" title="Den midtatlantiske ryggen – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Den_midtatlantiske_ryggen" hreflang="nn" lang="nn" title="Den midtatlantiske ryggen – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Grzbiet_%C5%9Ar%C3%B3datlantycki" hreflang="pl" lang="pl" title="Grzbiet Śródatlantycki – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Dorsal_Mesoatl%C3%A2ntica" hreflang="pt" lang="pt" title="Dorsal Mesoatlântica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Dorsala_Atlantic%C4%83" hreflang="ro" lang="ro" title="Dorsala Atlantică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%BD%D0%BE-%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82" hreflang="ru" lang="ru" title="Срединно-Атлантический хребет – Russian">Русский</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Dursali_Mediu_Atl%C3%A0ntica" hreflang="scn" lang="scn" title="Dursali Mediu Atlàntica – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Mid-Atlantic_Ridge" hreflang="simple" lang="simple" title="Mid-Atlantic Ridge – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Srednjeatlantski_hrbet" hreflang="sl" lang="sl" title="Srednjeatlantski hrbet – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D1%9A%D0%BE%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B8_%D0%B3%D1%80%D0%B5%D0%B1%D0%B5%D0%BD" hreflang="sr" lang="sr" title="Средњоатлантски гребен – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Srednjeatlantski_greben" hreflang="sh" lang="sh" title="Srednjeatlantski greben – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Atlantin_keskisel%C3%A4nne" hreflang="fi" lang="fi" title="Atlantin keskiselänne – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Mittatlantiska_ryggen" hreflang="sv" lang="sv" title="Mittatlantiska ryggen – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Atlantik_Ortas%C4%B1_S%C4%B1rt%C4%B1" hreflang="tr" lang="tr" title="Atlantik Ortası Sırtı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%BD%D0%BE-%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82" hreflang="uk" lang="uk" title="Серединно-Атлантичний хребет – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/S%E1%BB%91ng_n%C3%BAi_gi%E1%BB%AFa_%C4%90%E1%BA%A1i_T%C3%A2y_D%C6%B0%C6%A1ng" hreflang="vi" lang="vi" title="Sống núi giữa Đại Tây Dương – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E4%B8%AD%E6%B4%8B%E8%84%8A" hreflang="zh-yue" lang="zh-yue" title="大西洋中洋脊 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B4%8B%E4%B8%AD%E8%84%8A" hreflang="zh" lang="zh" title="大西洋洋中脊 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q207313#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 7 November 2017, at 18:40.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Mid-Atlantic_Ridge&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.307","ppvisitednodes":{"value":1168,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37796,"limit":2097152},"templateargumentsize":{"value":516,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  254.980      1 -total"," 48.54%  123.769      1 Template:Reflist"," 20.76%   52.937      2 Template:Convert"," 14.19%   36.173      1 Template:Cite_web"," 13.75%   35.070      9 Template:Coord"," 12.23%   31.194      5 Template:Cite_journal"," 10.90%   27.796      1 Template:ISBN","  8.15%   20.780      1 Template:Authority_control","  4.46%   11.369      1 Template:Catalog_lookup_link","  4.03%   10.277      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.114","limit":"10.000"},"limitreport-memusage":{"value":4842487,"limit":52428800}},"cachereport":{"origin":"mw1278","timestamp":"20171107184035","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1218"});});</script>
+</body>
+</html>

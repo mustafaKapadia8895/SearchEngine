@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>North Atlantic Current - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"North_Atlantic_Current","wgTitle":"North Atlantic Current","wgCurRevisionId":806738166,"wgRevisionId":806738166,"wgArticleId":21512,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Atlantic Ocean","Barents Sea","Ocean currents","Marine geography stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"North_Atlantic_Current","wgRelevantArticleId":21512,"wgRequestId":"WgHzHgpAAD0AADMssjMAAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q211798","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/North_Atlantic_currents.svg/1200px-North_Atlantic_currents.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/North_Atlantic_Current" rel="alternate"/>
+<link href="/w/index.php?title=North_Atlantic_Current&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=North_Atlantic_Current&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/North_Atlantic_Current" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-North_Atlantic_Current rootpage-North_Atlantic_Current vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">North Atlantic Current</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"North Atlantic Drift" redirects here. For the 2003 rock album by Ocean Color Scene, see <a href="/wiki/North_Atlantic_Drift_(album)" title="North Atlantic Drift (album)">North Atlantic Drift (album)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:North_Atlantic_currents.svg"><img alt="" class="thumbimage" data-file-height="455" data-file-width="512" height="196" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/North_Atlantic_currents.svg/220px-North_Atlantic_currents.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/North_Atlantic_currents.svg/330px-North_Atlantic_currents.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/North_Atlantic_currents.svg/440px-North_Atlantic_currents.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:North_Atlantic_currents.svg" title="Enlarge"></a></div>
+The North Atlantic Current is the first leg in the North Atlantic Subpolar Gyre.</div>
+</div>
+</div>
+<p>The <b>North Atlantic Current</b> (<b>NAC</b>), also known as <b>North Atlantic Drift</b> and <b>North Atlantic Sea Movement</b>, is a powerful warm <a class="mw-redirect" href="/wiki/Western_boundary_current" title="Western boundary current">western boundary current</a> that extends the <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> north-eastward.<sup class="reference" id="cite_ref-Rossby-Abst_1-0"><a href="#cite_note-Rossby-Abst-1">[1]</a></sup></p>
+<p>The NAC originates from where the Gulf Stream turns north at the Southeast Newfoundland Rise, a submarine ridge that stretches south-east from the Grand Banks. The NAC flows northward east of the Grand Banks, from 40°N to 51°N, before turning sharply east to cross the Atlantic. It transports more warm tropical water to northern latitudes than any other boundary current; more than 40 <a href="/wiki/Sverdrup" title="Sverdrup">Sv</a> in the south and 20 Sv as it crosses the Mid-Atlantic Ridge. It reaches speeds of 2 knots near the North American coast. Directed by topography, the NAC meanders heavily but, in contrast to the meanders of the Gulf Stream, the NAC meanders remain stable without breaking off into eddies.<sup class="reference" id="cite_ref-Rossby-Abst_1-1"><a href="#cite_note-Rossby-Abst-1">[1]</a></sup></p>
+<p>The colder parts of the Gulf Stream turn northward near the "tail" of the <a href="/wiki/Grand_Banks_of_Newfoundland" title="Grand Banks of Newfoundland">Grand Banks</a> at 50°W where the <a href="/wiki/Azores_Current" title="Azores Current">Azores Current</a> branches off to flow south of the <a href="/wiki/Azores" title="Azores">Azores</a>. From there the NAC flows north-eastward east of the <a href="/wiki/Flemish_Cap" title="Flemish Cap">Flemish Cap</a> (47°N, 45°W). Approaching the <a href="/wiki/Mid-Atlantic_Ridge" title="Mid-Atlantic Ridge">Mid-Atlantic Ridge</a>, it then turns eastward and becomes much broader and more diffuse. It then splits into a colder, north-eastern branch and a warmer eastern branch. As the warmer branch turns southward most of the subtropical component of the Gulf Stream has been diverted southward and, as a consequence, the North Atlantic is mostly supplied by subpolar waters, including a contribution from the <a href="/wiki/Labrador_Current" title="Labrador Current">Labrador Current</a> recirculated into the NAC at 45°N.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>West of <a href="/wiki/Continental_Europe" title="Continental Europe">Continental Europe</a>, it splits into two major branches. One branch goes southeast, later to become the <a href="/wiki/Canary_Current" title="Canary Current">Canary Current</a> as it passes northwest <a href="/wiki/Africa" title="Africa">Africa</a> and turns southwest. The other major branch continues north along the coast of <a href="/wiki/Northwestern_Europe" title="Northwestern Europe">Northwestern Europe</a>. Other branches include the <a href="/wiki/Irminger_Current" title="Irminger Current">Irminger Current</a> and the <a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian Current</a>. Driven by the global <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">thermohaline circulation</a> (THC), the North Atlantic Current is part of the wind-driven Gulf Stream, which goes further east and north from the <a href="/wiki/North_America" title="North America">North American</a> coast across the <a class="mw-redirect" href="/wiki/Atlantic" title="Atlantic">Atlantic</a> and into the <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a>.</p>
+<p>The North Atlantic Current, together with the Gulf Stream, have a long-lived reputation for having a considerable warming influence on European climate. The principal cause for differences in winter climate between North America and Europe is, however, winds rather than ocean currents.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Current&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/North_Atlantic_Oscillation" title="North Atlantic Oscillation">North Atlantic Oscillation</a></li>
+<li><a href="/wiki/Ocean_gyre" title="Ocean gyre">Ocean gyre</a></li>
+<li><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Current&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Notes</dt>
+</dl>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Rossby-Abst-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rossby-Abst_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rossby-Abst_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFRossby1996">Rossby 1996</a>, Abstract</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#CITEREFLozierOwensCurry1995">Lozier, Owens &amp; Curry 1995</a>, Circulation: Figs 10 and 11, pp. 20–22</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFSeagerBattistiYinGordon2002">Seager et al. 2002</a>, Abstract</span></li>
+</ol>
+</div>
+</div>
+<dl>
+<dt>Sources</dt>
+</dl>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation journal" id="CITEREFLozierOwensCurry1995">Lozier, M. S.; Owens, W. B.; Curry, R. G. (1995). <a class="external text" href="http://www.whoi.edu/science/PO/people/rcurry/pdf_files/Lozier_etal.PiO1995.pdf" rel="nofollow">"The climatology of the North Atlantic"</a> <span style="font-size:85%;">(PDF)</span>. <i>Progress in Oceanography</i>. <b>36</b> (1): 1–44<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorth+Atlantic+Current&amp;rft.atitle=The+climatology+of+the+North+Atlantic&amp;rft.au=Curry%2C+R.+G.&amp;rft.au=Owens%2C+W.+B.&amp;rft.aufirst=M.+S.&amp;rft.aulast=Lozier&amp;rft.date=1995&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Progress+in+Oceanography&amp;rft.pages=1-44&amp;rft.volume=36&amp;rft_id=http%3A%2F%2Fwww.whoi.edu%2Fscience%2FPO%2Fpeople%2Frcurry%2Fpdf_files%2FLozier_etal.PiO1995.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFRossby1996">Rossby, T. (1996). <a class="external text" href="http://climate.fas.harvard.edu/files/climate/files/rossby96rg.pdf" rel="nofollow">"The North Atlantic Current and surrounding waters: At the crossroads"</a> <span style="font-size:85%;">(PDF)</span>. <i>Reviews of Geophysics</i>. <b>34</b> (4): 463–481. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F96RG02214" rel="nofollow">10.1029/96RG02214</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorth+Atlantic+Current&amp;rft.atitle=The+North+Atlantic+Current+and+surrounding+waters%3A+At+the+crossroads&amp;rft.aufirst=T.&amp;rft.aulast=Rossby&amp;rft.date=1996&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Reviews+of+Geophysics&amp;rft.pages=463-481&amp;rft.volume=34&amp;rft_id=http%3A%2F%2Fclimate.fas.harvard.edu%2Ffiles%2Fclimate%2Ffiles%2Frossby96rg.pdf&amp;rft_id=info%3Adoi%2F10.1029%2F96RG02214&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFSeagerBattistiYinGordon2002">Seager, R.; Battisti, D. S.; Yin, J.; Gordon, N.; Naik, N.; Clement, A. C.; Cane, M. A. (2002). <a class="external text" href="http://www.ldeo.columbia.edu/res/div/ocp/gs/pubs/Seager_etal_QJ_2002.pdf" rel="nofollow">"Is the Gulf Stream responsible for Europe's mild winters?"</a> <span style="font-size:85%;">(PDF)</span>. <i>Quarterly Journal of the Royal Meteorological Society</i>. <b>128</b> (586): 2563–2586. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1256%2Fqj.01.128" rel="nofollow">10.1256/qj.01.128</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorth+Atlantic+Current&amp;rft.atitle=Is+the+Gulf+Stream+responsible+for+Europe%27s+mild+winters%3F&amp;rft.au=Battisti%2C+D.+S.&amp;rft.au=Cane%2C+M.+A.&amp;rft.au=Clement%2C+A.+C.&amp;rft.au=Gordon%2C+N.&amp;rft.au=Naik%2C+N.&amp;rft.au=Yin%2C+J.&amp;rft.aufirst=R.&amp;rft.aulast=Seager&amp;rft.date=2002&amp;rft.genre=article&amp;rft.issue=586&amp;rft.jtitle=Quarterly+Journal+of+the+Royal+Meteorological+Society&amp;rft.pages=2563-2586&amp;rft.volume=128&amp;rft_id=http%3A%2F%2Fwww.ldeo.columbia.edu%2Fres%2Fdiv%2Focp%2Fgs%2Fpubs%2FSeager_etal_QJ_2002.pdf&amp;rft_id=info%3Adoi%2F10.1256%2Fqj.01.128&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Current&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://oceancurrents.rsmas.miami.edu/atlantic/north-atlantic.html" rel="nofollow">The North Atlantic Current</a>. Elizabeth Rowe, Arthur J. Mariano, Edward H. Ryan, <a class="mw-redirect" href="/wiki/The_Cooperative_Institute_for_Marine_and_Atmospheric_Studies" title="The Cooperative Institute for Marine and Atmospheric Studies">The Cooperative Institute for Marine and Atmospheric Studies</a></li>
+</ul>
+<div aria-labelledby="Ocean_currents_and_gyres" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ocean" title="Template:Ocean"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ocean" title="Template talk:Ocean"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ocean&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ocean_currents_and_gyres" style="font-size:114%;margin:0 4em"><a href="/wiki/Ocean_current" title="Ocean current">Ocean currents</a> and <a href="/wiki/Ocean_gyre" title="Ocean gyre">gyres</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_current" title="Ocean current">Currents</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Arctic Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/North_Icelandic_Jet" title="North Icelandic Jet">North Icelandic</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Transpolar_Drift_Stream" title="Transpolar Drift Stream">Transpolar Drift Stream</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Atlantic Ocean</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angola_Current" title="Angola Current">Angola</a></li>
+<li><a href="/wiki/Antilles_Current" title="Antilles Current">Antilles</a></li>
+<li><a href="/wiki/Azores_Current" title="Azores Current">Azores</a></li>
+<li><a href="/wiki/Baffin_Island_Current" title="Baffin Island Current">Baffin Island</a></li>
+<li><a href="/wiki/Benguela_Current" title="Benguela Current">Benguela</a></li>
+<li><a href="/wiki/Brazil_Current" title="Brazil Current">Brazil</a></li>
+<li><a href="/wiki/Canary_Current" title="Canary Current">Canary</a></li>
+<li><a href="/wiki/Cape_Horn_Current" title="Cape Horn Current">Cape Horn</a></li>
+<li><a href="/wiki/Caribbean_Current" title="Caribbean Current">Caribbean</a></li>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/East_Iceland_Current" title="East Iceland Current">East Iceland</a></li>
+<li><a href="/wiki/Falkland_Current" title="Falkland Current">Falkland</a></li>
+<li><a href="/wiki/Florida_Current" title="Florida Current">Florida</a></li>
+<li><a href="/wiki/Guinea_Current" title="Guinea Current">Guinea</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Irminger_Current" title="Irminger Current">Irminger</a></li>
+<li><a href="/wiki/Labrador_Current" title="Labrador Current">Labrador</a></li>
+<li><a href="/wiki/Lomonosov_Current" title="Lomonosov Current">Lomonosov</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop</a></li>
+<li><a class="mw-selflink selflink">North Atlantic</a></li>
+<li><a href="/wiki/North_Brazil_Current" title="North Brazil Current">North Brazil</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Portugal_Current" title="Portugal Current">Portugal</a></li>
+<li><a class="new" href="/w/index.php?title=Slope_Jet_Current&amp;action=edit&amp;redlink=1" title="Slope Jet Current (page does not exist)">Slope Jet</a></li>
+<li><a href="/wiki/South_Atlantic_Current" title="South Atlantic Current">South Atlantic</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Greenland_Current" title="West Greenland Current">West Greenland</a></li>
+<li><a href="/wiki/West_Spitsbergen_Current" title="West Spitsbergen Current">West Spitsbergen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Indian Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agulhas_Current" title="Agulhas Current">Agulhas</a></li>
+<li><a href="/wiki/Agulhas_Return_Current" title="Agulhas Return Current">Agulhas Return</a></li>
+<li><a href="/wiki/East_Madagascar_Current" title="East Madagascar Current">East Madagascar</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Indian_Monsoon_Current" title="Indian Monsoon Current">Indian Monsoon</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Leeuwin_Current" title="Leeuwin Current">Leeuwin</a></li>
+<li><a href="/wiki/Madagascar_Current" title="Madagascar Current">Madagascar</a></li>
+<li><a href="/wiki/Mozambique_Current" title="Mozambique Current">Mozambique</a></li>
+<li><a href="/wiki/North_Madagascar_Current" title="North Madagascar Current">North Madagascar</a></li>
+<li><a href="/wiki/Somali_Current" title="Somali Current">Somali</a></li>
+<li><a class="new" href="/w/index.php?title=South_Australian_Counter_Current&amp;action=edit&amp;redlink=1" title="South Australian Counter Current (page does not exist)">South Australian</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Australian_Current" title="West Australian Current">West Australian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Pacific Ocean</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alaska_Current" title="Alaska Current">Alaska</a></li>
+<li><a href="/wiki/Aleutian_Current" title="Aleutian Current">Aleutian</a></li>
+<li><a href="/wiki/California_Current" title="California Current">California</a></li>
+<li><a href="/wiki/Cromwell_Current" title="Cromwell Current">Cromwell</a></li>
+<li><a href="/wiki/Davidson_Current" title="Davidson Current">Davidson</a></li>
+<li><a href="/wiki/East_Australian_Current" title="East Australian Current">East Australian</a></li>
+<li><a href="/wiki/East_Korea_Warm_Current" title="East Korea Warm Current">East Korea Warm</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Kamchatka_Current" title="Kamchatka Current">Kamchatka</a></li>
+<li><a href="/wiki/Kuroshio_Current" title="Kuroshio Current">Kuroshio</a></li>
+<li><a href="/wiki/Mindanao_Current" title="Mindanao Current">Mindanao</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/North_Korea_Cold_Current" title="North Korea Cold Current">North Korea Cold</a></li>
+<li><a href="/wiki/North_Pacific_Current" title="North Pacific Current">North Pacific</a></li>
+<li><a href="/wiki/Oyashio_Current" title="Oyashio Current">Oyashio</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/Tasman_Front" title="Tasman Front">Tasman Front</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Southern Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar</a></li>
+<li><a href="/wiki/Tasman_Outflow" title="Tasman Outflow">Tasman Outflow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_gyre" title="Ocean gyre">Gyres</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Major gyres</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indian_Ocean_Gyre" title="Indian Ocean Gyre">Indian Ocean Gyre</a></li>
+<li><a href="/wiki/North_Atlantic_Gyre" title="North Atlantic Gyre">North Atlantic Gyre</a></li>
+<li><a href="/wiki/South_Atlantic_Gyre" title="South Atlantic Gyre">South Atlantic Gyre</a></li>
+<li><a href="/wiki/North_Pacific_Gyre" title="North Pacific Gyre">North Pacific Gyre</a></li>
+<li><a href="/wiki/South_Pacific_Gyre" title="South Pacific Gyre">South Pacific Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other gyres</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaufort_Gyre" title="Beaufort Gyre">Beaufort Gyre</a></li>
+<li><a href="/wiki/Ross_Gyre" title="Ross Gyre">Ross Gyre</a></li>
+<li><a href="/wiki/Weddell_Gyre" title="Weddell Gyre">Weddell Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/Great_Pacific_garbage_patch" title="Great Pacific garbage patch">Great Pacific garbage patch</a></li>
+<li><a href="/wiki/Indian_Ocean_garbage_patch" title="Indian Ocean garbage patch">Indian Ocean garbage patch</a></li>
+<li><a href="/wiki/Marine_debris" title="Marine debris">Marine debris</a></li>
+<li><a href="/wiki/North_Atlantic_garbage_patch" title="North Atlantic garbage patch">North Atlantic garbage patch</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Globe.svg"><img alt="Stub icon" data-file-height="600" data-file-width="600" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Globe.svg/25px-Globe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Globe.svg/38px-Globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Globe.svg/50px-Globe.svg.png 2x" width="25"/></a></td>
+<td><i>This article about a specific <a href="/wiki/Ocean_current" title="Ocean current">ocean current</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=North_Atlantic_Current&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Marine-current-stub" title="Template:Marine-current-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Marine-current-stub" title="Template talk:Marine-current-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Marine-current-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20171027005547
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.155 seconds
+Preprocessor visited node count: 483/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40573/2097152 bytes
+Template argument size: 86/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.063      1 -total
+ 35.32%   43.821      3 Template:Cite_journal
+ 22.40%   27.788      1 Template:Redirect
+ 15.46%   19.182      3 Template:Navbox
+ 14.62%   18.134      1 Template:Reflist
+ 13.64%   16.923      1 Template:Ocean
+  8.76%   10.871      1 Template:Marine-current-stub
+  7.57%    9.390      1 Template:Asbox
+  6.24%    7.736      3 Template:Harvnb
+  1.35%    1.678      1 Template:Refbegin
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21512-0!canonical and timestamp 20171027005547 and revision id 806738166
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=North_Atlantic_Current&amp;oldid=806738166">https://en.wikipedia.org/w/index.php?title=North_Atlantic_Current&amp;oldid=806738166</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atlantic_Ocean" title="Category:Atlantic Ocean">Atlantic Ocean</a></li><li><a href="/wiki/Category:Barents_Sea" title="Category:Barents Sea">Barents Sea</a></li><li><a href="/wiki/Category:Ocean_currents" title="Category:Ocean currents">Ocean currents</a></li><li><a href="/wiki/Category:Marine_geography_stubs" title="Category:Marine geography stubs">Marine geography stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=North+Atlantic+Current" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=North+Atlantic+Current" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/North_Atlantic_Current" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:North_Atlantic_Current" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/North_Atlantic_Current">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=North_Atlantic_Current&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=North_Atlantic_Current&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/North_Atlantic_Current" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/North_Atlantic_Current" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=North_Atlantic_Current&amp;oldid=806738166" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=North_Atlantic_Current&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q211798" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=North_Atlantic_Current&amp;id=806738166" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=North+Atlantic+Current">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=North+Atlantic+Current&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=North_Atlantic_Current&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D8%A7%D8%B1_%D8%A7%D9%84%D8%A3%D8%B7%D9%84%D8%B3%D9%8A_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A" hreflang="ar" lang="ar" title="تيار الأطلسي الشمالي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C5%9Eimali_Atlantika_c%C9%99r%C9%99yan%C4%B1" hreflang="az" lang="az" title="Şimali Atlantika cərəyanı – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%9E%D0%BD%D0%BE%D1%87%D0%BD%D0%B0-%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D1%8B%D1%87%D0%BD%D0%B0%D0%B5_%D1%86%D1%8F%D1%87%D1%8D%D0%BD%D0%BD%D0%B5" hreflang="be" lang="be" title="Паўночна-Атлантычнае цячэнне – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="bg" lang="bg" title="Северноатлантическо течение – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Corrent_de_l%E2%80%99Atl%C3%A0ntic_Nord" hreflang="ca" lang="ca" title="Corrent de l’Atlàntic Nord – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Severoatlantsk%C3%BD_proud" hreflang="cs" lang="cs" title="Severoatlantský proud – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Nordatlantiske_str%C3%B8m" hreflang="da" lang="da" title="Nordatlantiske strøm – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Nordatlantikstrom" hreflang="de" lang="de" title="Nordatlantikstrom – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/P%C3%B5hja-Atlandi_hoovus" hreflang="et" lang="et" title="Põhja-Atlandi hoovus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Corriente_del_Atl%C3%A1ntico_Norte" hreflang="es" lang="es" title="Corriente del Atlántico Norte – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Nordatlantika_Marfluo" hreflang="eo" lang="eo" title="Nordatlantika Marfluo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Ipar_Atlantikoko_itsaslasterra" hreflang="eu" lang="eu" title="Ipar Atlantikoko itsaslasterra – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%DB%8C%D8%A7%D9%86_%D8%A7%D8%B7%D9%84%D8%B3_%D8%B4%D9%85%D8%A7%D9%84%DB%8C" hreflang="fa" lang="fa" title="جریان اطلس شمالی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/D%C3%A9rive_nord_atlantique" hreflang="fr" lang="fr" title="Dérive nord atlantique – French">Français</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Sjevernoatlantska_struja" hreflang="hr" lang="hr" title="Sjevernoatlantska struja – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Nor%C3%B0ur-Atlantshafsstraumurinn" hreflang="is" lang="is" title="Norður-Atlantshafsstraumurinn – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Corrente_nord-atlantica" hreflang="it" lang="it" title="Corrente nord-atlantica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Mkondo_wa_Atlantiki_ya_Kaskazini" hreflang="sw" lang="sw" title="Mkondo wa Atlantiki ya Kaskazini – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Herka_Atlant%C3%AEka_Bakur" hreflang="ku" lang="ku" title="Herka Atlantîka Bakur – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/%C3%89szak-atlanti-%C3%A1ramlat" hreflang="hu" lang="hu" title="Észak-atlanti-áramlat – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Noord-Atlantische_stroom" hreflang="nl" lang="nl" title="Noord-Atlantische stroom – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B5%B7%E6%B5%81" hreflang="ja" lang="ja" title="北大西洋海流 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Den_nordatlantiske_str%C3%B8mmen" hreflang="no" lang="no" title="Den nordatlantiske strømmen – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Den_nordatlantiske_straumen" hreflang="nn" lang="nn" title="Den nordatlantiske straumen – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Corrent_de_l%27Atlantic_N%C3%B2rd" hreflang="oc" lang="oc" title="Corrent de l'Atlantic Nòrd – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-km"><a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%81%E1%9F%92%E1%9E%9F%E1%9F%82%E1%9E%91%E1%9E%B9%E1%9E%80%E1%9E%A2%E1%9E%B6%E1%9E%8F%E1%9F%92%E1%9E%9B%E1%9E%84%E1%9F%8B%E1%9E%91%E1%9E%B7%E1%9E%80%E1%9E%81%E1%9E%B6%E1%9E%84%E1%9E%87%E1%9E%BE%E1%9E%84" hreflang="km" lang="km" title="ខ្សែទឹកអាត្លង់ទិកខាងជើង – Khmer">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pr%C4%85d_P%C3%B3%C5%82nocnoatlantycki" hreflang="pl" lang="pl" title="Prąd Północnoatlantycki – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Corrente_Norte-Atl%C3%A2ntica" hreflang="pt" lang="pt" title="Corrente Norte-Atlântica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Curentul_Atlanticului_de_Nord" hreflang="ro" lang="ro" title="Curentul Atlanticului de Nord – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Северо-Атлантическое течение – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Severnoatlantski_tok" hreflang="sl" lang="sl" title="Severnoatlantski tok – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0_%D1%81%D1%82%D1%80%D1%83%D1%98%D0%B0" hreflang="sr" lang="sr" title="Северноатлантска струја – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Sjevernoatlantska_struja" hreflang="sh" lang="sh" title="Sjevernoatlantska struja – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Pohjois-Atlantin_virta" hreflang="fi" lang="fi" title="Pohjois-Atlantin virta – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Nordatlantiska_driften" hreflang="sv" lang="sv" title="Nordatlantiska driften – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%BE-%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%82%D0%B5%D1%87%D1%96%D1%8F" hreflang="uk" lang="uk" title="Північно-Атлантична течія – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%BC%82%E6%B5%81" hreflang="zh" lang="zh" title="北大西洋漂流 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q211798#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 October 2017, at 21:17.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=North_Atlantic_Current&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.155","ppvisitednodes":{"value":483,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40573,"limit":2097152},"templateargumentsize":{"value":86,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  124.063      1 -total"," 35.32%   43.821      3 Template:Cite_journal"," 22.40%   27.788      1 Template:Redirect"," 15.46%   19.182      3 Template:Navbox"," 14.62%   18.134      1 Template:Reflist"," 13.64%   16.923      1 Template:Ocean","  8.76%   10.871      1 Template:Marine-current-stub","  7.57%    9.390      1 Template:Asbox","  6.24%    7.736      3 Template:Harvnb","  1.35%    1.678      1 Template:Refbegin"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":2847413,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20171027005547","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

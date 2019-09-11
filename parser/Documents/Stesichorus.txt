@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Stesichorus - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stesichorus","wgTitle":"Stesichorus","wgCurRevisionId":800340831,"wgRevisionId":800340831,"wgArticleId":2341268,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from January 2017","Articles containing Ancient Greek-language text","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Ancient Greek poets","630s BC births","555 BC deaths","7th-century BC Greek people","6th-century BC Greek people","6th-century BC poets","Nine lyric poets","Doric Greek poets","Poets of Magna Graecia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stesichorus","wgRelevantArticleId":2341268,"wgRequestId":"Wf@J1ApAMCYAAGsk5TMAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q332797","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg/1200px-Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stesichorus" rel="alternate"/>
+<link href="/w/index.php?title=Stesichorus&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Stesichorus&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Stesichorus" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Stesichorus rootpage-Stesichorus vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Stesichorus</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a class="image" href="/wiki/File:Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg"><img alt="" class="thumbimage" data-file-height="2097" data-file-width="2337" height="251" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg/280px-Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg/420px-Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg/560px-Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg 2x" width="280"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tabula_iliaca_Musei_Capitolini_MC0316_retouched.jpg" title="Enlarge"></a></div>
+A scene from the <i><a class="mw-redirect" href="/wiki/Tabula_Iliaca" title="Tabula Iliaca">Tabula Iliaca</a>,</i> bearing the inscription "Sack of Troy according to Stesichorus"</div>
+</div>
+</div>
+<p><b>Stesichorus</b> (<a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="grc" xml:lang="grc">Στησίχορος</span>, <i>Stēsikhoros</i>, c. 630 – 555 BC) was the first great <a href="/wiki/Greek_lyric" title="Greek lyric">lyric poet</a> of the West. He is best known for telling epic stories in lyric metres<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> but he is also famous for some ancient traditions about his life, such as his opposition to the tyrant <a href="/wiki/Phalaris" title="Phalaris">Phalaris</a>, and the blindness he is said to have incurred and cured by composing verses first insulting and then flattering to <a href="/wiki/Helen_of_Troy" title="Helen of Troy">Helen of Troy</a>. He was ranked among the <a class="mw-redirect" href="/wiki/Nine_lyric_poets" title="Nine lyric poets">nine lyric poets</a> esteemed by the scholars of <a class="mw-redirect" href="/wiki/Hellenistic" title="Hellenistic">Hellenistic</a> <a href="/wiki/Alexandria" title="Alexandria">Alexandria</a> and yet his work attracted relatively little interest among ancient commentators,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> so that remarkably few fragments of his poetry now survive. As one scholar observed in 1967: "Time has dealt more harshly with Stesichorus than with any other major lyric poet."<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Recent discoveries, recorded on Egyptian papyrus (notably and controversially, the <a href="/wiki/Lille_Stesichorus" title="Lille Stesichorus">Lille Stesichorus</a>),<sup class="reference" id="cite_ref-autogenerated7_4-0"><a href="#cite_note-autogenerated7-4">[4]</a></sup> have led to some improvements in our understanding of his work, confirming his role as a link between <a href="/wiki/Homer" title="Homer">Homer</a>'s epic narrative and the lyric narrative of poets like <a href="/wiki/Pindar" title="Pindar">Pindar</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The following description of the birthplace of the monster <a href="/wiki/Geryon" title="Geryon">Geryon</a>, preserved as a quote by the geographer <a href="/wiki/Strabo" title="Strabo">Strabo</a>,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> is characteristic of the "descriptive fulness" of his style:<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd><span lang="grc" xml:lang="grc">σχεδὸν ἀντιπέρας κλεινᾶς Ἐρυθείας</span></dd>
+<dd>&lt;</dd>
+<dd>                                              &gt; <span lang="grc" xml:lang="grc">Ταρτησ-</span></dd>
+<dd><span lang="grc" xml:lang="grc">σοῦ ποταμοῦ παρὰ παγὰσ ἀπείρονας ἀρ-</span></dd>
+<dd><span lang="grc" xml:lang="grc">γυρορίζους</span></dd>
+<dd><span lang="grc" xml:lang="grc">ἐν κευθμῶνι πέτρας.</span><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>A nineteenth century translation imaginatively fills in the gaps while communicating something of the richness of the language:</p>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>Where monster Geryon first beheld the light,</dd>
+<dd>Famed <a class="mw-redirect" href="/wiki/Erytheia" title="Erytheia">Erytheia</a> rises to the sight;</dd>
+<dd>Born near th' unfathomed silver springs that gleam</dd>
+<dd>'Mid caverned rocks, and feed <a class="mw-redirect" href="/wiki/Tartessus" title="Tartessus">Tartessus</a>' stream.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>Stesichorus exercised an important influence on the representation of myth in 6th century art<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> and on the development of Athenian dramatic poetry.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Chronology"><span class="tocnumber">1.1</span> <span class="toctext">Chronology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Family"><span class="tocnumber">1.2</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Background"><span class="tocnumber">1.3</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Career"><span class="tocnumber">1.4</span> <span class="toctext">Career</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Works"><span class="tocnumber">2</span> <span class="toctext">Works</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#An_.27Homeric.27_simile"><span class="tocnumber">2.1</span> <span class="toctext">An 'Homeric' simile</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#The_26_books"><span class="tocnumber">2.2</span> <span class="toctext">The 26 books</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Spurious_works"><span class="tocnumber">2.3</span> <span class="toctext">Spurious works</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Tabula_Iliaca"><span class="tocnumber">3</span> <span class="toctext">Tabula Iliaca</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stesichorus was born in Metauros (modern <a href="/wiki/Gioia_Tauro" title="Gioia Tauro">Gioia Tauro</a>) in <a href="/wiki/Calabria" title="Calabria">Calabria</a>, Southern Italy<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> c. 630 BC and died in Katane (modern <a href="/wiki/Catania" title="Catania">Catania</a>) in <a href="/wiki/Sicily" title="Sicily">Sicily</a> in 555 BC. Some say that he came from Himera in Sicily, but that was due to him moving from Metauros to Himera later in life. When exiled from <a href="/wiki/Pallantium" title="Pallantium">Pallantium</a> in <a href="/wiki/Arcadia" title="Arcadia">Arcadia</a> he came to Katane (<a href="/wiki/Catania" title="Catania">Catania</a>) and when he died there was buried in front of the gate which is called Stesichorean after him. In date he was later than the lyric poet <a href="/wiki/Alcman" title="Alcman">Alcman</a>, since he was born in the 37th <a href="/wiki/Olympiad" title="Olympiad">Olympiad</a> (632/28 BC). He died in the 56th Olympiad (556/2 BC). He had a brother Mamertinus who was an expert in geometry and a second brother Helianax, a law-giver. He was a lyric poet. His poems are in the Doric dialect and in 26 books. They say that he was blinded for writing abuse of <a href="/wiki/Helen_of_Troy" title="Helen of Troy">Helen</a> and recovered his sight after writing an encomium of Helen, the Palinode, as the result of a dream. He was called Stesichorus because he was the first to establish (<i>stesai</i>) a chorus of singers to the <a href="/wiki/Cithara" title="Cithara">cithara</a>; his name was originally Tisias.</p>
+<h3><span class="mw-headline" id="Chronology">Chronology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=2" title="Edit section: Chronology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The specific dates given by the <i>Suda</i> for Stesichorus have been dismissed by one modern scholar as "specious precision"<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> — its dates for the <i><a href="/wiki/Floruit" title="Floruit">floruit</a></i> of <a href="/wiki/Alcman" title="Alcman">Alcman</a> (the 27th Olympiad), the life of Stesichorus (37th–56th Olympiads) and the birth of <a class="mw-redirect" href="/wiki/Simonides" title="Simonides">Simonides</a> (the 56th Olympiad) virtually lay these three poets end-to-end, a coincidence that seems to underscore a convenient division between old and new styles of poetry.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> Nevertheless, the <i>Suda'</i>s dates "fit reasonably well" with other indications of Stesichorus's life-span — for example, they are consistent with a claim elsewhere in <i>Suda</i> that the poet <a href="/wiki/Sappho" title="Sappho">Sappho</a> was his contemporary, along with <a href="/wiki/Alcaeus_of_Mytilene" title="Alcaeus of Mytilene">Alcaeus</a> and <a class="mw-redirect" href="/wiki/Pittacus" title="Pittacus">Pittacus</a>, and also with the claim, attested by other sources, that <a href="/wiki/Phalaris" title="Phalaris">Phalaris</a> was his contemporary.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> quoted a speech the poet is supposed to have made to the people of Himera warning them against the tyrannical ambitions of Phalaris.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> The Byzantine grammarian <a class="mw-redirect" href="/wiki/Tzetzes" title="Tzetzes">Tzetzes</a> also listed him as a contemporary of the tyrant and yet made him a contemporary of the philosopher <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a> as well.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> According to <a href="/wiki/Lucian" title="Lucian">Lucian</a>, the poet lived to 85 years of age.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> <a class="mw-redirect" href="/wiki/Saint_Jerome" title="Saint Jerome">Hieronymus</a> declared that his poems became sweeter and more swan-like as he approached death,<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> and <a href="/wiki/Cicero" title="Cicero">Cicero</a> knew of a bronzed statue representing him as a bent old man holding a book.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> <a href="/wiki/Eusebius" title="Eusebius">Eusebius</a> dated his <i>floruit</i> in Olympiad 42.2 (611/10 BC) and his death in Olympiad 55.1 (560/59 BC).<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></p>
+<h3><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=3" title="Edit section: Family">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>Suda'</i>s claim that <a href="/wiki/Hesiod" title="Hesiod">Hesiod</a> was the father of Stesichorus can be dismissed as "fantasy"<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> yet it is also mentioned by <a class="mw-redirect" href="/wiki/Tzetzes" title="Tzetzes">Tzetzes</a><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> and the Hesiodic <a class="mw-redirect" href="/wiki/Scholiast" title="Scholiast">scholiast</a> Proclus<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> (one of them however named the mother of Stesichorus via Hesiod as Ctimene and the other as Clymene). According to another tradition known to <a href="/wiki/Cicero" title="Cicero">Cicero</a>, Stesichorus was the <i>grandson</i> of Hesiod<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> yet even this verges on anachronism since Hesiod was composing verses around 700 BC.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> Stesichorus might be regarded as Hesiod's literary "heir" (his treatment of Helen in the Palinode, for example, may have owed much to Hesiod's <i><a href="/wiki/Catalogue_of_Women" title="Catalogue of Women">Catalogue of Women</a></i>)<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> and maybe this was the source of confusion about a family relationship.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> According to <a href="/wiki/Stephanus_of_Byzantium" title="Stephanus of Byzantium">Stephanus of Byzantium</a><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> and the philosopher <a href="/wiki/Plato" title="Plato">Plato</a><sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup> the poet's father was named Euphemus, but an inscription on a <a href="/wiki/Herm" title="Herm">herm</a> from <a class="mw-redirect" href="/wiki/Tivoli,_Italy" title="Tivoli, Italy">Tivoli</a> listed him as Euclides.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> The poet's mathematically inclined brother was named Mamertinus by the <i>Suda</i> but a scholiast in a commentary on <a href="/wiki/Euclid" title="Euclid">Euclid</a> named him Mamercus.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup></p>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=4" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Stesichorus's lyrical treatment of epic themes was well-suited to a western Greek audience, owing to the popularity of hero-cults in southern Italy and <a class="mw-redirect" href="/wiki/Magna_Graeca" title="Magna Graeca">Magna Graeca</a>, as for example the cult of <a href="/wiki/Philoctetes" title="Philoctetes">Philoctetes</a> at <a href="/wiki/Sybaris" title="Sybaris">Sybaris</a>, <a href="/wiki/Diomedes" title="Diomedes">Diomedes</a> at <a href="/wiki/Thurii" title="Thurii">Thurii</a> and the <a class="mw-redirect" href="/wiki/Atreidae" title="Atreidae">Atreidae</a> at <a href="/wiki/Taranto" title="Taranto">Tarentum</a>.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> It was also a sympathetic environment for his most famous poem, The Palinode, composed in praise of Helen, an important cult figure in the Doric diaspora.<sup class="reference" id="cite_ref-autogenerated191_38-0"><a href="#cite_note-autogenerated191-38">[38]</a></sup> On the other hand, the western Greeks were not very different from their eastern counterparts and his poetry cannot be regarded exclusively as a product of the Greek West .<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup> His poetry reveals both <a href="/wiki/Dorians" title="Dorians">Doric</a> and <a href="/wiki/Ionians" title="Ionians">Ionian</a> influences and this is consistent with the <i>Suda'</i>a claim that his birthplace was either Metauria or Himera, both of which were founded by colonists of mixed Ionian/Doric descent.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup> On the other hand, a Doric/Ionian flavour was fashionable among later poets — it is found in the 'choral' lyrics of the Ionian poets <a class="mw-redirect" href="/wiki/Simonides" title="Simonides">Simonides</a> and <a href="/wiki/Bacchylides" title="Bacchylides">Bacchylides</a> — and it might have been fashionable even in Stesichorus's own day.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup> His poetry included a description of the river Himera<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup> as well as praise for the town named after it,<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup> and his poem <i>Geryoneis</i> included a description of Pallantium in Arcadia.<sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup> His possible exile from Arcadia is attributed by one modern scholar to rivalry between <a href="/wiki/Tegea" title="Tegea">Tegea</a> and <a href="/wiki/Sparta" title="Sparta">Sparta</a>.<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup> Traditional accounts indicate that he was politically active in Magna Graeca. Aristotle mentions two public speeches by Stesichorus: one to the people of Himera, warning them against Phalaris, and another to the people of <a href="/wiki/Locri" title="Locri">Locri</a>, warning them against presumption (possibly referring to their war against <a class="mw-redirect" href="/wiki/Rhegium" title="Rhegium">Rhegium</a>).<sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup> <a href="/wiki/Philodemus" title="Philodemus">Philodemus</a> believed that the poet once stood between two armies (which two, he doesn't say) and reconciled them with a song — but there is a similar story about <a href="/wiki/Terpander" title="Terpander">Terpander</a>.<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup> According to the 9th century scholar <a class="mw-redirect" href="/wiki/Photius" title="Photius">Photius</a>, the term <i>eight all</i> (used by gamblers at dice) derives from an expensive burial the poet received outside Catana, including a monument with eight pillars, eight steps and eight corners,<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup> but the 3rd century grammarian <a href="/wiki/Julius_Pollux" title="Julius Pollux">Julius Pollux</a> attributed the same term to an 'eight all ways' tomb given to the poet outside Himera.<sup class="reference" id="cite_ref-49"><a href="#cite_note-49">[49]</a></sup></p>
+<h3><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=5" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many modern scholars don't accept the <i>Suda'</i>s claim that Stesichorus was named for his innovations in <a href="/wiki/Choral_poetry" title="Choral poetry">choral poetry</a> — there are good reasons to believe that his lyrical narratives were composed for solo performance (see <a href="/wiki/Stesichorus#Works" title="Stesichorus">Works</a> below). Moreover the name wasn't unique — there seems to have been more than one poet of this name<sup class="reference" id="cite_ref-autogenerated187_50-0"><a href="#cite_note-autogenerated187-50">[50]</a></sup> (see <a href="/wiki/Stesichorus#Spurious_works" title="Stesichorus">Spurious works</a> below). The <i>Suda</i> in yet another entry refers to the fact, now verified by Papyrus fragments, that Stesichorus composed verses in units of three stanzas (strophe, antistrophe and epode), a format later followed by poets such as <a href="/wiki/Bacchylides" title="Bacchylides">Bacchylides</a> and <a href="/wiki/Pindar" title="Pindar">Pindar</a>. <i>Suda</i> claims this three-stanza format was popularly referred to as <i>the three of Stesichorus</i> in a proverbial saying rebuking cultural buffoons ("You don't even know the three of Stesichorus!"). According to one modern scholar, however, this saying could instead refer to the following three lines of his poem <i>The Palinode</i>, addressed to Helen of Troy:<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[51]</a></sup></p>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>There is no truth in that story,</dd>
+<dd>You didn't ride in the well-rowed galleys,</dd>
+<dd>You didn't reach the walls of Troy.<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[52]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>Helen of Troy's bad character was a common theme among poets such as Sappho and Alcaeus<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[53]</a></sup> and, according to various ancient accounts, Stesichorus viewed her in the same light until she magically punished him with blindness for blaspheming her in one of his poems.<sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[54]</a></sup> According to a colourful account recorded by <a href="/wiki/Pausanias_(geographer)" title="Pausanias (geographer)">Pausanias</a>, she later sent an explanation to Stesichorus via a man from <a href="/wiki/Crotone" title="Crotone">Croton</a>, who was on a pilgrimage to White Island in the Black Sea (near the mouth of the Blue Danube), and it was in response to this that Stesichorus composed the Palinode,<sup class="reference" id="cite_ref-55"><a href="#cite_note-55">[55]</a></sup> absolving her of all blame for the Trojan War and thus restoring himself to full sight.</p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=6" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ancients associated the lyrical qualities of Stesichorus with the voice of the nightingale, as in this quote from the <a href="/wiki/Palatine_Anthology" title="Palatine Anthology">Palatine Anthology</a>: "<i>...at his birth, when he had just reached the light of day, a nightingale, travelling through the air from somewhere or other, perched unnoticed on his lips and struck up her clear song.</i>"<sup class="reference" id="cite_ref-56"><a href="#cite_note-56">[56]</a></sup> The account is repeated by <a href="/wiki/Pliny_the_Elder" title="Pliny the Elder">Pliny the Elder</a><sup class="reference" id="cite_ref-57"><a href="#cite_note-57">[57]</a></sup> but it was the epic qualities of his work that most impressed ancient commentators,<sup class="reference" id="cite_ref-autogenerated187_50-1"><a href="#cite_note-autogenerated187-50">[50]</a></sup> though with some reservations on the part of <a class="mw-redirect" href="/wiki/Quintillian" title="Quintillian">Quintillian</a>:</p>
+<blockquote class="templatequote">
+<p>"The greatness of Stesichorus' genius is shown among other things by his subject-matter: he sings of the most important wars and the most famous commanders and sustains on his lyre the weight of epic poetry. In both their actions and their speeches he gives due dignity to his characters, and if only he had shown restraint he could possibly have been regarded as a close rival of Homer; but he is redundant and diffuse, a fault to be sure but explained by the abundance of what he had to say." Quintillian<sup class="reference" id="cite_ref-58"><a href="#cite_note-58">[58]</a></sup></p>
+</blockquote>
+<p>In a similar vein, <a href="/wiki/Dionysius_of_Halicarnassus" title="Dionysius of Halicarnassus">Dionysius of Halicarnassus</a> commends Stesichorus for "<i>...the magnificence of the settings of his subject matter; in them he has preserved the traits and reputations of his characters</i>",<sup class="reference" id="cite_ref-59"><a href="#cite_note-59">[59]</a></sup> and <a class="mw-redirect" href="/wiki/Longinus_(literature)" title="Longinus (literature)">Longinus</a> puts him in select company with <a href="/wiki/Herodotus" title="Herodotus">Herodotus</a>, <a href="/wiki/Archilochus" title="Archilochus">Archilochus</a> and <a href="/wiki/Plato" title="Plato">Plato</a> as the 'most Homeric' of authors.<sup class="reference" id="cite_ref-60"><a href="#cite_note-60">[60]</a></sup></p>
+<p>Modern scholars tend to accept the general thrust of the ancient comments – even the 'fault' noted by Quintillian gets endorsement: 'longwindedness', as one modern scholar calls it, citing, as proof of it, the interval of 400 lines separating Geryon's death from his eloquent anticipation of it.<sup class="reference" id="cite_ref-61"><a href="#cite_note-61">[61]</a></sup> Similarly, "the repetitiveness and slackness of the style" of the recently discovered Lille papyrus has even been interpreted by one modern scholar as proof of Stesichorean authorship<sup class="reference" id="cite_ref-62"><a href="#cite_note-62">[62]</a></sup> – though others originally used it as an argument against.<sup class="reference" id="cite_ref-autogenerated7_4-1"><a href="#cite_note-autogenerated7-4">[4]</a></sup> Possibly Stesichorus was even more Homeric than ancient commentators realized – they had assumed that he composed verses for performance by choirs (the triadic structure of the stanzas, comprising strophe, antistrophe and epode, is consistent with choreographed movement) but a poem such as the <i>Geryoneis</i> included some 1500 lines and it probably required about four hours to perform – longer than a chorus might reasonably be expected to dance.<sup class="reference" id="cite_ref-63"><a href="#cite_note-63">[63]</a></sup> Moreover, the versatility of lyric meter is suited to solo performance with self-accompaniment on the lyre<sup class="reference" id="cite_ref-64"><a href="#cite_note-64">[64]</a></sup> – which is how Homer himself delivered poetry. Whether or not it was a choral technique, the triadic structure of Stesichorean lyrics allowed for novel arrangements of dactylic meter – the dominant meter in his poems and also the defining meter of Homeric epic – thus allowing for Homeric phrasing to be adapted to new settings. However, Stesichorus did more than recast the form of epic poetry – works such as the <i>Palinode</i> were also a recasting of epic material: in that version of the Trojan War, the combatants fought over a phantom Helen while the real Helen either stayed home or went to Egypt (see a summary<a href="/wiki/Stesichorus#The_26_books" title="Stesichorus">below</a>). The 'Lyric Age' of Greece was in part self-discovery and self-expression – as in the works of Alcaeus and Sappho – but a concern for heroic values and epic themes still endured:</p>
+<blockquote class="templatequote">
+<p>"Stesichorus' <a href="/wiki/Cithara" title="Cithara">citharodic</a> narrative points to the simultaneous coexistence of different literary genres and currents in an age of great artistic energy and experimentation. It is one of the exciting qualities of early Greek culture that forms continue to evolve, but the old traditions still remain strong as points of stability and proud community, unifying but not suffocating." – Charles Seagal.<sup class="reference" id="cite_ref-autogenerated200_65-0"><a href="#cite_note-autogenerated200-65">[65]</a></sup></p>
+</blockquote>
+<h3><span id="An_'Homeric'_simile"></span><span class="mw-headline" id="An_.27Homeric.27_simile">An 'Homeric' simile</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=7" title="Edit section: An 'Homeric' simile">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Homeric qualities of Stesichorus' poetry are demonstrated in a fragment of his poem <i>Geryoneis</i> describing the death of the monster Geryon. A scholiast writing in a margin on Hesiod's <i><a href="/wiki/Theogony" title="Theogony">Theogony</a></i> noted that Stesichorus gave the monster wings, six hands and six feet, whereas Hesiod himself had only described it as 'three-headed'.<sup class="reference" id="cite_ref-66"><a href="#cite_note-66">[66]</a></sup> yet Stesichorus adapted Homeric motifs to create a humanized portrait of the monster,<sup class="reference" id="cite_ref-67"><a href="#cite_note-67">[67]</a></sup> whose death in battle mirrors the death of <a href="/wiki/Gorgythion" title="Gorgythion">Gorgythion</a> in Homer's <i>Iliad</i>, translated here by <a class="mw-redirect" href="/wiki/Richard_Lattimore" title="Richard Lattimore">Richard Lattimore</a>:</p>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>He bent drooping his head to one side, as a garden poppy</dd>
+<dd>bends beneath the weight of its yield and the rains of springtime;" (<i>Iliad</i> 8.306-8)<sup class="reference" id="cite_ref-68"><a href="#cite_note-68">[68]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>Homer here transforms Gorgythion's death in battle into a thing of beauty—the poppy has not wilted or died.<sup class="reference" id="cite_ref-69"><a href="#cite_note-69">[69]</a></sup> Stesichorus adapted the simile to restore Death's ugliness while still retaining the poignancy of the moment:<sup class="reference" id="cite_ref-70"><a href="#cite_note-70">[70]</a></sup></p>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>Then Geryon rested his neck to one side
+<dl>
+<dd>As might a poppy when it mars</dd>
+</dl>
+</dd>
+<dd>The tenderness of its body shedding
+<dl>
+<dd>Suddenly all of its petals... (<i>Geryoneis</i>)<sup class="reference" id="cite_ref-71"><a href="#cite_note-71">[71]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>The mutual self-reflection of the two passages is part of the novel aesthetic experience that Stesichorus here puts into play.<sup class="reference" id="cite_ref-72"><a href="#cite_note-72">[72]</a></sup> The enduring freshness of his art, in spite of its epic traditions, is borne out by <a href="/wiki/Ammianus_Marcellinus" title="Ammianus Marcellinus">Ammianus Marcellinus</a> in an anecdote about Socrates: happening to overhear, on the eve of his own execution, the rendition of a song of Stesichorus, the old philosopher asked to be taught it: "So that I may know something more when I depart from life." <sup class="reference" id="cite_ref-73"><a href="#cite_note-73">[73]</a></sup></p>
+<p>See <a href="/wiki/Lille_Stesichorus#The_Queen.27s_Speech" title="Lille Stesichorus">The Queen's Speech</a> in the Lille fragment for more on Stesichorus's style.</p>
+<h3><span class="mw-headline" id="The_26_books">The 26 books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=8" title="Edit section: The 26 books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>His works, according to the Suda, were collected in 26 books but each of these was probably a long, narrative poem. The titles of more than half of them are recorded by ancient sources:<sup class="reference" id="cite_ref-74"><a href="#cite_note-74">[74]</a></sup></p>
+<ul>
+<li><b>Helen</b>: This might have been the poem in which he portrayed Helen of Troy according to convention as a bad character.<sup class="reference" id="cite_ref-autogenerated191_38-1"><a href="#cite_note-autogenerated191-38">[38]</a></sup> His interest in the Trojan epic cycle is evinced in a number of works.<sup class="reference" id="cite_ref-75"><a href="#cite_note-75">[75]</a></sup></li>
+<li><b>Helen: Palinodes</b>: An introduction to a poem of <a href="/wiki/Theocritus" title="Theocritus">Theocritus</a> refers to "the first book of Stesichorus's <i>Helen</i>",<sup class="reference" id="cite_ref-76"><a href="#cite_note-76">[76]</a></sup> indicating that there were at least two books under this title. Similarly, a commentary recorded on a papyrus, indicates there were two Palinodes, one censuring Homer, the other Hesiod for the false story that Helen went to Troy.<sup class="reference" id="cite_ref-77"><a href="#cite_note-77">[77]</a></sup> <a href="/wiki/Dio_Chrysostom" title="Dio Chrysostom">Dio Chrysostom</a> summarises two accounts of the Palinode, one in which Helen never sailed for Troy, and a second in which she ended up in Egypt<sup class="reference" id="cite_ref-78"><a href="#cite_note-78">[78]</a></sup> – only her image arrived at Troy. It is not known if either of the two Palinodes was separate from the <i>Helen</i> book(s).<sup class="reference" id="cite_ref-79"><a href="#cite_note-79">[79]</a></sup></li>
+<li><b>Sack of Troy</b>: Some scholars think the content of the poem can be deduced from a relief carved onto a monument near Rome, but this is contentious – see the section below <a href="/wiki/Stesichorus#Tabula_Iliaca" title="Stesichorus">Tabula Iliaca</a>.</li>
+<li><b>Wooden Horse</b>: The title was recorded in a fragmentary form on a roll of papyrus: Στη...Ίππ.. ~ Ste(sichorus's Wooden) Hor(se). Possibly it was just an alternative title for <i>Sack of Troy</i>.<sup class="reference" id="cite_ref-80"><a href="#cite_note-80">[80]</a></sup></li>
+<li><b>Nostoi</b> (<b>The Returns</b>): This dealt with the return of the Greek warriors from Troy.</li>
+<li><b>Geryoneis</b>: This relates the theft by <a href="/wiki/Heracles" title="Heracles">Heracles</a> of <a href="/wiki/Geryon" title="Geryon">Geryon</a>'s cattle. Many recently discovered fragments allow us a glimpse of the poet at work over the length of the entire poem.<sup class="reference" id="cite_ref-autogenerated193_81-0"><a href="#cite_note-autogenerated193-81">[81]</a></sup> It includes:
+<ul>
+<li><i>romantic geography</i> – descriptions of the Sun's voyage in a golden cup under Ocean, of <a href="/wiki/Eurytion" title="Eurytion">Eurytion</a>'s homeland, the 'all-golden' <a href="/wiki/Hesperides" title="Hesperides">Hesperides</a>, and of Pallanteum in <a href="/wiki/Arcadia" title="Arcadia">Arcadia</a>, which possibly featured as the home of the <a href="/wiki/Centaur" title="Centaur">Centaur</a>, Pholus;</li>
+<li><i>poignant speeches</i> based on Homeric models – a proud speech by Geryon to Heracles that echoes Sarpedon's speech to Glaucus,<sup class="reference" id="cite_ref-82"><a href="#cite_note-82">[82]</a></sup> and an exchange between Geryon and his mother <a href="/wiki/Callirrhoe_(Oceanid)" title="Callirrhoe (Oceanid)">Callirhoe</a> that echoes exchanges between <a href="/wiki/Achilles" title="Achilles">Achilles</a>-<a href="/wiki/Thetis" title="Thetis">Thetis</a> <sup class="reference" id="cite_ref-83"><a href="#cite_note-83">[83]</a></sup> and <a href="/wiki/Hector" title="Hector">Hector</a>-<a href="/wiki/Hecuba" title="Hecuba">Hecuba</a>;<sup class="reference" id="cite_ref-84"><a href="#cite_note-84">[84]</a></sup></li>
+<li><i>heroic action</i>, again with Homeric colouring – a description of the dying Geryon that echoes the death of <a href="/wiki/Gorgythion" title="Gorgythion">Gorgythion</a>.<sup class="reference" id="cite_ref-85"><a href="#cite_note-85">[85]</a></sup></li>
+</ul>
+</li>
+<li><b>Cerberus</b>: The title is mentioned by <a href="/wiki/Julius_Pollux" title="Julius Pollux">Julius Pollux</a> only because it included the Greek word for a purse but clearly it relates to Heracles's descent into <a href="/wiki/Hades" title="Hades">Hades</a> to fetch <a href="/wiki/Cerberus" title="Cerberus">Cerberus</a>.<sup class="reference" id="cite_ref-86"><a href="#cite_note-86">[86]</a></sup></li>
+<li><b>Cycnus</b>: A <a class="mw-redirect" href="/wiki/Scholiast" title="Scholiast">scholiast</a> commenting on a poem by Pindar summarises the story: Heracles's final triumph over <a href="/wiki/Cycnus" title="Cycnus">Cycnus</a> after an initial defeat.<sup class="reference" id="cite_ref-87"><a href="#cite_note-87">[87]</a></sup></li>
+<li><b>Skylla</b>: The title is mentioned by a scholiast on <a href="/wiki/Apollonius_of_Rhodes" title="Apollonius of Rhodes">Apollonius of Rhodes</a> in a passing reference to <a class="mw-redirect" href="/wiki/Skylla" title="Skylla">Skylla</a>'s parentage<sup class="reference" id="cite_ref-88"><a href="#cite_note-88">[88]</a></sup> and possibly it involved Heracles.<sup class="reference" id="cite_ref-autogenerated193_81-1"><a href="#cite_note-autogenerated193-81">[81]</a></sup></li>
+<li><b>Thebaid</b>, <i>Seven Against Thebes</i>?: These two titles are conjectured by one modern scholar<sup class="reference" id="cite_ref-89"><a href="#cite_note-89">[89]</a></sup> as appropriate for the longest fragment attributed to Stesichorus – discovered in 1974 among the wrappings of a mummy of the 2nd century BC stored at the university of <a href="/wiki/Lille" title="Lille">Lille</a>, generally known as <i>The Lille Stesichorus</i>. It presents a speech by a Theban queen, possibly <a href="/wiki/Jocasta" title="Jocasta">Jocasta</a>, and some scholars have denied attribution to Stesichorus on account of its "drab, repetitious flaccidity".<sup class="reference" id="cite_ref-90"><a href="#cite_note-90">[90]</a></sup> But opinions are mixed and one scholar sees in it "...Stesichorus' full mastery of his technique, handling epic situations and characters with the flexibility and poignancy of lyric."<sup class="reference" id="cite_ref-autogenerated200_65-1"><a href="#cite_note-autogenerated200-65">[65]</a></sup></li>
+<li><b>Eriphyle</b>: The title is mentioned by <a href="/wiki/Sextus_Empiricus" title="Sextus Empiricus">Sextus Empiricus</a> in relation to an imaginative account of <a href="/wiki/Asclepius" title="Asclepius">Asclepius</a> raising the dead at Thebes.<sup class="reference" id="cite_ref-91"><a href="#cite_note-91">[91]</a></sup> Evidently it concerns <a href="/wiki/Eriphyle" title="Eriphyle">Eriphyle</a>'s role in the Theban epic cycle but with an imaginative twist.</li>
+<li><b>Europa</b>: The title is mentioned by a scholiast on the <a class="mw-redirect" href="/wiki/Phoenissae" title="Phoenissae">Phoenissae</a> of <a href="/wiki/Euripides" title="Euripides">Euripides</a> in relation to Stesichorus's imaginative variation on the traditional tale of <a href="/wiki/Cadmus" title="Cadmus">Cadmus</a>, the brother of <a href="/wiki/Europa_(mythology)" title="Europa (mythology)">Europa</a>, sowing dragon's teeth – Stesichorus presented <a href="/wiki/Athena" title="Athena">Athena</a> in that role.<sup class="reference" id="cite_ref-92"><a href="#cite_note-92">[92]</a></sup></li>
+<li><b>Oresteia</b>: It came in two parts. The title is mentioned by a scholiast on <i><a href="/wiki/Peace_(play)" title="Peace (play)">Peace</a></i>, a play by <a href="/wiki/Aristophanes" title="Aristophanes">Aristophanes</a>, attributing some of the lyrics to a borrowing from Stesichorus's poem.<sup class="reference" id="cite_ref-93"><a href="#cite_note-93">[93]</a></sup> The 'second' <i>Oresteia</i> is mentioned in a scholiast's comment on <a class="mw-redirect" href="/wiki/Dionysius_of_Thrace" title="Dionysius of Thrace">Dionysius of Thrace</a>, according to which Stesichorus attributed the discovery of the Greek alphabet to <a href="/wiki/Palamedes_(mythology)" title="Palamedes (mythology)">Palamedes</a>.<sup class="reference" id="cite_ref-94"><a href="#cite_note-94">[94]</a></sup></li>
+<li><b>Boar-hunters</b>: <a href="/wiki/Athenaeus" title="Athenaeus">Athenaeus</a> mentions the title when quoting a description of a boar nosing the earth and the poem evidently concerned <a href="/wiki/Meleager" title="Meleager">Meleager</a> and the <a href="/wiki/Calydonian_Boar" title="Calydonian Boar">Calydonian Boar</a>.<sup class="reference" id="cite_ref-95"><a href="#cite_note-95">[95]</a></sup></li>
+<li><b>Funeral Games of <a href="/wiki/Pelias" title="Pelias">Pelias</a></b>: The title is recorded by <a href="/wiki/Zenobius" title="Zenobius">Zenobius</a>,<sup class="reference" id="cite_ref-96"><a href="#cite_note-96">[96]</a></sup> <a href="/wiki/Athenaeus" title="Athenaeus">Athenaeus</a><sup class="reference" id="cite_ref-97"><a href="#cite_note-97">[97]</a></sup> and <a href="/wiki/Etymologicum_Magnum" title="Etymologicum Magnum">Etymologicum Magnum</a>,<sup class="reference" id="cite_ref-98"><a href="#cite_note-98">[98]</a></sup> the last two of which also include a handful of quotes.</li>
+</ul>
+<h3><span class="mw-headline" id="Spurious_works">Spurious works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=9" title="Edit section: Spurious works">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some poems were wrongly attributed to Stesichorus by ancient sources, including <a class="mw-redirect" href="/wiki/Bucolic_poetry" title="Bucolic poetry">bucolic poems</a> and some love songs such as <i>Calyce</i> and <i>Rhadine</i>. It is possible that these are the works of another Stesichorus belonging to the fourth century, mentioned in the <a class="mw-redirect" href="/wiki/Marmor_Parium" title="Marmor Parium">Marmor Parium</a>.<sup class="reference" id="cite_ref-99"><a href="#cite_note-99">[99]</a></sup></p>
+<h2><span class="mw-headline" id="Tabula_Iliaca">Tabula Iliaca</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=10" title="Edit section: Tabula Iliaca">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Bovillae" title="Bovillae">Bovillae</a>, about twelve miles outside Rome, was the original site of a monument dating from the Augustan period and now located in the <a class="mw-redirect" href="/wiki/Capitoline_Museum" title="Capitoline Museum">Capitoline Museum</a>. The stone monument features scenes from the fall of Troy, depicted in low relief, and an inscription: <span lang="grc" xml:lang="grc">Ιλίου Πέρσις κατα Στησίχορον</span> ('Sack of Troy according to Stesichorus').<sup class="reference" id="cite_ref-100"><a href="#cite_note-100">[100]</a></sup> Scholars are divided as to whether or not it accurately depicts incidents described by Stesichorus in his poem <i>Sack of Troy</i>. There is, for example, a scene showing <a href="/wiki/Aeneas" title="Aeneas">Aeneas</a> and his father <a href="/wiki/Anchises" title="Anchises">Anchises</a> departing 'for <a class="extiw" href="https://en.wiktionary.org/wiki/Hesperia" title="wikt:Hesperia">Hesperia</a>' with 'sacred objects', which might have more to do with the poetry of <a href="/wiki/Virgil" title="Virgil">Virgil</a> than with that of Stesichorus.<sup class="reference" id="cite_ref-101"><a href="#cite_note-101">[101]</a></sup><sup class="reference" id="cite_ref-102"><a href="#cite_note-102">[102]</a></sup><sup class="reference" id="cite_ref-103"><a href="#cite_note-103">[103]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Charles Segal, "Archaic Choral Lyric" in <i>The Cambridge History of Classical Literature: Greek Literature</i>, P. Easterling and B. Knox (eds.), Cambridge University Press (1985), page 186</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">D.A. Campbell (ed.), <i>Greek Lyric</i> Vol 3, Loeb Classical Library (1991) page 5</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">David Campbell, <i>Greek Lyric Poetry</i>, Bristol Classical Press (1982), page 253, reprinted from 1967 Macmillan edition</span></li>
+<li id="cite_note-autogenerated7-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated7_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated7_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">P.J. Parsons, "The Lille Stesichorus", <i>Zeitschreift für Papyrologie und Epigraphik</i> Vol. 26 (1977), pages 7–36</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Charles Segal, "Archaic Choral Lyric" in <i>The Cambridge History of Classical Literature: Greek Literature</i>, P. Easterling and B. Knox (eds.), Cambridge University Press (1985), page 187</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Strabo 3.2.11 = Stesichorus S7 = <i>PMG</i> 184.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Charles Segal, "Archaic Choral Lyric" in <i>The Cambridge History of Classical Literature: Greek Literature</i>, P. Easterling and B. Knox (eds.), Cambridge University Press (1985), page 188</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Stesichorus (S7 Loeb): D.A. Campbell (ed.),<i>Greek Lyric</i> Vol 3, Loeb Classical Library (1991) page 64</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Sir Edward Bromhead, <i>The Remains of Stesichorus in an English Version</i>, (1849), page 11 <a class="external text" href="https://books.google.com/books?id=NkwEAAAAQAAJ" rel="nofollow">Google digitalized version</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">C.M. Bowra, <i>Greek Lyric Poetry</i>, Oxford University Press (1961), pages 119–26</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Richard Jebb, <i>Bacchylides: The poems and fragments</i> Cambridge University Press (1905), page 32 <a class="external text" href="https://archive.org/stream/bacchylidespoem00jebbgoog#page/n53/mode/1up" rel="nofollow">Google digitalized version</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.britannica.com/EBchecked/topic/565868/Stesichorus" rel="nofollow">"Stesichorus"</a>. <i>Encyclopædia Britannica</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclop%C3%A6dia+Britannica&amp;rft.atitle=Stesichorus&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F565868%2FStesichorus&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStesichorus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20140714184346/http://writershistory.com/index.php?option=com_content&amp;task=view&amp;id=820&amp;Itemid=32" rel="nofollow">"Writers History - Stesichorus"</a>. <i>writershistory.com</i>. Archived from <a class="external text" href="http://writershistory.com/index.php?option=com_content&amp;task=view&amp;id=820&amp;Itemid=32" rel="nofollow">the original</a> on 2014-07-14.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=writershistory.com&amp;rft.atitle=Writers+History+-+Stesichorus&amp;rft_id=http%3A%2F%2Fwritershistory.com%2Findex.php%3Foption%3Dcom_content%26task%3Dview%26id%3D820%26Itemid%3D32&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStesichorus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.calabria.nu/magna.htm#Like" rel="nofollow">"Ooops! I can't find the page you're looking for"</a>. <i>calabria.nu</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=calabria.nu&amp;rft.atitle=Ooops%21+I+can%27t+find+the+page+you%27re+looking+for&amp;rft_id=http%3A%2F%2Fwww.calabria.nu%2Fmagna.htm%23Like&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStesichorus"><span style="display:none;"> </span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since January 2017">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://books.google.com/books?id=xFhMG7G1q5kC&amp;pg=PA254&amp;lpg=PA254&amp;dq=Stesichorus+was+born+in+Metauros&amp;source=bl&amp;ots=RDiNzxAeNk&amp;sig=bhoz-8O94Ns0NdqfrJaJDV5azC0&amp;hl=en&amp;sa=X&amp;ei=I0y1U4XFDoemkQW1_ICYCw&amp;ved=0CC8Q6AEwBA#v=onepage&amp;q=Stesichorus%20was%20born%20in%20Metauros&amp;f=false" rel="nofollow">"Aristotle, Rhetoric II"</a>. <i>google.com.au</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=google.com.au&amp;rft.atitle=Aristotle%2C+Rhetoric+II&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxFhMG7G1q5kC%26pg%3DPA254%26lpg%3DPA254%26dq%3DStesichorus%2Bwas%2Bborn%2Bin%2BMetauros%26source%3Dbl%26ots%3DRDiNzxAeNk%26sig%3Dbhoz-8O94Ns0NdqfrJaJDV5azC0%26hl%3Den%26sa%3DX%26ei%3DI0y1U4XFDoemkQW1_ICYCw%26ved%3D0CC8Q6AEwBA%23v%3Donepage%26q%3DStesichorus%2520was%2520born%2520in%2520Metauros%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStesichorus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20140714225605/http://www.forgottenbooks.com/readbook_text/A_History_of_Ancient_Greek_Literature_1000014498/125" rel="nofollow">"p.114-5. A History of Ancient Greek Literature"</a>. <i>forgottenbooks.com</i>. Archived from <a class="external text" href="http://www.forgottenbooks.com/readbook_text/A_History_of_Ancient_Greek_Literature_1000014498/125" rel="nofollow">the original</a> on 2014-07-14.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=forgottenbooks.com&amp;rft.atitle=p.114-5.+A+History+of+Ancient+Greek+Literature&amp;rft_id=http%3A%2F%2Fwww.forgottenbooks.com%2Freadbook_text%2FA_History_of_Ancient_Greek_Literature_1000014498%2F125&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStesichorus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">M.L.West, 'Stesichorus', <i>The Classical Quarterly, New Series</i> Vol.21, No.2 (Nov. 1971) page 302</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 186-7</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">, Campbell in <i>Loeb</i> page 3</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Aristotle <i>Rhet." 2.20.1393b, cited by David A.Campbell,</i> Greek Lyric III: Stesichorus, Ibycus, Simonides and Others<i>, Loeb Classical Library (1991), page 39</i></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Tzetzes <i>Vit.Hes.</i> 18, cited by David A.Campbell, <i>Greek Lyric III: Stesichorus, Ibycus, Simonides and Others</i>, Loeb Classical Library (1991), page 33</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Lucian <i>Macr.</i>, cited by David A.Campbell, <i>Greek Lyric III: Stesichorus, Ibycus, Simonides and Others</i>, Loeb Classical Library (1991), page 33</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Hieronymus <i>Epistles</i> 52.3, David A.Campbell, <i>Greek Lyric III: Stesichorus, Ibycus, Simonides and Others</i>, Loeb Classical Library (1991), page 33</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Cicero <i>Verr.</i> 2.2.86, cited by David A.Campbell, <i>Greek Lyric III: Stesichorus, Ibycus, Simonides and Others</i>, Loeb Classical Library (1991), page 45</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Eusebius <i>Chron.</i>, cited by David A.Campbell, <i>Greek Lyric III: Stesichorus, Ibycus, Simonides and Others</i>, Loeb Classical Library (1991), page 31</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Cambell, <i>Loeb</i> page 35</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Tzetzes <i>Vit.Hes.</i> 18, cited by Campbell, <i>Loeb</i> page 35</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Proclus <i>Hes. Op.</i> 271a, cited by Campbell in <i>Loeb</i> page 35</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Cicero <i>De Rep. 2.20</i>, cited by Campbell in <i>Loeb</i> page 37</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Jasper Griffin, "Greek Myth and Hesiod", J. Boardman, J. Griffin and O. Murray (eds), <i>The Oxford History of the Classical World</i>, Oxford University Press (1986), page 88</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Charles Segal, "Archaic Choral Lyric" in <i>The Cambridge History of Classical Literature: Greek Literature</i>, Cambridge University Press (1985), page 191</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Richard Lattimore translation, "Hesiod" Intro. pp. 5, The University of Michigan Press, 1959</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Stephanus of Byzantium <a class="mw-redirect" href="/wiki/S.v." title="S.v.">s.v.</a> <span lang="grc" xml:lang="grc">Μάταυρος</span>, cited by Campbell in <i>Loeb</i> page 35</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Plato <i>Phaedrus</i> 244a, cited by Campbell in <i>Loeb</i> page 37</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a href="/wiki/Inscriptiones_Graecae" title="Inscriptiones Graecae">Inscriptiones Graecae</a> xiv 1213, cited by Campbell in <i>Loeb</i> page 37</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Proclus in <i>Euclid Prolog. 2</i>, cited by Campbell in <i>Loeb</i> page 37</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Richard Jebb, <i>Bacchylides: The poems and fragments</i> Cambridge Uni Press (1905), page 32</span></li>
+<li id="cite_note-autogenerated191-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated191_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated191_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 191</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">G.O.Hutchinson, <i>Greek Lyric Poetry: a commentary on selected larger pieces</i>, Oxford University Press (2001), page 113</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 186</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">G.O.Hutchinson, <i>Greek Lyric Poetry: a commentary on selected larger pieces</i>, Oxford University press (2001), page 115</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Vibius Sequester, <i>de fluminibus fontibus</i> etc, cited by Campbell in <i>Loeb</i> page 181</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Himerius <i>Orationes</i> 27.27, cited by Campbell in <i>Loeb</i> page 181</span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">Pausanias 8.3.2, cited by Campbell in <i>Loeb</i> page 89</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">W.G.Forrest, <i>A History of Sparta 950–192 BC</i>, page 76, cited by Campbell in <i>Loeb</i> page 28, note 4</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Aristotle <i>Rhet.</i> 2.21. 1394b-95a, cited by Campbell in <i>Loeb</i> page 39</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Phildemus <i>Mus.</i> 1.30.31ss, cited by Campbell in <i>Loeb</i> page 41</span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Photius <i>Lexicon</i>, cited by Campbell in <i>Loeb</i> page 45</span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text">Pollux 9.100, cited by Campbell in <i>Loeb</i> page 43</span></li>
+<li id="cite_note-autogenerated187-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated187_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated187_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 187</span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text">note 2 to <i>Suda</i> T 943, Campbell in <i>Loeb</i> page 49</span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text">Plato <i>Phaedr. 243a, cited by Campbell in</i> Loeb <i>page 93</i></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text">Sappho 16.6–10 and Alcaeus B 10 <i>PLF</i>, cited by Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 191</span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text">Isocrates <i>Hel.</i> 64, cited by Campbell in <i>Loeb</i>, page 93</span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text">Pausanias 3.19.11–13, cited by Campbell in <i>Loeb</i>, page 41 (Campbell's translation: "In the Black Sea off the mouths of the Danube there is an island called White Island...<i>note: Actually off the estuary of the Dnieper.</i>")</span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><i>Anth.Pal.</i> 2.125ss, cited by David Cambell, <i>Loeb</i>, pages 59</span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text">Plin.<i>N.H.</i>10.82, cited by David Cambell, <i>Loeb</i>, page 55</span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text">Quintilian <i>Inst.</i>10.1.62, cited by David Cambell, <i>Loeb</i>, pages 59</span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text">Dion.Hal.<i>Imit.</i>2.421, cited by David Cambell, <i>Loeb</i>, pages 55</span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text">Longinus <i>de subl.</i>13.3, cited by David Cambell, <i>Loeb</i>, pages 55</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text">David A. Campbell, <i>Greek Lyric III</i>, Loeb Classical Library (1991), page 4</span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 186, note 2</span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text">C.O.Pavese, <i>Tradizione e generi poetici della Graecia arcaica</i>, Rome (1972), cited by C.Segal, <i>The Cambridge History of Greek Literature</i>, page 187</span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text">M.L.West, 'Stesichorus', <i>Classical Quarterly</i> 21 (1971) pages 302–14, cited by D.Campbell in <i>Greek Lyric III</i>, page 5</span></li>
+<li id="cite_note-autogenerated200-65"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated200_65-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated200_65-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 200</span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text">Schol.Hes.<i>Theog.</i>287, cited by David Cambell, <i>Loeb</i>, page 89</span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 190, 194–95</span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><i>Iliad</i> 8.306-8, translated by Richard Lattimore, <i>The Iliad of Homer</i>, University of Chicago Press (1951)</span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text">Susanne Lindgren Wofford, <i>The Choice of Achilles: The Ideology of Figure in the Epic</i>. Stanford: Stanford University Press, 1992.</span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 190</span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><i>Geryoneis</i>, P.Oxy.2617 fr.5, cited by D.Campbell, <i>Greek Lyric III</i> page 76</span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text">Richard Garner, <i>From Homer to Tragedy: the art of allusion in Greek poetry</i>, Routledge (1990), page 17</span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text">Amm.Marc.28.4.15, cited by D.Campbell, <i>Greek Lyric III</i> page 56</span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text">David A. Campbell, <i>Greek Lyric Poetry</i>, Bristol Classical Press (1982), page 254</span></li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text">See M. Noussia-Fantuzzi in M. Fantuzzi and C. Tsagalis, eds., "The Epic Cycle and Its Ancient Reception," 2015; also P. J. Finglass and A. Kelly, eds. <i>Stesichorus in Context</i>, 2015.</span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text">Argum.Theocr.18, cited by David Cambell, <i>Loeb</i>, page 91</span></li>
+<li id="cite_note-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-77">^</a></b></span> <span class="reference-text">P.Oxy.2506 fr.26col.i, cited by David Cambell, <i>Loeb</i>, page 97</span></li>
+<li id="cite_note-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-78">^</a></b></span> <span class="reference-text">Dio Chrysostom <i>Or.</i>11.40s, cited by David Cambell, <i>Loeb</i>, page 95</span></li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-79">^</a></b></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 192</span></li>
+<li id="cite_note-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-80">^</a></b></span> <span class="reference-text">David Cambell, <i>Loeb</i>, pages 109, 119</span></li>
+<li id="cite_note-autogenerated193-81"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated193_81-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated193_81-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Charles Segal, 'Archaic Choral Lyric' – P. Easterling and E. Kenney (eds), <i>The Cambridge History of Classical Literature I: Greek Literature</i>, Cambridge University Press (1985), page 193</span></li>
+<li id="cite_note-82"><span class="mw-cite-backlink"><b><a href="#cite_ref-82">^</a></b></span> <span class="reference-text"><i>Iliad</i> 12.310-280</span></li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><b><a href="#cite_ref-83">^</a></b></span> <span class="reference-text"><i>Iliad</i> 18</span></li>
+<li id="cite_note-84"><span class="mw-cite-backlink"><b><a href="#cite_ref-84">^</a></b></span> <span class="reference-text"><i>Iliad</i> 22</span></li>
+<li id="cite_note-85"><span class="mw-cite-backlink"><b><a href="#cite_ref-85">^</a></b></span> <span class="reference-text"><i>Iliad</i> 8.306-8.</span></li>
+<li id="cite_note-86"><span class="mw-cite-backlink"><b><a href="#cite_ref-86">^</a></b></span> <span class="reference-text">Pollux 10.152, cited by David Cambell, <i>Loeb</i>, page 121</span></li>
+<li id="cite_note-87"><span class="mw-cite-backlink"><b><a href="#cite_ref-87">^</a></b></span> <span class="reference-text">Schol.A.Pind.10.19, cited by David Cambell, <i>Loeb</i>, page 123</span></li>
+<li id="cite_note-88"><span class="mw-cite-backlink"><b><a href="#cite_ref-88">^</a></b></span> <span class="reference-text">Schol.Ap.Rhod.4.825-31, cited by David Cambell, <i>Loeb</i>, page 133</span></li>
+<li id="cite_note-89"><span class="mw-cite-backlink"><b><a href="#cite_ref-89">^</a></b></span> <span class="reference-text">David Cambell, <i>Loeb</i>, page 137</span></li>
+<li id="cite_note-90"><span class="mw-cite-backlink"><b><a href="#cite_ref-90">^</a></b></span> <span class="reference-text">Anne Burnett, 'Jocasta in the West: The Lille Stesichorus<i>,</i> Classical Antiquity <i>Vol.7, No.2 (Oct 1988) page 107</i></span></li>
+<li id="cite_note-91"><span class="mw-cite-backlink"><b><a href="#cite_ref-91">^</a></b></span> <span class="reference-text">Sextus Empiricus <i>adv.mathem.</i> 1.261, cited by David Cambell, <i>Loeb</i>, page 97</span></li>
+<li id="cite_note-92"><span class="mw-cite-backlink"><b><a href="#cite_ref-92">^</a></b></span> <span class="reference-text">Schol.Eur.<i>Phoen.</i> 670, cited by David Cambell, <i>Loeb</i>, page 101</span></li>
+<li id="cite_note-93"><span class="mw-cite-backlink"><b><a href="#cite_ref-93">^</a></b></span> <span class="reference-text">Ar.<i>Pax</i> 797ss, cited by David Cambell, <i>Loeb</i>, page 127</span></li>
+<li id="cite_note-94"><span class="mw-cite-backlink"><b><a href="#cite_ref-94">^</a></b></span> <span class="reference-text">Schola.Vat. in Dion.Thrac. <i>Art.</i> 6, cited by David Cambell, <i>Loeb</i>, page 129</span></li>
+<li id="cite_note-95"><span class="mw-cite-backlink"><b><a href="#cite_ref-95">^</a></b></span> <span class="reference-text">Athen. 3.95d, cited by David Cambell, <i>Loeb</i>, page 133</span></li>
+<li id="cite_note-96"><span class="mw-cite-backlink"><b><a href="#cite_ref-96">^</a></b></span> <span class="reference-text">Zenobius vi 44, cited by David Cambell, <i>Loeb</i>, page 63</span></li>
+<li id="cite_note-97"><span class="mw-cite-backlink"><b><a href="#cite_ref-97">^</a></b></span> <span class="reference-text">Athenaeus 4.172de, cited by David Cambell, <i>Loeb</i>, page 63</span></li>
+<li id="cite_note-98"><span class="mw-cite-backlink"><b><a href="#cite_ref-98">^</a></b></span> <span class="reference-text"><i>Et.Mag.</i> 544.54, cited by David Cambell, <i>Loeb</i>, page 61</span></li>
+<li id="cite_note-99"><span class="mw-cite-backlink"><b><a href="#cite_ref-99">^</a></b></span> <span class="reference-text"><i>Marm.Par.</i> Ep.50, cited by Charles Segal in 'Archaic Choral Lyric' page 192</span></li>
+<li id="cite_note-100"><span class="mw-cite-backlink"><b><a href="#cite_ref-100">^</a></b></span> <span class="reference-text"><a href="/wiki/Inscriptiones_Graecae" title="Inscriptiones Graecae">I.G.14.1284</a></span></li>
+<li id="cite_note-101"><span class="mw-cite-backlink"><b><a href="#cite_ref-101">^</a></b></span> <span class="reference-text">Zahra Newby, <i>Art and Inscription in the Ancient World', Cambridge University Press (2006), Introduction</i></span></li>
+<li id="cite_note-102"><span class="mw-cite-backlink"><b><a href="#cite_ref-102">^</a></b></span> <span class="reference-text">David A.Campbell, <i>Greek Lyric III</i>, Loeb Classical Library (1991), page 107</span></li>
+<li id="cite_note-103"><span class="mw-cite-backlink"><b><a href="#cite_ref-103">^</a></b></span> <span class="reference-text">Charles Seagal, <i>Archaic Choral Lyric</i>, 'The Cambridge History of Classical Literature I: Greek Literature', Cambridge University Press (1985), page 196, note 1</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/W._S._Barrett" title="W. S. Barrett">Barrett, W. S.</a>, <i>Greek Lyric, Tragedy, and Textual Criticism: Collected Papers</i>, edited for publication by M. L. West (Oxford &amp; New York, 2007)</li>
+<li><a href="/wiki/Anne_Carson" title="Anne Carson">Carson, Anne</a>, <i><a href="/wiki/Autobiography_of_Red" title="Autobiography of Red">Autobiography of Red</a></i>. Modern retelling of Stesichoros' fragments.</li>
+<li>Plato, <i><a href="/wiki/Phaedrus_(dialogue)" title="Phaedrus (dialogue)">Phaedrus</a></i>.</li>
+<li>M. Davies, <i>Poetarum Melicorum Graecorum Fragmenta</i> (PMGF) vol. 1, Oxford 1991: testimonies of his life and works pp. 134–151, fragments pp. 152–234 (previously D. L. Page, <i>Poetae Melici Graeci</i> (PMG), Oxford 1962, and <i>Supplementum Lyricis Graecis</i> (SLG), Oxford 1974).</li>
+<li>D. A. Campbell, <i>Greek Lyric III: Stesichorus, Ibycus, Simonides and Others</i> (Loeb Classical Library).</li>
+<li><a href="/wiki/Gregory_Hutchinson_(academic)" title="Gregory Hutchinson (academic)">G. O. Hutchinson</a>, <i>Greek Lyric Poetry: A Commentary on Selected Larger Pieces (Alcman, Stesichorus, Sappho, Alcaeus, Ibycus, Anacreon, Simonides, Bacchylides, Pindar, Sophocles, Euripides),</i> Oxford, 2001.</li>
+<li>J. M. Edmonds, <i>Lyra Graeca II</i>, pp. 23 (Loeb Classical Library) Harvard University Press, 1958</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stesichorus&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="image" href="/wiki/File:Wikisource-logo.svg"><img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/></a> Greek <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article: <a class="extiw" href="https://en.wikisource.org/wiki/el:%CE%A3%CF%84%CE%B7%CF%83%CE%AF%CF%87%CE%BF%CF%81%CE%BF%CF%82" title="s:el:Στησίχορος">Στησίχορος</a></li>
+</ul>
+<p><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Stesichorus" title="commons:Category:Stesichorus">Stesichorus</a> at Wikimedia Commons</p>
+<div aria-labelledby="Nine_lyric_poets.C2.A0.E2.80.94_Ancient_Greek_literature" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lyric_poets" title="Template:Lyric poets"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lyric_poets" title="Template talk:Lyric poets"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lyric_poets&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Nine_lyric_poets.C2.A0.E2.80.94_Ancient_Greek_literature" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Nine_lyric_poets" title="Nine lyric poets">Nine lyric poets</a> — <a href="/wiki/Ancient_Greek_literature" title="Ancient Greek literature">Ancient Greek literature</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alcman" title="Alcman">Alcman</a></li>
+<li><a href="/wiki/Sappho" title="Sappho">Sappho</a></li>
+<li><a href="/wiki/Alcaeus_of_Mytilene" title="Alcaeus of Mytilene">Alcaeus</a></li>
+<li><a href="/wiki/Anacreon" title="Anacreon">Anacreon</a></li>
+<li><a class="mw-selflink selflink">Stesichorus</a></li>
+<li><a href="/wiki/Ibycus" title="Ibycus">Ibycus</a></li>
+<li><a href="/wiki/Simonides_of_Ceos" title="Simonides of Ceos">Simonides</a></li>
+<li><a href="/wiki/Pindar" title="Pindar">Pindar</a></li>
+<li><a href="/wiki/Bacchylides" title="Bacchylides">Bacchylides</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/79398301" rel="nofollow">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/79398301" rel="nofollow">79398301</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="http://id.loc.gov/authorities/names/n81003957" rel="nofollow">n81003957</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a class="external text" href="http://isni.org/isni/0000000106551389" rel="nofollow">0000 0001 0655 1389</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/118617966" rel="nofollow">118617966</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a class="external text" href="https://www.idref.fr/031333206" rel="nofollow">031333206</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12256827h" rel="nofollow">cb12256827h</a> <a class="external text" href="http://data.bnf.fr/ark:/12148/cb12256827h" rel="nofollow">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1210
+Cached time: 20171105215949
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.405 seconds
+Preprocessor visited node count: 2306/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23260/2097152 bytes
+Template argument size: 2364/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 2.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  334.854      1 -total
+ 43.26%  144.864      1 Template:Reflist
+ 15.87%   53.142     10 Template:Category_handler
+ 14.96%   50.094      8 Template:Lang
+ 13.92%   46.609      5 Template:Cite_web
+ 10.79%   36.139      1 Template:Lang-grc-gre
+  9.32%   31.203      1 Template:Commons_category-inline
+  8.44%   28.277      1 Template:Sister-inline
+  4.66%   15.604      1 Template:Dead_link
+  4.52%   15.150      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2341268-0!canonical and timestamp 20171105215948 and revision id 800340831
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stesichorus&amp;oldid=800340831">https://en.wikipedia.org/w/index.php?title=Stesichorus&amp;oldid=800340831</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ancient_Greek_poets" title="Category:Ancient Greek poets">Ancient Greek poets</a></li><li><a href="/wiki/Category:630s_BC_births" title="Category:630s BC births">630s BC births</a></li><li><a href="/wiki/Category:555_BC_deaths" title="Category:555 BC deaths">555 BC deaths</a></li><li><a href="/wiki/Category:7th-century_BC_Greek_people" title="Category:7th-century BC Greek people">7th-century BC Greek people</a></li><li><a href="/wiki/Category:6th-century_BC_Greek_people" title="Category:6th-century BC Greek people">6th-century BC Greek people</a></li><li><a href="/wiki/Category:6th-century_BC_poets" title="Category:6th-century BC poets">6th-century BC poets</a></li><li><a href="/wiki/Category:Nine_lyric_poets" title="Category:Nine lyric poets">Nine lyric poets</a></li><li><a href="/wiki/Category:Doric_Greek_poets" title="Category:Doric Greek poets">Doric Greek poets</a></li><li><a href="/wiki/Category:Poets_of_Magna_Graecia" title="Category:Poets of Magna Graecia">Poets of Magna Graecia</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2017" title="Category:Articles with dead external links from January 2017">Articles with dead external links from January 2017</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stesichorus" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Stesichorus" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Stesichorus" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Stesichorus" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Stesichorus">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Stesichorus&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Stesichorus&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Stesichorus" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Stesichorus" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stesichorus&amp;oldid=800340831" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stesichorus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q332797" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stesichorus&amp;id=800340831" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stesichorus">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stesichorus&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Stesichorus&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Stesichorus" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%B7%D0%B8%D1%85%D0%BE%D1%80" hreflang="bg" lang="bg" title="Стезихор – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Estes%C3%ADcor" hreflang="ca" lang="ca" title="Estesícor – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/St%C3%A9sichoros_z_Himery" hreflang="cs" lang="cs" title="Stésichoros z Himery – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Stesichoros" hreflang="da" lang="da" title="Stesichoros – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Stesichoros" hreflang="de" lang="de" title="Stesichoros – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B7%CF%83%CE%AF%CF%87%CE%BF%CF%81%CE%BF%CF%82" hreflang="el" lang="el" title="Στησίχορος – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Estes%C3%ADcoro" hreflang="es" lang="es" title="Estesícoro – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Stesi%C4%A5oro" hreflang="eo" lang="eo" title="Stesiĥoro – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-ext"><a class="interlanguage-link-target" href="https://ext.wikipedia.org/wiki/Estes%C3%ADcoru" hreflang="ext" lang="ext" title="Estesícoru – Extremaduran">Estremeñu</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/St%C3%A9sichore" hreflang="fr" lang="fr" title="Stésichore – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Estes%C3%ADcoro" hreflang="gl" lang="gl" title="Estesícoro – Galician">Galego</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8D%D5%BF%D5%A5%D5%BD%D5%AB%D6%84%D5%B8%D6%80" hreflang="hy" lang="hy" title="Ստեսիքոր – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Stesikhoros" hreflang="id" lang="id" title="Stesikhoros – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Stesicoro" hreflang="it" lang="it" title="Stesicoro – Italian">Italiano</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Stesichorus" hreflang="la" lang="la" title="Stesichorus – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/St%C4%93sihors" hreflang="lv" lang="lv" title="Stēsihors – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Szteszik%C3%B3rusz" hreflang="hu" lang="hu" title="Szteszikórusz – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mwl"><a class="interlanguage-link-target" href="https://mwl.wikipedia.org/wiki/Stes%C3%ADcoro" hreflang="mwl" lang="mwl" title="Stesícoro – Mirandese">Mirandés</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Stesichorus" hreflang="nl" lang="nl" title="Stesichorus – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%B7%E3%82%B3%E3%83%AD%E3%82%B9" hreflang="ja" lang="ja" title="ステシコロス – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Stesikhoros" hreflang="no" lang="no" title="Stesikhoros – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Stezychor" hreflang="pl" lang="pl" title="Stezychor – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Estes%C3%ADcoro" hreflang="pt" lang="pt" title="Estesícoro – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%81%D0%B8%D1%85%D0%BE%D1%80" hreflang="ru" lang="ru" title="Стесихор – Russian">Русский</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Stes%C3%ACcuru" hreflang="scn" lang="scn" title="Stesìcuru – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Stesihor" hreflang="sh" lang="sh" title="Stesihor – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Stesikhoros" hreflang="fi" lang="fi" title="Stesikhoros – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Stesichoros" hreflang="sv" lang="sv" title="Stesichoros – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%81%D1%96%D1%85%D0%BE%D1%80" hreflang="uk" lang="uk" title="Стесіхор – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%96%AF%E7%89%B9%E8%A5%BF%E5%85%8B%E9%B2%81%E6%96%AF" hreflang="zh" lang="zh" title="斯特西克鲁斯 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q332797#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 September 2017, at 23:04.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Stesichorus&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.405","ppvisitednodes":{"value":2306,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23260,"limit":2097152},"templateargumentsize":{"value":2364,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  334.854      1 -total"," 43.26%  144.864      1 Template:Reflist"," 15.87%   53.142     10 Template:Category_handler"," 14.96%   50.094      8 Template:Lang"," 13.92%   46.609      5 Template:Cite_web"," 10.79%   36.139      1 Template:Lang-grc-gre","  9.32%   31.203      1 Template:Commons_category-inline","  8.44%   28.277      1 Template:Sister-inline","  4.66%   15.604      1 Template:Dead_link","  4.52%   15.150      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.064","limit":"10.000"},"limitreport-memusage":{"value":3002348,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20171105215949","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":523,"wgHostname":"mw1210"});});</script>
+</body>
+</html>

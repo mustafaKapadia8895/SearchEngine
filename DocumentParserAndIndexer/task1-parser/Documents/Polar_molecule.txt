@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Chemical polarity - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chemical_polarity","wgTitle":"Chemical polarity","wgCurRevisionId":807019231,"wgRevisionId":807019231,"wgArticleId":361038,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2015","All articles needing additional references","Physical chemistry","Chemical properties","Dimensionless numbers of chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chemical_polarity","wgRelevantArticleId":361038,"wgRequestId":"WfmFgQpAADoAAETa9mAAAABB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Polar_molecule","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Chemical_polarity#Polar_molecules","wgWikibaseItemId":"Q506623","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.5" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/1/15/Water-elpot-transparent-3D-balls.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chemical_polarity#Polar_molecules" rel="alternate"/>
+<link href="/w/index.php?title=Chemical_polarity&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Chemical_polarity&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Chemical_polarity#Polar_molecules" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chemical_polarity rootpage-Chemical_polarity vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Chemical polarity</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Polar_molecule&amp;redirect=no" title="Polar molecule">Polar molecule</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Polar molecule" and "Nonpolar" redirect here. For other uses of the term "Polar", see <a class="mw-redirect mw-disambig" href="/wiki/Polar_(disambiguation)" title="Polar (disambiguation)">Polar</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Chemical_polarity&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Water-elpot-transparent-3D-balls.png"><img alt="" class="thumbimage" data-file-height="926" data-file-width="1100" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Water-elpot-transparent-3D-balls.png/250px-Water-elpot-transparent-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Water-elpot-transparent-3D-balls.png/375px-Water-elpot-transparent-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Water-elpot-transparent-3D-balls.png/500px-Water-elpot-transparent-3D-balls.png 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Water-elpot-transparent-3D-balls.png" title="Enlarge"></a></div>
+A <a class="mw-redirect" href="/wiki/Water_molecule" title="Water molecule">water molecule</a>, a commonly used example of polarity. Two charges are present with a negative charge in the middle (red shade), and a positive charge at the ends (blue shade).</div>
+</div>
+</div>
+<p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, <b>polarity</b> is a separation of <a href="/wiki/Electric_charge" title="Electric charge">electric charge</a> leading to a molecule or its <a class="mw-redirect" href="/wiki/Chemical_group" title="Chemical group">chemical groups</a> having an electric <a href="/wiki/Electric_dipole_moment" title="Electric dipole moment">dipole</a> or <a class="mw-redirect" href="/wiki/Multipole_moments" title="Multipole moments">multipole</a> moment.</p>
+<p>Polar molecules must contain polar <a href="/wiki/Chemical_bond" title="Chemical bond">bonds</a> due to a difference in <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a> between the bonded atoms. A polar molecule with two or more polar bonds must have a <a href="/wiki/Molecular_geometry" title="Molecular geometry">geometry</a> which is asymmetric in at least one direction, so that the <a href="/wiki/Bond_dipole_moment" title="Bond dipole moment">bond dipoles</a> do not cancel each other.</p>
+<p>Polar molecules interact through dipole–dipole <a href="/wiki/Intermolecular_force" title="Intermolecular force">intermolecular forces</a> and <a class="mw-redirect" href="/wiki/Hydrogen_bonds" title="Hydrogen bonds">hydrogen bonds</a>. Polarity underlies a number of physical properties including <a href="/wiki/Surface_tension" title="Surface tension">surface tension</a>, <a href="/wiki/Solubility" title="Solubility">solubility</a>, and melting and boiling points.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Polarity_of_bonds"><span class="tocnumber">1</span> <span class="toctext">Polarity of bonds</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Classification"><span class="tocnumber">1.1</span> <span class="toctext">Classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Polarity_of_molecules"><span class="tocnumber">2</span> <span class="toctext">Polarity of molecules</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Polar_molecules"><span class="tocnumber">2.1</span> <span class="toctext">Polar molecules</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Nonpolar_molecules"><span class="tocnumber">2.2</span> <span class="toctext">Nonpolar molecules</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Amphiphilic_molecules"><span class="tocnumber">2.3</span> <span class="toctext">Amphiphilic molecules</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Predicting_molecule_polarity"><span class="tocnumber">3</span> <span class="toctext">Predicting molecule polarity</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Electrical_deflection_of_water"><span class="tocnumber">4</span> <span class="toctext">Electrical deflection of water</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Polarity_of_bonds">Polarity of bonds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=1" title="Edit section: Polarity of bonds">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:204px;max-width:204px">
+<div class="tsingle" style="margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Hydrogen-fluoride-3D-balls.png"><img alt="" data-file-height="506" data-file-width="1100" height="92" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hydrogen-fluoride-3D-balls.png/200px-Hydrogen-fluoride-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hydrogen-fluoride-3D-balls.png/300px-Hydrogen-fluoride-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hydrogen-fluoride-3D-balls.png/400px-Hydrogen-fluoride-3D-balls.png 2x" width="200"/></a></div>
+</div>
+<div class="tsingle" style="margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Hydrogen-fluoride-elpot-transparent-3D-balls.png"><img alt="" data-file-height="883" data-file-width="1100" height="161" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hydrogen-fluoride-elpot-transparent-3D-balls.png/200px-Hydrogen-fluoride-elpot-transparent-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hydrogen-fluoride-elpot-transparent-3D-balls.png/300px-Hydrogen-fluoride-elpot-transparent-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hydrogen-fluoride-elpot-transparent-3D-balls.png/400px-Hydrogen-fluoride-elpot-transparent-3D-balls.png 2x" width="200"/></a></div>
+</div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">In a molecule of <a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">hydrogen fluoride</a> (HF), the more <a class="mw-redirect" href="/wiki/Electronegative" title="Electronegative">electronegative</a> atom (<a href="/wiki/Fluoride" title="Fluoride">fluoride</a>) is shown in yellow. Because the electrons spend more time by the fluorine atom in the H−F bond, the red represents partially negatively charged regions, while blue represents partially positively charged regions.</div>
+</div>
+</div>
+<p>Not all atoms attract electrons with the same force. The amount of "pull" an atom exerts on its electrons is called its <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a>. Atoms with high electronegativities – such as <a href="/wiki/Fluorine" title="Fluorine">fluorine</a>, <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, and <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> – exert a greater pull on electrons than atoms with lower electronegativities such as <a href="/wiki/Alkali_metal" title="Alkali metal">alkali metals</a> and <a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">alkaline earth metals</a>. In a bond, this leads to unequal sharing of electrons between the atoms, as electrons will be drawn closer to the atom with the higher electronegativity.</p>
+<p>Because electrons have a negative charge, the unequal sharing of electrons within a bond leads to the formation of an <a class="mw-redirect" href="/wiki/Electric_dipole" title="Electric dipole">electric dipole</a>: a separation of positive and negative electric charge. Because the amount of charge separated in such dipoles is usually smaller than a <a class="mw-redirect" href="/wiki/Fundamental_charge" title="Fundamental charge">fundamental charge</a>, they are called <a class="mw-redirect" href="/wiki/Partial_charges" title="Partial charges">partial charges</a>, denoted as δ+ (<a href="/wiki/Delta_(letter)" title="Delta (letter)">delta</a> plus) and δ− (delta minus). These symbols were introduced by <a href="/wiki/Christopher_Kelk_Ingold" title="Christopher Kelk Ingold">Christopher Kelk Ingold</a> and <a class="new" href="/w/index.php?title=Edith_Hilda_Ingold&amp;action=edit&amp;redlink=1" title="Edith Hilda Ingold (page does not exist)">Edith Hilda Ingold</a> in 1926.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The <a href="/wiki/Bond_dipole_moment" title="Bond dipole moment">bond dipole moment</a> is calculated by multiplying the amount of charge separated and the distance between the charges.</p>
+<p>These dipoles within molecules can interact with dipoles in other molecules, creating <a href="/wiki/Intermolecular_force#Dipole-dipole_interactions" title="Intermolecular force">dipole-dipole intermolecular forces</a>.</p>
+<h3><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=2" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bonds can fall between one of two extremes – being completely nonpolar or completely polar. A completely nonpolar bond occurs when the electronegativities are identical and therefore possess a difference of zero. A completely polar bond is more correctly called an <a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">ionic bond</a>, and occurs when the difference between electronegativities is large enough that one atom actually takes an electron from the other. The terms "polar" and "nonpolar" are usually applied to <a href="/wiki/Covalent_bond" title="Covalent bond">covalent bonds</a>, that is, bonds where the polarity is not complete. To determine the polarity of a covalent bond using numerical means, the difference between the electronegativity of the atoms is used.</p>
+<p>Bond polarity is typically divided into three groups that are loosely based on the difference in electronegativity between the two bonded atoms. According to the <a href="/wiki/Electronegativity#Pauling_electronegativity" title="Electronegativity">Pauling scale</a>:</p>
+<ul>
+<li><i>Nonpolar bonds</i> generally occur when the difference in <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a> between the two atoms is less than 0.5</li>
+<li><i>Polar bonds</i> generally occur when the difference in electronegativity between the two atoms is roughly between 0.5 and 2.0</li>
+<li><i><a class="mw-redirect" href="/wiki/Ionic_bonds" title="Ionic bonds">Ionic bonds</a></i> generally occur when the difference in electronegativity between the two atoms is greater than 2.0</li>
+</ul>
+<p><a href="/wiki/Linus_Pauling" title="Linus Pauling">Pauling</a> based this classification scheme on the <i>partial ionic character</i> of a bond, which is an approximate function of the difference in electronegativity between the two bonded atoms. He estimated that a difference of 1.7 corresponds to 50% ionic character, so that a greater difference corresponds to a bond which is predominantly ionic.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>As a <a href="/wiki/Introduction_to_quantum_mechanics" title="Introduction to quantum mechanics">quantum-mechanical</a> description, Pauling proposed that the <a href="/wiki/Wave_function" title="Wave function">wave function</a> for a polar molecule AB is a <a href="/wiki/Linear_combination" title="Linear combination">linear combination</a> of wave functions for covalent and ionic molecules: ψ = aψ(A:B) + bψ(A<sup>+</sup>B<sup>−</sup>). The amount of covalent and ionic character depends on the values of the squared coefficients a<sup>2</sup> and b<sup>2</sup>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Polarity_of_molecules">Polarity of molecules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=3" title="Edit section: Polarity of molecules">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>See also <a href="/wiki/Dipole#Molecular_dipoles" title="Dipole">dipole § Molecular dipoles</a>.</i></dd>
+</dl>
+<p>While the molecules can be described as "polar covalent", "nonpolar covalent", or "ionic", this is often a relative term, with one molecule simply being <i>more polar</i> or <i>more nonpolar</i> than another. However, the following properties are typical of such molecules.</p>
+<p>A molecule is composed of one or more chemical bonds between <a href="/wiki/Molecular_orbital" title="Molecular orbital">molecular orbitals</a> of different atoms. A molecule may be polar either as a result of polar bonds due to differences in <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a> as described above, or as a result of an asymmetric arrangement of nonpolar covalent bonds and non-bonding pairs of electrons known as a full <a href="/wiki/Molecular_orbital" title="Molecular orbital">molecular orbital</a>.</p>
+<h3><span class="mw-headline" id="Polar_molecules">Polar molecules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=4" title="Edit section: Polar molecules">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Dipoli_acqua.png"><img alt="" class="thumbimage" data-file-height="599" data-file-width="712" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dipoli_acqua.png/200px-Dipoli_acqua.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dipoli_acqua.png/300px-Dipoli_acqua.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dipoli_acqua.png/400px-Dipoli_acqua.png 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Dipoli_acqua.png" title="Enlarge"></a></div>
+The water molecule is made up of oxygen and hydrogen, with respective electronegativities of 3.44 and 2.20. The dipoles from each of the two bonds (red arrows) add together to make the overall molecule polar.</div>
+</div>
+</div>
+<p>A polar molecule has a net <a href="/wiki/Dipole" title="Dipole">dipole</a> as a result of the opposing charges (i.e. having partial positive and partial negative charges) from polar bonds arranged asymmetrically. <a href="/wiki/Properties_of_water" title="Properties of water">Water</a> (H<sub>2</sub>O) is an example of a polar molecule since it has a slight positive charge on one side and a slight negative charge on the other. The dipoles do not cancel out resulting in a net dipole. Due to the polar nature of the water molecule itself, polar molecules are generally able to dissolve in water. Other examples include sugars (like <a href="/wiki/Sucrose" title="Sucrose">sucrose</a>), which have many polar <a class="mw-redirect" href="/wiki/Hydroxyl" title="Hydroxyl">oxygen–hydrogen</a> (−OH) groups and are overall highly polar.</p>
+<p>If the <a href="/wiki/Bond_dipole_moment" title="Bond dipole moment">bond dipole moments</a> of the molecule do not cancel, the molecule is polar. For example, the <a class="mw-redirect" href="/wiki/Water_molecule" title="Water molecule">water molecule</a> (H<sub>2</sub>O) contains two polar O−H bonds in a <a href="/wiki/Bent_molecular_geometry" title="Bent molecular geometry">bent</a> (nonlinear) geometry. The <a href="/wiki/Bond_dipole_moment" title="Bond dipole moment">bond dipole moments</a> do not cancel, so that the molecule forms a <a class="mw-redirect" href="/wiki/Dipoles#Molecular_dipoles" title="Dipoles">molecular dipole</a> with its negative pole at the oxygen and its positive pole midway between the two hydrogen atoms. In the figure each bond joins the central O atom with a negative charge (red) to an H atom with a positive charge (blue).</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Ammonia-elpot-transparent-3D-balls-A.png"><img alt="" class="thumbimage" data-file-height="1100" data-file-width="1073" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ammonia-elpot-transparent-3D-balls-A.png/150px-Ammonia-elpot-transparent-3D-balls-A.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ammonia-elpot-transparent-3D-balls-A.png/225px-Ammonia-elpot-transparent-3D-balls-A.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ammonia-elpot-transparent-3D-balls-A.png/300px-Ammonia-elpot-transparent-3D-balls-A.png 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ammonia-elpot-transparent-3D-balls-A.png" title="Enlarge"></a></div>
+The ammonia molecule, NH<sub>3</sub>, polar as a result of its molecular geometry. The red represents partially negatively charged regions.</div>
+</div>
+</div>
+<p>The <a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">hydrogen fluoride</a>, HF, molecule is polar by virtue of polar covalent bonds – in the covalent bond electrons are displaced toward the more electronegative fluorine atom. <a href="/wiki/Ammonia" title="Ammonia">Ammonia</a>, NH<sub>3</sub>, molecule the three N−H bonds have only a slight polarity (toward the more electronegative nitrogen atom). The molecule has two lone electrons in an orbital, that points towards the fourth apex of the approximate tetrahedron, (<a class="mw-redirect" href="/wiki/VSEPR" title="VSEPR">VSEPR</a>). This orbital is not participating in covalent bonding; it is electron-rich, which results in a powerful dipole across the whole ammonia molecule.</p>
+<div class="floatright"><a class="image" href="/wiki/File:Ozone-resonance-Lewis-2D.png" title="Resonance Lewis structures of the ozone molecule"><img alt="Resonance Lewis structures of the ozone molecule" data-file-height="295" data-file-width="1100" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ozone-resonance-Lewis-2D.png/300px-Ozone-resonance-Lewis-2D.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ozone-resonance-Lewis-2D.png/450px-Ozone-resonance-Lewis-2D.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ozone-resonance-Lewis-2D.png/600px-Ozone-resonance-Lewis-2D.png 2x" width="300"/></a></div>
+<p>In <a href="/wiki/Ozone" title="Ozone">ozone</a> (O<sub>3</sub>) molecules, the two O−O bonds are nonpolar (there is no electronegativity difference between atoms of the same element). However, the distribution of other electrons is uneven – since the central atom has to share electrons with two other atoms, but each of the outer atoms has to share electrons with only one other atom, the central atom is more deprived of electrons than the others (the central atom has a <a href="/wiki/Formal_charge" title="Formal charge">formal charge</a> of +1, while the outer atoms each have a formal charge of −<span class="nowrap"> </span><span class="frac nowrap"><sup>1</sup>⁄<sub>2</sub></span>). Since the molecule has a bent geometry, the result is a dipole across the whole ozone molecule.</p>
+<p>When comparing a polar and nonpolar molecule with similar molar masses, the polar molecule in general has a higher boiling point, because the dipole–dipole interaction between polar molecules results in stronger intermolecular attractions. One common form of polar interaction is the <a href="/wiki/Hydrogen_bond" title="Hydrogen bond">hydrogen bond</a>, which is also known as the H-bond. For example, water forms H-bonds and has a molar mass M = 18 and a boiling point of +100 °C, compared to nonpolar <a href="/wiki/Methane" title="Methane">methane</a> with M = 16 and a boiling point of –161 °C.</p>
+<h3><span class="mw-headline" id="Nonpolar_molecules">Nonpolar molecules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=5" title="Edit section: Nonpolar molecules">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A molecule may be nonpolar either when there is an equal sharing of electrons between the two atoms of a diatomic molecule or because of the symmetrical arrangement of polar bonds in a more complex molecule. For example, <a href="/wiki/Boron_trifluoride" title="Boron trifluoride">boron trifluoride</a> (BF<sub>3</sub>) has a trigonal planar arrangement of three polar bonds at 120°. This results in no overall dipole in the molecule.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Boron-trifluoride-elpot-3D-vdW.png"><img alt="" class="thumbimage" data-file-height="1032" data-file-width="1100" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Boron-trifluoride-elpot-3D-vdW.png/170px-Boron-trifluoride-elpot-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Boron-trifluoride-elpot-3D-vdW.png/255px-Boron-trifluoride-elpot-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Boron-trifluoride-elpot-3D-vdW.png/340px-Boron-trifluoride-elpot-3D-vdW.png 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Boron-trifluoride-elpot-3D-vdW.png" title="Enlarge"></a></div>
+In a molecule of <a href="/wiki/Boron_trifluoride" title="Boron trifluoride">boron trifluoride</a>, the trigonal planar arrangement of three polar bonds results in no overall dipole.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:197px;"><a class="image" href="/wiki/File:Carbon_dioxide_structure.png"><img alt="" class="thumbimage" data-file-height="167" data-file-width="195" height="167" src="//upload.wikimedia.org/wikipedia/commons/3/35/Carbon_dioxide_structure.png" width="195"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Carbon_dioxide_structure.png" title="Enlarge"></a></div>
+Carbon dioxide has two polar C-O bonds in a linear geometry.</div>
+</div>
+</div>
+<p>Not every molecule with polar bonds is a polar molecule. <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (CO<sub>2</sub>) has two polar C=O bonds, but the geometry of CO<sub>2</sub> is linear so that the two bond dipole moments cancel and there is no net molecular dipole moment; the molecule is nonpolar.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Methane-CRC-MW-3D-balls.png"><img alt="" class="thumbimage" data-file-height="1100" data-file-width="942" height="175" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Methane-CRC-MW-3D-balls.png/150px-Methane-CRC-MW-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Methane-CRC-MW-3D-balls.png/225px-Methane-CRC-MW-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Methane-CRC-MW-3D-balls.png/300px-Methane-CRC-MW-3D-balls.png 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Methane-CRC-MW-3D-balls.png" title="Enlarge"></a></div>
+In <a href="/wiki/Methane" title="Methane">methane</a>, the bonds are arranged symmetrically (in a tetrahedral arrangement) so there is no overall dipole.</div>
+</div>
+</div>
+<p>Examples of household nonpolar compounds include fats, oil, and petrol/gasoline. Therefore, most nonpolar molecules are water-insoluble (<a class="mw-redirect" href="/wiki/Hydrophobic" title="Hydrophobic">hydrophobic</a>) at room temperature. Many nonpolar <a class="mw-redirect" href="/wiki/Organic_solvent" title="Organic solvent">organic solvents</a>, such as <a href="/wiki/Turpentine" title="Turpentine">turpentine</a>, are able to dissolve polar substances.</p>
+<p>In the <a href="/wiki/Methane" title="Methane">methane</a> molecule (CH<sub>4</sub>) the four C−H bonds are arranged tetrahedrally around the carbon atom. Each bond has polarity (though not very strong). However, the bonds are arranged symmetrically so there is no overall dipole in the molecule. The diatomic <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> molecule (O<sub>2</sub>) does not have polarity in the covalent bond because of equal electronegativity, hence there is no polarity in the molecule.</p>
+<h3><span class="mw-headline" id="Amphiphilic_molecules">Amphiphilic molecules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=6" title="Edit section: Amphiphilic molecules">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Large molecules that have one end with polar groups attached and another end with nonpolar groups are described as <a href="/wiki/Amphiphile" title="Amphiphile">amphiphiles</a> or <i>amphiphilic</i> molecules. They are good <a href="/wiki/Surfactant" title="Surfactant">surfactants</a> and can aid in the formation of stable emulsions, or blends, of water and fats. Surfactants reduce the interfacial tension between oil and water by <a href="/wiki/Adsorption" title="Adsorption">adsorbing</a> at the liquid–liquid interface.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:61px auto;"><a class="image" href="/wiki/File:CHCA_cleavable_detergent.png"><img alt="" data-file-height="1106" data-file-width="4673" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/CHCA_cleavable_detergent.png/120px-CHCA_cleavable_detergent.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/CHCA_cleavable_detergent.png/180px-CHCA_cleavable_detergent.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/CHCA_cleavable_detergent.png/240px-CHCA_cleavable_detergent.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>This amphiphilic molecule has several polar groups (<a class="mw-redirect" href="/wiki/Hydrophilic" title="Hydrophilic">hydrophilic</a>, <i>water-loving</i>) on the right side and a long nonpolar chain (<a class="mw-redirect" href="/wiki/Lipophilic" title="Lipophilic">lipophilic</a>, <i>fat-loving</i>) at the left side. This gives it <a href="/wiki/Surfactant" title="Surfactant">surfactant</a> properties</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32.5px auto;"><a class="image" href="/wiki/File:Micelle_scheme-en.svg"><img alt="" data-file-height="377" data-file-width="532" height="85" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Micelle_scheme-en.svg/120px-Micelle_scheme-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Micelle_scheme-en.svg/180px-Micelle_scheme-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Micelle_scheme-en.svg/240px-Micelle_scheme-en.svg.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>A <a href="/wiki/Micelle" title="Micelle">micelle</a> – the <a class="mw-redirect" href="/wiki/Lipophilic" title="Lipophilic">lipophilic</a> ends of the surfactant molecules dissolve in the oil, while the <a class="mw-redirect" href="/wiki/Hydrophilic" title="Hydrophilic">hydrophilic</a> charged ends remain outside in the water phase, shielding the rest of the <a class="mw-redirect" href="/wiki/Hydrophobic" title="Hydrophobic">hydrophobic</a> micelle. In this way, the small oil droplet becomes water-soluble.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Phospholipid_schematic_representation.png"><img alt="" data-file-height="312" data-file-width="467" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Phospholipid_schematic_representation.png/120px-Phospholipid_schematic_representation.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Phospholipid_schematic_representation.png/180px-Phospholipid_schematic_representation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Phospholipid_schematic_representation.png/240px-Phospholipid_schematic_representation.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Phospholipid" title="Phospholipid">Phospholipids</a> are effective natural surfactants that have important biological functions</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Phospholipids_aqueous_solution_structures.svg"><img alt="" data-file-height="407" data-file-width="331" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Phospholipids_aqueous_solution_structures.svg/97px-Phospholipids_aqueous_solution_structures.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Phospholipids_aqueous_solution_structures.svg/146px-Phospholipids_aqueous_solution_structures.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Phospholipids_aqueous_solution_structures.svg/195px-Phospholipids_aqueous_solution_structures.svg.png 2x" width="97"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Cross section view of the structures that can be formed by <a href="/wiki/Phospholipid" title="Phospholipid">phospholipids</a>. They can form a <a href="/wiki/Micelle" title="Micelle">micelle</a> and are a vital in forming <a href="/wiki/Cell_membrane" title="Cell membrane">cell membranes</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Predicting_molecule_polarity">Predicting molecule polarity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=7" title="Edit section: Predicting molecule polarity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th></th>
+<th>Formula</th>
+<th>Description</th>
+<th>Example</th>
+<th>Name</th>
+</tr>
+<tr>
+<th rowspan="5">Polar</th>
+<td>AB</td>
+<td>Linear molecules</td>
+<td>CO</td>
+<td><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a></td>
+</tr>
+<tr>
+<td>HA<sub><i>x</i></sub></td>
+<td>Molecules with a single H</td>
+<td>HF</td>
+<td><a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">Hydrogen fluoride</a></td>
+</tr>
+<tr>
+<td>A<sub><i>x</i></sub>OH</td>
+<td>Molecules with an OH at one end</td>
+<td>C<sub>2</sub>H<sub>5</sub>OH</td>
+<td><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a></td>
+</tr>
+<tr>
+<td>O<sub><i>x</i></sub>A<sub><i>y</i></sub></td>
+<td>Molecules with an O at one end</td>
+<td>H<sub>2</sub>O</td>
+<td><a href="/wiki/Properties_of_water" title="Properties of water">Water</a></td>
+</tr>
+<tr>
+<td>N<sub><i>x</i></sub>A<sub><i>y</i></sub></td>
+<td>Molecules with an N at one end</td>
+<td>NH<sub>3</sub></td>
+<td><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></td>
+</tr>
+<tr>
+<th rowspan="2">Nonpolar</th>
+<td>A<sub>2</sub></td>
+<td><a href="/wiki/Diatomic_molecule" title="Diatomic molecule">Diatomic molecules</a> of the same element</td>
+<td>O<sub>2</sub></td>
+<td><a class="mw-redirect" href="/wiki/Dioxygen" title="Dioxygen">Dioxygen</a></td>
+</tr>
+<tr>
+<td>C<sub><i>x</i></sub>A<sub><i>y</i></sub></td>
+<td>Most carbon compounds</td>
+<td>CO<sub>2</sub></td>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></td>
+</tr>
+</table>
+<p>Determining the <a href="/wiki/Point_groups_in_three_dimensions" title="Point groups in three dimensions">point group</a> is a useful way to predict polarity of a molecule. In general, a molecule will not possess dipole moment, if the individual bond dipole moments of the molecule cancel each other out. This is because dipole moments are <a href="/wiki/Euclidean_vector" title="Euclidean vector">euclidean vector</a> quantities with magnitude and direction, and a two equal vectors who oppose each other will cancel out.</p>
+<p>Any molecule with a centre of inversion ("i") or a horizontal mirror plane ("σ<sub>h</sub>") will not possess dipole moments. Likewise, a molecule with more than one C<sub><i>n</i></sub> axis will not possess dipole moment because dipole moments cannot lie in more than one <a href="/wiki/Dimension" title="Dimension">dimension</a>. As a consequence of that constraint, all molecules with D symmetry (<a class="mw-redirect" href="/wiki/Sch%C3%B6nflies_notation" title="Schönflies notation">Schönflies notation</a>) will, therefore, not have dipole moment because, by definition, D point groups have two or multiple C<sub><i>n</i></sub> axis.</p>
+<p>Since C<sub>1</sub>, C<sub>s</sub>,C<sub>∞h</sub> C<sub><i>n</i></sub> and C<sub><i>n</i>v</sub> <a href="/wiki/Point_groups_in_three_dimensions" title="Point groups in three dimensions">point groups</a> do not have a centre of inversion, horizontal mirror planes or multiple C<sub><i>n</i></sub> axis, molecules in one of those point groups will have dipole moment.</p>
+<h2><span class="mw-headline" id="Electrical_deflection_of_water">Electrical deflection of water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=8" title="Edit section: Electrical deflection of water">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Contrary to popular misconception, the electrical deflection of a stream of water from a charged object is not based on polarity. The deflection occurs because of electrically charged droplets in the stream, which the charged object induces. A stream of water can also be deflected in a uniform electrical field, which cannot exert force on polar molecules. Additionally, after a stream of water is grounded, it can no longer be deflected. Weak deflection is even possible for nonpolar liquids.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/28px-Papapishu-Lab-icon-6.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/42px-Papapishu-Lab-icon-6.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/56px-Papapishu-Lab-icon-6.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Chemistry" title="Portal:Chemistry">Chemistry portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Polar_point_group" title="Polar point group">Polar point group</a></li>
+<li><a href="/wiki/Bond_dipole_moment" title="Bond dipole moment">Bond dipole moment</a></li>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Detergent" title="Detergent">Detergent</a></li>
+<li><a href="/wiki/Compounds_of_thorium" title="Compounds of thorium">Compounds of thorium</a>. Thorium monoxide has the highest known internal electric field of any molecule.</li>
+<li><a class="mw-redirect" href="/wiki/Chemical_properties" title="Chemical properties">Chemical properties</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jensen, William B. (2009). <a class="external text" href="http://www.jce.divched.org/Journal/Issues/2009/May/abs545.html" rel="nofollow">"The Origin of the "Delta" Symbol for Fractional Charges"</a>. <i>J. Chem. Educ</i>. <b>86</b>: 545. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2009JChEd..86..545J" rel="nofollow">2009JChEd..86..545J</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed086p545" rel="nofollow">10.1021/ed086p545</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+polarity&amp;rft.atitle=The+Origin+of+the+%22Delta%22+Symbol+for+Fractional+Charges&amp;rft.aufirst=William+B.&amp;rft.aulast=Jensen&amp;rft.date=2009&amp;rft.genre=article&amp;rft.jtitle=J.+Chem.+Educ.&amp;rft.pages=545&amp;rft.volume=86&amp;rft_id=http%3A%2F%2Fwww.jce.divched.org%2FJournal%2FIssues%2F2009%2FMay%2Fabs545.html&amp;rft_id=info%3Abibcode%2F2009JChEd..86..545J&amp;rft_id=info%3Adoi%2F10.1021%2Fed086p545&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ingold, C. K.; Ingold, E. H. (1926). "The Nature of the Alternating Effect in Carbon Chains. Part V. A Discussion of Aromatic Substitution with Special Reference to Respective Roles of Polar and Nonpolar Dissociation; and a Further Study of the Relative Directive Efficiencies of Oxygen and Nitrogen". <i>J. Chem. Soc.</i>: 1310–1328.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+polarity&amp;rft.atitle=The+Nature+of+the+Alternating+Effect+in+Carbon+Chains.+Part+V.+A+Discussion+of+Aromatic+Substitution+with+Special+Reference+to+Respective+Roles+of+Polar+and+Nonpolar+Dissociation%3B+and+a+Further+Study+of+the+Relative+Directive+Efficiencies+of+Oxygen+and+Nitrogen&amp;rft.au=Ingold%2C+C.+K.&amp;rft.au=Ingold%2C+E.+H.&amp;rft.date=1926&amp;rft.genre=article&amp;rft.jtitle=J.+Chem.+Soc.&amp;rft.pages=1310-1328&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Linus_Pauling" title="Linus Pauling">Pauling, L.</a> (1960). <i>The Nature of the Chemical Bond</i> (3rd ed.). Oxford University Press. pp. 98–100. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0801403332" title="Special:BookSources/0801403332">0801403332</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+polarity&amp;rft.aufirst=L.&amp;rft.aulast=Pauling&amp;rft.btitle=The+Nature+of+the+Chemical+Bond&amp;rft.date=1960&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0801403332&amp;rft.pages=98-100&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Linus_Pauling" title="Linus Pauling">Pauling, L.</a> (1960). <i>The Nature of the Chemical Bond</i> (3rd ed.). Oxford University Press. p. 66. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0801403332" title="Special:BookSources/0801403332">0801403332</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+polarity&amp;rft.aufirst=L.&amp;rft.aulast=Pauling&amp;rft.btitle=The+Nature+of+the+Chemical+Bond&amp;rft.date=1960&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0801403332&amp;rft.pages=66&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ziaei-Moayyed, Maryam; Goodman, Edward; Williams, Peter (2000-11-01). <a class="external text" href="https://dx.doi.org/10.1021/ed077p1520" rel="nofollow">"Electrical Deflection of Polar Liquid Streams: A Misunderstood Demonstration"</a>. <i>Journal of Chemical Education</i>. <b>77</b> (11): 1520. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2000JChEd..77.1520Z" rel="nofollow">2000JChEd..77.1520Z</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0021-9584" rel="nofollow">0021-9584</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed077p1520" rel="nofollow">10.1021/ed077p1520</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+polarity&amp;rft.atitle=Electrical+Deflection+of+Polar+Liquid+Streams%3A+A+Misunderstood+Demonstration&amp;rft.au=Goodman%2C+Edward&amp;rft.au=Williams%2C+Peter&amp;rft.aufirst=Maryam&amp;rft.aulast=Ziaei-Moayyed&amp;rft.date=2000-11-01&amp;rft.genre=article&amp;rft.issn=0021-9584&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.pages=1520&amp;rft.volume=77&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fed077p1520&amp;rft_id=info%3Abibcode%2F2000JChEd..77.1520Z&amp;rft_id=info%3Adoi%2F10.1021%2Fed077p1520&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemical_polarity&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/Chemical/bond.html" rel="nofollow">Chemical Bonding</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20150109175856/http://dwb.unl.edu/Teacher/NSF/C06/C06Links/www.uis.edu/7Etrammell/organic/introduction/polarity.htm" rel="nofollow">Polarity of Bonds and Molecules</a></li>
+<li><a class="external text" href="http://phet.colorado.edu/en/simulation/molecule-polarity" rel="nofollow">Molecule Polarity</a></li>
+</ul>
+<div aria-labelledby="Articles_related_to_solutions" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chemical_solutions" title="Template:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chemical_solutions" title="Template talk:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_solutions&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Articles_related_to_solutions" style="font-size:114%;margin:0 4em">Articles related to <a href="/wiki/Solution" title="Solution">solutions</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solution" title="Solution">Solution</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ideal_solution" title="Ideal solution">Ideal solution</a></li>
+<li><a href="/wiki/Aqueous_solution" title="Aqueous solution">Aqueous solution</a></li>
+<li><a href="/wiki/Solid_solution" title="Solid solution">Solid solution</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solution</a></li>
+<li><a href="/wiki/Flory%E2%80%93Huggins_solution_theory" title="Flory–Huggins solution theory">Flory–Huggins</a></li>
+<li><a href="/wiki/Mixture" title="Mixture">Mixture</a></li>
+<li><a href="/wiki/Suspension_(chemistry)" title="Suspension (chemistry)">Suspension</a></li>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a></li>
+<li><a href="/wiki/Eutectic_system" title="Eutectic system">Eutectic point</a></li>
+<li><a href="/wiki/Alloy" title="Alloy">Alloy</a></li>
+<li><a href="/wiki/Saturation_(chemistry)" title="Saturation (chemistry)">Saturation</a></li>
+<li><a href="/wiki/Supersaturation" title="Supersaturation">Supersaturation</a></li>
+<li><a href="/wiki/Serial_dilution" title="Serial dilution">Serial dilution</a></li>
+<li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution (equation)</a></li>
+<li><a href="/wiki/Apparent_molar_property" title="Apparent molar property">Apparent molar property</a></li>
+<li><a href="/wiki/Miscibility_gap" title="Miscibility gap">Miscibility gap</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Concentration" title="Concentration">Concentration</a><br/>
+and related quantities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Molar_concentration" title="Molar concentration">Molar concentration</a></li>
+<li><a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">Mass concentration</a></li>
+<li><a href="/wiki/Number_density" title="Number density">Number concentration</a></li>
+<li><a href="/wiki/Volume_fraction" title="Volume fraction">Volume concentration</a></li>
+<li><a href="/wiki/Equivalent_concentration" title="Equivalent concentration">Normality</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/Percentage_solution_(disambiguation)" title="Percentage solution (disambiguation)">Percentage solution</a></li>
+<li><a href="/wiki/Molality" title="Molality">Molality</a></li>
+<li><a href="/wiki/Mole_fraction" title="Mole fraction">Mole fraction</a></li>
+<li><a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">Mass fraction</a></li>
+<li><a class="mw-redirect" href="/wiki/Isotopic_abundance" title="Isotopic abundance">Isotopic abundance</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Ternary_plot" title="Ternary plot">Ternary plot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solubility" title="Solubility">Solubility</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solubility_equilibrium" title="Solubility equilibrium">Solubility equilibrium</a></li>
+<li><a href="/wiki/Total_dissolved_solids" title="Total dissolved solids">Total dissolved solids</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/Solvation_shell" title="Solvation shell">Solvation shell</a></li>
+<li><a href="/wiki/Enthalpy_change_of_solution" title="Enthalpy change of solution">Enthalpy of solution</a></li>
+<li><a href="/wiki/Lattice_energy" title="Lattice energy">Lattice energy</a></li>
+<li><a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a></li>
+<li><a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a></li>
+<li><a href="/wiki/Solubility_table" title="Solubility table">Solubility table (data)</a></li>
+<li><a href="/wiki/Solubility_chart" title="Solubility chart">Solubility chart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solvent" title="Solvent">Solvent</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>(<a href="/wiki/Category:Solvents" title="Category:Solvents">Category</a>)</li>
+<li><a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acid dissociation constant</a></li>
+<li><a href="/wiki/Protic_solvent" title="Protic solvent">Protic solvent</a></li>
+<li><a href="/wiki/Inorganic_nonaqueous_solvent" title="Inorganic nonaqueous solvent">Inorganic nonaqueous solvent</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/List_of_boiling_and_freezing_information_of_solvents" title="List of boiling and freezing information of solvents">List of boiling and freezing information of solvents</a></li>
+<li><a href="/wiki/Partition_coefficient" title="Partition coefficient">Partition coefficient</a></li>
+<li><a class="mw-selflink selflink">Polarity</a></li>
+<li><a href="/wiki/Hydrophobe" title="Hydrophobe">Hydrophobe</a></li>
+<li><a href="/wiki/Hydrophile" title="Hydrophile">Hydrophile</a></li>
+<li><a href="/wiki/Lipophilicity" title="Lipophilicity">Lipophilic</a></li>
+<li><a href="/wiki/Amphiphile" title="Amphiphile">Amphiphile</a></li>
+<li><a href="/wiki/Lyonium_ion" title="Lyonium ion">Lyonium ion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Chemical_bonds" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chemical_bonds" title="Template:Chemical bonds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chemical_bonds" title="Template talk:Chemical bonds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_bonds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Chemical_bonds" style="font-size:114%;margin:0 4em"><a href="/wiki/Chemical_bond" title="Chemical bond">Chemical bonds</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Intramolecular_force" title="Intramolecular force">Intramolecular</a><br/>
+(strong)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Covalent_bond" title="Covalent bond">Covalent</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">By symmetry</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sigma_bond" title="Sigma bond">Sigma (σ)</a></li>
+<li><a href="/wiki/Pi_bond" title="Pi bond">Pi (π)</a></li>
+<li><a href="/wiki/Delta_bond" title="Delta bond">Delta (δ)</a></li>
+<li><a href="/wiki/Phi_bond" title="Phi bond">Phi (φ)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">By multiplicity</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Single_bond" title="Single bond">1 (single)</a></li>
+<li><a href="/wiki/Double_bond" title="Double bond">2 (double)</a></li>
+<li><a href="/wiki/Triple_bond" title="Triple bond">3 (triple)</a></li>
+<li><a href="/wiki/Quadruple_bond" title="Quadruple bond">4 (quadruple)</a></li>
+<li><a href="/wiki/Quintuple_bond" title="Quintuple bond">5 (quintuple)</a></li>
+<li><a href="/wiki/Sextuple_bond" title="Sextuple bond">6 (sextuple)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Miscellaneous</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agostic_interaction" title="Agostic interaction">Agostic</a></li>
+<li><a href="/wiki/Bent_bond" title="Bent bond">Bent</a></li>
+<li><a href="/wiki/Coordinate_covalent_bond" title="Coordinate covalent bond">Coordinate (dipolar)</a></li>
+<li><a href="/wiki/Pi_backbonding" title="Pi backbonding">Pi backbond</a></li>
+<li><a href="/wiki/Charge-shift_bond" title="Charge-shift bond">Charge-shift</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Hapticity" title="Hapticity">Hapticity</a></li>
+<li><a href="/wiki/Conjugated_system" title="Conjugated system">Conjugation</a></li>
+<li><a href="/wiki/Hyperconjugation" title="Hyperconjugation">Hyperconjugation</a></li>
+<li><a href="/wiki/Antibonding_molecular_orbital" title="Antibonding molecular orbital">Antibonding</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">Resonant</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electron_deficiency" title="Electron deficiency">Electron deficiency</a>
+<ul>
+<li><a href="/wiki/Three-center_two-electron_bond" title="Three-center two-electron bond">3c–2e</a></li>
+<li><a href="/wiki/Four-center_two-electron_bond" title="Four-center two-electron bond">4c–2e</a></li>
+</ul>
+</li>
+<li> <a href="/wiki/Hypervalent_molecule" title="Hypervalent molecule">Hypercoordination</a>
+<ul>
+<li><a href="/wiki/Three-center_four-electron_bond" title="Three-center four-electron bond">3c–4e</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Aromaticity" title="Aromaticity">Aromaticity</a>
+<ul>
+<li><a href="/wiki/M%C3%B6bius_aromaticity" title="Möbius aromaticity">möbius</a></li>
+<li><a href="/wiki/Superaromaticity" title="Superaromaticity">super</a></li>
+<li><a href="/wiki/%CE%A3-aromaticity" title="Σ-aromaticity">sigma</a></li>
+<li><a href="/wiki/Homoaromaticity" title="Homoaromaticity">homo</a></li>
+<li><a href="/wiki/Spiroaromaticity" title="Spiroaromaticity">spiro</a></li>
+<li><a href="/wiki/%CE%A3-bishomoaromaticity" title="Σ-bishomoaromaticity">σ-bishomo</a></li>
+<li><a href="/wiki/Spherical_aromaticity" title="Spherical aromaticity">spherical</a></li>
+<li><a href="/wiki/Y-aromaticity" title="Y-aromaticity">Y-</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Metallic_bonding" title="Metallic bonding">Metallic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Metal_aromaticity" title="Metal aromaticity">Metal aromaticity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ionic_bonding" title="Ionic bonding">Ionic</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li class="mw-empty-elt"></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Intermolecular_force" title="Intermolecular force">Intermolecular</a><br/>
+(weak)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals<br/>
+forces</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/London_dispersion_force" title="London dispersion force">London dispersion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hydrogen_bond" title="Hydrogen bond">Hydrogen</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Low-barrier_hydrogen_bond" title="Low-barrier hydrogen bond">Low-barrier</a></li>
+<li><a href="/wiki/Resonance-assisted_hydrogen_bond" title="Resonance-assisted hydrogen bond">Resonance-assisted</a></li>
+<li><a href="/wiki/Symmetric_hydrogen_bond" title="Symmetric hydrogen bond">Symmetric</a></li>
+<li><a href="/wiki/Dihydrogen_bond" title="Dihydrogen bond">Dihydrogen bonds</a></li>
+<li><a href="/wiki/C%E2%80%93H%C2%B7%C2%B7%C2%B7O_interaction" title="C–H···O interaction">C–H···O interaction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Non-covalent_interactions" title="Non-covalent interactions">Noncovalent</a><br/>
+other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Mechanical_bond" title="Mechanical bond">Mechanical</a></li>
+<li><a href="/wiki/Halogen_bond" title="Halogen bond">Halogen</a></li>
+<li><a href="/wiki/Aurophilicity" title="Aurophilicity">Aurophilicity</a></li>
+<li><a href="/wiki/Intercalation_(chemistry)" title="Intercalation (chemistry)">Intercalation</a></li>
+<li><a href="/wiki/Stacking_(chemistry)" title="Stacking (chemistry)">Stacking</a></li>
+<li><a href="/wiki/Cation%E2%80%93pi_interaction" title="Cation–pi interaction">Cation–pi</a></li>
+<li><a href="/wiki/Cation%E2%80%93pi_interaction#Anion.E2.80.93.CF.80_interaction" title="Cation–pi interaction">Anion–pi</a></li>
+<li><a href="/wiki/Salt_bridge_(protein_and_supramolecular)" title="Salt bridge (protein and supramolecular)">Salt bridge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1224
+Cached time: 20171025121209
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.253 seconds
+Preprocessor visited node count: 738/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61267/2097152 bytes
+Template argument size: 104/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 3.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  177.793      1 -total
+ 34.63%   61.570      1 Template:Reflist
+ 22.36%   39.756      3 Template:Cite_journal
+ 18.26%   32.467      1 Template:Refimprove
+ 15.21%   27.038      1 Template:Ambox
+ 14.89%   26.481      1 Template:Redirect2
+ 14.32%   25.461      5 Template:Navbox
+  6.01%   10.690      1 Template:Chemical_bonds
+  5.93%   10.540      1 Template:Chemical_solutions
+  5.13%    9.119      2 Template:Cite_book
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:361038-0!canonical and timestamp 20171025121209 and revision id 807019231
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chemical_polarity&amp;oldid=807019231#Polar_molecules">https://en.wikipedia.org/w/index.php?title=Chemical_polarity&amp;oldid=807019231#Polar_molecules</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_chemistry" title="Category:Physical chemistry">Physical chemistry</a></li><li><a href="/wiki/Category:Chemical_properties" title="Category:Chemical properties">Chemical properties</a></li><li><a href="/wiki/Category:Dimensionless_numbers_of_chemistry" title="Category:Dimensionless numbers of chemistry">Dimensionless numbers of chemistry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2015" title="Category:Articles needing additional references from January 2015">Articles needing additional references from January 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chemical+polarity" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Chemical+polarity" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Chemical_polarity" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Chemical_polarity" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Chemical_polarity">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Chemical_polarity&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Chemical_polarity&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Chemical_polarity" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Chemical_polarity" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chemical_polarity&amp;oldid=807019231" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chemical_polarity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q506623" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chemical_polarity&amp;id=807019231" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chemical+polarity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chemical+polarity&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Chemical_polarity&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Chemical_polarity" hreflang="en">Wikiquote</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%A8%D9%8A%D8%A9_%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="قطبية كيميائية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Polaritat_qu%C3%ADmica" hreflang="ca" lang="ca" title="Polaritat química – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Pol%C3%A1rn%C3%AD_molekula" hreflang="cs" lang="cs" title="Polární molekula – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kemisk_polaritet" hreflang="da" lang="da" title="Kemisk polaritet – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Polarit%C3%A4t_(Chemie)" hreflang="de" lang="de" title="Polarität (Chemie) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Molekuli_polaarsus" hreflang="et" lang="et" title="Molekuli polaarsus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Polaridad_(qu%C3%ADmica)" hreflang="es" lang="es" title="Polaridad (química) – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%82%D8%B7%D8%A8%DB%8C%D8%AA_%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="قطبیت شیمیایی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Polarit%C3%A9_(chimie)" hreflang="fr" lang="fr" title="Polarité (chimie) – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Polara%C3%ADocht" hreflang="ga" lang="ga" title="Polaraíocht – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Polaridade_qu%C3%ADmica" hreflang="gl" lang="gl" title="Polaridade química – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%84%B1_(%ED%99%94%ED%95%99)" hreflang="ko" lang="ko" title="극성 (화학) – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE" hreflang="hi" lang="hi" title="रासायनिक ध्रुवीयता – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kemijski_polaritet" hreflang="hr" lang="hr" title="Kemijski polaritet – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Polaritas_(kimia)" hreflang="id" lang="id" title="Polaritas (kimia) – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Polarit%C3%A0" hreflang="it" lang="it" title="Polarità – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%98%D7%91%D7%99%D7%95%D7%AA_(%D7%9B%D7%99%D7%9E%D7%99%D7%94)" hreflang="he" lang="he" title="קוטביות (כימיה) – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%9D%E1%83%9A%E1%83%90%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9C%E1%83%98%E1%83%95%E1%83%97%E1%83%98%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%94%E1%83%91%E1%83%98" hreflang="ka" lang="ka" title="პოლარული ნივთიერებები – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%A5%B5%E6%80%A7%E5%88%86%E5%AD%90" hreflang="ja" lang="ja" title="極性分子 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Polaritet_(kjemi)" hreflang="no" lang="no" title="Polaritet (kjemi) – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Polarno%C5%9B%C4%87" hreflang="pl" lang="pl" title="Polarność – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Polaridade_(qu%C3%ADmica)" hreflang="pt" lang="pt" title="Polaridade (química) – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" hreflang="ru" lang="ru" title="Полярные вещества – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Polarnost" hreflang="sl" lang="sl" title="Polarnost – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Hemijska_polarnost" hreflang="sr" lang="sr" title="Hemijska polarnost – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Hemijska_polarnost" hreflang="sh" lang="sh" title="Hemijska polarnost – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Poolisuus" hreflang="fi" lang="fi" title="Poolisuus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B0%E0%AE%9A%E0%AE%BE%E0%AE%AF%E0%AE%A9_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%88%E0%AE%B5%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AF%88" hreflang="ta" lang="ta" title="இரசாயன முனைவுத்தன்மை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%96%D1%81%D1%82%D1%8C_(%D1%85%D1%96%D0%BC%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Полярність (хімія) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9E%81%E6%80%A7" hreflang="zh" lang="zh" title="极性 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q506623#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 October 2017, at 12:12.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Chemical_polarity&amp;mobileaction=toggle_view_mobile#Polar_molecules">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.253","ppvisitednodes":{"value":738,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61267,"limit":2097152},"templateargumentsize":{"value":104,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  177.793      1 -total"," 34.63%   61.570      1 Template:Reflist"," 22.36%   39.756      3 Template:Cite_journal"," 18.26%   32.467      1 Template:Refimprove"," 15.21%   27.038      1 Template:Ambox"," 14.89%   26.481      1 Template:Redirect2"," 14.32%   25.461      5 Template:Navbox","  6.01%   10.690      1 Template:Chemical_bonds","  5.93%   10.540      1 Template:Chemical_solutions","  5.13%    9.119      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":3411565,"limit":52428800}},"cachereport":{"origin":"mw1224","timestamp":"20171025121209","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1263"});});</script>
+</body>
+</html>

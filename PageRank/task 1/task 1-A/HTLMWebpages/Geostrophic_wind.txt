@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Geostrophic wind - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geostrophic_wind","wgTitle":"Geostrophic wind","wgCurRevisionId":803469935,"wgRevisionId":803469935,"wgArticleId":520674,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Fluid dynamics","Atmospheric dynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geostrophic_wind","wgRelevantArticleId":520674,"wgRequestId":"WgHzvQpAAEEAABN6WRwAAADD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q929043","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geostrophic_wind" rel="alternate"/>
+<link href="/w/index.php?title=Geostrophic_wind&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Geostrophic_wind&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Geostrophic_wind" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Geostrophic_wind rootpage-Geostrophic_wind vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Geostrophic wind</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The <b>geostrophic wind</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˌ/: secondary stress follows">ˌ</span><span title="/dʒ/: 'j' in 'jam'">dʒ</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="'r' in 'rye'">r</span><span title="/ɒ/: 'o' in 'body'">ɒ</span><span title="'f' in 'find'">f</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'k' in 'kind'">k</span></span>, <span style="border-bottom:1px dotted"><span title="/ˌ/: secondary stress follows">ˌ</span><span title="/dʒ/: 'j' in 'jam'">dʒ</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="/oʊ/: 'o' in 'code'">oʊ</span></span>-, -<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="'r' in 'rye'">r</span><span title="/oʊ/: 'o' in 'code'">oʊ</span></span>-/</a></span></span><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>) is the theoretical <a href="/wiki/Wind" title="Wind">wind</a> that would result from an exact balance between the <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis force</a> and the <a href="/wiki/Pressure_gradient" title="Pressure gradient">pressure gradient</a> force. This condition is called <b>geostrophic balance</b>. The geostrophic wind is directed <a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">parallel</a> to <a class="mw-redirect" href="/wiki/Isobar_(meteorology)" title="Isobar (meteorology)">isobars</a> (lines of constant <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">pressure</a> at a given height). This balance seldom holds exactly in nature. The true wind almost always differs from the geostrophic wind due to other forces such as <a href="/wiki/Friction" title="Friction">friction</a> from the ground. Thus, the actual wind would equal the geostrophic wind only if there were no friction and the isobars were perfectly straight. Despite this, much of the atmosphere outside the <a href="/wiki/Tropics" title="Tropics">tropics</a> is close to geostrophic flow much of the time and it is a valuable first approximation. Geostrophic flow in air or water is a zero-frequency <a class="mw-redirect" href="/wiki/Inertial_waves" title="Inertial waves">inertial wave</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geostrophic_currents"><span class="tocnumber">2</span> <span class="toctext">Geostrophic currents</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Limitations_of_the_geostrophic_approximation"><span class="tocnumber">3</span> <span class="toctext">Limitations of the geostrophic approximation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Governing_formula"><span class="tocnumber">4</span> <span class="toctext">Governing formula</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geostrophic_wind&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Air" title="Air">Air</a> naturally moves from areas of high <a href="/wiki/Pressure" title="Pressure">pressure</a> to areas of low pressure, due to the <a href="/wiki/Pressure_gradient" title="Pressure gradient">pressure gradient</a> force. As soon as the air starts to move, however, the <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis "force"</a> deflects it. The <a class="extiw" href="https://en.wiktionary.org/wiki/deflection" title="wikt:deflection">deflection</a> is to the right in the <a class="mw-redirect" href="/wiki/Northern_hemisphere" title="Northern hemisphere">northern hemisphere</a>, and to the left in the <a class="mw-redirect" href="/wiki/Southern_hemisphere" title="Southern hemisphere">southern hemisphere</a>. As the air moves from the high-pressure area, its speed increases, and so does its Coriolis deflection. The deflection increases until the Coriolis and pressure gradient forces are in geostrophic balance: at this point, the air flow is no longer moving from high to low pressure, but instead moves along an <a class="extiw" href="https://en.wiktionary.org/wiki/isobar" title="wikt:isobar">isobar</a>. (Note that this explanation assumes that the atmosphere starts in a geostrophically unbalanced state and describes how such a state would evolve into a balanced flow. In practice, the flow is nearly always balanced.) The geostrophic balance helps to explain why, in the northern hemisphere, <a class="mw-redirect" href="/wiki/Low-pressure_system" title="Low-pressure system">low-pressure systems</a> (or <i><a href="/wiki/Cyclone" title="Cyclone">cyclones</a></i>) spin counterclockwise and <a href="/wiki/High-pressure_area" title="High-pressure area">high-pressure systems</a> (or <i><a href="/wiki/Anticyclone" title="Anticyclone">anticyclones</a></i>) spin clockwise, and the opposite in the southern hemisphere.</p>
+<h2><span class="mw-headline" id="Geostrophic_currents">Geostrophic currents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geostrophic_wind&amp;action=edit&amp;section=2" title="Edit section: Geostrophic currents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Geostrophic_current" title="Geostrophic current">Geostrophic current</a></div>
+<p>Flow of ocean water is also largely geostrophic. Just as multiple weather balloons that measure pressure as a function of height in the atmosphere are used to map the atmospheric pressure field and infer the geostrophic wind, measurements of density as a function of depth in the ocean are used to infer geostrophic currents. <a class="mw-redirect" href="/wiki/Satellite_altimetry" title="Satellite altimetry">Satellite altimeters</a> are also used to measure sea surface height anomaly, which permits a calculation of the geostrophic current at the surface.</p>
+<h2><span class="mw-headline" id="Limitations_of_the_geostrophic_approximation">Limitations of the geostrophic approximation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geostrophic_wind&amp;action=edit&amp;section=3" title="Edit section: Limitations of the geostrophic approximation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The effect of friction, between the air and the land, breaks the geostrophic balance. Friction slows the flow, lessening the effect of the Coriolis force. As a result, the pressure gradient force has a greater effect and the air still moves from high pressure to low pressure, though with great deflection. This explains why high-pressure system winds radiate out from the center of the system, while low-pressure systems have winds that spiral inwards.</p>
+<p>The geostrophic wind neglects <a href="/wiki/Friction" title="Friction">frictional</a> effects, which is usually a good <a href="/wiki/Approximation" title="Approximation">approximation</a> for the <a href="/wiki/Synoptic_scale_meteorology" title="Synoptic scale meteorology">synoptic scale</a> instantaneous flow in the midlatitude mid-<a href="/wiki/Troposphere" title="Troposphere">troposphere</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Although <a class="mw-redirect" href="/wiki/Ageostrophic" title="Ageostrophic">ageostrophic</a> terms are relatively small, they are essential for the time evolution of the flow and in particular are necessary for the growth and decay of storms. <a href="/wiki/Quasi-geostrophic_equations" title="Quasi-geostrophic equations">Quasigeostrophic</a> and Semigeostrophic theory are used to model flows in the atmosphere more widely. These theories allow for divergence to take place and for weather systems to then develop.</p>
+<h2><span class="mw-headline" id="Governing_formula">Governing formula</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geostrophic_wind&amp;action=edit&amp;section=4" title="Edit section: Governing formula">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Newton%27s_Second_Law" title="Newton's Second Law">Newton's Second Law</a> can be written as follows if only the pressure gradient, gravity, and friction act on an air parcel, where the bold symbolizes a vector:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">D</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">U</mi>
+</mrow>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">D</mi>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">Ω<!-- Ω --></mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">U</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>p</mi>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">g</mi>
+</mrow>
+<mo>+</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\mathrm {D} {\boldsymbol {U}}}{\mathrm {D} t}}=-2{\boldsymbol {\Omega }}\times {\boldsymbol {U}}-{\frac {1}{\rho }}\nabla p+\mathbf {g} +\mathbf {F} _{\mathrm {r} }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {\mathrm {D} {\boldsymbol {U}}}{\mathrm {D} t}}=-2{\boldsymbol {\Omega }}\times {\boldsymbol {U}}-{\frac {1}{\rho }}\nabla p+\mathbf {g} +\mathbf {F} _{\mathrm {r} }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f81c0971a29299962023e3dd2f462b1bf233f66b" style="vertical-align: -2.338ex; width:35.264ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>Here <i><b>U</b></i> is the velocity field of the air, <b>Ω</b> is the angular velocity vector of the planet, <i>ρ</i> is the density of the air, <i>p</i> is the air pressure, <b>F</b><sub>r</sub> is the friction, <b>g</b> is the <a href="/wiki/Standard_gravity" title="Standard gravity">acceleration vector due to gravity</a> and <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">D</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">D<i>t</i></span></span> is the <a href="/wiki/Material_derivative" title="Material derivative">material derivative</a>.</p>
+<p>Locally this can be expanded in <a class="mw-redirect" href="/wiki/Cartesian_coordinates" title="Cartesian coordinates">Cartesian coordinates</a>, with a positive <i>u</i> representing an eastward direction and a positive <i>v</i> representing a northward direction. Neglecting friction and vertical motion, as justified by the <a href="/wiki/Taylor%E2%80%93Proudman_theorem" title="Taylor–Proudman theorem">Taylor–Proudman theorem</a>, we have:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="0.8em 0.8em 0.3em">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">D</mi>
+</mrow>
+<mi>u</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">D</mi>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mi>f</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>v</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">D</mi>
+</mrow>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">D</mi>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mi>f</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>u</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>g</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}{\frac {\mathrm {D} u}{\mathrm {D} t}}&amp;=-{\frac {1}{\rho }}{\frac {\partial P}{\partial x}}+f\cdot v\\[5px]{\frac {\mathrm {D} v}{\mathrm {D} t}}&amp;=-{\frac {1}{\rho }}{\frac {\partial P}{\partial y}}-f\cdot u\\[5px]0&amp;=-g-{\frac {1}{\rho }}{\frac {\partial P}{\partial z}}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}{\frac {\mathrm {D} u}{\mathrm {D} t}}&amp;=-{\frac {1}{\rho }}{\frac {\partial P}{\partial x}}+f\cdot v\\[5px]{\frac {\mathrm {D} v}{\mathrm {D} t}}&amp;=-{\frac {1}{\rho }}{\frac {\partial P}{\partial y}}-f\cdot u\\[5px]0&amp;=-g-{\frac {1}{\rho }}{\frac {\partial P}{\partial z}}\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4efba4a690b3a5c8865c06184ddaf15941933e5f" style="vertical-align: -9.392ex; margin-bottom: -0.279ex; width:22.78ex; height:20.509ex;"/></span></dd>
+</dl>
+<p>With <span class="nowrap"><i>f</i> = 2Ω sin <i>φ</i></span> the <a href="/wiki/Coriolis_frequency" title="Coriolis frequency">Coriolis parameter</a> (approximately <span class="nowrap"><span class="sortkey" style="display:none">6996100000000000000♠</span>10<sup>−4</sup> s<sup>−1</sup></span>, varying with latitude).</p>
+<p>Assuming geostrophic balance, the system is stationary and the first two equations become:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="0.8em 0.3em">
+<mtr>
+<mtd>
+<mi>f</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>v</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>f</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>u</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}f\cdot v&amp;=\;\;\,{\frac {1}{\rho }}{\frac {\partial P}{\partial x}}\\[5px]f\cdot u&amp;=-{\frac {1}{\rho }}{\frac {\partial P}{\partial y}}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}f\cdot v&amp;=\;\;\,{\frac {1}{\rho }}{\frac {\partial P}{\partial x}}\\[5px]f\cdot u&amp;=-{\frac {1}{\rho }}{\frac {\partial P}{\partial y}}\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d6d79938beb70c38486e51fc239bb8e28196eba" style="vertical-align: -6.005ex; width:15.967ex; height:13.176ex;"/></span></dd>
+</dl>
+<p>By substituting using the third equation above, we have:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="0.8em 0.3em">
+<mtr>
+<mtd>
+<mi>f</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>v</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+</mrow>
+<mrow>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>Z</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>f</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>u</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+</mrow>
+<mrow>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>Z</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}f\cdot v&amp;=\;\;\,g{\frac {\;{\frac {\partial P}{\partial x}}\;}{\;{\frac {\partial P}{\partial z}}\;}}=\;\;\,g{\frac {\partial Z}{\partial x}}\\[5px]f\cdot u&amp;=-g{\frac {\;{\frac {\partial P}{\partial y}}\;}{\;{\frac {\partial P}{\partial z}}\;}}=-g{\frac {\partial Z}{\partial y}}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}f\cdot v&amp;=\;\;\,g{\frac {\;{\frac {\partial P}{\partial x}}\;}{\;{\frac {\partial P}{\partial z}}\;}}=\;\;\,g{\frac {\partial Z}{\partial x}}\\[5px]f\cdot u&amp;=-g{\frac {\;{\frac {\partial P}{\partial y}}\;}{\;{\frac {\partial P}{\partial z}}\;}}=-g{\frac {\partial Z}{\partial y}}\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4dbce15bbdca693e3e9cc21482bc005b9ab0b20e" style="vertical-align: -8.838ex; width:26.177ex; height:18.843ex;"/></span></dd>
+</dl>
+<p>with <i>Z</i> the height of the constant pressure surface, satisfying</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>x</mi>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>y</mi>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>Z</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial P}{\partial x}}\mathrm {d} x+{\frac {\partial P}{\partial y}}\mathrm {d} y+{\frac {\partial P}{\partial z}}\mathrm {d} Z=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {\partial P}{\partial x}}\mathrm {d} x+{\frac {\partial P}{\partial y}}\mathrm {d} y+{\frac {\partial P}{\partial z}}\mathrm {d} Z=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b1efe45031b3b2f0efa5cfb94a8e4f78b580f7d" style="vertical-align: -2.505ex; width:29.851ex; height:6.009ex;"/></span></dd>
+</dl>
+<p>This leads us to the following result for the geostrophic wind components (<i>u</i><sub>g</sub>, <i>v</i><sub>g</sub>):</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="0.8em 0.3em">
+<mtr>
+<mtd>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>g</mi>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>Z</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thickmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>g</mi>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>Z</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}u_{\mathrm {g} }&amp;=-{\frac {g}{f}}{\frac {\partial Z}{\partial y}}\\[5px]v_{\mathrm {g} }&amp;=\;\;\,{\frac {g}{f}}{\frac {\partial Z}{\partial x}}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}u_{\mathrm {g} }&amp;=-{\frac {g}{f}}{\frac {\partial Z}{\partial y}}\\[5px]v_{\mathrm {g} }&amp;=\;\;\,{\frac {g}{f}}{\frac {\partial Z}{\partial x}}\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/78871657ed374a35c8981d01286365a631cddf7e" style="vertical-align: -6.005ex; width:14.061ex; height:13.176ex;"/></span></dd>
+</dl>
+<p>The validity of this approximation depends on the local <a href="/wiki/Rossby_number" title="Rossby number">Rossby number</a>. It is invalid at the equator, because <i>f</i> is equal to zero there, and therefore generally not used in the <a href="/wiki/Tropics" title="Tropics">tropics</a>.</p>
+<p>Other variants of the equation are possible; for example, the geostrophic wind vector can be expressed in terms of the gradient of the <a href="/wiki/Geopotential_height" title="Geopotential height">geopotential height</a> Φ on a surface of constant pressure:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">V</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<msub>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {V} _{\mathrm {g} }={\frac {\hat {\mathbf {k} }}{f}}\times \nabla _{p}\Phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {V} _{\mathrm {g} }={\frac {\hat {\mathbf {k} }}{f}}\times \nabla _{p}\Phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02e710e3f644f8c61d9662910c66e2e421fd8700" style="vertical-align: -2.505ex; width:16.01ex; height:6.676ex;"/></span></dd>
+</dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geostrophic_wind&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Geostrophic_current" title="Geostrophic current">Geostrophic current</a></li>
+<li><a href="/wiki/Thermal_wind" title="Thermal wind">Thermal wind</a></li>
+<li><a class="mw-redirect" href="/wiki/Gradient_wind" title="Gradient wind">Gradient wind</a></li>
+<li><a href="/wiki/Prevailing_winds" title="Prevailing winds">Prevailing winds</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geostrophic_wind&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dictionary.com/browse/geostrophic" rel="nofollow">"geostrophic"</a>. <i><a href="/wiki/Dictionary.com" title="Dictionary.com">Dictionary.com</a> Unabridged</i>. <a href="/wiki/Random_House" title="Random House">Random House</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostrophic+wind&amp;rft.atitle=geostrophic&amp;rft.genre=unknown&amp;rft.jtitle=Dictionary.com+Unabridged&amp;rft_id=http%3A%2F%2Fwww.dictionary.com%2Fbrowse%2Fgeostrophic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://en.oxforddictionaries.com/definition/geostrophic" rel="nofollow">"geostrophic"</a>. <i><a class="mw-redirect" href="/wiki/Oxford_Dictionaries" title="Oxford Dictionaries">Oxford Dictionaries</a></i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostrophic+wind&amp;rft.atitle=geostrophic&amp;rft.genre=unknown&amp;rft.jtitle=Oxford%C2%A0Dictionaries&amp;rft_id=https%3A%2F%2Fen.oxforddictionaries.com%2Fdefinition%2Fgeostrophic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.merriam-webster.com/dictionary/geostrophic" rel="nofollow">"geostrophic"</a>. <i><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster Dictionary</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostrophic+wind&amp;rft.atitle=geostrophic&amp;rft.genre=unknown&amp;rft.jtitle=Merriam-Webster+Dictionary&amp;rft_id=https%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fgeostrophic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Holton, J.R., 'An Introduction to Dynamic Meteorology', International Geophysical Series, Vol 48 Academic Press.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geostrophic_wind&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://atmos.nmsu.edu/education_and_outreach/encyclopedia/geostrophic.htm" rel="nofollow">Geostrophic approximation</a></li>
+<li><a class="external text" href="http://nsidc.org/cryosphere/glossary/term/geostrophic-wind" rel="nofollow">Definition of geostrophic wind</a></li>
+<li><a class="external text" href="http://atmo.tamu.edu/class/atmo203/tut/windpres/wind8.html" rel="nofollow">Geostrophic wind description</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1232
+Cached time: 20171024185817
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.282 seconds
+Preprocessor visited node count: 442/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9529/2097152 bytes
+Template argument size: 2009/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 3.04 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  211.555      1 -total
+ 40.23%   85.116      3 Template:Refn
+ 32.88%   69.561      3 Template:Cite_web
+ 29.01%   61.362      1 Template:Dictionary.com
+ 21.62%   45.744      1 Template:Val
+ 21.33%   45.131      1 Template:IPAc-en
+  6.45%   13.646      1 Template:Reflist
+  4.64%    9.814      1 Template:See_also
+  4.38%    9.270      1 Template:MerriamWebsterDictionary
+  3.84%    8.119      1 Template:OxfordDictionaries.com
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:520674-0!canonical!math=5 and timestamp 20171024185817 and revision id 803469935
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geostrophic_wind&amp;oldid=803469935">https://en.wikipedia.org/w/index.php?title=Geostrophic_wind&amp;oldid=803469935</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fluid_dynamics" title="Category:Fluid dynamics">Fluid dynamics</a></li><li><a href="/wiki/Category:Atmospheric_dynamics" title="Category:Atmospheric dynamics">Atmospheric dynamics</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Geostrophic+wind" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Geostrophic+wind" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Geostrophic_wind" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Geostrophic_wind" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Geostrophic_wind">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Geostrophic_wind&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Geostrophic_wind&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Geostrophic_wind" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Geostrophic_wind" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Geostrophic_wind&amp;oldid=803469935" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Geostrophic_wind&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q929043" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geostrophic_wind&amp;id=803469935" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geostrophic+wind">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Geostrophic+wind&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Geostrophic_wind&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D8%AD_%D8%AC%D9%8A%D9%88%D8%B3%D8%AA%D8%B1%D9%88%D9%81%D9%8A%D8%A9" hreflang="ar" lang="ar" title="ريح جيوستروفية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Equilibri_geostr%C3%B2fic" hreflang="ca" lang="ca" title="Equilibri geostròfic – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Geostrofisk_balance" hreflang="da" lang="da" title="Geostrofisk balance – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Geostrophischer_Wind" hreflang="de" lang="de" title="Geostrophischer Wind – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Viento_geostr%C3%B3fico" hreflang="es" lang="es" title="Viento geostrófico – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Vent_g%C3%A9ostrophique" hreflang="fr" lang="fr" title="Vent géostrophique – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Gaoth_gheostr%C3%B3fach" hreflang="ga" lang="ga" title="Gaoth gheostrófach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EA%B7%A0%ED%92%8D" hreflang="ko" lang="ko" title="지균풍 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Vento_geostrofico" hreflang="it" lang="it" title="Vento geostrofico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A5%E1%83%90%E1%83%A0%E1%83%98" hreflang="ka" lang="ka" title="გეოსტროფული ქარი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geostrofische_wind" hreflang="nl" lang="nl" title="Geostrofische wind – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%A1%A1%E9%A2%A8" hreflang="ja" lang="ja" title="地衡風 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Geostrofisk_vind" hreflang="no" lang="no" title="Geostrofisk vind – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Geostrofisk_vind" hreflang="nn" lang="nn" title="Geostrofisk vind – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wiatr_geostroficzny" hreflang="pl" lang="pl" title="Wiatr geostroficzny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Vento_geostr%C3%B3fico" hreflang="pt" lang="pt" title="Vento geostrófico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80" hreflang="ru" lang="ru" title="Геострофический ветер – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Geostrofinen_tuuli" hreflang="fi" lang="fi" title="Geostrofinen tuuli – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Geostrofisk_vind" hreflang="sv" lang="sv" title="Geostrofisk vind – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D1%82%D0%B5%D1%80" hreflang="uk" lang="uk" title="Геострофічний вітер – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%BD%89%E9%A2%A8" hreflang="zh" lang="zh" title="地轉風 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q929043#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 October 2017, at 18:54.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Geostrophic_wind&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.282","ppvisitednodes":{"value":442,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9529,"limit":2097152},"templateargumentsize":{"value":2009,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  211.555      1 -total"," 40.23%   85.116      3 Template:Refn"," 32.88%   69.561      3 Template:Cite_web"," 29.01%   61.362      1 Template:Dictionary.com"," 21.62%   45.744      1 Template:Val"," 21.33%   45.131      1 Template:IPAc-en","  6.45%   13.646      1 Template:Reflist","  4.64%    9.814      1 Template:See_also","  4.38%    9.270      1 Template:MerriamWebsterDictionary","  3.84%    8.119      1 Template:OxfordDictionaries.com"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":3192485,"limit":52428800}},"cachereport":{"origin":"mw1232","timestamp":"20171024185817","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1270"});});</script>
+</body>
+</html>

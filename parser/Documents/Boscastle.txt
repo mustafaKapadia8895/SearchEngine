@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Boscastle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Boscastle","wgTitle":"Boscastle","wgCurRevisionId":808005764,"wgRevisionId":808005764,"wgArticleId":596970,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from May 2015","Use British English from September 2013","Use dmy dates from January 2016","Articles containing Cornish-language text","Pages using deprecated image syntax","Articles with OS grid coordinates","Coordinates on Wikidata","Articles with DMOZ links","Populated coastal places in Cornwall","Ports and harbours of Cornwall","National Trust properties in Cornwall","Villages in Cornwall","Tourist attractions in Cornwall"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Boscastle","wgRelevantArticleId":596970,"wgRequestId":"WgHucgpAIDQAAExXMtsAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":50.684,"lon":-4.6929},"wgWikibaseItemId":"Q848212","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b0/Boscastle.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Boscastle" rel="alternate"/>
+<link href="/w/index.php?title=Boscastle&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Boscastle&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Boscastle" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Boscastle rootpage-Boscastle vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Boscastle</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Boscastle
+<div class="plainlist">
+<ul>
+<li><span style="font-size:78%"><a href="/wiki/Cornish_language" title="Cornish language">Cornish</a>: <span lang="kw" xml:lang="kw"><i>Kastel Boterel</i></span></span></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Boscastle.jpg"><img alt="Boscastle.jpg" data-file-height="682" data-file-width="1024" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Boscastle.jpg/250px-Boscastle.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Boscastle.jpg/375px-Boscastle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Boscastle.jpg/500px-Boscastle.jpg 2x" width="250"/></a><br/>
+Boscastle harbour and landscape</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:240px;padding:0">
+<div style="position:relative;width:240px"><a class="image" href="/wiki/File:Cornwall_UK_mainland_location_map.svg" title="Boscastle is located in Cornwall"><img alt="Boscastle is located in Cornwall" data-file-height="1187" data-file-width="1224" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cornwall_UK_mainland_location_map.svg/240px-Cornwall_UK_mainland_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cornwall_UK_mainland_location_map.svg/360px-Cornwall_UK_mainland_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cornwall_UK_mainland_location_map.svg/480px-Cornwall_UK_mainland_location_map.svg.png 2x" width="240"/></a>
+<div style="position:absolute;top:28.727%;left:65.124%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Boscastle" data-file-height="64" data-file-width="64" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Boscastle" width="6"/></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left">Boscastle</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Boscastle shown within <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS grid reference</a></th>
+<td><span class="plainlinks nourlexpansion"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/os/coor_g/?pagename=Boscastle&amp;params=SX098906_region%3AGB_scale%3A25000">SX098906</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="width: 40%"><a class="mw-redirect" href="/wiki/Civil_parishes_in_England" title="Civil parishes in England">Civil parish</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Forrabury_and_Minster" title="Forrabury and Minster">Forrabury and Minster</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Shire county</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/South_West_England" title="South West England">South West</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedrow adr">
+<th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th>
+<td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign state</a></th>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th>
+<td><span style="font-size:80%;"><span class="allcaps" style="text-transform:uppercase;">BOSCASTLE</span></span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode district</a></th>
+<td><span style="font-size:100%;"><a href="/wiki/PL_postcode_area" title="PL postcode area">PL35</a></span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling code</a></th>
+<td><span style="font-size:100%;">01840</span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a class="mw-redirect" href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" title="List of law enforcement agencies in the United Kingdom">Police</a></th>
+<td><a href="/wiki/Devon_and_Cornwall_Police" title="Devon and Cornwall Police">Devon and Cornwall</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th>
+<td><a href="/wiki/Cornwall_Fire_and_Rescue_Service" title="Cornwall Fire and Rescue Service">Cornwall</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th>
+<td><a href="/wiki/South_Western_Ambulance_Service" title="South Western Ambulance Service">South Western</a></td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2014%E2%80%9319" title="List of members of the European Parliament for the United Kingdom, 2014–19">EU Parliament</a></th>
+<td><a href="/wiki/South_West_England_(European_Parliament_constituency)" title="South West England (European Parliament constituency)">South West England</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row" style="width: 40%"><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" title="List of United Kingdom Parliament constituencies">UK Parliament</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/North_Cornwall_(UK_Parliament_constituency)" title="North Cornwall (UK Parliament constituency)">North Cornwall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist noprint nowrap" colspan="2" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl>
+<dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Cornwall" title="List of places in Cornwall">Cornwall</a></dd>
+</dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Boscastle&amp;params=50.6840_N_-4.6929_E_region:GB_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°41′02″N</span> <span class="longitude">4°41′34″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.6840°N 4.6929°W</span><span style="display:none">﻿ / <span class="geo">50.6840; -4.6929</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Boscastle&amp;params=50.6840_N_-4.6929_E_region:GB_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°41′02″N</span> <span class="longitude">4°41′34″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.6840°N 4.6929°W</span><span style="display:none">﻿ / <span class="geo">50.6840; -4.6929</span></span></span></a></span></span></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Harbour.JPG"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Harbour.JPG/220px-Harbour.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Harbour.JPG/330px-Harbour.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Harbour.JPG/440px-Harbour.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Harbour.JPG" title="Enlarge"></a></div>
+View from Boscastle harbour path leading to headland</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Boscastlesrsteel.jpg"><img alt="" class="thumbimage" data-file-height="714" data-file-width="1200" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Boscastlesrsteel.jpg/220px-Boscastlesrsteel.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Boscastlesrsteel.jpg/330px-Boscastlesrsteel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Boscastlesrsteel.jpg/440px-Boscastlesrsteel.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Boscastlesrsteel.jpg" title="Enlarge"></a></div>
+Boscastle Harbour</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Boscastle_path.JPG"><img alt="" class="thumbimage" data-file-height="2736" data-file-width="3648" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boscastle_path.JPG/220px-Boscastle_path.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boscastle_path.JPG/330px-Boscastle_path.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boscastle_path.JPG/440px-Boscastle_path.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Boscastle_path.JPG" title="Enlarge"></a></div>
+View from the path leading to the harbour</div>
+</div>
+</div>
+<p><b>Boscastle</b> (<a href="/wiki/Cornish_language" title="Cornish language">Cornish</a>: <span lang="kw" xml:lang="kw"><i>Kastel Boterel</i></span>)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> is a village and <a href="/wiki/Fishing" title="Fishing">fishing</a> <a href="/wiki/Port" title="Port">port</a> on the north coast of <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a>, England, UK, in the <a class="mw-redirect" href="/wiki/Civil_parishes_in_England" title="Civil parishes in England">civil parish</a> of <a href="/wiki/Forrabury_and_Minster" title="Forrabury and Minster">Forrabury and Minster</a> (where the 2011 Census population was included) . It is 14 miles (23 km) south of <a href="/wiki/Bude" title="Bude">Bude</a> and 5 miles (8 km) northeast of <a href="/wiki/Tintagel" title="Tintagel">Tintagel</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The <a class="mw-redirect" href="/wiki/Harbour" title="Harbour">harbour</a> is a natural inlet protected by two stone harbour walls built in 1584 by Sir <a href="/wiki/Richard_Grenville" title="Richard Grenville">Richard Grenville</a> and is the only significant harbour for 20 miles (32 km) along the coast. The village extends up the valleys of the <a href="/wiki/River_Valency" title="River Valency">River Valency</a> and <a class="new" href="/w/index.php?title=River_Jordan,_Cornwall&amp;action=edit&amp;redlink=1" title="River Jordan, Cornwall (page does not exist)">River Jordan</a>. Heavy rainfall on 16 August 2004 caused extensive damage to the village.</p>
+<p>Boscastle lies within the <a href="/wiki/Cornwall_Area_of_Outstanding_Natural_Beauty" title="Cornwall Area of Outstanding Natural Beauty">Cornwall Area of Outstanding Natural Beauty</a> (AONB). Almost a third of Cornwall has AONB designation, with the same status and protection as a National Park, and the <a href="/wiki/South_West_Coast_Path" title="South West Coast Path">South West Coast Path</a> passes through the village.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Churches"><span class="tocnumber">1.1</span> <span class="toctext">Churches</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Tourism"><span class="tocnumber">1.2</span> <span class="toctext">Tourism</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Boscastle_floods"><span class="tocnumber">1.3</span> <span class="toctext">Boscastle floods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Sport"><span class="tocnumber">2</span> <span class="toctext">Sport</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boscastle&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name of the village comes from Botreaux Castle (pronounced "But'ry"),<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> a 12th-century <a class="mw-redirect" href="/wiki/Motte-and-bailey" title="Motte-and-bailey">motte-and-bailey</a> fortress, of which few remains survive. The castle was anciently in the possession of the de Botreaux family, which became under <a href="/wiki/William_de_Botreaux,_1st_Baron_Botreaux" title="William de Botreaux, 1st Baron Botreaux">William de Botereaux</a> (1337–91) the <a href="/wiki/Baron_Botreaux" title="Baron Botreaux">Barons Botreaux</a>.</p>
+<p>The <a class="mw-redirect" href="/wiki/Antiquary" title="Antiquary">antiquary</a>, <a href="/wiki/John_Leland_(antiquary)" title="John Leland (antiquary)">John Leland</a> in the mid 16th-century described the village ″<i>... it is a very filthy town and il kept.</i>″<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Boscastle <a class="mw-redirect" href="/wiki/Harbour" title="Harbour">harbour</a> is a natural inlet protected by two stone harbour walls built in 1584 by Sir <a href="/wiki/Richard_Grenville" title="Richard Grenville">Richard Grenville</a> (of <a class="mw-redirect" href="/wiki/HMS_Revenge_(1577)" title="HMS Revenge (1577)">HMS <i>Revenge</i></a>). It is the only significant harbour for 20 miles (32 km) along the coast. Boscastle was once a small port (similar to many others on the north coast of Cornwall), importing limestone and coal, and exporting slate and other local produce.</p>
+<h3><span class="mw-headline" id="Churches">Churches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boscastle&amp;action=edit&amp;section=2" title="Edit section: Churches">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Rector of Boscastle is responsible for seven churches in the district: <a href="/wiki/Forrabury_and_Minster" title="Forrabury and Minster">Forrabury (St Symphorian), Minster (St Merthiana)</a>, <a href="/wiki/St_Juliot" title="St Juliot">St Juliot</a>, <a href="/wiki/Lesnewth" title="Lesnewth">Lesnewth</a> (St Michael and All Angels), <a href="/wiki/Trevalga" title="Trevalga">Trevalga</a> (St Petroc), <a href="/wiki/Otterham" title="Otterham">Otterham</a> (St Denis) and <a href="/wiki/Davidstow" title="Davidstow">Davidstow</a> (St David).<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> St Juliot is of particular interest to devotees of the works of <a href="/wiki/Thomas_Hardy" title="Thomas Hardy">Thomas Hardy</a> since he acted as the architect for the church's <a href="/wiki/Victorian_restoration" title="Victorian restoration">restoration</a> in March 1870 and this is where he met his first wife, <a href="/wiki/Emma_Gifford" title="Emma Gifford">Emma Gifford</a>, who was the Rector's sister-in-law. Their love affair was the inspiration for his novel <i><a href="/wiki/A_Pair_of_Blue_Eyes" title="A Pair of Blue Eyes">A Pair of Blue Eyes</a></i> and later in life, some of his poetry.</p>
+<dl>
+<dt><i>A Seaside Parish</i></dt>
+</dl>
+<p>In 2004 British television channel <a class="mw-redirect" href="/wiki/BBC_2" title="BBC 2">BBC 2</a> began broadcasting <i><a href="/wiki/A_Seaside_Parish" title="A Seaside Parish">A Seaside Parish</a></i>, a weekly series focusing on the life of the newly appointed Rector of Boscastle, Christine Musser.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Tourism">Tourism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boscastle&amp;action=edit&amp;section=3" title="Edit section: Tourism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The village, with its picturesque harbour, is a popular tourist destination. Among the attractions are the <a class="mw-redirect" href="/wiki/Museum_of_Witchcraft" title="Museum of Witchcraft">Museum of Witchcraft</a>,Uncle Paul's Emporium, the Boscastle pottery shop, and access to the <a href="/wiki/South_West_Coast_Path" title="South West Coast Path">South West Coast Path</a>.</p>
+<p>Much of the land in and around Boscastle is owned by the <a href="/wiki/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty" title="National Trust for Places of Historic Interest or Natural Beauty">National Trust</a>, including both sides of the harbour, Forrabury Stitches, high above the Boscastle and divided into ancient "<a class="new" href="/w/index.php?title=Stitchmeal_farming&amp;action=edit&amp;redlink=1" title="Stitchmeal farming (page does not exist)">stitchmeal</a>" cultivation plots, and large areas of the <a class="mw-redirect" href="/wiki/Valency_Valley" title="Valency Valley">Valency Valley</a>, known for its connections to <a href="/wiki/Thomas_Hardy" title="Thomas Hardy">Thomas Hardy</a>.</p>
+<p>The former harbour stables (part of the National Trust estate) are now a <a class="mw-redirect" href="/wiki/Youth_hostel" title="Youth hostel">youth hostel</a> run by <a class="mw-redirect" href="/wiki/YHA_(England_and_Wales)" title="YHA (England and Wales)">YHA</a>, popular with walkers. The National Trust runs a shop at the harbour,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and a <a class="mw-redirect" href="/wiki/Visitor_centre" title="Visitor centre">visitor centre</a> in the Old Smithy.</p>
+<h3><span class="mw-headline" id="Boscastle_floods">Boscastle floods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boscastle&amp;action=edit&amp;section=4" title="Edit section: Boscastle floods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Boscastle_flood_of_2004" title="Boscastle flood of 2004">Boscastle flood of 2004</a></div>
+<dl>
+<dt>Flood of 2004</dt>
+</dl>
+<p>A <a class="mw-redirect" href="/wiki/Boscastle_flood,_2004" title="Boscastle flood, 2004">flash flood</a> on 16 August 2004 caused extensive damage to the village. Residents were trapped in houses as the roads turned into rivers: people were trapped on roofs, in cars, in buildings and on the river's banks. and the village's visitor centre was washed away.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Two <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> <a href="/wiki/Westland_Sea_King" title="Westland Sea King">Westland Sea King</a> rescue helicopters from <a class="mw-redirect" href="/wiki/Royal_Marines_Base_Chivenor" title="Royal Marines Base Chivenor">Chivenor</a>, three <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> Sea Kings from <a class="mw-redirect" href="/wiki/Culdrose" title="Culdrose">Culdrose</a>, one RAF Sea King from <a class="mw-redirect" href="/wiki/RAF_St._Mawgan" title="RAF St. Mawgan">St Mawgan</a> and one Coastguard S61 helicopter from <a class="mw-redirect" href="/wiki/Portland,_Dorset" title="Portland, Dorset">Portland</a> searched for and assisted casualties in and around the village.</p>
+<p>The operation was coordinated by the Aeronautical Rescue Coordination Centre (<a class="mw-redirect" href="/wiki/ARCC" title="ARCC">ARCC</a>) based at <a href="/wiki/RAF_Kinloss" title="RAF Kinloss">RAF Kinloss</a> in Scotland in the largest peacetime rescue operation ever launched in the UK. A total of 91 people were rescued and there were no fatalities, only one broken thumb. Around 50 cars were swept into the harbour and the bridge was washed away, roads were submerged under 2.75 metres (9 ft) of water, making communication effectively impossible until flood-waters subsided. The sewerage system burst, and for this range of health and safety reasons Boscastle was declared temporarily inaccessible.</p>
+<p>The causes were: over 60 millimetres (2.4 in) of rainfall (typically a month's rainfall) fell in two hours; the ground was already saturated due to the previous two weeks of above average rainfall; the drainage basin has many steep slopes, and has areas of impermeable slate causing rapid surface run-off; Boscastle is at the <a href="/wiki/Confluence" title="Confluence">confluence</a> (where tributaries meet) of three rivers - Valency, Jordan, and Paradise; a large quantity of water all arrived within a short space of time causing the rivers to overflow; the flooding coincided with a high tide, making the effect worse.</p>
+<p>The effects were homes, businesses and cars belonging to more than 1,000 people were swept away; income from tourism was lost, which affected livelihoods and the local economy; there were vast numbers of subsequent insurance claims; no lives were lost, partly due to the rapid response of the emergency services.</p>
+<dl>
+<dt>Flood of 2007</dt>
+</dl>
+<p>Boscastle was flooded again on 21 June 2007 although the scale of destruction was not nearly as serious as in 2004.</p>
+<h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boscastle&amp;action=edit&amp;section=5" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Boscastle Golf Club (now defunct) was founded in 1907. The club continued until the mid-1920s.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boscastle&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.magakernow.org.uk/default.aspx?page=520" rel="nofollow">"Cornish Language Partnership : Place names in the SWF"</a>. Magakernow.org.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoscastle&amp;rft.btitle=Cornish+Language+Partnership+%3A+Place+names+in+the+SWF&amp;rft.genre=unknown&amp;rft.pub=Magakernow.org.uk&amp;rft_id=http%3A%2F%2Fwww.magakernow.org.uk%2Fdefault.aspx%3Fpage%3D520&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Ordnance Survey: Landranger map sheet 190 <i>Bude &amp; Clovelly</i> <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-319-23145-6" title="Special:BookSources/978-0-319-23145-6">978-0-319-23145-6</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">As is pronounced the name of the former Devon manor of <a href="/wiki/Molland" title="Molland">Molland-Bottreaux</a>, a remnant of which name survives as the hamlet of Bottreaux Mill, Molland.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">"On the North Coast (Continued from our last)". <i>The Cornishman</i> (17). 14 November 1878. p. 4.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoscastle&amp;rft.atitle=On+the+North+Coast+%28Continued+from+our+last%29&amp;rft.date=1878-11-14&amp;rft.genre=article&amp;rft.issue=17&amp;rft.jtitle=The+Cornishman&amp;rft.pages=4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20080723154606/http://www.boscastlecornwall.org.uk/church_locations.htm" rel="nofollow">"Boscastle group of 7 Churches"</a>. <i>Village website</i>. Archived from <a class="external text" href="http://www.boscastlecornwall.org.uk/church_locations.htm" rel="nofollow">the original</a> on 23 July 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoscastle&amp;rft.atitle=Boscastle+group+of+7+Churches&amp;rft.genre=unknown&amp;rft.jtitle=Village+website&amp;rft_id=http%3A%2F%2Fwww.boscastlecornwall.org.uk%2Fchurch_locations.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://news.bbc.co.uk/1/hi/england/cornwall/3445601.stm" rel="nofollow">"Seaside priest is TV star"</a>. BBC News. 1 February 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoscastle&amp;rft.atitle=Seaside+priest+is+TV+star&amp;rft.date=2004-02-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fengland%2Fcornwall%2F3445601.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://www.visitboscastleandtintagel.com/boscastle-and-tintagel/thedms.asp?dms=13&amp;venue=4520516" rel="nofollow">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since May 2015">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://news.bbc.co.uk/1/hi/england/cornwall/3570940.stm" rel="nofollow">"UK | England | Cornwall | Dozens rescued from flash floods"</a>. News.bbc.co.uk. 17 August 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoscastle&amp;rft.btitle=UK+%26%23124%3B+England+%26%23124%3B+Cornwall+%26%23124%3B+Dozens+rescued+from+flash+floods&amp;rft.date=2004-08-17&amp;rft.genre=unknown&amp;rft.pub=News.bbc.co.uk&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fengland%2Fcornwall%2F3570940.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.metoffice.gov.uk/climate/uk/interesting/20040816.html" rel="nofollow">"Flooding in north Cornwall - 16 August 2004"</a>. Metoffice.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoscastle&amp;rft.btitle=Flooding+in+north+Cornwall+-+16+August+2004&amp;rft.genre=unknown&amp;rft.pub=Metoffice.gov.uk&amp;rft_id=http%3A%2F%2Fwww.metoffice.gov.uk%2Fclimate%2Fuk%2Finteresting%2F20040816.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.golfsmissinglinks.co.uk/index.php?option=com_content&amp;view=article&amp;id=1013" rel="nofollow">"Golfs Missing Links"</a>. Golfsmissinglinks.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoscastle&amp;rft.btitle=Golfs+Missing+Links&amp;rft.genre=unknown&amp;rft.pub=Golfsmissinglinks.co.uk&amp;rft_id=http%3A%2F%2Fwww.golfsmissinglinks.co.uk%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1013&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Boscastle&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Boscastle" title="commons:Category:Boscastle">Boscastle</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="430" data-file-width="410" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" width="38"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article <i><b><a class="extiw" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Boscastle" title="wikisource:1911 Encyclopædia Britannica/Boscastle">Boscastle</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="https://dmoztools.net//Regional/Europe/United_Kingdom/England/Cornwall/Boscastle/" rel="nofollow">Boscastle</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+<li><a class="external text" href="http://www.boscastlecornwall.org.uk" rel="nofollow">Village website</a></li>
+<li><a class="external text" href="https://www.nationaltrust.org.uk/boscastle" rel="nofollow">Boscastle information at the National Trust</a></li>
+<li><a class="external text" href="http://crocat.cornwall.gov.uk/dserve/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqDb=Catalog&amp;dsqCmd=Overview.tcl&amp;dsqSearch=((text)='boscastle')" rel="nofollow">Cornwall Record Office Online Catalogue for Boscastle</a></li>
+<li><a class="external text" href="http://www.geograph.org.uk/gridref/SX0991?by=class" rel="nofollow">Free pictures of Boscastle Harbour at Geograph.org.uk</a></li>
+</ul>
+<div aria-labelledby="23x15px.7Cborder_.7Calt.3DCornwall.7Clink.3DCornwall_Ceremonial_county_of_Cornwall" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist vcard collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cornwall" title="Template:Cornwall"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cornwall" title="Template talk:Cornwall"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cornwall&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div class="adr" id="23x15px.7Cborder_.7Calt.3DCornwall.7Clink.3DCornwall_Ceremonial_county_of_Cornwall" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Cornwall" title="Cornwall"><img alt="Cornwall" class="thumbborder" data-file-height="400" data-file-width="600" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Cornwall.svg/23px-Flag_of_Cornwall.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Cornwall.svg/35px-Flag_of_Cornwall.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Cornwall.svg/45px-Flag_of_Cornwall.svg.png 2x" width="23"/></a></span> <span class="category"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></span> of <span class="fn org region"><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></span></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i><a href="/wiki/Portal:Cornwall" title="Portal:Cornwall">Cornwall Portal</a></i></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Unitary authorities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cornwall_Council" title="Cornwall Council">Cornwall Council</a></li>
+<li><a href="/wiki/Council_of_the_Isles_of_Scilly" title="Council of the Isles of Scilly">Council of the Isles of Scilly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Major settlements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bodmin" title="Bodmin">Bodmin</a></li>
+<li><a href="/wiki/Bude" title="Bude">Bude</a></li>
+<li><a href="/wiki/Callington,_Cornwall" title="Callington, Cornwall">Callington</a></li>
+<li><a href="/wiki/Camborne" title="Camborne">Camborne</a></li>
+<li><a href="/wiki/Camelford" title="Camelford">Camelford</a></li>
+<li><a href="/wiki/Falmouth,_Cornwall" title="Falmouth, Cornwall">Falmouth</a></li>
+<li><a href="/wiki/Fowey" title="Fowey">Fowey</a></li>
+<li><a href="/wiki/Hayle" title="Hayle">Hayle</a></li>
+<li><a href="/wiki/Helston" title="Helston">Helston</a></li>
+<li><a href="/wiki/Launceston,_Cornwall" title="Launceston, Cornwall">Launceston</a></li>
+<li><a href="/wiki/Liskeard" title="Liskeard">Liskeard</a></li>
+<li><a href="/wiki/Looe" title="Looe">Looe</a></li>
+<li><a href="/wiki/Lostwithiel" title="Lostwithiel">Lostwithiel</a></li>
+<li><a href="/wiki/Marazion" title="Marazion">Marazion</a></li>
+<li><a href="/wiki/Newlyn" title="Newlyn">Newlyn</a></li>
+<li><a href="/wiki/Newquay" title="Newquay">Newquay</a></li>
+<li><a href="/wiki/Padstow" title="Padstow">Padstow</a></li>
+<li><a href="/wiki/Par,_Cornwall" title="Par, Cornwall">Par</a></li>
+<li><a href="/wiki/Penryn,_Cornwall" title="Penryn, Cornwall">Penryn</a></li>
+<li><a href="/wiki/Penzance" title="Penzance">Penzance</a></li>
+<li><a href="/wiki/Porthleven" title="Porthleven">Porthleven</a></li>
+<li><a href="/wiki/Redruth" title="Redruth">Redruth</a></li>
+<li><a href="/wiki/Saltash" title="Saltash">Saltash</a></li>
+<li><a href="/wiki/St_Austell" title="St Austell">St Austell</a></li>
+<li><a href="/wiki/St_Blazey" title="St Blazey">St Blazey</a></li>
+<li><a href="/wiki/St_Columb_Major" title="St Columb Major">St Columb Major</a></li>
+<li><a href="/wiki/St_Ives,_Cornwall" title="St Ives, Cornwall">St Ives</a></li>
+<li><a href="/wiki/St_Just_in_Penwith" title="St Just in Penwith">St Just in Penwith</a></li>
+<li><a href="/wiki/St_Mawes" title="St Mawes">St Mawes</a></li>
+<li><a href="/wiki/Stratton,_Cornwall" title="Stratton, Cornwall">Stratton</a></li>
+<li><a href="/wiki/Torpoint" title="Torpoint">Torpoint</a></li>
+<li><a href="/wiki/Truro" title="Truro">Truro</a></li>
+<li><a href="/wiki/Wadebridge" title="Wadebridge">Wadebridge</a><br/>
+<i>See also:</i> <b><a class="mw-redirect" href="/wiki/List_of_civil_parishes_in_Cornwall" title="List of civil parishes in Cornwall">List of civil parishes in Cornwall</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Rivers</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/River_Allen,_Cornwall" title="River Allen, Cornwall">Allen</a></li>
+<li><a href="/wiki/River_Camel" title="River Camel">Camel</a></li>
+<li><a href="/wiki/River_Cober" title="River Cober">Cober</a></li>
+<li><a href="/wiki/De_Lank_River" title="De Lank River">De Lank</a></li>
+<li><a href="/wiki/River_Fal" title="River Fal">Fal</a></li>
+<li><a href="/wiki/River_Fowey" title="River Fowey">Fowey</a></li>
+<li><a href="/wiki/River_Gannel" title="River Gannel">Gannel</a></li>
+<li><a href="/wiki/Gover_Stream" title="Gover Stream">Gover</a></li>
+<li><a href="/wiki/River_Hayle" title="River Hayle">Hayle</a></li>
+<li><a href="/wiki/Helford_River" title="Helford River">Helford</a></li>
+<li><a href="/wiki/River_Inny,_Cornwall" title="River Inny, Cornwall">Inny</a></li>
+<li><a href="/wiki/River_Kensey" title="River Kensey">Kensey</a></li>
+<li><a href="/wiki/River_Lerryn" title="River Lerryn">Lerryn</a></li>
+<li><a href="/wiki/River_Looe" title="River Looe">Looe</a></li>
+<li><a href="/wiki/River_Lynher" title="River Lynher">Lynher</a></li>
+<li><a href="/wiki/River_Menalhyl" title="River Menalhyl">Menalhyl</a></li>
+<li><a href="/wiki/River_Ottery" title="River Ottery">Ottery</a></li>
+<li><a href="/wiki/Par_River,_Cornwall" title="Par River, Cornwall">Par</a></li>
+<li><a href="/wiki/Pont_Pill" title="Pont Pill">Pont Pill</a></li>
+<li><a href="/wiki/Port_Navas_Creek" title="Port Navas Creek">Port Navas</a></li>
+<li><a href="/wiki/Red_River_(Koner)" title="Red River (Koner)">Red</a></li>
+<li><a href="/wiki/River_Seaton" title="River Seaton">Seaton</a></li>
+<li><a href="/wiki/St_Austell_River" title="St Austell River">St Austell</a></li>
+<li><a href="/wiki/River_Tamar" title="River Tamar">Tamar</a></li>
+<li><a href="/wiki/River_Tiddy" title="River Tiddy">Tiddy</a></li>
+<li><a href="/wiki/River_Truro" title="River Truro">Truro</a></li>
+<li><a href="/wiki/River_Valency" title="River Valency">Valency</a></li>
+<li><i><a href="/wiki/List_of_rivers_in_Cornwall" title="List of rivers in Cornwall">full list...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Cornwall" title="History of Cornwall">History</a></li>
+<li><a href="/wiki/Constitutional_status_of_Cornwall" title="Constitutional status of Cornwall">Status debate</a></li>
+<li><a href="/wiki/Saint_Piran%27s_Flag" title="Saint Piran's Flag">Flag</a></li>
+<li><a href="/wiki/Culture_of_Cornwall" title="Culture of Cornwall">Culture</a></li>
+<li><a href="/wiki/Economy_of_Cornwall" title="Economy of Cornwall">Economy</a></li>
+<li><a href="/wiki/List_of_places_in_Cornwall" title="List of places in Cornwall">Places</a></li>
+<li><a href="/wiki/List_of_settlements_in_Cornwall_by_population" title="List of settlements in Cornwall by population">Population of major settlements</a></li>
+<li><a href="/wiki/Demography_of_Cornwall" title="Demography of Cornwall">Demography</a></li>
+<li><a href="/wiki/List_of_people_from_Cornwall" title="List of people from Cornwall">Notable people</a></li>
+<li><a href="/wiki/Duchy_of_Cornwall" title="Duchy of Cornwall">The Duchy</a></li>
+<li><a href="/wiki/Diocese_of_Truro" title="Diocese of Truro">Diocese</a></li>
+<li><a href="/wiki/Politics_of_Cornwall" title="Politics of Cornwall">Politics</a></li>
+<li><a href="/wiki/List_of_schools_in_Cornwall" title="List of schools in Cornwall">Schools</a></li>
+<li><a href="/wiki/Hundreds_of_Cornwall" title="Hundreds of Cornwall">Hundreds/shires</a></li>
+<li><a href="/wiki/Places_of_interest_in_Cornwall" title="Places of interest in Cornwall">Places of interest</a></li>
+<li><i><a class="mw-redirect" href="/wiki/List_of_topics_related_to_Cornwall" title="List of topics related to Cornwall">full list...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20171031091122
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.352 seconds
+Real time usage: 0.461 seconds
+Preprocessor visited node count: 3597/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74249/2097152 bytes
+Template argument size: 13639/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 8/500
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 5.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  398.340      1 -total
+ 43.64%  173.830      1 Template:Infobox_UK_place
+ 39.78%  158.456      2 Template:Infobox
+ 28.03%  111.661      1 Template:Reflist
+ 13.30%   52.987     25 Template:Ubl
+ 11.00%   43.806      5 Template:Cite_web
+  8.43%   33.587      6 Template:Convert
+  7.14%   28.423      4 Template:Category_handler
+  6.57%   26.165      1 Template:Coord
+  6.21%   24.755      1 Template:Location_map
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:596970-0!canonical and timestamp 20171031091143 and revision id 808005764
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Boscastle&amp;oldid=808005764">https://en.wikipedia.org/w/index.php?title=Boscastle&amp;oldid=808005764</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Populated_coastal_places_in_Cornwall" title="Category:Populated coastal places in Cornwall">Populated coastal places in Cornwall</a></li><li><a href="/wiki/Category:Ports_and_harbours_of_Cornwall" title="Category:Ports and harbours of Cornwall">Ports and harbours of Cornwall</a></li><li><a href="/wiki/Category:National_Trust_properties_in_Cornwall" title="Category:National Trust properties in Cornwall">National Trust properties in Cornwall</a></li><li><a href="/wiki/Category:Villages_in_Cornwall" title="Category:Villages in Cornwall">Villages in Cornwall</a></li><li><a href="/wiki/Category:Tourist_attractions_in_Cornwall" title="Category:Tourist attractions in Cornwall">Tourist attractions in Cornwall</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_May_2015" title="Category:Articles with dead external links from May 2015">Articles with dead external links from May 2015</a></li><li><a href="/wiki/Category:Use_British_English_from_September_2013" title="Category:Use British English from September 2013">Use British English from September 2013</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2016" title="Category:Use dmy dates from January 2016">Use dmy dates from January 2016</a></li><li><a href="/wiki/Category:Articles_containing_Cornish-language_text" title="Category:Articles containing Cornish-language text">Articles containing Cornish-language text</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Boscastle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Boscastle" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Boscastle" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Boscastle" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Boscastle">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Boscastle&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Boscastle&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Boscastle" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Boscastle" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Boscastle&amp;oldid=808005764" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Boscastle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q848212" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Boscastle&amp;id=808005764" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Boscastle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Boscastle&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Boscastle&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Boscastle" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Boscastle" hreflang="en">Wikivoyage</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B3%D9%83%D8%B3%D8%AA%D9%84_(%D9%83%D9%88%D8%B1%D9%86%D9%88%D8%A7%D9%84)" hreflang="ar" lang="ar" title="بسكستل (كورنوال) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Boscastle" hreflang="ceb" lang="ceb" title="Boscastle – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Boscastle" hreflang="cy" lang="cy" title="Boscastle – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Boscastle" hreflang="de" lang="de" title="Boscastle – German">Deutsch</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Boscastle" hreflang="eu" lang="eu" title="Boscastle – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Boscastle" hreflang="fr" lang="fr" title="Boscastle – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Boscastle" hreflang="fy" lang="fy" title="Boscastle – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Boscastle" hreflang="it" lang="it" title="Boscastle – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kw"><a class="interlanguage-link-target" href="https://kw.wikipedia.org/wiki/Kastell_Boterel" hreflang="kw" lang="kw" title="Kastell Boterel – Cornish">Kernowek</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Boscastle" hreflang="la" lang="la" title="Boscastle – Latin">Latina</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Boscastle" hreflang="hu" lang="hu" title="Boscastle – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Boscastle" hreflang="nl" lang="nl" title="Boscastle – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Boscastle" hreflang="pl" lang="pl" title="Boscastle – Polish">Polski</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Boscastle" hreflang="qu" lang="qu" title="Boscastle – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Boscastle" hreflang="simple" lang="simple" title="Boscastle – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Boscastle" hreflang="sl" lang="sl" title="Boscastle – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Boscastle" hreflang="sv" lang="sv" title="Boscastle – Swedish">Svenska</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q848212#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 October 2017, at 09:11.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Boscastle&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.461","ppvisitednodes":{"value":3597,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74249,"limit":2097152},"templateargumentsize":{"value":13639,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  398.340      1 -total"," 43.64%  173.830      1 Template:Infobox_UK_place"," 39.78%  158.456      2 Template:Infobox"," 28.03%  111.661      1 Template:Reflist"," 13.30%   52.987     25 Template:Ubl"," 11.00%   43.806      5 Template:Cite_web","  8.43%   33.587      6 Template:Convert","  7.14%   28.423      4 Template:Category_handler","  6.57%   26.165      1 Template:Coord","  6.21%   24.755      1 Template:Location_map"]},"scribunto":{"limitreport-timeusage":{"value":"0.144","limit":"10.000"},"limitreport-memusage":{"value":5690021,"limit":52428800}},"cachereport":{"origin":"mw1277","timestamp":"20171031091122","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1182"});});</script>
+</body>
+</html>

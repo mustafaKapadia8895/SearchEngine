@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Cape Agulhas - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cape_Agulhas","wgTitle":"Cape Agulhas","wgCurRevisionId":807758096,"wgRevisionId":807758096,"wgArticleId":303684,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Use South African English from May 2012","All Wikipedia articles written in South African English","Use dmy dates from January 2014","Articles containing Portuguese-language text","Pages using weather box with unknown parameters","Coordinates on Wikidata","Headlands of the Western Cape","Maritime history of South Africa"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cape_Agulhas","wgRelevantArticleId":303684,"wgRequestId":"WgHpUApAMFIAAA4CQlsAAAAK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":-34.833333333333,"lon":20.002541666667},"wgWikibaseItemId":"Q4085","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Agulhas.jpg/1200px-Agulhas.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cape_Agulhas" rel="alternate"/>
+<link href="/w/index.php?title=Cape_Agulhas&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cape_Agulhas&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Cape_Agulhas" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cape_Agulhas rootpage-Cape_Agulhas vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Cape Agulhas</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the municipality, see <a href="/wiki/Cape_Agulhas_Local_Municipality" title="Cape Agulhas Local Municipality">Cape Agulhas Local Municipality</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Agulhas.jpg"><img alt="" class="thumbimage" data-file-height="1200" data-file-width="1600" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Agulhas.jpg/220px-Agulhas.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Agulhas.jpg/330px-Agulhas.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Agulhas.jpg/440px-Agulhas.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Agulhas.jpg" title="Ingrandisci"></a></div>
+A marker at Cape Agulhas indicates the official dividing line between the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> and <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian</a> oceans.</div>
+</div>
+</div>
+<p><b>Cape Agulhas</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɡ/: 'g' in 'guy'">ɡ</span><span title="/ʌ/: 'u' in 'cut'">ʌ</span><span title="'l' in 'lie'">l</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'s' in 'sigh'">s</span></span>/</a></span></span>; <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>Cabo das Agulhas</i></span> <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Portuguese" title="Help:IPA/Portuguese">[ˈkaβu ðɐz ɐˈɣuʎɐʃ]</a></span>, "Cape of the Needles") is a rocky <a href="/wiki/Headland" title="Headland">headland</a> in <a href="/wiki/Western_Cape" title="Western Cape">Western Cape</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a>.</p>
+<p>It is the geographic <a class="mw-redirect" href="/wiki/Extreme_points_of_Africa" title="Extreme points of Africa">southern tip</a> of the <a href="/wiki/Africa" title="Africa">African continent</a> and the beginning of the dividing line between the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> and <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian</a> Oceans according to the <a href="/wiki/International_Hydrographic_Organization" title="International Hydrographic Organization">International Hydrographic Organization</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Historically, the cape has been known to sailors as a major hazard on the traditional <a href="/wiki/Clipper_route" title="Clipper route">clipper route</a>. It is sometimes regarded as one of the <a href="/wiki/Great_capes" title="Great capes">great capes</a>. It was most commonly known in English as <b>Cape L'Agulhas</b> until the 20th century. The town of <a href="/wiki/L%27Agulhas" title="L'Agulhas">L'Agulhas</a> is located near to the cape.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Climate"><span class="tocnumber">2</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Shipping_hazards"><span class="tocnumber">3</span> <span class="toctext">Shipping hazards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Agulhas&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:CapeHopeDetail.png"><img alt="" class="thumbimage" data-file-height="487" data-file-width="906" height="118" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CapeHopeDetail.png/220px-CapeHopeDetail.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CapeHopeDetail.png/330px-CapeHopeDetail.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CapeHopeDetail.png/440px-CapeHopeDetail.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:CapeHopeDetail.png" title="Ingrandisci"></a></div>
+Map showing the location of Cape Agulhas relative to the <a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">Cape of Good Hope</a>.</div>
+</div>
+</div>
+<p>Cape Agulhas is located in the <a href="/wiki/Overberg" title="Overberg">Overberg</a> region, 170 kilometres (105 mi) southeast of <a href="/wiki/Cape_Town" title="Cape Town">Cape Town</a>. The cape was named by <a href="/wiki/Portuguese_discoveries" title="Portuguese discoveries">Portuguese navigators</a>, who called it <i>Cabo das Agulhas</i>—<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> for "Cape of Needles"—after noticing that around the year 1500 the direction of <a class="mw-redirect" href="/wiki/Magnetic_north" title="Magnetic north">magnetic north</a> (and therefore the compass needle) coincided with <a href="/wiki/True_north" title="True north">true north</a> in the region.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The cape is within the <a href="/wiki/Cape_Agulhas_Local_Municipality" title="Cape Agulhas Local Municipality">Cape Agulhas Local Municipality</a> in the <a href="/wiki/Overberg_District_Municipality" title="Overberg District Municipality">Overberg District</a> of the <a href="/wiki/Western_Cape" title="Western Cape">Western Cape</a> province of South Africa.<sup class="reference" id="cite_ref-capemuni_3-0"><a href="#cite_note-capemuni-3">[3]</a></sup> The nearby small airport of Andrew's Field services Agulhas.</p>
+<p>South of Cape Agulhas the warm <a href="/wiki/Agulhas_Current" title="Agulhas Current">Agulhas Current</a> that flows south along the east coast of Africa retroflects back into the Indian Ocean. While retroflecting, it pinches off large ocean eddies (Agulhas rings) that drift into the South Atlantic Ocean and take enormous amounts of heat and salt into the neighbouring ocean. This mechanism constitutes one of the key elements in the global <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">conveyor belt</a> circulation of heat and salt.</p>
+<p>Unlike its better-known relative, the <a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">Cape of Good Hope</a>, Cape Agulhas is relatively unspectacular, consisting of a gradually curving coastline with a rocky beach. A survey marker indicates the location of the cape, which would otherwise be difficult to identify. The waters of the <a href="/wiki/Agulhas_Bank" title="Agulhas Bank">Agulhas Bank</a> off the coast are quite shallow and are renowned as one of the best fishing grounds in South Africa.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The rocks that form Cape Agulhas belong to the <a href="/wiki/Table_Mountain" title="Table Mountain">Table Mountain</a> Group, often loosely termed the Table Mountain sandstone. They are closely linked to the geological formations that are exposed in the spectacular cliffs of Table Mountain, <a href="/wiki/Cape_Point" title="Cape Point">Cape Point</a> and the <a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">Cape of Good Hope</a>.</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Agulhas&amp;action=edit&amp;section=2" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cape Agulhas a warm <a href="/wiki/Mediterranean_climate" title="Mediterranean climate">Mediterranean climate</a> (<a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a>:<i>Csb</i> ). The climate is consistently mild, with no temperature or rainfall extremes. According to <a href="/wiki/South_African_National_Parks" title="South African National Parks">South African National Parks</a>, who administer the nature reserve, the average rainfall is 400–600 mm per annum, mostly received in winter.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Temperature climate data is available for Cape Agulhas, averages are:</p>
+<ul>
+<li>Jan max: 23.8 °C (min: 17.7 °C); Jul max: 16.5 °C (min: 10.8 °C)</li>
+</ul>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Cape Agulhas</th>
+</tr>
+<tr>
+<th scope="row">Month</th>
+<th scope="col">Jan</th>
+<th scope="col">Feb</th>
+<th scope="col">Mar</th>
+<th scope="col">Apr</th>
+<th scope="col">May</th>
+<th scope="col">Jun</th>
+<th scope="col">Jul</th>
+<th scope="col">Aug</th>
+<th scope="col">Sep</th>
+<th scope="col">Oct</th>
+<th scope="col">Nov</th>
+<th scope="col">Dec</th>
+<th scope="col" style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record high °C (°F)</th>
+<td style="background: #FF5600; color:#000000;">28.9<br/>
+(84)</td>
+<td style="background: #FF2500; color:#000000;">36.1<br/>
+(97)</td>
+<td style="background: #FF2C00; color:#000000;">35.0<br/>
+(95)</td>
+<td style="background: #FF2800; color:#000000;">35.6<br/>
+(96.1)</td>
+<td style="background: #FF3400; color:#000000;">33.9<br/>
+(93)</td>
+<td style="background: #FF4F00; color:#000000;">30.0<br/>
+(86)</td>
+<td style="background: #FF5300; color:#000000;">29.4<br/>
+(84.9)</td>
+<td style="background: #FF4300; color:#000000;">31.7<br/>
+(89.1)</td>
+<td style="background: #FF4000; color:#000000;">32.2<br/>
+(90)</td>
+<td style="background: #FF6A00; color:#000000;">26.1<br/>
+(79)</td>
+<td style="background: #FF4B00; color:#000000;">30.6<br/>
+(87.1)</td>
+<td style="background: #FF4B00; color:#000000;">30.6<br/>
+(87.1)</td>
+<td style="background: #FF2500; color:#000000; border-left-width:medium">36.1<br/>
+(97)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #FF7D00; color:#000000;">23.3<br/>
+(73.9)</td>
+<td style="background: #FF7D00; color:#000000;">23.3<br/>
+(73.9)</td>
+<td style="background: #FF850B; color:#000000;">22.2<br/>
+(72)</td>
+<td style="background: #FF9021; color:#000000;">20.6<br/>
+(69.1)</td>
+<td style="background: #FF9B38; color:#000000;">18.9<br/>
+(66)</td>
+<td style="background: #FFA74F; color:#000000;">17.2<br/>
+(63)</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br/>
+(61)</td>
+<td style="background: #FFA74F; color:#000000;">17.2<br/>
+(63)</td>
+<td style="background: #FFA74F; color:#000000;">17.2<br/>
+(63)</td>
+<td style="background: #FF9B38; color:#000000;">18.9<br/>
+(66)</td>
+<td style="background: #FF9021; color:#000000;">20.6<br/>
+(69.1)</td>
+<td style="background: #FF850B; color:#000000;">22.2<br/>
+(72)</td>
+<td style="background: #FF952C; color:#000000; border-left-width:medium">19.8<br/>
+(67.6)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #FF9225; color:#000000;">20.3<br/>
+(68.5)</td>
+<td style="background: #FF9225; color:#000000;">20.3<br/>
+(68.5)</td>
+<td style="background: #FF9934; color:#000000;">19.2<br/>
+(66.6)</td>
+<td style="background: #FFA54B; color:#000000;">17.5<br/>
+(63.5)</td>
+<td style="background: #FFB163; color:#000000;">15.8<br/>
+(60.4)</td>
+<td style="background: #FFBC79; color:#000000;">14.2<br/>
+(57.6)</td>
+<td style="background: #FFC388; color:#000000;">13.1<br/>
+(55.6)</td>
+<td style="background: #FFBE7D; color:#000000;">13.9<br/>
+(57)</td>
+<td style="background: #FFBC79; color:#000000;">14.2<br/>
+(57.6)</td>
+<td style="background: #FFB163; color:#000000;">15.8<br/>
+(60.4)</td>
+<td style="background: #FFA347; color:#000000;">17.8<br/>
+(64)</td>
+<td style="background: #FF9934; color:#000000;">19.2<br/>
+(66.6)</td>
+<td style="background: #FFAA55; color:#000000; border-left-width:medium">16.8<br/>
+(62.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #FFA74F; color:#000000;">17.2<br/>
+(63)</td>
+<td style="background: #FFA74F; color:#000000;">17.2<br/>
+(63)</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br/>
+(61)</td>
+<td style="background: #FFBA76; color:#000000;">14.4<br/>
+(57.9)</td>
+<td style="background: #FFC58C; color:#000000;">12.8<br/>
+(55)</td>
+<td style="background: #FFD1A4; color:#000000;">11.1<br/>
+(52)</td>
+<td style="background: #FFD9B3; color:#000000;">10.0<br/>
+(50)</td>
+<td style="background: #FFD4AA; color:#000000;">10.6<br/>
+(51.1)</td>
+<td style="background: #FFD1A4; color:#000000;">11.1<br/>
+(52)</td>
+<td style="background: #FFC58C; color:#000000;">12.8<br/>
+(55)</td>
+<td style="background: #FFB66E; color:#000000;">15.0<br/>
+(59)</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br/>
+(61)</td>
+<td style="background: #FFBF80; color:#000000; border-left-width:medium">13.7<br/>
+(56.7)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record low °C (°F)</th>
+<td style="background: #FFE4CA; color:#000000;">8.3<br/>
+(46.9)</td>
+<td style="background: #FFE0C2; color:#000000;">8.9<br/>
+(48)</td>
+<td style="background: #FFDDBB; color:#000000;">9.4<br/>
+(48.9)</td>
+<td style="background: #FFFBF8; color:#000000;">5.0<br/>
+(41)</td>
+<td style="background: #FEFEFF; color:#000000;">4.4<br/>
+(39.9)</td>
+<td style="background: #FFF7EF; color:#000000;">5.6<br/>
+(42.1)</td>
+<td style="background: #FBFBFF; color:#000000;">3.9<br/>
+(39)</td>
+<td style="background: #FEFEFF; color:#000000;">4.4<br/>
+(39.9)</td>
+<td style="background: #FEFEFF; color:#000000;">4.4<br/>
+(39.9)</td>
+<td style="background: #FFFBF8; color:#000000;">5.0<br/>
+(41)</td>
+<td style="background: #FFFBF8; color:#000000;">5.0<br/>
+(41)</td>
+<td style="background: #FFFBF8; color:#000000;">5.0<br/>
+(41)</td>
+<td style="background: #FBFBFF; color:#000000; border-left-width:medium">3.9<br/>
+(39)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average rainfall mm (inches)</th>
+<td style="background: #E0E0FF; color:#000000;">20.3<br/>
+(0.799)</td>
+<td style="background: #E1E1FF; color:#000000;">17.8<br/>
+(0.701)</td>
+<td style="background: #CDCDFF; color:#000000;">33.0<br/>
+(1.299)</td>
+<td style="background: #C4C4FF; color:#000000;">38.1<br/>
+(1.5)</td>
+<td style="background: #B3B3FF; color:#000000;">50.8<br/>
+(2)</td>
+<td style="background: #A5A5FF; color:#000000;">58.4<br/>
+(2.299)</td>
+<td style="background: #AFAFFF; color:#000000;">53.3<br/>
+(2.098)</td>
+<td style="background: #B7B7FF; color:#000000;">48.3<br/>
+(1.902)</td>
+<td style="background: #C0C0FF; color:#000000;">40.6<br/>
+(1.598)</td>
+<td style="background: #C6C6FF; color:#000000;">38.1<br/>
+(1.5)</td>
+<td style="background: #D4D4FF; color:#000000;">27.9<br/>
+(1.098)</td>
+<td style="background: #E4E4FF; color:#000000;">17.8<br/>
+(0.701)</td>
+<td style="background: #C6C6FF; color:#000000; border-left-width:medium">444.4<br/>
+(17.496)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average rainy days</th>
+<td style="background: #F2F2FF; color:#000000;">1</td>
+<td style="background: #F1F1FF; color:#000000;">1</td>
+<td style="background: #D9D9FF; color:#000000;">3</td>
+<td style="background: #D8D8FF; color:#000000;">3</td>
+<td style="background: #CDCDFF; color:#000000;">4</td>
+<td style="background: #CCCCFF; color:#000000;">4</td>
+<td style="background: #CDCDFF; color:#000000;">4</td>
+<td style="background: #D9D9FF; color:#000000;">3</td>
+<td style="background: #D8D8FF; color:#000000;">3</td>
+<td style="background: #E6E6FF; color:#000000;">2</td>
+<td style="background: #E5E5FF; color:#000000;">2</td>
+<td style="background: #F2F2FF; color:#000000;">1</td>
+<td style="background: #D9D9FF; color:#000000; border-left-width:medium">36</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> (%)</th>
+<td style="background: #0000D7; color:#FFFFFF;">77</td>
+<td style="background: #0000CF; color:#FFFFFF;">79</td>
+<td style="background: #0000C0; color:#FFFFFF;">83</td>
+<td style="background: #0000BC; color:#FFFFFF;">84</td>
+<td style="background: #0000C8; color:#FFFFFF;">81</td>
+<td style="background: #0000CB; color:#FFFFFF;">80</td>
+<td style="background: #0000CB; color:#FFFFFF;">80</td>
+<td style="background: #0000C4; color:#FFFFFF;">82</td>
+<td style="background: #0000C8; color:#FFFFFF;">81</td>
+<td style="background: #0000CF; color:#FFFFFF;">79</td>
+<td style="background: #0000CF; color:#FFFFFF;">79</td>
+<td style="background: #0000D7; color:#FFFFFF;">77</td>
+<td style="background: #0000CB; color:#FFFFFF; border-left-width:medium">80</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source #1: Sistema de Clasificación Bioclimática Mundial<sup class="reference" id="cite_ref-climate_7-0"><a href="#cite_note-climate-7">[7]</a></sup></td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center; font-size:95%;">Source #2: Weatherbase<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Shipping_hazards">Shipping hazards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Agulhas&amp;action=edit&amp;section=3" title="Edit section: Shipping hazards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:AgulhasLighthouse.jpg"><img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AgulhasLighthouse.jpg/220px-AgulhasLighthouse.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AgulhasLighthouse.jpg/330px-AgulhasLighthouse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AgulhasLighthouse.jpg/440px-AgulhasLighthouse.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:AgulhasLighthouse.jpg" title="Ingrandisci"></a></div>
+The <a href="/wiki/Cape_Agulhas_Lighthouse" title="Cape Agulhas Lighthouse">lighthouse at Cape Agulhas</a> has guided many ships around the cape over the years.</div>
+</div>
+</div>
+<p>The sea off Cape Agulhas is notorious for winter storms and mammoth <a class="mw-redirect" href="/wiki/Freak_wave" title="Freak wave">rogue waves</a>, which can range up to 30 metres (100 ft) high and can sink even large ships.<sup class="reference" id="cite_ref-Econ1_9-0"><a href="#cite_note-Econ1-9">[9]</a></sup> Over the past few hundred years it has been believed that around 150 ships have sunk around Agulhas.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> These conditions are caused by a number of factors. The naturally strong winds of the <a class="mw-redirect" href="/wiki/Roaring_forties" title="Roaring forties">roaring forties</a>, which blow from west to east, and the cold <a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar Current</a> flowing in the same direction, come up against the warmer <a href="/wiki/Agulhas_Current" title="Agulhas Current">Agulhas Current</a> in the region of the cape. These conflicting currents of water of different densities, and the west winds blowing against the Agulhas Current, can create extremely hazardous wave conditions; these are further exacerbated by the shallow waters of the <a href="/wiki/Agulhas_Bank" title="Agulhas Bank">Agulhas Bank</a>, a broad, shallow part of the <a href="/wiki/Continental_shelf" title="Continental shelf">continental shelf</a> which juts 250 kilometres (155 mi) south from the cape, after which it falls steeply away to the <a href="/wiki/Abyssal_plain" title="Abyssal plain">abyssal plain</a>.</p>
+<p>These hazards have combined to make the cape notorious among sailors. The coast here is littered with wrecks: <i><a class="mw-redirect" href="/wiki/Arniston_(ship)" title="Arniston (ship)">Arniston</a></i> (1815), <i>Cooranga</i> (1964), <i>Elise</i> (1879), <i>Federal Lakes</i> (1975), <i>Geortyrder</i> (1849), <i>Gouritz</i> (1981), and <i>Gwendola</i> (1968) are just a few of the vessels lost in the proximity of the "Cape of Needles".<sup class="reference" id="cite_ref-wreck_11-0"><a href="#cite_note-wreck-11">[11]</a></sup> Owing to the hazards and following the loss of several vessels, notably the <a class="mw-redirect" href="/wiki/Arniston_(ship)" title="Arniston (ship)"><i>Arniston</i></a>, <a href="/wiki/Cape_Agulhas_Lighthouse" title="Cape Agulhas Lighthouse">a lighthouse</a> was built in 1848.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The lighthouse now plays host to a museum and a small rustic restaurant.</p>
+<div class="thumb tnone" style="clear:both">
+<div class="thumbinner">
+<div class="overflowbugx" style="overflow: auto;"><a class="image" href="/wiki/File:Cape_Agulhas_panorama.jpg"><img alt="" data-file-height="960" data-file-width="8453" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cape_Agulhas_panorama.jpg/1321px-Cape_Agulhas_panorama.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cape_Agulhas_panorama.jpg/1982px-Cape_Agulhas_panorama.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cape_Agulhas_panorama.jpg/2642px-Cape_Agulhas_panorama.jpg 2x" width="1321"/></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cape_Agulhas_panorama.jpg" title="File:Cape Agulhas panorama.jpg"></a></div>
+Panorama from the lighthouse around the cape</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Agulhas&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cape_Agulhas_Local_Municipality" title="Cape Agulhas Local Municipality">Cape Agulhas Local Municipality</a>, the municipality containing Cape Agulhas.</li>
+<li><a href="/wiki/Agulhas_National_Park" title="Agulhas National Park">Agulhas National Park</a></li>
+<li><a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">Cape of Good Hope</a>, near <a href="/wiki/Cape_Town" title="Cape Town">Cape Town</a>, often incorrectly regarded as the southernmost point of Africa.</li>
+<li><a href="/wiki/SS_Wafra_oil_spill" title="SS Wafra oil spill">SS <i>Wafra</i> oil spill</a></li>
+<li><a href="/wiki/Cape_Agulhas_Lighthouse" title="Cape Agulhas Lighthouse">Cape Agulhas Lighthouse</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Agulhas&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.iho.int/mtg_docs/com_wg/S-23WG/S-23WG_Misc/Draft_2002/S-23_Draft_2002_INDIAN_OCEAN.doc" rel="nofollow"><i>Limits of Oceans and Seas</i></a>. International Hydrographic Organization Special Publication No. 23, 1953.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Patricia_Seed" title="Patricia Seed">Patricia Seed</a>: <a class="external text" href="http://www.ruf.rice.edu/~feegi/magnet.html" rel="nofollow">Discovery of the Coincidence of Magnetic and True North</a></span></li>
+<li id="cite_note-capemuni-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-capemuni_3-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.capeagulhas.org/" rel="nofollow"><i>Cape Agulhas Municipality</i></a> official home page</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.iol.co.za/news/south-africa/western-cape/fury-over-great-white-shark-haul-1.1675105#.U2ruNfldWTM" rel="nofollow">http://www.iol.co.za/news/south-africa/western-cape/fury-over-great-white-shark-haul-1.1675105#.U2ruNfldWTM</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Cacutt, Lenn. <a class="external text" href="https://books.google.com/books?id=ZtqS-OXYdDEC" rel="nofollow"><i>The Big-Game Fishing Handbook</i></a>. pp. 145–157<span class="reference-accessdate">. Retrieved 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACape+Agulhas&amp;rft.aufirst=Lenn&amp;rft.aulast=Cacutt&amp;rft.btitle=The+Big-Game+Fishing+Handbook&amp;rft.genre=book&amp;rft.pages=145-157&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZtqS-OXYdDEC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.sanparks.co.za/parks/agulhas/all.php" rel="nofollow">http://www.sanparks.co.za/parks/agulhas/all.php</a></span></li>
+<li id="cite_note-climate-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-climate_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.globalbioclimatics.org/station/so-cape-.htm" rel="nofollow">"South Africa - Cape Agulhas"</a>. Centro de Investigaciones Fitosociológicas<span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACape+Agulhas&amp;rft.btitle=South+Africa+-+Cape+Agulhas&amp;rft.genre=unknown&amp;rft.pub=Centro+de+Investigaciones+Fitosociol%C3%B3gicas&amp;rft_id=http%3A%2F%2Fwww.globalbioclimatics.org%2Fstation%2Fso-cape-.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.weatherbase.com/weather/weatherall.php3?s=2986&amp;refer=&amp;cityname=Cape-Agulhas-Western-Cape-South-Africa&amp;units=" rel="nofollow">"Climate Statistics for Cape Agulhas, South Africa"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACape+Agulhas&amp;rft.btitle=Climate+Statistics+for+Cape+Agulhas%2C+South+Africa&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.weatherbase.com%2Fweather%2Fweatherall.php3%3Fs%3D2986%26refer%3D%26cityname%3DCape-Agulhas-Western-Cape-South-Africa%26units%3D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Econ1-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Econ1_9-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.economist.com/sciencetechnology/displaystory.cfm?story_id=14446734" rel="nofollow">"Rogue Waves – Monsters of the deep: Huge, freak waves may not be as rare as once thought"</a>. Economist Magazine. September 17, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-04</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACape+Agulhas&amp;rft.atitle=Rogue+Waves+%E2%80%93+Monsters+of+the+deep%3A+Huge%2C+freak+waves+may+not+be+as+rare+as+once+thought&amp;rft.date=2009-09-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fsciencetechnology%2Fdisplaystory.cfm%3Fstory_id%3D14446734&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.villatuscana.co.za/visiting-the-southernmost-point-in-africa/" rel="nofollow">"Visiting the southernmost point in Africa"</a>. <i>Villa Tuscana Travel Blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACape+Agulhas&amp;rft.atitle=Visiting+the+southernmost+point+in+Africa&amp;rft.genre=unknown&amp;rft.jtitle=Villa+Tuscana+Travel+Blog&amp;rft_id=http%3A%2F%2Fwww.villatuscana.co.za%2Fvisiting-the-southernmost-point-in-africa%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-wreck-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-wreck_11-0">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20051216062903/http://www.geocities.com/Heartland/Ridge/2216/text/MARITIME.TXT" rel="nofollow"><i>Marine Casualty Database Southern African Coast</i></a> (copy at the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>), from NCS Cape Town</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20071019031857/http://www.lagulhas.co.za/lighthouse_history.html" rel="nofollow">"History: Proposals for a Lighthouse at L'Agulhas"</a>. L'Agulhas web site. 29 July 2005. Archived from <a class="external text" href="http://www.lagulhas.co.za/lighthouse_history.html" rel="nofollow">the original</a> on 19 October 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACape+Agulhas&amp;rft.btitle=History%3A+Proposals+for+a+Lighthouse+at+L%27Agulhas&amp;rft.date=2005-07-29&amp;rft.genre=unknown&amp;rft.pub=L%27Agulhas+web+site&amp;rft_id=http%3A%2F%2Fwww.lagulhas.co.za%2Flighthouse_history.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Agulhas&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.sanparks.org.za/parks/agulhas/" rel="nofollow">Agulhas National Park</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Cape_Agulhas&amp;params=34_50_00_S_20_00_09.15_E_region:ZA-WC_type:isle&amp;title=Cape+Agulhas"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°50′00″S</span> <span class="longitude">20°00′09.15″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.83333°S 20.0025417°E</span><span style="display:none">﻿ / <span class="geo">-34.83333; 20.0025417</span></span><span style="display:none">﻿ (<span class="fn org">Cape Agulhas</span>)</span></span></span></a></span></span></span></p>
+<!-- 
+NewPP limit report
+Parsed by mw1198
+Cached time: 20171029235737
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.384 seconds
+Preprocessor visited node count: 2343/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45627/2097152 bytes
+Template argument size: 1541/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Lua time usage: 0.126/10.000 seconds
+Lua memory usage: 3.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  310.481      1 -total
+ 32.96%  102.328      1 Template:Reflist
+ 27.78%   86.247      1 Template:Weather_box
+ 15.76%   48.924      1 Template:Cite_book
+  9.87%   30.636      1 Template:Coord
+  7.83%   24.311      4 Template:Cite_web
+  7.58%   23.531      1 Template:For
+  7.27%   22.573      1 Template:IPAc-en
+  4.87%   15.110      1 Template:Use_South_African_English
+  4.47%   13.892      2 Template:DMCA
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:303684-0!canonical and timestamp 20171029235737 and revision id 807758096
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cape_Agulhas&amp;oldid=807758096">https://en.wikipedia.org/w/index.php?title=Cape_Agulhas&amp;oldid=807758096</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Headlands_of_the_Western_Cape" title="Category:Headlands of the Western Cape">Headlands of the Western Cape</a></li><li><a href="/wiki/Category:Maritime_history_of_South_Africa" title="Category:Maritime history of South Africa">Maritime history of South Africa</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Use_South_African_English_from_May_2012" title="Category:Use South African English from May 2012">Use South African English from May 2012</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_South_African_English" title="Category:All Wikipedia articles written in South African English">All Wikipedia articles written in South African English</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2014" title="Category:Use dmy dates from January 2014">Use dmy dates from January 2014</a></li><li><a href="/wiki/Category:Articles_containing_Portuguese-language_text" title="Category:Articles containing Portuguese-language text">Articles containing Portuguese-language text</a></li><li><a href="/wiki/Category:Pages_using_weather_box_with_unknown_parameters" title="Category:Pages using weather box with unknown parameters">Pages using weather box with unknown parameters</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cape+Agulhas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cape+Agulhas" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Cape_Agulhas" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Cape_Agulhas" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Cape_Agulhas">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Cape_Agulhas&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Cape_Agulhas&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cape_Agulhas" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cape_Agulhas" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cape_Agulhas&amp;oldid=807758096" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cape_Agulhas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4085" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cape_Agulhas&amp;id=807758096" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cape+Agulhas">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cape+Agulhas&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Cape_Agulhas&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cape_Agulhas" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Cape_Agulhas" hreflang="en">Wikivoyage</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-kbd"><a class="interlanguage-link-target" href="https://kbd.wikipedia.org/wiki/%D0%90%D0%B3%D1%83%D0%BB%D0%B0%D1%81" hreflang="kbd" lang="kbd" title="Агулас – Kabardian">Адыгэбзэ</a></li><li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Kaap_Agulhas" hreflang="af" lang="af" title="Kaap Agulhas – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%A3%D9%82%D9%88%D9%84%D8%A7%D8%B3" hreflang="ar" lang="ar" title="رأس أقولاس – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Cabu_de_les_Aguyes" hreflang="ast" lang="ast" title="Cabu de les Aguyes – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C4%B0yn%C9%99_burnu" hreflang="az" lang="az" title="İynə burnu – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%86%D0%B3%D0%BE%D0%BB%D0%BA%D0%B0%D0%B2%D1%8B_%D0%BC%D1%8B%D1%81" hreflang="be" lang="be" title="Іголкавы мыс – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%98%D0%B3%D0%BB%D0%B5%D0%BD_%D0%BD%D0%BE%D1%81" hreflang="bg" lang="bg" title="Иглен нос – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Kab_ar_Pikernigo%C3%B9" hreflang="br" lang="br" title="Kab ar Pikernigoù – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Cap_Agulhas" hreflang="ca" lang="ca" title="Cap Agulhas – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Cape_Agulhas_(punta)" hreflang="ceb" lang="ceb" title="Cape Agulhas (punta) – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/St%C5%99elkov%C3%BD_mys" hreflang="cs" lang="cs" title="Střelkový mys – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kap_Agulhas" hreflang="da" lang="da" title="Kap Agulhas – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kap_Agulhas" hreflang="de" lang="de" title="Kap Agulhas – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/N%C3%B5elaneem" hreflang="et" lang="et" title="Nõelaneem – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Cabo_de_las_Agujas" hreflang="es" lang="es" title="Cabo de las Agujas – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kabo_Aguljas" hreflang="eo" lang="eo" title="Kabo Aguljas – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Agulhas_lurmuturra" hreflang="eu" lang="eu" title="Agulhas lurmuturra – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%D9%85%D8%A7%D8%BA%D9%87_%D8%A2%DA%AF%D9%88%D9%84%D8%A7%D8%B3" hreflang="fa" lang="fa" title="دماغه آگولاس – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Cap_des_Aiguilles" hreflang="fr" lang="fr" title="Cap des Aiguilles – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Cabo_Agullas" hreflang="gl" lang="gl" title="Cabo Agullas – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%95%84%EA%B5%B4%EB%9D%BC%EC%8A%A4_%EA%B3%B6" hreflang="ko" lang="ko" title="아굴라스 곶 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%B8_%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%AA" hreflang="hi" lang="hi" title="एगुलस अन्तरीप – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Agulha%C5%A1ki_rt" hreflang="hr" lang="hr" title="Agulhaški rt – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Kabo_Agulhas" hreflang="io" lang="io" title="Kabo Agulhas – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tanjung_Agulhas" hreflang="id" lang="id" title="Tanjung Agulhas – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Capo_Agulhas" hreflang="it" lang="it" title="Capo Agulhas – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9B%D7%A3_%D7%90%D7%92%D7%95%D7%9C%D7%99%D7%90%D7%A9" hreflang="he" lang="he" title="כף אגוליאש – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%94%E1%83%9B%E1%83%A1%E1%83%98%E1%83%A1_%E1%83%99%E1%83%9D%E1%83%9C%E1%83%AA%E1%83%AE%E1%83%98" hreflang="ka" lang="ka" title="ნემსის კონცხი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Kap_Agulhas" hreflang="lb" lang="lb" title="Kap Agulhas – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Adatos_ky%C5%A1ulys" hreflang="lt" lang="lt" title="Adatos kyšulys – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Kaap_Agulhas" hreflang="nl" lang="nl" title="Kaap Agulhas – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AC%E3%83%A9%E3%82%B9%E5%B2%AC" hreflang="ja" lang="ja" title="アガラス岬 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kapp_Agulhas" hreflang="no" lang="no" title="Kapp Agulhas – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Agulyas" hreflang="uz" lang="uz" title="Agulyas – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-koi"><a class="interlanguage-link-target" href="https://koi.wikipedia.org/wiki/%D0%98%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D3%A7%D0%B9_(%D0%BC%D1%8B%D1%81)" hreflang="koi" lang="koi" title="Игольнӧй (мыс) – Komi-Permyak">Перем Коми</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Przyl%C4%85dek_Igielny" hreflang="pl" lang="pl" title="Przylądek Igielny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Cabo_das_Agulhas" hreflang="pt" lang="pt" title="Cabo das Agulhas – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_(%D0%BC%D1%8B%D1%81)" hreflang="ru" lang="ru" title="Игольный (мыс) – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Cape_Agulhas" hreflang="sco" lang="sco" title="Cape Agulhas – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Cape_Agulhas" hreflang="simple" lang="simple" title="Cape Agulhas – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Strelkov%C3%BD_mys" hreflang="sk" lang="sk" title="Strelkový mys – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%98%D0%B3%D0%BB%D0%B5%D0%BD%D0%B8_%D1%80%D1%82" hreflang="sr" lang="sr" title="Иглени рт – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Aguljaski_rt" hreflang="sh" lang="sh" title="Aguljaski rt – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Cape_Agulhas" hreflang="fi" lang="fi" title="Cape Agulhas – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kap_Agulhas" hreflang="sv" lang="sv" title="Kap Agulhas – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%95%E0%AF%81%E0%AE%B2%E0%AF%8D%E0%AE%AF%E0%AE%BE%E0%AE%9A%E0%AF%81_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%88" hreflang="ta" lang="ta" title="அகுல்யாசு முனை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%B0%E0%B8%81%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%AA" hreflang="th" lang="th" title="แหลมอะกะลัส – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Agulhas_Burnu" hreflang="tr" lang="tr" title="Agulhas Burnu – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B8%D1%81_%D0%93%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9" hreflang="uk" lang="uk" title="Мис Голковий – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8E%84%E5%8A%A0%E5%8B%92%E6%96%AF%E8%A7%92" hreflang="zh" lang="zh" title="厄加勒斯角 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4085#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 October 2017, at 23:57.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cape_Agulhas&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.384","ppvisitednodes":{"value":2343,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45627,"limit":2097152},"templateargumentsize":{"value":1541,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  310.481      1 -total"," 32.96%  102.328      1 Template:Reflist"," 27.78%   86.247      1 Template:Weather_box"," 15.76%   48.924      1 Template:Cite_book","  9.87%   30.636      1 Template:Coord","  7.83%   24.311      4 Template:Cite_web","  7.58%   23.531      1 Template:For","  7.27%   22.573      1 Template:IPAc-en","  4.87%   15.110      1 Template:Use_South_African_English","  4.47%   13.892      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.126","limit":"10.000"},"limitreport-memusage":{"value":3871858,"limit":52428800}},"cachereport":{"origin":"mw1198","timestamp":"20171029235737","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1247"});});</script>
+</body>
+</html>

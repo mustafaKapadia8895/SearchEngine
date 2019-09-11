@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Satellite dish - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Satellite_dish","wgTitle":"Satellite dish","wgCurRevisionId":779372218,"wgRevisionId":779372218,"wgArticleId":192615,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2008","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from September 2009","Broadband","Consumer electronics","Radio frequency antenna types","Satellite broadcasting"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Satellite_dish","wgRelevantArticleId":192615,"wgRequestId":"WgDikgpAIDgAAAGFvXIAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Satellite_dishes","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Satellite_dish","wgWikibaseItemId":"Q253843","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/7b/Satellite_dish_1_C-Band.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Satellite_dish" rel="alternate"/>
+<link href="/w/index.php?title=Satellite_dish&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Satellite_dish&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Satellite_dish" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Satellite_dish rootpage-Satellite_dish vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Satellite dish</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Satellite_dishes&amp;redirect=no" title="Satellite dishes">Satellite dishes</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Satellite_dish&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Satellite_dish_1_C-Band.jpg"><img alt="" class="thumbimage" data-file-height="511" data-file-width="544" height="207" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Satellite_dish_1_C-Band.jpg/220px-Satellite_dish_1_C-Band.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Satellite_dish_1_C-Band.jpg/330px-Satellite_dish_1_C-Band.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Satellite_dish_1_C-Band.jpg/440px-Satellite_dish_1_C-Band.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Satellite_dish_1_C-Band.jpg" title="Enlarge"></a></div>
+A <a href="/wiki/C_band_(IEEE)" title="C band (IEEE)">C band</a> satellite dish.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:One_News_satellite_ute,_Mt_Allan_fire,_NZ_2010.jpg"><img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/One_News_satellite_ute%2C_Mt_Allan_fire%2C_NZ_2010.jpg/220px-One_News_satellite_ute%2C_Mt_Allan_fire%2C_NZ_2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/One_News_satellite_ute%2C_Mt_Allan_fire%2C_NZ_2010.jpg/330px-One_News_satellite_ute%2C_Mt_Allan_fire%2C_NZ_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/One_News_satellite_ute%2C_Mt_Allan_fire%2C_NZ_2010.jpg/440px-One_News_satellite_ute%2C_Mt_Allan_fire%2C_NZ_2010.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:One_News_satellite_ute,_Mt_Allan_fire,_NZ_2010.jpg" title="Enlarge"></a></div>
+A mobile satellite dish used by <a class="mw-redirect" href="/wiki/TVNZ" title="TVNZ">TVNZ</a> news reporters.</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Antennas" title="Category:Antennas">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Antenna_(radio)" title="Antenna (radio)">Antennas</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;display:block;margin-bottom:0.5em;"><a class="image" href="/wiki/File:136_to_174_MHz_base_station_antennas.jpg" title="Montage of four professional US omnidirectional base-station antennas"><img alt="Montage of four professional US omnidirectional base-station antennas" data-file-height="1896" data-file-width="3268" height="99" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/136_to_174_MHz_base_station_antennas.jpg/170px-136_to_174_MHz_base_station_antennas.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/136_to_174_MHz_base_station_antennas.jpg/255px-136_to_174_MHz_base_station_antennas.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/136_to_174_MHz_base_station_antennas.jpg/340px-136_to_174_MHz_base_station_antennas.jpg 2x" width="170"/></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Common types</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid#aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Dipole_antenna" title="Dipole antenna">Dipole</a></li>
+<li><a href="/wiki/Fractal_antenna" title="Fractal antenna">Fractal</a></li>
+<li><a href="/wiki/Loop_antenna" title="Loop antenna">Loop</a></li>
+<li><a href="/wiki/Monopole_antenna" title="Monopole antenna">Monopole</a></li>
+<li><a class="mw-selflink selflink">Satellite dish</a></li>
+<li><a href="/wiki/Television_antenna" title="Television antenna">Television</a></li>
+<li><a href="/wiki/Whip_antenna" title="Whip antenna">Whip</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Components</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid#aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Balun" title="Balun">Balun</a></li>
+<li><a href="/wiki/Block_upconverter" title="Block upconverter">Block upconverter</a></li>
+<li><a href="/wiki/Coaxial_cable" title="Coaxial cable">Coaxial cable</a></li>
+<li><a href="/wiki/Counterpoise_(ground_system)" title="Counterpoise (ground system)">Counterpoise (ground system)</a></li>
+<li><a href="/wiki/Antenna_feed" title="Antenna feed">Feed</a></li>
+<li><a href="/wiki/Feed_line" title="Feed line">Feed line</a></li>
+<li><a href="/wiki/Low-noise_block_downconverter" title="Low-noise block downconverter">Low-noise block downconverter</a></li>
+<li><a href="/wiki/Passive_radiator" title="Passive radiator">Passive radiator</a></li>
+<li><a class="mw-redirect" href="/wiki/Receiver_(radio)" title="Receiver (radio)">Receiver</a></li>
+<li><a href="/wiki/Antenna_rotator" title="Antenna rotator">Rotator</a></li>
+<li><a href="/wiki/Stub_(electronics)" title="Stub (electronics)">Stub</a></li>
+<li><a href="/wiki/Transmitter" title="Transmitter">Transmitter</a></li>
+<li><a href="/wiki/Antenna_tuner" title="Antenna tuner">Tuner</a></li>
+<li><a href="/wiki/Twin-lead" title="Twin-lead">Twin-lead</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Systems</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid#aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Antenna_farm" title="Antenna farm">Antenna farm</a></li>
+<li><a href="/wiki/Amateur_radio" title="Amateur radio">Amateur radio</a></li>
+<li><a href="/wiki/Cellular_network" title="Cellular network">Cellular network</a></li>
+<li><a href="/wiki/Hotspot_(Wi-Fi)" title="Hotspot (Wi-Fi)">Hotspot</a></li>
+<li><a href="/wiki/Municipal_wireless_network" title="Municipal wireless network">Municipal wireless network</a></li>
+<li><a href="/wiki/Radio" title="Radio">Radio</a></li>
+<li><a href="/wiki/Radio_masts_and_towers" title="Radio masts and towers">Radio masts and towers</a></li>
+<li><a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a></li>
+<li><a href="/wiki/Wireless" title="Wireless">Wireless</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Safety and regulation</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid#aaa;border-bottom:1px solid #aaa;">
+<ul>
+<li><a href="/wiki/Mobile_phone_radiation_and_health" title="Mobile phone radiation and health">Mobile phone radiation and health</a></li>
+<li><a href="/wiki/Wireless_electronic_devices_and_health" title="Wireless electronic devices and health">Wireless electronic devices and health</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">International Telecommunication Union</a><br/>
+(<a href="/wiki/ITU_Radio_Regulations" title="ITU Radio Regulations">Radio Regulations</a>)</div>
+</li>
+<li><a href="/wiki/World_Radiocommunication_Conference" title="World Radiocommunication Conference">World Radiocommunication Conference</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;"><span class="nowrap">Radiation sources / regions</span></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid#aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Antenna_boresight" title="Antenna boresight">Boresight</a></li>
+<li><a href="/wiki/Focal_cloud" title="Focal cloud">Focal cloud</a></li>
+<li><a href="/wiki/Ground_plane" title="Ground plane">Ground plane</a></li>
+<li><a href="/wiki/Main_lobe" title="Main lobe">Main lobe</a></li>
+<li><a href="/wiki/Near_and_far_field" title="Near and far field">Near and far field</a></li>
+<li><a href="/wiki/Side_lobe" title="Side lobe">Side lobe</a></li>
+<li><a href="/wiki/Vertical_plane" title="Vertical plane">Vertical plane</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Characteristics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid#aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Array_gain" title="Array gain">Array gain</a></li>
+<li><a href="/wiki/Directivity" title="Directivity">Directivity</a></li>
+<li><a href="/wiki/Antenna_efficiency" title="Antenna efficiency">Efficiency</a></li>
+<li><a href="/wiki/Electrical_length" title="Electrical length">Electrical length</a></li>
+<li><a href="/wiki/Antenna_equivalent_radius" title="Antenna equivalent radius">Equivalent radius</a></li>
+<li><a href="/wiki/Antenna_factor" title="Antenna factor">Factor</a></li>
+<li><a href="/wiki/Friis_transmission_equation" title="Friis transmission equation">Friis transmission equation</a></li>
+<li><a href="/wiki/Antenna_gain" title="Antenna gain">Gain</a></li>
+<li><a href="/wiki/Antenna_height_considerations" title="Antenna height considerations">Height</a></li>
+<li><a href="/wiki/Radiation_pattern" title="Radiation pattern">Radiation pattern</a></li>
+<li><a href="/wiki/Radiation_resistance" title="Radiation resistance">Radiation resistance</a></li>
+<li><a href="/wiki/Radio_propagation" title="Radio propagation">Radio propagation</a></li>
+<li><a href="/wiki/Radio_spectrum" title="Radio spectrum">Radio spectrum</a></li>
+<li><a href="/wiki/Signal-to-noise_ratio" title="Signal-to-noise ratio">Signal-to-noise ratio</a></li>
+<li><a href="/wiki/Spurious_emission" title="Spurious emission">Spurious emission</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Techniques</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid#aaa;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Beam_steering" title="Beam steering">Beam steering</a></li>
+<li><a href="/wiki/Beam_tilt" title="Beam tilt">Beam tilt</a></li>
+<li><a href="/wiki/Beamforming" title="Beamforming">Beamforming</a></li>
+</ul>
+</div>
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Bell_Laboratories_Layered_Space-Time" title="Bell Laboratories Layered Space-Time">Bell Laboratories Layered<br/>
+Space-Time (BLAST)</a></div>
+</li>
+<li><a href="/wiki/MIMO" title="MIMO">Multiple-input multiple-output (MIMO)</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Reconfigurable_antenna" title="Reconfigurable antenna">Reconfiguration</a></li>
+<li><a href="/wiki/Spread_spectrum" title="Spread spectrum">Spread spectrum</a></li>
+</ul>
+</div>
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/WSDMA" title="WSDMA">Wideband Space Division<br/>
+Multiple Access (WSDMA)</a></div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Antennas" title="Template:Antennas"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Antennas" title="Template talk:Antennas"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Antennas&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>A <b>satellite dish</b> is a dish-shaped type of <a href="/wiki/Parabolic_antenna" title="Parabolic antenna">parabolic antenna</a> designed to receive or transmit information by <a href="/wiki/Radio_wave" title="Radio wave">radio waves</a> to or from a <a class="mw-redirect" href="/wiki/Communication_satellite" title="Communication satellite">communication satellite</a>. The term most commonly means a dish used by consumers to receive <a class="mw-redirect" href="/wiki/Direct-broadcast_satellite_television" title="Direct-broadcast satellite television">direct-broadcast satellite television</a> from a <a class="mw-redirect" href="/wiki/Direct_broadcast_satellite" title="Direct broadcast satellite">direct broadcast satellite</a> in <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">geostationary orbit</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Principle_of_operation"><span class="tocnumber">1</span> <span class="toctext">Principle of operation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Europe"><span class="tocnumber">2</span> <span class="toctext">Europe</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Systems_design"><span class="tocnumber">3</span> <span class="toctext">Systems design</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Types"><span class="tocnumber">4</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Motor-driven_dish"><span class="tocnumber">4.1</span> <span class="toctext">Motor-driven dish</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Multi-satellite"><span class="tocnumber">4.2</span> <span class="toctext">Multi-satellite</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#VSAT"><span class="tocnumber">4.3</span> <span class="toctext">VSAT</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Others"><span class="tocnumber">4.4</span> <span class="toctext">Others</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Homemade_dishes"><span class="tocnumber">4.5</span> <span class="toctext">Homemade dishes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#History"><span class="tocnumber">5</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Principle_of_operation">Principle of operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=1" title="Edit section: Principle of operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Parabolic_antenna_types2.svg"><img alt="" class="thumbimage" data-file-height="1820" data-file-width="850" height="471" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parabolic_antenna_types2.svg/220px-Parabolic_antenna_types2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parabolic_antenna_types2.svg/330px-Parabolic_antenna_types2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parabolic_antenna_types2.svg/440px-Parabolic_antenna_types2.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Parabolic_antenna_types2.svg" title="Enlarge"></a></div>
+Schematics of reflection principles used in parabolic antennas.</div>
+</div>
+</div>
+<p>The <a href="/wiki/Parabolic_antenna" title="Parabolic antenna">parabolic</a> shape of a dish reflects the signal to the dish’s <a href="/wiki/Focus_(optics)" title="Focus (optics)">focal point</a>. Mounted on brackets at the dish's focal point is a device called a <a class="mw-redirect" href="/wiki/Feedhorn" title="Feedhorn">feedhorn</a>. This feedhorn is essentially the front-end of a <a href="/wiki/Waveguide" title="Waveguide">waveguide</a> that gathers the signals at or near the focal point and 'conducts' them to a <a class="mw-redirect" href="/wiki/Low-noise_block_converter" title="Low-noise block converter">low-noise block downconverter</a> or LNB. The LNB converts the signals from <a class="mw-redirect" href="/wiki/Electromagnetic_waves" title="Electromagnetic waves">electromagnetic</a> or <a class="mw-redirect" href="/wiki/Radio_waves" title="Radio waves">radio waves</a> to electrical signals and shifts the signals from the downlinked <a href="/wiki/C_band_(IEEE)" title="C band (IEEE)">C-band</a> and/or <a class="mw-redirect" href="/wiki/Ku-band" title="Ku-band">K<sub>u</sub>-band</a> to the <a href="/wiki/L_band" title="L band">L-band</a> range. <a class="mw-redirect" href="/wiki/Direct_broadcast_satellite" title="Direct broadcast satellite">Direct broadcast satellite</a> dishes use an LNBF, which integrates the feedhorn with the LNB. (A new form of <a class="extiw" href="https://en.wiktionary.org/wiki/omnidirectional" title="wiktionary:omnidirectional">omnidirectional</a> satellite antenna, which does not use a directed parabolic dish and can be used on a mobile platform such as a vehicle was announced by the <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a> in 2004.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>The theoretical gain (<a href="/wiki/Antenna_gain" title="Antenna gain">directive gain</a>) of a dish increases as the frequency increases. The actual gain depends on many factors including surface finish, accuracy of shape, feedhorn matching. A typical value for a consumer type 60 cm satellite dish at 11.75 GHz is 37.50 dB.</p>
+<p>With lower frequencies, C-band for example, dish designers have a wider choice of materials. The large size of dish required for lower frequencies led to the dishes being constructed from metal mesh on a metal framework. At higher frequencies, mesh type designs are rarer though some designs have used a solid dish with perforations.</p>
+<p>A common misconception is that the <a class="mw-redirect" href="/wiki/Low-noise_block_converter" title="Low-noise block converter">LNBF</a> (low-noise block/feedhorn), the device at the front of the dish, receives the signal directly from the atmosphere. For instance, one <a href="/wiki/BBC_News_(TV_channel)" title="BBC News (TV channel)">BBC News</a> downlink shows a "red signal" being received by the LNBF directly instead of being beamed to the dish, which because of its parabolic shape will collect the signal into a smaller area and deliver it to the LNBF.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Modern dishes intended for home television use are generally 43 cm (18 in) to 80 cm (31 in) in <a href="/wiki/Diameter" title="Diameter">diameter</a>, and are fixed in one position, for Ku-band reception from one orbital position. Prior to the existence of direct broadcast satellite services, home users would generally have a motorised C-band dish of up to 3 m in diameter for reception of channels from different satellites. Overly small dishes can still cause problems, however, including <a href="/wiki/Rain_fade" title="Rain fade">rain fade</a> and interference from adjacent satellites.</p>
+<h2><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=2" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Europe" title="Europe">Europe</a>, the frequencies used by DBS services are 10.7–12.75 GHz on two polarisations H (Horizontal) and V (Vertical). This range is divided into a "low band" with 10.7–11.7 GHz, and a "high band" with 11.7–12.75 GHz. This results in two frequency bands, each with a bandwidth of about 1 GHz, each with two possible polarizations. In the LNB they become down converted to 950–2150 MHz, which is the frequency range allocated for the satellite service on the coaxial cable between LNBF and receiver. Lower frequencies are allocated to <a href="/wiki/Cable_television" title="Cable television">cable</a> and <a class="mw-redirect" href="/wiki/Terrestrial_TV" title="Terrestrial TV">terrestrial TV</a>, FM radio, etc. Only one of these frequency bands fits on the coaxial cable, so each of these bands needs a separate cable from the LNBF to a switching matrix or the receiver needs to select one of the 4 possibilities at a time.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2009)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Systems_design">Systems design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=3" title="Edit section: Systems design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a single receiver residential installation there is a single <a href="/wiki/Coaxial_cable" title="Coaxial cable">coaxial cable</a> running from the receiver <a href="/wiki/Set-top_box" title="Set-top box">set-top box</a> in the building to the LNB on the dish. The DC electric power for the LNB is provided through the same coaxial cable conductors that carry the signal to the receiver. In addition, control signals are also transmitted from the receiver to the LNB through the cable. The receiver uses different power supply voltages (13 / 18 V) to select antenna <a class="mw-redirect" href="/wiki/Polarization_(antenna)" title="Polarization (antenna)">polarization</a>, and <a href="/wiki/Pilot_signal" title="Pilot signal">pilot tones</a> (22 kHz) to instruct the LNB to select one of the two frequency bands. In larger installations each band and polarization is given its own cable, so there are 4 cables from the LNB to a switching matrix, which allows the connection of multiple receivers in a star topology using the same signalling method as in a single receiver installation.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2009)">citation needed</span></a></i>]</sup></p>
+<p>A <a href="/wiki/Satellite_finder" title="Satellite finder">satellite finder</a> may aid in aiming.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=4" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Motor-driven_dish">Motor-driven dish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=5" title="Edit section: Motor-driven dish">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A dish that is mounted on a pole and driven by a <a href="/wiki/Stepper_motor" title="Stepper motor">stepper motor</a> or a <a class="mw-redirect" href="/wiki/Servo_motor" title="Servo motor">servo</a> can be controlled and rotated to face any satellite position in the sky. Motor-driven dishes are popular with enthusiasts. There are three competing standards: <a href="/wiki/DiSEqC" title="DiSEqC">DiSEqC</a>, <a class="mw-redirect" href="/wiki/USALS" title="USALS">USALS</a>, and 36 V positioners. Many receivers support all of these standards.</p>
+<h3><span class="mw-headline" id="Multi-satellite">Multi-satellite</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=6" title="Edit section: Multi-satellite">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a class="image" href="/wiki/File:Antenne-toroidale.jpg"><img alt="" class="thumbimage" data-file-height="1895" data-file-width="1323" height="229" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antenne-toroidale.jpg/160px-Antenne-toroidale.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antenne-toroidale.jpg/240px-Antenne-toroidale.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antenne-toroidale.jpg/320px-Antenne-toroidale.jpg 2x" width="160"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Antenne-toroidale.jpg" title="Enlarge"></a></div>
+Special dish for up to 16 satellite positions (K<sub>u</sub>-band).</div>
+</div>
+</div>
+<p>Some designs enable simultaneous reception from multiple different satellite positions without re-positioning the dish. The vertical axis operates as an off-axis concave parabolic concave hyperbolic <a href="/wiki/Cassegrain_reflector" title="Cassegrain reflector">Cassegrain reflector</a>, while the horizontal axis operates as a concave convex Cassegrain. The spot from the main dish wanders across the secondary, which corrects <a href="/wiki/Astigmatism_(optical_systems)" title="Astigmatism (optical systems)">astigmatism</a> by its varying curvature. The elliptic aperture of the primary is designed to fit the deformed illumination by the horns. Due to double spill-over, this makes more sense for a large dish.</p>
+<h3><span class="mw-headline" id="VSAT">VSAT</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=7" title="Edit section: VSAT">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A common type of dish is the <a class="mw-redirect" href="/wiki/Very_small_aperture_terminal" title="Very small aperture terminal">very small aperture terminal</a> (VSAT). This provides two way <a class="mw-redirect" href="/wiki/Satellite_internet" title="Satellite internet">satellite internet</a> communications for both consumers and private networks for organizations. Today most VSATs operate in <a href="/wiki/Ku_band" title="Ku band">K<sub>u</sub> band</a>; <a href="/wiki/C_band_(IEEE)" title="C band (IEEE)">C band</a> is restricted to less populated regions of the world. There is a move which started in 2005 towards new <a href="/wiki/Ka_band" title="Ka band">K<sub>a</sub> band</a> satellites operating at higher frequencies, offering greater performance at lower cost. These antennas vary from 74 to 120 cm (29 to 47 in) in most applications though C-band VSATs may be as large as 4 m (13 ft).</p>
+<h3><span class="mw-headline" id="Others">Others</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=8" title="Edit section: Others">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a class="image" href="/wiki/File:SatelliteDishes-5375.jpg"><img alt="" class="thumbimage" data-file-height="2816" data-file-width="2112" height="213" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/SatelliteDishes-5375.jpg/160px-SatelliteDishes-5375.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/SatelliteDishes-5375.jpg/240px-SatelliteDishes-5375.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/SatelliteDishes-5375.jpg/320px-SatelliteDishes-5375.jpg 2x" width="160"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:SatelliteDishes-5375.jpg" title="Enlarge"></a></div>
+U.S. residential satellite TV receiver dishes</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a class="image" href="/wiki/File:Off-axis_parabolic_reflector.svg"><img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Off-axis_parabolic_reflector.svg/160px-Off-axis_parabolic_reflector.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Off-axis_parabolic_reflector.svg/240px-Off-axis_parabolic_reflector.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Off-axis_parabolic_reflector.svg/320px-Off-axis_parabolic_reflector.svg.png 2x" width="160"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Off-axis_parabolic_reflector.svg" title="Enlarge"></a></div>
+Geometry of offset parabolic antenna. The dish is an asymmetric segment of a paraboloid; the <a href="/wiki/Vertex_(curve)" title="Vertex (curve)">vertex</a> of the paraboloid is below the bottom edge of the dish. The beam axis, which is aimed at the satellite, passes through the vertex and the focus, so the feed antenna at the focus is outside the beam.</div>
+</div>
+</div>
+<ul>
+<li>Individual dishes serving one dwelling: Direct to Home (DTH).</li>
+<li>Collective dishes, shared by several dwellings: satellite master antenna television (<a href="/wiki/SMATV" title="SMATV">SMATV</a>) or communal antenna broadcast distribution (CABD).</li>
+<li><a class="mw-redirect" href="/wiki/Automatic_Tracking_Satellite_Dish" title="Automatic Tracking Satellite Dish">Automatic Tracking Satellite Dish</a></li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Satellitedish1.JPG"><img alt="" data-file-height="2304" data-file-width="3456" height="80" src="//upload.wikimedia.org/wikipedia/en/thumb/1/11/Satellitedish1.JPG/120px-Satellitedish1.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/11/Satellitedish1.JPG/180px-Satellitedish1.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/11/Satellitedish1.JPG/240px-Satellitedish1.JPG 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/General_Electric" title="General Electric">General Electric</a> satellite dish for DirecTV satellite television.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Sky_minidish.JPG"><img alt="" data-file-height="490" data-file-width="466" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sky_minidish.JPG/114px-Sky_minidish.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sky_minidish.JPG/171px-Sky_minidish.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sky_minidish.JPG/228px-Sky_minidish.JPG 2x" width="114"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Sky_(UK_%26_Ireland)" title="Sky (UK &amp; Ireland)">Sky</a> "<a href="/wiki/Minidish" title="Minidish">minidish</a>".</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Dishing_out_the_truth.JPG"><img alt="" data-file-height="2304" data-file-width="3456" height="80" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bd/Dishing_out_the_truth.JPG/120px-Dishing_out_the_truth.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/bd/Dishing_out_the_truth.JPG/180px-Dishing_out_the_truth.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/bd/Dishing_out_the_truth.JPG/240px-Dishing_out_the_truth.JPG 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Satellite dishes installed on an apartment complex.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Back_of_satellite_dish.jpg"><img alt="" data-file-height="602" data-file-width="581" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Back_of_satellite_dish.jpg/116px-Back_of_satellite_dish.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Back_of_satellite_dish.jpg/174px-Back_of_satellite_dish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Back_of_satellite_dish.jpg/232px-Back_of_satellite_dish.jpg 2x" width="116"/></a></div>
+</div>
+<div class="gallerytext">
+<p>The back side of an old C-band satellite dish showing the pole, mount, motor, and structure of the dish.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:WWE_TRUCK.JPG"><img alt="" data-file-height="1896" data-file-width="2848" height="80" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/WWE_TRUCK.JPG/120px-WWE_TRUCK.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/WWE_TRUCK.JPG/180px-WWE_TRUCK.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/WWE_TRUCK.JPG/240px-WWE_TRUCK.JPG 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>WWE HD trucks in a parking lot.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a class="image" href="/wiki/File:06-06-2014_Fonte_de_Agua_em_Dato_Rua,_Fohorem_6.jpg"><img alt="" data-file-height="720" data-file-width="960" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/06-06-2014_Fonte_de_Agua_em_Dato_Rua%2C_Fohorem_6.jpg/120px-06-06-2014_Fonte_de_Agua_em_Dato_Rua%2C_Fohorem_6.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/06-06-2014_Fonte_de_Agua_em_Dato_Rua%2C_Fohorem_6.jpg/180px-06-06-2014_Fonte_de_Agua_em_Dato_Rua%2C_Fohorem_6.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/06-06-2014_Fonte_de_Agua_em_Dato_Rua%2C_Fohorem_6.jpg/240px-06-06-2014_Fonte_de_Agua_em_Dato_Rua%2C_Fohorem_6.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Satellite dish at a hut in <a href="/wiki/East_Timor" title="East Timor">East Timor</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Homemade_dishes">Homemade dishes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=9" title="Edit section: Homemade dishes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Any metal surface which concentrates a significant fraction of the reflected microwaves at a focus can be used as a dish antenna, at a lower <a href="/wiki/Antenna_gain" title="Antenna gain">gain</a>. This has led to trash can lids, woks, and other items being used as "dishes". Only modern low noise LNBs and the higher transmission power of DTH satellites allows a usable signal to be received from such inefficient DIY antennas.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=10" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Parabolic antennas referred to as "dish" antennas had been in use long before satellite television. The term "satellite dish" was coined in 1978 during the beginning of the satellite television industry, and came to refer to dish antennas that send and/or receive signals from communications satellites. <a href="/wiki/Taylor_Howard" title="Taylor Howard">Taylor Howard</a> of <a href="/wiki/San_Andreas,_California" title="San Andreas, California">San Andreas, California</a> adapted an ex-military dish in 1976 and became the first person to receive satellite television signals using it.<sup class="reference" id="cite_ref-tayhoward_3-0"><a href="#cite_note-tayhoward-3">[3]</a></sup></p>
+<p>The first satellite television dishes were built to receive signals on the <a href="/wiki/C_band_(IEEE)" title="C band (IEEE)">C-band</a> analog, and were very large. The front cover of the 1979 <a class="mw-redirect" href="/wiki/Neiman-Marcus" title="Neiman-Marcus">Neiman-Marcus</a> Christmas catalog featured the first home satellite TV stations on sale.<sup class="reference" id="cite_ref-uspopcult_4-0"><a href="#cite_note-uspopcult-4">[4]</a></sup> The dishes were nearly 20 feet (6.1 m) in diameter.<sup class="reference" id="cite_ref-lat_5-0"><a href="#cite_note-lat-5">[5]</a></sup> The satellite dishes of the early 1980s were 10 to 16 feet (3.0 to 4.9 m) in diameter<sup class="reference" id="cite_ref-deseret_6-0"><a href="#cite_note-deseret-6">[6]</a></sup> and made of <a href="/wiki/Fiberglass" title="Fiberglass">fiberglass</a> with an embedded layer of wire mesh or aluminum foil, or solid <a class="mw-redirect" href="/wiki/Aluminum" title="Aluminum">aluminum</a> or <a href="/wiki/Steel" title="Steel">steel</a>.<sup class="reference" id="cite_ref-baltsun_7-0"><a href="#cite_note-baltsun-7">[7]</a></sup></p>
+<p>Satellite dishes made of <a class="mw-redirect" href="/wiki/Wire_mesh" title="Wire mesh">wire mesh</a> first came out in the early 1980s, and were at first 10 feet (3.0 m) in diameter. As the front-end technology improved and the <a href="/wiki/Noise_figure" title="Noise figure">noise figure</a> of the LNBs fell, the size shrank to 8 feet (2.4 m) a few years later, and continued to get smaller reducing to 6 feet (1.8 m) feet by the late 1980s and 4 feet (1.2 m) by the early 1990s.<sup class="reference" id="cite_ref-tuscnews_8-0"><a href="#cite_note-tuscnews-8">[8]</a></sup> Larger dishes continued to be used, however.<sup class="reference" id="cite_ref-tuscnews_8-1"><a href="#cite_note-tuscnews-8">[8]</a></sup> In December 1988 <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>'s <a href="/wiki/Astra_1A" title="Astra 1A">Astra 1A</a> satellite began transmitting analog television signals on the <a href="/wiki/Ku_band" title="Ku band">K<sub>u</sub> band</a> for the European market.<sup class="reference" id="cite_ref-n2yo_9-0"><a href="#cite_note-n2yo-9">[9]</a></sup> This allowed small dishes (90 cm) to be used reliably for the first time.<sup class="reference" id="cite_ref-n2yo_9-1"><a href="#cite_note-n2yo-9">[9]</a></sup></p>
+<p>In the early 1990s, four large American cable companies founded <a href="/wiki/PrimeStar" title="PrimeStar">PrimeStar</a>, a direct broadcasting company using medium power satellites.<sup class="reference" id="cite_ref-bangor_10-0"><a href="#cite_note-bangor-10">[10]</a></sup> The relatively strong K<sub>u</sub> band transmissions allowed the use of dishes as small as 90 cm for the first time.<sup class="reference" id="cite_ref-bangor_10-1"><a href="#cite_note-bangor-10">[10]</a></sup> On 4 March 1996 <a href="/wiki/EchoStar" title="EchoStar">EchoStar</a> introduced Digital Sky Highway (<a href="/wiki/Dish_Network" title="Dish Network">Dish Network</a>).<sup class="reference" id="cite_ref-ctu10e_11-0"><a href="#cite_note-ctu10e-11">[11]</a></sup> This was the first widely used <a class="mw-redirect" href="/wiki/Direct-broadcast_satellite_television" title="Direct-broadcast satellite television">direct-broadcast satellite television</a> system and allowed dishes as small as 20 cm to be used. This great decrease of dish size also allowed satellite dishes to be installed on vehicles.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Dishes this size are still in use today. Television stations, however, still prefer to transmit their signals on the C-band analog with large dishes due to the fact that C-band signals are less prone to <a href="/wiki/Rain_fade" title="Rain fade">rain fade</a> than K<sub>u</sub> band signals.<sup class="reference" id="cite_ref-dishcable_13-0"><a href="#cite_note-dishcable-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/DiSEqC" title="DiSEqC">DiSEqC</a></li>
+<li><a href="/wiki/Satellite_television" title="Satellite television">Satellite television</a></li>
+<li><a href="/wiki/Set-top_box" title="Set-top box">Set-top box</a></li>
+<li><a href="/wiki/Parabolic_reflector" title="Parabolic reflector">Parabolic reflector</a></li>
+<li><a class="mw-redirect" href="/wiki/Low-noise_block_converter" title="Low-noise block converter">Low-noise block converter</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://newsrelease.uwaterloo.ca/news.php?id=4072" rel="nofollow">"Team develops in-car satellite TV"</a>. <i><a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a></i>. 2006-05-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Team+develops+in-car+satellite+TV&amp;rft.pub=%27%27University+of+Waterloo%27%27&amp;rft.date=2006-05-06&amp;rft_id=http%3A%2F%2Fnewsrelease.uwaterloo.ca%2Fnews.php%3Fid%3D4072&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://bnb.bpweb.net/N24/news24.htm" rel="nofollow">"News 24 STILL gets an F for physics"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=News+24+STILL+gets+an+F+for+physics&amp;rft_id=http%3A%2F%2Fbnb.bpweb.net%2FN24%2Fnews24.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-tayhoward-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-tayhoward_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Feder, Barnaby J. (15 November 2002). <a class="external text" href="https://www.nytimes.com/2002/11/15/business/taylor-howard-70-pioneer-in-satellite-tv-for-the-home.html" rel="nofollow">"Taylor Howard, 70, Pioneer In Satellite TV for the Home"</a>. <i><a class="mw-redirect" href="/wiki/New_York_Times" title="New York Times">New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Taylor+Howard%2C+70%2C+Pioneer+In+Satellite+TV+for+the+Home&amp;rft.date=2002-11-15&amp;rft.aulast=Feder&amp;rft.aufirst=Barnaby+J.&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2002%2F11%2F15%2Fbusiness%2Ftaylor-howard-70-pioneer-in-satellite-tv-for-the-home.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-uspopcult-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-uspopcult_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Browne, Ray (2001). <a class="external text" href="https://books.google.com/books?id=U3rJxPYT32MC&amp;pg=PA706&amp;lpg=PA706&amp;dq=neiman+marcus+satellite+dish+1977&amp;source=bl&amp;ots=oq7ha9CzGR&amp;sig=XvUPHAnEEqAcMHs-8LjuwMF2hEU&amp;hl=en&amp;sa=X&amp;ei=UkyzU-PxFLHNsQTr4oLIBg&amp;ved=0CDwQ6AEwAg#v=onepage&amp;q=neiman%20marcus%20satellite%20dish%201979&amp;f=false" rel="nofollow"><i>The Guide to United States Popular Culture</i></a>. <a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a>: Popular Press. p. 706. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780879728212" title="Special:BookSources/9780879728212">9780879728212</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Guide+to+United+States+Popular+Culture&amp;rft.place=Madison%2C+Wisconsin&amp;rft.pages=706&amp;rft.pub=Popular+Press&amp;rft.date=2001&amp;rft.isbn=9780879728212&amp;rft.aulast=Browne&amp;rft.aufirst=Ray&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DU3rJxPYT32MC%26pg%3DPA706%26lpg%3DPA706%26dq%3Dneiman%2Bmarcus%2Bsatellite%2Bdish%2B1977%26source%3Dbl%26ots%3Doq7ha9CzGR%26sig%3DXvUPHAnEEqAcMHs-8LjuwMF2hEU%26hl%3Den%26sa%3DX%26ei%3DUkyzU-PxFLHNsQTr4oLIBg%26ved%3D0CDwQ6AEwAg%23v%3Donepage%26q%3Dneiman%2520marcus%2520satellite%2520dish%25201979%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-lat-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-lat_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Giarrusso, Michael (28 July 1996). <a class="external text" href="http://articles.latimes.com/1996-07-28/news/mn-28792_1_small-dishes" rel="nofollow">"Tiny Satellite Dishes Sprout in Rural Areas"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>: Los Angeles Times<span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Tiny+Satellite+Dishes+Sprout+in+Rural+Areas&amp;rft.date=1996-07-28&amp;rft.aulast=Giarrusso&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F1996-07-28%2Fnews%2Fmn-28792_1_small-dishes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-deseret-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-deseret_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Nye, Doug (14 January 1990). <a class="external text" href="http://www.deseretnews.com/article/81378/SATELLITE-DISHES-SURVIVE-GREAT-SCRAMBLE-OF-1980S.html?pg=all" rel="nofollow">"SATELLITE DISHES SURVIVE GREAT SCRAMBLE OF 1980S"</a>. <i><a href="/wiki/Deseret_News" title="Deseret News">Deseret News</a></i>. <a href="/wiki/Salt_Lake_City" title="Salt Lake City">Salt Lake City</a>: Deseret News<span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deseret+News&amp;rft.atitle=SATELLITE+DISHES+SURVIVE+GREAT+SCRAMBLE+OF+1980S&amp;rft.date=1990-01-14&amp;rft.aulast=Nye&amp;rft.aufirst=Doug&amp;rft_id=http%3A%2F%2Fwww.deseretnews.com%2Farticle%2F81378%2FSATELLITE-DISHES-SURVIVE-GREAT-SCRAMBLE-OF-1980S.html%3Fpg%3Dall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-baltsun-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-baltsun_7-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Brooks, Andree (10 October 1993). <a class="external text" href="http://articles.baltimoresun.com/1993-10-10/business/1993283244_1_community-association-satellite-dish-associations-institute" rel="nofollow">"Old satellite dish restrictions under fire New laws urged for smaller models"</a>. <i><a href="/wiki/The_Baltimore_Sun" title="The Baltimore Sun">The Baltimore Sun</a></i>. <a class="mw-redirect" href="/wiki/Baltimore,_MD" title="Baltimore, MD">Baltimore, MD</a>: The Baltimore Sun<span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Baltimore+Sun&amp;rft.atitle=Old+satellite+dish+restrictions+under+fire+New+laws+urged+for+smaller+models&amp;rft.date=1993-10-10&amp;rft.aulast=Brooks&amp;rft.aufirst=Andree&amp;rft_id=http%3A%2F%2Farticles.baltimoresun.com%2F1993-10-10%2Fbusiness%2F1993283244_1_community-association-satellite-dish-associations-institute&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-tuscnews-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-tuscnews_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tuscnews_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Somerfield, Harry (30 September 1990). <a class="external text" href="https://news.google.com/newspapers?nid=1817&amp;dat=19900930&amp;id=PUogAAAAIBAJ&amp;sjid=56UEAAAAIBAJ&amp;pg=5755,7866817" rel="nofollow">"Satellite dishes getting smaller, sharper in future"</a>. <i>The Tuscaloosa News</i>. <a href="/wiki/Tuscaloosa,_Alabama" title="Tuscaloosa, Alabama">Tuscaloosa, Alabama</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Tuscaloosa+News&amp;rft.atitle=Satellite+dishes+getting+smaller%2C+sharper+in+future&amp;rft.date=1990-09-30&amp;rft.aulast=Somerfield&amp;rft.aufirst=Harry&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fnid%3D1817%26dat%3D19900930%26id%3DPUogAAAAIBAJ%26sjid%3D56UEAAAAIBAJ%26pg%3D5755%2C7866817&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-n2yo-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-n2yo_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-n2yo_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.n2yo.com/satellite/?s=19688" rel="nofollow">"ASTRA 1A Satellite details 1988-109B NORAD 19688"</a>. N2YO. 9 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ASTRA+1A+Satellite+details+1988-109B+NORAD+19688&amp;rft.pub=N2YO&amp;rft.date=2014-07-09&amp;rft_id=http%3A%2F%2Fwww.n2yo.com%2Fsatellite%2F%3Fs%3D19688&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-bangor-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-bangor_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bangor_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Barber, Dave (18 August 1995). <a class="external text" href="https://news.google.com/newspapers?nid=2457&amp;dat=19950818&amp;id=D6dJAAAAIBAJ&amp;sjid=Bw4NAAAAIBAJ&amp;pg=4837,987925" rel="nofollow">"500,000 families already made PRIMESTAR their choice in satellite TV"</a>. <i><a href="/wiki/Bangor_Daily_News" title="Bangor Daily News">Bangor Daily News</a></i>. <a href="/wiki/Bangor,_Maine" title="Bangor, Maine">Bangor, Maine</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bangor+Daily+News&amp;rft.atitle=500%2C000+families+already+made+PRIMESTAR+their+choice+in+satellite+TV&amp;rft.date=1995-08-18&amp;rft.aulast=Barber&amp;rft.aufirst=Dave&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fnid%3D2457%26dat%3D19950818%26id%3DD6dJAAAAIBAJ%26sjid%3DBw4NAAAAIBAJ%26pg%3D4837%2C987925&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ctu10e-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-ctu10e_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Grant, August E. <i>Communication Technology Update</i> (10th ed.). <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a>. p. 87. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-240-81475-9" title="Special:BookSources/978-0-240-81475-9">978-0-240-81475-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Communication+Technology+Update&amp;rft.pages=87&amp;rft.edition=10th&amp;rft.pub=Taylor+%26+Francis&amp;rft.isbn=978-0-240-81475-9&amp;rft.aulast=Grant&amp;rft.aufirst=August+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Evangelista, Benny (10 November 2003). <a class="external text" href="http://www.sfgate.com/business/article/Satellite-TV-in-the-car-on-the-move-New-2549574.php" rel="nofollow">"Satellite TV in the car, on the move / New technology makes dish receivers small enough to fit atop an SUV"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i>. <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft.atitle=Satellite+TV+in+the+car%2C+on+the+move+%2F+New+technology+makes+dish+receivers+small+enough+to+fit+atop+an+SUV&amp;rft.date=2003-11-10&amp;rft.aulast=Evangelista&amp;rft.aufirst=Benny&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fbusiness%2Farticle%2FSatellite-TV-in-the-car-on-the-move-New-2549574.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-dishcable-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-dishcable_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://dish-cable.com/rain_fade.htm" rel="nofollow">"Rain fade: satellite TV signal and adverse weather"</a>. <i>Dish-cable.com</i>. Dish-cable.com. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">16 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dish-cable.com&amp;rft.atitle=Rain+fade%3A+satellite+TV+signal+and+adverse+weather&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fdish-cable.com%2Frain_fade.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASatellite+dish"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Satellite_dish&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Satellite_dishes_(residential)" title="commons:Category:Satellite dishes (residential)">Satellite dishes (residential)</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/01/913&amp;format=HTML&amp;aged=1&amp;language=EN&amp;guiLanguage=en" rel="nofollow">European Commission: The right to use a satellite dish</a>.</li>
+<li><a class="external text" href="http://www.dishpointer.com" rel="nofollow">DishPointer – Satellite dish alignment with Google Maps</a>.</li>
+<li><a class="external text" href="http://www.tradeworks.tv/acatalog/Freesat_Install_Guide.pdf" rel="nofollow">Guide explaining how to self install freesat</a></li>
+<li><a class="external text" href="http://www.sat-direction.com/" rel="nofollow">Online Satellite Finder Based on Google Maps</a></li>
+</ul>
+<div aria-labelledby="Satellite_communications" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Satcomm" title="Template:Satcomm"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Satcomm" title="Template talk:Satcomm"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Satcomm&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Satellite_communications" style="font-size:114%;margin:0 4em"><a href="/wiki/Communications_satellite" title="Communications satellite">Satellite communications</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Main articles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Satellite_television" title="Satellite television">Satellite television</a></li>
+<li><a href="/wiki/Satellite_radio" title="Satellite radio">Satellite radio</a></li>
+<li><a href="/wiki/Communications_satellite" title="Communications satellite">Relay satellite</a></li>
+<li><a href="/wiki/Transponder_(satellite_communications)" title="Transponder (satellite communications)">Transponder</a></li>
+<li><a href="/wiki/Satellite_Internet_access" title="Satellite Internet access">Satellite Internet access</a></li>
+<li><a href="/wiki/Amateur_radio_satellite" title="Amateur radio satellite">Amateur satellite</a></li>
+<li><a href="/wiki/Ground_station" title="Ground station">Ground station</a></li>
+<li><a href="/wiki/High-throughput_satellite" title="High-throughput satellite">High-throughput satellite</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Hardware</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Satellite_data_unit" title="Satellite data unit">Satellite data unit</a></li>
+<li><a class="mw-selflink selflink">Satellite dish</a></li>
+<li><a href="/wiki/Satellite_modem" title="Satellite modem">Satellite modem</a></li>
+<li><a href="/wiki/Satellite_phone" title="Satellite phone">Satellite phone</a></li>
+<li><a href="/wiki/Spacebus" title="Spacebus">Spacebus</a></li>
+<li><a href="/wiki/Very-small-aperture_terminal" title="Very-small-aperture terminal">Very-small-aperture terminal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Satellite_radio" title="Satellite radio">Satellite radio</a> / <a href="/wiki/Satellite_television" title="Satellite television">TV</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/DVB-SH" title="DVB-SH">DVB-SH</a></li>
+<li><a href="/wiki/S-DMB" title="S-DMB">S-DMB</a></li>
+<li><a href="/wiki/DVB-RCS" title="DVB-RCS">DVB-RCS</a></li>
+<li><a href="/wiki/DVB-S2" title="DVB-S2">DVB-S2</a></li>
+<li><a href="/wiki/Digital_audio_radio_service" title="Digital audio radio service">Digital audio radio service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Broadcast companies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AfriStar" title="AfriStar">AfriStar</a></li>
+<li><a href="/wiki/Astra_Digital_Radio" title="Astra Digital Radio">Astra Digital Radio</a></li>
+<li><a href="/wiki/DirecTV" title="DirecTV">DirecTV</a></li>
+<li><a href="/wiki/Dish_Network" title="Dish Network">Dish Network</a></li>
+<li><a href="/wiki/Sirius_XM_Holdings" title="Sirius XM Holdings">Sirius XM Holdings</a>
+<ul>
+<li><a href="/wiki/Sirius_Satellite_Radio" title="Sirius Satellite Radio">Sirius Satellite Radio</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sky_Television_plc" title="Sky Television plc">Sky Television plc</a></li>
+<li><a href="/wiki/1worldspace" title="1worldspace">1worldspace</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Relay satellite companies</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/EchoStar" title="EchoStar">EchoStar</a></li>
+<li><a href="/wiki/Eutelsat" title="Eutelsat">Eutelsat</a></li>
+<li><a href="/wiki/Globalstar" title="Globalstar">Globalstar</a></li>
+<li><a href="/wiki/Hughes_Communications" title="Hughes Communications">Hughes</a></li>
+<li><a href="/wiki/Inmarsat" title="Inmarsat">Inmarsat</a></li>
+<li><a href="/wiki/Intelsat" title="Intelsat">Intelsat</a></li>
+<li><a href="/wiki/Iridium_Communications" title="Iridium Communications">Iridium</a></li>
+<li><a href="/wiki/SED_Systems" title="SED Systems">SED Systems</a></li>
+<li><a href="/wiki/SES_S.A." title="SES S.A.">SES</a></li>
+<li><a href="/wiki/Telesat" title="Telesat">Telesat</a></li>
+<li><a href="/wiki/Tooway" title="Tooway">Tooway</a></li>
+<li><a href="/wiki/Viasat" title="Viasat">Viasat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Satellite manufacturers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airbus_Defence_and_Space" title="Airbus Defence and Space">Airbus</a></li>
+<li><a href="/wiki/Arianespace" title="Arianespace">Arianespace</a></li>
+<li><a href="/wiki/Boeing" title="Boeing">Boeing</a></li>
+<li><a href="/wiki/INVAP" title="INVAP">INVAP</a></li>
+<li><a href="/wiki/Lockheed_Martin" title="Lockheed Martin">Lockheed Martin</a></li>
+<li><a href="/wiki/Loral_Space_%26_Communications" title="Loral Space &amp; Communications">Loral</a></li>
+<li><a href="/wiki/Orbital_ATK" title="Orbital ATK">Orbital ATK</a></li>
+<li><a href="/wiki/Thales_Alenia_Space" title="Thales Alenia Space">Thales Alenia Space</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Trade organizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Consultative_Committee_for_Space_Data_Systems" title="Consultative Committee for Space Data Systems">Consultative Committee for Space Data Systems</a></li>
+<li><a href="/wiki/ETSI_Satellite_Digital_Radio" title="ETSI Satellite Digital Radio">ETSI Satellite Digital Radio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Lists</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_communications_satellite_firsts" title="List of communications satellite firsts">List of communications satellite firsts</a></li>
+<li><a href="/wiki/List_of_communication_satellite_companies" title="List of communication satellite companies">List of communication satellite companies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Communications_satellites" title="Category:Communications satellites">Communications satellites</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Telecommunications" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Telecommunications" title="Template:Telecommunications"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Telecommunications" title="Template talk:Telecommunications"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Telecommunications&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Telecommunications" style="font-size:114%;margin:0 4em"><a href="/wiki/Telecommunication" title="Telecommunication">Telecommunications</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/History_of_telecommunication" title="History of telecommunication">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="floatright"><a class="image" href="/wiki/File:Telecom-icon.svg" title="Telecommunications symbol"><img alt="Telecommunications symbol" data-file-height="500" data-file-width="500" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/50px-Telecom-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/75px-Telecom-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/100px-Telecom-icon.svg.png 2x" width="50"/></a></div>
+<ul>
+<li><a href="/wiki/Beacon#For_defensive_communications" title="Beacon">Beacon</a></li>
+<li><a href="/wiki/History_of_broadcasting" title="History of broadcasting">Broadcasting</a></li>
+<li><a href="/wiki/Cable_protection_system" title="Cable protection system">Cable protection system</a></li>
+<li><a class="mw-redirect" href="/wiki/Cable_TV" title="Cable TV">Cable TV</a></li>
+<li><a href="/wiki/Communications_satellite#History" title="Communications satellite">Communications satellite</a></li>
+<li><a href="/wiki/Computer_network#History" title="Computer network">Computer network</a></li>
+<li><a href="/wiki/Drums_in_communication" title="Drums in communication">Drums</a></li>
+<li><a href="/wiki/Electrical_telegraph#History" title="Electrical telegraph">Electrical telegraph</a></li>
+<li><a href="/wiki/Fax#History" title="Fax">Fax</a></li>
+<li><a href="/wiki/Heliograph#History" title="Heliograph">Heliographs</a></li>
+<li><a href="/wiki/Hydraulic_telegraph#Greek_hydraulic_semaphore_system" title="Hydraulic telegraph">Hydraulic telegraph</a></li>
+<li><a href="/wiki/History_of_the_Internet" title="History of the Internet">Internet</a></li>
+<li><a href="/wiki/Mass_media#History" title="Mass media">Mass media</a></li>
+<li><a href="/wiki/History_of_mobile_phones" title="History of mobile phones">Mobile phone</a></li>
+<li><a href="/wiki/Optical_communication" title="Optical communication">Optical telecommunication</a></li>
+<li><a href="/wiki/Semaphore_line#History" title="Semaphore line">Optical telegraphy</a></li>
+<li><a href="/wiki/Pager" title="Pager">Pager</a></li>
+<li><a href="/wiki/Photophone" title="Photophone">Photophone</a></li>
+<li><a class="mw-redirect" href="/wiki/History_of_the_prepaid_mobile_phone" title="History of the prepaid mobile phone">Prepaid mobile phone</a></li>
+<li><a href="/wiki/History_of_radio" title="History of radio">Radio</a></li>
+<li><a href="/wiki/Radiotelephone" title="Radiotelephone">Radiotelephone</a></li>
+<li><a href="/wiki/Communications_satellite" title="Communications satellite">Satellite communications</a></li>
+<li><a class="mw-redirect" href="/wiki/Semaphore" title="Semaphore">Semaphore</a></li>
+<li><a href="/wiki/Smartphone" title="Smartphone">Smartphone</a></li>
+<li><a href="/wiki/Smoke_signal" title="Smoke signal">Smoke signals</a></li>
+<li><a href="/wiki/History_of_telecommunication" title="History of telecommunication">Telecommunications history</a></li>
+<li><a href="/wiki/Telautograph" title="Telautograph">Telautograph</a></li>
+<li><a href="/wiki/Telegraphy" title="Telegraphy">Telegraphy</a></li>
+<li><a href="/wiki/Teleprinter" title="Teleprinter">Teleprinter</a> (teletype)</li>
+<li><a href="/wiki/History_of_the_telephone" title="History of the telephone">Telephone</a></li>
+<li><i><a href="/wiki/The_Telephone_Cases" title="The Telephone Cases">The Telephone Cases</a></i></li>
+<li><a href="/wiki/History_of_television" title="History of television">Television</a></li>
+<li><a href="/wiki/Timeline_of_communication_technology" title="Timeline of communication technology">Timeline of communication technology</a></li>
+<li><a href="/wiki/Submarine_communications_cable#Early_history:_telegraph_and_coaxial_cables" title="Submarine communications cable">Undersea telegraph line</a></li>
+<li><a class="mw-redirect" href="/wiki/Videoconferencing#History" title="Videoconferencing">Videoconferencing</a></li>
+<li><a class="mw-redirect" href="/wiki/Videophone#Early_history" title="Videophone">Videophone</a></li>
+<li><a href="/wiki/History_of_videotelephony" title="History of videotelephony">Videotelephony</a></li>
+<li><a href="/wiki/Whistled_language" title="Whistled language">Whistled language</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Pioneers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Edwin_Howard_Armstrong" title="Edwin Howard Armstrong">Edwin Howard Armstrong</a></li>
+<li><a href="/wiki/John_Logie_Baird" title="John Logie Baird">John Logie Baird</a></li>
+<li><a href="/wiki/Paul_Baran" title="Paul Baran">Paul Baran</a></li>
+<li><a href="/wiki/Alexander_Graham_Bell" title="Alexander Graham Bell">Alexander Graham Bell</a></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></li>
+<li><a href="/wiki/Jagadish_Chandra_Bose" title="Jagadish Chandra Bose">Jagadish Chandra Bose</a></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Claude_Chappe" title="Claude Chappe">Claude Chappe</a></li>
+<li><a href="/wiki/Donald_Davies" title="Donald Davies">Donald Davies</a></li>
+<li><a href="/wiki/Lee_de_Forest" title="Lee de Forest">Lee de Forest</a></li>
+<li><a href="/wiki/Philo_Farnsworth" title="Philo Farnsworth">Philo Farnsworth</a></li>
+<li><a href="/wiki/Reginald_Fessenden" title="Reginald Fessenden">Reginald Fessenden</a></li>
+<li><a href="/wiki/Elisha_Gray" title="Elisha Gray">Elisha Gray</a></li>
+<li><a href="/wiki/Erna_Schneider_Hoover" title="Erna Schneider Hoover">Erna Schneider Hoover</a></li>
+<li><a href="/wiki/Charles_K._Kao" title="Charles K. Kao">Charles K. Kao</a></li>
+<li><a href="/wiki/Hedy_Lamarr" title="Hedy Lamarr">Hedy Lamarr</a></li>
+<li><a href="/wiki/Innocenzo_Manzetti" title="Innocenzo Manzetti">Innocenzo Manzetti</a></li>
+<li><a href="/wiki/Guglielmo_Marconi" title="Guglielmo Marconi">Guglielmo Marconi</a></li>
+<li><a href="/wiki/Antonio_Meucci" title="Antonio Meucci">Antonio Meucci</a></li>
+<li><a href="/wiki/Radia_Perlman" title="Radia Perlman">Radia Perlman</a></li>
+<li><a href="/wiki/Alexander_Stepanovich_Popov" title="Alexander Stepanovich Popov">Alexander Stepanovich Popov</a></li>
+<li><a href="/wiki/Johann_Philipp_Reis" title="Johann Philipp Reis">Johann Philipp Reis</a></li>
+<li><a href="/wiki/Nikola_Tesla" title="Nikola Tesla">Nikola Tesla</a></li>
+<li><a href="/wiki/Camille_Tissot" title="Camille Tissot">Camille Tissot</a></li>
+<li><a href="/wiki/Alfred_Vail" title="Alfred Vail">Alfred Vail</a></li>
+<li><a href="/wiki/Charles_Wheatstone" title="Charles Wheatstone">Charles Wheatstone</a></li>
+<li><a href="/wiki/Vladimir_K._Zworykin" title="Vladimir K. Zworykin">Vladimir K. Zworykin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Transmission_medium" title="Transmission medium">Transmission<br/>
+media</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coaxial_cable" title="Coaxial cable">Coaxial cable</a></li>
+<li><a href="/wiki/Free-space_optical_communication" title="Free-space optical communication">Free-space optical communication</a></li>
+<li><a href="/wiki/Molecular_communication" title="Molecular communication">Molecular communication</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Radio_wave" title="Radio wave">Radio waves</a></li>
+<li><a href="/wiki/Transmission_line" title="Transmission line">Transmission line</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Network_topology" title="Network topology">Network topology</a><br/>
+and switching</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Telecommunications_link" title="Telecommunications link">Links</a></li>
+<li><a href="/wiki/Node_(networking)" title="Node (networking)">Nodes</a></li>
+<li><a href="/wiki/Terminal_(telecommunication)" title="Terminal (telecommunication)">Terminal node</a></li>
+<li><a href="/wiki/Network_switch" title="Network switch">Network switching</a> (<a href="/wiki/Circuit_switching" title="Circuit switching">circuit</a></li>
+<li><a href="/wiki/Packet_switching" title="Packet switching">packet</a>)</li>
+<li><a href="/wiki/Telephone_exchange" title="Telephone exchange">Telephone exchange</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Multiplexing" title="Multiplexing">Multiplexing</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Space-division_multiple_access" title="Space-division multiple access">Space-division</a></li>
+<li><a href="/wiki/Frequency-division_multiplexing" title="Frequency-division multiplexing">Frequency-division</a></li>
+<li><a href="/wiki/Time-division_multiplexing" title="Time-division multiplexing">Time-division</a></li>
+<li><a href="/wiki/Polarization-division_multiplexing" title="Polarization-division multiplexing">Polarization-division</a></li>
+<li><a href="/wiki/Orbital_angular_momentum_multiplexing" title="Orbital angular momentum multiplexing">Orbital angular-momentum</a></li>
+<li><a href="/wiki/Code-division_multiple_access" title="Code-division multiple access">Code-division</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Telecommunications_network" title="Telecommunications network">Networks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a></li>
+<li><a href="/wiki/BITNET" title="BITNET">BITNET</a></li>
+<li><a href="/wiki/Cellular_network" title="Cellular network">Cellular network</a></li>
+<li><a href="/wiki/Computer_network" title="Computer network">Computer</a></li>
+<li><a href="/wiki/CYCLADES" title="CYCLADES">CYCLADES</a></li>
+<li><a href="/wiki/Ethernet" title="Ethernet">Ethernet</a></li>
+<li><a href="/wiki/FidoNet" title="FidoNet">FidoNet</a></li>
+<li><a href="/wiki/Internet" title="Internet">Internet</a></li>
+<li><a href="/wiki/Integrated_Services_Digital_Network" title="Integrated Services Digital Network">ISDN</a></li>
+<li><a href="/wiki/Local_area_network" title="Local area network">LAN</a></li>
+<li><a href="/wiki/Mobile_telephony" title="Mobile telephony">Mobile</a></li>
+<li><a href="/wiki/Next-generation_network" title="Next-generation network">NGN</a></li>
+<li><a href="/wiki/NPL_network" title="NPL network">NPL network</a></li>
+<li><a href="/wiki/Public_switched_telephone_network" title="Public switched telephone network">Public Switched Telephone</a></li>
+<li><a href="/wiki/Radio_network" title="Radio network">Radio</a></li>
+<li><a href="/wiki/Telecommunications_equipment" title="Telecommunications equipment">Telecommunications equipment</a></li>
+<li><a href="/wiki/Television_network" title="Television network">Television</a></li>
+<li><a href="/wiki/Telex" title="Telex">Telex</a></li>
+<li><a href="/wiki/Wide_area_network" title="Wide area network">WAN</a></li>
+<li><a href="/wiki/Wireless_network" title="Wireless network">Wireless</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Telecommunications" title="Category:Telecommunications">Category</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Telecommunication" title="Portal:Telecommunication">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20171106015124
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.464 seconds
+Preprocessor visited node count: 1529/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 85562/2097152 bytes
+Template argument size: 1773/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.151/10.000 seconds
+Lua memory usage: 6.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  366.455      1 -total
+ 31.94%  117.051      1 Template:Reflist
+ 15.71%   57.568      1 Template:Refimprove
+ 11.48%   42.078      4 Template:Cite_web
+ 11.03%   40.422      7 Template:Cite_news
+ 10.45%   38.295      1 Template:Ambox
+  9.80%   35.925      1 Template:Satcomm
+  9.60%   35.163      8 Template:Convert
+  8.96%   32.842      1 Template:Commons_category
+  7.90%   28.936      2 Template:Citation_needed
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:192615-0!canonical and timestamp 20171106015124 and revision id 779372218
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Satellite_dish&amp;oldid=779372218">https://en.wikipedia.org/w/index.php?title=Satellite_dish&amp;oldid=779372218</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Broadband" title="Category:Broadband">Broadband</a></li><li><a href="/wiki/Category:Consumer_electronics" title="Category:Consumer electronics">Consumer electronics</a></li><li><a href="/wiki/Category:Radio_frequency_antenna_types" title="Category:Radio frequency antenna types">Radio frequency antenna types</a></li><li><a href="/wiki/Category:Satellite_broadcasting" title="Category:Satellite broadcasting">Satellite broadcasting</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2008" title="Category:Articles needing additional references from April 2008">Articles needing additional references from April 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2009" title="Category:Articles with unsourced statements from September 2009">Articles with unsourced statements from September 2009</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Satellite+dish" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Satellite+dish" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Satellite_dish" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Satellite_dish" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Satellite_dish">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Satellite_dish&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Satellite_dish&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Satellite_dish" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Satellite_dish" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Satellite_dish&amp;oldid=779372218" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Satellite_dish&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q253843" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Satellite_dish&amp;id=779372218" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Satellite+dish">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Satellite+dish&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Satellite_dish&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Satellite_dishes_(residential)" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-bar"><a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Paraboiantenn_(TV)" hreflang="bar" lang="bar" title="Paraboiantenn (TV) – Bavarian">Boarisch</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Parabolantenne_(TV)" hreflang="de" lang="de" title="Parabolantenne (TV) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Satelliiditaldrik" hreflang="et" lang="et" title="Satelliiditaldrik – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Plato_satelital" hreflang="es" lang="es" title="Plato satelital – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D8%B4_%D9%85%D8%A7%D9%87%D9%88%D8%A7%D8%B1%D9%87" hreflang="fa" lang="fa" title="دیش ماهواره – Persian">فارسی</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A6%D7%9C%D7%97%D7%AA_%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%9F" hreflang="he" lang="he" title="צלחת לוויין – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/King%27amuzi" hreflang="sw" lang="sw" title="King'amuzi – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%B2%E0%B5%88%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%A1%E0%B4%BF%E0%B4%B7%E0%B5%8D" hreflang="ml" lang="ml" title="സാറ്റലൈറ്റ് ഡിഷ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Antena_satelitarna" hreflang="pl" lang="pl" title="Antena satelitarna – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%B0" hreflang="ru" lang="ru" title="Спутниковая антенна – Russian">Русский</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1" hreflang="th" lang="th" title="จานดาวเทียม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%B0" hreflang="uk" lang="uk" title="Супутникова антена – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D8%B1%DA%86%DB%8C_%D9%88%D8%B5%D9%88%D9%84%DB%81" hreflang="ur" lang="ur" title="سیارچی وصولہ – Urdu">اردو</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q253843#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 May 2017, at 14:31.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Satellite_dish&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.464","ppvisitednodes":{"value":1529,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":85562,"limit":2097152},"templateargumentsize":{"value":1773,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  366.455      1 -total"," 31.94%  117.051      1 Template:Reflist"," 15.71%   57.568      1 Template:Refimprove"," 11.48%   42.078      4 Template:Cite_web"," 11.03%   40.422      7 Template:Cite_news"," 10.45%   38.295      1 Template:Ambox","  9.80%   35.925      1 Template:Satcomm","  9.60%   35.163      8 Template:Convert","  8.96%   32.842      1 Template:Commons_category","  7.90%   28.936      2 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.151","limit":"10.000"},"limitreport-memusage":{"value":6347221,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20171106015124","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1186"});});</script>
+</body>
+</html>

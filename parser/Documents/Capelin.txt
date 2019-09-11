@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Capelin - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Capelin","wgTitle":"Capelin","wgCurRevisionId":802352680,"wgRevisionId":802352680,"wgArticleId":630350,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from June 2013","Articles with 'species' microformats","Wikipedia articles needing clarification from April 2011","Wikipedia articles incorporating text from Grocer's Encyclopedia","Commercial fish","Fish of the Arctic Ocean","Greenlandic cuisine","Osmeridae","Animals described in 1776"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Capelin","wgRelevantArticleId":630350,"wgRequestId":"WgH7rgpAIC8AALhRXrgAAAAK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q143359","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/cb/Mallotus_villosus.gif" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Capelin" rel="alternate"/>
+<link href="/w/index.php?title=Capelin&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Capelin&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Capelin" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Capelin rootpage-Capelin vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Capelin</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the fish. For the plant genus, see <a href="/wiki/Mallotus_(plant)" title="Mallotus (plant)">Mallotus (plant)</a>.</div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Capelin</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Mallotus_villosus.gif"><img alt="Mallotus villosus.gif" data-file-height="309" data-file-width="640" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallotus_villosus.gif/250px-Mallotus_villosus.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallotus_villosus.gif/375px-Mallotus_villosus.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallotus_villosus.gif/500px-Mallotus_villosus.gif 2x" width="250"/></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Mallotus" title="e"><img alt="e" data-file-height="16" data-file-width="16" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><a href="/wiki/Osmeriformes" title="Osmeriformes">Osmeriformes</a></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><a href="/wiki/Smelt_(fish)" title="Smelt (fish)">Osmeridae</a></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><i><a class="mw-selflink selflink">Mallotus</a></i><br/>
+<small><a href="/wiki/Georges_Cuvier" title="Georges Cuvier">G. Cuvier</a>, 1829</small></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species"><i><b>M. villosus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Mallotus villosus</i></span></b><br/>
+<small>(<a href="/wiki/Otto_Friedrich_M%C3%BCller" title="Otto Friedrich Müller">O. F. Müller</a>, 1776)</small></td>
+</tr>
+</table>
+<p>The <b>capelin</b> or <b>caplin</b> (<i>Mallotus villosus</i>) is a small <a href="/wiki/Forage_fish" title="Forage fish">forage fish</a> of the <a href="/wiki/Smelt_(fish)" title="Smelt (fish)">smelt</a> family found in the <a class="mw-redirect" href="/wiki/North_Atlantic" title="North Atlantic">North Atlantic</a>, <a class="mw-redirect" href="/wiki/North_Pacific" title="North Pacific">North Pacific</a> and <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic</a> oceans.<sup class="reference" id="cite_ref-fishbase_1-0"><a href="#cite_note-fishbase-1">[1]</a></sup> In summer, it grazes on dense swarms of <a href="/wiki/Plankton" title="Plankton">plankton</a> at the edge of the ice shelf. Larger capelin also eat a great deal of <a href="/wiki/Krill" title="Krill">krill</a> and other <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a>. Among others, <a href="/wiki/Whale" title="Whale">whales</a>, <a href="/wiki/Pinniped" title="Pinniped">seals</a>, <a href="/wiki/Atlantic_cod" title="Atlantic cod">Atlantic cod</a>, <a href="/wiki/Atlantic_mackerel" title="Atlantic mackerel">Atlantic mackerel</a>, <a href="/wiki/Squid" title="Squid">squid</a> and <a href="/wiki/Seabird" title="Seabird">seabirds</a> prey on capelin, in particular during the spawning season of the capelin while it migrates southwards. Capelin spawn on sand and gravel bottoms or sandy beaches at the age of 2–6 years, and have an extremely high mortality rate on the beaches after spawning, for males close to 100%.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (April 2011)">clarification needed</span></a></i>]</sup> Males reach 20 cm (8 in) in length, while females are up to 25.2 cm (10 in) long.<sup class="reference" id="cite_ref-fishbase_1-1"><a href="#cite_note-fishbase-1">[1]</a></sup> They are olive-colored dorsally, shading to silver on sides. Males have a translucent ridge on both sides of their bodies. The ventral aspects of the males iridesce reddish at the time of spawn.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Capelin_migration"><span class="tocnumber">1</span> <span class="toctext">Capelin migration</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reproduction"><span class="tocnumber">2</span> <span class="toctext">Reproduction</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Fisheries"><span class="tocnumber">3</span> <span class="toctext">Fisheries</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Capelin_migration">Capelin migration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capelin&amp;action=edit&amp;section=1" title="Edit section: Capelin migration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Capelin-iceland.svg"><img alt="" class="thumbimage" data-file-height="503" data-file-width="509" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Capelin-iceland.svg/220px-Capelin-iceland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Capelin-iceland.svg/330px-Capelin-iceland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Capelin-iceland.svg/440px-Capelin-iceland.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Capelin-iceland.svg" title="Enlarge"></a></div>
+<b>Migration of Icelandic capelin</b><br/>
+<b>Green shade:</b> Feeding area of adults<br/>
+<b>Blue shade:</b> Distribution of juveniles<br/>
+<b>Green arrows:</b> Feeding migrations<br/>
+<b>Blue arrows:</b> Return migrations<br/>
+<b>Red shade and Red arrows:</b> Spawning migrations, main <a href="/wiki/Spawn_(biology)" title="Spawn (biology)">spawning grounds</a> and <a class="mw-redirect" href="/wiki/Larval" title="Larval">larval</a> drift routes</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Puffin_with_capelin.jpg"><img alt="" class="thumbimage" data-file-height="481" data-file-width="577" height="208" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Puffin_with_capelin.jpg/250px-Puffin_with_capelin.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Puffin_with_capelin.jpg/375px-Puffin_with_capelin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Puffin_with_capelin.jpg/500px-Puffin_with_capelin.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Puffin_with_capelin.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Atlantic_puffin" title="Atlantic puffin">Atlantic puffin</a> with capelin</div>
+</div>
+</div>
+<p>Capelin in the <a href="/wiki/Barents_Sea" title="Barents Sea">Barents Sea</a> and around <a href="/wiki/Iceland" title="Iceland">Iceland</a> are stocks that perform extensive seasonal <a href="/wiki/Fish_migration" title="Fish migration">migrations</a>. Barents Sea capelin migrate during winter and early spring to the coast of northern Norway (<a href="/wiki/Finnmark" title="Finnmark">Finnmark</a>) and the <a href="/wiki/Kola_Peninsula" title="Kola Peninsula">Kola Peninsula</a> (Russia) for spawning. During summer and autumn capelin migrate north- and north-eastward for feeding.<sup class="reference" id="cite_ref-Gj.C3.B8s.C3.A6ter_2-0"><a href="#cite_note-Gj.C3.B8s.C3.A6ter-2">[2]</a></sup></p>
+<p>Icelandic capelin move inshore in large <a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">schools</a> to <a href="/wiki/Spawn_(biology)" title="Spawn (biology)">spawn</a> and migrate in spring and summer to feed in the <a href="/wiki/Plankton" title="Plankton">plankton</a>-rich oceanic area between Iceland, <a href="/wiki/Greenland" title="Greenland">Greenland</a>, and <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a>. Capelin distribution and migration is linked with <a href="/wiki/Ocean_current" title="Ocean current">ocean currents</a> and water masses. Around Iceland, maturing capelin usually undertake extensive northward feeding migrations in spring and summer and the return migration takes place in September to November. The spawning migration starts from north of Iceland in December to January. In a paper published in 2009, researchers from Iceland recounted their application of an interacting particle model to the capelin stock around Iceland, successfully predicting the spawning migration route for 2008.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Reproduction">Reproduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capelin&amp;action=edit&amp;section=2" title="Edit section: Reproduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As an <a href="/wiki/R/K_selection_theory" title="R/K selection theory">r-selected</a> species, capelin have a high reproductive potential and an intrinsic population growth rate.<sup class="reference" id="cite_ref-ICES2005_4-0"><a href="#cite_note-ICES2005-4">[4]</a></sup> They reproduce by <a href="/wiki/Spawn_(biology)" title="Spawn (biology)">spawning</a> and their main spawning season occurs in spring, but can extend into the summer. The majority of capelin are three or four years old when they spawn.<sup class="reference" id="cite_ref-Gj.C3.B8s.C3.A6ter_2-1"><a href="#cite_note-Gj.C3.B8s.C3.A6ter-2">[2]</a></sup> The males migrate directly to the shallow water of fjords, where spawning will take place, while the females remain in deeper water until they are completely mature. Once the females are mature, they will migrate to the spawning grounds and spawn.<sup class="reference" id="cite_ref-Friis-R.C3.B8del_5-0"><a href="#cite_note-Friis-R.C3.B8del-5">[5]</a></sup> This process usually takes place at night.<sup class="reference" id="cite_ref-Gj.C3.B8s.C3.A6ter_2-2"><a href="#cite_note-Gj.C3.B8s.C3.A6ter-2">[2]</a></sup> In the North European Atlantic spawning typically occurs over sand or gravel at depths of 2 to 100 m (7–328 ft),<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> but in the North Pacific and waters off <a class="mw-redirect" href="/wiki/Newfoundland" title="Newfoundland">Newfoundland</a> most spawn on beaches, jumping as far up land as possible, with some managing to strand themselves in the process.<sup class="reference" id="cite_ref-ICES2005_4-1"><a href="#cite_note-ICES2005-4">[4]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Although some other fish species leave their eggs in locations that dry out (a few, such as <a href="/wiki/Porichthys_notatus" title="Porichthys notatus">plainfin midshipman</a>, may even remain on land with the eggs during low tide) or on plants above the water (<a class="mw-redirect" href="/wiki/Splash_tetra" title="Splash tetra">splash tetras</a>), jumping onto land <i><a class="mw-redirect" href="/wiki/En_masse" title="En masse">en masse</a></i> to spawn is unique to the capelin, <a href="/wiki/Grunion" title="Grunion">grunions</a> and <a href="/wiki/Grass_puffer" title="Grass puffer">grass puffer</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> After the female capelins have spawned, they immediately leave the spawning grounds and will potentially spawn again in the following years if they survive. The males do not leave the spawning grounds and will potentially spawn more than once throughout the season.<sup class="reference" id="cite_ref-Friis-R.C3.B8del_5-1"><a href="#cite_note-Friis-R.C3.B8del-5">[5]</a></sup> Male capelin are considered to be <a href="/wiki/Semelparity_and_iteroparity" title="Semelparity and iteroparity">semelparous</a> because they die soon after the spawning season is over.<sup class="reference" id="cite_ref-Gj.C3.B8s.C3.A6ter_2-3"><a href="#cite_note-Gj.C3.B8s.C3.A6ter-2">[2]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Fisheries">Fisheries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capelin&amp;action=edit&amp;section=3" title="Edit section: Fisheries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Time_series_for_global_capture_of_capelin.png"><img alt="" class="thumbimage" data-file-height="504" data-file-width="928" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Time_series_for_global_capture_of_capelin.png/400px-Time_series_for_global_capture_of_capelin.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Time_series_for_global_capture_of_capelin.png/600px-Time_series_for_global_capture_of_capelin.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Time_series_for_global_capture_of_capelin.png/800px-Time_series_for_global_capture_of_capelin.png 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Time_series_for_global_capture_of_capelin.png" title="Enlarge"></a></div>
+<center>Global capture of capelin in tonnes reported by the <a class="mw-redirect" href="/wiki/FAO" title="FAO">FAO</a>, 1950–2010<sup class="reference" id="cite_ref-fao_10-0"><a href="#cite_note-fao-10">[10]</a></sup></center>
+</div>
+</div>
+</div>
+<p>Capelin is an important <a href="/wiki/Forage_fish" title="Forage fish">forage fish</a>, and is essential as the key food of the <a href="/wiki/Atlantic_cod" title="Atlantic cod">Atlantic cod</a>. The northeast Atlantic cod and capelin fisheries therefore are managed by a multispecies approach developed by the main resource owners Norway and Russia.</p>
+<p>In some years with large quantities of <a href="/wiki/Atlantic_herring" title="Atlantic herring">Atlantic herring</a> in the <a href="/wiki/Barents_Sea" title="Barents Sea">Barents Sea</a>, capelin seem to be heavily affected. Probably both food competition and herring feeding on capelin larvae lead to collapses in the capelin stock. However, in some years there has been good recruitment of capelin despite a high herring biomass, suggesting that herring are only one factor influencing capelin dynamics.</p>
+<p>In the provinces of <a href="/wiki/Quebec" title="Quebec">Quebec</a> (particularly in the <a class="mw-redirect" href="/wiki/Gasp%C3%A9_peninsula" title="Gaspé peninsula">Gaspé peninsula</a>) and <a href="/wiki/Newfoundland_and_Labrador" title="Newfoundland and Labrador">Newfoundland and Labrador</a> in Canada, it is a regular summertime practice for locals to go to the <a href="/wiki/Beach" title="Beach">beach</a> and scoop the capelin up in nets or whatever is available, as the capelin "roll in" in the millions each year at the end of May or in early June.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Commercially, capelin is used for <a href="/wiki/Fish_meal" title="Fish meal">fish meal</a> and <a href="/wiki/Fish_oil" title="Fish oil">oil</a> industry products, but is also appreciated as food. The flesh is agreeable in flavor, resembling herring. Capelin <a href="/wiki/Roe" title="Roe">roe</a> ("masago") is considered a high-value product. It is also sometimes mixed with <a href="/wiki/Wasabi" title="Wasabi">wasabi</a> or green food coloring and wasabi flavor and sold as "wasabi caviar". Often, masago is commercialized as <a class="mw-redirect" href="/wiki/Ebiko" title="Ebiko">ebiko</a> and used as a substitute for <a href="/wiki/Tobiko" title="Tobiko">tobiko</a>, flying fish roe,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> owing to its similar appearance and taste —although the <a href="/wiki/Mouthfeel" title="Mouthfeel">mouthfeel</a> is different due to the individual eggs being smaller and less crunchy than tobiko.</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capelin&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-fishbase-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fishbase_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fishbase_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Froese, Rainer and Pauly, Daniel, eds. (2016). <a class="external text" href="http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Mallotus&amp;speciesname=villosus" rel="nofollow">"<i>Mallotus villosus</i>"</a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. August 2016 version.</span></li>
+<li id="cite_note-Gj.C3.B8s.C3.A6ter-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gj.C3.B8s.C3.A6ter_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gj.C3.B8s.C3.A6ter_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gj.C3.B8s.C3.A6ter_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gj.C3.B8s.C3.A6ter_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Gjøsæter, H. (1998). "The population biology and exploitation of capelin (<i>Mallotus villosus</i>) in the Barents Sea". <i>Sarsia</i>. <b>83</b>: 453–496. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F00364827.1998.10420445" rel="nofollow">10.1080/00364827.1998.10420445</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sarsia&amp;rft.atitle=The+population+biology+and+exploitation+of+capelin+%28Mallotus+villosus%29+in+the+Barents+Sea&amp;rft.volume=83&amp;rft.pages=453-496&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1080%2F00364827.1998.10420445&amp;rft.aulast=Gj%C3%B8s%C3%A6ter&amp;rft.aufirst=H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapelin"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barbaro, A.; Einarsson, B.; Birnir, B.; Sigurthsson, S.; Valdimarsson, H.; Palsson, O. K.; Sveinbjornsson, S.; Sigurthsson, T. (2009). "Modelling and simulations of the migration of pelagic fish". <i>ICES Journal of Marine Science</i>. <b>66</b> (5): 826. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1093%2Ficesjms%2Ffsp067" rel="nofollow">10.1093/icesjms/fsp067</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ICES+Journal+of+Marine+Science&amp;rft.atitle=Modelling+and+simulations+of+the+migration+of+pelagic+fish&amp;rft.volume=66&amp;rft.issue=5&amp;rft.pages=826&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1093%2Ficesjms%2Ffsp067&amp;rft.aulast=Barbaro&amp;rft.aufirst=A.&amp;rft.au=Einarsson%2C+B.&amp;rft.au=Birnir%2C+B.&amp;rft.au=Sigurthsson%2C+S.&amp;rft.au=Valdimarsson%2C+H.&amp;rft.au=Palsson%2C+O.+K.&amp;rft.au=Sveinbjornsson%2C+S.&amp;rft.au=Sigurthsson%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapelin"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ICES2005-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-ICES2005_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ICES2005_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">"Capelin (Mallotus villosus) distribution and climate: a sea 'canary' for marine ecosystem change". <i>ICES Journal of Marine Science</i>. <b>62</b> (7): 1524–1530. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.icesjms.2005.05.008" rel="nofollow">10.1016/j.icesjms.2005.05.008</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ICES+Journal+of+Marine+Science&amp;rft.atitle=Capelin+%28Mallotus+villosus%29+distribution+and+climate%3A+a+sea+%27canary%27+for+marine+ecosystem+change&amp;rft.volume=62&amp;rft.issue=7&amp;rft.pages=1524-1530&amp;rft_id=info%3Adoi%2F10.1016%2Fj.icesjms.2005.05.008&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapelin"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Friis-R.C3.B8del-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Friis-R.C3.B8del_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Friis-R.C3.B8del_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">"A review of capelin (<i>Mallotus villosus</i>) in Greenland waters". <i>ICES Journal of Marine Science</i>. <b>59</b> (5): 890–896. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1006%2Fjmsc.2002.1242" rel="nofollow">10.1006/jmsc.2002.1242</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ICES+Journal+of+Marine+Science&amp;rft.atitle=A+review+of+capelin+%28Mallotus+villosus%29+in+Greenland+waters&amp;rft.volume=59&amp;rft.issue=5&amp;rft.pages=890-896&amp;rft_id=info%3Adoi%2F10.1006%2Fjmsc.2002.1242&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapelin"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Muus, B., J. G. Nielsen, P. Dahlstrom and B. Nystrom (1999). <i>Sea Fish.</i> pp. 98–99. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/8790787005" title="Special:BookSources/8790787005">8790787005</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Polar Life Canada: <a class="external text" href="http://www.polarlife.ca/organisms/fish/marine/smelt/capelin.htm" rel="nofollow">Capelin, Mallotus villosus.</a> Retrieved 20 August 2016.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Roland, T. (9 April 2010). <a class="external text" href="http://www.independent.com/news/2010/apr/09/running-grunion/" rel="nofollow">Running with the Grunion.</a> The Independent. Retrieved 20 August 2016.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Martin, K.L.M. (2014). <i>Beach-Spawning Fishes: Reproduction in an Endangered Ecosystem</i>. CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1482207972" title="Special:BookSources/978-1482207972">978-1482207972</a>.</span></li>
+<li id="cite_note-fao-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-fao_10-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.fao.org/fishery/species/2126/en" rel="nofollow"><i>Mallotus villosus</i> (Müller, 1776)</a> FAO, Species Fact Sheet. Retrieved April 2012.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.cbc.ca/news/canada/newfoundland-labrador/they-re-back-capelin-are-rolling-at-middle-cove-beach-1.3145041" rel="nofollow">"They're Back: Capelin are Rolling at Middle Cove Beach"</a>. <i>CBC</i>. CBC News, Newfoundland and Labrador<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CBC&amp;rft.atitle=They%27re+Back%3A+Capelin+are+Rolling+at+Middle+Cove+Beach&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fnewfoundland-labrador%2Fthey-re-back-capelin-are-rolling-at-middle-cove-beach-1.3145041&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapelin"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://articles.spokedark.tv/2013/05/14/tobiko-ebiko/#.WJZxPlN97IU" rel="nofollow">“Tobiko” &amp; “Ebiko”</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capelin&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=162035" rel="nofollow">"Mallotus villosus"</a>. <a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">Integrated Taxonomic Information System</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2006</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mallotus+villosus&amp;rft.pub=Integrated+Taxonomic+Information+System&amp;rft_id=https%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D162035&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapelin"><span style="display:none;"> </span></span></li>
+<li>Froese, Rainer and Pauly, Daniel, eds. (2005). <a class="external text" href="http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Mallotus&amp;speciesname=villosus" rel="nofollow">"<i>Mallotus villosus</i>"</a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. 10 2005 version.</li>
+<li><a class="external text" href="https://web.archive.org/web/20070930184319/http://www.imr.no/events/norwegian_russian_symposium/1-Wednesday/1We_1040.pdf" rel="nofollow">Capelin off Iceland: Biology, exploitation and management</a></li>
+<li><img alt="PD-icon.svg" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/> This article incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>: <cite class="citation encyclopaedia" id="CITEREFWard1911">Ward, Artemas (1911). <i><a href="/wiki/The_Grocer%27s_Encyclopedia" title="The Grocer's Encyclopedia">The Grocer's Encyclopedia</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Grocer%27s+Encyclopedia&amp;rft.date=1911&amp;rft.aulast=Ward&amp;rft.aufirst=Artemas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapelin"><span style="display:none;"> </span></span></li>
+</ul>
+<div aria-labelledby="Forage_fish" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Forage_fish" title="Template:Forage fish"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Forage_fish&amp;action=edit&amp;redlink=1" title="Template talk:Forage fish (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Forage_fish&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Forage_fish" style="font-size:114%;margin:0 4em"><a href="/wiki/Forage_fish" title="Forage fish">Forage fish</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Marine</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:70px"><a href="/wiki/Clupeidae" title="Clupeidae">Clupeidae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Anchovies" title="Anchovies">Anchovies</a></li>
+<li><a href="/wiki/Herring" title="Herring">herring</a></li>
+<li><a href="/wiki/Ilisha_(genus)" title="Ilisha (genus)">Ilisha</a></li>
+<li><a href="/wiki/Mackerel" title="Mackerel">mackerel (small)</a></li>
+<li><a href="/wiki/Menhaden" title="Menhaden">menhaden</a></li>
+<li><a href="/wiki/Sardine" title="Sardine">sardine</a></li>
+<li><a class="mw-redirect" href="/wiki/Shad" title="Shad">shad</a></li>
+<li><a href="/wiki/Sprat" title="Sprat">sprats</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:70px">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Capelin</a></li>
+<li><a href="/wiki/Goldband_fusilier" title="Goldband fusilier">goldband fusilier</a></li>
+<li><a href="/wiki/Halfbeak" title="Halfbeak">halfbeak</a></li>
+<li><a href="/wiki/Smelt_(fish)" title="Smelt (fish)">smelt</a></li>
+<li><a href="/wiki/Krill" title="Krill">krill</a></li>
+<li><a href="/wiki/Squid" title="Squid">squid (small)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Moofushi_Kandu_fish.jpg" title="Predator bluefin trevally sizing up schooling anchovies"><img alt="Predator bluefin trevally sizing up schooling anchovies" data-file-height="1224" data-file-width="1632" height="105" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/140px-Moofushi_Kandu_fish.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/210px-Moofushi_Kandu_fish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/280px-Moofushi_Kandu_fish.jpg 2x" width="140"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Freshwater</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:70px"><a href="/wiki/Minnow" title="Minnow">Minnow</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Leuciscinae" title="Leuciscinae">Leuciscinae</a></li>
+<li><a href="/wiki/Common_dace" title="Common dace">dace</a></li>
+<li><a href="/wiki/Shiner_(fish)" title="Shiner (fish)">shiner</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:70px">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carp" title="Carp">Carp (small)</a></li>
+<li><a href="/wiki/Killifish" title="Killifish">killifish</a></li>
+<li><a href="/wiki/Eastern_mosquitofish" title="Eastern mosquitofish">mosquitofish</a></li>
+<li>herrings
+<ul>
+<li><a class="mw-redirect" href="/wiki/River_herring" title="River herring">river herring</a></li>
+<li><a class="mw-redirect" href="/wiki/Alewives" title="Alewives">alewives</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Catostomidae" title="Catostomidae">sucker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bait_ball" title="Bait ball">Bait ball</a></li>
+<li><a href="/wiki/Bait_fish" title="Bait fish">Bait fish</a></li>
+<li><a href="/wiki/Feeder_fish" title="Feeder fish">Feeder fish</a></li>
+<li><a href="/wiki/Fish_migration" title="Fish migration">Fish migration</a></li>
+<li><a href="/wiki/Filter_feeder" title="Filter feeder">Filter feeder</a></li>
+<li><a class="mw-redirect" href="/wiki/Food_fish" title="Food fish">Food fish</a></li>
+<li><a href="/wiki/Ichthyoplankton" title="Ichthyoplankton">Ichthyoplankton</a></li>
+<li><a href="/wiki/Juvenile_fish" title="Juvenile fish">Juvenile fish</a></li>
+<li><a class="mw-redirect" href="/wiki/Predator_fish" title="Predator fish">Predator fish</a></li>
+<li><a href="/wiki/Sardine_run" title="Sardine run">Sardine run</a></li>
+<li><a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">Shoaling and schooling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Principal_commercial_fishery_species_groups" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Commercial_fish_topics" title="Template:Commercial fish topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Commercial_fish_topics" title="Template talk:Commercial fish topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Commercial_fish_topics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Principal_commercial_fishery_species_groups" style="font-size:114%;margin:0 4em">Principal commercial <a href="/wiki/Fishery" title="Fishery">fishery</a> species groups</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wild_fisheries" title="Wild fisheries">Wild</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pelagic_fish" title="Pelagic fish">Large pelagic fish</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mackerel" title="Mackerel">Mackerel</a></li>
+<li><a href="/wiki/Salmon" title="Salmon">Salmon</a></li>
+<li><a href="/wiki/Pacific_saury" title="Pacific saury">Saury</a></li>
+<li><a href="/wiki/Shark" title="Shark">Shark</a></li>
+<li><a href="/wiki/Swordfish" title="Swordfish">Swordfish</a></li>
+<li><a href="/wiki/Tuna" title="Tuna">Tuna</a>
+<ul>
+<li><a href="/wiki/Albacore" title="Albacore">albacore</a></li>
+<li><a href="/wiki/Bigeye_tuna" title="Bigeye tuna">bigeye</a></li>
+<li><a href="/wiki/Atlantic_bluefin_tuna" title="Atlantic bluefin tuna">Atlantic bluefin</a></li>
+<li><a href="/wiki/Pacific_bluefin_tuna" title="Pacific bluefin tuna">Pacific bluefin</a></li>
+<li><a href="/wiki/Southern_bluefin_tuna" title="Southern bluefin tuna">southern bluefin</a></li>
+<li><a href="/wiki/Skipjack_tuna" title="Skipjack tuna">skipjack</a></li>
+<li><a href="/wiki/Yellowfin_tuna" title="Yellowfin tuna">yellowfin</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Forage_fish" title="Forage fish">Forage fish</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anchovy" title="Anchovy">Anchovy</a></li>
+<li><a class="mw-selflink selflink">Capelin</a></li>
+<li><a href="/wiki/Herring" title="Herring">Herring</a></li>
+<li><a href="/wiki/Ilish" title="Ilish">Ilish</a></li>
+<li><a href="/wiki/Menhaden" title="Menhaden">Menhaden</a></li>
+<li><a href="/wiki/Sardine" title="Sardine">Sardines</a></li>
+<li><a class="mw-redirect" href="/wiki/Shad" title="Shad">Shad</a></li>
+<li><a href="/wiki/Sprat" title="Sprat">Sprat</a>
+<ul>
+<li><a href="/wiki/European_sprat" title="European sprat">european</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Demersal_fish" title="Demersal fish">Demersal fish</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catfish" title="Catfish">Catfish</a></li>
+<li><a href="/wiki/Cod_fisheries" title="Cod fisheries">Cod</a>
+<ul>
+<li><a href="/wiki/Atlantic_cod" title="Atlantic cod">Atlantic</a></li>
+<li><a href="/wiki/Pacific_cod" title="Pacific cod">Pacific</a></li>
+<li><a href="/wiki/Alaska_pollock" title="Alaska pollock">Alaska pollock</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Flatfish" title="Flatfish">Flatfish</a>
+<ul>
+<li><a href="/wiki/Flounder" title="Flounder">flounder</a></li>
+<li><a href="/wiki/Halibut" title="Halibut">halibut</a></li>
+<li><a href="/wiki/Plaice" title="Plaice">plaice</a></li>
+<li><a href="/wiki/Sole_(fish)" title="Sole (fish)">sole</a></li>
+<li><a href="/wiki/Turbot" title="Turbot">turbot</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Haddock" title="Haddock">Haddock</a></li>
+<li><a href="/wiki/Mullet_(fish)" title="Mullet (fish)">Mullet</a></li>
+<li><a href="/wiki/Orange_roughy" title="Orange roughy">Orange roughy</a></li>
+<li><a href="/wiki/Pollock" title="Pollock">Pollock</a></li>
+<li><a href="/wiki/Sebastes" title="Sebastes">Rockfish</a></li>
+<li><a href="/wiki/Sillaginidae" title="Sillaginidae">Smelt-whitings</a></li>
+<li><a class="mw-redirect" href="/wiki/Toothfish" title="Toothfish">Toothfish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Freshwater_fish" title="Freshwater fish">Freshwater fish</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carp" title="Carp">Carp</a></li>
+<li><a href="/wiki/Sturgeon" title="Sturgeon">Sturgeon</a></li>
+<li><a href="/wiki/Tilapia" title="Tilapia">Tilapia</a></li>
+<li><a href="/wiki/Trout" title="Trout">Trout</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Wild_fish" title="Wild fish">Other wild fish</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eel" title="Eel">Eel</a></li>
+<li><a href="/wiki/Whitebait" title="Whitebait">Whitebait</a></li>
+<li><a href="/wiki/Category:Commercial_fish" title="Category:Commercial fish">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Crustacean" title="Crustacean">Crustaceans</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crab_fisheries" title="Crab fisheries">Crab</a></li>
+<li><a href="/wiki/Krill_fishery" title="Krill fishery">Krill</a></li>
+<li><a href="/wiki/Lobster_fishing" title="Lobster fishing">Lobster</a></li>
+<li><a href="/wiki/Shrimp_fishery" title="Shrimp fishery">Shrimp</a></li>
+<li><a href="/wiki/Category:Commercial_crustaceans" title="Category:Commercial crustaceans">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Mollusc" title="Mollusc">Molluscs</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abalone" title="Abalone">Abalone</a></li>
+<li><a href="/wiki/Mussel" title="Mussel">Mussels</a></li>
+<li><a href="/wiki/Octopus" title="Octopus">Octopus</a></li>
+<li><a href="/wiki/Oyster" title="Oyster">Oysters</a></li>
+<li><a href="/wiki/Scallop" title="Scallop">Scallops</a></li>
+<li><a href="/wiki/Squid" title="Squid">Squid</a></li>
+<li><a href="/wiki/Category:Commercial_molluscs" title="Category:Commercial molluscs">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Echinoderm" title="Echinoderm">Echinoderms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trepanging" title="Trepanging">Sea cucumbers</a></li>
+<li><a href="/wiki/Sea_urchin" title="Sea urchin">Sea urchin</a></li>
+<li><a href="/wiki/Category:Commercial_echinoderms" title="Category:Commercial echinoderms">more...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Atlantic_cod.jpg" title="Atlantic cod"><img alt="Atlantic cod" data-file-height="255" data-file-width="600" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atlantic_cod.jpg/140px-Atlantic_cod.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atlantic_cod.jpg/210px-Atlantic_cod.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atlantic_cod.jpg/280px-Atlantic_cod.jpg 2x" width="140"/></a><br/>
+<br/>
+<a class="image" href="/wiki/File:Lobster_(PSF).png" title="Lobster"><img alt="Lobster" data-file-height="1748" data-file-width="2821" height="62" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lobster_%28PSF%29.png/100px-Lobster_%28PSF%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lobster_%28PSF%29.png/150px-Lobster_%28PSF%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lobster_%28PSF%29.png/200px-Lobster_%28PSF%29.png 2x" width="100"/></a><br/>
+<br/>
+<a class="image" href="/wiki/File:Pacific_oysters_01.jpg" title="Pacific oysters"><img alt="Pacific oysters" data-file-height="1282" data-file-width="1750" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_oysters_01.jpg/80px-Pacific_oysters_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_oysters_01.jpg/120px-Pacific_oysters_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_oysters_01.jpg/160px-Pacific_oysters_01.jpg 2x" width="80"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aquaculture" title="Aquaculture">Farmed</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carp#Aquaculture" title="Carp">Carp</a>
+<ul>
+<li><a href="/wiki/Bighead_carp" title="Bighead carp">bighead</a></li>
+<li><a href="/wiki/Common_carp" title="Common carp">common</a></li>
+<li><a href="/wiki/Crucian_carp" title="Crucian carp">crucian</a></li>
+<li><a href="/wiki/Grass_carp" title="Grass carp">grass</a></li>
+<li><a href="/wiki/Silver_carp" title="Silver carp">silver</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Aquaculture_of_catfish" title="Aquaculture of catfish">Catfish</a></li>
+<li><a href="/wiki/Freshwater_prawn_farming" title="Freshwater prawn farming">Freshwater prawns</a></li>
+<li><a href="/wiki/Gilt-head_bream" title="Gilt-head bream">Gilt-head bream</a></li>
+<li><a href="/wiki/Mussel#Aquaculture" title="Mussel">Mussels</a></li>
+<li><a href="/wiki/Oyster_farming" title="Oyster farming">Oysters</a></li>
+<li><a class="mw-redirect" href="/wiki/Aquaculture_of_salmon" title="Aquaculture of salmon">Salmon</a>
+<ul>
+<li><a href="/wiki/Atlantic_salmon" title="Atlantic salmon">Atlantic</a></li>
+<li><a href="/wiki/Rainbow_trout" title="Rainbow trout">salmon trout</a></li>
+<li><a href="/wiki/Coho_salmon" title="Coho salmon">coho</a></li>
+<li><a href="/wiki/Chinook_salmon" title="Chinook salmon">chinook</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Scallop_aquaculture" title="Scallop aquaculture">Scallops</a></li>
+<li><a href="/wiki/Seaweed_farming" title="Seaweed farming">Seaweed</a></li>
+<li><a href="/wiki/Marine_shrimp_farming" title="Marine shrimp farming">Shrimp</a></li>
+<li><a href="/wiki/Aquaculture_of_tilapia" title="Aquaculture of tilapia">Tilapia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Commercial_fishing" title="Commercial fishing">Commercial fishing</a></li>
+<li><a class="mw-redirect" href="/wiki/World_fish_production" title="World fish production">World fish production</a></li>
+<li><a href="/wiki/List_of_commercially_important_fish_species" title="List of commercially important fish species">Commercial species</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_fishing_topics_by_subject" title="List of fishing topics by subject">Fishing topics</a></li>
+<li><a class="mw-redirect" href="/wiki/Fisheries_glossary" title="Fisheries glossary">Fisheries glossary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20171105015309
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.484 seconds
+Real time usage: 0.620 seconds
+Preprocessor visited node count: 9112/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76175/2097152 bytes
+Template argument size: 9397/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Lua time usage: 0.307/10.000 seconds
+Lua memory usage: 5.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  553.506      1 -total
+ 56.77%  314.217      1 Template:Speciesbox
+ 55.67%  308.113      1 Template:Taxobox/core
+ 30.38%  168.167      1 Template:Taxobox/taxonomy
+ 19.23%  106.452    108 Template:Taxon_info
+ 17.21%   95.282      1 Template:Reflist
+  8.23%   45.580     24 Template:Delink
+  7.81%   43.224      4 Template:Cite_journal
+  6.50%   36.004      6 Template:Taxon_link
+  5.59%   30.915      3 Template:Convert
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:630350-0!canonical and timestamp 20171105015308 and revision id 802352680
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Capelin&amp;oldid=802352680">https://en.wikipedia.org/w/index.php?title=Capelin&amp;oldid=802352680</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Commercial_fish" title="Category:Commercial fish">Commercial fish</a></li><li><a href="/wiki/Category:Fish_of_the_Arctic_Ocean" title="Category:Fish of the Arctic Ocean">Fish of the Arctic Ocean</a></li><li><a href="/wiki/Category:Greenlandic_cuisine" title="Category:Greenlandic cuisine">Greenlandic cuisine</a></li><li><a href="/wiki/Category:Osmeridae" title="Category:Osmeridae">Osmeridae</a></li><li><a href="/wiki/Category:Animals_described_in_1776" title="Category:Animals described in 1776">Animals described in 1776</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">Use dmy dates from June 2013</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2011" title="Category:Wikipedia articles needing clarification from April 2011">Wikipedia articles needing clarification from April 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_Grocer%27s_Encyclopedia" title="Category:Wikipedia articles incorporating text from Grocer's Encyclopedia">Wikipedia articles incorporating text from Grocer's Encyclopedia</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Capelin" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Capelin" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Capelin" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Capelin" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Capelin">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Capelin&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Capelin&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Capelin" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Capelin" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Capelin&amp;oldid=802352680" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Capelin&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q143359" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Capelin&amp;id=802352680" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Capelin">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Capelin&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Capelin&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Mallotus_villosus" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Mallotus_villosus" hreflang="en">Wikispecies</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%A8%D9%84%D9%8A%D9%86" hreflang="ar" lang="ar" title="كبلين – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Moyva" hreflang="az" lang="az" title="Moyva – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D0%B2%D0%B0" hreflang="be" lang="be" title="Мойва – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Kapla%C3%B1senn" hreflang="br" lang="br" title="Kaplañsenn – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Mallotus_villosus" hreflang="ca" lang="ca" title="Mallotus villosus – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Mallotus_villosus" hreflang="ceb" lang="ceb" title="Mallotus villosus – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Hu%C5%88%C3%A1%C4%8Dek_severn%C3%AD" hreflang="cs" lang="cs" title="Huňáček severní – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Caplan" hreflang="cy" lang="cy" title="Caplan – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Lodde" hreflang="da" lang="da" title="Lodde – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lodde" hreflang="de" lang="de" title="Lodde – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Mallotus_villosus" hreflang="es" lang="es" title="Mallotus villosus – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Paneka_atlantiko" hreflang="eu" lang="eu" title="Paneka atlantiko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AE%D8%B1%D8%AF%D9%85%D8%A7%D9%87%DB%8C" hreflang="fa" lang="fa" title="خردماهی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Mallotus_villosus" hreflang="fr" lang="fr" title="Mallotus villosus – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Mallotus_villosus" hreflang="gl" lang="gl" title="Mallotus villosus – Galician">Galego</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Capelin" hreflang="id" lang="id" title="Capelin – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Lo%C3%B0na" hreflang="is" lang="is" title="Loðna – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Mallotus_villosus" hreflang="it" lang="it" title="Mallotus villosus – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%A8%D7%95%D7%98%D7%A0%D7%99%D7%AA" hreflang="he" lang="he" title="טרוטנית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Capelin" hreflang="jv" lang="jv" title="Capelin – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%9D%E1%83%98%E1%83%95%E1%83%90" hreflang="ka" lang="ka" title="მოივა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D0%B2%D0%B0" hreflang="kk" lang="kk" title="Мойва – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Stinten%C4%97" hreflang="lt" lang="lt" title="Stintenė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Csukly%C3%A1s_hal" hreflang="hu" lang="hu" title="Csuklyás hal – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Capelin" hreflang="ms" lang="ms" title="Capelin – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Lodde" hreflang="nl" lang="nl" title="Lodde – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%88%E3%82%B7%E3%82%B7%E3%83%A3%E3%83%A2" hreflang="ja" lang="ja" title="カラフトシシャモ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Lodde" hreflang="no" lang="no" title="Lodde – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Lodde" hreflang="nn" lang="nn" title="Lodde – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Gromadnik" hreflang="pl" lang="pl" title="Gromadnik – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Mallotus_villosus" hreflang="pt" lang="pt" title="Mallotus villosus – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D0%B2%D0%B0" hreflang="ru" lang="ru" title="Мойва – Russian">Русский</a></li><li class="interlanguage-link interwiki-so"><a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Masago" hreflang="so" lang="so" title="Masago – Somali">Soomaaliga</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Villakuore" hreflang="fi" lang="fi" title="Villakuore – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Lodda" hreflang="sv" lang="sv" title="Lodda – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D0%B2%D0%B0" hreflang="uk" lang="uk" title="Мойва – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vep"><a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Hohol%27" hreflang="vep" lang="vep" title="Hohol' – Veps">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/C%C3%A1_tr%E1%BB%A9ng" hreflang="vi" lang="vi" title="Cá trứng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Mallotus_villosus" hreflang="war" lang="war" title="Mallotus villosus – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%AF%9B%E9%B1%97%E9%AD%9A" hreflang="zh" lang="zh" title="毛鱗魚 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q143359#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 September 2017, at 16:49.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Capelin&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.620","ppvisitednodes":{"value":9112,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76175,"limit":2097152},"templateargumentsize":{"value":9397,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  553.506      1 -total"," 56.77%  314.217      1 Template:Speciesbox"," 55.67%  308.113      1 Template:Taxobox/core"," 30.38%  168.167      1 Template:Taxobox/taxonomy"," 19.23%  106.452    108 Template:Taxon_info"," 17.21%   95.282      1 Template:Reflist","  8.23%   45.580     24 Template:Delink","  7.81%   43.224      4 Template:Cite_journal","  6.50%   36.004      6 Template:Taxon_link","  5.59%   30.915      3 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.307","limit":"10.000"},"limitreport-memusage":{"value":5882069,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20171105015309","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1326"});});</script>
+</body>
+</html>

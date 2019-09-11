@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Anvil - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anvil","wgTitle":"Anvil","wgCurRevisionId":808444040,"wgRevisionId":808444040,"wgArticleId":282377,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2010","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from April 2017","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with GND identifiers","Metalworking tools","Lithics","Workbenches","Heraldic charges","Percussion instruments","Looney Tunes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anvil","wgRelevantArticleId":282377,"wgRequestId":"WfubTQpAAEUAAIypwx0AAACU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q104363","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/a/a3/Anvil_by_Zureks.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anvil" rel="alternate"/>
+<link href="/w/index.php?title=Anvil&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Anvil&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Anvil" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anvil rootpage-Anvil vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Anvil</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Anvil_(disambiguation)" title="Anvil (disambiguation)">Anvil (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Anvil&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Anvil_by_Zureks.jpg"><img alt="" class="thumbimage" data-file-height="847" data-file-width="1194" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Anvil_by_Zureks.jpg/220px-Anvil_by_Zureks.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Anvil_by_Zureks.jpg/330px-Anvil_by_Zureks.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Anvil_by_Zureks.jpg/440px-Anvil_by_Zureks.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Anvil_by_Zureks.jpg" title="Enlarge"></a></div>
+Anvil</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Blacksmith_at_work02_less_contrast.jpg"><img alt="" class="thumbimage" data-file-height="1053" data-file-width="1600" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blacksmith_at_work02_less_contrast.jpg/220px-Blacksmith_at_work02_less_contrast.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blacksmith_at_work02_less_contrast.jpg/330px-Blacksmith_at_work02_less_contrast.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blacksmith_at_work02_less_contrast.jpg/440px-Blacksmith_at_work02_less_contrast.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Blacksmith_at_work02_less_contrast.jpg" title="Enlarge"></a></div>
+A <a href="/wiki/Blacksmith" title="Blacksmith">blacksmith</a> working iron with a hammer and anvil</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:3_tourist_helping_artist_blacksmith_in_finland.JPG"><img alt="" class="thumbimage" data-file-height="3312" data-file-width="4416" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/3_tourist_helping_artist_blacksmith_in_finland.JPG/220px-3_tourist_helping_artist_blacksmith_in_finland.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/3_tourist_helping_artist_blacksmith_in_finland.JPG/330px-3_tourist_helping_artist_blacksmith_in_finland.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/3_tourist_helping_artist_blacksmith_in_finland.JPG/440px-3_tourist_helping_artist_blacksmith_in_finland.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:3_tourist_helping_artist_blacksmith_in_finland.JPG" title="Enlarge"></a></div>
+A <a href="/wiki/Blacksmith" title="Blacksmith">blacksmith</a> working with a <a href="/wiki/Sledgehammer" title="Sledgehammer">sledgehammer</a>, assistant (striker) and Lokomo anvil in Finland</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Enclume.jpg"><img alt="" class="thumbimage" data-file-height="332" data-file-width="500" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Enclume.jpg/220px-Enclume.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Enclume.jpg/330px-Enclume.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Enclume.jpg/440px-Enclume.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Enclume.jpg" title="Enlarge"></a></div>
+An anvil at the medieval construction site of <a href="/wiki/Gu%C3%A9delon_Castle" title="Guédelon Castle">Guédelon</a> in <a href="/wiki/Treigny" title="Treigny">Treigny</a>, France.</div>
+</div>
+</div>
+<p>An <b>anvil</b> is a <a href="/wiki/Metalworking" title="Metalworking">metalworking</a> <a href="/wiki/Tool" title="Tool">tool</a> consisting of large block of metal (usually forged or cast steel), with a flattened top surface, upon which another object is struck (or "worked").</p>
+<p>Anvils are as massive as they are practical, because the higher their <a href="/wiki/Inertia" title="Inertia">inertia</a>, the more efficiently they cause the energy of striking tools to be transferred to the work piece. On a quality anvil, the smith's hammer should rebound with almost as much energy as the smith puts into the downward stroke, ultimately making the smith's job easier and less physically strenuous. In most cases the anvil is used as a <a href="/wiki/Forge" title="Forge">forging</a> tool. Before the advent of modern <a href="/wiki/Welding" title="Welding">welding</a> technology, it was a primary tool of metal workers.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The great majority of modern anvils are made of cast or forged <a href="/wiki/Steel" title="Steel">steel</a> (the latter is stronger) that has been heat treated. Inexpensive anvils have been made of cast iron and low quality steel, but are considered unsuitable for serious use as they deform and lack rebound when struck.</p>
+<p>Because anvils are very ancient tools and were at one time very commonplace, they have acquired symbolic meaning beyond their use as utilitarian objects. They have even found their way into popular culture including episodes of <i><a href="/wiki/Looney_Tunes" title="Looney Tunes">Looney Tunes</a></i>, the name of a <a href="/wiki/Anvil_(band)" title="Anvil (band)">heavy metal band</a>, and usage by artisanal blacksmiths as well as jewelers and metal smiths.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Placement"><span class="tocnumber">2</span> <span class="toctext">Placement</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types"><span class="tocnumber">3</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#In_ethology_and_general_biology"><span class="tocnumber">5</span> <span class="toctext">In ethology and general biology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#In_popular_culture"><span class="tocnumber">6</span> <span class="toctext">In popular culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Historically"><span class="tocnumber">6.1</span> <span class="toctext">Historically</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Television_and_film"><span class="tocnumber">6.2</span> <span class="toctext">Television and film</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Musical_instruments"><span class="tocnumber">6.3</span> <span class="toctext">Musical instruments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Anvil,_labelled_en.svg"><img alt="" class="thumbimage" data-file-height="335" data-file-width="462" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Anvil%2C_labelled_en.svg/220px-Anvil%2C_labelled_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Anvil%2C_labelled_en.svg/330px-Anvil%2C_labelled_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Anvil%2C_labelled_en.svg/440px-Anvil%2C_labelled_en.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Anvil,_labelled_en.svg" title="Enlarge"></a></div>
+A single-horn anvil</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fciron-anvil_face.jpg"><img alt="" class="thumbimage" data-file-height="558" data-file-width="1024" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fciron-anvil_face.jpg/220px-Fciron-anvil_face.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fciron-anvil_face.jpg/330px-Fciron-anvil_face.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fciron-anvil_face.jpg/440px-Fciron-anvil_face.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fciron-anvil_face.jpg" title="Enlarge"></a></div>
+A top view of a well used London pattern anvil</div>
+</div>
+</div>
+<p>The primary work surface of the anvil is known as the face. It is generally made of hardened steel and should be flat and smooth with rounded edges for most work. Any marks on the face will be transferred to the work. Also, sharp edges tend to cut into the metal being worked and may cause cracks to form in the workpiece. The face is hardened and tempered to resist the blows of the smith's hammer, so the anvil face does not deform under repeated use. A hard anvil face also reduces the amount of force lost in each hammer blow<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2017)">citation needed</span></a></i>]</sup>. Hammers, tools, and work pieces of hardened steel should never directly strike the anvil face with full force, as they may damage it; this can result in chipping or deforming of the anvil face.</p>
+<p>The horn of the anvil is a conical projection used to form various round shapes and is generally unhardened steel or iron. The horn is used mostly in bending operations. It also is used by some smiths as an aid in "drawing down" stock (making it longer and thinner). Some anvils, mainly European, are made with two horns, one square and one round. Also, some anvils are made with side horns or clips for specialized work.</p>
+<p>The <i>step</i> is that area of the anvil between the "horn" and the "face". It is soft and is used for cutting; its purpose is to prevent damaging the steel face of the anvil by conducting such operations there and so as not to damage the cutting edge of the chisel, though many smiths shun this practice as it will damage the anvil over time.</p>
+<p>The <i>hardie hole</i> is a square hole into which specialized forming and cutting tools, called <a href="/wiki/Hardy_tool" title="Hardy tool">Hardy tools</a>, are placed. It is also used in punching and bending operations.</p>
+<p>The <i><a href="/wiki/Pritchel" title="Pritchel">pritchel</a> hole</i> is a small round hole that is present on most modern anvils. Some anvils have more than one. It is used mostly for punching. At times, smiths will fit a second tool to this hole to allow the smith more flexibility when using more than one anvil tool.</p>
+<h2><span class="mw-headline" id="Placement">Placement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=2" title="Edit section: Placement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An anvil needs to be placed upon a sturdy base made from an impact and fire resistant material. It requires being fastened firmly to the base, so it will not move when struck with a hammer. A loose anvil is extremely unsafe, as it can fall off the base and is an ineffective forging tool. Common methods of attaching an anvil are spikes, chains, steel or iron straps, clips, bolts where there are holes provided, and cables. A smith would use whatever was at hand, as long as it held the anvil firmly in place. The anvil is placed as near to the forge as is convenient, generally no more than one step from the forge to prevent heat loss in the work piece.</p>
+<p>The most common base traditionally was a hard wood log or large timber buried several feet into the floor of the forge shop floor. This was done to make the anvil immobile when heavy forging and bending were done upon the anvil. In the industrial era cast iron bases became available. They had the advantage of adding additional weight to the anvil, making it more stable while making the anvil movable. These bases are highly sought after by collectors today. When concrete became widely available, there was a trend to make steel reinforced anvil bases by some smiths, though this practice has largely been abandoned. In more modern times many anvils have been placed upon bases fabricated from steel, often a short thick section of a large I-Beam. In addition, bases have been made from dimensional lumber bolted together to form a large block or steel drums full of oil-saturated sand to provide a damping effect. In recent times tripod bases of fabricated steel have become popular with some smiths.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Ambo%C3%9F_eines_Hufschmiedes.JPG"><img alt="" class="thumbimage" data-file-height="2616" data-file-width="3488" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambo%C3%9F_eines_Hufschmiedes.JPG/220px-Ambo%C3%9F_eines_Hufschmiedes.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambo%C3%9F_eines_Hufschmiedes.JPG/330px-Ambo%C3%9F_eines_Hufschmiedes.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambo%C3%9F_eines_Hufschmiedes.JPG/440px-Ambo%C3%9F_eines_Hufschmiedes.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ambo%C3%9F_eines_Hufschmiedes.JPG" title="Enlarge"></a></div>
+Anvil of a <a href="/wiki/Farrier" title="Farrier">farrier</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Silversmithing_anvils_and_hammers.jpg"><img alt="" class="thumbimage" data-file-height="3613" data-file-width="2400" height="331" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Silversmithing_anvils_and_hammers.jpg/220px-Silversmithing_anvils_and_hammers.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Silversmithing_anvils_and_hammers.jpg/330px-Silversmithing_anvils_and_hammers.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Silversmithing_anvils_and_hammers.jpg/440px-Silversmithing_anvils_and_hammers.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Silversmithing_anvils_and_hammers.jpg" title="Enlarge"></a></div>
+A <a href="/wiki/Silversmith" title="Silversmith">silversmith</a>'s stakes and hammers, 1981</div>
+</div>
+</div>
+<p>There are many designs for anvils, which are often tailored for a specific purpose or to meet the needs of a particular smith. For example, there were anvils specifically made for farriers, general smiths, cutlers, chain makers, armorers, saw tuners, coach makers, coopers, and many other types of metal workers. Such designs have originated in diverse geographic locations. <span id="blacksmith.27s_anvil"></span> The common <a class="mw-redirect" href="/wiki/Smith_(metalwork)" title="Smith (metalwork)">blacksmith</a>'s anvil is made of either forged or cast steel, forged wrought iron with a hard steel face or cast iron with a hard steel face. <a href="/wiki/Cast_iron" title="Cast iron">Cast iron</a> anvils are not used for forging as they are incapable of standing up to the impact and will crack and dent. Also, cast iron anvils without a hard steel face do not have the rebound that a harder anvil would and will tire out the smith. Historically, some anvils have been made with a smooth top working face of hardened steel welded to a cast iron or wrought iron body, though this manufacturing method is no longer in use. At one end, the common smith's anvil has a projecting conical <i>bick</i> (<i>beak</i>, <i>horn</i>) used for hammering curved work pieces. The other end is typically called the heel. Occasionally, the other end is also provided with a bick, partly rectangular in section. Most anvils made since the late 18th century also have a <a class="mw-redirect" href="/wiki/Hardy_hole" title="Hardy hole">hardy hole</a> and a <a class="mw-redirect" href="/wiki/Pritchel_hole" title="Pritchel hole">pritchel hole</a> where various tools, such as the anvil-cutter or hot chisel, can be inserted and held by the anvil. Some anvils have several hardy and pritchel holes, to accommodate a wider variety of <a class="mw-redirect" href="/wiki/Hardy_tools" title="Hardy tools">hardy tools</a> and <a href="/wiki/Pritchel" title="Pritchel">pritchels</a>. An anvil may also have a softer <i>pad</i> for chisel work.</p>
+<p>An anvil for a <a href="/wiki/Power_hammer" title="Power hammer">power hammer</a> is usually supported on a massive anvil block, sometimes weighing over 800 tons for a 12-ton hammer; this again rests on a strong foundation of timber and masonry or concrete.</p>
+<p>An anvil may have a marking indicating its weight, manufacturer, or place of origin. American-made anvils were often marked in pounds. European anvils are sometimes marked in kilograms. English anvils were often marked in hundredweight, the marking consisting of three numbers, indicating <a href="/wiki/Hundredweight" title="Hundredweight">hundredweight</a>, quarter hundredweight and pounds. For example, a 3-1-5, if such an anvil existed, would be 3x112 lb + 1x28 lb + 5 lb = 369 lb ≈ 168 kg.</p>
+<p>Cheap anvils made from inferior steel or cast iron, which are unsuitable for serious use, have been derisively referred to as "ASOs", or "anvil shaped objects".<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Amateur smiths have used a piece of railroad rail as a makeshift anvil.</p>
+<p>A metalworking <a class="mw-redirect" href="/wiki/Vise_(tool)" title="Vise (tool)">vise</a> may have a small anvil integrated into its design.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Anvils were first made of stone as a lithic <a href="/wiki/Stone_tool" title="Stone tool">stone tool</a>, then <a href="/wiki/Bronze" title="Bronze">bronze</a>, and later <a href="/wiki/Wrought_iron" title="Wrought iron">wrought iron</a>. As <a href="/wiki/Steel" title="Steel">steel</a> became more readily available, anvils were faced with it. This was done to give the anvil a hard face and to stop the anvil from deforming from impact. Many regional styles of anvils evolved through time from the simple block that was first used by <a href="/wiki/Metalsmith" title="Metalsmith">smiths</a>. The majority of anvils found today in the US are based on the London pattern anvil of the mid-19th century.</p>
+<p>The wrought iron steel faced anvil was produced up until the early 20th century. Through the 19th and very early 20th centuries, this method of construction evolved to produce extremely high quality anvils. The basic process involved forge-welding billets of wrought iron together to produce the desired shape. The sequence and location of the forge-welds varied between different anvil makers and the kind of anvil being made. At the same time cast iron anvils with steel faces were being made in the United States. At the dawn of the 20th century solid <a href="/wiki/Steel_casting" title="Steel casting">cast steel</a> anvils began to be produced, as well as two piece forged anvils made from closed die <a href="/wiki/Forging" title="Forging">forgings</a>. Modern anvils are generally made entirely from steel.</p>
+<p>There are many references to anvils in ancient Greek and Egyptian writings, including <a href="/wiki/Homer" title="Homer">Homer</a>'s works. They have been found at the <a href="/wiki/Calico_Early_Man_Site" title="Calico Early Man Site">Calico Early Man Site</a> in <a href="/wiki/North_America" title="North America">North America</a>.</p>
+<p>Anvils have since lost their former commonness, along with the smiths who used them. Mechanized production has made cheap and abundant manufactured goods readily available. The one-off handmade products of the blacksmith are less economically viable in the modern world, while in the past they were an absolute necessity. However, anvils are still used by blacksmiths and metal workers of all kinds in producing custom work. They are also essential to the work done by <a href="/wiki/Farrier" title="Farrier">farriers</a>.</p>
+<h2><span class="mw-headline" id="In_ethology_and_general_biology">In ethology and general biology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=5" title="Edit section: In ethology and general biology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Noisy_Pitta_anvil.jpg"><img alt="" class="thumbimage" data-file-height="3456" data-file-width="2304" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Noisy_Pitta_anvil.jpg/220px-Noisy_Pitta_anvil.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Noisy_Pitta_anvil.jpg/330px-Noisy_Pitta_anvil.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Noisy_Pitta_anvil.jpg/440px-Noisy_Pitta_anvil.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Noisy_Pitta_anvil.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Noisy_pitta" title="Noisy pitta">Noisy pitta</a> anvil and midden</div>
+</div>
+</div>
+<p>Application of the principles of the anvil predate historical human practice, there being a fair number of examples among various species of animals. Some of the most thoroughly documented <a href="/wiki/Ethology" title="Ethology">ethological</a> examples of <a href="/wiki/Tool_use_by_animals" title="Tool use by animals">tool use by animals</a> in the wild were of <a href="/wiki/Chimpanzee" title="Chimpanzee">chimpanzees</a> observed using hammers of wood or stone to crack nuts, with logs or rocks serving as anvils.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Less formally, birds such as some species of <a href="/wiki/Thrush_(bird)" title="Thrush (bird)">thrush</a> have been known for centuries to crack the shells of the snails they feed on, by striking them on rocks.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Other species of birds have similar habits, notably some of the tropical <a href="/wiki/Noisy_pitta" title="Noisy pitta">pittas</a>, and individual birds of many such species have their own particular anvils where their discarded shell <a href="/wiki/Midden" title="Midden">middens</a> accumulate.</p>
+<p>Anvils being by some definitions "<i>‘proto’ or ‘borderline’ tools..., ... not directly manipulated and not detached from the substrate</i>", some workers argue that their use is less demanding of brain power than more sophisticated tools, and they accordingly are likely to be used by organisms of a wider range of organisation of the <a href="/wiki/Central_nervous_system" title="Central nervous system">central nervous system</a> than say, probes, hammers, hooks and scoops. The latter would be limited to species with correspondingly advanced mental powers.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Certainly anvil use occurs very widely in nature, ranging from fishes that break open the shells of molluscs much as thrushes do,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> to sea otters that bring stones to the surface and drift on their backs, holding the stones on their chests as anvils on which they break open clams and similar hard-shelled prey.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Gulls of various species, some <a href="/wiki/Corvidae" title="Corvidae">crows</a>, and large birds of prey smash open hard food items, such as bones and tortoises, by dropping them onto rocks.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=6" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Historically">Historically</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=7" title="Edit section: Historically">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Anvil_firing" title="Anvil firing">Anvil firing</a> is the practice of firing an anvil into the air using <a href="/wiki/Gunpowder" title="Gunpowder">gunpowder</a>. It has been popular in <a href="/wiki/California" title="California">California</a>, the <a href="/wiki/Eastern_United_States" title="Eastern United States">eastern United States</a> and the <a href="/wiki/Southern_United_States" title="Southern United States">southern United States</a>, much like how <a href="/wiki/Fireworks" title="Fireworks">fireworks</a> are used today. There is a growing interest in re-enacting this "ancient tradition" in the USA, which has now spread to England.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<p>The <a href="/wiki/African_Methodist_Episcopal_Church" title="African Methodist Episcopal Church">African Methodist Episcopal Church</a> (AME) has the anvil in its coat of arms. The AME's first services were held in a blacksmith's shop.</p>
+<h3><span class="mw-headline" id="Television_and_film">Television and film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=8" title="Edit section: Television and film">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A typical metalworker's anvil, with horn at one end and flat face at the other, is a standard prop for <a href="/wiki/Cartoon_physics" title="Cartoon physics">cartoon gags</a>, as the epitome of a heavy and clumsy object that is perfect for dropping onto a villain. This visual metaphor is common, for example, in <a href="/wiki/Warner_Bros." title="Warner Bros.">Warner Brothers</a>' <i><a href="/wiki/Looney_Tunes" title="Looney Tunes">Looney Tunes</a></i> and <i><a href="/wiki/Merrie_Melodies" title="Merrie Melodies">Merrie Melodies</a></i> shorts, such as those with <a class="mw-redirect" href="/wiki/Wile_E._Coyote_and_The_Road_Runner" title="Wile E. Coyote and The Road Runner">Wile E. Coyote and The Road Runner</a>.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> <i><a href="/wiki/Animaniacs" title="Animaniacs">Animaniacs</a></i> made frequent gags on the topic throughout its run, even having a kingdom named Anvilania, whose sole national product is anvils.</p>
+<h3><span class="mw-headline" id="Musical_instruments">Musical instruments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=9" title="Edit section: Musical instruments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Anvils have been used as <a href="/wiki/Percussion_instrument" title="Percussion instrument">percussion instruments</a> in several famous <a href="/wiki/Musical_composition" title="Musical composition">musical compositions</a>, including:</p>
+<ul>
+<li><a href="/wiki/Louis_Andriessen" title="Louis Andriessen">Louis Andriessen</a>: <i><a href="/wiki/De_Materie" title="De Materie">De Materie</a></i> (Part I), which features an extended solo for two anvils</li>
+<li><a href="/wiki/Kurt_Atterberg" title="Kurt Atterberg">Kurt Atterberg</a>: <a class="new" href="/w/index.php?title=Symphony_No._5_(Atterberg)&amp;action=edit&amp;redlink=1" title="Symphony No. 5 (Atterberg) (page does not exist)">Symphony No. 5</a></li>
+<li><a href="/wiki/Daniel_Auber" title="Daniel Auber">Daniel Auber</a>: opera <i>Le Maçon</i></li>
+<li><a href="/wiki/Arnold_Bax" title="Arnold Bax">Arnold Bax</a>: <a href="/wiki/Symphony_No._3_(Bax)" title="Symphony No. 3 (Bax)">Symphony No. 3</a></li>
+<li><a href="/wiki/The_Beatles" title="The Beatles">The Beatles</a>: "<a href="/wiki/Maxwell%27s_Silver_Hammer" title="Maxwell's Silver Hammer">Maxwell's Silver Hammer</a>" makes prominent use of the anvil. Ringo Starr played the anvil.</li>
+<li><a href="/wiki/Benjamin_Britten" title="Benjamin Britten">Benjamin Britten</a>: <i><a href="/wiki/The_Burning_Fiery_Furnace" title="The Burning Fiery Furnace">The Burning Fiery Furnace</a></i></li>
+<li><a href="/wiki/Aaron_Copland" title="Aaron Copland">Aaron Copland</a>: <a href="/wiki/Symphony_No._3_(Copland)" title="Symphony No. 3 (Copland)">Symphony No. 3</a></li>
+<li><a href="/wiki/Don_Davis_(composer)" title="Don Davis (composer)">Don Davis</a>: <a href="/wiki/The_Matrix_(franchise)" title="The Matrix (franchise)"><i>The Matrix</i> trilogy</a></li>
+<li><a href="/wiki/Brad_Fiedel" title="Brad Fiedel">Brad Fiedel</a>: <i><a href="/wiki/Terminator_(franchise)" title="Terminator (franchise)">The Terminator</a></i></li>
+<li><a href="/wiki/Neil_Finn" title="Neil Finn">Neil Finn</a>: "Song of the Lonely Mountain," written for the end credits of <i><a href="/wiki/The_Hobbit:_An_Unexpected_Journey" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i></li>
+<li><a href="/wiki/Gustav_Holst" title="Gustav Holst">Gustav Holst</a>: <a href="/wiki/Second_Suite_in_F_for_Military_Band" title="Second Suite in F for Military Band">Second Suite in F for Military Band</a>, which includes a movement titled "Song of the Blacksmith"</li>
+<li><a href="/wiki/Nicholas_Hooper" title="Nicholas Hooper">Nicholas Hooper</a>: <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(soundtrack)" title="Harry Potter and the Half-Blood Prince (soundtrack)">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><a href="/wiki/James_Horner" title="James Horner">James Horner</a>: Used it extensively in <i><a href="/wiki/Aliens_(film)" title="Aliens (film)">Aliens</a></i>, and his other films such as <i><a href="/wiki/Flightplan" title="Flightplan">Flightplan</a></i>, <i><a href="/wiki/The_Forgotten_(2004_film)" title="The Forgotten (2004 film)">The Forgotten</a></i> and <i><a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">Titanic</a></i></li>
+<li><a href="/wiki/Carl_Orff" title="Carl Orff">Carl Orff</a>: <i><a class="mw-redirect" href="/wiki/Antigone_(opera)" title="Antigone (opera)">Antigone</a></i></li>
+<li><a href="/wiki/Howard_Shore" title="Howard Shore">Howard Shore</a>: <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film trilogy</a></li>
+<li><a href="/wiki/Juan_Mar%C3%ADa_Solare" title="Juan María Solare">Juan María Solare</a>: <i><a href="/wiki/Veinticinco_de_agosto,_1983" title="Veinticinco de agosto, 1983">Veinticinco de agosto, 1983</a></i> and <i>Un ángel de hielo y fuego</i></li>
+<li><a href="/wiki/John_Philip_Sousa" title="John Philip Sousa">John Philip Sousa</a>: <i><a class="new" href="/w/index.php?title=Dwellers_of_the_Western_World&amp;action=edit&amp;redlink=1" title="Dwellers of the Western World (page does not exist)">Dwellers of the Western World</a></i>, in which the second movement, <i><a class="new" href="/w/index.php?title=The_White_Man&amp;action=edit&amp;redlink=1" title="The White Man (page does not exist)">The White Man</a></i>, calls for two pairs of anvils, the one small, the other large</li>
+<li><a href="/wiki/Josef_Strauss" title="Josef Strauss">Josef Strauss</a>: <i>Feuerfest!</i>, op. 269 (1869). The title means "fireproof". This was the slogan of the Wertheim fireproof safe company, which commissioned the work.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></li>
+<li><a href="/wiki/Edgard_Var%C3%A8se" title="Edgard Varèse">Edgard Varèse</a>: <i><a href="/wiki/Ionisation_(Var%C3%A8se)" title="Ionisation (Varèse)">Ionisation</a></i></li>
+<li><a href="/wiki/Giuseppe_Verdi" title="Giuseppe Verdi">Giuseppe Verdi</a>: <i><a class="mw-redirect" href="/wiki/Il_Trovatore" title="Il Trovatore">Il Trovatore</a></i>, featuring the famous "<a href="/wiki/Anvil_Chorus" title="Anvil Chorus">Anvil Chorus</a>"</li>
+<li><a href="/wiki/Richard_Wagner" title="Richard Wagner">Richard Wagner</a>: <i><a href="/wiki/Der_Ring_des_Nibelungen" title="Der Ring des Nibelungen">Der Ring des Nibelungen</a></i> in <i><a href="/wiki/Das_Rheingold" title="Das Rheingold">Das Rheingold</a></i> in scene 3, using 18 anvils <a href="/wiki/Musical_tuning" title="Musical tuning">tuned</a> in <a href="/wiki/F_(musical_note)" title="F (musical note)">F</a> in three <a href="/wiki/Octave" title="Octave">octaves</a>, and <i><a href="/wiki/Siegfried_(opera)" title="Siegfried (opera)">Siegfried</a></i> in act I, notably Siegfried's "Forging Song" (<i>Nothung! Nothung! Neidliches Schwert!</i>)</li>
+<li><a href="/wiki/William_Walton" title="William Walton">William Walton</a>: <i><a href="/wiki/Belshazzar%27s_Feast_(Walton)" title="Belshazzar's Feast (Walton)">Belshazzar's Feast</a></i></li>
+<li><a href="/wiki/John_Williams" title="John Williams">John Williams</a>: <i><a href="/wiki/Jaws_(film)" title="Jaws (film)">Jaws</a></i>, <i><a href="/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith" title="Star Wars: Episode III – Revenge of the Sith">Star Wars: Episode III – Revenge of the Sith</a></i></li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg"><img alt="" class="thumbimage" data-file-height="2888" data-file-width="1940" height="328" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg/220px-Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg/330px-Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg/440px-Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Siegfried_and_the_Twilight_of_the_Gods_p_004.jpg" title="Enlarge"></a></div>
+Mime at the anvil by <a href="/wiki/Arthur_Rackham" title="Arthur Rackham">Arthur Rackham</a></div>
+</div>
+</div>
+<p>Wagner's <i>Ring des Nibelungen</i> is notable in using the anvil as <a class="mw-redirect" href="/wiki/Pitched_percussion" title="Pitched percussion">pitched percussion</a>. The vast majority of extant works use the anvil as <a class="mw-redirect" href="/wiki/Unpitched" title="Unpitched">unpitched</a>. However <b>tuned anvils</b> are available as musical instruments, albeit unusual. These are not to be confused with the "sawyers' anvils" used to "tune" big circular saw blades. Steel anvils are used for tuning for use as musical instruments, because those based partly on cast iron and similar materials give a duller sound; this is actually valued in industry, as pure steel anvils are troublesomely noisy, though energetically more efficient.The hammer and anvil have enjoyed varying popularity in orchestral roles. <a href="/wiki/Robert_Donington" title="Robert Donington">Robert Donington</a> pointed out that <a href="/wiki/Sebastian_Virdung" title="Sebastian Virdung">Sebastian Virdung</a> notes them in his book of 1510, and <a href="/wiki/Martin_Agricola" title="Martin Agricola">Martin Agricola</a> includes it in his list of instruments (Musica instrumentalis deudsch, 1529) largely as a compliment to <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a>. In pre-modern or modern times anvils occasionally appear in operatic works by Berlioz, Bizet, Gounod, Verdi, and Wagner for example. Commonly pairs of anvils tuned a third apart are used.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Tuned_Anvils_from_Emil_Richards_Collection.jpg"><img alt="" class="thumbimage" data-file-height="1980" data-file-width="2970" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tuned_Anvils_from_Emil_Richards_Collection.jpg/220px-Tuned_Anvils_from_Emil_Richards_Collection.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tuned_Anvils_from_Emil_Richards_Collection.jpg/330px-Tuned_Anvils_from_Emil_Richards_Collection.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tuned_Anvils_from_Emil_Richards_Collection.jpg/440px-Tuned_Anvils_from_Emil_Richards_Collection.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tuned_Anvils_from_Emil_Richards_Collection.jpg" title="Enlarge"></a></div>
+A <a class="mw-redirect" href="/wiki/Chromatic" title="Chromatic">chromatic</a> set of tuned anvils</div>
+</div>
+</div>
+<p>In practice modern orchestras commonly substitute a steel bar or other suitable steel structure that is easier to tune than an actual anvil, although a visibly convincing anvil-shaped prop may be shown as desired. In <i>Das Rheingold</i> Wagner scored for nine little, six mid-sized, and three large anvils, but orchestras seldom can afford instrumentation on such a scale.<sup class="reference" id="cite_ref-RDon_17-0"><a href="#cite_note-RDon-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Anvil_Chorus" title="Anvil Chorus">Anvil Chorus</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Hahn, Robert. Archaeology and the Origins of Philosophy. Publisher: State University of New York Press 2010. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1438431659" title="Special:BookSources/978-1438431659">978-1438431659</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">King James Version ISAIAH 41:7</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.anvilfire.com/index.php?bodyName=/FAQs/ebay_fraud_ASO.htm" rel="nofollow">"Ebay Fraud: Purchasing an ASO (Anvil Shaped Object)"</a>. Anvilfire.com.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.btitle=Ebay+Fraud%3A+Purchasing+an+ASO+%28Anvil+Shaped+Object%29&amp;rft.genre=unknown&amp;rft.pub=Anvilfire.com&amp;rft_id=http%3A%2F%2Fwww.anvilfire.com%2Findex.php%3FbodyName%3D%2FFAQs%2Febay_fraud_ASO.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Boesch, Christophe and Boesch, Hedwige. Optimization of Nut-Cracking with Natural Hammers by Wild Chimpanzees. Department of Ethology and Wildlife Research, University of Zurich, Switzerland 1982. Pub: Behaviour 83 pp. 265-286 1983</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Boswell, James. The Scots Magazine, Volume 43 1781 pp. 348-349</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="https://archive.org/details/quarterlyjourna02blacgoog" rel="nofollow">The Quarterly Journal of Agriculture. VOL. VII. JUNE 1836— MARCH 1837. William Blackwood &amp; Sons, Edinburgh. May be downloaded from archive.org</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Burton, Maurice; Burton, Robert. The International Wildlife Encyclopedia - Volume 19 - Page 2679 Marshall Cavendish 2002 <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0761472858" title="Special:BookSources/978-0761472858">978-0761472858</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Lefebvre, Louis. Reader, Simon M. Sol, Daniel. Brains, Innovations and Evolution in Birds and Primates. Brain Behav Evol 2004;63:233–246 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1159%2F000076784" rel="nofollow">10.1159/000076784</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Bernardi, G. The use of tools by wrasses (Labridae). Coral Reefs (2012) 31:39 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1007%2Fs00338-011-0823-6" rel="nofollow">10.1007/s00338-011-0823-6</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Jones AM, Brown C, Gardner S (2011) Tool use in the tuskfish Choerodon schoenleinii? Coral Reefs. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1007%2Fs00338-011-0790-y" rel="nofollow">10.1007/s00338-011-0790-y</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://escholarship.org/uc/item/8n8463vn" rel="nofollow">Perry, Jessica A. Variation in the frequency of tool use across and within sea otter (Enhydra lutris) populations. UC Santa Cruz Electronic Theses and Dissertations. MA thesis</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Paul V. Switzer and Daniel A. Cristol. Avian prey-dropping behavior. I. The effects of prey characteristics and prey loss Behavioral Ecology (1999) 10(3): 213-219 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1093%2Fbeheco%2F10.3.213" rel="nofollow">10.1093/beheco/10.3.213</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Daniel A. Cristol and Paul V. Switzer. Avian prey-dropping behavior. II. American crows and walnuts Behavioral Ecology (1999) 10(3): 220-226 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1093%2Fbeheco%2F10.3.220" rel="nofollow">10.1093/beheco/10.3.220</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20091119001210/http://www.okehamptonpeople.co.uk/news/Blacksmiths-celebrate-St-Clement-s-Day-Sticklepath-s-Finch-Foundry-November-21st/article-1523527-detail/article.html" rel="nofollow">"St Clements Day Celebrations"</a>. Archived from <a class="external text" href="http://www.okehamptonpeople.co.uk/news/Blacksmiths-celebrate-St-Clement-s-Day-Sticklepath-s-Finch-Foundry-November-21st/article-1523527-detail/article.html" rel="nofollow">the original</a> on 2009-11-19.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.btitle=St+Clements+Day+Celebrations&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.okehamptonpeople.co.uk%2Fnews%2FBlacksmiths-celebrate-St-Clement-s-Day-Sticklepath-s-Finch-Foundry-November-21st%2Farticle-1523527-detail%2Farticle.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Maly, Tim (18 December 2012). <a class="external text" href="https://www.wired.com/2012/12/acme-poster-kickstarter/" rel="nofollow">"Elaborate Poster Puts All of Wile E. Coyote’s ACME Purchases on Your Wall"</a>. Wired<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.au=Maly%2C+Tim&amp;rft.btitle=Elaborate+Poster+Puts+All+of+Wile+E.+Coyote%E2%80%99s+ACME+Purchases+on+Your+Wall&amp;rft.date=2012-12-18&amp;rft.genre=unknown&amp;rft.pub=Wired&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2012%2F12%2Facme-poster-kickstarter%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Scott, Derek B. (2008). <i>Sounds of the metropolis: the nineteenth-century popular music revolution in London, New York, Paris, and Vienna</i>, p. 139. Oxford University Press, New York. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-530946-1" title="Special:BookSources/978-0-19-530946-1">978-0-19-530946-1</a>.</span></li>
+<li id="cite_note-RDon-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-RDon_17-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Donington, Robert (1970). <a class="external text" href="https://books.google.com/books?id=39I9AAAAIAAJ&amp;printsec=frontcover&amp;dq=Robert+Donington&amp;hl=en&amp;sa=X&amp;ei=HBX4UIOqMcXIhAfCpoHICQ&amp;ved=0CDUQ6AEwAg" rel="nofollow"><i>Music and its Instruments</i></a>. <i>University Paperbacks Third edition</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.aufirst=Robert&amp;rft.aulast=Donington&amp;rft.btitle=Music+and+its+Instruments&amp;rft.date=1970&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D39I9AAAAIAAJ%26printsec%3Dfrontcover%26dq%3DRobert%2BDonington%26hl%3Den%26sa%3DX%26ei%3DHBX4UIOqMcXIhAfCpoHICQ%26ved%3D0CDUQ6AEwAg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Andrews, Jack (1994). <i>New Edge of the Anvil</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-879535-09-2" title="Special:BookSources/1-879535-09-2">1-879535-09-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.aufirst=Jack&amp;rft.aulast=Andrews&amp;rft.btitle=New+Edge+of+the+Anvil&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=1-879535-09-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Hrisoulas, Jim (1987). <i>The Complete Bladesmith: Forging Your Way to Perfection</i>. Boulder, Colorado: <a href="/wiki/Paladin_Press" title="Paladin Press">Paladin Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87364-430-1" title="Special:BookSources/0-87364-430-1">0-87364-430-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.aufirst=Jim&amp;rft.aulast=Hrisoulas&amp;rft.btitle=The+Complete+Bladesmith%3A+Forging+Your+Way+to+Perfection&amp;rft.date=1987&amp;rft.genre=book&amp;rft.isbn=0-87364-430-1&amp;rft.place=Boulder%2C+Colorado&amp;rft.pub=Paladin+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Postman, Richard (1998). <i>Anvils In America</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-9663256-0-5" title="Special:BookSources/0-9663256-0-5">0-9663256-0-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.aufirst=Richard&amp;rft.aulast=Postman&amp;rft.btitle=Anvils+In+America&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=0-9663256-0-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anvil&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> has media related to:
+<div style="margin-left: 10px;"><i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Anvil" title="commons:Anvil">Anvil</a></b></i> (<a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Category:Anvils" title="commons:Special:Search/Category:Anvils">category</a>)</div>
+</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/anvil" title="wiktionary:Special:Search/anvil">anvil</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<p><img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/> <cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a class="extiw" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Anvil" title="wikisource:1911 Encyclopædia Britannica/Anvil">Anvil</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnvil&amp;rft.atitle=Anvil&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></p>
+<div aria-labelledby="Metalworking" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metalworking_navbox" title="Template:Metalworking navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Metalworking_navbox" title="Template talk:Metalworking navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metalworking_navbox&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Metalworking" style="font-size:114%;margin:0 4em"><a href="/wiki/Metalworking" title="Metalworking">Metalworking</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metalworking_navbox/tool" title="Template:Metalworking navbox/tool"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Metalworking_navbox/tool&amp;action=edit&amp;redlink=1" title="Template talk:Metalworking navbox/tool (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metalworking_navbox/tool&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Tools" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Metalworking_tools" title="Category:Metalworking tools">Tools</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Cutting_machines" title="Category:Cutting machines">Cutting machines</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bandsaw" title="Bandsaw">Bandsaw</a></li>
+<li><a href="/wiki/Cold_saw" title="Cold saw">Cold saw</a></li>
+<li><a href="/wiki/Laser_cutting" title="Laser cutting">Laser</a></li>
+<li><a href="/wiki/Miter_saw" title="Miter saw">Miter saw</a></li>
+<li><a href="/wiki/Plasma_cutting" title="Plasma cutting">Plasma</a></li>
+<li><a href="/wiki/Water_jet_cutter" title="Water jet cutter">Water jet cutter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Metalworking_cutting_tools" title="Category:Metalworking cutting tools">Cutting tools</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Broaching_(metalworking)" title="Broaching (metalworking)">Broach</a></li>
+<li><a href="/wiki/Burr_(cutter)" title="Burr (cutter)">Burr</a></li>
+<li><a href="/wiki/Chisel" title="Chisel">Chisel</a></li>
+<li><a href="/wiki/Counterbore" title="Counterbore">Counterbore</a></li>
+<li><a href="/wiki/Countersink" title="Countersink">Countersink</a></li>
+<li><a class="mw-redirect" href="/wiki/Endmill" title="Endmill">End mill</a></li>
+<li><a href="/wiki/File_(tool)" title="File (tool)">File</a></li>
+<li><a href="/wiki/Hand_scraper" title="Hand scraper">Hand scraper</a></li>
+<li><a href="/wiki/Milling_cutter" title="Milling cutter">Milling cutter</a></li>
+<li><a href="/wiki/Nibbler" title="Nibbler">Nibbler</a></li>
+<li><a href="/wiki/Reamer" title="Reamer">Reamer</a></li>
+<li><a href="/wiki/Shear_(sheet_metal)" title="Shear (sheet metal)">Shears</a></li>
+<li><a href="/wiki/Tipped_tool" title="Tipped tool">Tipped tool</a></li>
+<li><a href="/wiki/Tool_bit" title="Tool bit">Tool bit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Forming tools</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brake_(sheet_metal_bending)" title="Brake (sheet metal bending)">Brake</a></li>
+<li><a href="/wiki/Die_(manufacturing)" title="Die (manufacturing)">Die</a></li>
+<li><a href="/wiki/English_wheel" title="English wheel">English wheel</a></li>
+<li><a href="/wiki/Hydraulic_press" title="Hydraulic press">Hydraulic press</a></li>
+<li><a href="/wiki/Machine_press" title="Machine press">Machine press</a></li>
+<li><a href="/wiki/Punch_press" title="Punch press">Punch press</a></li>
+<li><a href="/wiki/Screw_press" title="Screw press">Screw press</a></li>
+<li><a href="/wiki/Stamping_press" title="Stamping press">Stamping press</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Metalworking_hand_tool" title="Metalworking hand tool">Hand tools</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clamp_(tool)" title="Clamp (tool)">Clamp</a></li>
+<li><a href="/wiki/Combination_square" title="Combination square">Combination square</a></li>
+<li><a href="/wiki/Drift_pin" title="Drift pin">Drift pin</a></li>
+<li><a href="/wiki/Hacksaw" title="Hacksaw">Hacksaw</a></li>
+<li><a href="/wiki/Hammer" title="Hammer">Hammer</a></li>
+<li><a href="/wiki/Hand_scraper" title="Hand scraper">Hand scraper</a></li>
+<li><a href="/wiki/Machinist_square" title="Machinist square">Machinist square</a></li>
+<li><a href="/wiki/Needlegun_scaler" title="Needlegun scaler">Needlegun scaler</a></li>
+<li><a href="/wiki/Piercing_saw" title="Piercing saw">Piercing saw</a></li>
+<li><a href="/wiki/Pliers" title="Pliers">Pliers</a></li>
+<li><a href="/wiki/Punch_(tool)" title="Punch (tool)">Punch</a></li>
+<li><a href="/wiki/Scriber" title="Scriber">Scriber</a></li>
+<li><a href="/wiki/Tap_and_die" title="Tap and die">Tap and die</a></li>
+<li><a href="/wiki/Tongs" title="Tongs">Tongs</a></li>
+<li><a href="/wiki/Vise" title="Vise">Vise</a></li>
+<li><a href="/wiki/Workbench" title="Workbench">Workbench</a></li>
+<li><a href="/wiki/Wrench" title="Wrench">Wrench</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Machine_tool" title="Machine tool">Machine tooling</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angle_plate" title="Angle plate">Angle plate</a></li>
+<li><a href="/wiki/Chuck_(engineering)" title="Chuck (engineering)">Chuck</a></li>
+<li><a href="/wiki/Collet" title="Collet">Collet</a></li>
+<li><a href="/wiki/Fixture_(tool)" title="Fixture (tool)">Fixture</a></li>
+<li><a href="/wiki/Indexing_head" title="Indexing head">Indexing head</a></li>
+<li><a href="/wiki/Jig_(tool)" title="Jig (tool)">Jig</a></li>
+<li><a href="/wiki/Lathe_center" title="Lathe center">Lathe center</a></li>
+<li><a href="/wiki/Machine_taper" title="Machine taper">Machine taper</a></li>
+<li><a href="/wiki/Magnetic_base" title="Magnetic base">Magnetic base</a></li>
+<li><a href="/wiki/Mandrel" title="Mandrel">Mandrel</a></li>
+<li><a href="/wiki/Rotary_table" title="Rotary table">Rotary table</a></li>
+<li><a href="/wiki/Wiggler_(tool)" title="Wiggler (tool)">Wiggler</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Metalworking_measuring_instruments" title="Category:Metalworking measuring instruments">Measuring instruments</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bore_gauge" title="Bore gauge">Bore gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Caliper" title="Caliper">Caliper</a></li>
+<li><a href="/wiki/Center_gauge" title="Center gauge">Center gauge</a></li>
+<li><a href="/wiki/Indicator_(distance_amplifying_instrument)" title="Indicator (distance amplifying instrument)">Dial indicator</a></li>
+<li><a href="/wiki/Engineer%27s_blue" title="Engineer's blue">Engineer's blue</a></li>
+<li><a href="/wiki/Engineer%27s_spirit_level" title="Engineer's spirit level">Engineer's spirit level</a></li>
+<li><a href="/wiki/Feeler_gauge" title="Feeler gauge">Feeler gauge</a></li>
+<li><a href="/wiki/Gauge_(instrument)" title="Gauge (instrument)">Gauge</a></li>
+<li><a href="/wiki/Gauge_block" title="Gauge block">Gauge block</a></li>
+<li><a href="/wiki/Go/no_go_gauge" title="Go/no go gauge">Go/no go gauge</a></li>
+<li><a href="/wiki/Height_gauge" title="Height gauge">Height gauge</a></li>
+<li><a href="/wiki/Machinist_square" title="Machinist square">Machinist square</a></li>
+<li><a href="/wiki/Marking_blue" title="Marking blue">Marking blue</a></li>
+<li><a href="/wiki/Marking_gauge" title="Marking gauge">Marking gauge</a></li>
+<li><a href="/wiki/Marking_out" title="Marking out">Marking out</a></li>
+<li><a href="/wiki/Micrometer" title="Micrometer">Micrometer</a></li>
+<li><a href="/wiki/Optical_comparator" title="Optical comparator">Optical comparator</a></li>
+<li><a href="/wiki/Radius_gauge" title="Radius gauge">Radius gauge</a></li>
+<li><a href="/wiki/Ruler" title="Ruler">Ruler</a></li>
+<li><a href="/wiki/Sine_bar" title="Sine bar">Sine bar</a></li>
+<li><a href="/wiki/Straightedge" title="Straightedge">Straightedge</a></li>
+<li><a href="/wiki/Surface_plate" title="Surface plate">Surface plate</a></li>
+<li><a href="/wiki/Tape_measure" title="Tape measure">Tape measure</a></li>
+<li><a href="/wiki/Thread_pitch_gauge" title="Thread pitch gauge">Thread pitch gauge</a></li>
+<li><a href="/wiki/Vernier_scale" title="Vernier scale">Vernier scale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Metalsmith" title="Metalsmith">Smithing tools</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Anvil</a></li>
+<li><a href="/wiki/Forge" title="Forge">Forge</a></li>
+<li><a href="/wiki/Fuller_(metalworking)" title="Fuller (metalworking)">Fuller</a></li>
+<li><a href="/wiki/Hardy_tool" title="Hardy tool">Hardy tools</a></li>
+<li><a href="/wiki/Pritchel" title="Pritchel">Pritchel</a></li>
+<li><a href="/wiki/Steam_hammer" title="Steam hammer">Steam hammer</a></li>
+<li><a href="/wiki/Swage_block" title="Swage block">Swage block</a></li>
+<li><a href="/wiki/Trip_hammer" title="Trip hammer">Trip hammer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Casting" title="Casting">Casting</a></li>
+<li><a href="/wiki/Metal_fabrication" title="Metal fabrication">Fabrication</a></li>
+<li><a href="/wiki/Forming_processes" title="Forming processes">Forming</a></li>
+<li><a href="/wiki/Jewellery" title="Jewellery">Jewellery</a></li>
+<li><a href="/wiki/Machining" title="Machining">Machining</a></li>
+<li><a href="/wiki/Metallurgy" title="Metallurgy">Metallurgy</a></li>
+<li><a href="/wiki/Metalsmith" title="Metalsmith">Smithing</a></li>
+<li><a href="/wiki/Outline_of_metalworking" title="Outline of metalworking">Tools and terminology</a></li>
+<li><a href="/wiki/Welding" title="Welding">Welding</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4505452-6" rel="nofollow">4505452-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20171102220848
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.392 seconds
+Preprocessor visited node count: 2509/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72930/2097152 bytes
+Template argument size: 8625/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 4.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  296.467      1 -total
+ 38.05%  112.816      1 Template:Reflist
+ 14.66%   43.455      3 Template:Cite_web
+ 11.40%   33.810      3 Template:ISBN
+ 11.35%   33.647      1 Template:Refimprove
+ 11.23%   33.301      1 Template:Metalworking_navbox
+ 10.12%   30.003      1 Template:Navbox_with_collapsible_groups
+  9.67%   28.655      1 Template:Ambox
+  9.64%   28.594      1 Template:Authority_control
+  9.22%   27.343      1 Template:Other_uses
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:282377-0!canonical and timestamp 20171102220857 and revision id 808444040
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anvil&amp;oldid=808444040">https://en.wikipedia.org/w/index.php?title=Anvil&amp;oldid=808444040</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Metalworking_tools" title="Category:Metalworking tools">Metalworking tools</a></li><li><a href="/wiki/Category:Lithics" title="Category:Lithics">Lithics</a></li><li><a href="/wiki/Category:Workbenches" title="Category:Workbenches">Workbenches</a></li><li><a href="/wiki/Category:Heraldic_charges" title="Category:Heraldic charges">Heraldic charges</a></li><li><a href="/wiki/Category:Percussion_instruments" title="Category:Percussion instruments">Percussion instruments</a></li><li><a href="/wiki/Category:Looney_Tunes" title="Category:Looney Tunes">Looney Tunes</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2010" title="Category:Articles needing additional references from January 2010">Articles needing additional references from January 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2017" title="Category:Articles with unsourced statements from April 2017">Articles with unsourced statements from April 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Anvil" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Anvil" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Anvil" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Anvil" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Anvil">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Anvil&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Anvil&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Anvil" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Anvil" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Anvil&amp;oldid=808444040" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Anvil&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q104363" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anvil&amp;id=808444040" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anvil">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Anvil&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Anvil&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Anvils" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Aambeeld" hreflang="af" lang="af" title="Aambeeld – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D9%86%D8%AF%D8%A7%D9%86_(%D8%A3%D8%AF%D8%A7%D8%A9)" hreflang="ar" lang="ar" title="سندان (أداة) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Xunque" hreflang="ast" lang="ast" title="Xunque – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Zindan_(al%C9%99t)" hreflang="az" lang="az" title="Zindan (alət) – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bcl"><a class="interlanguage-link-target" href="https://bcl.wikipedia.org/wiki/Totopan" hreflang="bcl" lang="bcl" title="Totopan – Central Bikol">Bikol Central</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%BD%D1%8F" hreflang="bg" lang="bg" title="Наковалня – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Annev" hreflang="br" lang="br" title="Annev – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Enclusa" hreflang="ca" lang="ca" title="Enclusa – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A1%D1%83%D0%BD%D1%82%D0%B0%D0%BB" hreflang="cv" lang="cv" title="Сунтал – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kovadlina" hreflang="cs" lang="cs" title="Kovadlina – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Eingion" hreflang="cy" lang="cy" title="Eingion – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Ambolt" hreflang="da" lang="da" title="Ambolt – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Amboss" hreflang="de" lang="de" title="Amboss – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Alasi" hreflang="et" lang="et" title="Alasi – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Yunque" hreflang="es" lang="es" title="Yunque – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Amboso" hreflang="eo" lang="eo" title="Amboso – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Ingude" hreflang="eu" lang="eu" title="Ingude – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D8%AF%D8%A7%D9%86" hreflang="fa" lang="fa" title="سندان – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Enclume_(outil)" hreflang="fr" lang="fr" title="Enclume (outil) – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Bigornia" hreflang="gl" lang="gl" title="Bigornia – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%A3%A8" hreflang="ko" lang="ko" title="모루 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B6%D5%B6%D5%A4%D5%A1%D5%B6_(%D5%A3%D5%B8%D6%80%D5%AE%D5%AB%D6%84)" hreflang="hy" lang="hy" title="Զնդան (գործիք) – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Amboso" hreflang="io" lang="io" title="Amboso – Ido">Ido</a></li><li class="interlanguage-link interwiki-os"><a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/%D0%A5%D1%8A%C3%A6%D1%81%D0%B4%D0%B0%D1%80%C3%A6%D0%B3" hreflang="os" lang="os" title="Хъæсдарæг – Ossetic">Ирон</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Ste%C3%B0ji" hreflang="is" lang="is" title="Steðji – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Incudine_(tecnologia)" hreflang="it" lang="it" title="Incudine (tecnologia) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Paron" hreflang="jv" lang="jv" title="Paron – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B2%A1%E0%B2%BF%E0%B2%97%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B3%81" hreflang="kn" lang="kn" title="ಬಡಿಗಲ್ಲು – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%A0%E1%83%93%E1%83%94%E1%83%9B%E1%83%9A%E1%83%98" hreflang="ka" lang="ka" title="გრდემლი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Incus_(instrumentum)" hreflang="la" lang="la" title="Incus (instrumentum) – Latin">Latina</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Amboss" hreflang="lb" lang="lb" title="Amboss – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ln"><a class="interlanguage-link-target" href="https://ln.wikipedia.org/wiki/Et%C3%BAleli" hreflang="ln" lang="ln" title="Etúleli – Lingala">Lingála</a></li><li class="interlanguage-link interwiki-lmo"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Inc%C3%BCsen" hreflang="lmo" lang="lmo" title="Incüsen – Lombard">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/%C3%9Cll%C5%91_(szersz%C3%A1m)" hreflang="hu" lang="hu" title="Üllő (szerszám) – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%9F%E0%B4%AF%E0%B4%BF%E0%B4%B0%E0%B5%81%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D" hreflang="ml" lang="ml" title="അടയിരുമ്പ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%90%E0%A4%B0%E0%A4%A3" hreflang="mr" lang="mr" title="ऐरण – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Andas" hreflang="ms" lang="ms" title="Andas – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Aambeeld_(gereedschap)" hreflang="nl" lang="nl" title="Aambeeld (gereedschap) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a class="interlanguage-link-target" href="https://nds-nl.wikipedia.org/wiki/Ambeeld_(gereedschap)" hreflang="nds-NL" lang="nds-NL" title="Ambeeld (gereedschap) – Low Saxon">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%87%91%E5%BA%8A" hreflang="ja" lang="ja" title="金床 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Ambolt_(verkt%C3%B8y)" hreflang="no" lang="no" title="Ambolt (verktøy) – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Ambolt" hreflang="nn" lang="nn" title="Ambolt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Ambolt" hreflang="nds" lang="nds" title="Ambolt – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kowad%C5%82o_(narz%C4%99dzie)" hreflang="pl" lang="pl" title="Kowadło (narzędzie) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Bigorna" hreflang="pt" lang="pt" title="Bigorna – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Nicoval%C4%83" hreflang="ro" lang="ro" title="Nicovală – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F" hreflang="ru" lang="ru" title="Наковальня – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Stiddie" hreflang="sco" lang="sco" title="Stiddie – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Kudhra" hreflang="sq" lang="sq" title="Kudhra – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Anvil" hreflang="simple" lang="simple" title="Anvil – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%9A_(%D0%B0%D0%BB%D0%B0%D1%82)" hreflang="sr" lang="sr" title="Наковањ (алат) – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Nakovanj" hreflang="sh" lang="sh" title="Nakovanj – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Alasin" hreflang="fi" lang="fi" title="Alasin – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/St%C3%A4d" hreflang="sv" lang="sv" title="Städ – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB_(%D2%97%D0%B8%D2%BB%D0%B0%D0%B7)" hreflang="tt" lang="tt" title="Сандал (җиһаз) – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C3%96rs" hreflang="tr" lang="tr" title="Örs – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%B4%D0%BB%D0%BE" hreflang="uk" lang="uk" title="Ковадло – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90e" hreflang="vi" lang="vi" title="Đe – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%93%81%E7%A0%A7" hreflang="zh" lang="zh" title="铁砧 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q104363#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 November 2017, at 22:08.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Anvil&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.392","ppvisitednodes":{"value":2509,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72930,"limit":2097152},"templateargumentsize":{"value":8625,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  296.467      1 -total"," 38.05%  112.816      1 Template:Reflist"," 14.66%   43.455      3 Template:Cite_web"," 11.40%   33.810      3 Template:ISBN"," 11.35%   33.647      1 Template:Refimprove"," 11.23%   33.301      1 Template:Metalworking_navbox"," 10.12%   30.003      1 Template:Navbox_with_collapsible_groups","  9.67%   28.655      1 Template:Ambox","  9.64%   28.594      1 Template:Authority_control","  9.22%   27.343      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.101","limit":"10.000"},"limitreport-memusage":{"value":4556368,"limit":52428800}},"cachereport":{"origin":"mw1277","timestamp":"20171102220848","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1274"});});</script>
+</body>
+</html>

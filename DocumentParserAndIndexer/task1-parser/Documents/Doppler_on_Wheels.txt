@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Doppler on Wheels - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Doppler_on_Wheels","wgTitle":"Doppler on Wheels","wgCurRevisionId":781746504,"wgRevisionId":781746504,"wgArticleId":10127312,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2013","Weather radars","Meteorology research and field projects","Severe weather and convection","Storm chasing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Doppler_on_Wheels","wgRelevantArticleId":10127312,"wgRequestId":"WgH3aQpAIDEAAA0Nr10AAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3036935","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/7d/Tornado_with_DOW.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Doppler_on_Wheels" rel="alternate"/>
+<link href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Doppler_on_Wheels" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Doppler_on_Wheels rootpage-Doppler_on_Wheels vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Doppler on Wheels</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Tornado_with_DOW.jpg"><img alt="" class="thumbimage" data-file-height="332" data-file-width="500" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tornado_with_DOW.jpg/250px-Tornado_with_DOW.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tornado_with_DOW.jpg/375px-Tornado_with_DOW.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/7d/Tornado_with_DOW.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tornado_with_DOW.jpg" title="Enlarge"></a></div>
+A Doppler on Wheels unit observing a <a href="/wiki/Tornado" title="Tornado">tornado</a> near <a href="/wiki/Attica,_Kansas" title="Attica, Kansas">Attica, Kansas</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:05june-dow7-wide.gif"><img alt="" class="thumbimage" data-file-height="1144" data-file-width="1912" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/05june-dow7-wide.gif/250px-05june-dow7-wide.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/05june-dow7-wide.gif/375px-05june-dow7-wide.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/05june-dow7-wide.gif/500px-05june-dow7-wide.gif 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:05june-dow7-wide.gif" title="Enlarge"></a></div>
+Data gathered by a Doppler on Wheels unit showing a tornado near <a href="/wiki/La_Grange,_Wyoming" title="La Grange, Wyoming">La Grange, Wyoming</a> (click to view animation).</div>
+</div>
+</div>
+<p><b>Doppler on Wheels</b> (or <b>DOW</b>) is a fleet of X-band <a href="/wiki/Weather_radar" title="Weather radar">radar</a> trucks maintained by the <a class="new" href="/w/index.php?title=Center_for_Severe_Weather_Research&amp;action=edit&amp;redlink=1" title="Center for Severe Weather Research (page does not exist)">Center for Severe Weather Research</a> (CSWR) in <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder, Colorado</a> led by principal investigator <a href="/wiki/Joshua_Wurman" title="Joshua Wurman">Joshua Wurman</a>, with the funding largely provided by the <a href="/wiki/National_Science_Foundation" title="National Science Foundation">National Science Foundation</a> (NSF). The DOW fleet and its associated Mobile Mesonet and Pod deployable weather stations are Lower Atmospheric Observing Facilities (LAOF) "National Facilities" supporting a wide variety NSF-sponsored research.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_deployment"><span class="tocnumber">1</span> <span class="toctext">History and deployment</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Findings"><span class="tocnumber">2</span> <span class="toctext">Findings</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History_and_deployment">History and deployment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit&amp;section=1" title="Edit section: History and deployment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of 2017, there are three operational DOWs of a total of eight constructed since 1995. All three are dual-polarization dual-frequency quick-scanning <a class="mw-redirect" href="/wiki/Doppler_weather_radar" title="Doppler weather radar">Doppler weather radars</a>. Several instrumented mobile <a href="/wiki/Mesonet" title="Mesonet">mesonet</a> pickup trucks host <a href="/wiki/In_situ" title="In situ">in situ</a> <a class="mw-redirect" href="/wiki/Weather_instrument" title="Weather instrument">weather instrumentation</a> on 3.5 metres (11 ft) masts to complement the <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a> radars. These mobile mesonets also carry approximately 20 instrumented "PODS", which are ruggedized quickly deployable <a href="/wiki/Weather_station" title="Weather station">weather stations</a> designed to survive inside <a href="/wiki/Tornado" title="Tornado">tornadoes</a>, <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a>, and other adverse environments. The DOW fleet is sometimes accompanied by a Mobile Operations and Repair Center (MORC), a large van containing workstations for in-field coordination, data management, and equipment repair.</p>
+<p>The DOW fleet has collected data in 200 tornadoes and inside the cores of 13 hurricanes. DOWs have been deployed to Europe twice,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> for the MAP and COPS field programs, and to Alaska twice for the JAWS-Juneau projects. DOWs have operated as high as 12,700 feet (3,900 m) on Bristol Head and at 10,000 feet (3,000 m) for the ASCII project at Battle Pass. Three DOWs, Mobile Mesonets and PODS were deployed for the <a href="/wiki/OWLeS" title="OWLeS">OWLeS</a> <a href="/wiki/Lake-effect_snow" title="Lake-effect snow">lake-effect snow</a> study. The DOWs have participated in many field programs including: <a href="/wiki/VORTEX_projects#VORTEX1" title="VORTEX projects">VORTEX</a>, <a href="/wiki/VORTEX_projects#VORTEX2" title="VORTEX projects">VORTEX2</a>, COPS, MAP, ASCII, IHOP, SCMS, CASES, ROTATE, PAMREX, SNOWD-UNDER, FLATLAND, HERO, UIDOW, UNDEO.</p>
+<p>The DOW fleet was deployed to the nocturnal convection study, PECAN, in June–July 2015.</p>
+<h2><span class="mw-headline" id="Findings">Findings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit&amp;section=2" title="Edit section: Findings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>DOW data led to the discovery of sub-kilometer hurricane boundary layer rolls, which likely modulate wind damage and may play a key role in <a href="/wiki/Tropical_cyclogenesis" title="Tropical cyclogenesis">hurricane intensification</a>. DOW data revealed the most intense winds ever recorded (<a href="/wiki/Bridge_Creek,_Oklahoma" title="Bridge Creek, Oklahoma">Bridge Creek</a>, 3 May 1999),<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> and the largest tornadic circulation ever documented (also 3 May 1999 in Mulhall, OK),<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> and made the first 3D maps of tornado winds and sub-tornadic vortex winds, and documented intense vortices within lake-effect snow bands. About 70 peer reviewed scientific publications have used DOW data.</p>
+<p>The DOW fleet, PODS, and mobile mesonets have been featured on TV, including <a href="/wiki/Discovery_Channel" title="Discovery Channel">Discovery Channel</a>'s reality series <i><a href="/wiki/Storm_Chasers_(TV_series)" title="Storm Chasers (TV series)">Storm Chasers</a></i>,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> <a class="mw-redirect" href="/wiki/National_Geographic_Channel" title="National Geographic Channel">National Geographic Channel</a>'s specials <i>Tornado Intercept</i> and <i>The True Face of Hurricanes</i>, and <a href="/wiki/Public_Broadcast_Service" title="Public Broadcast Service">PBS</a>'s <a class="mw-redirect" href="/wiki/PBS_Nova" title="PBS Nova"><i>Nova</i></a> episode "The Hunt for the Supertwister," and others.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Bistatic_radar" title="Bistatic radar">Bistatic radar</a></li>
+<li><a href="/wiki/Pulse-Doppler_radar" title="Pulse-Doppler radar">Pulse-Doppler radar</a></li>
+<li><a href="/wiki/Storm_chasing" title="Storm chasing">Storm chasing</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.publicaffairs.noaa.gov/releases99/oct99/noaa99066.html" rel="nofollow">http://www.publicaffairs.noaa.gov/releases99/oct99/noaa99066.html</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">usatoday30.usatoday.com/weather/tornado/wtwur318.htm</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.ucar.edu/news/releases/2005/dow.shtml" rel="nofollow">http://www.ucar.edu/news/releases/2005/dow.shtml</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.discovery.com/tv-shows/storm-chasers/videos/doppler-on-wheels/" rel="nofollow">http://www.discovery.com/tv-shows/storm-chasers/videos/doppler-on-wheels/</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.cswr.org/dow/" rel="nofollow">Information on Doppler on Wheels and Rapid DOW</a></li>
+<li><a class="external text" href="http://www.cswr.org/" rel="nofollow">Center for Severe Weather Research (CSWR)</a></li>
+<li><a class="external text" href="http://www.vortex2.org/" rel="nofollow">VORTEX2</a></li>
+<li><a class="external text" href="http://www.owles.org/" rel="nofollow">OWLeS</a></li>
+</ul>
+<div aria-labelledby="US_Weather_radars" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:US_wx_radar" title="Template:US wx radar"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:US_wx_radar" title="Template talk:US wx radar"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:US_wx_radar&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="US_Weather_radars" style="font-size:114%;margin:0 4em">US <a href="/wiki/Weather_radar" title="Weather radar">Weather radars</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Military weather radars</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SCR-658_radar" title="SCR-658 radar">SCR-658 radar</a></li>
+<li><a href="/wiki/AN/APQ-13" title="AN/APQ-13">AN/APQ-13</a></li>
+<li><a class="mw-redirect" href="/wiki/AN/APS-2F" title="AN/APS-2F">AN/APS-2F</a></li>
+<li><a href="/wiki/AN/CPS-9" title="AN/CPS-9">AN/CPS-9</a></li>
+<li><a href="/wiki/WSR-57" title="WSR-57">AN/FPS-41</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Weather Surveillance Radars</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/WSR-1" title="WSR-1">WSR-1 and -1A</a></li>
+<li><a href="/wiki/WSR-57" title="WSR-57">WSR-57</a></li>
+<li><a href="/wiki/WSR-74" title="WSR-74">WSR-74C and -74S</a></li>
+<li><a href="/wiki/NEXRAD" title="NEXRAD">WSR-88D (NEXRAD)</a></li>
+<li><a href="/wiki/Terminal_Doppler_Weather_Radar" title="Terminal Doppler Weather Radar">TDWR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Research radars</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aggie_Doppler_Radar" title="Aggie Doppler Radar">ADRAD</a></li>
+<li><a href="/wiki/ARMOR_Doppler_Weather_Radar" title="ARMOR Doppler Weather Radar">ARMOR</a></li>
+<li><a class="mw-redirect" href="/wiki/Collaborative_Adaptive_Sensing_of_the_Atmosphere" title="Collaborative Adaptive Sensing of the Atmosphere">CASA</a></li>
+<li><a class="mw-selflink selflink">DOW</a></li>
+<li><a href="/wiki/NSSL_Doppler" title="NSSL Doppler">NSSL Doppler</a></li>
+<li><a href="/wiki/OU-PRIME" title="OU-PRIME">OU-PRIME</a></li>
+<li><a href="/wiki/Multifunction_Phased_Array_Radar" title="Multifunction Phased Array Radar">Multifunction Phased Array Radar</a> at <a class="mw-redirect" href="/wiki/NSSL" title="NSSL">NSSL</a></li>
+<li><a class="mw-redirect" href="/wiki/Tropical_Ocean-Global_Atmosphere_program" title="Tropical Ocean-Global Atmosphere program">TOGA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20171101202715
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.064 seconds
+Real time usage: 0.092 seconds
+Preprocessor visited node count: 308/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8319/2097152 bytes
+Template argument size: 180/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.024/10.000 seconds
+Lua memory usage: 2.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   71.813      1 -total
+ 42.97%   30.858      3 Template:Convert
+ 28.61%   20.548      1 Template:Use_dmy_dates
+ 13.42%    9.634      1 Template:US_wx_radar
+ 11.35%    8.151      1 Template:Navbox
+ 11.14%    8.000      1 Template:DMCA
+ 10.63%    7.637      1 Template:Reflist
+  9.70%    6.966      1 Template:Dated_maintenance_category
+  5.99%    4.300      1 Template:FULLROOTPAGENAME
+  3.99%    2.868      1 Template:Ns_has_subpages
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10127312-0!canonical and timestamp 20171101202715 and revision id 781746504
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Doppler_on_Wheels&amp;oldid=781746504">https://en.wikipedia.org/w/index.php?title=Doppler_on_Wheels&amp;oldid=781746504</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Weather_radars" title="Category:Weather radars">Weather radars</a></li><li><a href="/wiki/Category:Meteorology_research_and_field_projects" title="Category:Meteorology research and field projects">Meteorology research and field projects</a></li><li><a href="/wiki/Category:Severe_weather_and_convection" title="Category:Severe weather and convection">Severe weather and convection</a></li><li><a href="/wiki/Category:Storm_chasing" title="Category:Storm chasing">Storm chasing</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Doppler+on+Wheels" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Doppler+on+Wheels" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Doppler_on_Wheels" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Doppler_on_Wheels" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Doppler_on_Wheels">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Doppler_on_Wheels&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Doppler_on_Wheels&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Doppler_on_Wheels" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Doppler_on_Wheels" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Doppler_on_Wheels&amp;oldid=781746504" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Doppler_on_Wheels&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3036935" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Doppler_on_Wheels&amp;id=781746504" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Doppler+on+Wheels">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Doppler+on+Wheels&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Doppler_on_Wheels&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Doppler_on_Wheels" hreflang="fr" lang="fr" title="Doppler on Wheels – French">Français</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3036935#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 May 2017, at 00:19.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Doppler_on_Wheels&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.064","walltime":"0.092","ppvisitednodes":{"value":308,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8319,"limit":2097152},"templateargumentsize":{"value":180,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   71.813      1 -total"," 42.97%   30.858      3 Template:Convert"," 28.61%   20.548      1 Template:Use_dmy_dates"," 13.42%    9.634      1 Template:US_wx_radar"," 11.35%    8.151      1 Template:Navbox"," 11.14%    8.000      1 Template:DMCA"," 10.63%    7.637      1 Template:Reflist","  9.70%    6.966      1 Template:Dated_maintenance_category","  5.99%    4.300      1 Template:FULLROOTPAGENAME","  3.99%    2.868      1 Template:Ns_has_subpages"]},"scribunto":{"limitreport-timeusage":{"value":"0.024","limit":"10.000"},"limitreport-memusage":{"value":2269263,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20171101202715","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

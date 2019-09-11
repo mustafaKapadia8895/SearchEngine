@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Supercontinent cycle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Supercontinent_cycle","wgTitle":"Supercontinent cycle","wgCurRevisionId":808063773,"wgRevisionId":808063773,"wgArticleId":2113608,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2014","All articles needing additional references","Articles needing additional references from August 2012","Commons category without a link on Wikidata","Plate tectonics","Supercontinents","Scientific modeling"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Supercontinent_cycle","wgRelevantArticleId":2113608,"wgRequestId":"Wf-W6wpAAEIAAEEh43IAAABA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wilson_Cycle","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Supercontinent_cycle","wgWikibaseItemId":"Q955317","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wilson-cycle_hg.svg/1200px-Wilson-cycle_hg.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Supercontinent_cycle" rel="alternate"/>
+<link href="/w/index.php?title=Supercontinent_cycle&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Supercontinent_cycle&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Supercontinent_cycle" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Supercontinent_cycle rootpage-Supercontinent_cycle vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Supercontinent cycle</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Wilson_Cycle&amp;redirect=no" title="Wilson Cycle">Wilson Cycle</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Wilson-cycle_hg.svg"><img alt="" class="thumbimage" data-file-height="607" data-file-width="1112" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wilson-cycle_hg.svg/220px-Wilson-cycle_hg.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wilson-cycle_hg.svg/330px-Wilson-cycle_hg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wilson-cycle_hg.svg/440px-Wilson-cycle_hg.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wilson-cycle_hg.svg" title="Enlarge"></a></div>
+Wilson cycle</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Pangaea_continents.svg"><img alt="" class="thumbimage" data-file-height="960" data-file-width="815" height="259" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pangaea_continents.svg/220px-Pangaea_continents.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pangaea_continents.svg/330px-Pangaea_continents.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pangaea_continents.svg/440px-Pangaea_continents.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pangaea_continents.svg" title="Enlarge"></a></div>
+Map of Pangaea with modern continental outlines.</div>
+</div>
+</div>
+<p>The <b>supercontinent cycle</b> is the quasi-periodic aggregation and dispersal of <a href="/wiki/Earth" title="Earth">Earth</a>'s <a href="/wiki/Continental_crust" title="Continental crust">continental crust</a>. There are varying opinions as to whether the amount of continental crust is increasing, decreasing, or staying about the same, but it is agreed that the Earth's crust is constantly being reconfigured. One complete <a href="/wiki/Supercontinent" title="Supercontinent">supercontinent</a> cycle is said to take 300 to 500 million years. <a href="/wiki/Continental_collision" title="Continental collision">Continental collision</a> makes fewer and larger continents while <a class="mw-redirect" href="/wiki/Rifting" title="Rifting">rifting</a> makes more and smaller continents.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Effects_on_sea_level"><span class="tocnumber">2</span> <span class="toctext">Effects on sea level</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Relation_to_global_tectonics"><span class="tocnumber">3</span> <span class="toctext">Relation to global tectonics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Relation_to_climate"><span class="tocnumber">4</span> <span class="toctext">Relation to climate</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Relation_to_evolution"><span class="tocnumber">5</span> <span class="toctext">Relation to evolution</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Platetechsimple.png"><img alt="" class="thumbimage" data-file-height="2000" data-file-width="2000" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Platetechsimple.png/220px-Platetechsimple.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Platetechsimple.png/330px-Platetechsimple.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Platetechsimple.png/440px-Platetechsimple.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Platetechsimple.png" title="Enlarge"></a></div>
+Simplistic representation of the supercontinent cycle to modern day.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/List_of_supercontinents" title="List of supercontinents">List of supercontinents</a></div>
+<p>The most recent supercontinent, <a href="/wiki/Pangaea" title="Pangaea">Pangaea</a>, formed about 300 million years ago. There are two different views on the history of earlier supercontinents. The first proposes a series of supercontinents: <a href="/wiki/Vaalbara" title="Vaalbara">Vaalbara</a> (<abbr title="circa">c.</abbr> 3.6 to c. 2.8 billion years ago); <a href="/wiki/Ur_(continent)" title="Ur (continent)">Ur</a> (<abbr title="circa">c.</abbr> 3 billion years ago); <a href="/wiki/Kenorland" title="Kenorland">Kenorland</a> (<abbr title="circa">c.</abbr> 2.7 to 2.1 billion years ago); <a href="/wiki/Columbia_(supercontinent)" title="Columbia (supercontinent)">Columbia</a> (<abbr title="circa">c.</abbr> 1.8 to 1.5 billion years ago); <a href="/wiki/Rodinia" title="Rodinia">Rodinia</a> (<abbr title="circa">c.</abbr> 1.25 billion to 750 million years ago); and <a href="/wiki/Pannotia" title="Pannotia">Pannotia</a> (<abbr title="circa">c.</abbr> 600 million years ago), whose dispersal produced the fragments that ultimately collided to form Pangaea.<sup class="reference" id="cite_ref-Zhao1_1-0"><a href="#cite_note-Zhao1-1">[1]</a></sup><sup class="reference" id="cite_ref-Zhao2_2-0"><a href="#cite_note-Zhao2-2">[2]</a></sup></p>
+<p>The second view (Protopangea-Paleopangea), based on both <a href="/wiki/Paleomagnetism" title="Paleomagnetism">palaeomagnetic</a> and geological evidence, is that supercontinent cycles did not occur before about 0.6 <a class="mw-redirect" href="/wiki/Gigayear#SI_prefix_multipliers" title="Gigayear">Ga</a> (during the <a href="/wiki/Ediacaran" title="Ediacaran">Ediacaran</a> Period). Instead, the continental crust comprised a single supercontinent from about 2.7 Ga (Gigaanum, or "billion years ago") until it broke up for the first time, somewhere around 0.6 Ga. This reconstruction<sup class="reference" id="cite_ref-piper_3-0"><a href="#cite_note-piper-3">[3]</a></sup> is based on the observation that if only small peripheral modifications are made to the primary reconstruction, the data show that the palaeomagnetic poles converged to quasi-static positions for long intervals between about 2.7–2.2, 1.5–1.25 and 0.75–0.6 Ga.<sup class="reference" id="cite_ref-piper2_4-0"><a href="#cite_note-piper2-4">[4]</a></sup> During the intervening periods, the poles appear to have conformed to a unified <a href="/wiki/Apparent_polar_wander" title="Apparent polar wander">apparent polar wander</a> path. Thus the paleomagnetic data are adequately explained by the existence of a single Protopangea–Paleopangea supercontinent with prolonged quasi-integrity. The prolonged duration of this supercontinent could be explained by the operation of <i>lid tectonics</i> (comparable to the tectonics operating on Mars and Venus) during <a href="/wiki/Precambrian" title="Precambrian">Precambrian</a> times, as opposed to the <a href="/wiki/Plate_tectonics" title="Plate tectonics">plate tectonics</a> seen on the contemporary Earth.<sup class="reference" id="cite_ref-piper_3-1"><a href="#cite_note-piper-3">[3]</a></sup></p>
+<p>The kinds of minerals found inside ancient diamonds suggest that the cycle of supercontinental formation and breakup began roughly 3.0 billion years ago. Before 3.2 billion years ago only diamonds with <a href="/wiki/Peridot" title="Peridot">peridotitic</a> compositions (commonly found in the Earth's mantle) formed, whereas after 3.0 billion years ago eclogitic diamonds (rocks from the Earth's surface crust) became prevalent. This change is thought to have come about because the process of subduction and continental collision introduced <a href="/wiki/Eclogite" title="Eclogite">eclogite</a> into subcontinental diamond-forming fluids.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The hypothesized supercontinent cycle is complemented by the Wilson cycle named after <a href="/wiki/Plate_tectonics" title="Plate tectonics">plate tectonics</a> pioneer <a class="mw-redirect" href="/wiki/J._Tuzo_Wilson" title="J. Tuzo Wilson">J. Tuzo Wilson</a>, which describes the periodic opening and closing of <a class="mw-redirect" href="/wiki/Ocean_basin" title="Ocean basin">ocean basins</a>. Because the oldest seafloor material found today dates to only 170 million years old, whereas the oldest continental crust material found today dates to at least 4 billion years old, it makes sense to emphasize the much longer record of the planetary pulse that is recorded in the continents.</p>
+<h2><span class="mw-headline" id="Effects_on_sea_level">Effects on sea level</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=2" title="Edit section: Effects on sea level">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Supercontinent_cycle&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(June 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>It is known that <a href="/wiki/Sea_level" title="Sea level">sea level</a> is generally low when the continents are together and high when they are apart. For example, sea level was low at the time of formation of Pangaea (<a href="/wiki/Permian" title="Permian">Permian</a>) and Pannotia (latest <a href="/wiki/Neoproterozoic" title="Neoproterozoic">Neoproterozoic</a>), and rose rapidly to maxima during <a href="/wiki/Ordovician" title="Ordovician">Ordovician</a> and <a href="/wiki/Cretaceous" title="Cretaceous">Cretaceous</a> times, when the continents were dispersed. This is because the age of the <a class="mw-redirect" href="/wiki/Oceanic_lithosphere" title="Oceanic lithosphere">oceanic lithosphere</a> provides a major control on the depth of the ocean basins, and therefore on global sea level. Oceanic lithosphere forms at <a class="mw-redirect" href="/wiki/Mid-ocean_ridges" title="Mid-ocean ridges">mid-ocean ridges</a> and moves outwards. As this happens, it <a href="/wiki/Thermal_conduction" title="Thermal conduction">conductively cools</a> and <a href="/wiki/Thermal_expansion" title="Thermal expansion">shrinks</a>. This cooling and shrinking decreases the thickness and increases the density of the oceanic lithosphere, and the result is the general lowering in elevation of the seafloor away from mid-ocean ridges. For oceanic lithosphere that is less than about 75 million years old, a simple cooling <a href="/wiki/Half-space_(geometry)" title="Half-space (geometry)">half-space</a> model of conductive cooling works, in which the depth of the ocean basins <i>d</i> in areas in which there is no nearby <a href="/wiki/Subduction" title="Subduction">subduction</a> is a function of the age of the oceanic lithosphere <i>t</i>. In general,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>2</mn>
+<msqrt>
+<mi>π<!-- π --></mi>
+</msqrt>
+</mfrac>
+</mrow>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">f</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>κ<!-- κ --></mi>
+<mi>t</mi>
+</msqrt>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d(t)={\frac {2}{\sqrt {\pi }}}a_{\rm {eff}}T_{1}{\sqrt {\kappa t}}+d_{\rm {r}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d(t)={\frac {2}{\sqrt {\pi }}}a_{\rm {eff}}T_{1}{\sqrt {\kappa t}}+d_{\rm {r}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/365ecc89153b9bd20e294a07f2b0ed41c2c13f49" style="vertical-align: -2.838ex; width:26.119ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>where <i>κ</i> is the <a href="/wiki/Thermal_diffusivity" title="Thermal diffusivity">thermal diffusivity</a> of the mantle lithosphere (<abbr title="circa">c.</abbr> <span class="nowrap"><span class="sortkey" style="display:none">6993800000000000000♠</span>8<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup> <a class="mw-redirect" href="/wiki/Meter" title="Meter">m</a><sup>2</sup>/<a href="/wiki/Second" title="Second">s</a></span>), <i>a</i><sub>eff</sub> is the effective <a class="mw-redirect" href="/wiki/Thermal_expansion_coefficient" title="Thermal expansion coefficient">thermal expansion coefficient</a> for rock (<abbr title="circa">c.</abbr> <span class="nowrap"><span class="sortkey" style="display:none">6995570000000000000♠</span>5.7<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup> °C<sup>−1</sup></span>), <i>T</i><sub>1</sub> is the temperature of ascending magma compared to the temperature at the upper boundary (<abbr title="circa">c.</abbr> 1220 °C for the Atlantic and Indian Oceans, <abbr title="circa">c.</abbr> 1120 °C for the eastern Pacific) and <i>d</i><sub>r</sub> is the depth of the ridge below the ocean surface.<sup class="reference" id="cite_ref-fundamentals_6-0"><a href="#cite_note-fundamentals-6">[6]</a></sup> After plugging in rough numbers for the sea floor, the equation becomes:</p>
+<dl>
+<dd>for the eastern Pacific Ocean:
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>350</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>t</mi>
+</msqrt>
+</mrow>
+<mo>+</mo>
+<mn>2500</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d(t)=350{\sqrt {t}}+2500}</annotation>
+</semantics>
+</math></span><img alt="d(t)=350{\sqrt  {t}}+2500" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e66b1e91d93839d385691a3d1e91461bc90c2bd" style="vertical-align: -0.838ex; width:20.873ex; height:3.009ex;"/></span></dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>and for the Atlantic and Indian Oceans:
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>390</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>t</mi>
+</msqrt>
+</mrow>
+<mo>+</mo>
+<mn>2500</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d(t)=390{\sqrt {t}}+2500}</annotation>
+</semantics>
+</math></span><img alt="d(t)=390{\sqrt  {t}}+2500" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5780ca1507011ba88d3c1d527a2e4d5703b644e" style="vertical-align: -0.838ex; width:20.873ex; height:3.009ex;"/></span></dd>
+</dl>
+</dd>
+</dl>
+<p>where <i>d</i> is in meters and <i>t</i> is in millions of years, so that just-formed crust at the mid-ocean ridges lies at about 2,500 m depth, whereas 50-million-year-old seafloor lies at a depth of about 5,000 m.<sup class="reference" id="cite_ref-analysis_7-0"><a href="#cite_note-analysis-7">[7]</a></sup></p>
+<p>As the mean level of the sea floor decreases, the volume of the ocean basins increases, and if other factors that can control sea level remain constant, sea level falls. The converse is also true: younger oceanic lithosphere leads to shallower oceans and higher sea levels if other factors remain constant.</p>
+<p>Area <i>A</i>, of the oceans, can change when continents <a href="/wiki/Rift" title="Rift">rift</a> (stretching the continents decreases A and raises sea level) or as a result of <a href="/wiki/Continental_collision" title="Continental collision">continental collision</a> (compressing the continents leads to an increase <i>A</i> and lowers sea level). Increasing sea level will flood the continents, while decreasing sea level will expose continental shelves.</p>
+<p>Because the <a href="/wiki/Continental_shelf" title="Continental shelf">continental shelf</a> has a very low slope, a small increase in sea level will result in a large change in the percent of continents flooded.</p>
+<p>If the world ocean on average is young, the seafloor will be relatively shallow, and sea level will be high: more of the continents are flooded. If the world ocean is on average old, seafloor will be relatively deep, and sea level will be low: more of the continents will be exposed.</p>
+<p>There is thus a relatively simple relationship between the supercontinent cycle and the mean age of the seafloor.</p>
+<ul>
+<li>Supercontinent = lots of old seafloor = low sea level</li>
+<li>Dispersed continents = lots of young seafloor = high sea level</li>
+</ul>
+<p>There will also be a climatic effect of the supercontinent cycle that will amplify this further:</p>
+<ul>
+<li>Supercontinent = continental climate dominant = continental glaciation likely = still lower sea level</li>
+<li>Dispersed continents = maritime climate dominant = continental glaciation unlikely = sea level is not lowered by this mechanism</li>
+</ul>
+<h2><span class="mw-headline" id="Relation_to_global_tectonics">Relation to global tectonics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=3" title="Edit section: Relation to global tectonics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is a progression of tectonic regimes that accompany the supercontinent cycle:</p>
+<p>During break-up of the supercontinent, rifting environments dominate. This is followed by passive margin environments, while seafloor spreading continues and the oceans grow. This in turn is followed by the development of collisional environments that become increasingly important with time. First collisions are between continents and island arcs, but lead ultimately to continent-continent collisions. This is the situation that was observed during the Paleozoic supercontinent cycle and is being observed for the <a href="/wiki/Mesozoic" title="Mesozoic">Mesozoic</a>–<a href="/wiki/Cenozoic" title="Cenozoic">Cenozoic</a> supercontinent cycle, still in progress.</p>
+<h2><span class="mw-headline" id="Relation_to_climate">Relation to climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=4" title="Edit section: Relation to climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Supercontinent_cycle&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(August 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Greenhouse_and_icehouse_Earth" title="Greenhouse and icehouse Earth">Greenhouse and icehouse Earth</a></div>
+<p>There are two types of global earth climates: icehouse and greenhouse. Icehouse is characterized by frequent continental glaciations and severe desert environments. Greenhouse is characterized by warm climates. Both reflect the supercontinent cycle. It is now a short greenhouse phase of an icehouse world.<sup class="reference" id="cite_ref-Read.2C_PhD_8-0"><a href="#cite_note-Read.2C_PhD-8">[8]</a></sup></p>
+<ul>
+<li><b>Icehouse climate</b>
+<ul>
+<li>Continents moving together</li>
+<li>Sea level low due to lack of seafloor production</li>
+<li>Climate cooler, arid</li>
+<li>Associated with <a href="/wiki/Aragonite_sea" title="Aragonite sea">aragonite seas</a></li>
+<li>Formation of <a href="/wiki/Supercontinent" title="Supercontinent">supercontinents</a></li>
+</ul>
+</li>
+<li><b>Greenhouse climate</b>
+<ul>
+<li>Continents dispersed</li>
+<li>Sea level high</li>
+<li>High level of <a class="mw-redirect" href="/wiki/Sea_floor_spreading" title="Sea floor spreading">sea floor spreading</a></li>
+<li>Relatively large amounts of CO<sub>2</sub> production at oceanic rifting zones</li>
+<li>Climate warm and humid</li>
+<li>Associated with <a href="/wiki/Calcite_sea" title="Calcite sea">calcite seas</a></li>
+</ul>
+</li>
+</ul>
+<p>Periods of icehouse climate: much of <a href="/wiki/Neoproterozoic" title="Neoproterozoic">Neoproterozoic</a>, late <a href="/wiki/Paleozoic" title="Paleozoic">Paleozoic</a>, late <a href="/wiki/Cenozoic" title="Cenozoic">Cenozoic</a>.</p>
+<p>Periods of greenhouse climate: Early <a href="/wiki/Paleozoic" title="Paleozoic">Paleozoic</a>, <a href="/wiki/Mesozoic" title="Mesozoic">Mesozoic</a>–early <a href="/wiki/Cenozoic" title="Cenozoic">Cenozoic</a>.</p>
+<h2><span class="mw-headline" id="Relation_to_evolution">Relation to evolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=5" title="Edit section: Relation to evolution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The principal mechanism for evolution is natural selection among diverse populations. As <a href="/wiki/Genetic_drift" title="Genetic drift">genetic drift</a> occurs more frequently in small populations, diversity is an observed consequence of isolation. Less isolation, and thus less diversification, occurs when the continents are all together, producing both one continent and one ocean with one coast. In Latest Neoproterozoic to Early Paleozoic times, when the tremendous proliferation of diverse <a href="/wiki/Animal" title="Animal">metazoa</a> occurred, isolation of marine environments resulted from the breakup of Pannotia.</p>
+<p>A north–south arrangement of continents and oceans leads to much more diversity and isolation than east–west arrangements. North-to-south arrangements give climatically different zones along the communication routes to the north and south, which are separated by water or land from other continental or oceanic zones of similar climate. Formation of similar tracts of continents and ocean basins oriented east–west would lead to much less isolation, diversification, and slower evolution, since each continent or ocean is in fewer climatic zones. Through the <a href="/wiki/Cenozoic" title="Cenozoic">Cenozoic</a>, isolation has been maximized by a north–south arrangement.</p>
+<p>Diversity, as measured by the number of families, follows the supercontinent cycle very well.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Zhao1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zhao1_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhao, Guochun; Cawood, Peter A.; Wilde, Simon A.; Sun, M. (2002). "Review of global 2.1–1.8 Ga orogens: implications for a pre-Rodinia supercontinent". <i>Earth-Science Reviews</i>. <b>59</b> (1–4): 125–162. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2002ESRv...59..125Z" rel="nofollow">2002ESRv...59..125Z</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0012-8252%2802%2900073-9" rel="nofollow">10.1016/S0012-8252(02)00073-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Review+of+global+2.1%E2%80%931.8+Ga+orogens%3A+implications+for+a+pre-Rodinia+supercontinent&amp;rft.au=Cawood%2C+Peter+A.&amp;rft.au=Sun%2C+M.&amp;rft.au=Wilde%2C+Simon+A.&amp;rft.aufirst=Guochun&amp;rft.aulast=Zhao&amp;rft.date=2002&amp;rft.genre=article&amp;rft.issue=1%E2%80%934&amp;rft.jtitle=Earth-Science+Reviews&amp;rft.pages=125-162&amp;rft.volume=59&amp;rft_id=info%3Abibcode%2F2002ESRv...59..125Z&amp;rft_id=info%3Adoi%2F10.1016%2FS0012-8252%2802%2900073-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Zhao2-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zhao2_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhao, Guochun; Sun, M.; Wilde, Simon A.; Li, S. Z. (2004). "A Paleo-Mesoproterozoic supercontinent: assembly, growth and breakup". <i>Earth-Science Reviews</i>. <b>67</b> (1–2): 91–123. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2004ESRv...67...91Z" rel="nofollow">2004ESRv...67...91Z</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.earscirev.2004.02.003" rel="nofollow">10.1016/j.earscirev.2004.02.003</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=A+Paleo-Mesoproterozoic+supercontinent%3A+assembly%2C+growth+and+breakup&amp;rft.au=Li%2C+S.+Z.&amp;rft.au=Sun%2C+M.&amp;rft.au=Wilde%2C+Simon+A.&amp;rft.aufirst=Guochun&amp;rft.aulast=Zhao&amp;rft.date=2004&amp;rft.genre=article&amp;rft.issue=1%E2%80%932&amp;rft.jtitle=Earth-Science+Reviews&amp;rft.pages=91-123&amp;rft.volume=67&amp;rft_id=info%3Abibcode%2F2004ESRv...67...91Z&amp;rft_id=info%3Adoi%2F10.1016%2Fj.earscirev.2004.02.003&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-piper-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-piper_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-piper_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Piper, J. D. A. (2013). "A planetary perspective on Earth evolution: Lid Tectonics before Plate Tectonics". <i>Tectonophysics</i>. <b>589</b>: 44–56. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.tecto.2012.12.042" rel="nofollow">10.1016/j.tecto.2012.12.042</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=A+planetary+perspective+on+Earth+evolution%3A+Lid+Tectonics+before+Plate+Tectonics&amp;rft.aufirst=J.+D.+A.&amp;rft.aulast=Piper&amp;rft.date=2013&amp;rft.genre=article&amp;rft.jtitle=Tectonophysics&amp;rft.pages=44-56&amp;rft.volume=589&amp;rft_id=info%3Adoi%2F10.1016%2Fj.tecto.2012.12.042&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-piper2-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-piper2_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Piper, J. D. A. (2013). "Continental velocity through geological time: the link to magmatism, crustal accretion and episodes of global cooling". <i>Geoscience Frontiers</i>. <b>4</b>: 7–36. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.gsf.2012.05.008" rel="nofollow">10.1016/j.gsf.2012.05.008</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Continental+velocity+through+geological+time%3A+the+link+to+magmatism%2C+crustal+accretion+and+episodes+of+global+cooling&amp;rft.aufirst=J.+D.+A.&amp;rft.aulast=Piper&amp;rft.date=2013&amp;rft.genre=article&amp;rft.jtitle=Geoscience+Frontiers&amp;rft.pages=7-36&amp;rft.volume=4&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gsf.2012.05.008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shirey, S. B.; Richardson, S. H. (2011). "Start of the Wilson Cycle at 3 Ga Shown by Diamonds from Subcontinental Mantle". <i>Science</i>. <b>333</b> (6041): 434–436. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21778395" rel="nofollow">21778395</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1206275" rel="nofollow">10.1126/science.1206275</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Start+of+the+Wilson+Cycle+at+3+Ga+Shown+by+Diamonds+from+Subcontinental+Mantle&amp;rft.au=Richardson%2C+S.+H.&amp;rft.aufirst=S.+B.&amp;rft.aulast=Shirey&amp;rft.date=2011&amp;rft.genre=article&amp;rft.issue=6041&amp;rft.jtitle=Science&amp;rft.pages=434-436&amp;rft.volume=333&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1206275&amp;rft_id=info%3Apmid%2F21778395&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-fundamentals-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-fundamentals_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">E. E., Davis; Lister, C. R. B. (1974). "Fundamentals of Ridge Crest Topography". <i>Earth and Planetary Science Letters</i>. North-Holland Publishing Company. <b>21</b>: 405–413. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1974E&amp;PSL..21..405D" rel="nofollow">1974E&amp;PSL..21..405D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0012-821X%2874%2990180-0" rel="nofollow">10.1016/0012-821X(74)90180-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Fundamentals+of+Ridge+Crest+Topography&amp;rft.au=Lister%2C+C.+R.+B.&amp;rft.aufirst=Davis&amp;rft.aulast=E.+E.&amp;rft.date=1974&amp;rft.genre=article&amp;rft.jtitle=Earth+and+Planetary+Science+Letters&amp;rft.pages=405-413&amp;rft.volume=21&amp;rft_id=info%3Abibcode%2F1974E%26PSL..21..405D&amp;rft_id=info%3Adoi%2F10.1016%2F0012-821X%2874%2990180-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-analysis-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-analysis_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Parsons, Barry; Sclater, John G. (1977). "An analysis of the variation of ocean floor bathymetry and heat flow with age". <i>Journal of Geophysical Research</i>. American Geophysical Union. <b>82</b> (B5): 802–827. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1977JGR....82..802P" rel="nofollow">1977JGR....82..802P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2Fjb082i005p00803" rel="nofollow">10.1029/jb082i005p00803</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=An+analysis+of+the+variation+of+ocean+floor+bathymetry+and+heat+flow+with+age&amp;rft.au=Sclater%2C+John+G.&amp;rft.aufirst=Barry&amp;rft.aulast=Parsons&amp;rft.date=1977&amp;rft.genre=article&amp;rft.issue=B5&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.pages=802-827&amp;rft.volume=82&amp;rft_id=info%3Abibcode%2F1977JGR....82..802P&amp;rft_id=info%3Adoi%2F10.1029%2Fjb082i005p00803&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Read.2C_PhD-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Read.2C_PhD_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Read, J. Fred (2001). <a class="external text" href="http://www.research.vt.edu/resmag/sciencecol/2001old_weather.html" rel="nofollow">"Record of ancient climates can be a map to riches"</a>. <i>Science from Virginia Tech</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-04</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Record+of+ancient+climates+can+be+a+map+to+riches&amp;rft.aufirst=J.+Fred&amp;rft.aulast=Read&amp;rft.date=2001&amp;rft.genre=article&amp;rft.jtitle=Science+from+Virginia+Tech&amp;rft_id=http%3A%2F%2Fwww.research.vt.edu%2Fresmag%2Fsciencecol%2F2001old_weather.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Benton, Michael J. (23 September 2005). <a class="external text" href="https://dx.doi.org/10.1038/npg.els.0004144" rel="nofollow">"Fossil Record: Quality"</a>. <i>eLS (Encyclopedia of Life Sciences)</i>. John Wiley &amp; Sons, Ltd. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnpg.els.0004144" rel="nofollow">10.1038/npg.els.0004144</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Fossil+Record%3A+Quality&amp;rft.aufirst=Michael+J.&amp;rft.aulast=Benton&amp;rft.date=2005-09-23&amp;rft.genre=unknown&amp;rft.jtitle=eLS+%28Encyclopedia+of+Life+Sciences%29&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1038%2Fnpg.els.0004144&amp;rft_id=info%3Adoi%2F10.1038%2Fnpg.els.0004144&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal">Gurnis, M. (1988). "Large-scale mantle convection and the aggregation and dispersal of supercontinents". <i>Nature</i>. <b>332</b> (6166): 695–699. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1988Natur.332..695G" rel="nofollow">1988Natur.332..695G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F332695a0" rel="nofollow">10.1038/332695a0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Large-scale+mantle+convection+and+the+aggregation+and+dispersal+of+supercontinents&amp;rft.aufirst=M.&amp;rft.aulast=Gurnis&amp;rft.date=1988&amp;rft.genre=article&amp;rft.issue=6166&amp;rft.jtitle=Nature&amp;rft.pages=695-699&amp;rft.volume=332&amp;rft_id=info%3Abibcode%2F1988Natur.332..695G&amp;rft_id=info%3Adoi%2F10.1038%2F332695a0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Murphy, J. B.; Nance, R. D. (1992). "Supercontinents and the origin of mountain belts". <i>Scientific American</i>. <b>266</b> (4): 84–91. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1992SciAm.266...84M" rel="nofollow">1992SciAm.266...84M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fscientificamerican0492-84" rel="nofollow">10.1038/scientificamerican0492-84</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=Supercontinents+and+the+origin+of+mountain+belts&amp;rft.au=Nance%2C+R.+D.&amp;rft.aufirst=J.+B.&amp;rft.aulast=Murphy&amp;rft.date=1992&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Scientific+American&amp;rft.pages=84-91&amp;rft.volume=266&amp;rft_id=info%3Abibcode%2F1992SciAm.266...84M&amp;rft_id=info%3Adoi%2F10.1038%2Fscientificamerican0492-84&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Nance, R. D.; Worsley, T. R.; Moody, J. B. (1988). "The supercontinent cycle". <i>Scientific American</i>. <b>259</b> (1): 72–79. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1988SciAm.259...72N" rel="nofollow">1988SciAm.259...72N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fscientificamerican0788-72" rel="nofollow">10.1038/scientificamerican0788-72</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercontinent+cycle&amp;rft.atitle=The+supercontinent+cycle&amp;rft.au=Moody%2C+J.+B.&amp;rft.au=Worsley%2C+T.+R.&amp;rft.aufirst=R.+D.&amp;rft.aulast=Nance&amp;rft.date=1988&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Scientific+American&amp;rft.pages=72-79&amp;rft.volume=259&amp;rft_id=info%3Abibcode%2F1988SciAm.259...72N&amp;rft_id=info%3Adoi%2F10.1038%2Fscientificamerican0788-72&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercontinent_cycle&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Supercontinents" title="commons:Category:Supercontinents">Supercontinents</a> at Wikimedia Commons</p>
+<ul>
+<li><a class="external text" href="http://www.scotese.com/earth.htm" rel="nofollow">Reconstructions from "Paleomap Project"</a></li>
+<li><a class="external text" href="http://www-udc.ig.utexas.edu/external/plates/recons.htm" rel="nofollow">Plate reconstructions and movies from UTIG 'PLATES' project</a></li>
+<li><a class="external text" href="http://csmres.jmu.edu/geollab/Fichter/Wilson/rkcytst.html" rel="nofollow">A Tectonic Rock Cycle</a></li>
+</ul>
+<div aria-labelledby="Continents_of_the_world" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Continents_of_the_world" title="Template:Continents of the world"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Continents_of_the_world" title="Template talk:Continents of the world"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Continents_of_the_world&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Continents_of_the_world" style="font-size:114%;margin:0 4em"><a href="/wiki/Continent" title="Continent">Continents</a> of the <a href="/wiki/Earth" title="Earth">world</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;border-bottom:#aaa 1px solid;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;">
+<tr style="vertical-align:top;">
+<td style="width:5em;">   </td>
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:14%;">
+<div>
+<p><a href="/wiki/Africa" title="Africa"><img alt="Africa (orthographic projection).svg" data-file-height="550" data-file-width="550" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/75px-Africa_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/113px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/150px-Africa_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Africa" title="Africa">Africa</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:14%;">
+<div>
+<p><a href="/wiki/Antarctica" title="Antarctica"><img alt="Antarctica (orthographic projection).svg" data-file-height="536" data-file-width="537" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/75px-Antarctica_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/113px-Antarctica_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/150px-Antarctica_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Antarctica" title="Antarctica">Antarctica</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:14%;">
+<div>
+<p><a href="/wiki/Asia" title="Asia"><img alt="Asia (orthographic projection).svg" data-file-height="541" data-file-width="541" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/75px-Asia_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/113px-Asia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/150px-Asia_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Asia" title="Asia">Asia</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:14%;">
+<div>
+<p><a href="/wiki/Australia_(continent)" title="Australia (continent)"><img alt="Australia-New Guinea (orthographic projection).svg" data-file-height="541" data-file-width="541" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Australia-New_Guinea_%28orthographic_projection%29.svg/75px-Australia-New_Guinea_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Australia-New_Guinea_%28orthographic_projection%29.svg/113px-Australia-New_Guinea_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Australia-New_Guinea_%28orthographic_projection%29.svg/150px-Australia-New_Guinea_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Australia_(continent)" title="Australia (continent)">Australia</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:14%;">
+<div>
+<p><a href="/wiki/Europe" title="Europe"><img alt="Europe orthographic Caucasus Urals boundary.svg" data-file-height="536" data-file-width="537" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Europe_orthographic_Caucasus_Urals_boundary.svg/75px-Europe_orthographic_Caucasus_Urals_boundary.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Europe_orthographic_Caucasus_Urals_boundary.svg/113px-Europe_orthographic_Caucasus_Urals_boundary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Europe_orthographic_Caucasus_Urals_boundary.svg/150px-Europe_orthographic_Caucasus_Urals_boundary.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Europe" title="Europe">Europe</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:14%;">
+<div>
+<p><a href="/wiki/North_America" title="North America"><img alt="Location North America.svg" data-file-height="550" data-file-width="550" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/75px-Location_North_America.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/113px-Location_North_America.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/150px-Location_North_America.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/North_America" title="North America">North America</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:14%;">
+<div>
+<p><a href="/wiki/South_America" title="South America"><img alt="South America (orthographic projection).svg" data-file-height="541" data-file-width="541" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/75px-South_America_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/113px-South_America_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/150px-South_America_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/South_America" title="South America">South America</a></p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;border-bottom:#aaa 1px solid;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;">
+<tr style="vertical-align:top;">
+<td style="width:5em;">   </td>
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:25%;">
+<div>
+<p><a href="/wiki/Afro-Eurasia" title="Afro-Eurasia"><img alt="Afro-Eurasia (orthographic projection).svg" data-file-height="550" data-file-width="550" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Afro-Eurasia_%28orthographic_projection%29.svg/75px-Afro-Eurasia_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Afro-Eurasia_%28orthographic_projection%29.svg/113px-Afro-Eurasia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Afro-Eurasia_%28orthographic_projection%29.svg/150px-Afro-Eurasia_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Afro-Eurasia" title="Afro-Eurasia">Afro-Eurasia</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:25%;">
+<div>
+<p><a href="/wiki/Americas" title="Americas"><img alt="Americas (orthographic projection).svg" data-file-height="550" data-file-width="550" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/75px-Americas_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/113px-Americas_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/150px-Americas_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Americas" title="Americas">America</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:25%;">
+<div>
+<p><a href="/wiki/Eurasia" title="Eurasia"><img alt="Eurasia (orthographic projection).svg" data-file-height="550" data-file-width="550" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasia_%28orthographic_projection%29.svg/75px-Eurasia_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasia_%28orthographic_projection%29.svg/113px-Eurasia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasia_%28orthographic_projection%29.svg/150px-Eurasia_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Eurasia" title="Eurasia">Eurasia</a></p>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:25%;">
+<div>
+<p><a href="/wiki/Oceania" title="Oceania"><img alt="Oceania (orthographic projection).svg" data-file-height="541" data-file-width="541" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceania_%28orthographic_projection%29.svg/75px-Oceania_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceania_%28orthographic_projection%29.svg/113px-Oceania_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceania_%28orthographic_projection%29.svg/150px-Oceania_%28orthographic_projection%29.svg.png 2x" width="75"/></a><br/>
+<a href="/wiki/Oceania" title="Oceania">Oceania</a></p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;border-bottom:#aaa 1px solid;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;">
+<tr style="vertical-align:top;">
+<td style="width:5em;">   </td>
+<td class="navbox-list" style="padding:0px;padding-left:1.0em;text-align:center; padding-right:1.0em;;;;width:38%;">
+<div>
+<ul>
+<li><span style="font-size:110%;"><b>Former <a href="/wiki/Supercontinent" title="Supercontinent">supercontinents</a></b></span><br/>
+<a href="/wiki/Gondwana" title="Gondwana">Gondwana</a></li>
+<li><a href="/wiki/Laurasia" title="Laurasia">Laurasia</a></li>
+<li><a href="/wiki/Pangaea" title="Pangaea">Pangaea</a></li>
+<li><a href="/wiki/Pannotia" title="Pannotia">Pannotia</a></li>
+<li><a href="/wiki/Rodinia" title="Rodinia">Rodinia</a></li>
+<li><a href="/wiki/Columbia_(supercontinent)" title="Columbia (supercontinent)">Columbia</a></li>
+<li><a href="/wiki/Kenorland" title="Kenorland">Kenorland</a></li>
+<li><a href="/wiki/Nena_(supercontinent)" title="Nena (supercontinent)">Nena</a></li>
+<li><a href="/wiki/Sclavia_Craton" title="Sclavia Craton">Sclavia</a></li>
+<li><a href="/wiki/Ur_(continent)" title="Ur (continent)">Ur</a></li>
+<li><a href="/wiki/Vaalbara" title="Vaalbara">Vaalbara</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;padding-left:1.0em;text-align:center; padding-right:1.0em;;;;width:62%;">
+<div>
+<ul>
+<li><span style="font-size:110%;"><b>Historical continents</b></span><br/>
+<a href="/wiki/Amazonian_Craton" title="Amazonian Craton">Amazonia</a></li>
+<li><a href="/wiki/Arctica" title="Arctica">Arctica</a></li>
+<li><a href="/wiki/Asiamerica" title="Asiamerica">Asiamerica</a></li>
+<li><a href="/wiki/Atlantica" title="Atlantica">Atlantica</a></li>
+<li><a href="/wiki/Avalonia" title="Avalonia">Avalonia</a></li>
+<li><a href="/wiki/Baltica" title="Baltica">Baltica</a></li>
+<li><a href="/wiki/Cimmeria_(continent)" title="Cimmeria (continent)">Cimmeria</a></li>
+<li><a class="mw-redirect" href="/wiki/Congo_craton" title="Congo craton">Congo craton</a></li>
+<li><a href="/wiki/Euramerica" title="Euramerica">Euramerica</a></li>
+<li><a class="mw-redirect" href="/wiki/Kalahari_craton" title="Kalahari craton">Kalaharia</a></li>
+<li><a href="/wiki/Kazakhstania" title="Kazakhstania">Kazakhstania</a></li>
+<li><a href="/wiki/Laurentia" title="Laurentia">Laurentia</a></li>
+<li><a class="mw-redirect" href="/wiki/North_China_craton" title="North China craton">North China</a></li>
+<li><a href="/wiki/Siberia_(continent)" title="Siberia (continent)">Siberia</a></li>
+<li><a href="/wiki/South_China_(continent)" title="South China (continent)">South China</a></li>
+<li><a class="mw-redirect" href="/wiki/East_Antarctic_craton" title="East Antarctic craton">East Antarctica</a></li>
+<li><a href="/wiki/Indian_subcontinent" title="Indian subcontinent">India</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;border-bottom:#aaa 1px solid;;border-bottom:0;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks hlist navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;">
+<tr style="vertical-align:top;">
+<td style="width:5em;">   </td>
+<td class="navbox-list" style="padding:0px;padding-left:1.0em;text-align:center;padding-right:1.0em;;;;width:33%;">
+<div>
+<ul>
+<li><span style="font-size:110%;"><b><a href="/wiki/Submerged_continent" title="Submerged continent">Submerged continents</a></b></span><br/>
+<a href="/wiki/Kerguelen_Plateau" title="Kerguelen Plateau">Kerguelen Plateau</a></li>
+<li><a href="/wiki/Zealandia" title="Zealandia">Zealandia</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;padding-left:1.0em;text-align:center;padding-right:1.0em;;;;width:33%;">
+<div>
+<ul>
+<li><span style="font-size:110%;"><b>Possible future supercontinents</b></span><br/>
+<a href="/wiki/Pangaea_Ultima" title="Pangaea Ultima">Pangaea Ultima</a></li>
+<li><a href="/wiki/Amasia_(continent)" title="Amasia (continent)">Amasia</a></li>
+<li><a href="/wiki/Novopangaea" title="Novopangaea">Novopangaea</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;padding-left:1.0em;text-align:center;padding-right:1.0em;;;;width:33%;">
+<div>
+<ul>
+<li><span style="font-size:110%;"><b><a href="/wiki/Mythical_continents" title="Mythical continents">Mythical and hypothesised continents</a></b></span><br/>
+<a href="/wiki/Atlantis" title="Atlantis">Atlantis</a></li>
+<li><a href="/wiki/Kumari_Kandam" title="Kumari Kandam">Kumari Kandam</a></li>
+<li><a href="/wiki/Lemuria_(continent)" title="Lemuria (continent)">Lemuria</a></li>
+<li><a href="/wiki/Meropis" title="Meropis">Meropis</a></li>
+<li><a href="/wiki/Mu_(lost_continent)" title="Mu (lost continent)">Mu</a></li>
+<li><a href="/wiki/Hyperborea" title="Hyperborea">Hyperborea</a></li>
+<li><a href="/wiki/Terra_Australis" title="Terra Australis">Terra Australis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<div class="hlist hlist-separated">
+<ul>
+<li><i>See also <a href="/wiki/Template:Regions_of_the_world" title="Template:Regions of the world">Regions of the world</a></i></li>
+<li><i><a href="/wiki/Continental_fragment" title="Continental fragment">Continental fragment</a></i></li>
+</ul>
+</div>
+<ul>
+<li><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <b><a href="/wiki/Book:Continents" title="Book:Continents">Book</a></b></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Continents" title="Category:Continents">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1314
+Cached time: 20171031172822
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 3.742 seconds
+Preprocessor visited node count: 2338/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89496/2097152 bytes
+Template argument size: 6256/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.140/10.000 seconds
+Lua memory usage: 5.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  307.549      1 -total
+ 29.70%   91.340      1 Template:Reflist
+ 22.83%   70.204     11 Template:Cite_journal
+ 21.09%   64.874      5 Template:Navbox
+ 17.12%   52.653      2 Template:Val
+ 16.34%   50.258      1 Template:Continents_of_the_world
+ 11.60%   35.672      1 Template:Unreferenced_section
+ 10.40%   31.994      2 Template:Ambox
+ 10.09%   31.021      1 Template:Unreferenced
+  8.27%   25.441      4 Template:Navbox_with_columns
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2113608-0!canonical!math=5 and timestamp 20171031172822 and revision id 808063773
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Supercontinent_cycle&amp;oldid=808063773">https://en.wikipedia.org/w/index.php?title=Supercontinent_cycle&amp;oldid=808063773</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Plate_tectonics" title="Category:Plate tectonics">Plate tectonics</a></li><li><a href="/wiki/Category:Supercontinents" title="Category:Supercontinents">Supercontinents</a></li><li><a href="/wiki/Category:Scientific_modeling" title="Category:Scientific modeling">Scientific modeling</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2014" title="Category:Articles needing additional references from June 2014">Articles needing additional references from June 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2012" title="Category:Articles needing additional references from August 2012">Articles needing additional references from August 2012</a></li><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Supercontinent+cycle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Supercontinent+cycle" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Supercontinent_cycle" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Supercontinent_cycle" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Supercontinent_cycle">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Supercontinent_cycle&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Supercontinent_cycle&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Supercontinent_cycle" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Supercontinent_cycle" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Supercontinent_cycle&amp;oldid=808063773" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Supercontinent_cycle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q955317" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Supercontinent_cycle&amp;id=808063773" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Supercontinent+cycle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Supercontinent+cycle&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Supercontinent_cycle&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B8%D9%85%D9%89" hreflang="ar" lang="ar" title="دورة القارة العظمى – Arabic">العربية</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/V%C3%BDvoj_kontinent%C5%AF" hreflang="cs" lang="cs" title="Vývoj kontinentů – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Wilson-Zyklus" hreflang="de" lang="de" title="Wilson-Zyklus – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Wilsoni_ts%C3%BCkkel" hreflang="et" lang="et" title="Wilsoni tsükkel – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ciclo_supercontinental" hreflang="es" lang="es" title="Ciclo supercontinental – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Cycle_de_Wilson" hreflang="fr" lang="fr" title="Cycle de Wilson – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Siklus_wilson" hreflang="id" lang="id" title="Siklus wilson – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Ciclo_dei_supercontinenti" hreflang="it" lang="it" title="Ciclo dei supercontinenti – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Wilsoncyclus" hreflang="nl" lang="nl" title="Wilsoncyclus – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB" hreflang="ja" lang="ja" title="ウィルソンサイクル – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Wilsonsyklus" hreflang="no" lang="no" title="Wilsonsyklus – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Cykl_superkontynentalny" hreflang="pl" lang="pl" title="Cykl superkontynentalny – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB" hreflang="ru" lang="ru" title="Суперконтинентальный цикл – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/V%C3%BDvoj_kontinentov" hreflang="sk" lang="sk" title="Vývoj kontinentov – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%B6%85%E5%A4%A7%E9%99%86%E6%97%8B%E5%9B%9E" hreflang="zh" lang="zh" title="超大陆旋回 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q955317#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 October 2017, at 17:28.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Supercontinent_cycle&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"3.742","ppvisitednodes":{"value":2338,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89496,"limit":2097152},"templateargumentsize":{"value":6256,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  307.549      1 -total"," 29.70%   91.340      1 Template:Reflist"," 22.83%   70.204     11 Template:Cite_journal"," 21.09%   64.874      5 Template:Navbox"," 17.12%   52.653      2 Template:Val"," 16.34%   50.258      1 Template:Continents_of_the_world"," 11.60%   35.672      1 Template:Unreferenced_section"," 10.40%   31.994      2 Template:Ambox"," 10.09%   31.021      1 Template:Unreferenced","  8.27%   25.441      4 Template:Navbox_with_columns"]},"scribunto":{"limitreport-timeusage":{"value":"0.140","limit":"10.000"},"limitreport-memusage":{"value":6034926,"limit":52428800}},"cachereport":{"origin":"mw1314","timestamp":"20171031172822","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

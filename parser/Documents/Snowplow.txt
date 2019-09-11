@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Snowplow - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Snowplow","wgTitle":"Snowplow","wgCurRevisionId":806933471,"wgRevisionId":806933471,"wgArticleId":1350089,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","CS1 errors: external links","Articles needing additional references from April 2013","All articles needing additional references","Articles with limited geographic scope from December 2012","North America-centric","Commons category with local link different than on Wikidata","Articles containing video clips","Inclement weather management","Snow ploughs","Land vehicles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Snowplow","wgRelevantArticleId":1350089,"wgRequestId":"Wf5EzgpAMEwAAGB0OzgAAABA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q14976","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TowPLow_front_view2.JPG/1200px-TowPLow_front_view2.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Snowplow" rel="alternate"/>
+<link href="/w/index.php?title=Snowplow&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Snowplow&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Snowplow" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Snowplow rootpage-Snowplow vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Snowplow</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Snowplow&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Snowplow" title="Talk:Snowplow">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Snowplow&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Globe icon." data-file-height="290" data-file-width="350" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">The examples and perspective in this article <b>deal primarily with North America and do not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. <span class="hide-when-compact">You may <a class="external text" href="//en.wikipedia.org/w/index.php?title=Snowplow&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Snowplow" title="Talk:Snowplow">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span> <small><i>(December 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="hatnote navigation-not-searchable" role="note">For the skiing turn, see <a href="/wiki/Snowplough_turn" title="Snowplough turn">snowplough turn</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:TowPLow_front_view2.JPG"><img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TowPLow_front_view2.JPG/220px-TowPLow_front_view2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TowPLow_front_view2.JPG/330px-TowPLow_front_view2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TowPLow_front_view2.JPG/440px-TowPLow_front_view2.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:TowPLow_front_view2.JPG" title="Enlarge"></a></div>
+TowPlow and trucks on a <a href="/wiki/Missouri" title="Missouri">Missouri</a> rural Interstate</div>
+</div>
+</div>
+<p>A <b>snowplow</b> (also <b>snow plow</b>, <b>snowplough</b> or <b>snow plough</b>) is a device intended for mounting on a vehicle, used for <a href="/wiki/Snow_removal" title="Snow removal">removing snow and ice</a> from outdoor surfaces, typically those serving <a href="/wiki/Transport" title="Transport">transportation</a> purposes. Although this term is often used to refer to vehicles mounting such devices, more accurately they are known as <a href="/wiki/Winter_service_vehicle" title="Winter service vehicle">winter service vehicles</a>, especially in areas that regularly receive large amounts of snow every year, or in specific environments such as airfields. In other cases, <a href="/wiki/Pickup_truck" title="Pickup truck">pickup trucks</a> and <a href="/wiki/Loader_(equipment)" title="Loader (equipment)">front end loaders</a> are outfitted with attachments to fulfill this purpose. Some regions that do not frequently see snow may use <a href="/wiki/Grader" title="Grader">graders</a> to remove compacted snow and ice off the streets. Snowplows can also be mounted on rail cars or locomotives to clear railway tracks.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Usage"><span class="tocnumber">1</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Railway_snowplows"><span class="tocnumber">3</span> <span class="toctext">Railway snowplows</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowplow&amp;action=edit&amp;section=1" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sidewalk_plow.JPG"><img alt="" class="thumbimage" data-file-height="828" data-file-width="1170" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sidewalk_plow.JPG/220px-Sidewalk_plow.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sidewalk_plow.JPG/330px-Sidewalk_plow.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sidewalk_plow.JPG/440px-Sidewalk_plow.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sidewalk_plow.JPG" title="Enlarge"></a></div>
+A small sidewalk clearing plow in <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, Canada</div>
+</div>
+</div>
+<p>A snowplow works by using a blade to push snow to the side to clear it from a surface. Modern plows may include technology to make it easier to perform the work and stay on the road. These include <a href="/wiki/Global_Positioning_System" title="Global Positioning System">Global Positioning System</a> receivers, <a href="/wiki/Head-up_display" title="Head-up display">head-up displays</a> and <a href="/wiki/Infrared" title="Infrared">infrared</a> cameras.</p>
+<p>Large custom snowplows are commonly used at major airports in <a href="/wiki/North_America" title="North America">North America</a>. These plows have oversized blades and additional equipment like a rotating sweeper broom (sometimes called jetblade) and blowers at the rear of the plow.</p>
+<p>For sidewalks and narrow lanes small tractor plows (tracked or wheeled) are often used within Canada and the United States.</p>
+<p>When snowfall accumulates above a certain height, snowplow operators may be seen clearing the main arteries first (designated as <i>snow routes</i>), in some cases for the exclusive use of emergency vehicles.</p>
+<p>Underbody scrapers are sometimes mounted on vehicles in residential and urban settings, operating on principles similar to a road grader, but allowing greater weights and speed along with the carriage of a <a class="mw-redirect" href="/wiki/Gritter" title="Gritter">road treatment applicator</a>.</p>
+<p>Newer technology has allowed the use of <a class="mw-redirect" href="/wiki/Articulated" title="Articulated">articulated</a> plow systems which can clear multiple <a class="mw-redirect" href="/wiki/Divided_highway" title="Divided highway">divided highway</a> lanes simultaneously; jurisdictions adopting this technology include the provinces of <a href="/wiki/Alberta" title="Alberta">Alberta</a>, <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a>, <a href="/wiki/New_Brunswick" title="New Brunswick">New Brunswick</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a> and <a href="/wiki/Quebec" title="Quebec">Quebec</a> in Canada,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> along with 16 states (<a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/Indiana" title="Indiana">Indiana</a>, <a href="/wiki/Kansas" title="Kansas">Kansas</a>, <a href="/wiki/Maine" title="Maine">Maine</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, <a href="/wiki/Michigan" title="Michigan">Michigan</a>, <a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>, <a href="/wiki/Missouri" title="Missouri">Missouri</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, <a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a>, <a href="/wiki/Ohio" title="Ohio">Ohio</a>, <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, <a href="/wiki/Tennessee" title="Tennessee">Tennessee</a>, <a href="/wiki/Utah" title="Utah">Utah</a> and <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>) in the <a class="mw-redirect" href="/wiki/US" title="US">US</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowplow&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sn%C3%B6plog_1909.jpg"><img alt="" class="thumbimage" data-file-height="594" data-file-width="800" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sn%C3%B6plog_1909.jpg/220px-Sn%C3%B6plog_1909.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sn%C3%B6plog_1909.jpg/330px-Sn%C3%B6plog_1909.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sn%C3%B6plog_1909.jpg/440px-Sn%C3%B6plog_1909.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sn%C3%B6plog_1909.jpg" title="Enlarge"></a></div>
+Snowplows in Sweden in 1909</div>
+</div>
+</div>
+<p>The first snow plows were horse-drawn wedge-plows made of wood. With the advent of the automobile, a number of inventors set about to improve existing snow plows. In the US, the "snow-clearer" is said to have been patented as early as the 1840s,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> for railways. The first snow plow ever built specifically for use with motor equipment was in 1913. It was manufactured by Good Roads Machinery in Kennett Square, PA. and was designed to meet the exacting requirements outlined by engineers of the New York City Street Cleaning Bureau.<sup class="reference" id="cite_ref-NYC_municipal_archives_7-0"><a href="#cite_note-NYC_municipal_archives-7">[7]</a></sup> Good Roads is therefore unofficially credited as the originator of the modern snow plow, though their horse drawn steel blade road graders were used to clear roads of snow as early as the company's founding in 1878 under their original name American Road Machinery.<sup class="reference" id="cite_ref-HCEA_8-0"><a href="#cite_note-HCEA-8">[8]</a></sup> Good Roads patented the first four-wheel grader in 1889 thus making it the first pull grading apparatus patented in the United States.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Unlike most early snow plow manufacturers, Good Roads continues to manufacture snow removal equipment today under the name Good Roads Godwin, now located in Dunn, North Carolina. In the early 1920s Good Roads often advertised in The American City magazine that "...three out of every four snow plows in use throughout the whole United States are Good Roads Champions." By the mid-1920s Good Roads was manufacturing snow plows of various shapes and sizes for use on a wide variety of motorized equipment. Other snow plow manufactures began to follow suit as motorized plows were proven more efficient than other methods of snow removal.</p>
+<p>In 1923, the brothers Hans and Even Øveraasen of Norway constructed an early snowplow for use on cars. This proved to be the start of a tradition in snow-clearing equipment for roads, railways<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> and airports, as well as the foundation of the company Øveraasen Snow Removal Systems. Carl Frink of <a href="/wiki/Clayton,_New_York" title="Clayton, New York">Clayton, New York</a>, USA was also an early manufacturer of automobile-mounted snowplows. His company, Frink Snowplows, now <a class="new" href="/w/index.php?title=Frink-America&amp;action=edit&amp;redlink=1" title="Frink-America (page does not exist)">Frink-America</a>, was founded by some accounts as early as 1920.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Today snow plows are produced by numerous companies around the world and available for different kinds of vehicles such as service trucks, pickup trucks, SUVs and ATVs. They are installed using model specific or universal hardware and mount to the frame of the vehicle to ensure durable connection. There are manual, power and hydraulic operating snow plows. All necessary mounting hardware usually comes in set with a plow. Snow plow blades are available in various sizes depending on a vehicle type. Service trucks usually use a blade sized 96 in (2.4 m) and more. Common blade size for pickup trucks and full size SUVs is 78–96 in (2.0–2.4 m). Smaller ATV snow plow blades are 48–78 in (1.2–2.0 m) wide.</p>
+<h2><span class="mw-headline" id="Railway_snowplows">Railway snowplows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowplow&amp;action=edit&amp;section=3" title="Edit section: Railway snowplows">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Wedge_Plow" title="Wedge Plow">Wedge Plow</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snow_plough_train_II.JPG"><img alt="" class="thumbimage" data-file-height="1920" data-file-width="2560" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Snow_plough_train_II.JPG/220px-Snow_plough_train_II.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Snow_plough_train_II.JPG/330px-Snow_plough_train_II.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Snow_plough_train_II.JPG/440px-Snow_plough_train_II.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snow_plough_train_II.JPG" title="Enlarge"></a></div>
+A small <a class="mw-redirect" href="/wiki/Wedge_(mechanics)" title="Wedge (mechanics)">wedge</a> plow mounted on a passenger train in <a href="/wiki/Lower_Austria" title="Lower Austria">Lower Austria</a></div>
+</div>
+</div>
+<p>In many countries, railway locomotives have small snowplows permanently attached to their <a href="/wiki/Bogie" title="Bogie">bogies</a>, which also serve as <a href="/wiki/Pilot_(locomotive)" title="Pilot (locomotive)">pilots</a>. With others, the snowplow forms part of the obstacle deflector below the bufferbeam. Bolt-on versions also exist, and these attach to the bufferbeam or front coupler. However, larger snowplows exist, which tend to be conversions rather than purpose-built vehicles. Steam locomotive <a href="/wiki/Tender_(rail)" title="Tender (rail)">tenders</a>, large diesel locomotive bogies and various freight vehicles have been used, with the snowplow body mounted on the original frames. They are one-ended, with conventional <a href="/wiki/Railway_coupling" title="Railway coupling">coupling equipment</a> on the inner end. In Canada purpose built snowplow cars (based on a box car with caboose cab located above and behind the blade) are in use in areas where there is a significant snow fall during winter periods (especially in Western Canada, Newfoundland and Northern Ontario). These cars were influenced by the <i>Russell Plow</i> from the United States and used in Canada in the 1880s.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Most of the Russell type plows have been retired for smaller custom built railplow or snow blades attached to hopper cars or locomotives.</p>
+<p>Conventional operation may see one or two locomotives running together with a snowplow at either end. This enables a snow clearance train to reverse direction quickly if it gets stuck. Alternatively, a single locomotive with bogie plows can act as a self-propelled snowplow by running light engine.</p>
+<p><a class="mw-redirect" href="/wiki/VIA_Rail" title="VIA Rail">VIA Rail</a> has employed the use of snow blade attached to the front of some locomotives to plow as the railcar moves along the track and can handle minimal amounts of snow.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Self-propelled on-track steel and rubber tired "Hy-Rail" equipment can also be employed to remove snow from railroad tracks. The Pettibone Speed Swing loader and similar machines, both with and without hyrail wheels can be fitted with a large capacity snow bucket or a wedge plow to clear the tracks. Ballast regulators, machines designed to shape the profile of the crushed stone ballast that anchors the track in place, can be used without modification or refitted with purpose built snow blades, blowers and wings to clear snow from the right of way.</p>
+<p>Locomotive propelled Jordan Ditcher/Spreaders are still sometimes used to plow especially deep snow in the US on the former Wisconsin Central railroad. These machines carry large main plows and hydraulic or air powered articulating wings to push snow far away from the tracks, sometimes past the next adjacent track to facilitate clearing snow from yards and sidings. These machines can also used to create ditches and plow the tracks clear of loose material during maintenance operations. Russell Plows are still in service at some locations, with large front wedge plows and shorter hinged air powered wings only suitable for plowing snow.</p>
+<p><br/></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowplow&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Grader" title="Grader">Grader</a></li>
+<li><a class="mw-disambig" href="/wiki/Plough_(disambiguation)" title="Plough (disambiguation)">Plow (disambiguation)</a></li>
+<li><a href="/wiki/Rotary_snowplow" title="Rotary snowplow">Rotary snowplow</a></li>
+<li><a href="/wiki/Snow_blower" title="Snow blower">Snow blower</a></li>
+<li><a href="/wiki/Snow_emergency" title="Snow emergency">Snow emergency</a></li>
+<li><a href="/wiki/Snow_pusher" title="Snow pusher">Snow pusher</a></li>
+<li><a class="mw-redirect" href="/wiki/Wedge_Plow" title="Wedge Plow">Wedge Plow</a></li>
+<li><a href="/wiki/Winter_service_vehicle" title="Winter service vehicle">Winter service vehicle</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowplow&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Rml/Rgl (2012-04-11). <a class="external text" href="http://www.towplow.com/12.html" rel="nofollow">"Canadian users?"</a>. towplow.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.au=Rml%2FRgl&amp;rft.btitle=Canadian+users%3F&amp;rft.date=2012-04-11&amp;rft.genre=unknown&amp;rft.pub=towplow.com&amp;rft_id=http%3A%2F%2Fwww.towplow.com%2F12.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">[<a class="external free" href="http://portal.ct.gov/en/Office-of-the-Governor/Press-Room/Press-Releases/2016/11-2016/Gov-Malloy-and-DOT-Debut-New-Snow-Plows-That-Can-Clear-Two-Highway-Lanes-in-One-Single-Pass" rel="nofollow">http://portal.ct.gov/en/Office-of-the-Governor/Press-Room/Press-Releases/2016/11-2016/Gov-Malloy-and-DOT-Debut-New-Snow-Plows-That-Can-Clear-Two-Highway-Lanes-in-One-Single-Pass</a> Gov. Malloy and Dept. of Transportation Debut New Snow Plows That Can Clear Two Highway Lanes in One Single Pass, The Office of Governor Dannel P. Malloy, Nov 29, 2016.]</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.modot.mo.gov/newsandinfo/District0News.shtml?action=displaySSI&amp;newsId=13566" rel="nofollow">"MoDOT News Release"</a>. Modot.mo.gov. 2007-10-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.btitle=MoDOT+News+Release&amp;rft.date=2007-10-23&amp;rft.genre=unknown&amp;rft.pub=Modot.mo.gov&amp;rft_id=http%3A%2F%2Fwww.modot.mo.gov%2Fnewsandinfo%2FDistrict0News.shtml%3Faction%3DdisplaySSI%26newsId%3D13566&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.iowadot.gov/maintenance/TowPlows.html" rel="nofollow">http://www.iowadot.gov/maintenance/TowPlows.html</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external free" href="https://blog.mass.gov/transportation/massdot-highway/mega-plows-ready-for-snow-ice-season/" rel="nofollow">https://blog.mass.gov/transportation/massdot-highway/mega-plows-ready-for-snow-ice-season/</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://nsidc.org/cryosphere/snow/removal.html" rel="nofollow">"Snow Removal"</a>. <i>nsidc.org</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.atitle=Snow+Removal&amp;rft.genre=unknown&amp;rft.jtitle=nsidc.org&amp;rft_id=https%3A%2F%2Fnsidc.org%2Fcryosphere%2Fsnow%2Fremoval.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NYC_municipal_archives-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYC_municipal_archives_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">New York City Department of Sanitation Arc. 1881 -1931. <i>Street Clearing Bureau</i>. NYC. pp. book 6 page 58.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.au=New+York+City+Department+of+Sanitation+Arc.+1881+-1931&amp;rft.btitle=Street+Clearing+Bureau&amp;rft.genre=book&amp;rft.pages=book+6+page+58&amp;rft.pub=NYC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-HCEA-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-HCEA_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><i>Historical Construction Equipment Association</i>. 1/101/331 (American Road Machine Company 1893 - 1895): 2.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.genre=article&amp;rft.issue=American+Road+Machine+Company+1893+-+1895&amp;rft.jtitle=Historical+Construction+Equipment+Association&amp;rft.pages=2&amp;rft.volume=1%2F101%2F331&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Berry, Tom. <a class="external text" href="http://www.constructionequipment.com/iron-works-design-pull-grader" rel="nofollow">"Iron Works: The Design of a Pull Grader"</a>. constructionequipment.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.aufirst=Tom&amp;rft.aulast=Berry&amp;rft.btitle=Iron+Works%3A+The+Design+of+a+Pull+Grader&amp;rft.genre=unknown&amp;rft.pub=constructionequipment.com&amp;rft_id=http%3A%2F%2Fwww.constructionequipment.com%2Firon-works-design-pull-grader&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.railfame.ca/sec_ind/technology/en_2002_RotarySnowPlow.asp" rel="nofollow">"Canadian Railway Hall of Fame -"</a>. <i>Rotary snow plow (2002)</i>. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.atitle=Canadian+Railway+Hall+of+Fame+-&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft.jtitle=Rotary+snow+plow+%282002%29&amp;rft_id=http%3A%2F%2Fwww.railfame.ca%2Fsec_ind%2Ftechnology%2Fen_2002_RotarySnowPlow.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Dysgraphyk; Aitken (1 February 2008). <a class="external text" href="http://www.scot-rail.co.uk/page/Snow+Ploughs" rel="nofollow">"scot-rail.co.uk » Snow ploughs"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.au=Aitken&amp;rft.au=Dysgraphyk&amp;rft.btitle=scot-rail.co.uk+%26%23187%3B+Snow+ploughs&amp;rft.date=2008-02-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scot-rail.co.uk%2Fpage%2FSnow%2BPloughs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://findarticles.com/p/articles/mi_qa3718/is_200006/ai_n8917320" rel="nofollow">"After 80 Years, Clayton Plow Plant Shuts Down"</a>. <i>CNY Business Journal</i>. 2000.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.atitle=After+80+Years%2C+Clayton+Plow+Plant+Shuts+Down&amp;rft.date=2000&amp;rft.genre=article&amp;rft.jtitle=CNY+Business+Journal&amp;rft_id=http%3A%2F%2Ffindarticles.com%2Fp%2Farticles%2Fmi_qa3718%2Fis_200006%2Fai_n8917320&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.google.ca/imgres?imgurl=http://members.kos.net/sdgagnon/sp06.jpg&amp;imgrefurl=http://members.kos.net/sdgagnon/sp.html&amp;usg=__uYf0p8o1Q2sSEjXddDgodh7BePI=&amp;h=465&amp;w=549&amp;sz=63&amp;hl=en&amp;start=7&amp;zoom=1&amp;tbnid=avjOqguxqS4HzM:&amp;tbnh=113&amp;tbnw=133&amp;ei=XpywT5jsLerB0AHr06HEDA&amp;prev=/search%3Fq%3DCNR%2Bsnowplows%26um%3D1%26hl%3Den%26client%3Dfirefox-a%26hs%3DMIp%26sa%3DN%26rls%3Dorg.mozilla:en-US:official%26tbm%3Disch&amp;um=1&amp;itbs=1" rel="nofollow">"Google Image Result for http://members.kos.net/sdgagnon/sp06.jpg"</a>. Google.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.btitle=Google+Image+Result+for+http%3A%2F%2Fmembers.kos.net%2Fsdgagnon%2Fsp06.jpg&amp;rft.genre=unknown&amp;rft.pub=Google.ca&amp;rft_id=http%3A%2F%2Fwww.google.ca%2Fimgres%3Fimgurl%3Dhttp%3A%2F%2Fmembers.kos.net%2Fsdgagnon%2Fsp06.jpg%26imgrefurl%3Dhttp%3A%2F%2Fmembers.kos.net%2Fsdgagnon%2Fsp.html%26usg%3D__uYf0p8o1Q2sSEjXddDgodh7BePI%3D%26h%3D465%26w%3D549%26sz%3D63%26hl%3Den%26start%3D7%26zoom%3D1%26tbnid%3DavjOqguxqS4HzM%3A%26tbnh%3D113%26tbnw%3D133%26ei%3DXpywT5jsLerB0AHr06HEDA%26prev%3D%2Fsearch%253Fq%253DCNR%252Bsnowplows%2526um%253D1%2526hl%253Den%2526client%253Dfirefox-a%2526hs%253DMIp%2526sa%253DN%2526rls%253Dorg.mozilla%3Aen-US%3Aofficial%2526tbm%253Disch%26um%3D1%26itbs%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">External link in <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.canadianrailwayobservations.com/croarchives/aug2012via16.htm" rel="nofollow">"VIA Rail Canada"</a>. Canadian Railway Observations<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowplow&amp;rft.btitle=VIA+Rail+Canada&amp;rft.genre=unknown&amp;rft.pub=Canadian+Railway+Observations&amp;rft_id=http%3A%2F%2Fwww.canadianrailwayobservations.com%2Fcroarchives%2Faug2012via16.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowplow&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:snowplows" title="commons:Category:snowplows">snowplows</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Digital_Public_Library_of_America" title="Digital Public Library of America">Digital Public Library of America</a>. <a class="external text" href="http://dp.la/search?page_size=100&amp;subject=Snowplows" rel="nofollow">Items related to snowplows</a>, various dates</li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=SCgf56POaz0" rel="nofollow">Seven minute video about the history of snowplows in the U.S. state of Maine</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1281
+Cached time: 20171025004731
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.312 seconds
+Preprocessor visited node count: 974/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42184/2097152 bytes
+Template argument size: 6301/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 4.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.487      1 -total
+ 44.67%  123.519      3 Template:Ambox
+ 35.39%   97.855      1 Template:Multiple_issues
+ 31.28%   86.498      1 Template:Reflist
+ 21.31%   58.930      8 Template:Cite_web
+ 14.00%   38.707      3 Template:Convert
+ 11.53%   31.889      1 Template:Refimprove
+  8.55%   23.647      1 Template:Globalize/North_America
+  8.54%   23.624      1 Template:Commons_category
+  7.62%   21.070      1 Template:Globalize
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1350089-0!canonical and timestamp 20171025004731 and revision id 806933471
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Snowplow&amp;oldid=806933471">https://en.wikipedia.org/w/index.php?title=Snowplow&amp;oldid=806933471</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Inclement_weather_management" title="Category:Inclement weather management">Inclement weather management</a></li><li><a href="/wiki/Category:Snow_ploughs" title="Category:Snow ploughs">Snow ploughs</a></li><li><a href="/wiki/Category:Land_vehicles" title="Category:Land vehicles">Land vehicles</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2013" title="Category:Articles needing additional references from April 2013">Articles needing additional references from April 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_December_2012" title="Category:Articles with limited geographic scope from December 2012">Articles with limited geographic scope from December 2012</a></li><li><a href="/wiki/Category:North_America-centric" title="Category:North America-centric">North America-centric</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Snowplow" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Snowplow" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Snowplow" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Snowplow" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Snowplow">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Snowplow&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Snowplow&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Snowplow" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Snowplow" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Snowplow&amp;oldid=806933471" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Snowplow&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q14976" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Snowplow&amp;id=806933471" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Snowplow">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Snowplow&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Snowplow&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Snowplows" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%B3%D8%AD%D8%A9_%D8%AB%D9%84%D9%88%D8%AC" hreflang="ar" lang="ar" title="كاسحة ثلوج – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Sacanieu" hreflang="an" lang="an" title="Sacanieu – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%BD" hreflang="bg" lang="bg" title="Снегорин – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Llevaneu" hreflang="ca" lang="ca" title="Llevaneu – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sn%C4%9B%C5%BEn%C3%BD_pluh" hreflang="cs" lang="cs" title="Sněžný pluh – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Sneplov" hreflang="da" lang="da" title="Sneplov – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schneepflug" hreflang="de" lang="de" title="Schneepflug – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Quitanieves" hreflang="es" lang="es" title="Quitanieves – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Ne%C4%9Doplugilo" hreflang="eo" lang="eo" title="Neĝoplugilo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Elur-kentzeko_makina" hreflang="eu" lang="eu" title="Elur-kentzeko makina – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Chasse-neige" hreflang="fr" lang="fr" title="Chasse-neige – French">Français</a></li><li class="interlanguage-link interwiki-gd"><a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Crann-sneachda" hreflang="gd" lang="gd" title="Crann-sneachda – Scottish Gaelic">Gàidhlig</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%84%A4%EC%B0%A8" hreflang="ko" lang="ko" title="제설차 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Snje%C5%BEni_plug" hreflang="hr" lang="hr" title="Snježni plug – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Spazzaneve" hreflang="it" lang="it" title="Spazzaneve – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A4%D7%9C%D7%A1%D7%AA_%D7%A9%D7%9C%D7%92" hreflang="he" lang="he" title="מפלסת שלג – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sneeuwploeg" hreflang="nl" lang="nl" title="Sneeuwploeg – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A6" hreflang="ja" lang="ja" title="スノープラウ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sn%C3%B8plog" hreflang="no" lang="no" title="Snøplog – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Sn%C3%B8plog" hreflang="nn" lang="nn" title="Snøplog – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/P%C5%82ug_%C5%9Bnie%C5%BCny" hreflang="pl" lang="pl" title="Pług śnieżny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Limpa-neves" hreflang="pt" lang="pt" title="Limpa-neves – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Plug_de_z%C4%83pad%C4%83" hreflang="ro" lang="ro" title="Plug de zăpadă – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%83%D0%B6%D0%BD%D1%8B%D0%B9_%D1%81%D0%BD%D0%B5%D0%B3%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" hreflang="ru" lang="ru" title="Плужный снегоочиститель – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Sne%C5%BEn%C3%BD_pluh" hreflang="sk" lang="sk" title="Snežný pluh – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Sne%C5%BEni_plug" hreflang="sl" lang="sl" title="Snežni plug – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Lumiaura" hreflang="fi" lang="fi" title="Lumiaura – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sn%C3%B6plog" hreflang="sv" lang="sv" title="Snöplog – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%89%AB%E9%9B%AA%E6%9C%BA" hreflang="zh" lang="zh" title="扫雪机 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q14976#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 October 2017, at 00:47.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Snowplow&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.312","ppvisitednodes":{"value":974,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42184,"limit":2097152},"templateargumentsize":{"value":6301,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  276.487      1 -total"," 44.67%  123.519      3 Template:Ambox"," 35.39%   97.855      1 Template:Multiple_issues"," 31.28%   86.498      1 Template:Reflist"," 21.31%   58.930      8 Template:Cite_web"," 14.00%   38.707      3 Template:Convert"," 11.53%   31.889      1 Template:Refimprove","  8.55%   23.647      1 Template:Globalize/North_America","  8.54%   23.624      1 Template:Commons_category","  7.62%   21.070      1 Template:Globalize"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":5183708,"limit":52428800}},"cachereport":{"origin":"mw1281","timestamp":"20171025004731","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1241"});});</script>
+</body>
+</html>

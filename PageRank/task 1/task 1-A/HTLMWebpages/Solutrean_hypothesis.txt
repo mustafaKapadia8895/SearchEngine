@@ -1,0 +1,1165 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Solutrean hypothesis - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solutrean_hypothesis","wgTitle":"Solutrean hypothesis","wgCurRevisionId":801832429,"wgRevisionId":801832429,"wgArticleId":8413101,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Pages using citations with accessdate and no URL","CS1 maint: Multiple names: authors list","Articles lacking in-text citations from April 2016","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from February 2014","Archaeological theory","Pre-Columbian trans-oceanic contact","Clovis culture","Stone Age Europe","Upper Paleolithic"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solutrean_hypothesis","wgRelevantArticleId":8413101,"wgRequestId":"WgH1jgpAAEQAAJqgeHwAAACT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2602605","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/f1/Arch1_clovispoints2.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solutrean_hypothesis" rel="alternate"/>
+<link href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Solutrean_hypothesis" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solutrean_hypothesis rootpage-Solutrean_hypothesis vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Solutrean hypothesis</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Arch1_clovispoints2.jpg"><img alt="" class="thumbimage" data-file-height="192" data-file-width="300" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Arch1_clovispoints2.jpg/220px-Arch1_clovispoints2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/f/f1/Arch1_clovispoints2.jpg 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Arch1_clovispoints2.jpg" title="Enlarge"></a></div>
+Examples of Clovis and other Paleoindian point forms, markers of archaeological cultures in North America</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg"><img alt="" class="thumbimage" data-file-height="2571" data-file-width="2029" height="279" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg/220px-Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg/330px-Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg/440px-Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Solutrean_tools_22000_17000_Crot_du_Charnier_Solutre_Pouilly_Saone_et_Loire_France.jpg" title="Enlarge"></a></div>
+Solutrean tools, 22,000–17,000 <a href="/wiki/Before_Present" title="Before Present">BP</a>, Crôt du Charnier, <a href="/wiki/Solutr%C3%A9-Pouilly" title="Solutré-Pouilly">Solutré-Pouilly</a>, <a href="/wiki/Sa%C3%B4ne-et-Loire" title="Saône-et-Loire">Saône-et-Loire</a>, France</div>
+</div>
+</div>
+<p>The <b>Solutrean hypothesis</b> about the <a href="/wiki/Settlement_of_the_Americas" title="Settlement of the Americas">settlement of the Americas</a> claims that people from <a href="/wiki/Europe" title="Europe">Europe</a> may have been among the earliest settlers of the <a href="/wiki/Americas" title="Americas">Americas</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Its notable recent proponents include <a href="/wiki/Dennis_Stanford" title="Dennis Stanford">Dennis Stanford</a> of the <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">Smithsonian Institution</a> and Bruce Bradley of the <a href="/wiki/University_of_Exeter" title="University of Exeter">University of Exeter</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> This <a href="/wiki/Hypothesis" title="Hypothesis">hypothesis</a> contrasts with the mainstream archaeological orthodoxy that the North American continent was first populated by people from <a href="/wiki/Asia" title="Asia">Asia</a>, either by the <a class="mw-redirect" href="/wiki/Bering_land_bridge" title="Bering land bridge">Bering land bridge</a> (i.e. <a href="/wiki/Beringia" title="Beringia">Beringia</a>) at least 13,500 years ago,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> or by maritime travel along the Pacific coast, or by both.</p>
+<p>According to the Solutrean hypothesis, people of the <a href="/wiki/Solutrean" title="Solutrean">Solutrean</a> culture, 21,000 to 17,000 years ago,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> in <a href="/wiki/Last_glacial_period" title="Last glacial period">Ice Age</a> Europe migrated to <a href="/wiki/North_America" title="North America">North America</a> by boat along the <a class="mw-redirect" href="/wiki/Pack_ice" title="Pack ice">pack ice</a> of the north Atlantic Ocean. They brought their <a href="/wiki/Lithic_technology" title="Lithic technology">methods of making stone tools</a> with them and provided the basis for the later (c. 13,000 years ago) <a href="/wiki/Clovis_culture" title="Clovis culture">Clovis</a> technology that spread throughout North America. The hypothesis is based on similarities between European Solutrean and Clovis lithic technologies.</p>
+<p>Supporters of the Solutrean hypothesis refer to recent archaeological finds such as those at <a href="/wiki/Cactus_Hill" title="Cactus Hill">Cactus Hill</a> in Virginia, <a href="/wiki/Meadowcroft_Rockshelter" title="Meadowcroft Rockshelter">Meadowcroft Rockshelter</a> in Pennsylvania, and Miles Point in Maryland as evidence of a transitional phase between Solutrean lithic technology and what later became Clovis technology.</p>
+<p>In 2009, anthropologist David J. Meltzer criticized the hypothesis, stating, "Few if any <a href="/wiki/Archaeology" title="Archaeology">archaeologists</a>—or, for that matter, <a class="mw-redirect" href="/wiki/Geneticists" title="Geneticists">geneticists</a>, <a href="/wiki/Linguistics" title="Linguistics">linguists</a>, or <a href="/wiki/Biological_anthropology" title="Biological anthropology">physical anthropologists</a>—take seriously the idea of a Solutrean <a href="/wiki/Colonization" title="Colonization">colonization</a> of America."<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Atlantic_crossing"><span class="tocnumber">2</span> <span class="toctext">Atlantic crossing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Genetic_research"><span class="tocnumber">3</span> <span class="toctext">Genetic research</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Challenges"><span class="tocnumber">4</span> <span class="toctext">Challenges</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Academic_journal_articles"><span class="tocnumber">6.1</span> <span class="toctext">Academic journal articles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=1" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solutrean culture was based in present-day <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Spain" title="Spain">Spain</a> and <a href="/wiki/Portugal" title="Portugal">Portugal</a>, from roughly 21,000 to 17,000 years ago. The manufacture of stone tools from this period is distinguished by <a class="mw-redirect" href="/wiki/Biface" title="Biface">bifacial</a>, percussion and pressure-flaked points. The Solutrean toolmaking industry disappeared from Europe around 17,000 years ago, replaced by the lithic technology of the <a href="/wiki/Magdalenian" title="Magdalenian">Magdalenian</a> culture.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup></p>
+<p>Clovis tools are characterized by a distinctive type of <a href="/wiki/Spear" title="Spear">spear</a> point, known as the <a href="/wiki/Clovis_point" title="Clovis point">Clovis point</a>. Solutrean and Clovis points do have common traits: the points are thin and bifacial, and both use the "outrepassé", or overshot flaking technique, that quickly reduces the thickness of a biface without reducing its width.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup> The Clovis point differs from the Solutrean in that some of the former have bifacial fluting, referring to the long groove carved into the bottom edge of a point to help attach it to the head of a spear. Bifacial fluting describes blades on which this feature appears on both its sides.</p>
+<p>Clovis toolmaking technology appears in the archaeological record in much of North America between 12,800 and 13,500 years ago. Older blades with this attribute have yet to be discovered from sites in either Asia or Alaska.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Atlantic_crossing">Atlantic crossing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=2" title="Edit section: Atlantic crossing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:CLIMAP.jpg"><img alt="" class="thumbimage" data-file-height="472" data-file-width="650" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/CLIMAP.jpg/220px-CLIMAP.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/CLIMAP.jpg/330px-CLIMAP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/CLIMAP.jpg/440px-CLIMAP.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:CLIMAP.jpg" title="Enlarge"></a></div>
+Water temperatures during the last glacial maximum, according to <a class="mw-redirect" href="/wiki/CLIMAP" title="CLIMAP">CLIMAP</a>.</div>
+</div>
+</div>
+<p>The Solutrean hypothesis theorizes that <a class="mw-redirect" href="/wiki/Ice_Age" title="Ice Age">Ice Age</a> Europeans may have crossed the North <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> along the edge of <a href="/wiki/Sea_ice" title="Sea ice">pack ice</a> that extended from the Atlantic coast of France to <a href="/wiki/North_America" title="North America">North America</a> during the <a class="mw-redirect" href="/wiki/Last_glacial_maximum" title="Last glacial maximum">last glacial maximum</a>. The model postulates early inhabitants may have made the crossing in small <a class="mw-redirect" href="/wiki/Boats" title="Boats">boats</a>, using skills similar to those of the modern <a href="/wiki/Inuit" title="Inuit">Inuit</a> people: hauling out on <a href="/wiki/Drift_ice" title="Drift ice">ice floes</a> at night; collecting fresh water from melting <a class="mw-redirect" href="/wiki/Icebergs" title="Icebergs">icebergs</a> or the first-frozen parts of <a href="/wiki/Sea_ice" title="Sea ice">sea ice</a>; hunting seals and fish for food; and using <a href="/wiki/Pinniped" title="Pinniped">seal</a> <a href="/wiki/Blubber" title="Blubber">blubber</a> as heating fuel. Among other evidence, they cite the discovery in the Solutrean toolkit of <a href="/wiki/Bone_tool" title="Bone tool">bone needles</a> used for sewing <a href="/wiki/Waterproofing" title="Waterproofing">waterproof</a> clothing from <a href="/wiki/Hide_(skin)" title="Hide (skin)">animal hides</a> similar to those still in use among modern <a href="/wiki/Inuit" title="Inuit">Inuit</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Genetic_research">Genetic research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=3" title="Edit section: Genetic research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Haplogroup_X_(mtDNA).PNG"><img alt="" class="thumbimage" data-file-height="426" data-file-width="835" height="112" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Haplogroup_X_%28mtDNA%29.PNG/220px-Haplogroup_X_%28mtDNA%29.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Haplogroup_X_%28mtDNA%29.PNG/330px-Haplogroup_X_%28mtDNA%29.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Haplogroup_X_%28mtDNA%29.PNG/440px-Haplogroup_X_%28mtDNA%29.PNG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Haplogroup_X_(mtDNA).PNG" title="Enlarge"></a></div>
+Distribution of haplogroup X, strongest in Anatolia, Europe, and the North-Eastern coast of America.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:362px;"><a class="image" href="/wiki/File:Haplogroup_Q_(Y-DNA).PNG"><img alt="" class="thumbimage" data-file-height="426" data-file-width="831" height="185" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Haplogroup_Q_%28Y-DNA%29.PNG/360px-Haplogroup_Q_%28Y-DNA%29.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Haplogroup_Q_%28Y-DNA%29.PNG/540px-Haplogroup_Q_%28Y-DNA%29.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Haplogroup_Q_%28Y-DNA%29.PNG/720px-Haplogroup_Q_%28Y-DNA%29.PNG 2x" width="360"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Haplogroup_Q_(Y-DNA).PNG" title="Enlarge"></a></div>
+Haplogroup Q is the most common haplogroup among American Indian and some indigenous Siberian populations.<sup class="reference" id="cite_ref-Athapaskan_9-0"><a href="#cite_note-Athapaskan-9">[9]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Haplogroup_R_(Y-DNA).PNG"><img alt="" class="thumbimage" data-file-height="426" data-file-width="828" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haplogroup_R_%28Y-DNA%29.PNG/350px-Haplogroup_R_%28Y-DNA%29.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haplogroup_R_%28Y-DNA%29.PNG/525px-Haplogroup_R_%28Y-DNA%29.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haplogroup_R_%28Y-DNA%29.PNG/700px-Haplogroup_R_%28Y-DNA%29.PNG 2x" width="350"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Haplogroup_R_(Y-DNA).PNG" title="Enlarge"></a></div>
+Spread of haplogroup R1 – haplogroup R1 is the second most common haplogroup among American Indians.</div>
+</div>
+</div>
+<p>Supporters of the Solutrean hypothesis had pointed to the presence of <a href="/wiki/Haplogroup_X_(mtDNA)" title="Haplogroup X (mtDNA)">haplogroup X</a>, the global distribution of which is strongest in Anatolia and the northeast of America, a pattern they argue is consistent with their position. Michael Brown in a 1998 article identified this as evidence of a possible Caucasian founder population of early Americans spreading from the northeast coast.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<p>However, a 2008 article in the <i><a href="/wiki/American_Journal_of_Human_Genetics" title="American Journal of Human Genetics">American Journal of Human Genetics</a></i> by researchers in <a href="/wiki/Brazil" title="Brazil">Brazil</a> took up the argument against the Solutrean hypothesis. "Our results strongly support the hypothesis that haplogroup X, together with the other four main mtDNA haplogroups, was part of the gene pool of a single Native American founding population; therefore they do not support models that propose haplogroup-independent migrations, such as the migration from Europe posed by the Solutrean hypothesis."<sup class="reference" id="cite_ref-Kashani_11-0"><a href="#cite_note-Kashani-11">[11]</a></sup></p>
+<p>An article in the January 2012 issue of the <i><a href="/wiki/American_Journal_of_Physical_Anthropology" title="American Journal of Physical Anthropology">American Journal of Physical Anthropology</a></i> tends to argue against the Solutrean theory on genetic grounds. Researchers in <a href="/wiki/Italy" title="Italy">Italy</a> argued that the distinctively Asian C4c and the disputed X2a had "parallel genetic histories." The abstract of that article also states that "[t]he similarities in ages and geographical distributions for C4c and the previously analyzed X2a lineage provide support to the scenario of a dual origin for Paleo-Indians. Taking into account that C4c is deeply rooted in the Asian portion of the mtDNA phylogeny and is indubitably of Asian origin, the finding that C4c and X2a are characterized by parallel genetic histories definitively dismisses the controversial hypothesis of an Atlantic glacial entry route into North America."<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>A 2014 genetic analysis published in the journal <a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a> reported that the DNA from a 24,000-year-old skeleton excavated in Central <a href="/wiki/Siberia" title="Siberia">Siberia</a> provided mitochondrial, Y chromosomal, and autosomal genetic evidence that suggests 14 to 38% of Native American ancestry originates from an ancient Western Eurasian population. The <a class="mw-redirect" href="/wiki/Mal%27ta-Buret%27_culture" title="Mal'ta-Buret' culture">Mal'ta</a> era skeleton's mitochondrial genome belonged to mtDNA haplogroup U, which has also been found at high frequencies among Mesolithic European hunter-gatherers. The authors state that their findings have four implications, the third being that "such an easterly presence in Asia of a population related to contemporary western Eurasians provides a possibility that non-east Asian cranial characteristics of the First Americans derived from the Old World via migration through Beringia, rather than by a trans-Atlantic voyage from Iberia as proposed by the Solutrean hypothesis."<sup class="reference" id="cite_ref-raghavanetal2014_13-0"><a href="#cite_note-raghavanetal2014-13">[13]</a></sup></p>
+<p>Mal'ta boy had YDNA haplogroup R1*, which is common to both Europeans and Native Americans. <a class="mw-redirect" href="/wiki/Haplogroup_R1_(Y-DNA)" title="Haplogroup R1 (Y-DNA)">Haplogroup R1 (Y-DNA)</a> is the second most predominant Y haplotype found among indigenous Amerindians after <b>Q</b> (Y-DNA).<sup class="reference" id="cite_ref-Athapaskan_9-1"><a href="#cite_note-Athapaskan-9">[9]</a></sup> The distribution of R1 is believed associated with the re-settlement of Eurasia following the <a href="/wiki/Wisconsin_glaciation" title="Wisconsin glaciation">last glacial maximum</a>. One theory put forth is that it entered the Americas with the initial founding population.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> A second theory is that it was introduced during European colonization.<sup class="reference" id="cite_ref-Athapaskan_9-2"><a href="#cite_note-Athapaskan-9">[9]</a></sup> R1 is very common throughout all of Eurasia except <a href="/wiki/East_Asia" title="East Asia">East Asia</a> and <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>. <b>R1 (M173)</b> is found predominantly in North American groups like the <a href="/wiki/Ojibwe" title="Ojibwe">Ojibwe</a> (79%), <a href="/wiki/Chipewyan" title="Chipewyan">Chipewyan</a> (62%), <a href="/wiki/Seminole" title="Seminole">Seminole</a> (50%), <a href="/wiki/Cherokee" title="Cherokee">Cherokee</a> (47%), <a class="mw-redirect" href="/wiki/Dogrib_people" title="Dogrib people">Dogrib</a> (40%) and <a href="/wiki/Tohono_O%27odham" title="Tohono O'odham">Tohono O'odham</a> (Papago) (38%).<sup class="reference" id="cite_ref-Athapaskan_9-3"><a href="#cite_note-Athapaskan-9">[9]</a></sup></p>
+<p>In 2014, the autosomal DNA of a 12,500+-year-old infant from Montana was sequenced.<sup class="reference" id="cite_ref-rasmussenetal2014_15-0"><a href="#cite_note-rasmussenetal2014-15">[15]</a></sup> The DNA was taken from a skeleton referred to as Anzick-1, found in close association with several Clovis artifacts. Comparisons showed strong affinities with DNA from Siberian sites, and the report stated that "In agreement with previous archaeological and genetic studies our genome analysis refutes the possibility that Clovis originated via a European (Solutrean) migration to the Americas." The DNA also showed strong affinities with all existing Native American populations, which indicated that all of them derive from an ancient population that lived in or near Siberia, the Upper Palaeolithic <a class="mw-redirect" href="/wiki/Mal%27ta" title="Mal'ta">Mal'ta</a> population.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> Anzick-1 Y-haplogroup is Q.</p>
+<p>A 2015 report re-evaluated the DNA evidence. Stating the possibility that evidence might be uncovered that supports a trans-Atlantic migration, they state that "X2a has not been found anywhere in Eurasia, and phylogeography gives us no compelling reason to think it is more likely to come from Europe than from Siberia. Furthermore, analysis of the complete genome of <a href="/wiki/Kennewick_Man" title="Kennewick Man">Kennewick Man</a>, who belongs to the most basal lineage of X2a yet identified, gives no indication of recent European ancestry and moves the location of the deepest branch of X2a to the West Coast, consistent with X2a belonging to the same ancestral population as the other founder mitochondrial haplogroups. Nor have any high-resolution studies of genome-wide data from Native American populations yielded any evidence of Pleistocene European ancestry or trans-Atlantic gene flow."<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Challenges">Challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=4" title="Edit section: Challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Solutrean hypothesis is challenged by large gaps in time between the Clovis and Solutrean eras, a lack of evidence of Solutrean seafaring, lack of specific Solutrean features and tools in Clovis technology, the difficulties of the route and other issues.<sup class="reference" id="cite_ref-Straus_219.E2.80.93226_18-0"><a href="#cite_note-Straus_219.E2.80.93226-18">[18]</a></sup><sup class="reference" id="cite_ref-Westley.2C_Kieran_and_Justin_Dix_2008_85.E2.80.9398_19-0"><a href="#cite_note-Westley.2C_Kieran_and_Justin_Dix_2008_85.E2.80.9398-19">[19]</a></sup></p>
+<p>Arthur J. Jelinek, an anthropologist who took note of similarities between Solutrean and Clovis styles in a 1971 study, observed that the great geographical and temporal separation of the two cultures made a direct connection unlikely, since the dates of the proposed transitional sites and the Solutrean period in Europe only overlap at the extremes. He also argued that crossing the Atlantic with the means available at the time would have been difficult, if not impossible. The opinion is shared by Lawrence G. Straus, who wrote that "there are no representations of boats and no evidence whatsoever either of seafaring or of the ability to make a living mainly or solely from the ocean during the Solutrean."<sup class="reference" id="cite_ref-Straus_219.E2.80.93226_18-1"><a href="#cite_note-Straus_219.E2.80.93226-18">[18]</a></sup> Straus excavated Solutrean artifacts along what is now a coastline in <a href="/wiki/Cantabria" title="Cantabria">Cantabria</a>, which was some ways inland during the Solutrean epoch. He found <a href="/wiki/Seashell" title="Seashell">seashells</a> and <a class="mw-redirect" href="/wiki/Estuarine_fish" title="Estuarine fish">estuarine fish</a> at the sites, but no evidence that deep sea resources had been exploited. Advocates state that the historic coastlines of western Europe and eastern North America during the Last Glacial Maximum are now under water and thus, evidence of Solutrean-era seafaring may have been obliterated or submerged.</p>
+<p>Another challenge to the hypothesis involves the paucity of non-technological evidence of a kind we would expect to find transmitted from east to west; cave paintings of a kind associated with the <a href="/wiki/Cave_of_Altamira" title="Cave of Altamira">Cave of Altamira</a> in Spain, for instance, are without close parallel in the New World.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> In response, Bradley and Stanford contend that it was "a very specific subset of the Solutrean who formed the parent group that adapted to a maritime environment and eventually made it across the north Atlantic ice-front to colonize the east coast of the Americas" and that this group may not have exhibited the full range of Solutrean cultural traits.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> A carved piece of bone depicting a <a href="/wiki/Mammoth" title="Mammoth">mammoth</a> found near the <a href="/wiki/Vero_man" title="Vero man">Vero man</a> site in <a href="/wiki/Florida" title="Florida">Florida</a> was dated between 20,000–13,000 BP. It is described as possibly being the oldest art object yet found in the Americas and may yet provide hope for the Solutrean hypothesis.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> Art historian Barbara Olins has compared the Vero carving to "Franco-Cantabrian" drawings and engravings of mammoths. She notes that the <a class="mw-redirect" href="/wiki/Bushmen" title="Bushmen">San</a> of southern Africa developed a realistic manner of representing animals similar to the "Franco-Cantabrian" style, hinting that such a style could have evolved in North America independently.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></p>
+<p>A 2008 study of relevant <a href="/wiki/Oceanography" title="Oceanography">oceanographic</a> data from the time period in question, co-authored by Kieran Westley and Justin Dix, concluded, however, that "it is clear from the paleoceanographic and paleo-environmental data that the <a href="/wiki/Last_Glacial_Maximum" title="Last Glacial Maximum">Last Glacial Maximum</a> (LGM) in the North Atlantic does not fit the descriptions provided by the proponents of the Solutrean Atlantic Hypothesis. Although ice use and sea mammal hunting may have been important in other contexts, in this instance, the conditions militate against an ice-edge-following, maritime-adapted European population reaching the Americas."<sup class="reference" id="cite_ref-Westley.2C_Kieran_and_Justin_Dix_2008_85.E2.80.9398_19-1"><a href="#cite_note-Westley.2C_Kieran_and_Justin_Dix_2008_85.E2.80.9398-19">[19]</a></sup> Relying on the location of the ice shelf at the time of the putative Atlantic crossing, they are skeptical that a transoceanic voyage to North America, even allowing for the judicious use of glaciers and ice floes as temporary stopping points and sources of fresh water, would have been feasible for people from the Solutrean era.</p>
+<p>The 2012 book <i>Across Atlantic Ice: The Origin of America's Clovis Culture</i> critically evaluate the evidence presented in Stanford and Bradley's book, and find it unconvincing. The radiocarbon dates from purported pre-Clovis archaeological sites presented by Stanford and Bradley are consistently earlier in North America—predating Solutrean culture in Europe by 5–10 thousand years.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> expands upon and revises earlier formulations of the Solutrean Hypothesis. The book received significant media attention but mixed reviews from professional archaeologists. O'Brien and colleagues<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></p>
+<p>In 1970 a stone tool, a biface <a href="/wiki/Hand_axe" title="Hand axe">hand axe</a>, which was later suggested by Stanford and Bailey to resemble Solutrean stone tools was dredged up by the trawler <i>Cinmar</i> off the east coast of <a href="/wiki/Virginia" title="Virginia">Virginia</a> in an area that would have been dry land prior to the rising sea levels of the Pleistocene Epoch. The tool was allegedly found in the same dredge load that contained a <a href="/wiki/Mastodon" title="Mastodon">mastodon</a>'s remains. The mastodon tusks were later dated at 22,000 years old.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> In addition several archaeological sites on the <a class="mw-redirect" href="/wiki/Delmarva" title="Delmarva">Delmarva</a> peninsula with suggestive, but not definitive, dating between 16,000 and 18,000 years have been discovered by Darrin Lowery of the University of Delaware. These factors led Stanford and Bradley to reiterate in 2014 their academic advocacy of pre-Clovis peoples in North America and their possible link to paleolithic Europeans.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<p>There are two basic points of contention concerning the Cinmar biface. One is whether its association with the mastodon remains is meaningful, and the other relates to the statement by Stanford and Bradley that the biface is pre-<a class="mw-redirect" href="/wiki/Late_Glacial_Maximum" title="Late Glacial Maximum">Late Glacial Maximum</a> (LGM) and could not be Late Prehistoric, stating that they rejected that possibility "through an extensive evaluation of collections from the eastern seaboard in which no similar bifaces were identified from any post-LGM context".<sup class="reference" id="cite_ref-Boulanger.26_Metin_29-0"><a href="#cite_note-Boulanger.26_Metin-29">[29]</a></sup> A report in the January 2015 issue of <a href="/wiki/American_Antiquity" title="American Antiquity">American Antiquity</a> reviewed the literature and concluded "that the dual claims that such point forms are both rare and do not date to post-LGM contexts cannot be sustained".<sup class="reference" id="cite_ref-Boulanger.26_Metin_29-1"><a href="#cite_note-Boulanger.26_Metin-29">[29]</a></sup> The same report also examined the 13 artifacts claimed to be older than 22,000 BP, finding they were "indistinguishable from visually identical bipoints from Holocene contexts across the eastern seaboard," and concluding, "The widespread distribution of these points, their well-established chronological and culture-historical associations, and the reported association with marine/deep-sea exploitation leads us to conclude that there is no reason to consider bi-points from the Delmarva Peninsula, New England, the Continental Shelf—or indeed anywhere in eastern North America—as necessarily derived from Solutrean culture or as necessarily being 'older than Clovis' much less a distinct pre-Clovis 'cultural pattern'." (Collins et al. 2013)<sup class="reference" id="cite_ref-Boulanger.26_Metin_29-2"><a href="#cite_note-Boulanger.26_Metin-29">[29]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Models_of_migration_to_the_New_World" title="Models of migration to the New World">Models of migration to the New World</a></li>
+<li><a href="/wiki/Haplogroup_X_(mtDNA)" title="Haplogroup X (mtDNA)">Haplogroup X (mtDNA)</a></li>
+<li><a href="/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas#Haplogroup_R1" title="Genetic history of indigenous peoples of the Americas">Haplogroup R1 (yDNA)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bradley, Bruce; <a href="/wiki/Dennis_Stanford" title="Dennis Stanford">Stanford, Dennis</a> (2004). <a class="external text" href="http://planet.uwc.ac.za/nisl/Conservation%20Biology/Karen%20PDF/Clovis/Bradley%20&amp;%20Stanford%202004.pdf" rel="nofollow">"The North Atlantic ice-edge corridor: a possible Palaeolithic route to the New World"</a> <span style="font-size:85%;">(<a class="mw-redirect" href="/wiki/PDF" title="PDF">PDF</a>)</span>. <i><a href="/wiki/World_Archaeology" title="World Archaeology">World Archaeology</a></i>. <b>36</b> (4): 459–478. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F0043824042000303656" rel="nofollow">10.1080/0043824042000303656</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=World+Archaeology&amp;rft.atitle=The+North+Atlantic+ice-edge+corridor%3A+a+possible+Palaeolithic+route+to+the+New+World&amp;rft.volume=36&amp;rft.issue=4&amp;rft.pages=459-478&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1080%2F0043824042000303656&amp;rft.aulast=Bradley&amp;rft.aufirst=Bruce&amp;rft.au=Stanford%2C+Dennis&amp;rft_id=http%3A%2F%2Fplanet.uwc.ac.za%2Fnisl%2FConservation%2520Biology%2FKaren%2520PDF%2FClovis%2FBradley%2520%26%2520Stanford%25202004.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Carey, Bjorn (19 February 2006). <a class="external text" href="http://www.livescience.com/history/060219_first_americans.html" rel="nofollow">"First Americans may have been European"</a>. <i>Live Science</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Live+Science&amp;rft.atitle=First+Americans+may+have+been+European&amp;rft.date=2006-02-19&amp;rft.aulast=Carey&amp;rft.aufirst=Bjorn&amp;rft_id=http%3A%2F%2Fwww.livescience.com%2Fhistory%2F060219_first_americans.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Vastag, Brian (March 1, 2012). <a class="external text" href="https://www.washingtonpost.com/national/health-science/radical-theory-of-first-americans-places-stone-age-europeans-in-delmarva-20000-years-ago/2012/02/28/gIQA4mriiR_story.html" rel="nofollow">"Theory jolts familiar view of first Americans"</a>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i>. pp. A1, A9<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=Theory+jolts+familiar+view+of+first+Americans&amp;rft.pages=A1%2C+A9&amp;rft.date=2012-03-01&amp;rft.aulast=Vastag&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fnational%2Fhealth-science%2Fradical-theory-of-first-americans-places-stone-age-europeans-in-delmarva-20000-years-ago%2F2012%2F02%2F28%2FgIQA4mriiR_story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Mann, Charles C. (Nov 2013), "The Clovis Point and the Discovery of America's First Culture," <i>Smithsonian Magazine, <a class="external autonumber" href="http://www.smithsonianmag.com/history/the-clovis-point-and-the-discovery-of-americas-first-culture-3825828/" rel="nofollow">[1]</a></i></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Jochim, Michael (2012), "Chapter 4: The Upper Paleolithic" in "<i>European Prehistory: A Survey</i>, ed. by Suranas Milesaukas, Berlin: Springer, p. 84</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Meltzer, David J. <i>First Peoples in the New World</i> Berkeley: University of California Press, 2009, p. 188</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Mann (Nov 2013)</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Fortune, Jack; Bradley, Bruce; Martin, Paul; Stanford, Dennis; Adovasio, Jim; Collins, Michael; Wallace, Douglas; Straus, Lawrence Guy; Archambault, Joallyn; Brower, Ronald (21 November 2002). <a class="external text" href="http://www.bbc.co.uk/science/horizon/2002/columbustrans.shtml" rel="nofollow">"Stone Age Columbus - transcript"</a>. <i><a class="mw-redirect" href="/wiki/Horizon_(BBC_TV_series)" title="Horizon (BBC TV series)">Horizon</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Horizon&amp;rft.atitle=Stone+Age+Columbus+-+transcript&amp;rft.date=2002-11-21&amp;rft.au=Fortune%2C+Jack&amp;rft.au=Bradley%2C+Bruce&amp;rft.au=Martin%2C+Paul&amp;rft.au=Stanford%2C+Dennis&amp;rft.au=Adovasio%2C+Jim&amp;rft.au=Collins%2C+Michael&amp;rft.au=Wallace%2C+Douglas&amp;rft.au=Straus%2C+Lawrence+Guy&amp;rft.au=Archambault%2C+Joallyn&amp;rft.au=Brower%2C+Ronald&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fscience%2Fhorizon%2F2002%2Fcolumbustrans.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Athapaskan-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Athapaskan_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Athapaskan_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Athapaskan_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Athapaskan_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Singh, Ripan (2008). <a class="external text" href="http://usmex.ucsd.edu/assets/022/10143.pdf" rel="nofollow">"Distribution of Y Chromosomes Among Native North Americans: A Study of Athapaskan Population History"</a> <span style="font-size:85%;">(PDF)</span>. American Journal of Physical Anthropology<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Distribution+of+Y+Chromosomes+Among+Native+North+Americans%3A+A+Study+of+Athapaskan+Population+History&amp;rft.pub=American+Journal+of+Physical+Anthropology&amp;rft.date=2008&amp;rft.aulast=Singh&amp;rft.aufirst=Ripan&amp;rft_id=http%3A%2F%2Fusmex.ucsd.edu%2Fassets%2F022%2F10143.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brown, MD; Hosseini, SH; Torroni, A. <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1377656" rel="nofollow">"(December 1998). "mtDNA haplogroup X: An ancient link between Europe/Western Asia and North America?<span style="padding-right:0.2em;">"</span>"</a>. <i>Am. J. Hum. Genet</i>. <b>63</b> (6): 1852–1861. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F302155" rel="nofollow">10.1086/302155</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1377656" rel="nofollow">1377656</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9837837" rel="nofollow">9837837</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Am.+J.+Hum.+Genet.&amp;rft.atitle=%28December+1998%29.+%22mtDNA+haplogroup+X%3A+An+ancient+link+between+Europe%2FWestern+Asia+and+North+America%3F%22.&amp;rft.volume=63&amp;rft.issue=6&amp;rft.pages=1852-1861&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1377656&amp;rft_id=info%3Apmid%2F9837837&amp;rft_id=info%3Adoi%2F10.1086%2F302155&amp;rft.au=Brown%2C+MD&amp;rft.au=Hosseini%2C+SH&amp;rft.au=Torroni%2C+A&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1377656&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Kashani-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kashani_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fagundes, Nelson J.R.; Kanitz, Ricardo; Eckert, Roberta; Valls, Ana C.S.; Bogo, Mauricio R.; Salzano, Francisco M.; Smith, David Glenn; Silva, Wilson A.; Zago, Marco A.; Ribeiro-dos-Santos, Andrea K.; Santos, Sidney E.B.; Petzl-Erler, Maria Luiza; Bonatto, Sandro L. (2008). <a class="external text" href="http://www.ajhg.org/AJHG/fulltext/S0002-9297(08)00139-0#" rel="nofollow">"Mitochondrial Population Genomics Supports a Single Pre-Clovis Origin with a Coastal Route for the Peopling of the Americas"</a>. <i><a href="/wiki/American_Journal_of_Human_Genetics" title="American Journal of Human Genetics">American Journal of Human Genetics</a></i>. <b>82</b> (3): 583–592. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ajhg.2007.11.013" rel="nofollow">10.1016/j.ajhg.2007.11.013</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2427228" rel="nofollow">2427228</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18313026" rel="nofollow">18313026</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Human+Genetics&amp;rft.atitle=Mitochondrial+Population+Genomics+Supports+a+Single+Pre-Clovis+Origin+with+a+Coastal+Route+for+the+Peopling+of+the+Americas&amp;rft.volume=82&amp;rft.issue=3&amp;rft.pages=583-592&amp;rft.date=2008&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2427228&amp;rft_id=info%3Apmid%2F18313026&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ajhg.2007.11.013&amp;rft.au=Fagundes%2C+Nelson+J.R.&amp;rft.au=Kanitz%2C+Ricardo&amp;rft.au=Eckert%2C+Roberta&amp;rft.au=Valls%2C+Ana+C.S.&amp;rft.au=Bogo%2C+Mauricio+R.&amp;rft.au=Salzano%2C+Francisco+M.&amp;rft.au=Smith%2C+David+Glenn&amp;rft.au=Silva%2C+Wilson+A.&amp;rft.au=Zago%2C+Marco+A.&amp;rft.au=Ribeiro-dos-Santos%2C+Andrea+K.&amp;rft.au=Santos%2C+Sidney+E.B.&amp;rft.au=Petzl-Erler%2C+Maria+Luiza&amp;rft.au=Bonatto%2C+Sandro+L.&amp;rft_id=http%3A%2F%2Fwww.ajhg.org%2FAJHG%2Ffulltext%2FS0002-9297%2808%2900139-0%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kashani, Baharak Hooshiar; Perego, Ugo A.; Olivieri, Anna; Angerhofer, Norman; Gandini, Francesca; Carossa, Valeria; Lancioni, Hovirag; Semino, Ornella; Woodward, Scott R.; Achilli, Alessandro; Torroni, Antonio (24 October 2011). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/ajpa.21614/abstract" rel="nofollow">"Mitochondrial haplogroup C4c: A rare lineage entering America through the ice-free corridor?"</a> <span style="font-size:85%;">(fee)</span>. <i><a href="/wiki/American_Journal_of_Physical_Anthropology" title="American Journal of Physical Anthropology">American Journal of Physical Anthropology</a></i>. <a class="mw-redirect" href="/wiki/Wiley_Periodicals" title="Wiley Periodicals">Wiley Periodicals</a>. <b>147</b> (1): 35–39. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fajpa.21614" rel="nofollow">10.1002/ajpa.21614</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22024980" rel="nofollow">22024980</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Physical+Anthropology&amp;rft.atitle=Mitochondrial+haplogroup+C4c%3A+A+rare+lineage+entering+America+through+the+ice-free+corridor%3F&amp;rft.volume=147&amp;rft.issue=1&amp;rft.pages=35-39&amp;rft.date=2011-10-24&amp;rft_id=info%3Adoi%2F10.1002%2Fajpa.21614&amp;rft_id=info%3Apmid%2F22024980&amp;rft.au=Kashani%2C+Baharak+Hooshiar&amp;rft.au=Perego%2C+Ugo+A.&amp;rft.au=Olivieri%2C+Anna&amp;rft.au=Angerhofer%2C+Norman&amp;rft.au=Gandini%2C+Francesca&amp;rft.au=Carossa%2C+Valeria&amp;rft.au=Lancioni%2C+Hovirag&amp;rft.au=Semino%2C+Ornella&amp;rft.au=Woodward%2C+Scott+R.&amp;rft.au=Achilli%2C+Alessandro&amp;rft.au=Torroni%2C+Antonio&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fajpa.21614%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span> <span style="font-size:0.95em; font-size: 90%; color: #555">(subscription required)</span></span></li>
+<li id="cite_note-raghavanetal2014-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-raghavanetal2014_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Raghavan, M; Skoglund, P; Graf, KE; Metspalu, M; Albrechtsen, A; Moltke, I; Rasmussen, S; Stafford, TW Jr; Orlando, L; Metspalu, E; Karmin, M; Tambets, K; Rootsi, S; Mägi, R; Campos, PF; Balanovska, E; Balanovsky, O; Khusnutdinova, E; Litvinov, S; Osipova, LP; Fedorova, SA; Voevoda, MI; DeGiorgio, M; Sicheritz-Ponten, T; Brunak, S; Demeshchenko, S; Kivisild, T; Villems, R; Nielsen, R; Jakobsson, M; Willerslev, E (January 2014). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4105016" rel="nofollow">"Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans"</a> <span style="font-size:85%;">(fee)</span>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <a href="/wiki/Nature_Publishing_Group" title="Nature Publishing Group">Nature Publishing Group</a>. <b>505</b> (7481): 87–91. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature12736" rel="nofollow">10.1038/nature12736</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4105016" rel="nofollow">4105016</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24256729" rel="nofollow">24256729</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Upper+Palaeolithic+Siberian+genome+reveals+dual+ancestry+of+Native+Americans.&amp;rft.volume=505&amp;rft.issue=7481&amp;rft.pages=87-91&amp;rft.date=2014-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4105016&amp;rft_id=info%3Apmid%2F24256729&amp;rft_id=info%3Adoi%2F10.1038%2Fnature12736&amp;rft.au=Raghavan%2C+M&amp;rft.au=Skoglund%2C+P&amp;rft.au=Graf%2C+KE&amp;rft.au=Metspalu%2C+M&amp;rft.au=Albrechtsen%2C+A&amp;rft.au=Moltke%2C+I&amp;rft.au=Rasmussen%2C+S&amp;rft.au=Stafford%2C+TW+Jr&amp;rft.au=Orlando%2C+L&amp;rft.au=Metspalu%2C+E&amp;rft.au=Karmin%2C+M&amp;rft.au=Tambets%2C+K&amp;rft.au=Rootsi%2C+S&amp;rft.au=M%C3%A4gi%2C+R&amp;rft.au=Campos%2C+PF&amp;rft.au=Balanovska%2C+E&amp;rft.au=Balanovsky%2C+O&amp;rft.au=Khusnutdinova%2C+E&amp;rft.au=Litvinov%2C+S&amp;rft.au=Osipova%2C+LP&amp;rft.au=Fedorova%2C+SA&amp;rft.au=Voevoda%2C+MI&amp;rft.au=DeGiorgio%2C+M&amp;rft.au=Sicheritz-Ponten%2C+T&amp;rft.au=Brunak%2C+S&amp;rft.au=Demeshchenko%2C+S&amp;rft.au=Kivisild%2C+T&amp;rft.au=Villems%2C+R&amp;rft.au=Nielsen%2C+R&amp;rft.au=Jakobsson%2C+M&amp;rft.au=Willerslev%2C+E&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4105016&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> <span style="font-size:0.95em; font-size: 90%; color: #555">(subscription required)</span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Michael Balter (October 2013). <a class="external text" href="http://www.sciencemag.org/content/342/6157/409.full" rel="nofollow">"Ancient DNA Links Native Americans With Europe"</a>. <i>Science</i>. <b>342</b> (6157): 409–410. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.342.6157.409" rel="nofollow">10.1126/science.342.6157.409</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24159019" rel="nofollow">24159019</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Ancient+DNA+Links+Native+Americans+With+Europe&amp;rft.volume=342&amp;rft.issue=6157&amp;rft.pages=409-410&amp;rft.date=2013-10&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.342.6157.409&amp;rft_id=info%3Apmid%2F24159019&amp;rft.au=Michael+Balter&amp;rft_id=http%3A%2F%2Fwww.sciencemag.org%2Fcontent%2F342%2F6157%2F409.full&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-rasmussenetal2014-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-rasmussenetal2014_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rasmussen M, Anzick SL, et al. (2014). "The genome of a Late Pleistocene human from a Clovis burial site in western Montana". <i>Nature</i>. <b>506</b> (7487): 225–229. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature13025" rel="nofollow">10.1038/nature13025</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24522598" rel="nofollow">24522598</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=The+genome+of+a+Late+Pleistocene+human+from+a+Clovis+burial+site+in+western+Montana&amp;rft.volume=506&amp;rft.issue=7487&amp;rft.pages=225-229&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1038%2Fnature13025&amp;rft_id=info%3Apmid%2F24522598&amp;rft.aulast=Rasmussen&amp;rft.aufirst=M&amp;rft.au=Anzick%2C+SL&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.bbc.co.uk/news/science-environment-26172174" rel="nofollow">"Ancient American's genome mapped"</a>. BBC News. 2014-02-14.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ancient+American%27s+genome+mapped&amp;rft.date=2014-02-14&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fscience-environment-26172174&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Raff, Jennifer A.; Bolnick, Deborah A. <a class="external text" href="http://www.tandfonline.com/doi/full/10.1179/2055556315Z.00000000040" rel="nofollow">"Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation"</a>. <i>PaleoAmerica: A journal of early human migration and dispersal</i>. <b>1</b> (4): 297–304. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1179%2F2055556315Z.00000000040" rel="nofollow">10.1179/2055556315Z.00000000040</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PaleoAmerica%3A+A+journal+of+early+human+migration+and+dispersal&amp;rft.atitle=Does+Mitochondrial+Haplogroup+X+Indicate+Ancient+Trans-Atlantic+Migration+to+the+Americas%3F+A+Critical+Re-Evaluation&amp;rft.volume=1&amp;rft.issue=4&amp;rft.pages=297-304&amp;rft_id=info%3Adoi%2F10.1179%2F2055556315Z.00000000040&amp;rft.aulast=Raff&amp;rft.aufirst=Jennifer+A.&amp;rft.au=Bolnick%2C+Deborah+A&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1179%2F2055556315Z.00000000040&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Straus_219.E2.80.93226-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Straus_219.E2.80.93226_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Straus_219.E2.80.93226_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Straus, L.G. (April 2000). "Solutrean settlement of North America? A review of reality". <i><a href="/wiki/American_Antiquity" title="American Antiquity">American Antiquity</a></i>. <b>65</b> (2): 219–226. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2307%2F2694056" rel="nofollow">10.2307/2694056</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Antiquity&amp;rft.atitle=Solutrean+settlement+of+North+America%3F+A+review+of+reality&amp;rft.volume=65&amp;rft.issue=2&amp;rft.pages=219-226&amp;rft.date=2000-04&amp;rft_id=info%3Adoi%2F10.2307%2F2694056&amp;rft.aulast=Straus&amp;rft.aufirst=L.G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Westley.2C_Kieran_and_Justin_Dix_2008_85.E2.80.9398-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Westley.2C_Kieran_and_Justin_Dix_2008_85.E2.80.9398_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Westley.2C_Kieran_and_Justin_Dix_2008_85.E2.80.9398_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Westley, Kieran &amp; Justin Dix (2008). "The Solutrean Atlantic Hypothesis: A View from the Ocean". <i>Journal of the North Atlantic</i>. <b>1</b>: 85–98. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3721%2FJ080527" rel="nofollow">10.3721/J080527</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+North+Atlantic&amp;rft.atitle=The+Solutrean+Atlantic+Hypothesis%3A+A+View+from+the+Ocean&amp;rft.volume=1&amp;rft.pages=85-98&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.3721%2FJ080527&amp;rft.au=Westley%2C+Kieran&amp;rft.au=Justin+Dix&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Strauss, Lawrence Guy; David J. Meltzer; Ted Goebel (December 2005). <a class="external text" href="http://smu.edu/anthro/faculty/dMeltzer/pdf%20files/World_Archaeology_2005_Ice_Age_Atlantis.pdf" rel="nofollow">"Ice Age Atlantis? Exploring the Solutrean-Clovis 'connection<span style="padding-right:0.2em;">'</span>"</a> <span style="font-size:85%;">(PDF)</span>. <i>World Archaeology</i>. <b>37</b> (4): 507–532. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F00438240500395797" rel="nofollow">10.1080/00438240500395797</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=World+Archaeology&amp;rft.atitle=Ice+Age+Atlantis%3F+Exploring+the+Solutrean-Clovis+%27connection%27&amp;rft.volume=37&amp;rft.issue=4&amp;rft.pages=507-532&amp;rft.date=2005-12&amp;rft_id=info%3Adoi%2F10.1080%2F00438240500395797&amp;rft.aulast=Strauss&amp;rft.aufirst=Lawrence+Guy&amp;rft.au=David+J.+Meltzer&amp;rft.au=Ted+Goebel&amp;rft_id=http%3A%2F%2Fsmu.edu%2Fanthro%2Ffaculty%2FdMeltzer%2Fpdf%2520files%2FWorld_Archaeology_2005_Ice_Age_Atlantis.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bradley, Bruce; Stanford, Dennis (2006). "The Solutrean-Clovis connection : reply to Straus, Meltzer and Goebel". <i>World archaeology</i>. <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a>. <b>38</b> (44): 704–714. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F00438240601022001" rel="nofollow">10.1080/00438240601022001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=World+archaeology&amp;rft.atitle=The+Solutrean-Clovis+connection+%3A+reply+to+Straus%2C+Meltzer+and+Goebel&amp;rft.volume=38&amp;rft.issue=44&amp;rft.pages=704-714&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1080%2F00438240601022001&amp;rft.aulast=Bradley&amp;rft.aufirst=Bruce&amp;rft.au=Stanford%2C+Dennis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Viegas, Jennifer. <a class="external text" href="http://news.discovery.com/history/earliest-american-art-mammoth-110622.html" rel="nofollow">"Earliest Mammoth Art: Mammoth on Mammoth"</a>. <a class="mw-redirect" href="/wiki/Discovery_News" title="Discovery News">Discovery News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Earliest+Mammoth+Art%3A+Mammoth+on+Mammoth&amp;rft.pub=Discovery+News&amp;rft.aulast=Viegas&amp;rft.aufirst=Jennifer&amp;rft_id=http%3A%2F%2Fnews.discovery.com%2Fhistory%2Fearliest-american-art-mammoth-110622.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Alpert, Barbara Olins. <a class="external text" href="http://www.ifraoariege2010.fr/docs/Articles/Alpert-Amerique.pdf" rel="nofollow">"A context for the Vero Beach Engraved Mammoth or Mastodon"</a> <span style="font-size:85%;">(PDF)</span>. <i>Pleistocene Art of the Americas (Pre-Acts)</i>. IFRAO Congress, September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pleistocene+Art+of+the+Americas+%28Pre-Acts%29&amp;rft.atitle=A+context+for+the+Vero+Beach+Engraved+Mammoth+or+Mastodon&amp;rft.aulast=Alpert&amp;rft.aufirst=Barbara+Olins&amp;rft_id=http%3A%2F%2Fwww.ifraoariege2010.fr%2Fdocs%2FArticles%2FAlpert-Amerique.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">Stanford, Dennis J. &amp; Bruce Bradley (2012). <i>Across Atlantic Ice: The Origin of America's Clovis Culture</i>. Berkeley: University of California Press.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Across+Atlantic+Ice%3A+The+Origin+of+America%27s+Clovis+Culture&amp;rft.place=Berkeley&amp;rft.pub=University+of+California+Press&amp;rft.date=2012&amp;rft.au=Stanford%2C+Dennis+J.&amp;rft.au=Bruce+Bradley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">O'Brien, Michael J., Matthew T. Boulanger, Mark Collard, Briggs Buchanan, Lia Tarle, Lawrence G. Straus and Metin I. Eren (2014). <a class="external text" href="http://antiquity.ac.uk/ant/088/ant0880606.htm" rel="nofollow">"On thin ice: problems with Stanford and Bradley's proposed Solutrean colonisation of North America"</a>. <i>Antiquity</i>. <b>88</b>: 606–624.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Antiquity&amp;rft.atitle=On+thin+ice%3A+problems+with+Stanford+and+Bradley%27s+proposed+Solutrean+colonisation+of+North+America&amp;rft.volume=88&amp;rft.pages=606-624&amp;rft.date=2014&amp;rft.au=O%27Brien%2C+Michael+J.%2C+Matthew+T.+Boulanger%2C+Mark+Collard%2C+Briggs+Buchanan%2C+Lia+Tarle%2C+Lawrence+G.+Straus+and+Metin+I.+Eren&amp;rft_id=http%3A%2F%2Fantiquity.ac.uk%2Fant%2F088%2Fant0880606.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Ghose, Tia (August 11, 2014). <a class="external text" href="http://www.livescience.com/47289-mastodon-found-under-chesapeake-bay.html" rel="nofollow">"Fisherman Pulls Up Beastly Evidence of Early Americans"</a>. <i>Livescience.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livescience.com&amp;rft.atitle=Fisherman+Pulls+Up+Beastly+Evidence+of+Early+Americans&amp;rft.date=2014-08-11&amp;rft.aulast=Ghose&amp;rft.aufirst=Tia&amp;rft_id=http%3A%2F%2Fwww.livescience.com%2F47289-mastodon-found-under-chesapeake-bay.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">O'Brien, Michael J.; Boulanber, Matthew T.; Collard Mark; Buchanan, Briggs; Tarle, Lia; Straus, Lawrence G.; and Eren, Metin L. (2014), <i>On thin ice: problems with Stanford and Bradley's proposed Solutrean colonisation of North America</i>, <i>Antiquity</i>, Vol 88, p. 609, <a class="external text" href="https://www.academia.edu/5119515/On_thin_ice_Problems_with_Stanford_and_Bradley_s_Solutrean-Clovis_hypothesis" rel="nofollow">On thin ice: Problems with Stanford and Bradley’s Solutrean-Clovis hypothesis</a>, accessed 18 Jan 2016</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.livescience.com/47289-mastodon-found-under-chesapeake-bay.html" rel="nofollow">Fisherman Pulls Up Beastly Evidence of Early Americans</a> Tia Ghose, Staff Writer, Live Science, August 11, 2014, accessed Jan 2016</span></li>
+<li id="cite_note-Boulanger.26_Metin-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Boulanger.26_Metin_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Boulanger.26_Metin_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Boulanger.26_Metin_29-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Boulanger, Matthew T; Erin, Metin I (January 2015). <a class="external text" href="https://www.researchgate.net/profile/Matthew_Boulanger/publication/263808760_On_the_inferred_age_and_origin_of_lithic_bi-points_from_the_Eastern_Seaboard_and_their_relevance_to_the_Pleistocene_peopling_of_North_America/links/54ce4dba0cf298d65660d74c.pdf" rel="nofollow">"On the inferred age and origin of lithic bi-points on the Eastern Seaboard and their relevance to the Pleistocene peopling of North America"</a> <span style="font-size:85%;">(PDF)</span>. <i>American Antiquity</i>. <b>80</b> (1): 134–145. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.7183%2F0002-7316.79.4.134134" rel="nofollow">10.7183/0002-7316.79.4.134134</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 January</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Antiquity&amp;rft.atitle=On+the+inferred+age+and+origin+of+lithic+bi-points+on+the+Eastern+Seaboard+and+their+relevance+to+the+Pleistocene+peopling+of+North+America&amp;rft.volume=80&amp;rft.issue=1&amp;rft.pages=134-145&amp;rft.date=2015-01&amp;rft_id=info%3Adoi%2F10.7183%2F0002-7316.79.4.134134&amp;rft.aulast=Boulanger&amp;rft.aufirst=Matthew+T&amp;rft.au=Erin%2C+Metin+I&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FMatthew_Boulanger%2Fpublication%2F263808760_On_the_inferred_age_and_origin_of_lithic_bi-points_from_the_Eastern_Seaboard_and_their_relevance_to_the_Pleistocene_peopling_of_North_America%2Flinks%2F54ce4dba0cf298d65660d74c.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Academic_journal_articles">Academic journal articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=7" title="Edit section: Academic journal articles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation journal">Brown, M.D.; Hosseini, S.H.; Torroni, A.; Bandelt, H.J.; Allen, J.C.; Schurr, T.G.; Scozzari, R.; Cruciani, F.; Wallace (Dec 1998). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1377656" rel="nofollow">"mtDNA haplogroup X: An ancient link between Europe/Western Asia and North America?"</a>. <i>American Journal of Human Genetics</i>. <b>63</b> (6): 1852–61. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F302155" rel="nofollow">10.1086/302155</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1377656" rel="nofollow">1377656</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9837837" rel="nofollow">9837837</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Human+Genetics&amp;rft.atitle=mtDNA+haplogroup+X%3A+An+ancient+link+between+Europe%2FWestern+Asia+and+North+America%3F&amp;rft.volume=63&amp;rft.issue=6&amp;rft.pages=1852-61&amp;rft.date=1998-12&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1377656&amp;rft_id=info%3Apmid%2F9837837&amp;rft_id=info%3Adoi%2F10.1086%2F302155&amp;rft.au=Brown%2C+M.D.&amp;rft.au=Hosseini%2C+S.H.&amp;rft.au=Torroni%2C+A.&amp;rft.au=Bandelt%2C+H.J.&amp;rft.au=Allen%2C+J.C.&amp;rft.au=Schurr%2C+T.G.&amp;rft.au=Scozzari%2C+R.&amp;rft.au=Cruciani%2C+F.&amp;rft.au=Wallace&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1377656&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Greenman, E.F. (1963). "The Upper Palaeolithic and the New World". <i><a href="/wiki/Current_Anthropology" title="Current Anthropology">Current Anthropology</a></i>. <b>4</b>: 41–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F200337" rel="nofollow">10.1086/200337</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Current+Anthropology&amp;rft.atitle=The+Upper+Palaeolithic+and+the+New+World&amp;rft.volume=4&amp;rft.pages=41-66&amp;rft.date=1963&amp;rft_id=info%3Adoi%2F10.1086%2F200337&amp;rft.aulast=Greenman&amp;rft.aufirst=E.F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></li>
+<li><a href="/wiki/Frank_C._Hibben" title="Frank C. Hibben">Hibben, Frank C.</a>, "Prehistoric Man in Europe," <a href="/wiki/University_of_Oklahoma_Press" title="University of Oklahoma Press">University of Oklahoma Press</a>, Norman, 1958.</li>
+<li>Jablonski, Nina G., "The First Americans: The Pleistocene Colonization of the New World," <a href="/wiki/University_of_California_Press" title="University of California Press">University of California Press</a>, 2002</li>
+<li><cite class="citation journal">Reidla, Maere; Kivisild, Toomas; Metspalu, Ene; Kaldma, Katrin; Tambets, Kristiina; Tolk, Helle-Viivi; Parik, Jüri; Loogväli, Eva-Liis; Derenko, Miroslava; Malyarchuk, Boris; Bermisheva, Marina; Zhadanov, Sergey; Pennarun, Erwan; Gubina, Marina; Golubenko, Maria; Damba, Larisa; Fedorova, Sardana; Gusar, Vladislava; Grechanina, Elena; Mikerezi, Ilia; Moisan, Jean-Paul; Chaventré, André; Khusnutdinova, Elsa; Osipova, Ludmila; Stepanov, Vadim; Voevoda, Mikhail; Achilli, Alessandro; Rengo, Chiara; Rickards, Olga; De Stefano, Gian Franco (November 2003). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1180497" rel="nofollow">"Origin and Diffusion of mtDNA Haplogroup X"</a>. <i>Am J Hum Genet</i>. <b>73</b> (5): 1178–1190. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F379380" rel="nofollow">10.1086/379380</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1180497" rel="nofollow">1180497</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14574647" rel="nofollow">14574647</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Am+J+Hum+Genet&amp;rft.atitle=Origin+and+Diffusion+of+mtDNA+Haplogroup+X&amp;rft.volume=73&amp;rft.issue=5&amp;rft.pages=1178-1190&amp;rft.date=2003-11&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1180497&amp;rft_id=info%3Apmid%2F14574647&amp;rft_id=info%3Adoi%2F10.1086%2F379380&amp;rft.au=Reidla%2C+Maere&amp;rft.au=Kivisild%2C+Toomas&amp;rft.au=Metspalu%2C+Ene&amp;rft.au=Kaldma%2C+Katrin&amp;rft.au=Tambets%2C+Kristiina&amp;rft.au=Tolk%2C+Helle-Viivi&amp;rft.au=Parik%2C+J%C3%BCri&amp;rft.au=Loogv%C3%A4li%2C+Eva-Liis&amp;rft.au=Derenko%2C+Miroslava&amp;rft.au=Malyarchuk%2C+Boris&amp;rft.au=Bermisheva%2C+Marina&amp;rft.au=Zhadanov%2C+Sergey&amp;rft.au=Pennarun%2C+Erwan&amp;rft.au=Gubina%2C+Marina&amp;rft.au=Golubenko%2C+Maria&amp;rft.au=Damba%2C+Larisa&amp;rft.au=Fedorova%2C+Sardana&amp;rft.au=Gusar%2C+Vladislava&amp;rft.au=Grechanina%2C+Elena&amp;rft.au=Mikerezi%2C+Ilia&amp;rft.au=Moisan%2C+Jean-Paul&amp;rft.au=Chaventr%C3%A9%2C+Andr%C3%A9&amp;rft.au=Khusnutdinova%2C+Elsa&amp;rft.au=Osipova%2C+Ludmila&amp;rft.au=Stepanov%2C+Vadim&amp;rft.au=Voevoda%2C+Mikhail&amp;rft.au=Achilli%2C+Alessandro&amp;rft.au=Rengo%2C+Chiara&amp;rft.au=Rickards%2C+Olga&amp;rft.au=De+Stefano%2C+Gian+Franco&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1180497&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></li>
+<li>Stanford, Dennis, and Bruce Bradley. 2002. "Ocean Trails and Prairie Paths? Thoughts About Clovis Origins." In <i>The First Americans: The Pleistocene Colonization of the New World</i>, Nina G. Jablonski (ed.), pp. 255–271. San Francisco: Memoirs of the California Academy of Sciences, No. 27.</li>
+<li><cite class="citation journal">Stanford, Dennis; Bradley, Bruce (2004). "The North Atlantic ice-edge corridor: a possible Palaeolithic route to the New World". <i><a href="/wiki/World_Archaeology" title="World Archaeology">World Archaeology</a></i>. <b>36</b> (4): 459–478. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F0043824042000303656" rel="nofollow">10.1080/0043824042000303656</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=World+Archaeology&amp;rft.atitle=The+North+Atlantic+ice-edge+corridor%3A+a+possible+Palaeolithic+route+to+the+New+World&amp;rft.volume=36&amp;rft.issue=4&amp;rft.pages=459-478&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1080%2F0043824042000303656&amp;rft.aulast=Stanford&amp;rft.aufirst=Dennis&amp;rft.au=Bradley%2C+Bruce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Stanford, Dennis; Bradley, Bruce (2006). "The Solutrean-Clovis connection: reply to Straus, Meltzer and Goebel". <i><a href="/wiki/World_Archaeology" title="World Archaeology">World Archaeology</a></i>. <b>38</b> (4): 704–714. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F00438240601022001" rel="nofollow">10.1080/00438240601022001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=World+Archaeology&amp;rft.atitle=The+Solutrean-Clovis+connection%3A+reply+to+Straus%2C+Meltzer+and+Goebel&amp;rft.volume=38&amp;rft.issue=4&amp;rft.pages=704-714&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1080%2F00438240601022001&amp;rft.aulast=Stanford&amp;rft.aufirst=Dennis&amp;rft.au=Bradley%2C+Bruce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Straus, Lawrence G. (2000). "Solutrean Settlement of North America? A Review of Reality". <i><a href="/wiki/American_Antiquity" title="American Antiquity">American Antiquity</a></i>. <b>65</b> (2): 219–226. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2307%2F2694056" rel="nofollow">10.2307/2694056</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/2694056" rel="nofollow">2694056</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Antiquity&amp;rft.atitle=Solutrean+Settlement+of+North+America%3F+A+Review+of+Reality&amp;rft.volume=65&amp;rft.issue=2&amp;rft.pages=219-226&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.2307%2F2694056&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2694056&amp;rft.aulast=Straus&amp;rft.aufirst=Lawrence+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolutrean+hypothesis"><span style="display:none;"> </span></span></li>
+<li>Strauss, Lawrence G et al. 1990, 'The LGM in Cantabrian : Spain: the Solutrean', in Soffer and Gamble (eds.) <i>The world at 18,000 bp: high latitudes</i>, pp. 89–108. Unwin Hyman.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://www.youtube.com/watch?v=Gpnv1jDvr5c" rel="nofollow">Dennis Stanford talk at Gustavus Adolphus College, 2008</a></li>
+<li><a class="external text" href="https://www.theguardian.com/science/1999/nov/28/archaeology.uknews" rel="nofollow">Stone Age sailors 'beat Columbus to America'</a> (<i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, 1999)</li>
+<li><a class="external text" href="https://www.pbs.org/saf/1406/features/dna.htm" rel="nofollow">Coming into America: Tracing the Genes</a> (<a class="mw-redirect" href="/wiki/Public_Broadcasting_Service" title="Public Broadcasting Service">PBS</a>, 2004)</li>
+<li><a class="external text" href="http://www.bbc.co.uk/science/horizon/2002/columbus.shtml" rel="nofollow">Stone Age Columbus</a> (<a href="/wiki/BBC" title="BBC">BBC</a> 2002)</li>
+<li><a class="external text" href="http://shopping.discovery.com/product-59637.html" rel="nofollow">Ice Age Columbus: Who Were the First Americans?</a> (<a href="/wiki/Discovery_Channel" title="Discovery Channel">Discovery Channel</a> 2005)</li>
+<li><a class="external text" href="https://web.archive.org/web/20140425064212/http://www.cbc.ca/quirks/media/2011-2012/qq-2012-04-21_01.mp3" rel="nofollow">CBC Radio — <i>Quirks &amp; Quarks</i></a> (Interview of Bruce Bradley, April 2012)</li>
+<li><a class="external text" href="https://www.independent.co.uk/news/world/americas/new-evidence-suggests-stone-age-hunters-from-europe-discovered-america-7447152.html" rel="nofollow">New evidence suggests stone age hunters from Europe discovered America</a> (<i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>, 2012)</li>
+</ul>
+<div aria-labelledby="Indigenous_peoples_of_the_Americas" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col" style="background: #FFDD99">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Indigenous_peoples_of_the_Americas" title="Template:Indigenous peoples of the Americas"><abbr style="background: #FFDD99;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Indigenous_peoples_of_the_Americas" title="Template talk:Indigenous peoples of the Americas"><abbr style="background: #FFDD99;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Indigenous_peoples_of_the_Americas&amp;action=edit"><abbr style="background: #FFDD99;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Indigenous_peoples_of_the_Americas" style="font-size:114%;margin:0 4em"><a href="/wiki/Indigenous_peoples_of_the_Americas" title="Indigenous peoples of the Americas">Indigenous peoples of the Americas</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background: #FFDD99;width:1%;line-height:1.3em;background:#FFDD99">Pre-history</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paleo-Indians" title="Paleo-Indians">Paleo-Indians</a></li>
+<li><a href="/wiki/Pre-Columbian_era" title="Pre-Columbian era">Pre-Columbian era</a></li>
+<li><a href="/wiki/Classification_of_indigenous_peoples_of_the_Americas" title="Classification of indigenous peoples of the Americas">Classification</a></li>
+<li><a href="/wiki/Archaeology_of_the_Americas" title="Archaeology of the Americas">Archaeology</a></li>
+<li><a href="/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas" title="Genetic history of indigenous peoples of the Americas">Genetics</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Americas_(orthographic_projection).svg"><img alt="Americas (orthographic projection).svg" data-file-height="550" data-file-width="550" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/120px-Americas_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/180px-Americas_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/240px-Americas_%28orthographic_projection%29.svg.png 2x" width="120"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background: #FFDD99;width:1%;line-height:1.3em;background:#FFDD99">Mythology/Religion</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mythologies_of_the_indigenous_peoples_of_the_Americas" title="Mythologies of the indigenous peoples of the Americas">Mythologies of the indigenous peoples of the Americas</a>‎
+<ul>
+<li><a href="/wiki/List_of_Native_American_deities" title="List of Native American deities">List of deities</a></li>
+<li><a href="/wiki/Native_American_religion" title="Native American religion">Native American religion</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mesoamerica#Mythology_and_worldview" title="Mesoamerica">Mesoamerican mythology</a>
+<ul>
+<li><a href="/wiki/Mesoamerican_religion" title="Mesoamerican religion">Mesoamerican religion</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background: #FFDD99;width:1%;line-height:1.3em;background:#FFDD99">European<br/>
+colonization</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/European_colonization_of_the_Americas" title="European colonization of the Americas">European colonization</a></li>
+<li><a href="/wiki/Population_history_of_indigenous_peoples_of_the_Americas" title="Population history of indigenous peoples of the Americas">Population history</a></li>
+<li><a href="/wiki/Columbian_Exchange" title="Columbian Exchange">Columbian Exchange</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background: #FFDD99;width:1%;line-height:1.3em;background:#FFDD99">Modern societies<br/>
+by country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;background:#FFDD99"><a class="new" href="/w/index.php?title=List_of_Indigenous_peoples_of_North_America&amp;action=edit&amp;redlink=1" title="List of Indigenous peoples of North America (page does not exist)">North America</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indigenous_peoples_in_Canada" title="Indigenous peoples in Canada">Canada</a></li>
+<li><a href="/wiki/Category:Indigenous_peoples_of_the_Caribbean" title="Category:Indigenous peoples of the Caribbean">Caribbean</a>
+<ul>
+<li><a href="/wiki/Island_Caribs" title="Island Caribs">Dominica</a></li>
+<li><a class="mw-redirect" href="/wiki/Indigenous_peoples_of_Jamaica" title="Indigenous peoples of Jamaica">Jamaica</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Indigenous_peoples_of_Costa_Rica" title="Indigenous peoples of Costa Rica">Costa Rica</a></li>
+<li><a href="/wiki/Pipil_people" title="Pipil people">El Salvador</a></li>
+<li><a href="/wiki/Greenlandic_Inuit" title="Greenlandic Inuit">Greenland</a></li>
+<li><a href="/wiki/Indigenous_peoples_of_Mexico" title="Indigenous peoples of Mexico">Mexico</a></li>
+<li><a href="/wiki/Indigenous_peoples_of_Panama" title="Indigenous peoples of Panama">Panama</a></li>
+<li><a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;background:#FFDD99"><a href="/wiki/List_of_Indigenous_peoples_of_South_America" title="List of Indigenous peoples of South America">South America</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indigenous_peoples_in_Argentina" title="Indigenous peoples in Argentina">Argentina</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Bolivia" title="Indigenous peoples in Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Brazil" title="Indigenous peoples in Brazil">Brazil</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Chile" title="Indigenous peoples in Chile">Chile</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Colombia" title="Indigenous peoples in Colombia">Colombia</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Ecuador" title="Indigenous peoples in Ecuador">Ecuador</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Guyana" title="Indigenous peoples in Guyana">Guyana</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Paraguay" title="Indigenous peoples in Paraguay">Paraguay</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Peru" title="Indigenous peoples in Peru">Peru</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Suriname</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Uruguay" title="Indigenous peoples in Uruguay">Uruguay</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Venezuela" title="Indigenous peoples in Venezuela">Venezuela</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background: #FFDD99;width:1%;line-height:1.3em;background:#FFDD99">Related topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Native_American_studies" title="Native American studies">Indigenous American studies</a></li>
+<li><a href="/wiki/Indigenous_languages_of_the_Americas" title="Indigenous languages of the Americas">Indigenous languages</a></li>
+<li><a href="/wiki/Indigenous_movements_in_the_Americas" title="Indigenous movements in the Americas">Indigenous movements</a></li>
+<li><a href="/wiki/Visual_arts_by_indigenous_peoples_of_the_Americas" title="Visual arts by indigenous peoples of the Americas">Indigenous art</a></li>
+<li><a href="/wiki/List_of_indigenous_artists_of_the_Americas" title="List of indigenous artists of the Americas">Artists</a></li>
+<li><a href="/wiki/List_of_writers_from_peoples_indigenous_to_the_Americas" title="List of writers from peoples indigenous to the Americas">Writers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background: #FFDD99">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Indigenous_peoples_of_the_Americas" title="Category:Indigenous peoples of the Americas">Category</a></b></li>
+<li><b><a href="/wiki/Portal:Indigenous_peoples_of_the_Americas" title="Portal:Indigenous peoples of the Americas">Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Prehistoric_technology" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Prehistoric_technology" title="Template:Prehistoric technology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Prehistoric_technology" title="Template talk:Prehistoric technology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Prehistoric_technology&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Prehistoric_technology" style="font-size:114%;margin:0 4em"><a href="/wiki/Prehistoric_technology" title="Prehistoric technology">Prehistoric technology</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Prehistory" title="Prehistory">Prehistory</a>
+<ul>
+<li><a href="/wiki/Timeline_of_human_prehistory" title="Timeline of human prehistory">timeline</a></li>
+<li><a href="/wiki/Outline_of_prehistoric_technology" title="Outline of prehistoric technology">outline</a></li>
+<li><a href="/wiki/Stone_Age" title="Stone Age">Stone Age</a></li>
+<li><a href="/wiki/Three-age_system#Stone_Age_subdivisions" title="Three-age system">subdivisions</a></li>
+<li><a href="/wiki/Neolithic" title="Neolithic">New Stone Age</a></li>
+<li><a href="/wiki/Synoptic_table_of_the_principal_old_world_prehistoric_cultures" title="Synoptic table of the principal old world prehistoric cultures">synoptic table</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Technology" title="Technology">Technology</a>
+<ul>
+<li><a href="/wiki/History_of_technology" title="History of technology">history</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Tools" style="font-size:114%;margin:0 4em"><a href="/wiki/Lithic_technology" title="Lithic technology">Tools</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/History_of_agriculture" title="History of agriculture">Farming</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Neolithic_Revolution" title="Neolithic Revolution">Neolithic Revolution</a></i>
+<ul>
+<li><a href="/wiki/Neolithic_founder_crops" title="Neolithic founder crops">founder crops</a></li>
+<li><a href="/wiki/New_World_crops" title="New World crops">New World crops</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ard_(plough)" title="Ard (plough)">Ard / plough</a></li>
+<li><a href="/wiki/Celt_(tool)" title="Celt (tool)">Celt</a></li>
+<li><a href="/wiki/Digging_stick" title="Digging stick">Digging stick</a></li>
+<li><a href="/wiki/Domestication" title="Domestication">Domestication</a></li>
+<li><a href="/wiki/Goad" title="Goad">Goad</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a href="/wiki/Secondary_products_revolution" title="Secondary products revolution">Secondary products</a></li>
+<li><a href="/wiki/Sickle" title="Sickle">Sickle</a></li>
+<li><a href="/wiki/Terrace_(agriculture)" title="Terrace (agriculture)">Terracing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Food processing</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Control_of_fire_by_early_humans" title="Control of fire by early humans">Fire</a></i></li>
+<li><a href="/wiki/Basket" title="Basket">Basket</a></li>
+<li><a href="/wiki/Cooking" title="Cooking">Cooking</a>
+<ul>
+<li><a href="/wiki/Earth_oven" title="Earth oven">Earth oven</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Granary" title="Granary">Granaries</a></li>
+<li><a href="/wiki/Grinding_slab" title="Grinding slab">Grinding slab</a></li>
+<li><a href="/wiki/Ground_stone" title="Ground stone">Ground stone</a></li>
+<li><a href="/wiki/Hearth" title="Hearth">Hearth</a>
+<ul>
+<li><a href="/wiki/A%C5%9F%C4%B1kl%C4%B1_H%C3%B6y%C3%BCk#Hearths" title="Aşıklı Höyük">Aşıklı Höyük</a></li>
+<li><a href="/wiki/Qesem_Cave#Fire" title="Qesem Cave">Qesem Cave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mano_(stone)" title="Mano (stone)">Manos</a></li>
+<li><a href="/wiki/Metate" title="Metate">Metate</a></li>
+<li><a href="/wiki/Mortar_and_pestle" title="Mortar and pestle">Mortar and pestle</a></li>
+<li><a href="/wiki/Pottery" title="Pottery">Pottery</a></li>
+<li><a href="/wiki/Quern-stone" title="Quern-stone">Quern-stone</a></li>
+<li><a href="/wiki/Storage_pit_(archaeology)" title="Storage pit (archaeology)">Storage pit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/Hunting_hypothesis" title="Hunting hypothesis">Hunting</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arrow" title="Arrow">Arrow</a></li>
+<li><a href="/wiki/Boomerang" title="Boomerang">Boomerang</a>
+<ul>
+<li><a href="/wiki/Throwing_stick" title="Throwing stick">throwing stick</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bow_and_arrow" title="Bow and arrow">Bow and arrow</a>
+<ul>
+<li><a href="/wiki/History_of_archery" title="History of archery">history</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Use_of_animals_during_the_Gravettian_period#Use_of_nets" title="Use of animals during the Gravettian period">Nets</a></li>
+<li><a href="/wiki/Spear" title="Spear">Spear</a>
+<ul>
+<li><a href="/wiki/Spear-thrower" title="Spear-thrower">Spear-thrower</a></li>
+<li><a href="/wiki/Baton_fragment_(Palart_310)" title="Baton fragment (Palart 310)">baton</a></li>
+<li><a href="/wiki/Harpoon" title="Harpoon">harpoon</a></li>
+<li><a href="/wiki/Woomera_(spear-thrower)" title="Woomera (spear-thrower)">woomera</a></li>
+<li><a href="/wiki/Sch%C3%B6ningen_Spears" title="Schöningen Spears">Schöningen Spears</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Projectile_point" title="Projectile point">Projectile points</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arrowhead" title="Arrowhead">Arrowhead</a></li>
+<li><a href="/wiki/Bare_Island_projectile_point" title="Bare Island projectile point">Bare Island</a></li>
+<li><a href="/wiki/Cascade_point" title="Cascade point">Cascade</a></li>
+<li><a href="/wiki/Clovis_point" title="Clovis point">Clovis</a></li>
+<li><a href="/wiki/Creswellian_culture" title="Creswellian culture">Cresswell</a></li>
+<li><a href="/wiki/Cumberland_point" title="Cumberland point">Cumberland</a></li>
+<li><a href="/wiki/Eden_point" title="Eden point">Eden</a></li>
+<li><a href="/wiki/Folsom_point" title="Folsom point">Folsom</a></li>
+<li><a href="/wiki/Lamoka_projectile_point" title="Lamoka projectile point">Lamoka</a></li>
+<li><a href="/wiki/Manis_Mastodon_Site" title="Manis Mastodon Site">Manis Site</a></li>
+<li><a href="/wiki/Plano_point" title="Plano point">Plano</a></li>
+<li><a href="/wiki/Transverse_arrowhead" title="Transverse arrowhead">Transverse arrowhead</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Systems</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Game_drive_system" title="Game drive system">Game drive system</a>
+<ul>
+<li><a href="/wiki/Buffalo_jump" title="Buffalo jump">Buffalo jump</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/Lithic_technology" title="Lithic technology">Toolmaking</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Industry_(archaeology)" title="Industry (archaeology)">Earliest toolmaking</a>
+<ul>
+<li><a href="/wiki/Oldowan" title="Oldowan">Oldowan</a></li>
+<li><a href="/wiki/Acheulean" title="Acheulean">Acheulean</a></li>
+<li><a href="/wiki/Mousterian" title="Mousterian">Mousterian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Clovis_culture" title="Clovis culture">Clovis culture</a></li>
+<li><a href="/wiki/Cupstone" title="Cupstone">Cupstone</a></li>
+<li><a href="/wiki/Fire_hardening" title="Fire hardening">Fire hardening</a></li>
+<li><a href="/wiki/Gravettian" title="Gravettian">Gravettian culture</a></li>
+<li><a href="/wiki/Hafting" title="Hafting">Hafting</a></li>
+<li><a href="/wiki/Hand_axe" title="Hand axe">Hand axe</a>
+<ul>
+<li><a href="/wiki/Grooves_(archaeology)" title="Grooves (archaeology)">Grooves</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Langdale_axe_industry" title="Langdale axe industry">Langdale axe industry</a></li>
+<li><a href="/wiki/Levallois_technique" title="Levallois technique">Levallois technique</a></li>
+<li><a href="/wiki/Lithic_core" title="Lithic core">Lithic core</a></li>
+<li><a href="/wiki/Lithic_reduction" title="Lithic reduction">Lithic reduction</a>
+<ul>
+<li><a href="/wiki/Lithic_analysis" title="Lithic analysis">analysis</a></li>
+<li><a href="/wiki/Debitage" title="Debitage">debitage</a></li>
+<li><a href="/wiki/Lithic_flake" title="Lithic flake">flake</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lithic_technology" title="Lithic technology">Lithic technology</a></li>
+<li><a href="/wiki/Magdalenian" title="Magdalenian">Magdalenian culture</a></li>
+<li><a href="/wiki/Ferrous_metallurgy" title="Ferrous metallurgy">Metallurgy</a></li>
+<li><a href="/wiki/Microblade_technology" title="Microblade technology">Microblade technology</a></li>
+<li><a href="/wiki/Grime%27s_Graves" title="Grime's Graves">Mining</a></li>
+<li><a href="/wiki/Prepared-core_technique" title="Prepared-core technique">Prepared-core technique</a></li>
+<li><a href="/wiki/Solutrean" title="Solutrean">Solutrean industry</a></li>
+<li><a href="/wiki/Striking_platform" title="Striking platform">Striking platform</a></li>
+<li><a href="/wiki/Tool_stone" title="Tool stone">Tool stone</a></li>
+<li><a href="/wiki/Uniface" title="Uniface">Uniface</a></li>
+<li><a href="/wiki/Yubetsu_technique" title="Yubetsu technique">Yubetsu technique</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Other tools</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adze" title="Adze">Adze</a></li>
+<li><a href="/wiki/Stitching_awl" title="Stitching awl">Awl</a>
+<ul>
+<li><a href="/wiki/Use_of_animals_during_the_Gravettian_period#Use_of_animal_remains" title="Use of animals during the Gravettian period">bone</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Axe" title="Axe">Axe</a></li>
+<li><a href="/wiki/Bannerstone" title="Bannerstone">Bannerstone</a></li>
+<li><a href="/wiki/Blade_(archaeology)" title="Blade (archaeology)">Blade</a>
+<ul>
+<li><a href="/wiki/Prismatic_blade" title="Prismatic blade">prismatic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bone_tool" title="Bone tool">Bone tool</a></li>
+<li><a href="/wiki/Bow_drill" title="Bow drill">Bow drill</a></li>
+<li><a href="/wiki/Burin_(lithic_flake)" title="Burin (lithic flake)">Burin</a></li>
+<li><a href="/wiki/Canoe#History" title="Canoe">Canoe</a>
+<ul>
+<li><a href="/wiki/Oar" title="Oar">Oar</a></li>
+<li><a href="/wiki/Pesse_canoe" title="Pesse canoe">Pesse canoe</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chopper_(archaeology)" title="Chopper (archaeology)">Chopper</a>
+<ul>
+<li><a href="/wiki/Chopping_tool" title="Chopping tool">tool</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cleaver_(tool)" title="Cleaver (tool)">Cleaver</a></li>
+<li><a href="/wiki/Denticulate_tool" title="Denticulate tool">Denticulate tool</a></li>
+<li><a href="/wiki/Fire_plough" title="Fire plough">Fire plough</a></li>
+<li><a href="/wiki/Fire-saw" title="Fire-saw">Fire-saw</a></li>
+<li><a href="/wiki/Hammerstone" title="Hammerstone">Hammerstone</a></li>
+<li><a href="/wiki/Knife" title="Knife">Knife</a></li>
+<li><a href="/wiki/Microlith" title="Microlith">Microlith</a></li>
+<li><a href="/wiki/Quern-stone" title="Quern-stone">Quern-stone</a></li>
+<li><a href="/wiki/Racloir" title="Racloir">Racloir</a></li>
+<li><a href="/wiki/Rope" title="Rope">Rope</a></li>
+<li><a href="/wiki/Scraper_(archaeology)" title="Scraper (archaeology)">Scraper</a>
+<ul>
+<li><a href="/wiki/Grattoir_de_c%C3%B4t%C3%A9" title="Grattoir de côté">side</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stone_tool" title="Stone tool">Stone tool</a></li>
+<li><a href="/wiki/Tally_stick#Paleolithic_tally_sticks" title="Tally stick">Tally stick</a></li>
+<li><a href="/wiki/History_of_weapons#Copper_Age" title="History of weapons">Weapons</a></li>
+<li><a href="/wiki/Wheel" title="Wheel">Wheel</a>
+<ul>
+<li><a href="/wiki/Bronocice_pot" title="Bronocice pot">illustration</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Architecture" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_architecture" title="History of architecture">Architecture</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Ceremonial</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/G%C3%B6bekli_Tepe" title="Göbekli Tepe">Göbekli Tepe</a></li>
+<li><a href="/wiki/Kiva" title="Kiva">Kiva</a></li>
+<li><a href="/wiki/Menhir" title="Menhir">Standing stones</a>
+<ul>
+<li><a href="/wiki/Megalith" title="Megalith">megalith</a></li>
+<li><a href="/wiki/Stone_row" title="Stone row">row</a></li>
+<li><a href="/wiki/Stonehenge" title="Stonehenge">Stonehenge</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pyramid" title="Pyramid">Pyramid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Dwellings</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Neolithic_architecture" title="Neolithic architecture">Neolithic architecture</a></i></li>
+<li><a href="/wiki/British_megalith_architecture" title="British megalith architecture">British megalith architecture</a></li>
+<li><a href="/wiki/Nordic_megalith_architecture" title="Nordic megalith architecture">Nordic megalith architecture</a></li>
+<li><a href="/wiki/Burdei" title="Burdei">Burdei</a></li>
+<li><a href="/wiki/Cave" title="Cave">Cave</a></li>
+<li><a href="/wiki/Cliff_dwelling" title="Cliff dwelling">Cliff dwelling</a></li>
+<li><a href="/wiki/Dugout_(shelter)" title="Dugout (shelter)">Dugout</a></li>
+<li><a href="/wiki/Hut" title="Hut">Hut</a>
+<ul>
+<li><a href="/wiki/Quiggly_hole" title="Quiggly hole">Quiggly hole</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jacal" title="Jacal">Jacal</a></li>
+<li><a href="/wiki/Longhouse" title="Longhouse">Longhouse</a></li>
+<li><a href="/wiki/Mudbrick" title="Mudbrick">Mud brick</a>
+<ul>
+<li><a href="/wiki/Mehrgarh#Lifestyle_and_technology" title="Mehrgarh">Mehrgarh</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neolithic_long_house" title="Neolithic long house">Neolithic long house</a></li>
+<li><a href="/wiki/Pit-house" title="Pit-house">Pit-house</a></li>
+<li><a href="/wiki/Navajo_pueblitos" title="Navajo pueblitos">Pueblitos</a></li>
+<li><a href="/wiki/Pueblo" title="Pueblo">Pueblo</a></li>
+<li><a href="/wiki/Rock_shelter" title="Rock shelter">Rock shelter</a>
+<ul>
+<li><a href="/wiki/Blombos_Cave" title="Blombos Cave">Blombos Cave</a></li>
+<li><a href="/wiki/Abri_de_la_Madeleine" title="Abri de la Madeleine">Abri de la Madeleine</a></li>
+<li><a href="/wiki/Sibudu_Cave" title="Sibudu Cave">Sibudu Cave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ness_of_Brodgar" title="Ness of Brodgar">Stone roof</a></li>
+<li><a href="/wiki/Roundhouse_(dwelling)" title="Roundhouse (dwelling)">Roundhouse</a></li>
+<li><a href="/wiki/Stilt_house" title="Stilt house">Stilt house</a>
+<ul>
+<li><a href="/wiki/Prehistoric_pile_dwellings_around_the_Alps" title="Prehistoric pile dwellings around the Alps">Alp pile dwellings</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wattle_and_daub" title="Wattle and daub">Wattle and daub</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Water management</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Check_dam" title="Check dam">Check dam</a></li>
+<li><a href="/wiki/Cistern" title="Cistern">Cistern</a></li>
+<li><a href="/wiki/Flush_toilet#History" title="Flush toilet">Flush toilet</a></li>
+<li><a href="/wiki/Reservoir" title="Reservoir">Reservoir</a></li>
+<li><a href="/wiki/Water_well" title="Water well">Water well</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Other architecture</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Feature_(archaeology)" title="Feature (archaeology)">Archaeological features</a></li>
+<li><a href="/wiki/Broch" title="Broch">Broch</a></li>
+<li><a href="/wiki/Burnt_mound" title="Burnt mound">Burnt mound</a>
+<ul>
+<li><a href="/wiki/Fulacht_fiadh" title="Fulacht fiadh">fulacht fiadh</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Causewayed_enclosure" title="Causewayed enclosure">Causewayed enclosure</a>
+<ul>
+<li><a href="/wiki/Tor_enclosure" title="Tor enclosure">Tor enclosure</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neolithic_circular_enclosures_in_Central_Europe" title="Neolithic circular enclosures in Central Europe">Circular enclosure</a>
+<ul>
+<li><a href="/wiki/Goseck_circle" title="Goseck circle">Goseck</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cursus" title="Cursus">Cursus</a></li>
+<li><a href="/wiki/Henge" title="Henge">Henge</a>
+<ul>
+<li><a href="/wiki/Thornborough_Henges" title="Thornborough Henges">Thornborough</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_oldest_buildings" title="List of oldest buildings">Oldest buildings</a></li>
+<li><a href="/wiki/Megalithic_architectural_elements" title="Megalithic architectural elements">Megalithic architectural elements</a></li>
+<li><a href="/wiki/Midden" title="Midden">Midden</a></li>
+<li><a href="/wiki/Timber_circle" title="Timber circle">Timber circle</a></li>
+<li><a href="/wiki/Timber_trackway" title="Timber trackway">Timber trackway</a>
+<ul>
+<li><a href="/wiki/Sweet_Track" title="Sweet Track">Sweet Track</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Arts_and_culture" style="font-size:114%;margin:0 4em"><a href="/wiki/Prehistoric_art" title="Prehistoric art">Arts</a> and culture</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Material goods</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basket_weaving" title="Basket weaving">Baskets</a></li>
+<li><a href="/wiki/Beadwork" title="Beadwork">Beadwork</a></li>
+<li><a href="/wiki/Bed#History" title="Bed">Beds</a></li>
+<li><a href="/wiki/Chalcolithic" title="Chalcolithic">Chalcolithic</a></li>
+<li><a href="/wiki/History_of_clothing_and_textiles" title="History of clothing and textiles">Clothing/textiles</a>
+<ul>
+<li><a href="/wiki/Timeline_of_clothing_and_textiles_technology" title="Timeline of clothing and textiles technology">timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_cosmetics" title="History of cosmetics">Cosmetics</a></li>
+<li><a href="/wiki/Middle_Stone_Age" title="Middle Stone Age">Glue</a></li>
+<li><a href="/wiki/History_of_hide_materials" title="History of hide materials">Hides</a>
+<ul>
+<li><a href="/wiki/Shoe#History" title="Shoe">shoes</a></li>
+<li><a href="/wiki/%C3%96tzi#Clothes_and_shoes" title="Ötzi">Ötzi</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jewellery#History" title="Jewellery">Jewelry</a>
+<ul>
+<li><a href="/wiki/Amber#Use" title="Amber">amber use</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mirror#History" title="Mirror">Mirrors</a></li>
+<li><a href="/wiki/Pottery#History" title="Pottery">Pottery</a>
+<ul>
+<li><a href="/wiki/Cardium_pottery" title="Cardium pottery">Cardium</a></li>
+<li><a href="/wiki/Grooved_ware" title="Grooved ware">Grooved ware</a></li>
+<li><a href="/wiki/Linear_Pottery_culture" title="Linear Pottery culture">Linear</a></li>
+<li><a href="/wiki/J%C5%8Dmon_pottery" title="Jōmon pottery">Jōmon</a></li>
+<li><a href="/wiki/Unstan_ware" title="Unstan ware">Unstan ware</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sewing_needle#History" title="Sewing needle">Sewing needle</a></li>
+<li><a href="/wiki/Weaving" title="Weaving">Weaving</a></li>
+<li><a href="/wiki/History_of_wine" title="History of wine">Wine</a>
+<ul>
+<li><a href="/wiki/Areni-1_winery" title="Areni-1 winery">Winery</a></li>
+<li><a href="/wiki/History_of_the_wine_press#Early_history" title="History of the wine press">wine press</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/Prehistoric_art" title="Prehistoric art">Prehist</a><a href="/wiki/Category:Prehistoric_art" title="Category:Prehistoric art">Art</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Art_of_the_Upper_Paleolithic" title="Art of the Upper Paleolithic">Art of the Upper Paleolithic</a></li>
+<li><a href="/wiki/Art_of_the_Middle_Paleolithic" title="Art of the Middle Paleolithic">Art of the Middle Paleolithic</a>
+<ul>
+<li><a href="/wiki/Blombos_Cave#Archaeological_remains_and_material_culture_from_the_Middle_Stone_Age_levels" title="Blombos Cave">Blombos Cave</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_Stone_Age_art" title="List of Stone Age art">List of Stone Age art</a></li>
+<li><a href="/wiki/Bird_stone" title="Bird stone">Bird stone</a></li>
+<li><a href="/wiki/Bradshaw_rock_paintings" title="Bradshaw rock paintings">Bradshaw rock paintings</a></li>
+<li><a href="/wiki/Cairn" title="Cairn">Cairn</a></li>
+<li><a href="/wiki/Carved_Stone_Balls" title="Carved Stone Balls">Carved Stone Balls</a></li>
+<li><a href="/wiki/Cave_painting" title="Cave painting">Cave paintings</a>
+<ul>
+<li><a href="/wiki/History_of_painting#Pre-history" title="History of painting">painting</a></li>
+<li><a href="/wiki/Pigment#History" title="Pigment">pigment</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cup_and_ring_mark" title="Cup and ring mark">Cup and ring mark</a></li>
+<li><a href="/wiki/Geoglyph" title="Geoglyph">Geoglyph</a></li>
+<li><a href="/wiki/Golden_hat" title="Golden hat">Golden hats</a></li>
+<li><a href="/wiki/Guardian_stones" title="Guardian stones">Guardian stones</a></li>
+<li><a href="/wiki/Megalithic_art" title="Megalithic art">Megalithic art</a></li>
+<li><a href="/wiki/Petroform" title="Petroform">Petroform</a></li>
+<li><a href="/wiki/Petroglyph" title="Petroglyph">Petroglyph</a></li>
+<li><a href="/wiki/Petrosomatoglyph" title="Petrosomatoglyph">Petrosomatoglyph</a></li>
+<li><a href="/wiki/Pictogram" title="Pictogram">Pictogram</a></li>
+<li><a href="/wiki/Rock_art" title="Rock art">Rock art</a>
+<ul>
+<li><a href="/wiki/Stone_carving" title="Stone carving">Stone carving</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sculpture#Prehistoric_periods" title="Sculpture">Sculpture</a></li>
+<li><a href="/wiki/Statue_menhir" title="Statue menhir">Statue menhir</a></li>
+<li><a href="/wiki/Stone_circle" title="Stone circle">Stone circle</a>
+<ul>
+<li><a href="/wiki/List_of_stone_circles" title="List of stone circles">list</a></li>
+<li><a href="/wiki/Stone_circles_in_the_British_Isles_and_Brittany" title="Stone circles in the British Isles and Brittany">British Isles and Brittany</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Venus_figurines" title="Venus figurines">Venus figurines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/Paleolithic_religion" title="Paleolithic religion">Burial</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tumulus" title="Tumulus">Burial mounds</a>
+<ul>
+<li><a href="/wiki/Bowl_barrow" title="Bowl barrow">Bowl barrow</a></li>
+<li><a href="/wiki/Round_barrow" title="Round barrow">Round barrow</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mound_Builders" title="Mound Builders">Mound Builders culture</a>
+<ul>
+<li><a href="/wiki/List_of_burial_mounds_in_the_United_States" title="List of burial mounds in the United States">U.S. sites</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chamber_tomb" title="Chamber tomb">Chamber tomb</a>
+<ul>
+<li><a href="/wiki/Severn-Cotswold_tomb" title="Severn-Cotswold tomb">Severn-Cotswold</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cist" title="Cist">Cist</a>
+<ul>
+<li><a href="/wiki/Dartmoor_kistvaens" title="Dartmoor kistvaens">Dartmoor kistvaens</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Clava_cairn" title="Clava cairn">Clava cairn</a></li>
+<li><a href="/wiki/Court_cairn" title="Court cairn">Court tomb</a></li>
+<li><a href="/wiki/Cremation#History" title="Cremation">Cremation</a></li>
+<li><a href="/wiki/Dolmen" title="Dolmen">Dolmen</a>
+<ul>
+<li><a href="/wiki/Great_dolmen" title="Great dolmen">Great dolmen</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pyre" title="Pyre">Funeral pyre</a></li>
+<li><a href="/wiki/Gallery_grave" title="Gallery grave">Gallery grave</a>
+<ul>
+<li><a href="/wiki/Transepted_gallery_grave" title="Transepted gallery grave">transepted</a></li>
+<li><a href="/wiki/Wedge-shaped_gallery_grave" title="Wedge-shaped gallery grave">wedge-shaped</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Grave_goods" title="Grave goods">Grave goods</a></li>
+<li><a href="/wiki/Jar_burial" title="Jar burial">Jar burial</a></li>
+<li><a href="/wiki/Long_barrow" title="Long barrow">Long barrow</a>
+<ul>
+<li><a href="/wiki/Unchambered_long_barrow" title="Unchambered long barrow">unchambered</a></li>
+<li><a href="/wiki/Gr%C3%B8nsalen" title="Grønsalen">Grønsalen</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/Megalithic_tomb" title="Megalithic tomb">Megalithic tomb</a></li>
+<li><a href="/wiki/Mummy" title="Mummy">Mummy</a></li>
+<li><a href="/wiki/Passage_grave" title="Passage grave">Passage grave</a></li>
+<li><a href="/wiki/Rectangular_dolmen" title="Rectangular dolmen">Rectangular dolmen</a></li>
+<li><a href="/wiki/Ring_cairn" title="Ring cairn">Ring cairn</a></li>
+<li><a href="/wiki/Simple_dolmen" title="Simple dolmen">Simple dolmen</a></li>
+<li><a href="/wiki/Stone_box_grave" title="Stone box grave">Stone box grave</a></li>
+<li><a href="/wiki/Tor_cairn" title="Tor cairn">Tor cairn</a></li>
+<li><a href="/wiki/Tumulus" title="Tumulus">Tumulus</a></li>
+<li><a href="/wiki/Unchambered_long_cairn" title="Unchambered long cairn">Unchambered long cairn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Other cultural</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archaeoastronomy" title="Archaeoastronomy">Astronomy</a>
+<ul>
+<li><a href="/wiki/List_of_archaeoastronomical_sites_by_country" title="List of archaeoastronomical sites by country">sites</a></li>
+<li><a href="/wiki/Lunar_calendar" title="Lunar calendar">lunar calendar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Behavioral_modernity" title="Behavioral modernity">Behavioral modernity</a></li>
+<li><a href="/wiki/Origin_of_language" title="Origin of language">Origin of language</a></li>
+<li><a href="/wiki/Prehistoric_medicine" title="Prehistoric medicine">Prehistoric medicine</a>
+<ul>
+<li><a href="/wiki/Trepanning" title="Trepanning">trepanning</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Evolutionary_musicology" title="Evolutionary musicology">Evolutionary musicology</a>
+<ul>
+<li><a href="/wiki/Music_archaeology" title="Music archaeology">music archaeology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Prehistoric_music" title="Prehistoric music">Prehistoric music</a>
+<ul>
+<li><a href="/wiki/Alligator_drum" title="Alligator drum">Alligator drum</a></li>
+<li><a href="/wiki/Paleolithic_flutes" title="Paleolithic flutes">flutes</a></li>
+<li><a href="/wiki/Divje_Babe_Flute" title="Divje Babe Flute">Divje Babe flute</a></li>
+<li><a href="/wiki/Gudi_(instrument)" title="Gudi (instrument)">gudi</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Prehistoric_numerals" title="Prehistoric numerals">Prehistoric numerals</a></li>
+<li><a href="/wiki/Evolutionary_origin_of_religions" title="Evolutionary origin of religions">Origin of religion</a>
+<ul>
+<li><a href="/wiki/Paleolithic_religion" title="Paleolithic religion">Paleolithic religion</a></li>
+<li><a href="/wiki/Prehistoric_religion" title="Prehistoric religion">Prehistoric religion</a></li>
+<li><a href="/wiki/Entheogenic_drugs_and_the_archaeological_record" title="Entheogenic drugs and the archaeological record">Spiritual drug use</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Prehistoric_warfare" title="Prehistoric warfare">Prehistoric warfare</a></li>
+<li><a href="/wiki/Diepkloof_Rock_Shelter" title="Diepkloof Rock Shelter">Symbols</a>
+<ul>
+<li><a href="/wiki/Howiesons_Poort#Symbolism" title="Howiesons Poort">symbolism</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20171104215839
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.416 seconds
+Real time usage: 0.497 seconds
+Preprocessor visited node count: 2705/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 196831/2097152 bytes
+Template argument size: 14073/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 4.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  376.654      1 -total
+ 49.13%  185.064      1 Template:Reflist
+ 33.45%  125.982     20 Template:Cite_journal
+ 15.11%   56.922      1 Template:More_footnotes
+  9.64%   36.319      1 Template:Prehistoric_technology
+  9.35%   35.223      2 Template:Citation_needed
+  9.06%   34.127      1 Template:Ambox
+  8.87%   33.405      1 Template:Navbox_with_collapsible_groups
+  8.43%   31.742      2 Template:Fix
+  6.67%   25.131      6 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8413101-0!canonical and timestamp 20171104215838 and revision id 801832429
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solutrean_hypothesis&amp;oldid=801832429">https://en.wikipedia.org/w/index.php?title=Solutrean_hypothesis&amp;oldid=801832429</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Archaeological_theory" title="Category:Archaeological theory">Archaeological theory</a></li><li><a href="/wiki/Category:Pre-Columbian_trans-oceanic_contact" title="Category:Pre-Columbian trans-oceanic contact">Pre-Columbian trans-oceanic contact</a></li><li><a href="/wiki/Category:Clovis_culture" title="Category:Clovis culture">Clovis culture</a></li><li><a href="/wiki/Category:Stone_Age_Europe" title="Category:Stone Age Europe">Stone Age Europe</a></li><li><a href="/wiki/Category:Upper_Paleolithic" title="Category:Upper Paleolithic">Upper Paleolithic</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2016" title="Category:Articles lacking in-text citations from April 2016">Articles lacking in-text citations from April 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solutrean+hypothesis" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Solutrean+hypothesis" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Solutrean_hypothesis" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Solutrean_hypothesis" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Solutrean_hypothesis">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Solutrean_hypothesis&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Solutrean_hypothesis&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Solutrean_hypothesis" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Solutrean_hypothesis" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Solutrean_hypothesis&amp;oldid=801832429" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Solutrean_hypothesis&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2602605" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solutrean_hypothesis&amp;id=801832429" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solutrean+hypothesis">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Solutrean+hypothesis&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Solutrean_hypothesis&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Solutr%C3%A9ensk%C3%A1_hypot%C3%A9za" hreflang="cs" lang="cs" title="Solutréenská hypotéza – Czech">Čeština</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Poblamiento_de_Am%C3%A9rica_(ruta_del_Atl%C3%A1ntico)" hreflang="es" lang="es" title="Poblamiento de América (ruta del Atlántico) – Spanish">Español</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Hipoteza_solutrejska" hreflang="pl" lang="pl" title="Hipoteza solutrejska – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%8E%D1%82%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0" hreflang="ru" lang="ru" title="Солютрейская гипотеза – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Solutr%C3%A9enska_hypot%C3%A9za" hreflang="sk" lang="sk" title="Solutréenska hypotéza – Slovak">Slovenčina</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2602605#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 September 2017, at 04:19.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Solutrean_hypothesis&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.497","ppvisitednodes":{"value":2705,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":196831,"limit":2097152},"templateargumentsize":{"value":14073,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  376.654      1 -total"," 49.13%  185.064      1 Template:Reflist"," 33.45%  125.982     20 Template:Cite_journal"," 15.11%   56.922      1 Template:More_footnotes","  9.64%   36.319      1 Template:Prehistoric_technology","  9.35%   35.223      2 Template:Citation_needed","  9.06%   34.127      1 Template:Ambox","  8.87%   33.405      1 Template:Navbox_with_collapsible_groups","  8.43%   31.742      2 Template:Fix","  6.67%   25.131      6 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":5002611,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20171104215839","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

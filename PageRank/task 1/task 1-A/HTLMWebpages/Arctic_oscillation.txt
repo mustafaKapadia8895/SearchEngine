@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Arctic oscillation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arctic_oscillation","wgTitle":"Arctic oscillation","wgCurRevisionId":805356176,"wgRevisionId":805356176,"wgArticleId":1277797,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles that may contain original research","Articles that may contain original research from January 2012","Climate","Climate patterns","Environment of the Arctic"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arctic_oscillation","wgRelevantArticleId":1277797,"wgRequestId":"WgGVNwpAIDcAAGbbBQEAAAAW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q674041","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/1200px-Arctic_Oscillation_II.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arctic_oscillation" rel="alternate"/>
+<link href="/w/index.php?title=Arctic_oscillation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Arctic_oscillation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Arctic_oscillation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Arctic_oscillation rootpage-Arctic_oscillation vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Arctic oscillation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:112px;"><a class="image" href="/wiki/File:Arctic_Oscillation_II.svg"><img alt="" class="thumbimage" data-file-height="630" data-file-width="300" height="231" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/110px-Arctic_Oscillation_II.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/165px-Arctic_Oscillation_II.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/220px-Arctic_Oscillation_II.svg.png 2x" width="110"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Arctic_Oscillation_II.svg" title="Enlarge"></a></div>
+Positive and negative phases of the Arctic Oscillation</div>
+</div>
+</div>
+<p>The <b>Arctic oscillation</b> (<b>AO</b>) or <b>Northern Annular Mode</b>/<b>Northern Hemisphere Annular Mode</b> (<b>NAM</b>) is an index (which varies over time with no particular periodicity) of the dominant pattern of non-seasonal <a class="mw-redirect" href="/wiki/Sea-level_pressure" title="Sea-level pressure">sea-level pressure</a> variations north of 20N latitude, and it is characterized by pressure anomalies of one sign in the Arctic with the opposite anomalies centered about 37–45N.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>The <a href="/wiki/North_Atlantic_oscillation" title="North Atlantic oscillation">North Atlantic oscillation</a> (NAO) is a close relative of the AO and there exist arguments about whether one or the other is more fundamentally representative of the atmosphere's dynamics; Ambaum et al. argue that the NAO can be identified in a more physically meaningful way.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Periodicity"><span class="tocnumber">2</span> <span class="toctext">Periodicity</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Impacts"><span class="tocnumber">3</span> <span class="toctext">Impacts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Example"><span class="tocnumber">3.1</span> <span class="toctext">Example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arctic_oscillation&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The AO is believed by climatologists to be causally related to, and thus partially predictive of, weather patterns in locations many thousands of miles away, including many of the major population centers of Europe and North America. NASA climatologist Dr. <a class="mw-redirect" href="/wiki/James_E._Hansen" title="James E. Hansen">James E. Hansen</a> explained the mechanism by which the AO affects weather at points so distant from the Arctic, as follows:</p>
+<blockquote class="templatequote">
+<p>The degree to which Arctic air penetrates into middle latitudes is related to the AO index, which is defined by surface atmospheric pressure patterns. When the AO index is positive, surface pressure is low in the polar region. This helps the middle latitude jet stream to blow strongly and consistently from west to east, thus keeping cold Arctic air locked in the polar region. When the AO index is negative, there tends to be high pressure in the polar region, weaker zonal winds, and greater movement of frigid polar air into middle latitudes." <sup class="reference" id="cite_ref-Hansen_2009_3-0"><a href="#cite_note-Hansen_2009-3">[3]</a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="Periodicity">Periodicity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arctic_oscillation&amp;action=edit&amp;section=2" title="Edit section: Periodicity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Arctic_Oscillation.svg"><img alt="" class="thumbimage" data-file-height="650" data-file-width="1000" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arctic_Oscillation.svg/220px-Arctic_Oscillation.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arctic_Oscillation.svg/330px-Arctic_Oscillation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arctic_Oscillation.svg/440px-Arctic_Oscillation.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Arctic_Oscillation.svg" title="Enlarge"></a></div>
+Arctic Oscillation time series for the extended (DJFM) winter season 1899–2011.</div>
+</div>
+</div>
+<p>Over most of the past century, the Arctic Oscillation alternated between its positive and negative phases. Starting in the 1970s the oscillation has trended to more of a positive phase when averaged using a 60-day running mean, though it has trended to a more neutral state in the last decade. The oscillation still fluctuates <a href="/wiki/Stochastic" title="Stochastic">stochastically</a> between negative and positive values on daily, monthly, seasonal and annual time scales, although, despite its stochastic nature, meteorologists have attained high levels of predictive accuracy in recent times, at least for the shorter term forecasts. (The correlation between actual observations and the 7-day mean <a href="/wiki/Global_Forecast_System" title="Global Forecast System">GFS</a> <a href="/wiki/Ensemble_forecasting" title="Ensemble forecasting">ensemble</a> AO forecasts is approximately 0.9, a figure at the high end for that statistic.)<sup class="reference" id="cite_ref-urlCPC-DailyAOIndex_4-0"><a href="#cite_note-urlCPC-DailyAOIndex-4">[4]</a></sup></p>
+<p>This zonally symmetric seesaw between sea level pressures in polar and temperate latitudes was first identified by <a class="mw-redirect" href="/wiki/Edward_Lorenz" title="Edward Lorenz">Edward Lorenz</a> <sup class="reference" id="cite_ref-Lorenz_1951_5-0"><a href="#cite_note-Lorenz_1951-5">[5]</a></sup> and named in 1998 by David W.J. Thompson and <a href="/wiki/John_Michael_Wallace" title="John Michael Wallace">John Michael Wallace</a>.<sup class="reference" id="cite_ref-Thompson_1998_6-0"><a href="#cite_note-Thompson_1998-6">[6]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Impacts">Impacts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arctic_oscillation&amp;action=edit&amp;section=3" title="Edit section: Impacts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:308px;max-width:308px">
+<div class="tsingle" style="float:left;margin:1px;width:152px;max-width:152px">
+<div class="thumbimage"><a class="image" href="/wiki/File:AO_Temperature.png"><img alt="" data-file-height="2654" data-file-width="2508" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/AO_Temperature.png/150px-AO_Temperature.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/AO_Temperature.png/225px-AO_Temperature.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/AO_Temperature.png/300px-AO_Temperature.png 2x" width="150"/></a></div>
+<div class="thumbcaption" style="clear:left">AO DJFM temperature pattern.</div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:152px;max-width:152px">
+<div class="thumbimage"><a class="image" href="/wiki/File:AO_Precipitation.png"><img alt="" data-file-height="2648" data-file-width="2501" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/AO_Precipitation.png/150px-AO_Precipitation.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/AO_Precipitation.png/225px-AO_Precipitation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/AO_Precipitation.png/300px-AO_Precipitation.png 2x" width="150"/></a></div>
+<div class="thumbcaption" style="clear:left">AO DJFM precipitation pattern.</div>
+</div>
+<div style="clear:left"></div>
+</div>
+</div>
+<p>The <a href="/wiki/National_Snow_and_Ice_Data_Center" title="National Snow and Ice Data Center">National Snow and Ice Data Center</a> describes the effects of the AO in some detail: In the positive phase, higher pressure at <a class="mw-redirect" href="/wiki/Midlatitudes" title="Midlatitudes">midlatitudes</a> drives ocean storms farther north, and changes in the circulation pattern bring wetter weather to <a href="/wiki/Alaska" title="Alaska">Alaska</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a> and <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a>, as well as drier conditions to the western <a href="/wiki/United_States" title="United States">United States</a> and the <a class="mw-redirect" href="/wiki/Mediterranean" title="Mediterranean">Mediterranean</a>. In the positive phase, frigid winter air does not extend as far into the middle of <a href="/wiki/North_America" title="North America">North America</a> as it would during the negative phase of the oscillation. This keeps much of the United States east of the <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rocky Mountains</a> warmer than normal, but leaves <a href="/wiki/Greenland" title="Greenland">Greenland</a> and <a href="/wiki/Newfoundland_and_Labrador" title="Newfoundland and Labrador">Newfoundland</a> colder than usual. Weather patterns in the negative phase are in general "opposite" to those of the positive phase.</p>
+<p>Climatologists are now routinely invoking the Arctic Oscillation in their official public explanations for extremes of weather. The following statement from the <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a>'s <a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">National Climatic Data Center</a>: <i>State of the Climate December 2010</i> which uses the phrase "negative Arctic Oscillation" four times, is very representative of this increasing tendency:<br/></p>
+<dl>
+<dd>"Cold arctic air gripped western Europe in the first three weeks of December. Two major snowstorms, icy conditions, and frigid temperatures wreaked havoc across much of the region...The harsh winter weather was attributed to a negative Arctic Oscillation, which is a climate pattern that influences weather in the Northern Hemisphere. A very persistent, strong ridge of high pressure, or 'blocking system', near Greenland allowed cold Arctic air to slide south into Europe. Europe was not the only region in the Northern Hemisphere affected by the Arctic Oscillation. A large snow storm and frigid temperatures affected much of the Midwest United States on December 10–13...."<sup class="reference" id="cite_ref-urlClimateDecember2010_7-0"><a href="#cite_note-urlClimateDecember2010-7">[7]</a></sup></dd>
+</dl>
+<p>However, the correlation between sharply negative Arctic Oscillations and excessive winter cold and snow in regions vulnerable in that way to these negative AOs should not be overstated. It is by no means a simple, one-to-one equivalence. An extreme Arctic Oscillation does not necessarily mean extreme weather will occur. For example, since 1950, eight out of the 10 coldest Januarys in New York did not coincide with the 10 lowest January AO values. And the fourth warmest January there since 1950 coincided with one of those 10 most negative AOs.<sup class="reference" id="cite_ref-ReferenceA_8-0"><a href="#cite_note-ReferenceA-8">[8]</a></sup> So, although many climatologists believe that the Arctic Oscillation affects the probability of certain weather events occurring in certain places, the heightened chance of a phenomenon by no means assures it, nor does the lessened likelihood exclude it. Further, the precise value of the AO index only imperfectly reflects the severity of the weather associated with it.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (January 2012)">original research?</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arctic_oscillation&amp;action=edit&amp;section=4" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A further, quite graphic illustration of the effects of the negative phase of the oscillation occurred in February 2010. In that month, the Arctic Oscillation reached its most negative monthly mean value, −4.266, in the entire post-1950 era (the period of accurate record-keeping).<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> That month was characterized by three separate historic snowstorms that occurred in the <a href="/wiki/Mid-Atlantic_states" title="Mid-Atlantic states">mid-Atlantic region</a> of the United States. The <a href="/wiki/February_5%E2%80%936,_2010_North_American_blizzard" title="February 5–6, 2010 North American blizzard">first storm</a> dumped 25 inches (640 mm) on <a class="mw-redirect" href="/wiki/Baltimore,_Maryland" title="Baltimore, Maryland">Baltimore, Maryland</a>, on February 5–6, and then a <a href="/wiki/February_9%E2%80%9310,_2010_North_American_blizzard" title="February 9–10, 2010 North American blizzard">second storm</a> dumped 19.5 inches (500 mm) on February 9–10. In New York City, a <a href="/wiki/February_25%E2%80%9327,_2010_North_American_blizzard" title="February 25–27, 2010 North American blizzard">separate storm</a> deposited 20.9 inches (530 mm) on February 25–26. This kind of snowstorm activity is as anomalous and extreme as the negative AO value itself. Similarly, the greatest negative value for the AO since 1950 in January was −3.767 in 1977, which coincided with the coldest mean January temperature in New York City, Washington, D.C., Baltimore, and many other mid-Atlantic locations in that span of time. And though the January AO has been negative only 60.6% of the time between 1950 and 2010, 9 of the 10 coldest Januarys in New York City since 1950 have coincided with negative AOs.<sup class="reference" id="cite_ref-ReferenceA_8-1"><a href="#cite_note-ReferenceA-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arctic_oscillation&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/North_Atlantic_Current" title="North Atlantic Current">North Atlantic Current</a></li>
+<li><a href="/wiki/John_Michael_Wallace" title="John Michael Wallace">John Michael Wallace</a></li>
+<li><a class="mw-redirect" href="/wiki/Siberian_high" title="Siberian high">Siberian high</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arctic_oscillation&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://jisao.washington.edu/data/aots/" rel="nofollow">Arctic Oscillation (AO) time series, 1899 – June 2002</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://ams.allenpress.com/perlserv/?request=get-abstract&amp;issn=1520-0442&amp;volume=014&amp;issue=16&amp;page=3495" rel="nofollow">Ambaum et al. "Arctic Oscillation or North Atlantic Oscillation?"</a></span></li>
+<li id="cite_note-Hansen_2009-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hansen_2009_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hansen, James; Reto Ruedy; Makiko Sato; Ken Lo (2009). <a class="external text" href="http://www.columbia.edu/~jeh1/mailings/2010/20100115_Temperature2009.pdf" rel="nofollow">"If It's That Warm, How Come It's So Damned Cold?"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=If+It%E2%80%99s+That+Warm%2C+How+Come+It%E2%80%99s+So+Damned+Cold%3F&amp;rft.date=2009&amp;rft.aulast=Hansen&amp;rft.aufirst=James&amp;rft.au=Reto+Ruedy&amp;rft.au=Makiko+Sato&amp;rft.au=Ken+Lo&amp;rft_id=http%3A%2F%2Fwww.columbia.edu%2F~jeh1%2Fmailings%2F2010%2F20100115_Temperature2009.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArctic+oscillation"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-urlCPC-DailyAOIndex-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlCPC-DailyAOIndex_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cpc.noaa.gov/products/precip/CWlink/daily_ao_index/ao_index.html" rel="nofollow">"CPC – Monitoring &amp; Data: Daily Arctic Oscillation Index"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CPC+%E2%80%93+Monitoring+%26+Data%3A+Daily+Arctic+Oscillation+Index&amp;rft_id=http%3A%2F%2Fwww.cpc.noaa.gov%2Fproducts%2Fprecip%2FCWlink%2Fdaily_ao_index%2Fao_index.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArctic+oscillation"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Lorenz_1951-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lorenz_1951_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lorenz, Edward N. (1951). <a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1951)008%3C0052%3ASAIVOT%3E2.0.CO%3B2" rel="nofollow">"SEASONAL AND IRREGULAR VARIATIONS OF THE NORTHERN HEMISPHERE SEA-LEVEL PRESSURE PROFILE"</a>. <i>Journal of Meteorology</i>. <b>8</b> (1): 52–59. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1951JAtS....8...52L" rel="nofollow">1951JAtS....8...52L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0469%281951%29008%3C0052%3ASAIVOT%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0469(1951)008&lt;0052:SAIVOT&gt;2.0.CO;2</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1520-0469" rel="nofollow">1520-0469</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Meteorology&amp;rft.atitle=SEASONAL+AND+IRREGULAR+VARIATIONS+OF+THE+NORTHERN+HEMISPHERE+SEA-LEVEL+PRESSURE+PROFILE&amp;rft.volume=8&amp;rft.issue=1&amp;rft.pages=52-59&amp;rft.date=1951&amp;rft.issn=1520-0469&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0469%281951%29008%3C0052%3ASAIVOT%3E2.0.CO%3B2&amp;rft_id=info%3Abibcode%2F1951JAtS....8...52L&amp;rft.aulast=Lorenz&amp;rft.aufirst=Edward+N.&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2F1520-0469%281951%29008%253C0052%253ASAIVOT%253E2.0.CO%253B2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArctic+oscillation"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Thompson_1998-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Thompson_1998_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Thompson, David W. J.; John Michael Wallace (1998). <a class="external text" href="http://www.agu.org/journals/ABS/1998/98GL00950.shtml" rel="nofollow">"The Arctic oscillation signature in the wintertime geopotential height and temperature fields"</a>. <i>Geophysical Research Letters</i>. <b>25</b> (9): 1297–1300. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1998GeoRL..25.1297T" rel="nofollow">1998GeoRL..25.1297T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F98GL00950" rel="nofollow">10.1029/98GL00950</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=The+Arctic+oscillation+signature+in+the+wintertime+geopotential+height+and+temperature+fields&amp;rft.volume=25&amp;rft.issue=9&amp;rft.pages=1297-1300&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1029%2F98GL00950&amp;rft_id=info%3Abibcode%2F1998GeoRL..25.1297T&amp;rft.aulast=Thompson&amp;rft.aufirst=David+W.+J.&amp;rft.au=John+Michael+Wallace&amp;rft_id=http%3A%2F%2Fwww.agu.org%2Fjournals%2FABS%2F1998%2F98GL00950.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArctic+oscillation"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-urlClimateDecember2010-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlClimateDecember2010_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ncdc.noaa.gov/sotc/2010/12" rel="nofollow">"State of the Climate | December 2010"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=State+of+the+Climate+%26%23124%3B+December+2010&amp;rft_id=http%3A%2F%2Fwww.ncdc.noaa.gov%2Fsotc%2F2010%2F12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArctic+oscillation"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ReferenceA-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">National Weather Service Climate Prediction Center and NWS Forecast Office, as of 2010</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ripesi, Patrizio; et al. (2012). <a class="external text" href="http://clima.meteoam.it/Articoli/Art14.pdf" rel="nofollow">"The February 2010 Arctic Oscillation Index and its stratospheric connection"</a> <span style="font-size:85%;">(PDF)</span>. <i>Quarterly Journal of the Royal Meteorological Society</i>. <b>138</b>: 1961–1969. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2012QJRMS.138.1961R" rel="nofollow">2012QJRMS.138.1961R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fqj.1935" rel="nofollow">10.1002/qj.1935</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quarterly+Journal+of+the+Royal+Meteorological+Society&amp;rft.atitle=The+February+2010+Arctic+Oscillation+Index+and+its+stratospheric+connection&amp;rft.volume=138&amp;rft.pages=1961-1969&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1002%2Fqj.1935&amp;rft_id=info%3Abibcode%2F2012QJRMS.138.1961R&amp;rft.aulast=Ripesi&amp;rft.aufirst=Patrizio&amp;rft_id=http%3A%2F%2Fclima.meteoam.it%2FArticoli%2FArt14.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArctic+oscillation"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arctic_oscillation&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Arctic_oscillation" title="commons:Category:Arctic oscillation">Arctic oscillation</a></b></i>.</td>
+</tr>
+</table>
+<div class="refbegin" style="">
+<ul>
+<li><a class="external text" href="http://www.arctic.noaa.gov/essay_bond.html" rel="nofollow">Overview of Arctic Climate Indices</a></li>
+<li><a class="external text" href="http://ljp.lasg.ac.cn/dct/page/65607" rel="nofollow">Monthly Northern Hemisphere Annular Mode (NAM) Index or Arctic Oscillation (AO) Index 1850 - 2013</a></li>
+<li><a class="external text" href="http://ljp.lasg.ac.cn/dct/page/65571" rel="nofollow">Daily Northern Hemisphere Annular Mode (NAM) Index or Arctic Oscillation (AO) Index 1948 - 2013</a></li>
+<li><a class="external text" href="http://www.cpc.noaa.gov/products/precip/CWlink/daily_ao_index/month.ao.gif" rel="nofollow">NOAA 3-month running mean AO Index 1950 – 2009</a></li>
+<li><a class="external text" href="http://www.bbc.co.uk/blogs/thereporters/richardblack/2010/01/arctic_conditions_arctic_cause.html" rel="nofollow">Arctic roots of 'upside-down' weather</a> BBC news, Tuesday, 5 January 2010</li>
+</ul>
+</div>
+<div aria-labelledby="Climate_oscillations" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Climate_oscillations" title="Template:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Climate_oscillations" title="Template talk:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Climate_oscillations&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Climate_oscillations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Climate oscillations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/8.2_kiloyear_event" title="8.2 kiloyear event">8.2 kiloyear event</a></li>
+<li><a href="/wiki/Antarctic_Circumpolar_Wave" title="Antarctic Circumpolar Wave">Antarctic Circumpolar Wave</a></li>
+<li><a href="/wiki/Antarctic_oscillation" title="Antarctic oscillation">Antarctic oscillation</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a class="mw-selflink selflink">Arctic oscillation</a></li>
+<li><a href="/wiki/Atlantic_Equatorial_mode" title="Atlantic Equatorial mode">Atlantic Equatorial mode</a></li>
+<li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">Atlantic multidecadal oscillation</a></li>
+<li><a href="/wiki/Axial_tilt#Earth" title="Axial tilt">Earth's axial tilt</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond event</a></li>
+<li><a href="/wiki/Dansgaard%E2%80%93Oeschger_event" title="Dansgaard–Oeschger event">Dansgaard–Oeschger event</a></li>
+<li><a href="/wiki/Diurnal_cycle" title="Diurnal cycle">Diurnal cycle</a></li>
+<li><a href="/wiki/Diurnal_temperature_variation" title="Diurnal temperature variation">Diurnal temperature variation</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a> (<a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a> - <a href="/wiki/La_Ni%C3%B1a" title="La Niña">La Niña</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Equatorial_Indian_Ocean_oscillation" title="Equatorial Indian Ocean oscillation">Equatorial Indian Ocean oscillation</a></li>
+<li><a href="/wiki/Ice_age" title="Ice age">Glacial cycles</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">Indian Ocean Dipole</a></li>
+<li><a href="/wiki/Madden%E2%80%93Julian_oscillation" title="Madden–Julian oscillation">Madden–Julian oscillation</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/North_Atlantic_oscillation" title="North Atlantic oscillation">North Atlantic oscillation</a></li>
+<li><a href="/wiki/North_Pacific_Oscillation" title="North Pacific Oscillation">North Pacific Oscillation</a></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">Pacific decadal oscillation</a></li>
+<li><a href="/wiki/Pacific%E2%80%93North_American_teleconnection_pattern" title="Pacific–North American teleconnection pattern">Pacific–North American teleconnection pattern</a></li>
+<li><a href="/wiki/Quasi-biennial_oscillation" title="Quasi-biennial oscillation">Quasi-biennial oscillation</a></li>
+<li><a href="/wiki/Seasonal_lag" title="Seasonal lag">Seasonal lag</a></li>
+<li><a href="/wiki/Season" title="Season">Seasons</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1219
+Cached time: 20171105212203
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.272 seconds
+Preprocessor visited node count: 779/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25356/2097152 bytes
+Template argument size: 1503/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.095/10.000 seconds
+Lua memory usage: 4.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  235.056      1 -total
+ 32.34%   76.020      1 Template:Reflist
+ 23.01%   54.077      1 Template:Or
+ 20.59%   48.407      1 Template:Fix
+ 19.13%   44.965      4 Template:Cite_journal
+ 15.93%   37.437      3 Template:Convert
+ 12.48%   29.335      1 Template:Commonscat
+ 10.53%   24.746      1 Template:Category_handler
+  8.64%   20.309      1 Template:Delink
+  6.26%   14.713      1 Template:Multiple_image
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1277797-0!canonical and timestamp 20171105212203 and revision id 805356176
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arctic_oscillation&amp;oldid=805356176">https://en.wikipedia.org/w/index.php?title=Arctic_oscillation&amp;oldid=805356176</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate" title="Category:Climate">Climate</a></li><li><a href="/wiki/Category:Climate_patterns" title="Category:Climate patterns">Climate patterns</a></li><li><a href="/wiki/Category:Environment_of_the_Arctic" title="Category:Environment of the Arctic">Environment of the Arctic</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_January_2012" title="Category:Articles that may contain original research from January 2012">Articles that may contain original research from January 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arctic+oscillation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Arctic+oscillation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Arctic_oscillation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Arctic_oscillation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Arctic_oscillation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Arctic_oscillation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Arctic_oscillation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Arctic_oscillation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Arctic_oscillation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arctic_oscillation&amp;oldid=805356176" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arctic_oscillation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q674041" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arctic_oscillation&amp;id=805356176" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arctic+oscillation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Arctic+oscillation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Arctic_oscillation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Arctic_oscillation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Pak-ke%CC%8Dk_ch%C3%ADn-t%C5%8Dng" hreflang="zh-min-nan" lang="zh-min-nan" title="Pak-ke̍k chín-tōng – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Oscil%C2%B7laci%C3%B3_%C3%80rtica" hreflang="ca" lang="ca" title="Oscil·lació Àrtica – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Arktische_Oszillation" hreflang="de" lang="de" title="Arktische Oszillation – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Oscilaci%C3%B3n_%C3%A1rtica" hreflang="es" lang="es" title="Oscilación ártica – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Oscillation_arctique" hreflang="fr" lang="fr" title="Oscillation arctique – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B7%B9%EC%A7%84%EB%8F%99" hreflang="ko" lang="ko" title="북극진동 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Oscillazione_artica" hreflang="it" lang="it" title="Oscillazione artica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8C%97%E6%A5%B5%E6%8C%AF%E5%8B%95" hreflang="ja" lang="ja" title="北極振動 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Den_arktiske_oscillasjonen" hreflang="nn" lang="nn" title="Den arktiske oscillasjonen – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%81%D1%86%D0%B8%D0%BB%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Арктическая осцилляция – Russian">Русский</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Arktisk_oscillation" hreflang="sv" lang="sv" title="Arktisk oscillation – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Arktik_sal%C4%B1n%C4%B1m" hreflang="tr" lang="tr" title="Arktik salınım – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8C%97%E6%A5%B5%E6%8C%AF%E7%9B%AA" hreflang="zh" lang="zh" title="北極振盪 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q674041#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 14 October 2017, at 20:51.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Arctic_oscillation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.272","ppvisitednodes":{"value":779,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25356,"limit":2097152},"templateargumentsize":{"value":1503,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  235.056      1 -total"," 32.34%   76.020      1 Template:Reflist"," 23.01%   54.077      1 Template:Or"," 20.59%   48.407      1 Template:Fix"," 19.13%   44.965      4 Template:Cite_journal"," 15.93%   37.437      3 Template:Convert"," 12.48%   29.335      1 Template:Commonscat"," 10.53%   24.746      1 Template:Category_handler","  8.64%   20.309      1 Template:Delink","  6.26%   14.713      1 Template:Multiple_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.095","limit":"10.000"},"limitreport-memusage":{"value":4507942,"limit":52428800}},"cachereport":{"origin":"mw1219","timestamp":"20171105212203","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1185"});});</script>
+</body>
+</html>

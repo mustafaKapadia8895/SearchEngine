@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Convective instability - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Convective_instability","wgTitle":"Convective instability","wgCurRevisionId":800210913,"wgRevisionId":800210913,"wgArticleId":4902127,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Atmospheric thermodynamics","Severe weather and convection"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Convective_instability","wgRelevantArticleId":4902127,"wgRequestId":"WgJ@PgpAICsAADRpVuYAAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3268911","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/e/e6/Convective_Instability.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Convective_instability" rel="alternate"/>
+<link href="/w/index.php?title=Convective_instability&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Convective_instability&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Convective_instability" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Convective_instability rootpage-Convective_instability vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Convective instability</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For a more general discussion of the same phenomenon, see <a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">This article incorporates <a href="/wiki/Copyright_status_of_work_by_the_U.S._government" title="Copyright status of work by the U.S. government">public domain text created by the US government</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Convective_Instability.png"><img alt="" class="thumbimage" data-file-height="662" data-file-width="636" height="229" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Convective_Instability.png/220px-Convective_Instability.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Convective_Instability.png/330px-Convective_Instability.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Convective_Instability.png/440px-Convective_Instability.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Convective_Instability.png" title="Enlarge"></a></div>
+Convective Instability, denoted in the red highlighted region ("positive area"), on a <a href="/wiki/Skew-T_log-P_diagram" title="Skew-T log-P diagram">Skew-T log-P diagram</a>.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <b>convective instability</b> or <b>stability</b> of an <a href="/wiki/Air_mass" title="Air mass">air mass</a> refers to its ability to resist vertical motion. A <i>stable</i> <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a> makes vertical movement difficult, and small vertical disturbances <a class="mw-redirect" href="/wiki/Damped_harmonic_motion" title="Damped harmonic motion">dampen</a> out and disappear. In an <i>unstable</i> atmosphere, vertical air movements (such as in <a class="mw-redirect" href="/wiki/Orographic_lifting" title="Orographic lifting">orographic lifting</a>, where an air mass is displaced upwards as it is blown by <a href="/wiki/Wind" title="Wind">wind</a> up the rising slope of a mountain range) tend to become larger, resulting in turbulent airflow and <a href="/wiki/Atmospheric_convection" title="Atmospheric convection">convective</a> activity. Instability can lead to significant <a href="/wiki/Turbulence" title="Turbulence">turbulence</a>, extensive vertical <a href="/wiki/Cloud" title="Cloud">clouds</a>, and <a href="/wiki/Severe_weather" title="Severe weather">severe weather</a> such as <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_instability&amp;action=edit&amp;section=1" title="Edit section: Mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Adiabatic" title="Adiabatic">Adiabatic</a> cooling and heating are phenomena of rising or descending air. Rising air expands and cools due to the decrease in air pressure as altitude increases. The opposite is true of descending air; as <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a> increases, the <a href="/wiki/Temperature" title="Temperature">temperature</a> of descending air increases as it is compressed. Adiabatic heating and adiabatic cooling are terms used to describe this temperature change.</p>
+<p>The adiabatic lapse rate is the rate at which the temperature of a rising or falling air mass lowers or increases per distance of vertical displacement. The ambient or <a href="/wiki/Lapse_rate#Environmental_lapse_rate" title="Lapse rate">environmental lapse rate</a> is the temperature change in the (non-displaced) air per vertical distance. Instability results from difference between the <a class="mw-redirect" href="/wiki/Adiabatic_lapse_rate" title="Adiabatic lapse rate">adiabatic lapse rate</a> of an air mass and the ambient lapse rate in the atmosphere.<sup class="reference" id="cite_ref-Allaby2007_2-0"><a href="#cite_note-Allaby2007-2">[2]</a></sup></p>
+<p>If the adiabatic lapse rate is <i>lower</i> than the ambient lapse rate, an air mass displaced upward cools <i>less</i> rapidly than the air in which it is moving. Hence, such an air mass becomes <i>warmer</i> relative to the atmosphere. As warmer air is less dense, such an air mass would tend to continue to rise.</p>
+<p>Conversely, if the adiabatic lapse rate is <i>higher</i> than the ambient lapse rate, an air mass displaced upward cools <i>more</i> rapidly than the air in which it is moving. Hence, such an airmass becomes <i>cooler</i> relative to the atmosphere. As cooler air is more dense, the rise of such an airmass would tend to be resisted.</p>
+<p>When air rises, moist air cools at a lower rate than dry air. That is, for the same vertical movement, a parcel of moist air will be warmer than a parcel of dry air. This is because of the <a href="/wiki/Condensation" title="Condensation">condensation</a> of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> in the air parcel due to expansion cooling. As water vapor condenses, <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> is released into the air parcel. Moist air has more water vapor than dry air, so more latent heat is released into the parcel of moist air as it rises. Dry air does not have as much water vapor, therefore dry air cools at a higher rate with vertical movement than moist air. As a result of the latent heat that is released during water vapor condensation, moist air has a relatively lower adiabatic lapse rate than dry air. This makes moist air generally less stable than dry air (see <a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">convective available potential energy</a> [CAPE]). The dry adiabatic lapse rate (for unsaturated air) is 3 °C (5.4 °F) per 1,000 vertical feet (300 m). The moist adiabatic lapse rate varies from 1.1 to 2.8 °C (2.0 to 5.0 °F) per 1,000 vertical feet (300 m).</p>
+<p>The combination of <a href="/wiki/Moisture" title="Moisture">moisture</a> and temperature determine the stability of the air and the resulting weather. Cool, dry air is very stable and resists vertical movement, which leads to good and generally clear weather. The greatest instability occurs when the air is moist and warm, as it is in the tropical regions in the summer. Typically, thunderstorms appear on a daily basis in these regions due to the instability of the surrounding air.</p>
+<p>The ambient lapse rate differs in different meteorological conditions, but, on average, is 2 °C (3.6 °F) per 1,000 vertical feet (300 m).</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_instability&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer</a> (FCL)</li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index</a> (LI)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_instability&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="http://www.faa.gov/library/manuals/aviation/pilot_handbook/media/PHAK%20-%20Chapter%2011.pdf" rel="nofollow">"Weather Theory"</a> <span style="font-size:85%;">(PDF)</span>. <a class="external text" href="http://www.faa.gov/library/manuals/aviation/pilot_handbook/" rel="nofollow"><i>Pilot's Handbook of Aeronautical Knowledge</i></a>. <a href="/wiki/United_States_Department_of_Transportation" title="United States Department of Transportation">United States Department of Transportation</a>, <a href="/wiki/Federal_Aviation_Administration" title="Federal Aviation Administration">Federal Aviation Administration</a>. 2008. pp. 11–12–11–13.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+instability&amp;rft.atitle=Weather+Theory&amp;rft.btitle=Pilot%27s+Handbook+of+Aeronautical+Knowledge&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pages=11-12-11-13&amp;rft.pub=United+States+Department+of+Transportation%2C+Federal+Aviation+Administration&amp;rft_id=http%3A%2F%2Fwww.faa.gov%2Flibrary%2Fmanuals%2Faviation%2Fpilot_handbook%2Fmedia%2FPHAK%2520-%2520Chapter%252011.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Allaby2007-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Allaby2007_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Allaby, Michael; Garratt, Richard (2007). <a class="external text" href="https://books.google.com/books?id=Lql1RAAACAAJ&amp;dq=encyclopedia+of+weather+and+climate&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwidgpj6057WAhVrhlQKHcW3DlcQ6AEIPzAE" rel="nofollow"><i>Encyclopedia of Weather and Climate, Revised Edition, 2-Volume Set</i></a>. Sonlight Christian -m. pp. 435–436. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780816063505" title="Special:BookSources/9780816063505">9780816063505</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+instability&amp;rft.au=Garratt%2C+Richard&amp;rft.aufirst=Michael&amp;rft.aulast=Allaby&amp;rft.btitle=Encyclopedia+of+Weather+and+Climate%2C+Revised+Edition%2C+2-Volume+Set&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=9780816063505&amp;rft.pages=435-436&amp;rft.pub=Sonlight+Christian+-m&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DLql1RAAACAAJ%26dq%3Dencyclopedia%2Bof%2Bweather%2Band%2Bclimate%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwidgpj6057WAhVrhlQKHcW3DlcQ6AEIPzAE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a href="/wiki/Advection" title="Advection">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a href="/wiki/Vorticity" title="Vorticity">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a class="mw-selflink selflink">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a href="/wiki/Pressure_gradient" title="Pressure gradient">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20171026041625
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.178 seconds
+Preprocessor visited node count: 275/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19010/2097152 bytes
+Template argument size: 86/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  143.631      1 -total
+ 41.63%   59.788      1 Template:Reflist
+ 31.78%   45.647      2 Template:Cite_book
+ 27.21%   39.076      3 Template:Convert
+ 18.90%   27.145      1 Template:For
+  8.92%   12.805      1 Template:Meteorological_variables
+  7.53%   10.814      1 Template:Navbox
+  1.83%    2.624      1 Template:Main_other
+  1.50%    2.157      1 Template:Hatnote
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4902127-0!canonical and timestamp 20171026041625 and revision id 800210913
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Convective_instability&amp;oldid=800210913">https://en.wikipedia.org/w/index.php?title=Convective_instability&amp;oldid=800210913</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li><li><a href="/wiki/Category:Severe_weather_and_convection" title="Category:Severe weather and convection">Severe weather and convection</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Convective+instability" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Convective+instability" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Convective_instability" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Convective_instability" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Convective_instability">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Convective_instability&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Convective_instability&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Convective_instability" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Convective_instability" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Convective_instability&amp;oldid=800210913" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Convective_instability&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3268911" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Convective_instability&amp;id=800210913" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Convective+instability">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Convective+instability&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Convective_instability&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%84%D8%A7%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1_%D8%AD%D9%85%D9%84%D9%8A" hreflang="ar" lang="ar" title="لااستقرار حملي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Gradient_thermique_adiabatique#Atmosph.C3.A8re_stable_et_atmosph.C3.A8re_instable" hreflang="fr" lang="fr" title="Gradient thermique adiabatique – French">Français</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Konvektiv_instabilitet" hreflang="no" lang="no" title="Konvektiv instabilitet – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Konvektiv_instabilitet" hreflang="nn" lang="nn" title="Konvektiv instabilitet – Norwegian Nynorsk">Norsk nynorsk</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3268911#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 September 2017, at 03:05.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Convective_instability&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.178","ppvisitednodes":{"value":275,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19010,"limit":2097152},"templateargumentsize":{"value":86,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  143.631      1 -total"," 41.63%   59.788      1 Template:Reflist"," 31.78%   45.647      2 Template:Cite_book"," 27.21%   39.076      3 Template:Convert"," 18.90%   27.145      1 Template:For","  8.92%   12.805      1 Template:Meteorological_variables","  7.53%   10.814      1 Template:Navbox","  1.83%    2.624      1 Template:Main_other","  1.50%    2.157      1 Template:Hatnote"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":3041158,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20171026041625","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

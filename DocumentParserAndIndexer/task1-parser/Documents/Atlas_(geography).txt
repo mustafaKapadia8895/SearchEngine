@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Atlas - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Atlas","wgTitle":"Atlas","wgCurRevisionId":807173220,"wgRevisionId":807173220,"wgArticleId":47429,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from December 2013","All articles needing additional references","Articles needing additional references from May 2015","Wikipedia articles with GND identifiers","Atlases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Atlas","wgRelevantArticleId":47429,"wgRequestId":"Wf7NhQpAEKkAAEgcBD8AAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Atlas_(geography)","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Atlas","wgWikibaseItemId":"Q162827","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg/1200px-Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Atlas" rel="alternate"/>
+<link href="/w/index.php?title=Atlas&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Atlas&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Atlas" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Atlas rootpage-Atlas vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Atlas</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Atlas_(geography)&amp;redirect=no" title="Atlas (geography)">Atlas (geography)</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the Titan condemned to hold the heavens on his shoulders, see <a href="/wiki/Atlas_(mythology)" title="Atlas (mythology)">Atlas (mythology)</a>. For other uses, see <a class="mw-disambig" href="/wiki/Atlas_(disambiguation)" title="Atlas (disambiguation)">Atlas (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Atlas&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Banduri,_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg"><img alt="" class="thumbimage" data-file-height="7104" data-file-width="9910" height="287" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg/400px-Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg/600px-Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg/800px-Banduri%2C_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Banduri,_Covens_et_Mortier_and_Lisle._Imperii_Orientalis_et_Circumjacentium_Regionum.1742.jpg" title="Enlarge"></a></div>
+<i>Imperii Orientalis et Circumjacentium Regionum</i> by <a href="/wiki/Guillaume_Delisle" title="Guillaume Delisle">Guillaume Delisle</a> (1742)</div>
+</div>
+</div>
+<p>An <b>atlas</b> is a collection of <a href="/wiki/Map" title="Map">maps</a>; it is typically a bundle of maps of <a href="/wiki/Earth" title="Earth">Earth</a> or a region of Earth, but there are atlases of the other planets (and their satellites) in the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>. Furthermore, atlases of <a href="/wiki/Anatomy" title="Anatomy">anatomy</a> exist, mapping out organs of the human body or other organisms.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Atlases have traditionally been bound into book form, but today many atlases are in <a href="/wiki/Multimedia" title="Multimedia">multimedia</a> formats. In addition to presenting <a class="mw-redirect" href="/wiki/Geographic" title="Geographic">geographic</a> features and <a class="mw-redirect" href="/wiki/Political" title="Political">political</a> boundaries, many atlases often feature <a class="mw-redirect" href="/wiki/Geopolitical" title="Geopolitical">geopolitical</a>, social, <a class="mw-redirect" href="/wiki/Religious" title="Religious">religious</a> and <a class="mw-redirect" href="/wiki/Economic" title="Economic">economic</a> <a href="/wiki/Statistics" title="Statistics">statistics</a>. They also have information about the map and places in it.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types"><span class="tocnumber">3</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Modern_atlas"><span class="tocnumber">4</span> <span class="toctext">Modern atlas</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Selected_atlases"><span class="tocnumber">5</span> <span class="toctext">Selected atlases</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Mercator_-_Atlas_-_1595.png"><img alt="" class="thumbimage" data-file-height="800" data-file-width="469" height="426" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mercator_-_Atlas_-_1595.png/250px-Mercator_-_Atlas_-_1595.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mercator_-_Atlas_-_1595.png/375px-Mercator_-_Atlas_-_1595.png 1.5x, //upload.wikimedia.org/wikipedia/commons/d/dd/Mercator_-_Atlas_-_1595.png 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mercator_-_Atlas_-_1595.png" title="Enlarge"></a></div>
+Frontispiece of the 1595 atlas of Mercator</div>
+</div>
+</div>
+<p>The use of the word atlas in a geographical context dates from 1595 when the geographer <a href="/wiki/Gerardus_Mercator" title="Gerardus Mercator">Gerardus Mercator</a> published <i>Atlas Sive Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura.</i> (Atlas or cosmographical meditations upon the creation of the universe, and the universe as created.) This title provides Mercator's definition of the word as a description of the creation and form of the whole universe, not simply as a collection of maps. The volume that was published posthumously one year after his death is a wide-ranging text but, as the editions evolved, it became simply a collection of maps and it is in that sense that the word was used from the middle of the seventeenth century. The neologism coined by Mercator was a mark of his respect for <a href="/wiki/Atlas_of_Mauretania" title="Atlas of Mauretania">King Atlas of Mauretania</a> whom he considered to be the first great geographer and it is that King who is portrayed on the frontispiece of the 1595 edition, however, by the time of the 1636 edition, the frontispiece image had become the <a href="/wiki/Atlas_(mythology)" title="Atlas (mythology)">Titan Atlas</a> supporting the globe.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first work that contained systematically arranged woodcut maps of uniform size, intended to be published in a book, thus representing the first modern atlas, was <i>De Summa totius Orbis</i> (1524–26) by the 16th-century Italian cartographer <a href="/wiki/Pietro_Coppo" title="Pietro Coppo">Pietro Coppo</a>. Nonetheless, this distinction is conventionally awarded to the Flemish cartographer <a href="/wiki/Abraham_Ortelius" title="Abraham Ortelius">Abraham Ortelius</a> who in 1570 published the collection of maps <i><a href="/wiki/Theatrum_Orbis_Terrarum" title="Theatrum Orbis Terrarum">Theatrum Orbis Terrarum</a></i>.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <i>travel atlas</i> is made for easy use during travel, and often has spiral bindings so it may be folded flat (for example <a href="/wiki/Geographers%27_A-Z_Map_Company" title="Geographers' A-Z Map Company">Geographers' A-Z Map Company</a> famous A-Z Atlases). It has maps at a large zoom so the maps can be reviewed easily. A travel atlas may also be referred to as a <i>road map</i>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>A <i>desk atlas</i> is made similar to a reference book. It may be in hardback or paperback form.</p>
+<h2><span class="mw-headline" id="Modern_atlas">Modern atlas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=4" title="Edit section: Modern atlas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Atlas&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>With the coming of the global market, publishers in different countries can reprint maps from places made elsewhere. This means that the place names on the maps often use the designations or abbreviations of the language of the country in which the feature is located, to serve the widest market. For example, islands near Russia have the abbreviation "O." for "ostrov", not "I." for "island". This practice differs from what is standard for any given language, and it reaches its extremity concerning <a href="/wiki/Transliteration" title="Transliteration">transliterations</a> from other languages. In particular, German mapmakers use the transliterations from <a href="/wiki/Cyrillic_script" title="Cyrillic script">Cyrillic</a> developed by the <a href="/wiki/Czech_language" title="Czech language">Czechs</a>, which are hardly used in English-speaking countries.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:232px;"><a class="image" href="/wiki/File:Atlas_svijeta_(LZMK).jpg"><img alt="" class="thumbimage" data-file-height="2048" data-file-width="1536" height="307" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Atlas_svijeta_%28LZMK%29.jpg/230px-Atlas_svijeta_%28LZMK%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Atlas_svijeta_%28LZMK%29.jpg/345px-Atlas_svijeta_%28LZMK%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Atlas_svijeta_%28LZMK%29.jpg/460px-Atlas_svijeta_%28LZMK%29.jpg 2x" width="230"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Atlas_svijeta_(LZMK).jpg" title="Enlarge"></a></div>
+<i>World Atlas</i> published by <a href="/wiki/Miroslav_Krle%C5%BEa_Institute_of_Lexicography" title="Miroslav Krleža Institute of Lexicography">Miroslav Krleža Institute of Lexicography</a>, Croatia</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Selected_atlases">Selected atlases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=5" title="Edit section: Selected atlases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/List_of_atlases" title="List of atlases">List of atlases</a></div>
+<p>Some cartographically or commercially important atlases include the following:</p>
+<dl>
+<dt>17th century and earlier</dt>
+</dl>
+<ul>
+<li><i><a class="mw-redirect" href="/wiki/Atlas_Novus" title="Atlas Novus">Atlas Novus</a></i> (Blaeu, Netherlands, 1635–1658)</li>
+<li><i><a href="/wiki/Atlas_Maior" title="Atlas Maior">Atlas Maior</a></i> (Blaeu, Netherlands, 1662–1667)</li>
+<li><i>Cartes générales de toutes les parties du monde</i> (France, 1658–1676)</li>
+<li><i><a href="/wiki/Dell%27Arcano_del_Mare" title="Dell'Arcano del Mare">Dell'Arcano del Mare</a></i> (England/Italy, 1645–1661)</li>
+<li><i><a href="/wiki/Piri_Reis_map" title="Piri Reis map">Piri Reis map</a></i> (Ottoman Empire, 1570–1612)</li>
+<li><i><a href="/wiki/Theatrum_Orbis_Terrarum" title="Theatrum Orbis Terrarum">Theatrum Orbis Terrarum</a></i> (Ortelius, Netherlands, 1570–1612)</li>
+<li><i><a href="/wiki/Klencke_Atlas" title="Klencke Atlas">Klencke Atlas</a></i> (1660; one of the world's largest books)</li>
+<li><i>The Brittania</i> (<a href="/wiki/John_Ogilby" title="John Ogilby">John Ogilby</a>, 1670–1676)</li>
+</ul>
+<dl>
+<dt>18th century</dt>
+</dl>
+<ul>
+<li><i>Atlas Nouveau</i> (Amsterdam, 1742)</li>
+<li><i>Britannia Depicta</i> (London, 1720)</li>
+<li><i><a href="/wiki/John_Cary" title="John Cary">Cary's New and Correct English Atlas</a></i> (London, 1787)</li>
+</ul>
+<dl>
+<dt>19th century</dt>
+</dl>
+<ul>
+<li><i><a href="/wiki/Andrees_Allgemeiner_Handatlas" title="Andrees Allgemeiner Handatlas">Andrees Allgemeiner Handatlas</a></i> (Germany, 1881–1939; in the UK as <i><a href="/wiki/Times_Atlas_of_the_World" title="Times Atlas of the World">Times Atlas of the World</a></i>, 1895)</li>
+<li><i><a href="/wiki/Rand_McNally" title="Rand McNally">Rand McNally Atlas</a></i> (United States, 1881–present)</li>
+<li><i><a href="/wiki/Stielers_Handatlas" title="Stielers Handatlas">Stielers Handatlas</a></i> (Germany, 1817–1944)</li>
+<li><i><a href="/wiki/Times_Atlas_of_the_World" title="Times Atlas of the World">Times Atlas of the World</a></i> (United Kingdom, 1895–present)</li>
+</ul>
+<dl>
+<dt>20th century</dt>
+</dl>
+<ul>
+<li><i><a href="/wiki/Atlante_Internazionale_del_Touring_Club_Italiano" title="Atlante Internazionale del Touring Club Italiano">Atlante Internazionale del Touring Club Italiano</a></i> (Italy, 1927–1978)</li>
+<li><i><a href="/wiki/Atlas_Mira" title="Atlas Mira">Atlas Mira</a></i> (Soviet Union/Russia, 1937–present)</li>
+<li><i><a href="/wiki/Geographers%27_A%E2%80%93Z_Street_Atlas" title="Geographers' A–Z Street Atlas">Geographers' A–Z Street Atlas</a></i> (United Kingdom, 1938–present)</li>
+<li><i><a href="/wiki/Gran_Atlas_Aguilar" title="Gran Atlas Aguilar">Gran Atlas Aguilar</a></i> (Spain, 1969/1970)</li>
+<li><i><a href="/wiki/The_Historical_Atlas_of_China" title="The Historical Atlas of China">The Historical Atlas of China</a></i> (China)</li>
+<li><i><a href="/wiki/National_Geographic_Society" title="National Geographic Society">National Geographic Atlas</a></i> of the World (United States, 1963–present)</li>
+<li><i><a href="/wiki/Pergamon_World_Atlas" title="Pergamon World Atlas">Pergamon World Atlas</a></i> (1962/1968)</li>
+</ul>
+<dl>
+<dt>21st century</dt>
+</dl>
+<ul>
+<li><i><a href="/wiki/North_American_Environmental_Atlas" title="North American Environmental Atlas">North American Environmental Atlas</a></i></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:World_map_green.png"><img alt="icon" class="noviewer" data-file-height="2128" data-file-width="4312" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/World_map_green.png/32px-World_map_green.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/World_map_green.png/48px-World_map_green.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/World_map_green.png/64px-World_map_green.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Atlas" title="Portal:Atlas">Atlas portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><i><a href="/wiki/Atlas_of_Our_Changing_Environment" title="Atlas of Our Changing Environment">Atlas of Our Changing Environment</a></i></li>
+<li><a href="/wiki/Bird_atlas" title="Bird atlas">Bird atlas</a></li>
+<li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Cartopedia" title="Cartopedia">Cartopedia</a></li>
+<li><a href="/wiki/European_Atlas_of_the_Seas" title="European Atlas of the Seas">European Atlas of the Seas</a></li>
+<li><a href="/wiki/Fictitious_entry" title="Fictitious entry">Fictitious entry</a></li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a></li>
+<li><a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a></li>
+<li><a href="/wiki/Manifold" title="Manifold">Manifold</a></li>
+<li><a href="/wiki/NASA_World_Wind" title="NASA World Wind">NASA World Wind</a></li>
+<li><a href="/wiki/National_Atlas_of_the_United_States" title="National Atlas of the United States">National Atlas of the United States</a></li>
+<li><a class="mw-redirect" href="/wiki/Star_atlas" title="Star atlas">Star atlas</a></li>
+<li><a class="mw-redirect" href="/wiki/TerraServer-USA" title="TerraServer-USA">TerraServer-USA</a></li>
+<li><a href="/wiki/Theatrum_Orbis_Terrarum" title="Theatrum Orbis Terrarum">Theatrum Orbis Terrarum</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Schwartz, John (2008-04-22). <a class="external text" href="https://www.nytimes.com/2008/04/22/science/22bass.html?pagewanted=all&amp;_r=0" rel="nofollow">"The Body in Depth"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlas&amp;rft.atitle=The+Body+in+Depth&amp;rft.aufirst=John&amp;rft.aulast=Schwartz&amp;rft.date=2008-04-22&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2008%2F04%2F22%2Fscience%2F22bass.html%3Fpagewanted%3Dall%26_r%3D0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Mercator's own account of the reasons for choosing King Atlas are given in the preface of the 1595 atlas. A translation by David Sullivan is available in a digital version of the atlas published by <a class="external text" href="http://www.octavo.com/editions/mcrats/" rel="nofollow">Octavo</a>. The text is freely available at the <a class="external text" href="http://mail.nysoclib.org/Mercator_Atlas/MCRATS.PDF" rel="nofollow">New York Society Library</a> <a class="external text" href="https://web.archive.org/web/20160310032427/http://mail.nysoclib.org/Mercator_Atlas/MCRATS.PDF" rel="nofollow">Archived</a> March 10, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., pdf page 104 (corresponding to p34 of Sullivan's text).</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.merriam-webster.com/dictionary/road%20map" rel="nofollow">"Road map"</a>. Merriam Webster<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlas&amp;rft.btitle=Road+map&amp;rft.genre=unknown&amp;rft.pub=Merriam+Webster&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Froad%2520map&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlas&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Atlas" title="commons:Special:Search/Atlas">Atlas</a></b></i>.</td>
+</tr>
+</table>
+<dl>
+<dt>Sources</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://www.mapforum.com/01/atlas.htm" rel="nofollow">On the origin of the term "Atlas"</a></li>
+</ul>
+<dl>
+<dt>Online atlases</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://www.worldatlas.com/" rel="nofollow">World Atlas</a></li>
+<li><a class="external text" href="http://www.oerok-atlas.at/" rel="nofollow">ÖROK-Atlas Online</a>: Atlas on spatial development in Austria</li>
+<li><a class="external text" href="https://web.archive.org/web/20060923180906/http://www.geographynetwork.com/" rel="nofollow">Geography Network</a></li>
+<li><a class="external text" href="http://www.earthatlas.mapchart.com" rel="nofollow">MapChart EarthAtlas</a>, free online atlas with interactive maps about topics like demography, economy, health and environment.</li>
+<li><a class="external text" href="http://plasma.nationalgeographic.com/mapmachine/" rel="nofollow">National Geographic MapMachine</a></li>
+</ul>
+<dl>
+<dt>History of atlases</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://www.loc.gov/rr/geogmap/guide/gmillatl.html" rel="nofollow">Atlases, at the US Library of Congress site</a> - a discussion of many significant atlases, with some illustrations. Part of <a class="external text" href="http://www.loc.gov/rr/geogmap/guide/gmilltoc.html" rel="nofollow">Geography and Maps, an Illustrated Guide.</a></li>
+</ul>
+<dl>
+<dt>Historical atlases online</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://www.HistoricalAtlas.com/" rel="nofollow">Centennia Historical Atlas</a> required reading at the US Naval Academy for over a decade.</li>
+<li><a class="external text" href="http://www.lib.utexas.edu/maps/map_sites/hist_sites.html" rel="nofollow">Historical map web sites list</a>, Perry-Castañeda Library, University of Texas</li>
+<li><a class="external text" href="https://web.archive.org/web/20070426103049/http://www.stub.unibe.ch/stub/ryhiner/collection/" rel="nofollow">Ryhiner Collection</a> Composite atlas with maps, plans and views from the 16th-18th centuries, covering the globe, with about 16,000 images in total.</li>
+<li><a class="external text" href="http://dla.library.upenn.edu/dla/medren/search.html?fq=genre_facet%3A%22Atlases%22" rel="nofollow">Manuscript Atlases held by the University of Pennsylvania Libraries</a> - fully digitized with descriptions.</li>
+<li><a class="external text" href="https://persuasivemaps.library.cornell.edu/" rel="nofollow">Historical Altas in Persuasive Cartography, The PJ Mode Collection</a>, <a href="/wiki/Cornell_University_Library" title="Cornell University Library">Cornell University Library</a></li>
+</ul>
+<dl>
+<dt>Other links</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://earth.google.com" rel="nofollow">Google Earth:</a> a visual 3D interactive atlas.</li>
+<li><a class="external text" href="http://learn.arc.nasa.gov/worldwind/index.html" rel="nofollow">NASA's World Wind software</a>.</li>
+<li><a class="external text" href="http://www.wikimapia.org/#lat=19.4342&amp;lon=-99.1386&amp;z=3&amp;l=0&amp;m=a&amp;v=2" rel="nofollow">Wikimapia</a> a wikiproject designed to describe the entire world.</li>
+</ul>
+<div aria-labelledby="Atlas" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Atlas" title="Template:Atlas"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Atlas" title="Template talk:Atlas"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Atlas&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Atlas" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Atlas</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a></li>
+<li><a href="/wiki/Map" title="Map">Map</a></li>
+<li><a href="/wiki/Map_projection" title="Map projection">Map projection</a></li>
+<li><a href="/wiki/Topography" title="Topography">Topography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-even hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Early_world_maps" title="Early world maps">Early world maps</a></li>
+<li><a href="/wiki/History_of_cartography" title="History of cartography">History of cartography</a></li>
+<li><a href="/wiki/List_of_cartographers" title="List of cartographers">List of cartographers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cartogram" title="Cartogram">Cartogram</a></li>
+<li><a href="/wiki/Choropleth_map" title="Choropleth map">Choropleth map</a></li>
+<li><a href="/wiki/Geologic_map" title="Geologic map">Geologic map</a></li>
+<li><a href="/wiki/Linguistic_map" title="Linguistic map">Linguistic map</a></li>
+<li><a href="/wiki/Nautical_chart" title="Nautical chart">Nautical chart</a></li>
+<li><a href="/wiki/Pictorial_map" title="Pictorial map">Pictorial map</a></li>
+<li><a href="/wiki/Thematic_map" title="Thematic map">Thematic map</a></li>
+<li><a href="/wiki/Topographic_map" title="Topographic map">Topographic map</a></li>
+<li><a href="/wiki/Weather_map" title="Weather map">Weather map</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/><b><a href="/wiki/Category:Maps" title="Category:Maps">Category:Maps</a></b></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/><b><a href="/wiki/Portal:Atlas" title="Portal:Atlas">Portal:Atlas</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4143303-8" rel="nofollow">4143303-8</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1232
+Cached time: 20171026105431
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.148 seconds
+Real time usage: 0.219 seconds
+Preprocessor visited node count: 545/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23771/2097152 bytes
+Template argument size: 247/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  175.301      1 -total
+ 33.03%   57.900      1 Template:Reflist
+ 20.08%   35.199      2 Template:Refimprove
+ 17.52%   30.709      1 Template:Cite_news
+ 16.99%   29.784      2 Template:Ambox
+ 12.17%   21.328      1 Template:Authority_control
+ 10.20%   17.878      1 Template:About
+  9.31%   16.325      1 Template:Atlas
+  8.33%   14.594      1 Template:Navbox
+  4.92%    8.630      1 Template:Portal
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47429-0!canonical and timestamp 20171026105431 and revision id 807173220
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Atlas&amp;oldid=807173220">https://en.wikipedia.org/w/index.php?title=Atlas&amp;oldid=807173220</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atlases" title="Category:Atlases">Atlases</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2013" title="Category:Articles needing additional references from December 2013">Articles needing additional references from December 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2015" title="Category:Articles needing additional references from May 2015">Articles needing additional references from May 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Atlas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Atlas" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Atlas" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Atlas" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Atlas">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Atlas&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Atlas&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Atlas" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Atlas" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Atlas&amp;oldid=807173220" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Atlas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q162827" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Atlas&amp;id=807173220" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Atlas">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Atlas&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Atlas&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Atlases" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Atlas" hreflang="af" lang="af" title="Atlas – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B7%D9%84%D8%B3_(%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7)" hreflang="ar" lang="ar" title="أطلس (خرائط) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Atlas" hreflang="az" lang="az" title="Atlas – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%B0%D1%82%D0%BB%D0%B0%D1%81" hreflang="ba" lang="ba" title="Географик атлас – Bashkir">Башҡортса</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_(%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)" hreflang="bg" lang="bg" title="Атлас (картография) – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Atlas_(kartografija)" hreflang="bs" lang="bs" title="Atlas (kartografija) – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Atlas_(kartennaoueg)" hreflang="br" lang="br" title="Atlas (kartennaoueg) – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Atles_(cartografia)" hreflang="ca" lang="ca" title="Atles (cartografia) – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Atlas_(kartografie)" hreflang="cs" lang="cs" title="Atlas (kartografie) – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Atlas_(kartografi)" hreflang="da" lang="da" title="Atlas (kartografi) – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Atlas_(Kartografie)" hreflang="de" lang="de" title="Atlas (Kartografie) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Atlas_(kartograafia)" hreflang="et" lang="et" title="Atlas (kartograafia) – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Atlas_(cartograf%C3%ADa)" hreflang="es" lang="es" title="Atlas (cartografía) – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Atlaso_(maparo)" hreflang="eo" lang="eo" title="Atlaso (maparo) – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Atlas" hreflang="eu" lang="eu" title="Atlas – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B7%D9%84%D8%B3" hreflang="fa" lang="fa" title="اطلس – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Atlas_g%C3%A9ographique" hreflang="fr" lang="fr" title="Atlas géographique – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Atlas" hreflang="fy" lang="fy" title="Atlas – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gd"><a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Atlas" hreflang="gd" lang="gd" title="Atlas – Scottish Gaelic">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Atlas_(cartograf%C3%ADa)" hreflang="gl" lang="gl" title="Atlas (cartografía) – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EB%8F%84%EC%B1%85" hreflang="ko" lang="ko" title="지도책 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B7%D5%AD%D5%A1%D6%80%D5%B0%D5%A1%D5%A3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6_%D6%84%D5%A1%D6%80%D5%BF%D5%A5%D5%A6" hreflang="hy" lang="hy" title="Աշխարհագրական քարտեզ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80" hreflang="hi" lang="hi" title="मानचित्रावली – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Atlas_(kartografija)" hreflang="hr" lang="hr" title="Atlas (kartografija) – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Atlaso" hreflang="io" lang="io" title="Atlaso – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Atlas" hreflang="id" lang="id" title="Atlas – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Atlante_(libro)" hreflang="it" lang="it" title="Atlante (libro) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%98%D7%9C%D7%A1_(%D7%A1%D7%A4%D7%A8_%D7%9E%D7%A4%D7%95%D7%AA)" hreflang="he" lang="he" title="אטלס (ספר מפות) – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Atlas" hreflang="jv" lang="jv" title="Atlas – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%A4%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%90%E1%83%A2%E1%83%9A%E1%83%90%E1%83%A1%E1%83%98" hreflang="ka" lang="ka" title="გეოგრაფიული ატლასი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81" hreflang="kk" lang="kk" title="Атлас – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_(%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%D0%B4%D0%B0)" hreflang="ky" lang="ky" title="Атлас (географияда) – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Atlas_(cartographia)" hreflang="la" lang="la" title="Atlas (cartographia) – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Atlants" hreflang="lv" lang="lv" title="Atlants – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Atlasas" hreflang="lt" lang="lt" title="Atlasas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%E2%80%8C%E0%B4%B2%E0%B4%B8%E0%B5%8D" hreflang="ml" lang="ml" title="അറ്റ്‌ലസ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-xmf"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%A4%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%90%E1%83%A2%E1%83%9A%E1%83%90%E1%83%A1%E1%83%98" hreflang="xmf" lang="xmf" title="გეოგრაფიული ატლასი – Mingrelian">მარგალური</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Atlas" hreflang="ms" lang="ms" title="Atlas – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Atlas_(naslagwerk)" hreflang="nl" lang="nl" title="Atlas (naslagwerk) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9B%B3%E5%B8%B3" hreflang="ja" lang="ja" title="地図帳 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Atlas_(oppslagsverk)" hreflang="no" lang="no" title="Atlas (oppslagsverk) – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Atlas" hreflang="nn" lang="nn" title="Atlas – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Atl%C3%A0s_(geografia)" hreflang="oc" lang="oc" title="Atlàs (geografia) – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Atlas_(xarita)" hreflang="uz" lang="uz" title="Atlas (xarita) – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Atlas_(publikacja)" hreflang="pl" lang="pl" title="Atlas (publikacja) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Atlas_(cartografia)" hreflang="pt" lang="pt" title="Atlas (cartografia) – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%82%D0%BB%D0%B0%D1%81" hreflang="ru" lang="ru" title="Географический атлас – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Atlas" hreflang="sco" lang="sco" title="Atlas – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Atlasi" hreflang="sq" lang="sq" title="Atlasi – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Atlas" hreflang="simple" lang="simple" title="Atlas – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Atlas_(s%C3%BAbor_m%C3%A1p)" hreflang="sk" lang="sk" title="Atlas (súbor máp) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Atlas_(kartografija)" hreflang="sl" lang="sl" title="Atlas (kartografija) – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D8%AA%DA%B5%DB%95%D8%B3" hreflang="ckb" lang="ckb" title="ئەتڵەس – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B8_%D0%B0%D1%82%D0%BB%D0%B0%D1%81" hreflang="sr" lang="sr" title="Географски атлас – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Atlas" hreflang="sh" lang="sh" title="Atlas – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kartasto" hreflang="fi" lang="fi" title="Kartasto – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kartbok" hreflang="sv" lang="sv" title="Kartbok – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Atlas_(kalipunan_ng_mapa)" hreflang="tl" lang="tl" title="Atlas (kalipunan ng mapa) – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="நிலப்படத் தொகுப்பு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1" hreflang="th" lang="th" title="แผนที่เล่ม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81%D0%B8_%D2%B7%D1%83%D2%93%D1%80%D0%BE%D1%84%D0%B8%D1%91%D3%A3" hreflang="tg" lang="tg" title="Атласи ҷуғрофиёӣ – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Atlas_(harita)" hreflang="tr" lang="tr" title="Atlas (harita) – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)" hreflang="uk" lang="uk" title="Атлас (книга) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A7%D8%B7%D9%84%D8%B3" hreflang="ur" lang="ur" title="اطلس – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Atlat" hreflang="vi" lang="vi" title="Atlat – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Atlas" hreflang="war" lang="war" title="Atlas – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9C%96%E9%9B%86" hreflang="zh" lang="zh" title="地圖集 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q162827#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 October 2017, at 10:54.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Atlas&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.219","ppvisitednodes":{"value":545,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23771,"limit":2097152},"templateargumentsize":{"value":247,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  175.301      1 -total"," 33.03%   57.900      1 Template:Reflist"," 20.08%   35.199      2 Template:Refimprove"," 17.52%   30.709      1 Template:Cite_news"," 16.99%   29.784      2 Template:Ambox"," 12.17%   21.328      1 Template:Authority_control"," 10.20%   17.878      1 Template:About","  9.31%   16.325      1 Template:Atlas","  8.33%   14.594      1 Template:Navbox","  4.92%    8.630      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":2847470,"limit":52428800}},"cachereport":{"origin":"mw1232","timestamp":"20171026105431","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1214"});});</script>
+</body>
+</html>

@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Shipping Forecast - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shipping_Forecast","wgTitle":"Shipping Forecast","wgCurRevisionId":806873878,"wgRevisionId":806873878,"wgArticleId":159894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from April 2017","Use British English from April 2017","Articles needing additional references from May 2010","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from August 2013","Articles with hAudio microformats","BBC Radio 4 programmes","Weather warnings and advisories","Shipping in the United Kingdom","Met Office","Shipping Forecast areas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shipping_Forecast","wgRelevantArticleId":159894,"wgRequestId":"WgHpZQpAAEYAAD0pSd8AAAAE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2004285","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Shipping_Forecast" rel="alternate"/>
+<link href="/w/index.php?title=Shipping_Forecast&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Shipping_Forecast&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Shipping_Forecast" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Shipping_Forecast rootpage-Shipping_Forecast vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Shipping Forecast</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Shipping_Forecast&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>The <b>Shipping Forecast</b> is a <a href="/wiki/BBC_Radio" title="BBC Radio">BBC Radio</a> broadcast of <a href="/wiki/Weather_forecasting" title="Weather forecasting">weather reports</a> and <a href="/wiki/Marine_weather_forecasting" title="Marine weather forecasting">forecasts</a> for the seas around the coasts of the <a href="/wiki/British_Isles" title="British Isles">British Isles</a>. It is produced by the <a href="/wiki/Met_Office" title="Met Office">Met Office</a> and broadcast by <a href="/wiki/BBC_Radio_4" title="BBC Radio 4">BBC Radio 4</a> on behalf of the <a href="/wiki/Maritime_and_Coastguard_Agency" title="Maritime and Coastguard Agency">Maritime and Coastguard Agency</a>. The forecasts sent over the <a href="/wiki/Navtex" title="Navtex">Navtex</a> system use a similar format and the same sea areas. The waters around the British Isles are divided into 31 sea areas, also known as weather areas (see map below).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> There are four broadcasts per day at the following (<a href="/wiki/Time_in_the_United_Kingdom" title="Time in the United Kingdom">UK local</a>) times:</p>
+<ul>
+<li>0048 – transmitted on <a href="/wiki/FM_broadcasting" title="FM broadcasting">FM</a> and <a href="/wiki/Longwave" title="Longwave">LW</a>. Includes weather reports from an extended list of <a class="mw-redirect" href="/wiki/List_of_coastal_weather_stations_of_the_United_Kingdom" title="List of coastal weather stations of the United Kingdom">coastal stations</a> at 0052 and an <a href="/wiki/Inshore_coastal_areas_of_the_United_Kingdom" title="Inshore coastal areas of the United Kingdom">inshore waters</a> forecast at 0055 and concludes with a brief UK weather outlook for the coming day. The broadcast finishes at approximately 0058.</li>
+<li>0520 – transmitted on FM and LW. Includes weather reports from <a class="mw-redirect" href="/wiki/List_of_coastal_weather_stations_of_the_United_Kingdom" title="List of coastal weather stations of the United Kingdom">coastal stations</a> at 0525, and an inshore waters forecast at 0527.</li>
+<li>1201 – normally transmitted on LW only.</li>
+<li>1754 – transmitted only on LW on weekdays, as an opt-out from the <a class="mw-redirect" href="/wiki/PM_(Radio_4)" title="PM (Radio 4)"><i>PM</i> programme</a>, but at weekends transmitted on both FM and LW.</li>
+</ul>
+<p>The unique and distinctive sound of these broadcasts has led to their attracting an audience much wider than that directly interested in maritime weather conditions. In August 2017, <a href="/wiki/BBC_Radio_4" title="BBC Radio 4">Radio 4</a> celebrated the service's 150th anniversary.<sup class="reference" id="cite_ref-BBC150_2-0"><a href="#cite_note-BBC150-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Region_names"><span class="tocnumber">2</span> <span class="toctext">Region names</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Origin_of_names"><span class="tocnumber">2.1</span> <span class="toctext">Origin of names</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Coastal_weather_stations"><span class="tocnumber">2.2</span> <span class="toctext">Coastal weather stations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Inshore_waters"><span class="tocnumber">2.3</span> <span class="toctext">Inshore waters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Broadcast_format"><span class="tocnumber">3</span> <span class="toctext">Broadcast format</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gale_warnings"><span class="tocnumber">4</span> <span class="toctext">Gale warnings</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Frequencies"><span class="tocnumber">5</span> <span class="toctext">Frequencies</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Before_closedown"><span class="tocnumber">6</span> <span class="toctext">Before closedown</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#.22Mini.22_shipping_forecast.2C_maritime_safety"><span class="tocnumber">7</span> <span class="toctext">"Mini" shipping forecast, maritime safety</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Television"><span class="tocnumber">8</span> <span class="toctext">Television</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Influences_on_popular_culture"><span class="tocnumber">9</span> <span class="toctext">Influences on popular culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Music"><span class="tocnumber">9.1</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Radio"><span class="tocnumber">9.2</span> <span class="toctext">Radio</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Film_and_television"><span class="tocnumber">9.3</span> <span class="toctext">Film and television</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Video_games"><span class="tocnumber">9.4</span> <span class="toctext">Video games</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Sleep_Stories"><span class="tocnumber">9.5</span> <span class="toctext">Sleep Stories</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Online"><span class="tocnumber">10</span> <span class="toctext">Online</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Further_reading"><span class="tocnumber">13</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In October 1859, the steam clipper <i><a href="/wiki/Royal_Charter_(ship)" title="Royal Charter (ship)">Royal Charter</a></i> was wrecked in a strong storm off <a href="/wiki/Anglesey" title="Anglesey">Anglesey</a>; 450 people lost their lives. Due to this loss, Vice-Admiral <a href="/wiki/Robert_FitzRoy" title="Robert FitzRoy">Robert FitzRoy</a> introduced a warning service for shipping in February 1861, using telegraph communications. This remained the United Kingdom's Met Office primary responsibility for some time afterwards. In 1911, the Met Office began issuing marine weather forecasts which included gale and storm warnings via radio transmission for areas around Great Britain. This service was discontinued during and following the <a class="mw-redirect" href="/wiki/First_World_War" title="First World War">First World War</a>, between 1914 and June 1921, and again during the <a class="mw-redirect" href="/wiki/Second_World_War" title="Second World War">Second World War</a> between 1939 and 1945.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Today, although most ships have onboard technology to provide the Forecast's information, they still use it to check their data.<sup class="reference" id="cite_ref-Jefferson_4-0"><a href="#cite_note-Jefferson-4">[4]</a></sup></p>
+<p>On Friday 30 May 2014, for the first time in more than 90 years, the BBC failed to broadcast the Shipping Forecast at 0520. Staff at Broadcasting House were reading out the report but it was not transmitted. Listeners instead heard <a href="/wiki/BBC_World_Service" title="BBC World Service">BBC World Service</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>24 August 2017 marked the 150th anniversary of the shipping forecast.<sup class="reference" id="cite_ref-BBC150_2-1"><a href="#cite_note-BBC150-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Region_names">Region names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=2" title="Edit section: Region names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:UK_shipping_forecast_zones.png"><img alt="" class="thumbimage" data-file-height="1280" data-file-width="960" height="533" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/UK_shipping_forecast_zones.png/400px-UK_shipping_forecast_zones.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/UK_shipping_forecast_zones.png/600px-UK_shipping_forecast_zones.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/UK_shipping_forecast_zones.png/800px-UK_shipping_forecast_zones.png 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:UK_shipping_forecast_zones.png" title="Enlarge"></a></div>
+Map of Sea Areas and Coastal Weather Stations referred to in the Shipping Forecast.</div>
+</div>
+</div>
+<p>The 31 sea areas covering the waters around the <a href="/wiki/British_Isles" title="British Isles">British Isles</a> are as defined by the map shown here:</p>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li>Viking</li>
+<li>North <a href="/wiki/Utsira" title="Utsira">Utsire</a></li>
+<li>South Utsire</li>
+<li><a href="/wiki/Long_Forties" title="Long Forties">Forties</a></li>
+<li><a href="/wiki/Cromarty_Firth" title="Cromarty Firth">Cromarty</a></li>
+<li><a href="/wiki/Firth_of_Forth" title="Firth of Forth">Forth</a></li>
+<li><a href="/wiki/River_Tyne" title="River Tyne">Tyne</a></li>
+<li><a href="/wiki/Dogger_Bank" title="Dogger Bank">Dogger</a></li>
+<li><a href="/wiki/Fisher_Bank" title="Fisher Bank">Fisher</a></li>
+<li><a href="/wiki/German_Bight" title="German Bight">German Bight</a></li>
+<li><a href="/wiki/Humber" title="Humber">Humber</a></li>
+<li><a href="/wiki/Thames_Estuary" title="Thames Estuary">Thames</a></li>
+<li><a href="/wiki/Strait_of_Dover" title="Strait of Dover">Dover</a></li>
+<li><a href="/wiki/Isle_of_Wight" title="Isle of Wight">Wight</a></li>
+<li><a href="/wiki/Isle_of_Portland" title="Isle of Portland">Portland</a></li>
+<li><a href="/wiki/Plymouth" title="Plymouth">Plymouth</a></li>
+<li><a href="/wiki/Bay_of_Biscay" title="Bay of Biscay">Biscay</a></li>
+<li><a href="/wiki/Cape_Trafalgar" title="Cape Trafalgar">Trafalgar</a></li>
+<li><a href="/wiki/Robert_FitzRoy" title="Robert FitzRoy">FitzRoy</a></li>
+<li><a href="/wiki/Sole_Bank" title="Sole Bank">Sole</a></li>
+<li><a href="/wiki/Lundy" title="Lundy">Lundy</a></li>
+<li><a href="/wiki/Fastnet_Rock" title="Fastnet Rock">Fastnet</a></li>
+<li><a href="/wiki/Irish_Sea" title="Irish Sea">Irish Sea</a></li>
+<li><a href="/wiki/River_Shannon" title="River Shannon">Shannon</a></li>
+<li><a href="/wiki/Rockall" title="Rockall">Rockall</a></li>
+<li><a href="/wiki/Malin_Head" title="Malin Head">Malin</a></li>
+<li><a href="/wiki/Hebrides" title="Hebrides">Hebrides</a></li>
+<li><a class="mw-redirect" href="/wiki/Bill_Bailey_Bank" title="Bill Bailey Bank">Bailey</a></li>
+<li><a href="/wiki/Fair_Isle" title="Fair Isle">Fair Isle</a></li>
+<li><a class="mw-redirect" href="/wiki/Faeroes" title="Faeroes">Faeroes</a></li>
+<li>Southeast <a href="/wiki/Iceland" title="Iceland">Iceland</a></li>
+</ul>
+</div>
+<p>The areas were already roughly as listed above by 1949. In 1955, meteorologists from countries with <a href="/wiki/North_Sea" title="North Sea">North Sea</a> coastlines met and recommended that the UK's sea area 'Heligoland' be renamed 'German Bight' to reflect more general usage amongst the nations concerned. They also recommended the divisions of 'Dogger' (with the north-eastern portion to be named 'Fisher') and 'Forties' (with the northern half becoming 'Viking'), and the renaming of 'Iceland' as 'South-east Iceland' for greater clarity. Following international consultation, these changes were introduced in 1956.<sup class="reference" id="cite_ref-Met_Office_Shipping_Fact_sheet_8_6-0"><a href="#cite_note-Met_Office_Shipping_Fact_sheet_8-6">[6]</a></sup> Around 1983, the Minches sea area was merged with Hebrides.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2013)">citation needed</span></a></i>]</sup> In August 1984, the areas in the North Sea were again coordinated with those of neighbouring countries, introducing North Utsire and South Utsire,<sup class="reference" id="cite_ref-Met_Office_Shipping_Fact_sheet_8_6-1"><a href="#cite_note-Met_Office_Shipping_Fact_sheet_8-6">[6]</a></sup> and reducing Viking in size. Finisterre was renamed FitzRoy in 2002, to avoid confusion with the smaller sea area of the same name used in the marine forecasts produced by the French and Spanish meteorological offices.<sup class="reference" id="cite_ref-fitzroy_7-0"><a href="#cite_note-fitzroy-7">[7]</a></sup> Some names still differ; for example, the Dutch <a class="mw-redirect" href="/wiki/KNMI_(institute)" title="KNMI (institute)">KNMI</a> names the area equivalent to Forties after the <a href="/wiki/Fladen" title="Fladen">Fladen</a> bank, while <a href="/wiki/M%C3%A9t%C3%A9o-France" title="Météo-France">Météo-France</a> calls the English Channel sea areas Dover, Wight, Portland, and Plymouth respectively <a class="mw-redirect" href="/wiki/Pas_de_Calais" title="Pas de Calais">Pas de Calais</a>, <a class="mw-redirect" href="/wiki/Cap_d%27Antifer" title="Cap d'Antifer">Antifer</a>, <a class="mw-redirect" href="/wiki/Casquets" title="Casquets">Casquets</a>, and <a class="mw-redirect" href="/wiki/Ouessant" title="Ouessant">Ouessant</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<p>In the forecast, areas are named in a roughly clockwise direction, strictly following the order above. However, a forecast for Trafalgar is found only in the 0048 forecast – other forecasts do, however, report when there are warnings of gales in Trafalgar.</p>
+<h3><span class="mw-headline" id="Origin_of_names">Origin of names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=3" title="Edit section: Origin of names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Viking, <a href="/wiki/Long_Forties" title="Long Forties">Forties</a>, <a href="/wiki/Dogger_Bank" title="Dogger Bank">Dogger</a>, <a href="/wiki/Fisher_Bank" title="Fisher Bank">Fisher</a>, <a href="/wiki/Sole_Bank" title="Sole Bank">Sole</a> and <a class="mw-redirect" href="/wiki/Bill_Bailey_Bank" title="Bill Bailey Bank">Bailey</a> are named after <a class="mw-redirect" href="/wiki/Sandbank" title="Sandbank">sandbanks</a>.</li>
+<li><a href="/wiki/Cromarty_Firth" title="Cromarty Firth">Cromarty</a>, <a href="/wiki/Firth_of_Forth" title="Firth of Forth">Forth</a>, <a href="/wiki/River_Tyne" title="River Tyne">Tyne</a>, <a href="/wiki/Humber" title="Humber">Humber</a>, <a href="/wiki/Thames_Estuary" title="Thames Estuary">Thames</a> and <a href="/wiki/River_Shannon" title="River Shannon">Shannon</a> are named after <a class="mw-redirect" href="/wiki/Estuaries" title="Estuaries">estuaries</a>.</li>
+<li><a href="/wiki/Isle_of_Wight" title="Isle of Wight">Wight</a>, <a href="/wiki/Lundy" title="Lundy">Lundy</a>, <a href="/wiki/Fair_Isle" title="Fair Isle">Fair Isle</a>, <a class="mw-redirect" href="/wiki/Faeroes" title="Faeroes">Faeroes</a>, <a href="/wiki/Isle_of_Portland" title="Isle of Portland">Portland</a>, <a href="/wiki/Hebrides" title="Hebrides">Hebrides</a>, South-East <a href="/wiki/Iceland" title="Iceland">Iceland</a> and <a class="mw-redirect" href="/wiki/Utsire" title="Utsire">Utsire</a> are named after islands.</li>
+<li>The <a href="/wiki/German_Bight" title="German Bight">German Bight</a> is an indentation on the Northern European shoreline.<sup class="reference" id="cite_ref-Jefferson_4-1"><a href="#cite_note-Jefferson-4">[4]</a></sup></li>
+<li><a href="/wiki/Dover" title="Dover">Dover</a> and <a href="/wiki/Plymouth" title="Plymouth">Plymouth</a> are named after towns.</li>
+<li><a href="/wiki/Rockall" title="Rockall">Rockall</a> and <a href="/wiki/Fastnet_Rock" title="Fastnet Rock">Fastnet</a> are both named after <a href="/wiki/Islet" title="Islet">islets</a>.</li>
+<li>Malin is named after <a href="/wiki/Malin_Head" title="Malin Head">Malin Head</a>, the northernmost point of <a href="/wiki/Ireland" title="Ireland">Ireland</a>.</li>
+<li>Biscay is named after the <a href="/wiki/Bay_of_Biscay" title="Bay of Biscay">Bay of Biscay</a>, and Trafalgar after <a href="/wiki/Cape_Trafalgar" title="Cape Trafalgar">Cape Trafalgar</a>.</li>
+<li>FitzRoy is named after <a href="/wiki/Robert_FitzRoy" title="Robert FitzRoy">Robert FitzRoy</a>, the first professional <a href="/wiki/Weather_forecasting" title="Weather forecasting">weatherman</a>, captain of <a href="/wiki/HMS_Beagle" title="HMS Beagle">HMS <i>Beagle</i></a> and founder of the Met Office.<sup class="reference" id="cite_ref-fitzroy_7-1"><a href="#cite_note-fitzroy-7">[7]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Coastal_weather_stations">Coastal weather stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=4" title="Edit section: Coastal weather stations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The coastal weather stations named in the Shipping Forecast (and numbered on the map) are:</p>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul>
+<li><a href="/wiki/Tiree" title="Tiree">Tiree</a> Automatic (1)</li>
+<li><a href="/wiki/Stornoway" title="Stornoway">Stornoway</a> (2)</li>
+<li><a href="/wiki/Lerwick" title="Lerwick">Lerwick</a> (3)</li>
+<li><a class="mw-redirect" href="/wiki/Wick,_Highland" title="Wick, Highland">Wick</a> Automatic (0048 only)</li>
+<li><a href="/wiki/Aberdeen" title="Aberdeen">Aberdeen</a> (0048 only)</li>
+<li><a href="/wiki/Leuchars" title="Leuchars">Leuchars</a> (4)</li>
+<li><a href="/wiki/Boulmer" title="Boulmer">Boulmer</a> (0048 only)</li>
+<li><a href="/wiki/Bridlington" title="Bridlington">Bridlington</a> (5)</li>
+<li><a href="/wiki/Sandettie_Light_Vessel_Automatic" title="Sandettie Light Vessel Automatic">Sandettie Light Vessel Automatic</a> (6)</li>
+<li><a href="/wiki/Greenwich_Light_Vessel_Automatic" title="Greenwich Light Vessel Automatic">Greenwich Light Vessel Automatic</a> (7)</li>
+<li><a href="/wiki/St._Catherine%27s_Point" title="St. Catherine's Point">St. Catherine's Point</a> Automatic (0048 only)</li>
+<li><a href="/wiki/Jersey" title="Jersey">Jersey</a> (8)</li>
+<li><a href="/wiki/Channel_Light_Vessel_Automatic" title="Channel Light Vessel Automatic">Channel Light Vessel Automatic</a> (9)</li>
+<li><a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Scilly</a> Automatic (10)</li>
+<li><a href="/wiki/Milford_Haven" title="Milford Haven">Milford Haven</a> (0048 only)</li>
+<li><a href="/wiki/Aberporth" title="Aberporth">Aberporth</a> (0048 only)</li>
+<li><a href="/wiki/Valley,_Anglesey" title="Valley, Anglesey">Valley</a> (0048 only)</li>
+<li><a href="/wiki/Crosby,_Merseyside" title="Crosby, Merseyside">Liverpool Crosby</a> (0048 only)</li>
+<li><a href="/wiki/Valentia_Island#Weather_station" title="Valentia Island">Valentia</a> (11)</li>
+<li><a href="/wiki/Ronaldsway" title="Ronaldsway">Ronaldsway</a> (12)</li>
+<li><a href="/wiki/Malin_Head" title="Malin Head">Malin Head</a> (13)</li>
+<li><a href="/wiki/Machrihanish" title="Machrihanish">Machrihanish</a> Automatic (0048 only)</li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Inshore_waters">Inshore waters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=5" title="Edit section: Inshore waters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Shipping Forecast includes a "general situation" update for the British Isles, followed by a forecast for inshore waters of the United Kingdom, divided by area. These areas are:</p>
+<ol>
+<li><a href="/wiki/Cape_Wrath" title="Cape Wrath">Cape Wrath</a> – <a href="/wiki/Rattray_Head" title="Rattray Head">Rattray Head</a> including <a class="mw-redirect" href="/wiki/Orkney_Island" title="Orkney Island">Orkney</a></li>
+<li><a href="/wiki/Rattray_Head" title="Rattray Head">Rattray Head</a> – <a href="/wiki/Berwick-upon-Tweed" title="Berwick-upon-Tweed">Berwick-upon-Tweed</a></li>
+<li><a href="/wiki/Berwick-upon-Tweed" title="Berwick-upon-Tweed">Berwick-upon-Tweed</a> – <a href="/wiki/Whitby" title="Whitby">Whitby</a></li>
+<li><a href="/wiki/Whitby" title="Whitby">Whitby</a> – <a href="/wiki/Gibraltar_Point" title="Gibraltar Point">Gibraltar Point</a></li>
+<li><a href="/wiki/Gibraltar_Point" title="Gibraltar Point">Gibraltar Point</a> – <a href="/wiki/North_Foreland" title="North Foreland">North Foreland</a></li>
+<li><a href="/wiki/North_Foreland" title="North Foreland">North Foreland</a> – <a href="/wiki/Selsey_Bill" title="Selsey Bill">Selsey Bill</a></li>
+<li><a href="/wiki/Selsey_Bill" title="Selsey Bill">Selsey Bill</a> – <a href="/wiki/Lyme_Regis" title="Lyme Regis">Lyme Regis</a></li>
+<li><a href="/wiki/Lyme_Regis" title="Lyme Regis">Lyme Regis</a> – <a href="/wiki/Land%27s_End" title="Land's End">Land's End</a> including the <a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a></li>
+<li><a href="/wiki/Land%27s_End" title="Land's End">Land's End</a> – <a href="/wiki/St_David%27s_Head" title="St David's Head">St David's Head</a> including the <a href="/wiki/Bristol_Channel" title="Bristol Channel">Bristol Channel</a></li>
+<li><a href="/wiki/St_David%27s_Head" title="St David's Head">St David's Head</a> – <a href="/wiki/Great_Orme" title="Great Orme">Great Orme Head</a> including <a href="/wiki/St_George%27s_Channel" title="St George's Channel">St George's Channel</a></li>
+<li><a href="/wiki/Great_Orme" title="Great Orme">Great Orme Head</a> – <a href="/wiki/Mull_of_Galloway" title="Mull of Galloway">Mull of Galloway</a></li>
+<li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li>
+<li><a href="/wiki/Lough_Foyle" title="Lough Foyle">Lough Foyle</a> – <a href="/wiki/Carlingford_Lough" title="Carlingford Lough">Carlingford Lough</a> (covers the entire coastline of <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>)</li>
+<li><a href="/wiki/Mull_of_Galloway" title="Mull of Galloway">Mull of Galloway</a> – <a href="/wiki/Mull_of_Kintyre" title="Mull of Kintyre">Mull of Kintyre</a> including the <a href="/wiki/Firth_of_Clyde" title="Firth of Clyde">Firth of Clyde</a> and the <a href="/wiki/North_Channel_(Great_Britain_and_Ireland)" title="North Channel (Great Britain and Ireland)">North Channel</a></li>
+<li><a href="/wiki/Mull_of_Kintyre" title="Mull of Kintyre">Mull of Kintyre</a> – <a href="/wiki/Ardnamurchan" title="Ardnamurchan">Ardnamurchan Point</a></li>
+<li><a href="/wiki/Ardnamurchan" title="Ardnamurchan">Ardnamurchan Point</a> – <a href="/wiki/Cape_Wrath" title="Cape Wrath">Cape Wrath</a></li>
+<li><a href="/wiki/Shetland" title="Shetland">Shetland Isles</a></li>
+</ol>
+<h2><span class="mw-headline" id="Broadcast_format">Broadcast format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=6" title="Edit section: Broadcast format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" data-file-height="160" data-file-width="160" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" width="50"/></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em">
+<div class="haudio">
+<div style="padding:4px 0"><a href="/wiki/File:Shipping_Forecast.ogg" title="File:Shipping Forecast.ogg">Shipping Forecast</a></div>
+<div>
+<div class="mediaContainer" style="width:220px"><audio class="kskin" controls="" data-durationhint="66.263628117914" data-mwprovider="local" data-mwtitle="Shipping_Forecast.ogg" data-startoffset="0" id="mwe_player_0" preload="none" style="width:220px">
+<source data-bandwidth="71104" data-height="0" data-shorttitle="Ogg source" data-title="Original Ogg file (71 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/en/c/ca/Shipping_Forecast.ogg" type='audio/ogg; codecs="vorbis"'/></audio></div>
+</div>
+<div class="description" style="padding:2px 0 0 0">An extract of the area forecasts</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mbox-text" colspan="2" style="line-height:1.1em">
+<hr/>
+<span><i>Problems playing this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p>The forecast, excluding the header line, has a limit of 350 words—except for the 0048 broadcast, where it is increased to 380 to accommodate Trafalgar's inclusion—and has a very strict format.<sup class="reference" id="cite_ref-format_9-0"><a href="#cite_note-format-9">[9]</a></sup> It begins with "And now the Shipping Forecast, issued by the Met Office on behalf of the Maritime and Coastguard Agency at xxxx today." This format is followed quite strictly, although some <a href="/wiki/Continuity_announcer" title="Continuity announcer">continuity announcers</a> read out the actual date of issue as opposed to the word "today". This is followed by gale warnings (winds of force 8 or more on the <a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort scale</a>), if any (e.g., "There are warnings of gales in Rockall, Malin, Hebrides, Bailey, and Fair Isle"). This sometimes follows the opposite format (e.g., "There are warnings of gales in all areas except Biscay, Trafalgar and FitzRoy").</p>
+<p>The <i>General Synopsis</i> follows, giving the position, pressure (in <a class="mw-redirect" href="/wiki/Millibar" title="Millibar">millibars</a>) and track of pressure areas (e.g., "Low, Rockall, 987, deepening rapidly, expected Fair Isle 964 by 0700 tomorrow"). Each area's forecast is then read out. Several areas may be combined into a single forecast where the conditions are expected to be similar. <a href="/wiki/Wind_direction" title="Wind direction">Wind direction</a> is given first, then strength (on the Beaufort scale), followed by <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a>, if any, and (usually) lastly visibility.</p>
+<p>Change in wind direction is indicated by "veering" (<a href="/wiki/Clockwise" title="Clockwise">clockwise</a> change) or "backing" (anti-clockwise change). Winds at or above force 8 are also described by name for emphasis, i.e., Gale 8, Severe Gale 9, Storm 10, Violent Storm 11 and <a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">Hurricane</a> force 12. The word "force" is only officially used when announcing force 12 winds.<sup class="reference" id="cite_ref-format_9-1"><a href="#cite_note-format-9">[9]</a></sup> Visibility is given in the format "Good", meaning that the visibility is greater than 5 <a href="/wiki/Nautical_mile" title="Nautical mile">nautical miles</a> (9.3 km; 5.8 mi); "Moderate", where visibility is between 2 and 5 nmi (3.7 and 9.3 km; 2.3 and 5.8 mi) nautical miles; "Poor", where visibility is between 1,000 metres and two nautical miles and "<a href="/wiki/Fog" title="Fog">Fog</a>", where visibility is less than 1,000 m (3,300 ft). When severe winter cold combines with strong winds and a cold sea, <a href="/wiki/Icing_(nautical)" title="Icing (nautical)">icing</a> can occur, normally only in sea area Southeast Iceland; if expected, icing warnings (light, moderate or severe) are given as the last item of each sea area forecast.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Iced_ship.jpg"><img alt="" class="thumbimage" data-file-height="328" data-file-width="509" height="161" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iced_ship.jpg/250px-Iced_ship.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iced_ship.jpg/375px-Iced_ship.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iced_ship.jpg/500px-Iced_ship.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Iced_ship.jpg" title="Enlarge"></a></div>
+Icing can be a dangerous problem for ships; accurate forecasting can save lives by ensuring crews are prepared</div>
+</div>
+</div>
+<p>Examples of area forecasts:</p>
+<dl>
+<dd>
+<ul>
+<li>"Humber, Thames. Southeast veering southwest 4 or 5, occasionally 6 later. Thundery showers. Moderate or good, occasionally poor."</li>
+<li>"Tyne, Dogger. Northeast 3 or 4. Occasional rain. Moderate or poor."</li>
+<li>"Rockall, Malin, Hebrides. Southwest gale 8 to storm 10, veering west, severe gale 9 to violent storm 11. Rain, then squally showers. Poor, becoming moderate."</li>
+<li>"Southeast Iceland. North 7 to severe gale 9. Heavy snow showers. Good, becoming poor in showers. Moderate icing."</li>
+</ul>
+</dd>
+</dl>
+<p>On 10 January 1993, during the <a href="/wiki/Braer_Storm_of_January_1993" title="Braer Storm of January 1993">Braer Storm</a>, a record North Atlantic low pressure of 914 mb was recorded. The shipping forecast was:</p>
+<dl>
+<dd>
+<ul>
+<li>"Rockall, Malin, Hebrides, Bailey. Southwest hurricane force 12 or more."</li>
+</ul>
+</dd>
+</dl>
+<p>With the information provided in the Shipping Forecast it is possible to compile a pressure chart for the coasts of northwestern Europe. Extended shipping forecasts (0520 and 0048) also include weather reports from a list of additional coastal stations and automatic weather logging stations, which are known by their names, such as "Channel Light Vessel Automatic"; these are the <a class="mw-redirect" href="/wiki/List_of_coastal_weather_stations_of_the_United_Kingdom" title="List of coastal weather stations of the United Kingdom">Coastal Weather Stations</a>. This additional information does not fall within the 350/380 word restriction. (<a href="/wiki/RT%C3%89_Radio_1" title="RTÉ Radio 1">RTÉ Radio 1</a> broadcasts similar coastal reports for <a href="/wiki/Ireland" title="Ireland">Ireland</a>).</p>
+<p>The extended forecast also includes an <a href="/wiki/Inshore_coastal_areas_of_the_United_Kingdom" title="Inshore coastal areas of the United Kingdom">inshore waters</a> forecast.</p>
+<h2><span class="mw-headline" id="Gale_warnings">Gale warnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=7" title="Edit section: Gale warnings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In addition, gale warnings are broadcast at other times between programmes and after news. The BBC instruction reads: 'Gale warnings shall be radiated (broadcast) during the next available programme junction and repeated at the end of the following news bulletin'. For example:</p>
+<blockquote class="templatequote">
+<p>That was the news, and now attention all shipping, especially in sea areas German Bight and Humber: The Met Office issued the following gale warning to shipping at 2206 today. German Bight, west or northwest gale 8 to storm 10, imminent. Humber, west gale 8 or severe gale 9, expected soon. That is the end of the gale warning.</p>
+</blockquote>
+<p>When giving a gale warning the <a href="/wiki/Met_Office" title="Met Office">Met Office</a> will indicate when it expects the gale to occur. "Imminent" means that a gale is expected within 6 hours, "expected soon" that a gale is expected within 6 to 12 hours and "later" in more than 12 hours' time.</p>
+<h2><span class="mw-headline" id="Frequencies">Frequencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=8" title="Edit section: Frequencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Shipping Forecast is broadcast on <a href="/wiki/BBC_Radio_4" title="BBC Radio 4">BBC Radio 4</a> because its <a href="/wiki/Longwave" title="Longwave">longwave</a> signal can be received clearly at sea all around the <a href="/wiki/British_Isles" title="British Isles">British Isles</a> regardless of time of day or radio conditions. For the same reason, the Shipping Forecast was broadcast in the <a href="/wiki/BBC_National_Programme" title="BBC National Programme">BBC National Programme</a> until September 1939, and then after the Second World War on the <a href="/wiki/BBC_Light_Programme" title="BBC Light Programme">BBC Light Programme</a> (later <a href="/wiki/BBC_Radio_2" title="BBC Radio 2">BBC Radio 2</a>) until November 1978: these services were all broadcast on longwave. When BBC Radio 4 took over the longwave frequency from Radio 2 on 23 November 1978, the Shipping Forecast moved to Radio 4.</p>
+<h2><span class="mw-headline" id="Before_closedown">Before closedown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=9" title="Edit section: Before closedown">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The last broadcast of the Shipping Forecast at 0048 each day is traditionally preceded by the playing of "<a href="/wiki/Sailing_By" title="Sailing By">Sailing By</a>", a light orchestral piece by <a href="/wiki/Ronald_Binge" title="Ronald Binge">Ronald Binge</a>. This is only very rarely omitted, generally when the schedule is running late. Though occasionally played in full, it is common for only a section of the piece to be broadcast; that section being the length required to fill the gap between the previous programme's ending and the start of the forecast at precisely 0048.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> More importantly, "Sailing By" serves as a vital identification tool – it is distinctive and as such assists anyone attempting to tune in. The forecast is then followed by the <a href="/wiki/God_Save_the_Queen" title="God Save the Queen">National anthem</a> and the closedown of the station for the day, with the <a href="/wiki/BBC_World_Service" title="BBC World Service">BBC World Service</a> taking over the frequencies after the pips of the <a href="/wiki/Greenwich_Time_Signal" title="Greenwich Time Signal">Greenwich Time Signal</a> at 0100.</p>
+<h2><span id='"Mini"_shipping_forecast,_maritime_safety'></span><span class="mw-headline" id=".22Mini.22_shipping_forecast.2C_maritime_safety">"Mini" shipping forecast, maritime safety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=10" title='Edit section: "Mini" shipping forecast, maritime safety'>edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Shipping Forecast should not be confused with similar broadcasts given by HM Coastguard to vessels at sea tuned into <a href="/wiki/Marine_VHF_radio" title="Marine VHF radio">Marine VHF</a> and <a href="/wiki/Medium_frequency" title="Medium frequency">MF</a> radio frequencies.</p>
+<p><a class="mw-redirect" href="/wiki/HM_Coastguard" title="HM Coastguard">HM Coastguard</a>'s broadcasts can only be heard by vessels or persons using or tuned into marine VHF and MF radio frequencies, whereas the Shipping Forecast can be heard by anyone tuned into <a href="/wiki/BBC_Radio_4" title="BBC Radio 4">BBC Radio 4</a>.</p>
+<p>The Coastguard's broadcasts follow the same format as the shipping forecast using the same terminology and style, but the information only normally applies to the area sector or region covered by that particular Coastguard Co-ordination Centre (such as the <a href="/wiki/Bristol_Channel" title="Bristol Channel">Bristol Channel</a>, for instance).</p>
+<p>Announcements of pending broadcasts by HMCG is given on marine <a href="/wiki/Channel_16_VHF" title="Channel 16 VHF">Channel 16 VHF</a> and is normally announced along the lines of "All stations. This is Portland Coastguard... Maritime Safety Information will now be Broadcast on Channel 23... Portland Coastguard."</p>
+<p>A similar broadcast on MF is initially announced on 2182 kHz, with a further frequency specified, e.g., 1770 kHz. VHF optimum range is approximately 30 nautical miles (NM), effectively line of sight, whereas MF range is much greater at approximately 150 NM, allowing ships in the Atlantic Ocean and North Sea to receive the broadcast.</p>
+<h2><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=11" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 18 December 1993, as part of the Arena Radio Night, BBC Radio 4 and BBC 2 collaborated on a simultaneous broadcast so the shipping forecast – read that night by <a href="/wiki/Laurie_Macmillan" title="Laurie Macmillan">Laurie Macmillan</a> – could be seen as well as heard. To date, it is the only time that it has been broadcast on television.</p>
+<p>In addition, a limited shipping forecast was included as part of the closing down routines of the former <a href="/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a> companies for <a href="/wiki/South_West_England" title="South West England">South West England</a>, <a href="/wiki/Westward_Television" title="Westward Television">Westward Television</a> and latterly <a href="/wiki/Television_South_West" title="Television South West">Television South West</a>, until the late 1980s.</p>
+<p>A recording of the shipping forecast can be heard during the closing credits of Rick Stein's food heroes.</p>
+<h2><span class="mw-headline" id="Influences_on_popular_culture">Influences on popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=12" title="Edit section: Influences on popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Shipping Forecast is immensely popular with the British public; it daily attracts listeners in the hundreds of thousands – far more than actually require it.<sup class="reference" id="cite_ref-baffle_11-0"><a href="#cite_note-baffle-11">[11]</a></sup> In 1995, a plan to move the late night broadcast by 12 minutes triggered angry newspaper editorials and debates in the UK Parliament and was ultimately scrapped.<sup class="reference" id="cite_ref-gloabal_12-0"><a href="#cite_note-gloabal-12">[12]</a></sup> Similar outcry greeted the Met Office's decision to rename Finisterre to FitzRoy, but in that case, the decision was carried through.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Peter Jefferson, who read the Forecast for 40 years until 2009, says that he received letters from listeners across the UK saying that the 0048 broadcast helped them get to sleep after a long day.<sup class="reference" id="cite_ref-Jefferson_4-2"><a href="#cite_note-Jefferson-4">[4]</a></sup> The Controller of BBC Radio 4, Mark Damazer, attempted to explain its popularity:</p>
+<blockquote class="templatequote">
+<p>It scans poetically. It's got a rhythm of its own. It's eccentric, it's unique, it's English. It's slightly mysterious because nobody really knows where these places are. It takes you into a faraway place that you can't really comprehend unless you're one of these people bobbing up and down in the Channel.<sup class="reference" id="cite_ref-baffle_11-1"><a href="#cite_note-baffle-11">[11]</a></sup></p>
+</blockquote>
+<p><a href="/wiki/Zeb_Soanes" title="Zeb Soanes">Zeb Soanes</a>, a regular Shipping Forecast reader, described it thus:</p>
+<blockquote class="templatequote">
+<p>To the non-nautical, it is a nightly litany of the sea. It reinforces a sense of being islanders with a proud seafaring past. Whilst the listener is safely tucked-up in their bed, they can imagine small fishing-boats bobbing about at Plymouth or 170ft waves crashing against Rockall.<sup class="reference" id="cite_ref-longwave_14-0"><a href="#cite_note-longwave-14">[14]</a></sup></p>
+</blockquote>
+<p>Another regular reader of the Forecast, <a href="/wiki/Kathy_Clugston" title="Kathy Clugston">Kathy Clugston</a>, described it as "Like a lullaby, almost".<sup class="reference" id="cite_ref-longwave_14-1"><a href="#cite_note-longwave-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=13" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Shipping Forecast has inspired a number of songs and poems.</p>
+<div>
+<ul>
+<li>"Mercy" on <a href="/wiki/Wire_(band)" title="Wire (band)">Wire</a>'s 1978 album <i><a href="/wiki/Chairs_Missing" title="Chairs Missing">Chairs Missing</a></i> includes the lyrics:
+<blockquote class="templatequote">
+<div class="poem">
+<p>Snow storms forecast imminently in areas<br/>
+Dogger, Viking, Moray, Forth, and Orkney</p>
+</div>
+</blockquote>
+</li>
+<li>"<a href="/wiki/This_Is_a_Low" title="This Is a Low">This Is a Low</a>" on <a href="/wiki/Blur_(band)" title="Blur (band)">Blur</a>'s album <i><a href="/wiki/Parklife" title="Parklife">Parklife</a></i> includes the lyrics:
+<blockquote class="templatequote">
+<div class="poem">
+<p>On the Tyne, Forth and Cromarty<br/>
+There's a low in the high Forties</p>
+</div>
+</blockquote>
+<p>The song also contains references to Biscay, Dogger, Thames ("Hit traffic on the Dogger bank / Up the Thames to find a taxi rank") and Malin Head, one of the <a class="mw-redirect" href="/wiki/List_of_coastal_weather_stations_of_the_United_Kingdom" title="List of coastal weather stations of the United Kingdom">coastal stations</a>.</p>
+Blur's early tour film, <i><a href="/wiki/Starshaped" title="Starshaped">Starshaped</a></i>, also uses extracts from the Shipping Forecast during the opening and closing credits.</li>
+<li><a href="/wiki/Radiohead" title="Radiohead">Radiohead</a> used lyrics relating to the Shipping Forecast in their song "<a href="/wiki/Kid_A" title="Kid A">In Limbo</a>" to represent a theme of being lost:
+<blockquote class="templatequote">
+<div class="poem">
+<p>Lundy, Fastnet, <a href="/wiki/Irish_Sea" title="Irish Sea">Irish Sea</a><br/>
+I've got a message I can't read</p>
+</div>
+</blockquote>
+This song appears on the album <i><a href="/wiki/Kid_A" title="Kid A">Kid A</a></i>, the vinyl release of which has the names of several of the forecast's sea areas etched into the runoff space.</li>
+<li><a href="/wiki/Dry_the_River" title="Dry the River">Dry the River</a> song "New Ceremony" on the album <i><a href="/wiki/Shallow_Bed" title="Shallow Bed">Shallow Bed</a></i> includes lyrics:
+<blockquote class="templatequote">
+<div class="poem">
+<p>But after we danced to the shipping forecast<br/>
+the words escaped your mouth...</p>
+</div>
+</blockquote>
+</li>
+<li>In the <a class="mw-redirect" href="/wiki/2012_Olympics_opening_ceremony" title="2012 Olympics opening ceremony">opening ceremony for the 2012 Olympic Games in London</a>, the shipping forecast was played in the opening part of the production with Elgar's <i><a href="/wiki/Enigma_Variations" title="Enigma Variations">Nimrod</a></i> to represent Britain's maritime heritage.</li>
+<li><a href="/wiki/The_Young_Punx" title="The Young Punx">The Young Punx</a> sampled the shipping forecast as read by BBC presenter <a href="/wiki/Alan_Smith_(radio)" title="Alan Smith (radio)">Alan Smith</a> for their track "Rockall". The shipping forecast forms the entire lyric for the track, both used in its original form (yet rhyming and scanning) e.g. "Tyne, Dogger, German Bight. Humber, <a class="mw-redirect" href="/wiki/Thames" title="Thames">Thames</a>, Dover, Wight" and also with the words re-edited into new orders to form new meanings and puns such as "expected to, Rock All, by midnight tonight".</li>
+<li>Other popular artists who have used <a href="/wiki/Sampling_(music)" title="Sampling (music)">samples</a> of the Shipping Forecast include <a href="/wiki/Andy_White_(singer-songwriter)" title="Andy White (singer-songwriter)">Andy White</a> who added the forecast to the track "The Whole Love Story" to create a very nostalgic, cosy and soporific sound, highly evocative of the British Isles; <a href="/wiki/Tears_for_Fears" title="Tears for Fears">Tears for Fears</a>, whose track "<a href="/wiki/Everybody_Wants_to_Rule_the_World#B-side:_Pharaohs" title="Everybody Wants to Rule the World">Pharaohs</a>" (a play on the name of the sea area "Faeroes") is a setting of the forecast to a mixture of mellow music and sound effects; and <a href="/wiki/Thomas_Dolby" title="Thomas Dolby">Thomas Dolby</a>, who included a shipping forecast read by the <a href="/wiki/BBC" title="BBC">BBC</a>'s John Marsh on the track "Windpower". "The Good Ship Lifestyle", a track on the album <i><a href="/wiki/Tubthumper" title="Tubthumper">Tubthumper</a></i> by <a href="/wiki/Chumbawamba" title="Chumbawamba">Chumbawamba</a>, starts out with a listing of the sea areas — in the wrong order, however.</li>
+<li>The British <a class="mw-redirect" href="/wiki/DJ" title="DJ">DJ</a> <a href="/wiki/Rob_Overseer" title="Rob Overseer">Rob Overseer</a>'s album <i>Wreckage</i> has a final track entitled "<a href="/wiki/Heligoland" title="Heligoland">Heligoland</a>", where the Shipping Forecast surrealistically alternates between reporting the weather and the emotional states of an individual.</li>
+<li>The band <a href="/wiki/British_Sea_Power" title="British Sea Power">British Sea Power</a> entitled a B-side of their "<a href="/wiki/Please_Stand_Up" title="Please Stand Up">Please Stand Up</a>" single "Gales Warnings in Viking North".</li>
+<li><a href="/wiki/Beck" title="Beck">Beck</a> includes a 27-second sample five minutes into the track "The Horrible Fanfare/Landslide/Exoskeleton" on the album <i><a href="/wiki/The_Information" title="The Information">The Information</a></i>.</li>
+<li>The experimental electronic musician <a class="mw-redirect" href="/wiki/Robin_Storey" title="Robin Storey">Robin Storey</a>, recording under the name <a href="/wiki/Rapoon" title="Rapoon">Rapoon</a>, sampled the shipping forecast for the track "Falling More Slowly" on his 1997 album <i>Easterly 6 or 7</i>, itself named for the Forecast.</li>
+<li><a href="/wiki/The_Prodigy" title="The Prodigy">The Prodigy</a> sampled a short section of the shipping forecast in their song "Weather Experience" on their album <i><a href="/wiki/Experience_(The_Prodigy_album)" title="Experience (The Prodigy album)">Experience</a></i>.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li>
+<li><a href="/wiki/Manfred_Mann%27s_Earth_Band" title="Manfred Mann's Earth Band">Manfred Mann's Earth Band</a> extensively used samples of shipping forecasts as a part of the backing track to "Stranded", from their 1980 album, <i>Chance</i>.</li>
+<li>The <a href="/wiki/Jethro_Tull_(band)" title="Jethro Tull (band)">Jethro Tull</a> album <i><a href="/wiki/Stormwatch_(album)" title="Stormwatch (album)">Stormwatch</a></i> features the shipping forecast between verses of "<a class="mw-redirect" href="/wiki/North_Sea_Oil" title="North Sea Oil">North Sea Oil</a>". It is read by <a href="/wiki/Francis_Wilson_(meteorologist)" title="Francis Wilson (meteorologist)">Francis Wilson</a>, a TV weatherman who also reads the introduction to "Dun Ringill" on the same album.</li>
+<li><a href="/wiki/Silly_Wizard" title="Silly Wizard">Silly Wizard</a> includes a snippet of a gale warning from the shipping forecast in the closing instrumental of "The Fishermen's Song", which tells of the loss of a fishing boat in a North Sea storm.</li>
+<li><i>Shipping Forecast</i> by the composer <a href="/wiki/Cecilia_McDowall" title="Cecilia McDowall">Cecilia McDowall</a> was commissioned by Portsmouth Festival Choir and conducted by Andrew Cleary. It was first performed in June 2011.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> The work combines the poetry of Seán Street, <a href="/wiki/Psalm_107" title="Psalm 107">Psalm 107</a>, and the words of the shipping forecast itself.</li>
+<li>There is a three-bell <a href="/wiki/Change_ringing" title="Change ringing">change ringing</a> method named "Shipping Forecast Singles". It was composed by Sam Austin and was rung to a peal in 2004 at St John the Baptist in <a href="/wiki/Middleton,_Warwickshire" title="Middleton, Warwickshire">Middleton, Warwickshire</a>. Other three-bell methods by the same composer are named after various shipping areas.</li>
+<li><a href="/wiki/Justin_Sullivan" title="Justin Sullivan">Justin Sullivan</a>, lead vocalist and founding member of <a href="/wiki/New_Model_Army" title="New Model Army">New Model Army</a>, released a solo album in 2003 called <i>Navigating by the Stars</i>. Featuring a nautical theme, the album samples part of the Shipping Forecast on the track "Ocean Rising".</li>
+<li>In 1966 four English singers calling themselves <a href="/wiki/The_Master_Singers" title="The Master Singers">The Master Singers</a> released a record of "The Weather Forecast" <sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> which was a typical Shipping Forecast sung in Anglican chant.</li>
+<li>The Creative Commons licensing artist Cakeflap's song "The Bakery Is Open" <sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> contains a mock version of the shipping forecast, with several areas and weathers altered.</li>
+<li>The <a class="mw-redirect" href="/wiki/Mull_Historical_Society" title="Mull Historical Society">Mull Historical Society</a>'s single "The Final Arrears" ends with a twenty-second recording of the Shipping Forecast from "Tuesday 17th October" (presumably 2000).</li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Radio">Radio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=14" title="Edit section: Radio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Frank_Muir" title="Frank Muir">Frank Muir</a> and <a href="/wiki/Denis_Norden" title="Denis Norden">Denis Norden</a> parodied the Shipping Forecast in a song written for an episode of <i><a href="/wiki/Take_It_From_Here" title="Take It From Here">Take It From Here</a></i>:</p>
+<blockquote class="templatequote">
+<div class="poem">
+<p>In Ross and Finistère<br/>
+The outlook is sinisterre<br/>
+Rockall and Lundy<br/>
+Will clear up by Monday</p>
+</div>
+</blockquote>
+<p><i><a href="/wiki/Dead_Ringers_(comedy)" title="Dead Ringers (comedy)">Dead Ringers</a></i> parodied the Shipping Forecast using <a href="/wiki/Brian_Perkins" title="Brian Perkins">Brian Perkins</a> rapping the forecast (<i>Dogger, Fisher, German Bight – becoming quite cyclonic. Occasional showers making you feel cat-atatatatatata-tonic...</i>). Many other versions have been used including a "Dale Warning" to warn where <a href="/wiki/Dale_Winton" title="Dale Winton">Dale Winton</a> could be found over the coming period, and a spoof in which sailors are warned of ghostly galleons and other nightmarish apparitions.</p>
+<p><a href="/wiki/Stephen_Fry" title="Stephen Fry">Stephen Fry</a>, in his 1988 radio programme <i><a href="/wiki/Saturday_Night_Fry" title="Saturday Night Fry">Saturday Night Fry</a></i>, issued the following "Shipping Forecast" in the first episode of the programme:</p>
+<blockquote class="templatequote">
+<div class="poem">
+<p>And now, before the news and weather, here is the Shipping Forecast issued by the Meteorological Office at 1400 hours <a href="/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">Greenwich Mean Time</a>.<br/>
+Finisterre, Dogger, Rockall, Bailey: no.<br/>
+Wednesday, variable, imminent, super.<br/>
+South Utsire, North Utsire, Sheerness, Foulness, <a href="/wiki/Eliot_Ness" title="Eliot Ness">Eliot Ness</a>:<br/>
+If you will, often, eminent, 447, 22 yards, touchdown, stupidly.<br/>
+Malin, Hebrides, Shetland, Jersey, Fair Isle, Turtle-Neck, Tank Top, Courtelle:<br/>
+Blowy, quite misty, sea sickness. Not many fish around, come home, veering suggestively.<br/>
+That was the Shipping Forecast for 1700 hours, Wednesday 18 August.</p>
+</div>
+</blockquote>
+<p>The BBC Radio 4 monologue sketch show <i>One</i> features a number of Shipping Forecast parodies, written by <a href="/wiki/David_Quantick" title="David Quantick">David Quantick</a> and <a href="/wiki/Daniel_Maier" title="Daniel Maier">Daniel Maier</a>, such as the following, originally broadcast on BBC Radio 4 Thursday 21 February 2008:</p>
+<blockquote class="templatequote">
+<div class="poem">
+<p>And now with the time approaching 5 pm,<br/>
+It's time for the <a class="mw-redirect" href="/wiki/Mid-life_crisis" title="Mid-life crisis">mid-life crisis</a> forecast...<br/>
+<br/>
+Forties; restless: three or four.<br/>
+Marriage: stale; becoming suffocating.<br/>
+Sportscar, jeans and t-shirt; westerly, five.<br/>
+Waitress; blonde; 19 or 20.<br/>
+<a class="mw-redirect" href="/wiki/Converse_All-Stars" title="Converse All-Stars">Converse All-Stars</a>; haircut; earring; children;<br/>
+becoming embarrassed.<br/>
+Tail between legs; atmosphere frosty;<br/>
+Spare room: five or six.</p>
+</div>
+</blockquote>
+<p>In an episode of BBC Radio 4 series <i><a href="/wiki/Live_on_Arrival" title="Live on Arrival">Live on Arrival</a></i>, <a href="/wiki/Steve_Punt" title="Steve Punt">Steve Punt</a> reads the Shopping Forecast, in which the regions are replaced with supermarket names, e.g. "<a href="/wiki/Tesco" title="Tesco">Tesco</a>, <a href="/wiki/Fine_Fare" title="Fine Fare">Fine Fare</a>, <a href="/wiki/Sainsbury%27s" title="Sainsbury's">Sainsbury</a>". The sketch ends with the information, "joke mileage decreasing, end of show imminent".</p>
+<p>On the broadcast at 0048 on Saturday 19 March 2011, the area forecasts were delivered by <a href="/wiki/John_Prescott" title="John Prescott">John Prescott</a> to raise awareness of <a href="/wiki/Red_Nose_Day_2011" title="Red Nose Day 2011">Red Nose Day 2011</a>, a charity event organised by <a href="/wiki/Comic_Relief" title="Comic Relief">Comic Relief</a>. The format then reverted to the BBC continuity announcer <a href="/wiki/Alice_Arnold" title="Alice Arnold">Alice Arnold</a> for the reports on coastal areas. On delivering the area forecast for Humber, Prescott (who had represented the parliamentary constituency of <a class="mw-redirect" href="/wiki/Hull_East" title="Hull East">Hull East</a> for almost 40 years before retiring) slipped deliberately into his distinctive <a class="mw-redirect" href="/wiki/East_Yorkshire" title="East Yorkshire">East Yorkshire</a> accent – "'Umber – without the 'H', as we say it up there".</p>
+<p>The comedian <a href="/wiki/Marti_Caine" title="Marti Caine">Marti Caine</a> listed the Shipping Forecast as one of her eight records when she made her second appearance on <i><a href="/wiki/Desert_Island_Discs" title="Desert Island Discs">Desert Island Discs</a></i> on 24 March 1991.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Film_and_television">Film and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=15" title="Edit section: Film and television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Terence_Davies" title="Terence Davies">Terence Davies</a>' film <i><a href="/wiki/Distant_Voices,_Still_Lives" title="Distant Voices, Still Lives">Distant Voices, Still Lives</a></i>, a largely autobiographical account of growing up in <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a> during the 1940s and 1950s, opens with a shipping forecast from this period.</p>
+<p>In an episode of the BBC sitcom <i><a href="/wiki/Keeping_Up_Appearances" title="Keeping Up Appearances">Keeping Up Appearances</a></i>, a soon-to-be-sailing <a class="mw-redirect" href="/wiki/Hyacinth_Bucket" title="Hyacinth Bucket">Hyacinth Bucket</a> calls over the telephone for an advance shipping forecast, even though the yacht she and her husband Richard are to visit is moored on the Thames near Oxford. Names mentioned (in scene sequence) are: <a href="/wiki/Fisher_Bank" title="Fisher Bank">Fisher</a>, <a href="/wiki/German_Bight" title="German Bight">German Bight</a> and <a href="/wiki/Cromarty_Firth" title="Cromarty Firth">Cromarty</a>, <a href="/wiki/Dogger_Bank" title="Dogger Bank">Dogger</a> and <a href="/wiki/Heligoland_Bight" title="Heligoland Bight">Heligoland</a> (also known as <a href="/wiki/German_Bight" title="German Bight">German Bight</a>).</p>
+<p>In an episode of the BBC sitcom <i><a href="/wiki/Ever_Decreasing_Circles" title="Ever Decreasing Circles">Ever Decreasing Circles</a></i>, Howard and Hilda leave their neighbour Paul's house party early, explaining that they must get back to listen to the Shipping Forecast. Paul asks why, seeing as they have never owned a boat. Howard explains, "Well, it takes us nicely into the news."</p>
+<p>Mentioned briefly in the film <i><a href="/wiki/Kes_(film)" title="Kes (film)">Kes</a></i> (see <i>Art and Literature</i> section above).</p>
+<p>A recording of part of the forecast is played over the opening and closing credits of <a href="/wiki/Rick_Stein" title="Rick Stein">Rick Stein</a>'s 2000 TV series <i>Rick Stein's Seafood Lover's Guide</i>.</p>
+<p>In an episode of the Channel 4 television series <i><a href="/wiki/Black_Books" title="Black Books">Black Books</a></i>, the character Fran Katzenjammer listens to the shipping forecast because a friend from her college is reading it. She finds his voice arousing.</p>
+<p>In the BBC sitcom <i><a class="mw-redirect" href="/wiki/As_Time_Goes_By_(UK_TV_series)" title="As Time Goes By (UK TV series)">As Time Goes By</a></i>, the character Mrs Bale is obsessed by and constantly mentions The Shipping Forecast much to the befuddlement of the other characters.</p>
+<p>Many characters in the 1983 children's cartoon, <i><a href="/wiki/The_Adventures_of_Portland_Bill" title="The Adventures of Portland Bill">The Adventures of Portland Bill</a></i> are named after features mentioned in the Shipping Forecast.</p>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=16" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Funcom" title="Funcom">Funcom</a>'s <a href="/wiki/Massively_multiplayer_online_role-playing_game" title="Massively multiplayer online role-playing game">massively multiplayer online role-playing game</a> <i><a href="/wiki/The_Secret_World" title="The Secret World">The Secret World</a></i>, the shipping forecast plays over the radio in a <a href="/wiki/London_Underground" title="London Underground">London Underground</a> station, adding to the British flavour distinguishing the setting from other worldwide locations featured in the game.</p>
+<h3><span class="mw-headline" id="Sleep_Stories">Sleep Stories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=17" title="Edit section: Sleep Stories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In March 2017, <a href="/wiki/Peter_Jefferson_(radio)" title="Peter Jefferson (radio)">Peter Jefferson</a> recorded a reinvented version of the <b>Shipping Forecast</b> as "a bedtime story for grown-ups."<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> The 26-minute recording is available as a Sleep Story on the meditation app <a href="/wiki/Calm_(company)" title="Calm (company)"><i>Calm.</i></a> Sleep Stories, launched by <i>Calm</i> in December 2016, are bedtime stories for adults.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></p>
+<h2><span class="mw-headline" id="Online">Online</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=18" title="Edit section: Online">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Shipping Forecast is published online by the <a class="external text" href="http://www.metoffice.gov.uk/weather/marine/shipping_forecast.html" rel="nofollow">Met Office</a> and the <a class="external text" href="http://news.bbc.co.uk/weather/coast_and_sea/shipping_forecast/" rel="nofollow">BBC</a>.</p>
+<p>The daily 0048 forecast is available online via <a class="external text" href="http://www.bbc.co.uk/programmes/b006qfvv" rel="nofollow">BBC iPlayer</a>.</p>
+<p>In 2009 an <a class="external text" href="http://twitter.com/shipforecast" rel="nofollow">unofficial Twitter feed</a> was created, but has not been updated since 2014.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Inshore_coastal_areas_of_the_United_Kingdom" title="Inshore coastal areas of the United Kingdom">Inshore coastal areas of the United Kingdom</a></li>
+<li><a href="/wiki/List_of_coastal_weather_stations_in_the_British_Isles" title="List of coastal weather stations in the British Isles">List of coastal weather stations in the British Isles</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090706124312/http://www.metoffice.gov.uk/weather/marine/guide/shipping/key.html" rel="nofollow">"Met Office Shipping Forecast key"</a>. metoffice.gov.uk. Archived from <a class="external text" href="http://www.metoffice.gov.uk/weather/marine/guide/shipping/key.html" rel="nofollow">the original</a> on 6 July 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.btitle=Met+Office+Shipping+Forecast+key&amp;rft.genre=unknown&amp;rft.pub=metoffice.gov.uk&amp;rft_id=http%3A%2F%2Fwww.metoffice.gov.uk%2Fweather%2Fmarine%2Fguide%2Fshipping%2Fkey.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-BBC150-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC150_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC150_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.bbc.co.uk/news/av/uk-41030909/radio-4-s-shipping-forecast-reaches-150-years-old" rel="nofollow">"Radio 4's Shipping Forecast is 150 years old"</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i>. 24 August 2017.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Radio+4%27s+Shipping+Forecast+is+150+years+old&amp;rft.date=2017-08-24&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fav%2Fuk-41030909%2Fradio-4-s-shipping-forecast-reaches-150-years-old&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Met Office (2012). <a class="external text" href="http://www.metoffice.gov.uk/media/pdf/1/f/Fact_sheet_No._8.pdf" rel="nofollow">"National Meteorological Library and Fact Sheet 8 – The Shipping Forecast"</a> <span style="font-size:85%;">(PDF)</span>. 1. pp. 3–5<span class="reference-accessdate">. Retrieved <span class="nowrap">10 April</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.au=Met+Office&amp;rft.btitle=National+Meteorological+Library+and+Fact+Sheet+8+%E2%80%93+The+Shipping+Forecast&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft.pages=3-5&amp;rft.series=1&amp;rft_id=http%3A%2F%2Fwww.metoffice.gov.uk%2Fmedia%2Fpdf%2F1%2Ff%2FFact_sheet_No._8.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Jefferson-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jefferson_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jefferson_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Jefferson_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Peter Jefferson (2012). <a class="external text" href="http://www.radiotimes.com/news/2012-02-18/secrets-of-the-shipping-forecast" rel="nofollow">"Secrets of the Shipping Forecast"</a>. <i>The Radio Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Secrets+of+the+Shipping+Forecast&amp;rft.au=Peter+Jefferson&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft.jtitle=The+Radio+Times&amp;rft_id=http%3A%2F%2Fwww.radiotimes.com%2Fnews%2F2012-02-18%2Fsecrets-of-the-shipping-forecast&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Mark Sweney. <a class="external text" href="https://www.theguardian.com/media/2014/may/30/bbc-chipping-forecast-fail-broadcast-radio-4" rel="nofollow">"BBC fails to air Shipping Forecast for first time in more than 90 years"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=BBC+fails+to+air+Shipping+Forecast+for+first+time+in+more+than+90+years&amp;rft.au=Mark+Sweney&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2014%2Fmay%2F30%2Fbbc-chipping-forecast-fail-broadcast-radio-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Met_Office_Shipping_Fact_sheet_8-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Met_Office_Shipping_Fact_sheet_8_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Met_Office_Shipping_Fact_sheet_8_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation"><a class="external text" href="http://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/3/3/fact_sheet_no._8.pdf" rel="nofollow"><i>Shipping Fact sheet 8 — The Shipping Forecast</i></a> <span style="font-size:85%;">(PDF)</span>, <a href="/wiki/Met_Office" title="Met Office">Met Office</a>, 2015<span class="reference-accessdate">, retrieved <span class="nowrap">30 August</span> 2017</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.btitle=Shipping+Fact+sheet+8+%E2%80%94+The+Shipping+Forecast&amp;rft.date=2015&amp;rft.genre=book&amp;rft.pub=Met+Office&amp;rft_id=http%3A%2F%2Fwww.metoffice.gov.uk%2Fbinaries%2Fcontent%2Fassets%2Fmohippo%2Fpdf%2F3%2F3%2Ffact_sheet_no._8.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-fitzroy-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-fitzroy_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fitzroy_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/1798629.stm" rel="nofollow">"Shipping forecast loses household name"</a>. <i>BBC News</i>. 3 February 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Shipping+forecast+loses+household+name&amp;rft.date=2002-02-03&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fuk_news%2F1798629.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Météo France. <a class="external text" href="http://marine.meteofrance.com/content/2012/5/26760-48.pdf" rel="nofollow">"Guide pratique – Marine (pdf file)"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.au=M%C3%A9t%C3%A9o+France&amp;rft.btitle=Guide+pratique+%E2%80%93+Marine+%28pdf+file%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmarine.meteofrance.com%2Fcontent%2F2012%2F5%2F26760-48.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-format-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-format_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-format_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.metoffice.gov.uk/media/pdf/1/f/Fact_sheet_No._8.pdf" rel="nofollow">"UK shipping forecast"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Met_Office" title="Met Office">Met Office</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.btitle=UK+shipping+forecast&amp;rft.genre=unknown&amp;rft.pub=Met+Office&amp;rft_id=http%3A%2F%2Fwww.metoffice.gov.uk%2Fmedia%2Fpdf%2F1%2Ff%2FFact_sheet_No._8.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.bbc.co.uk/radio4/help/faqs_4.shtml#question3" rel="nofollow">BBC.co.uk</a></span></li>
+<li id="cite_note-baffle-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-baffle_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-baffle_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Kevin Young (27 September 2007). <a class="external text" href="http://news.bbc.co.uk/1/hi/entertainment/6940597.stm" rel="nofollow">"Shipping Forecast's 'baffling' legacy"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Shipping+Forecast%27s+%27baffling%27+legacy&amp;rft.au=Kevin+Young&amp;rft.date=2007-09-27&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fentertainment%2F6940597.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-gloabal-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-gloabal_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Corinne Purtill. <a class="external text" href="http://www.globalpost.com/dispatch/news/regions/europe/united-kingdom/130712/britain-radio4-bbc-shipping-forecast" rel="nofollow">"In the UK, nothing interrupts the shipping forecast — not even live sports"</a>. <i>Global Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=In+the+UK%2C+nothing+interrupts+the+shipping+forecast+%E2%80%94+not+even+live+sports&amp;rft.au=Corinne+Purtill&amp;rft.genre=unknown&amp;rft.jtitle=Global+Post&amp;rft_id=http%3A%2F%2Fwww.globalpost.com%2Fdispatch%2Fnews%2Fregions%2Feurope%2Funited-kingdom%2F130712%2Fbritain-radio4-bbc-shipping-forecast&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Kate Fox (2005). <i>Watching the English: The Hidden Rules of English Behaviour</i>. Hodder &amp; Stoughton. p. 10.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.au=Kate+Fox&amp;rft.btitle=Watching+the+English%3A+The+Hidden+Rules+of+English+Behaviour&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pages=10&amp;rft.pub=Hodder+%26+Stoughton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-longwave-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-longwave_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-longwave_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Alex Hudson (17 February 2012). <a class="external text" href="http://www.bbc.co.uk/news/magazine-17065521" rel="nofollow">"The lull of the Shipping Forecast"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=The+lull+of+the+Shipping+Forecast&amp;rft.au=Alex+Hudson&amp;rft.date=2012-02-17&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fmagazine-17065521&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.theprodigy.info/samples/experience.shtml#Weather_Experience" rel="nofollow">"Prodigy samples &gt;&gt; Experience era"</a>. <i>Juge's Prodigy Net</i>. Jussi Lahtinen<span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Prodigy+samples+%3E%3E+Experience+era&amp;rft.genre=unknown&amp;rft.jtitle=Juge%27s+Prodigy+Net&amp;rft_id=http%3A%2F%2Fwww.theprodigy.info%2Fsamples%2Fexperience.shtml%23Weather_Experience&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.bbc.co.uk/news/entertainment-arts-13773797" rel="nofollow">"Music inspired by Shipping Forecast"</a>. <i>BBC News</i>. 15 June 2011.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Music+inspired+by+Shipping+Forecast&amp;rft.date=2011-06-15&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fentertainment-arts-13773797&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.youtube.com/watch?v=aAMlem3KGaA" rel="nofollow">"Weather Forecast Master Singers Slideshow with subs www keepvid com"</a>. <i>YouTube</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Weather+Forecast+Master+Singers+Slideshow+with+subs+www+keepvid+com&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaAMlem3KGaA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.jamendo.com/album/16995/the-bakery-is-open?language=en" rel="nofollow">"The Bakery Is Open on Jamendo"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.btitle=The+Bakery+Is+Open+on+Jamendo&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.jamendo.com%2Falbum%2F16995%2Fthe-bakery-is-open%3Flanguage%3Den&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/21ad3f47#p0093zbg" rel="nofollow">"Castaway : Marti Caine"</a>. <i>Desert Island Discs</i>. BBC. 24 September 2011.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Castaway+%3A+Marti+Caine&amp;rft.date=2011-09-24&amp;rft.genre=unknown&amp;rft.jtitle=Desert+Island+Discs&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fradio4%2Ffeatures%2Fdesert-island-discs%2Fcastaway%2F21ad3f47%23p0093zbg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.telegraph.co.uk/news/2017/03/29/voice-shipping-forecast-returns-lull-listeners-sleep-not-bbc/" rel="nofollow">"Voice of the Shipping Forecast returns to lull listeners to sleep - but not on the BBC"</a>. <i>The Telegraph</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Voice+of+the+Shipping+Forecast+returns+to+lull+listeners+to+sleep+-+but+not+on+the+BBC&amp;rft.genre=article&amp;rft.jtitle=The+Telegraph&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2017%2F03%2F29%2Fvoice-shipping-forecast-returns-lull-listeners-sleep-not-bbc%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Smurthwaite, Tom (2017-04-08). <a class="external text" href="http://www.getsurrey.co.uk/news/surrey-news/voice-shipping-forecast-lends-soothing-12840144" rel="nofollow">"Meet the man whose soothing tones voice the Shipping Forecast"</a>. <i>getsurrey</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Meet+the+man+whose+soothing+tones+voice+the+Shipping+Forecast&amp;rft.aufirst=Tom&amp;rft.aulast=Smurthwaite&amp;rft.date=2017-04-08&amp;rft.genre=article&amp;rft.jtitle=getsurrey&amp;rft_id=http%3A%2F%2Fwww.getsurrey.co.uk%2Fnews%2Fsurrey-news%2Fvoice-shipping-forecast-lends-soothing-12840144&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.fastcompany.com/3066445/these-bedtime-stories-are-designed-to-lull-grownups-to-sleep" rel="nofollow">"These Bedtime Stories Are Designed To Lull Grownups To Sleep"</a>. <i>Fast Company</i>. 2016-12-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=These+Bedtime+Stories+Are+Designed+To+Lull+Grownups+To+Sleep&amp;rft.date=2016-12-13&amp;rft.genre=article&amp;rft.jtitle=Fast+Company&amp;rft_id=https%3A%2F%2Fwww.fastcompany.com%2F3066445%2Fthese-bedtime-stories-are-designed-to-lull-grownups-to-sleep&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.telegraph.co.uk/health-fitness/mind/trouble-sleeping-why-adults-need-bedtime-stories-too/" rel="nofollow">"Trouble sleeping? Why adults need bedtime stories too"</a>. <i>The Telegraph</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShipping+Forecast&amp;rft.atitle=Trouble+sleeping%3F+Why+adults+need+bedtime+stories+too&amp;rft.genre=article&amp;rft.jtitle=The+Telegraph&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fhealth-fitness%2Fmind%2Ftrouble-sleeping-why-adults-need-bedtime-stories-too%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=21" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Power, Mark (photog) &amp; Chandler, David (text) (1998) <i>The Shipping Forecast</i>. London: Zelda Cheatle Press in association with Network Photographers <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-899823-03-4" title="Special:BookSources/1-899823-03-4">1-899823-03-4</a></li>
+<li>Collyer, Peter (1998) <i>Rain Later, Good: illustrating the Shipping Forecast</i>. Bradford on Avon: Thomas Reed <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-901281-33-6" title="Special:BookSources/0-901281-33-6">0-901281-33-6</a></li>
+<li>Connelly, Charlie (2004) <i><a class="external text" href="http://copac.ac.uk/search?rn=1&amp;ti=attention+shipping&amp;sort-order=rank" rel="nofollow">Attention All Shipping: a journey round the Shipping Forecast</a></i>. London: Little, Brown <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-316-72474-2" title="Special:BookSources/0-316-72474-2">0-316-72474-2</a></li>
+<li>Bevan, A. C. (2000) <i>Of Sea-graves &amp; Sand-shrines</i>. Todmorden: Arc <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-900072-46-7" title="Special:BookSources/1-900072-46-7">1-900072-46-7</a> (a few poems)</li>
+<li>Carolan, Victoria (2011) "<a class="external text" href="http://www.tandfonline.com/doi/pdf/10.1080/21533369.2011.622870=rank" rel="nofollow">The shipping forecast and British national identity</a>", <i>Journal for Maritime Research</i>, volume 13, issue 2, 2011</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shipping_Forecast&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://news.bbc.co.uk/weather/coast_and_sea/shipping_forecast/" rel="nofollow">The BBC's Shipping Forecast page</a> containing the latest forecast when it is released (i.e. 0015, 0505, 1130 and 1725).</li>
+<li><a class="external text" href="http://www.metoffice.gov.uk/weather/marine/" rel="nofollow">The Meteorological Office's Shipping Forecast page</a> contains the same forecast as the BBC site.</li>
+<li><a class="external text" href="http://www.bbc.co.uk/weather/coast_and_sea/shipping_forecast" rel="nofollow">The BBC's forecast for inshore waters</a>.</li>
+<li><a class="external text" href="https://web.archive.org/web/20110716071923/http://www.metoffice.gov.uk/newmedia/datafeed/uk_shipping.html" rel="nofollow">Rules on the format of the UK Shipping Forecast</a></li>
+<li><a class="external text" href="http://www.users.zetnet.co.uk/tempusfugit/marine/area_coord.htm" rel="nofollow">Precise latitude / longitude boundaries of the Weather areas</a></li>
+<li><a class="external text" href="http://news.bbc.co.uk/1/hi/entertainment/6940597.stm" rel="nofollow">Shipping Forecast's 'baffling' legacy</a></li>
+<li><a class="external text" href="http://news.bbc.co.uk/1/hi/uk/7578960.stm" rel="nofollow">Shipping Forecast Takes Global Bow</a> – The BBC's <a href="/wiki/Zeb_Soanes" title="Zeb Soanes">Zeb Soanes</a> reads the Shipping Forecast at the Beijing Olympics' Closing Ceremony</li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=wlNCiRC2Jc4&amp;t=404s" rel="nofollow">Kathy Clugston reads the Shipping Forecast</a></li>
+</ul>
+<div aria-labelledby="BBC_Radio_4" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:BBC_Radio_4" title="Template:BBC Radio 4"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:BBC_Radio_4" title="Template talk:BBC Radio 4"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:BBC_Radio_4&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="BBC_Radio_4" style="font-size:114%;margin:0 4em"><a href="/wiki/BBC_Radio_4" title="BBC Radio 4">BBC Radio 4</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_BBC_Radio_4_programmes" title="List of BBC Radio 4 programmes">Programmes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Comedy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Bleak_Expectations" title="Bleak Expectations">Bleak Expectations</a></i></li>
+<li><i><a href="/wiki/Cabin_Pressure_(radio_series)" title="Cabin Pressure (radio series)">Cabin Pressure</a></i></li>
+<li><i><a href="/wiki/Chain_Reaction_(radio)" title="Chain Reaction (radio)">Chain Reaction</a></i></li>
+<li><i><a href="/wiki/Count_Arthur_Strong%27s_Radio_Show!" title="Count Arthur Strong's Radio Show!">Count Arthur Strong's Radio Show!</a></i></li>
+<li><i><a href="/wiki/Clare_in_the_Community" title="Clare in the Community">Clare in the Community</a></i></li>
+<li><i><a href="/wiki/Dead_Ringers_(comedy)" title="Dead Ringers (comedy)">Dead Ringers</a></i></li>
+<li><i><a href="/wiki/Down_the_Line_(radio_series)" title="Down the Line (radio series)">Down the Line</a></i></li>
+<li><i><a href="/wiki/Ed_Reardon%27s_Week" title="Ed Reardon's Week">Ed Reardon's Week</a></i></li>
+<li><i><a href="/wiki/Fags,_Mags_and_Bags" title="Fags, Mags and Bags">Fags, Mags and Bags</a></i></li>
+<li><i><a href="/wiki/Giles_Wemmbley-Hogg_Goes_Off" title="Giles Wemmbley-Hogg Goes Off">Giles Wemmbley-Hogg Goes Off</a></i></li>
+<li><i><a href="/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(radio_series)" title="The Hitchhiker's Guide to the Galaxy (radio series)">The Hitchhiker's Guide to the Galaxy</a></i></li>
+<li><i><a href="/wiki/I%27m_Sorry_I_Haven%27t_a_Clue" title="I'm Sorry I Haven't a Clue">I'm Sorry I Haven't a Clue</a></i></li>
+<li><i><a href="/wiki/I%27ve_Never_Seen_Star_Wars_(radio_series)" title="I've Never Seen Star Wars (radio series)">I've Never Seen Star Wars</a></i></li>
+<li><i><a href="/wiki/Jeremy_Hardy_Speaks_to_the_Nation" title="Jeremy Hardy Speaks to the Nation">Jeremy Hardy Speaks to the Nation</a></i></li>
+<li><i><a href="/wiki/Just_a_Minute" title="Just a Minute">Just a Minute</a></i></li>
+<li><i><a href="/wiki/Ladies_of_Letters" title="Ladies of Letters">Ladies of Letters</a></i></li>
+<li><i><a href="/wiki/The_Museum_of_Curiosity" title="The Museum of Curiosity">The Museum of Curiosity</a></i></li>
+<li><i><a href="/wiki/The_News_Quiz" title="The News Quiz">The News Quiz</a></i></li>
+<li><i><a href="/wiki/The_Now_Show" title="The Now Show">The Now Show</a></i></li>
+<li><i><a href="/wiki/Old_Harry%27s_Game" title="Old Harry's Game">Old Harry's Game</a></i></li>
+<li><i><a href="/wiki/One_(radio_series)" title="One (radio series)">One</a></i></li>
+<li><i><a href="/wiki/Quote..._Unquote" title="Quote... Unquote">Quote... Unquote</a></i></li>
+<li><i><a href="/wiki/That_Mitchell_and_Webb_Sound" title="That Mitchell and Webb Sound">That Mitchell and Webb Sound</a></i></li>
+<li><i><a href="/wiki/The_Unbelievable_Truth_(radio_show)" title="The Unbelievable Truth (radio show)">The Unbelievable Truth</a></i></li>
+<li><i><a href="/wiki/Hamish_and_Dougal" title="Hamish and Dougal">You'll Have Had Your Tea: The Doings of Hamish and Dougal</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Entertainment</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/15_Minute_Drama" title="15 Minute Drama">15 Minute Drama</a></i></li>
+<li><i><a href="/wiki/A_Good_Read" title="A Good Read">A Good Read</a></i></li>
+<li><i><a href="/wiki/Afternoon_Drama" title="Afternoon Drama">Afternoon Drama</a></i></li>
+<li><i><a href="/wiki/The_Archers" title="The Archers">The Archers</a></i></li>
+<li><i><a href="/wiki/Book_at_Bedtime" title="Book at Bedtime">Book at Bedtime</a></i></li>
+<li><i><a href="/wiki/Book_of_the_Week" title="Book of the Week">Book of the Week</a></i></li>
+<li><i><a href="/wiki/Bookclub_(radio)" title="Bookclub (radio)">Bookclub</a></i></li>
+<li><i><a href="/wiki/Brain_of_Britain" title="Brain of Britain">Brain of Britain</a></i></li>
+<li><i><a href="/wiki/Classic_Serial" title="Classic Serial">Classic Serial</a></i></li>
+<li><i><a href="/wiki/Counterpoint_(radio)" title="Counterpoint (radio)">Counterpoint</a></i></li>
+<li><i><a href="/wiki/Desert_Island_Discs" title="Desert Island Discs">Desert Island Discs</a></i></li>
+<li><i><a href="/wiki/Loose_Ends_(radio)" title="Loose Ends (radio)">Loose Ends</a></i></li>
+<li><i><a href="/wiki/Poetry_Please" title="Poetry Please">Poetry Please</a></i></li>
+<li><i><a href="/wiki/Round_Britain_Quiz" title="Round Britain Quiz">Round Britain Quiz</a></i></li>
+<li><i><a href="/wiki/The_Saturday_Play" title="The Saturday Play">The Saturday Play</a></i></li>
+<li><i><a href="/wiki/The_Write_Stuff" title="The Write Stuff">The Write Stuff</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">News and factual</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Analysis_(radio_programme)" title="Analysis (radio programme)">Analysis</a></i></li>
+<li><i><a href="/wiki/Any_Answers%3F" title="Any Answers?">Any Answers?</a></i></li>
+<li><i><a href="/wiki/Any_Questions%3F" title="Any Questions?">Any Questions?</a></i></li>
+<li><i><a href="/wiki/The_Bottom_Line_(radio_programme)" title="The Bottom Line (radio programme)">Bottom Line</a></i></li>
+<li><i><a href="/wiki/Broadcasting_House_(radio_programme)" title="Broadcasting House (radio programme)">Broadcasting House</a></i></li>
+<li><i><a href="/wiki/Case_Notes_(radio_show)" title="Case Notes (radio show)">Case Notes</a></i></li>
+<li><i><a href="/wiki/Crossing_Continents" title="Crossing Continents">Crossing Continents</a></i></li>
+<li><i><a href="/wiki/Desert_Island_Discs" title="Desert Island Discs">Desert Island Discs</a></i></li>
+<li><i><a href="/wiki/Face_the_Facts" title="Face the Facts">Face the Facts</a></i></li>
+<li><i><a href="/wiki/Farming_Today" title="Farming Today">Farming Today</a></i></li>
+<li><i><a href="/wiki/Feedback_(radio_series)" title="Feedback (radio series)">Feedback</a></i></li>
+<li><i><a href="/wiki/File_on_4" title="File on 4">File on 4</a></i></li>
+<li><i><a href="/wiki/The_Film_Programme" title="The Film Programme">The Film Programme</a></i></li>
+<li><i><a href="/wiki/The_Food_Programme" title="The Food Programme">The Food Programme</a></i></li>
+<li><i><a href="/wiki/From_Our_Own_Correspondent" title="From Our Own Correspondent">From Our Own Correspondent</a></i></li>
+<li><i><a href="/wiki/Front_Row_(radio)" title="Front Row (radio)">Front Row</a></i></li>
+<li><i><a href="/wiki/Fry%27s_English_Delight" title="Fry's English Delight">Fry's English Delight</a></i></li>
+<li><i><a href="/wiki/Gardeners%27_Question_Time" title="Gardeners' Question Time">Gardeners' Question Time</a></i></li>
+<li><i><a href="/wiki/Great_Lives" title="Great Lives">Great Lives</a></i></li>
+<li><i><a href="/wiki/The_House_I_Grew_Up_In" title="The House I Grew Up In">The House I Grew Up In</a></i></li>
+<li><i><a href="/wiki/In_Business" title="In Business">In Business</a></i></li>
+<li><i><a href="/wiki/In_Our_Time_(radio_series)" title="In Our Time (radio series)">In Our Time</a></i></li>
+<li><i><a href="/wiki/Inside_Health" title="Inside Health">Inside Health</a></i></li>
+<li><i><a href="/wiki/The_Kitchen_Cabinet_(radio_show)" title="The Kitchen Cabinet (radio show)">The Kitchen Cabinet</a></i></li>
+<li><i><a href="/wiki/Last_Word" title="Last Word">Last Word</a></i></li>
+<li><i><a href="/wiki/Midweek_(BBC_Radio_4)" title="Midweek (BBC Radio 4)">Midweek</a></i></li>
+<li><i><a href="/wiki/Money_Box_(radio)" title="Money Box (radio)">Money Box</a></i></li>
+<li><i><a href="/wiki/The_Moral_Maze" title="The Moral Maze">The Moral Maze</a></i></li>
+<li><i><a href="/wiki/More_or_Less_(radio_programme)" title="More or Less (radio programme)">More or Less</a></i></li>
+<li><i><a href="/wiki/PM_(BBC_Radio_4)" title="PM (BBC Radio 4)">PM</a></i></li>
+<li><i><a href="/wiki/Punt_PI" title="Punt PI">Punt PI</a></i></li>
+<li><i><a href="/wiki/Reith_Lectures" title="Reith Lectures">Reith Lectures</a></i></li>
+<li><i><a href="/wiki/Saturday_Live_(radio_series)" title="Saturday Live (radio series)">Saturday Live</a></i></li>
+<li><i><a href="/wiki/Saturday_Review_(radio)" title="Saturday Review (radio)">Saturday Review</a></i></li>
+<li><i><a class="mw-selflink selflink">Shipping Forecast</a></i></li>
+<li><i><a href="/wiki/Start_the_Week" title="Start the Week">Start the Week</a></i></li>
+<li><i><a href="/wiki/Thinking_Allowed" title="Thinking Allowed">Thinking Allowed</a></i></li>
+<li><i><a href="/wiki/Today_(BBC_Radio_4)" title="Today (BBC Radio 4)">Today</a></i></li>
+<li><i><a href="/wiki/The_Westminster_Hour" title="The Westminster Hour">The Westminster Hour</a></i></li>
+<li><i><a href="/wiki/Woman%27s_Hour" title="Woman's Hour">Woman's Hour</a></i></li>
+<li><i><a href="/wiki/Word_of_Mouth_(radio_programme)" title="Word of Mouth (radio programme)">Word Of Mouth</a></i></li>
+<li><i><a href="/wiki/The_World_at_One" title="The World at One">The World at One</a></i></li>
+<li><i><a href="/wiki/The_World_Tonight" title="The World Tonight">The World Tonight</a></i></li>
+<li><i><a href="/wiki/You_and_Yours" title="You and Yours">You and Yours</a></i></li>
+<li><i><a href="/wiki/Letter_from_America" title="Letter from America">Letter from America</a></i></li>
+<li><i><a href="/wiki/Americana_(radio_series)" title="Americana (radio series)">Americana</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Religious</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Bells_on_Sunday" title="Bells on Sunday">Bells on Sunday</a></i></li>
+<li><i><a href="/wiki/Beyond_Belief_(radio_series)" title="Beyond Belief (radio series)">Beyond Belief</a></i></li>
+<li><i><a href="/wiki/The_Daily_Service" title="The Daily Service">The Daily Service</a></i></li>
+<li><i><a href="/wiki/Prayer_for_the_Day" title="Prayer for the Day">Prayer for the Day</a></i></li>
+<li><i><a href="/wiki/Something_Understood" title="Something Understood">Something Understood</a></i></li>
+<li><i><a href="/wiki/Sunday_(radio_programme)" title="Sunday (radio programme)">Sunday</a></i></li>
+<li><i><a href="/wiki/Thought_for_the_Day" title="Thought for the Day">Thought for the Day</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Radio_4_Appeal" title="Radio 4 Appeal">Radio 4 Appeal</a></i></li>
+<li><i><a href="/wiki/Test_Match_Special" title="Test Match Special">Test Match Special</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Radio_4_UK_Theme" title="Radio 4 UK Theme">Radio 4 UK Theme</a></li>
+<li><a href="/wiki/Sailing_By" title="Sailing By">Sailing By</a></li>
+<li><a href="/wiki/Greenwich_Time_Signal" title="Greenwich Time Signal">Greenwich Time Signal</a></li>
+<li><a href="/wiki/BBC_Home_Service" title="BBC Home Service">BBC Home Service</a></li>
+<li><a href="/wiki/Radio_4_News_FM" title="Radio 4 News FM">Radio 4 News FM</a></li>
+<li><a href="/wiki/BBC_Radio_4_Extra" title="BBC Radio 4 Extra">BBC Radio 4 Extra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:BBC_Radio_4" title="Category:BBC Radio 4"><span style="color:#eee">Category</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1194
+Cached time: 20171024175300
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.576 seconds
+Real time usage: 0.696 seconds
+Preprocessor visited node count: 3077/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88333/2097152 bytes
+Template argument size: 3692/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
+Lua time usage: 0.232/10.000 seconds
+Lua memory usage: 7.91 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  526.470      1 -total
+ 41.41%  218.020      1 Template:Reflist
+ 19.85%  104.489     13 Template:Cite_web
+  8.77%   46.161      4 Template:ISBN
+  8.41%   44.291      7 Template:Cite_news
+  7.38%   38.856      1 Template:Citation_needed
+  7.37%   38.794      1 Template:Refimprove
+  7.04%   37.081      3 Template:Convert
+  6.84%   36.023      1 Template:Ambox
+  6.77%   35.649      1 Template:Fix
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:159894-0!canonical and timestamp 20171024175300 and revision id 806873878
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shipping_Forecast&amp;oldid=806873878">https://en.wikipedia.org/w/index.php?title=Shipping_Forecast&amp;oldid=806873878</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:BBC_Radio_4_programmes" title="Category:BBC Radio 4 programmes">BBC Radio 4 programmes</a></li><li><a href="/wiki/Category:Weather_warnings_and_advisories" title="Category:Weather warnings and advisories">Weather warnings and advisories</a></li><li><a href="/wiki/Category:Shipping_in_the_United_Kingdom" title="Category:Shipping in the United Kingdom">Shipping in the United Kingdom</a></li><li><a href="/wiki/Category:Met_Office" title="Category:Met Office">Met Office</a></li><li><a href="/wiki/Category:Shipping_Forecast_areas" title="Category:Shipping Forecast areas">Shipping Forecast areas</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_April_2017" title="Category:Use dmy dates from April 2017">Use dmy dates from April 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_April_2017" title="Category:Use British English from April 2017">Use British English from April 2017</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2010" title="Category:Articles needing additional references from May 2010">Articles needing additional references from May 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2013" title="Category:Articles with unsourced statements from August 2013">Articles with unsourced statements from August 2013</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Shipping+Forecast" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Shipping+Forecast" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Shipping_Forecast" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Shipping_Forecast" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Shipping_Forecast">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Shipping_Forecast&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Shipping_Forecast&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Shipping_Forecast" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Shipping_Forecast" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Shipping_Forecast&amp;oldid=806873878" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Shipping_Forecast&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2004285" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shipping_Forecast&amp;id=806873878" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shipping+Forecast">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Shipping+Forecast&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Shipping_Forecast&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Shipping_Forecast" hreflang="es" lang="es" title="Shipping Forecast – Spanish">Español</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/The_Shipping_Forecast" hreflang="nl" lang="nl" title="The Shipping Forecast – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Shipping_Forecast" hreflang="simple" lang="simple" title="Shipping Forecast – Simple English">Simple English</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2004285#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 October 2017, at 17:53.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Shipping_Forecast&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.576","walltime":"0.696","ppvisitednodes":{"value":3077,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88333,"limit":2097152},"templateargumentsize":{"value":3692,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  526.470      1 -total"," 41.41%  218.020      1 Template:Reflist"," 19.85%  104.489     13 Template:Cite_web","  8.77%   46.161      4 Template:ISBN","  8.41%   44.291      7 Template:Cite_news","  7.38%   38.856      1 Template:Citation_needed","  7.37%   38.794      1 Template:Refimprove","  7.04%   37.081      3 Template:Convert","  6.84%   36.023      1 Template:Ambox","  6.77%   35.649      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.232","limit":"10.000"},"limitreport-memusage":{"value":8291796,"limit":52428800}},"cachereport":{"origin":"mw1194","timestamp":"20171024175300","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1275"});});</script>
+</body>
+</html>

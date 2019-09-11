@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Diurnal temperature variation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Diurnal_temperature_variation","wgTitle":"Diurnal temperature variation","wgCurRevisionId":806576184,"wgRevisionId":806576184,"wgArticleId":12040404,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Basic meteorological concepts and phenomena","Viticulture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Diurnal_temperature_variation","wgRelevantArticleId":12040404,"wgRequestId":"WgElDwpAEKsAAA2NNUMAAABC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5283759","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/July_diurnalvariation_US.svg/1200px-July_diurnalvariation_US.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Diurnal_temperature_variation" rel="alternate"/>
+<link href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Diurnal_temperature_variation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Diurnal_temperature_variation rootpage-Diurnal_temperature_variation vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Diurnal temperature variation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:July_diurnalvariation_US.svg"><img alt="" class="thumbimage" data-file-height="549" data-file-width="765" height="287" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/July_diurnalvariation_US.svg/400px-July_diurnalvariation_US.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/July_diurnalvariation_US.svg/600px-July_diurnalvariation_US.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/July_diurnalvariation_US.svg/800px-July_diurnalvariation_US.svg.png 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:July_diurnalvariation_US.svg" title="Enlarge"></a></div>
+Map of diurnal temperature variation for the month of July in the contiguous United States</div>
+</div>
+</div>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <b>diurnal temperature variation</b> is the variation between a high temperature and a low temperature that occurs during the same <a href="/wiki/Day" title="Day">day</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Temperature_lag"><span class="tocnumber">1</span> <span class="toctext">Temperature lag</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Differences_in_variation"><span class="tocnumber">2</span> <span class="toctext">Differences in variation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Viticulture"><span class="tocnumber">3</span> <span class="toctext">Viticulture</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Temperature_lag">Temperature lag</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit&amp;section=1" title="Edit section: Temperature lag">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Temperature lag is an important factor in diurnal temperature variation: peak daily temperature generally occurs <i>after</i> noon, as air keeps net absorbing heat even after noon, and similarly minimum daily temperature generally occurs substantially after midnight, indeed occurring during early morning in the hour around dawn, since heat is lost all night long. The analogous annual phenomenon is <a href="/wiki/Seasonal_lag" title="Seasonal lag">seasonal lag</a>.</p>
+<p>As solar energy strikes the earth’s surface each morning, a shallow 1–3-centimetre (0.39–1.18 in) layer of air directly above the ground is heated by conduction. Heat exchange between this shallow layer of warm air and the cooler air above is very inefficient. On a warm summer’s day, for example, air temperatures may vary by 16.5 °C (30 °F) from just above the ground to waist height. Incoming solar radiation exceeds outgoing heat energy for many hours after noon and equilibrium is usually reached from 3–5 p.m. but this may be affected by a variety of different things such as large bodies of water, soil type and cover, wind, cloud cover/water vapor, and moisture on the ground.<sup class="reference" id="cite_ref-Hackworth.2C_Martin_1-0"><a href="#cite_note-Hackworth.2C_Martin-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Differences_in_variation">Differences in variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit&amp;section=2" title="Edit section: Differences in variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diurnal temperature variations are greatest very near the earth’s surface.</p>
+<p>High desert areas typically have the greatest diurnal temperature variations. Low lying, humid areas typically have the least. This explains why an area like the <a href="/wiki/Snake_River_Plain" title="Snake River Plain">Snake River Plain</a> can have high temperatures of 38 °C (100 °F) during a summer day, and then have lows of 5–10 °C (41–50 °F). At the same time, <a class="mw-redirect" href="/wiki/Washington_D.C." title="Washington D.C.">Washington D.C.</a>, which is much more humid, has temperature variations of only 8 °C (14 °F);<sup class="reference" id="cite_ref-Hackworth.2C_Martin_1-1"><a href="#cite_note-Hackworth.2C_Martin-1">[1]</a></sup> urban <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> has a diurnal temperature range of little more than 4 °C (7.2 °F).</p>
+<p>While the <a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> claimed that the world record is a variation of 102 °F (56.7 °C) (from 46 °F or 7.8 °C to −56 °F or −48.9 °C) in <a href="/wiki/Browning,_Montana" title="Browning, Montana">Browning, Montana</a> in 1916,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> the Montana Department of Environmental Quality claimed that <a href="/wiki/Loma,_Montana" title="Loma, Montana">Loma, Montana</a> also had a variation of 102 °F (56.7 °C) (from −54 °F or −47.8 °C to 48 °F or 8.9 °C) in 1972.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Viticulture">Viticulture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit&amp;section=3" title="Edit section: Viticulture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diurnal temperature variation is of particular importance in <a href="/wiki/Viticulture" title="Viticulture">viticulture</a>. <a class="mw-redirect" href="/wiki/Wine_regions" title="Wine regions">Wine regions</a> situated in areas of high <a href="/wiki/Altitude" title="Altitude">altitude</a> experience the most dramatic swing in temperature variation during the course of a day. In <a href="/wiki/Grape" title="Grape">grapes</a>, this variation has the effect of producing high <a href="/wiki/Acid" title="Acid">acid</a> and high <a href="/wiki/Sugar" title="Sugar">sugar</a> content as the grapes' exposure to <a href="/wiki/Sunlight" title="Sunlight">sunlight</a> increases the ripening qualities while the sudden drop in temperature at night preserves the balance of natural acids in the grape.<sup class="reference" id="cite_ref-Robinson_pg_691_4-0"><a href="#cite_note-Robinson_pg_691-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Diurnal_cycle" title="Diurnal cycle">Diurnal cycle</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Hackworth.2C_Martin-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hackworth.2C_Martin_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hackworth.2C_Martin_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.physics.isu.edu/weather/kmdbbd/notesc3.pdf" rel="nofollow">M. Hackworth "Weather &amp; Climate" course notes, with prior permission</a> <a class="external text" href="https://web.archive.org/web/20081012120014/http://www.physics.isu.edu/weather/kmdbbd/notesc3.pdf" rel="nofollow">Archived</a> October 12, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nps.gov/glac/naturescience/weather.htm" rel="nofollow">Weather - Glacier National Park</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://deq.mt.gov/ClimateChange/Data/FAQData.mcpx" rel="nofollow">Montana Department of Environmental Quality (DEQ) - FAQ</a> <a class="external text" href="https://web.archive.org/web/20130728191103/http://deq.mt.gov/ClimateChange/Data/FAQData.mcpx" rel="nofollow">Archived</a> July 28, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-Robinson_pg_691-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Robinson_pg_691_4-0">^</a></b></span> <span class="reference-text">J. Robinson <i>"The Oxford Companion to Wine"</i> Third Edition pg 691 Oxford University Press 2006 <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-860990-6" title="Special:BookSources/0-19-860990-6">0-19-860990-6</a></span></li>
+</ol>
+</div>
+</div>
+<div aria-labelledby="Viticulture" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Viticulture" title="Template:Viticulture"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Viticulture" title="Template talk:Viticulture"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Viticulture&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Viticulture" style="font-size:114%;margin:0 4em"><a href="/wiki/Viticulture" title="Viticulture">Viticulture</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Biology and<br/>
+horticulture</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ampelography" title="Ampelography">Ampelography</a></li>
+<li><a href="/wiki/Annual_growth_cycle_of_grapevines" title="Annual growth cycle of grapevines">Annual growth cycle of grapevines</a></li>
+<li><a href="/wiki/List_of_grape_varieties" title="List of grape varieties">Grape varieties</a></li>
+<li><a href="/wiki/Grape" title="Grape">Grapes</a></li>
+<li><a class="mw-redirect" href="/wiki/Hybrid_grapes" title="Hybrid grapes">Hybrid grapes</a></li>
+<li><a href="/wiki/International_Grape_Genome_Program" title="International Grape Genome Program">International Grape Genome Program</a></li>
+<li><a href="/wiki/Ripeness_in_viticulture" title="Ripeness in viticulture">Ripening</a> (<i><a href="/wiki/Veraison" title="Veraison">Veraison</a></i>)</li>
+<li><a href="/wiki/Rootstock" title="Rootstock">Rootstock</a></li>
+<li><a href="/wiki/Vineyard" title="Vineyard">Vineyard</a></li>
+<li><i><a href="/wiki/Vitis" title="Vitis">Vitis</a></i></li>
+<li><i><a href="/wiki/Vitis_vinifera" title="Vitis vinifera">Vitis vinifera</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Environmental<br/>
+variation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Climate_categories_in_viticulture" title="Climate categories in viticulture">Climate categories</a></li>
+<li><a class="mw-selflink selflink">Diurnal temperature variation</a></li>
+<li><a href="/wiki/Drainage" title="Drainage">Drainage</a></li>
+<li><a href="/wiki/Microclimate" title="Microclimate">Microclimate</a></li>
+<li><a href="/wiki/Regional_climate_levels_in_viticulture" title="Regional climate levels in viticulture">Regional climate levels</a></li>
+<li><a href="/wiki/List_of_vineyard_soil_types" title="List of vineyard soil types">Soil types</a></li>
+<li><a href="/wiki/Terroir" title="Terroir">Terroir</a></li>
+<li><a href="/wiki/Topography" title="Topography">Topography</a>
+<ul>
+<li><a href="/wiki/Aspect_(geography)" title="Aspect (geography)">aspect</a></li>
+<li><a href="/wiki/Elevation" title="Elevation">elevation</a></li>
+<li><a href="/wiki/Grade_(slope)" title="Grade (slope)">slope</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Vineyard<br/>
+planting</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Viticulture" title="Viticulture">Grapevine planting</a></li>
+<li><a href="/wiki/Propagation_of_grapevines" title="Propagation of grapevines">Propagation</a></li>
+<li><a href="/wiki/Precision_viticulture" title="Precision viticulture">Row orientation</a></li>
+<li><a href="/wiki/Trellis_(architecture)" title="Trellis (architecture)">Trellis design</a></li>
+<li><a href="/wiki/Vine_training" title="Vine training">Vine training</a></li>
+<li><a href="/wiki/Yield_(wine)" title="Yield (wine)">Yield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Vineyard<br/>
+management</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Canopy_(grape)" title="Canopy (grape)">Canopy</a></li>
+<li><a href="/wiki/Clos_(vineyard)" title="Clos (vineyard)">Clos</a></li>
+<li><a href="/wiki/Coulure" title="Coulure">Coulure</a></li>
+<li><a href="/wiki/Erosion_control" title="Erosion control">Erosion control</a></li>
+<li><a href="/wiki/Fertilizer" title="Fertilizer">Fertilizer</a></li>
+<li><a href="/wiki/Frost" title="Frost">Frost damage prevention</a></li>
+<li><a href="/wiki/Viticulture#Green_harvest" title="Viticulture">Green harvest (<i>Vendange verte</i>)</a></li>
+<li><a href="/wiki/Integrated_pest_management" title="Integrated pest management">Integrated pest management</a></li>
+<li><a href="/wiki/Irrigation_in_viticulture" title="Irrigation in viticulture">Irrigation</a></li>
+<li><a href="/wiki/Klopotec" title="Klopotec">Klopotec</a></li>
+<li><a href="/wiki/Millerandage" title="Millerandage">Millerandage</a></li>
+<li><a href="/wiki/Pruning" title="Pruning">Pruning</a></li>
+<li><a href="/wiki/Weed_control" title="Weed control">Weed control</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Harvest_(wine)" title="Harvest (wine)">Harvest</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brix" title="Brix">Brix</a></li>
+<li><a href="/wiki/Harvest_festival" title="Harvest festival">Festivals</a></li>
+<li><a href="/wiki/Noble_rot" title="Noble rot">Noble rot</a></li>
+<li><a href="/wiki/Ripeness_in_viticulture" title="Ripeness in viticulture">Ripeness</a></li>
+<li><a href="/wiki/Vintage" title="Vintage">Vintage</a></li>
+<li><a href="/wiki/Weather" title="Weather">Weather</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Pests and<br/>
+<a href="/wiki/List_of_grape_diseases" title="List of grape diseases">diseases</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bird" title="Bird">Birds</a></li>
+<li><a class="mw-redirect" href="/wiki/Black_rot_(grape)" title="Black rot (grape)">Black rot</a></li>
+<li><a href="/wiki/Botrytis_cinerea" title="Botrytis cinerea">Botrytis bunch rot</a></li>
+<li><a class="mw-redirect" href="/wiki/Dead_arm_(grapes)" title="Dead arm (grapes)">Dead arm</a></li>
+<li><a href="/wiki/Downy_mildew" title="Downy mildew">Downy mildew</a></li>
+<li><a href="/wiki/Grapevine_yellows" title="Grapevine yellows">Grapevine yellows</a></li>
+<li><a href="/wiki/Great_French_Wine_Blight" title="Great French Wine Blight">Great French Wine Blight</a></li>
+<li><a href="/wiki/List_of_Lepidoptera_that_feed_on_grapevines" title="List of Lepidoptera that feed on grapevines">Lepidoptera</a></li>
+<li><a href="/wiki/List_of_agricultural_pest_nematode_species" title="List of agricultural pest nematode species">Nematodes</a></li>
+<li><a href="/wiki/Phylloxera" title="Phylloxera">Phylloxera</a></li>
+<li><a href="/wiki/Xylella_fastidiosa" title="Xylella fastidiosa">Pierce's disease</a></li>
+<li><a href="/wiki/Powdery_mildew" title="Powdery mildew">Powdery mildew</a>
+<ul>
+<li><i><a href="/wiki/Uncinula_necator" title="Uncinula necator">Uncinula necator</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Tetranychus_urticae" title="Tetranychus urticae">Red spider mite</a></li>
+<li><a href="/wiki/Eupoecilia_ambiguella" title="Eupoecilia ambiguella">Vine moth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Approaches<br/>
+and issues</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adaptive_management" title="Adaptive management">Adaptive management</a></li>
+<li><a href="/wiki/Biodynamic_wine" title="Biodynamic wine">Biodynamic wine</a></li>
+<li><a href="/wiki/Climate_change" title="Climate change">Climate change</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_wine_production" title="Effects of climate change on wine production">Effects of climate change on wine production</a></li>
+<li><a href="/wiki/Environmental_stewardship" title="Environmental stewardship">Environmental stewardship</a></li>
+<li><a href="/wiki/Organic_farming" title="Organic farming">Organic farming</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glossary_of_viticulture_terms" title="Glossary of viticulture terms">Glossary of viticulture terms</a></li>
+<li><a href="/wiki/Glossary_of_wine_terms" title="Glossary of wine terms">Glossary of wine terms</a></li>
+<li><a href="/wiki/Glossary_of_winemaking_terms" title="Glossary of winemaking terms">Glossary of winemaking terms</a></li>
+<li><a href="/wiki/Oenology" title="Oenology">Oenology</a></li>
+<li><a href="/wiki/Wine" title="Wine">Wine</a></li>
+<li><a href="/wiki/Winemaking" title="Winemaking">Winemaking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20171022222325
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.149 seconds
+Preprocessor visited node count: 601/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19355/2097152 bytes
+Template argument size: 495/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 2.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  115.982      1 -total
+ 42.88%   49.728     12 Template:Convert
+ 39.21%   45.476      1 Template:Reflist
+ 21.87%   25.361      1 Template:ISBN
+ 14.06%   16.302      1 Template:Viticulture
+ 11.73%   13.599      1 Template:Navbox
+  7.66%    8.887      1 Template:Catalog_lookup_link
+  6.58%    7.636      1 Template:Error-small
+  5.89%    6.836      2 Template:Webarchive
+  2.57%    2.977      3 Template:Yesno-no
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12040404-0!canonical and timestamp 20171022222325 and revision id 806576184
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Diurnal_temperature_variation&amp;oldid=806576184">https://en.wikipedia.org/w/index.php?title=Diurnal_temperature_variation&amp;oldid=806576184</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Basic_meteorological_concepts_and_phenomena" title="Category:Basic meteorological concepts and phenomena">Basic meteorological concepts and phenomena</a></li><li><a href="/wiki/Category:Viticulture" title="Category:Viticulture">Viticulture</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Diurnal+temperature+variation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Diurnal+temperature+variation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Diurnal_temperature_variation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Diurnal_temperature_variation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Diurnal_temperature_variation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Diurnal_temperature_variation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Diurnal_temperature_variation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Diurnal_temperature_variation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Diurnal_temperature_variation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Diurnal_temperature_variation&amp;oldid=806576184" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Diurnal_temperature_variation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5283759" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Diurnal_temperature_variation&amp;id=806576184" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Diurnal+temperature+variation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Diurnal+temperature+variation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Diurnal_temperature_variation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D9%88%D8%B9_%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D9%85%D8%B9_%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81_%D8%A7%D9%84%D9%88%D9%82%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D9%88%D9%85" hreflang="ar" lang="ar" title="تنوع درجات الحرارة مع اختلاف الوقت في اليوم – Arabic">العربية</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Variaci%C3%B3n_de_temperatura_diurna" hreflang="es" lang="es" title="Variación de temperatura diurna – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Amplitude_thermique#Types" hreflang="fr" lang="fr" title="Amplitude thermique – French">Français</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/G%C3%BCnl%C3%BCk_s%C4%B1cakl%C4%B1k_fark%C4%B1" hreflang="tr" lang="tr" title="Günlük sıcaklık farkı – Turkish">Türkçe</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5283759#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 October 2017, at 22:23.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Diurnal_temperature_variation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.149","ppvisitednodes":{"value":601,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19355,"limit":2097152},"templateargumentsize":{"value":495,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  115.982      1 -total"," 42.88%   49.728     12 Template:Convert"," 39.21%   45.476      1 Template:Reflist"," 21.87%   25.361      1 Template:ISBN"," 14.06%   16.302      1 Template:Viticulture"," 11.73%   13.599      1 Template:Navbox","  7.66%    8.887      1 Template:Catalog_lookup_link","  6.58%    7.636      1 Template:Error-small","  5.89%    6.836      2 Template:Webarchive","  2.57%    2.977      3 Template:Yesno-no"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":2756590,"limit":52428800}},"cachereport":{"origin":"mw1277","timestamp":"20171022222325","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1216"});});</script>
+</body>
+</html>

@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Inflow (meteorology) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Inflow_(meteorology)","wgTitle":"Inflow (meteorology)","wgCurRevisionId":763643227,"wgRevisionId":763643227,"wgArticleId":25171429,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2016","Good articles","Basic meteorological concepts and phenomena","Severe weather and convection","Synoptic meteorology and weather"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Inflow_(meteorology)","wgRelevantArticleId":25171429,"wgRequestId":"WgJDDApAAEUAABl7MhkAAABE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q11070850","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tor_supercell_above.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Inflow_(meteorology)" rel="alternate"/>
+<link href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Inflow_(meteorology)" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Inflow_meteorology rootpage-Inflow_meteorology vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Inflow (meteorology)</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Inflow_(disambiguation)" title="Inflow (disambiguation)">Inflow</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Tor_supercell_above.jpg"><img alt="" class="thumbimage" data-file-height="288" data-file-width="380" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tor_supercell_above.jpg/220px-Tor_supercell_above.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tor_supercell_above.jpg/330px-Tor_supercell_above.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f2/Tor_supercell_above.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tor_supercell_above.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Supercell" title="Supercell">Supercellular</a> <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorm</a> image showing <a href="/wiki/Cumulus_cloud" title="Cumulus cloud">cumulus</a> inflow bands</div>
+</div>
+</div>
+<p><b>Inflow</b> is the flow of a fluid into a large collection of that fluid.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Within <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, inflow normally refers to the influx of warmth and moisture from air within the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">Earth's atmosphere</a> into <a href="/wiki/Storm" title="Storm">storm</a> systems. Extratropical cyclones are fed by inflow focused along their <a href="/wiki/Cold_front" title="Cold front">cold front</a> and <a href="/wiki/Warm_front" title="Warm front">warm fronts</a>. Tropical cyclones require a large inflow of warmth and moisture from warm oceans in order to develop significantly, mainly within the lowest 1 kilometre (0.62 mi) of the atmosphere. Once the flow of warm and moist air is cut off from thunderstorms and their associated <a href="/wiki/Tornado" title="Tornado">tornadoes</a>, normally by the thunderstorm's own rain-cooled <a href="/wiki/Outflow_boundary" title="Outflow boundary">outflow boundary</a>, the storms begin to dissipate. <a href="/wiki/Rear-inflow_jet" title="Rear-inflow jet">Rear inflow jets</a> behind <a href="/wiki/Squall_line" title="Squall line">squall lines</a> act to erode the broad <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">rain</a> shield behind the squall line, and accelerate its forward motion.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Thunderstorms"><span class="tocnumber">1</span> <span class="toctext">Thunderstorms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tropical_cyclones"><span class="tocnumber">2</span> <span class="toctext">Tropical cyclones</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Extratropical_cyclones"><span class="tocnumber">3</span> <span class="toctext">Extratropical cyclones</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Thunderstorms">Thunderstorms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit&amp;section=1" title="Edit section: Thunderstorms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Anvil_shaped_cumulus_panorama_edit_crop.jpg"><img alt="" class="thumbimage" data-file-height="965" data-file-width="2348" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Anvil_shaped_cumulus_panorama_edit_crop.jpg/220px-Anvil_shaped_cumulus_panorama_edit_crop.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Anvil_shaped_cumulus_panorama_edit_crop.jpg/330px-Anvil_shaped_cumulus_panorama_edit_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Anvil_shaped_cumulus_panorama_edit_crop.jpg/440px-Anvil_shaped_cumulus_panorama_edit_crop.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Anvil_shaped_cumulus_panorama_edit_crop.jpg" title="Enlarge"></a></div>
+Thunderstorm in its mature stage over <a class="mw-redirect" href="/wiki/Swifts_Creek,_Victoria" title="Swifts Creek, Victoria">Swifts Creek, Victoria</a></div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Squall_line" title="Squall line">Squall line</a>, <a href="/wiki/Thunderstorm" title="Thunderstorm">Thunderstorm</a>, and <a href="/wiki/Tornado" title="Tornado">Tornado</a></div>
+<p>Cool air, carried to the ground by thunderstorm downdraft, cuts off the inflow of the thunderstorm, destroying its updraft and causing its dissipation.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Tornadoes, which form within stronger thunderstorms, grow until they reach their mature stage. This is when the rear flank downdraft of the thunderstorm, fed by rain-cooled air, begins to wrap around the tornado, cutting off the inflow of warm air which previously fed the tornado.<sup class="reference" id="cite_ref-Advanced_Spotter_Guide_3-0"><a href="#cite_note-Advanced_Spotter_Guide-3">[3]</a></sup> When thunderstorms are able to organize into squall lines, a feature known as a rear inflow jet develops to the south of the mid-level circulation associated with its northern bookend vortex. This leads to an erosion of <a href="/wiki/Rain" title="Rain">rain</a> within the broad rain shield behind the squall line, and may lead to acceleration of the squall line itself.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Tropical_cyclones">Tropical cyclones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit&amp;section=2" title="Edit section: Tropical cyclones">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hurricane_Isabel_from_ISS.jpg"><img alt="" class="thumbimage" data-file-height="2007" data-file-width="3032" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hurricane_Isabel_from_ISS.jpg/220px-Hurricane_Isabel_from_ISS.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hurricane_Isabel_from_ISS.jpg/330px-Hurricane_Isabel_from_ISS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hurricane_Isabel_from_ISS.jpg/440px-Hurricane_Isabel_from_ISS.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hurricane_Isabel_from_ISS.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Hurricane_Isabel" title="Hurricane Isabel">Hurricane Isabel</a> (2003) as seen from the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a>.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclone</a></div>
+<p>While an initial warm core system, such as an organized thunderstorm complex, is necessary for the formation of a tropical cyclone, a large flux of energy is needed to lower <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a> more than a few millibars (0.10 inch of <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a>). Inflow of warmth and moisture from the underlying ocean surface is critical for tropical cyclone strengthening.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> A significant amount of the inflow in the cyclone is in the lowest 1 kilometre (3,300 ft) of the atmosphere.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Extratropical_cyclones">Extratropical cyclones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit&amp;section=3" title="Edit section: Extratropical cyclones">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Uk-cyclone-2.png"><img alt="" class="thumbimage" data-file-height="451" data-file-width="621" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Uk-cyclone-2.png/220px-Uk-cyclone-2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Uk-cyclone-2.png/330px-Uk-cyclone-2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Uk-cyclone-2.png/440px-Uk-cyclone-2.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Uk-cyclone-2.png" title="Enlarge"></a></div>
+A <a href="/wiki/Weather_map" title="Weather map">weather map</a> of an <a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">extratropical cyclone</a> affecting Great Britain and Ireland. The "L" symbol denotes the center of the "low", and the occluded, cold, and warm <a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">frontal boundaries</a> are depicted.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">Extratropical cyclone</a>, <a href="/wiki/Norwegian_cyclone_model" title="Norwegian cyclone model">Norwegian cyclone model</a>, and <a class="mw-redirect" href="/wiki/Weather_fronts" title="Weather fronts">Weather fronts</a></div>
+<p>Polar front theory is attributed to <a href="/wiki/Jacob_Bjerknes" title="Jacob Bjerknes">Jacob Bjerknes</a>, and was derived from a coastal network of observation sites in <a href="/wiki/Norway" title="Norway">Norway</a> during <a href="/wiki/World_War_I" title="World War I">World War I</a>. This theory proposed that the main inflow into a <a href="/wiki/Cyclone" title="Cyclone">cyclone</a> was concentrated along two lines of convergence, one ahead (or east) of the low and another trailing equatorward (south in the Northern Hemisphere and north in the Southern Hemisphere) and behind (or west) of the low. The convergence line ahead of the low became known as either the steering line or the <a href="/wiki/Warm_front" title="Warm front">warm front</a>. The trailing convergence zone was referred to as the <a href="/wiki/Squall_line" title="Squall line">squall line</a> or <a href="/wiki/Cold_front" title="Cold front">cold front</a>. Areas of clouds and rainfall appeared to be focused along these convergence zones.<sup class="reference" id="cite_ref-OU_7-0"><a href="#cite_note-OU-7">[7]</a></sup> A conveyor belt, also referred to as the warm conveyor belt, is a term describing the flow of a stream of warm moist air originating within the warm sector (or generally equatorward) of an extratropical cyclone in advance of the cold front which slopes up above and poleward (north in the Northern Hemisphere and south in the Southern Hemisphere) of the surface warm front. The concept of the conveyor belt originated in 1969.<sup class="reference" id="cite_ref-COLD_8-0"><a href="#cite_note-COLD-8">[8]</a></sup></p>
+<p>The left edge of the conveyor belt is sharp due to higher density air moving in from the west forcing a sharp slope to the cold front. An area of <a class="mw-redirect" href="/wiki/Stratiform" title="Stratiform">stratiform</a> precipitation develops poleward of the warm front along the conveyor belt. Active precipitation poleward of the warm front implies potential for greater development of the cyclone. A portion of this conveyor belt turns to the right (left in the Southern Hemisphere), aligning with the upper level westerly flow. However, the western portion of this belt wraps around the northwest (southwest in the Southern Hemisphere) side of the cyclone, which can contain moderate to heavy precipitation. If the air mass is cold enough, the precipitation falls in the form of heavy snow.<sup class="reference" id="cite_ref-OU_7-1"><a href="#cite_note-OU-7">[7]</a></sup> Theory from the 1980s talked about the presence of a cold conveyor belt originating north of the warm front and flowing along a clockwise path (in the northern hemisphere) into the main belt of the westerlies aloft, but there has been conflicting evidence as to whether or not this phenomenon actually exists.<sup class="reference" id="cite_ref-COLD_8-1"><a href="#cite_note-COLD-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Outflow_(meteorology)" title="Outflow (meteorology)">Outflow (meteorology)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://glossary.ametsoc.org/w/index.php?title=Inflow&amp;oldid=5579" rel="nofollow">"inflow"</a>. <i>Glossary of Meteorology</i>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">5 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.atitle=inflow&amp;rft.date=2000-06&amp;rft.genre=unknown&amp;rft.jtitle=Glossary+of+Meteorology&amp;rft_id=http%3A%2F%2Fglossary.ametsoc.org%2Fw%2Findex.php%3Ftitle%3DInflow%26oldid%3D5579&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/svr/comp/wind/home.rxml" rel="nofollow">"Vertical Wind Shear"</a>. <i>The Weather World 2010 Project</i>. University of Illinois. 3 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2006</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.atitle=Vertical+Wind+Shear&amp;rft.date=2009-09-03&amp;rft.genre=unknown&amp;rft.jtitle=The+Weather+World+2010+Project&amp;rft_id=http%3A%2F%2Fww2010.atmos.uiuc.edu%2F%28Gh%29%2Fguides%2Fmtr%2Fsvr%2Fcomp%2Fwind%2Fhome.rxml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Advanced_Spotter_Guide-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Advanced_Spotter_Guide_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Doswell; Moller; Anderson; et al. (2005). <a class="external text" href="https://web.archive.org/web/20060823090940/http://www.weather.gov/os/brochures/adv_spotters.pdf" rel="nofollow">"Advanced Spotters' Field Guide"</a> <span style="font-size:85%;">(PDF)</span>. US Department of Commerce. Archived from <a class="external text" href="http://www.weather.gov/os/brochures/adv_spotters.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 23 August 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2006</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.au=Anderson&amp;rft.au=Doswell&amp;rft.au=Moller&amp;rft.btitle=Advanced+Spotters%27+Field+Guide&amp;rft.date=2005&amp;rft.genre=unknown&amp;rft.pub=US+Department+of+Commerce&amp;rft_id=http%3A%2F%2Fwww.weather.gov%2Fos%2Fbrochures%2Fadv_spotters.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Smull, Bradley F.; Houze, Robert A. Jr. (22 September 1986). <a class="external text" href="http://www.atmos.washington.edu/MG/PDFs/prep86_smul_rear.pdf" rel="nofollow">"The Rear Inflow Jet of Mesoscale Convective Systems"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 November</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.au=Houze%2C+Robert+A.+Jr.&amp;rft.aufirst=Bradley+F.&amp;rft.aulast=Smull&amp;rft.btitle=The+Rear+Inflow+Jet+of+Mesoscale+Convective+Systems&amp;rft.date=1986-09-22&amp;rft.genre=unknown&amp;rft.pub=University+of+Washington&amp;rft_id=http%3A%2F%2Fwww.atmos.washington.edu%2FMG%2FPDFs%2Fprep86_smul_rear.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barnes, Gary M.; Powell, Mark D. (August 1995). <a class="external text" href="http://www.aoml.noaa.gov/hrd/Powell/Barnes.pdf" rel="nofollow">"Evolution of the Inflow Boundary Layer of Hurricane Gilbert (1988)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Monthly Weather Review</i>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. <b>123</b> (8): 2348. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1995MWRv..123.2348B" rel="nofollow">1995MWRv..123.2348B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0493%281995%29123%3C2348%3AEOTIBL%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0493(1995)123&lt;2348:EOTIBL&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.atitle=Evolution+of+the+Inflow+Boundary+Layer+of+Hurricane+Gilbert+%281988%29&amp;rft.au=Powell%2C+Mark+D.&amp;rft.aufirst=Gary+M.&amp;rft.aulast=Barnes&amp;rft.date=1995-08&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=Monthly+Weather+Review&amp;rft.pages=2348&amp;rft.volume=123&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fhrd%2FPowell%2FBarnes.pdf&amp;rft_id=info%3Abibcode%2F1995MWRv..123.2348B&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0493%281995%29123%3C2348%3AEOTIBL%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Marks, Frank (27 January 2003). <a class="external text" href="http://www.aoml.noaa.gov/hrd/iwtc/Marks1_1.html" rel="nofollow">"Fifth International Workshop on Tropical Cyclones Topic 1 Tropical Cyclone Structure and Structure Change"</a>. <a href="/wiki/Atlantic_Oceanographic_and_Meteorological_Laboratory" title="Atlantic Oceanographic and Meteorological Laboratory">Atlantic Oceanographic and Meteorological Laboratory</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 November</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.aufirst=Frank&amp;rft.aulast=Marks&amp;rft.btitle=Fifth+International+Workshop+on+Tropical+Cyclones+Topic+1+Tropical+Cyclone+Structure+and+Structure+Change&amp;rft.date=2003-01-27&amp;rft.genre=unknown&amp;rft.pub=Atlantic+Oceanographic+and+Meteorological+Laboratory&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fhrd%2Fiwtc%2FMarks1_1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-OU-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-OU_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OU_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20060901163934/http://weather.ou.edu/~metr4424/Files/Norwegian_Cyclone_Model.pdf" rel="nofollow">"The Norwegian Cyclone Model"</a> <span style="font-size:85%;">(PDF)</span>. University of Oklahoma. 25 September 2001. Archived from <a class="external text" href="http://weather.ou.edu/~metr4424/Files/Norwegian_Cyclone_Model.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 1 September 2006.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.btitle=The+Norwegian+Cyclone+Model&amp;rft.date=2001-09-25&amp;rft.genre=unknown&amp;rft.pub=University+of+Oklahoma&amp;rft_id=http%3A%2F%2Fweather.ou.edu%2F~metr4424%2FFiles%2FNorwegian_Cyclone_Model.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-COLD-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-COLD_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-COLD_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Schultz, D. M. (2001). <a class="external text" href="http://www.cimms.ou.edu/~schultz/ccb/ccb.shtml" rel="nofollow">"Reexamining the Cold Conveyor Belt"</a>. <i>Monthly Weather Review</i>. University of Oklahoma. <b>129</b> (9): 2205–2225. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001MWRv..129.2205S" rel="nofollow">2001MWRv..129.2205S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0493%282001%29129%3C2205%3ARTCCB%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0493(2001)129&lt;2205:RTCCB&gt;2.0.CO;2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInflow+%28meteorology%29&amp;rft.atitle=Reexamining+the+Cold+Conveyor+Belt&amp;rft.aufirst=D.+M.&amp;rft.aulast=Schultz&amp;rft.date=2001&amp;rft.genre=article&amp;rft.issue=9&amp;rft.jtitle=Monthly+Weather+Review&amp;rft.pages=2205-2225&amp;rft.volume=129&amp;rft_id=http%3A%2F%2Fwww.cimms.ou.edu%2F~schultz%2Fccb%2Fccb.shtml&amp;rft_id=info%3Abibcode%2F2001MWRv..129.2205S&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0493%282001%29129%3C2205%3ARTCCB%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20171102115457
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.164 seconds
+Real time usage: 0.213 seconds
+Preprocessor visited node count: 657/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17487/2097152 bytes
+Template argument size: 389/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 4.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  190.497      1 -total
+ 41.38%   78.824      1 Template:Reflist
+ 26.80%   51.062      6 Template:Cite_web
+ 17.97%   34.231      2 Template:Convert
+ 14.92%   28.416      1 Template:Use_dmy_dates
+ 11.78%   22.436      1 Template:Good_article
+ 11.11%   21.172      1 Template:Top_icon
+  7.58%   14.445      1 Template:Category_handler
+  6.44%   12.272      1 Template:Other_uses
+  5.36%   10.212      1 Template:DMCA
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25171429-0!canonical and timestamp 20171102115456 and revision id 763643227
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Inflow_(meteorology)&amp;oldid=763643227">https://en.wikipedia.org/w/index.php?title=Inflow_(meteorology)&amp;oldid=763643227</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Basic_meteorological_concepts_and_phenomena" title="Category:Basic meteorological concepts and phenomena">Basic meteorological concepts and phenomena</a></li><li><a href="/wiki/Category:Severe_weather_and_convection" title="Category:Severe weather and convection">Severe weather and convection</a></li><li><a href="/wiki/Category:Synoptic_meteorology_and_weather" title="Category:Synoptic meteorology and weather">Synoptic meteorology and weather</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2016" title="Category:Use dmy dates from February 2016">Use dmy dates from February 2016</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Inflow+%28meteorology%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Inflow+%28meteorology%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Inflow_(meteorology)" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Inflow_(meteorology)" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Inflow_(meteorology)">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Inflow_(meteorology)&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Inflow_(meteorology)&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Inflow_(meteorology)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Inflow_(meteorology)" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Inflow_(meteorology)&amp;oldid=763643227" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Inflow_(meteorology)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q11070850" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Inflow_%28meteorology%29&amp;id=763643227" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Inflow+%28meteorology%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Inflow+%28meteorology%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Inflow_(meteorology)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Inflow_(meteorology)" hreflang="simple" lang="simple" title="Inflow (meteorology) – Simple English">Simple English</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q11070850#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 February 2017, at 10:40.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Inflow_(meteorology)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.213","ppvisitednodes":{"value":657,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17487,"limit":2097152},"templateargumentsize":{"value":389,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  190.497      1 -total"," 41.38%   78.824      1 Template:Reflist"," 26.80%   51.062      6 Template:Cite_web"," 17.97%   34.231      2 Template:Convert"," 14.92%   28.416      1 Template:Use_dmy_dates"," 11.78%   22.436      1 Template:Good_article"," 11.11%   21.172      1 Template:Top_icon","  7.58%   14.445      1 Template:Category_handler","  6.44%   12.272      1 Template:Other_uses","  5.36%   10.212      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":4889818,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20171102115457","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1274"});});</script>
+</body>
+</html>

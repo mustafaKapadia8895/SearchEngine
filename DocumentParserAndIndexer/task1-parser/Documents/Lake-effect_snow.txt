@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Lake-effect snow - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lake-effect_snow","wgTitle":"Lake-effect snow","wgCurRevisionId":797015750,"wgRevisionId":797015750,"wgArticleId":43864,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from March 2010","Climate forcing agents","Snow or ice weather phenomena","Upper Peninsula of Michigan"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lake-effect_snow","wgRelevantArticleId":43864,"wgRequestId":"WgHv@gpAIDcAACdfk2AAAABU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1969483","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Effect_Snow_on_Earth.jpg/1200px-Lake_Effect_Snow_on_Earth.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lake-effect_snow" rel="alternate"/>
+<link href="/w/index.php?title=Lake-effect_snow&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Lake-effect_snow&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Lake-effect_snow" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lake-effect_snow rootpage-Lake-effect_snow vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Lake-effect snow</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the weather phenomenon. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Lake_Effect_(disambiguation)" title="Lake Effect (disambiguation)">Lake Effect</a>.</div>
+<div class="mw-stack mobile-float-reset" style="box-sizing: border-box; float:right;">
+<div style="overflow: hidden; margin: 1px;">
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of the <a href="/wiki/Nature" title="Nature">nature</a> series</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Weather" title="Weather">Weather</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Season" title="Season">Calendar seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Winter" title="Winter">Winter</a></li>
+<li><a href="/wiki/Spring_(season)" title="Spring (season)">Spring</a></li>
+<li><a href="/wiki/Summer" title="Summer">Summer</a></li>
+<li><a href="/wiki/Autumn" title="Autumn">Autumn</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Tropics" title="Tropics">Tropical seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Dry_season" title="Dry season">Dry season</a></li>
+<li><a href="/wiki/Wet_season" title="Wet season">Wet season</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Storm" title="Storm">Storms</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cumulonimbus_cloud" title="Cumulonimbus cloud">Cumulonimbus cloud</a></li>
+<li><a href="/wiki/Arcus_cloud" title="Arcus cloud">Arcus cloud</a></li>
+<li><a href="/wiki/Downburst" title="Downburst">Downburst</a></li>
+<li><a href="/wiki/Microburst" title="Microburst">Microburst</a></li>
+<li><a href="/wiki/Heat_burst" title="Heat burst">Heat burst</a></li>
+<li><a href="/wiki/Dust_storm" title="Dust storm">Dust storm</a></li>
+<li><a href="/wiki/Simoom" title="Simoom">Simoom</a></li>
+<li><a href="/wiki/Haboob" title="Haboob">Haboob</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/Gale" title="Gale">Gale</a></li>
+<li><a href="/wiki/Sirocco" title="Sirocco">Sirocco</a></li>
+<li><a href="/wiki/Firestorm" title="Firestorm">Firestorm</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a href="/wiki/Supercell" title="Supercell">Supercell</a></li>
+<li><a href="/wiki/Thunderstorm" title="Thunderstorm">Thunderstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Severe thunderstorm</a></li>
+<li><a href="/wiki/Thundersnow" title="Thundersnow">Thundersnow</a></li>
+<li><a href="/wiki/Storm_surge" title="Storm surge">Storm surge</a></li>
+<li><a href="/wiki/Tornado" title="Tornado">Tornado</a></li>
+<li><a href="/wiki/Cyclone" title="Cyclone">Cyclone</a></li>
+<li><a href="/wiki/Mesocyclone" title="Mesocyclone">Mesocyclone</a></li>
+<li><a href="/wiki/Anticyclone" title="Anticyclone">Anticyclone</a></li>
+<li><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclone (Hurricane)</a></li>
+<li><a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">Extratropical cyclone</a></li>
+<li><a href="/wiki/European_windstorm" title="European windstorm">European windstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Atlantic_Hurricane" title="Atlantic Hurricane">Atlantic Hurricane</a></li>
+<li><a href="/wiki/Typhoon" title="Typhoon">Typhoon</a></li>
+<li><a href="/wiki/Derecho" title="Derecho">Derecho</a></li>
+<li><a href="/wiki/Landspout" title="Landspout">Landspout</a></li>
+<li><a href="/wiki/Dust_devil" title="Dust devil">Dust devil</a></li>
+<li><a href="/wiki/Fire_whirl" title="Fire whirl">Fire whirl</a></li>
+<li><a href="/wiki/Waterspout" title="Waterspout">Waterspout</a></li>
+<li><a href="/wiki/Winter_storm" title="Winter storm">Winter storm</a>
+<ul>
+<li><a href="/wiki/Ice_storm" title="Ice storm">Ice storm</a></li>
+<li><a href="/wiki/Blizzard" title="Blizzard">Blizzard</a></li>
+<li><a href="/wiki/Ground_blizzard" title="Ground blizzard">Ground blizzard</a></li>
+<li><a href="/wiki/Snowsquall" title="Snowsquall">Snowsquall</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Drizzle" title="Drizzle">Drizzle</a> (<a href="/wiki/Freezing_drizzle" title="Freezing drizzle">Freezing drizzle</a>)</li>
+<li><a href="/wiki/Graupel" title="Graupel">Graupel</a></li>
+<li><a href="/wiki/Hail" title="Hail">Hail</a></li>
+<li><a href="/wiki/Ice_pellets" title="Ice pellets">Ice pellets</a> (<a href="/wiki/Diamond_dust" title="Diamond dust">Diamond dust</a>)</li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a> (<a href="/wiki/Freezing_rain" title="Freezing rain">Freezing rain</a>)</li>
+<li><a href="/wiki/Cloudburst" title="Cloudburst">Cloudburst</a></li>
+<li><a href="/wiki/Snow" title="Snow">Snow</a>
+<ul>
+<li><a href="/wiki/Rain_and_snow_mixed" title="Rain and snow mixed">Rain and snow mixed</a></li>
+<li><a href="/wiki/Snow_grains" title="Snow grains">Snow grains</a></li>
+<li><a href="/wiki/Snow_roller" title="Snow roller">Snow roller</a></li>
+<li><a href="/wiki/Slush" title="Slush">Slush</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Index_of_meteorology_articles" title="Index of meteorology articles">Topics</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Atmospheric_river" title="Atmospheric river">Atmospheric river</a></li>
+<li><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Atmospheric convection</a></li>
+<li><a href="/wiki/Air_pollution" title="Air pollution">Air pollution</a></li>
+<li><a href="/wiki/Climate" title="Climate">Climate</a></li>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Cold_wave" title="Cold wave">Cold wave</a></li>
+<li><a href="/wiki/Heat_wave" title="Heat wave">Heat wave</a></li>
+<li><a href="/wiki/Jet_stream" title="Jet stream">Jet stream</a></li>
+<li><a href="/wiki/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/Severe_weather" title="Severe weather">Severe weather</a></li>
+<li><a href="/wiki/Weather_forecasting" title="Weather forecasting">Weather forecasting</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:#ccc 1px solid; border-bottom:#ccc 1px solid;"><a class="image" href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg"><img alt="Cumulus clouds in fair weather.jpeg" class="noviewer" data-file-height="600" data-file-width="800" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/16px-Cumulus_clouds_in_fair_weather.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/24px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/32px-Cumulus_clouds_in_fair_weather.jpeg 2x" width="16"/></a> <a href="/wiki/Portal:Weather" title="Portal:Weather">Weather portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Weather" title="Template:Weather"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Weather" title="Template talk:Weather"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Weather&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="overflow: hidden; margin: 1px;">
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lake_Effect_Snow_on_Earth.jpg"><img alt="" class="thumbimage" data-file-height="1183" data-file-width="1231" height="211" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Effect_Snow_on_Earth.jpg/220px-Lake_Effect_Snow_on_Earth.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Effect_Snow_on_Earth.jpg/330px-Lake_Effect_Snow_on_Earth.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Effect_Snow_on_Earth.jpg/440px-Lake_Effect_Snow_on_Earth.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lake_Effect_Snow_on_Earth.jpg" title="Enlarge"></a></div>
+Cold northwesterly wind over Great Lakes Superior and Michigan created the lake-effect snowfall of December 5, 2000.</div>
+</div>
+</div>
+</div>
+</div>
+<p><b>Lake-effect snow</b> is produced during cooler atmospheric conditions when a cold air mass moves across long expanses of warmer <a href="/wiki/Lake" title="Lake">lake</a> water, warming the lower layer of air which picks up <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> from the lake, rises up through the colder air above, freezes and is deposited on the <a class="mw-redirect" href="/wiki/Leeward" title="Leeward">leeward</a> (downwind) shores.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>The same effect also occurs over bodies of salt water, when it is termed <b>ocean-effect</b> or <b>bay-effect snow</b>. The effect is enhanced when the moving air mass is uplifted by the <a href="/wiki/Orographic_lift" title="Orographic lift">orographic</a> influence of higher elevations on the downwind shores. This uplifting can produce narrow but very intense bands of precipitation, which deposit at a rate of many inches of snow each hour, often resulting in a large amount of total snowfall.</p>
+<p>The areas affected by lake-effect snow are called <a href="/wiki/Snowbelt" title="Snowbelt">snowbelts</a>. These include areas east of the <a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a>, the west coasts of northern Japan, the <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">Kamchatka Peninsula</a> in Russia, and areas near the <a href="/wiki/Great_Salt_Lake" title="Great Salt Lake">Great Salt Lake</a>, <a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a>, <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a>, <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a>, and parts of the northern Atlantic Ocean.</p>
+<p>A <b>lake-effect blizzard</b> is the <a href="/wiki/Blizzard" title="Blizzard">blizzard</a>-like conditions resulting from lake-effect snow. Under certain conditions, strong winds can accompany lake-effect snows creating blizzard-like conditions; however the duration of the event is often slightly less than that required for a blizzard warning <sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> in both the US and Canada.</p>
+<p>If the air temperature is low enough to keep the precipitation frozen, it falls as lake-effect <a href="/wiki/Snow" title="Snow">snow</a>. For lake-effect rain or snow to form, the air moving across the lake must be significantly cooler than the surface air (which is likely to be near the temperature of the water surface). Specifically, the air temperature at an altitude where the <a class="mw-redirect" href="/wiki/Air_pressure" title="Air pressure">air pressure</a> is 850 <a href="/wiki/Bar_(unit)" title="Bar (unit)">millibars</a> (85 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">kPa</a>) (roughly 1.5 kilometers or 0.93 miles vertically) should be 13 °C (23 °F) lower than the temperature of the air at the surface. Lake-effect occurring when the air at 850 <a href="/wiki/Bar_(unit)" title="Bar (unit)">millibars</a> (85 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">kPa</a>) is much colder than the water surface can produce <a href="/wiki/Thundersnow" title="Thundersnow">thundersnow</a>, snow showers accompanied by <a href="/wiki/Lightning" title="Lightning">lightning</a> and <a href="/wiki/Thunder" title="Thunder">thunder</a> (caused by larger amounts of energy available from the increased instability).</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Formation"><span class="tocnumber">1</span> <span class="toctext">Formation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Instability"><span class="tocnumber">1.1</span> <span class="toctext">Instability</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Fetch"><span class="tocnumber">1.2</span> <span class="toctext">Fetch</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Wind_shear"><span class="tocnumber">1.3</span> <span class="toctext">Wind shear</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Upstream_moisture"><span class="tocnumber">1.4</span> <span class="toctext">Upstream moisture</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Upwind_lakes"><span class="tocnumber">1.5</span> <span class="toctext">Upwind lakes</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Synoptic_forcing"><span class="tocnumber">1.6</span> <span class="toctext">Synoptic forcing</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Orography_and_topography"><span class="tocnumber">1.7</span> <span class="toctext">Orography and topography</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Snow_and_ice_cover"><span class="tocnumber">1.8</span> <span class="toctext">Snow and ice cover</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Great_Lakes_region"><span class="tocnumber">2</span> <span class="toctext">Great Lakes region</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#U.S._Northeast"><span class="tocnumber">2.1</span> <span class="toctext">U.S. Northeast</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Ontario.2C_Canada"><span class="tocnumber">2.2</span> <span class="toctext">Ontario, Canada</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Elsewhere_in_the_United_States"><span class="tocnumber">3</span> <span class="toctext">Elsewhere in the United States</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Elsewhere_in_Canada"><span class="tocnumber">4</span> <span class="toctext">Elsewhere in Canada</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Eurasia"><span class="tocnumber">5</span> <span class="toctext">Eurasia</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Formation">Formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=1" title="Edit section: Formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lake-derived-snow.svg"><img alt="" class="thumbimage" data-file-height="500" data-file-width="800" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lake-derived-snow.svg/220px-Lake-derived-snow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lake-derived-snow.svg/330px-Lake-derived-snow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lake-derived-snow.svg/440px-Lake-derived-snow.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lake-derived-snow.svg" title="Enlarge"></a></div>
+Lake-effect <a href="/wiki/Snow" title="Snow">snow</a> is produced as cold winds blow clouds over warm waters.</div>
+</div>
+</div>
+<p>There are several key elements that are required to form lake-effect precipitation and which determine its characteristics: instability, fetch, wind shear, upstream moisture, upwind lakes, synoptic (large)-scale forcing, orography/topography, and snow or ice cover.</p>
+<h3><span class="mw-headline" id="Instability">Instability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=2" title="Edit section: Instability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A temperature difference of 13 °C (23 °F) (or as past researchers have estimated: between 15 °C and 25 °C) between the lake temperature and the height in the atmosphere (~1,500 meters or 4,921 feet at which barometric pressure measures 850 millibars (85 kilopascals)) provides for absolute instability and allows vigorous heat and moisture transportation vertically. Atmospheric lapse rate and convective depth are directly affected by both the mesoscale lake environment and the synoptic environment; a deeper convective depth with increasingly steep lapse rates and a suitable moisture level will allow for thicker, taller lake effect precipitation clouds and naturally a much greater precipitation rate.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Fetch">Fetch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=3" title="Edit section: Fetch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The distance that an air mass travels over a body of water is called fetch. Because most lakes are irregular in shape, different angular degrees of travel will yield different distances; typically a fetch of at least 100 km (62 mi) is required to produce lake effect precipitation. Generally, the larger the fetch the more precipitation that will be produced. Larger fetches provide the boundary layer with more time to become saturated with water vapor and for heat energy to move from the water to the air. As the air mass reaches the other side of the lake, the engine of rising and cooling water vapor pans itself out in the form of condensation and falls as snow, usually within 40 kilometers (25 miles) of the lake but sometimes up to about 100 miles.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lake_effect_snow_wind_direction_bands1.png"><img alt="" class="thumbimage" data-file-height="3845" data-file-width="1436" height="589" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lake_effect_snow_wind_direction_bands1.png/220px-Lake_effect_snow_wind_direction_bands1.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lake_effect_snow_wind_direction_bands1.png/330px-Lake_effect_snow_wind_direction_bands1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lake_effect_snow_wind_direction_bands1.png/440px-Lake_effect_snow_wind_direction_bands1.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lake_effect_snow_wind_direction_bands1.png" title="Enlarge"></a></div>
+The location of common lake effect bands on the Great Lakes</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Wind_shear">Wind shear</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=4" title="Edit section: Wind shear">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Directional <a href="/wiki/Wind_shear" title="Wind shear">shear</a> is one of the most important factors governing the development of squalls; environments with weak directional shear typically produce more intense squalls than those with higher shear levels. If directional shear between the surface and the height in the atmosphere at which the barometric pressure measures 700 mb (70 kPa) is greater than 60 degrees, nothing more than flurries can be expected. If the directional shear between the body of water and the vertical height at which the pressure measures 700 mb (70 kPa) is between 30 and 60 degrees, weak lake-effect bands are possible. In environments where the shear is less than 30 degrees, strong, well organized bands can be expected.<sup class="reference" id="cite_ref-Wind_Shear_5-0"><a href="#cite_note-Wind_Shear-5">[5]</a></sup></p>
+<p>Speed shear is less critical, but should be relatively uniform. The wind speed difference between the surface and vertical height at which the pressure reads 700 mb (70 kPa) should be no greater than 40 knots (74 km/h) so as to prevent the upper portions of the band from shearing off. However, assuming the surface to 700 mb (70 kPa) winds are uniform, a faster overall velocity will work to transport moisture quicker from the water, and the band will travel much farther inland.<sup class="reference" id="cite_ref-Wind_Shear_5-1"><a href="#cite_note-Wind_Shear-5">[5]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lake_effect_deltat_chart.svg"><img alt="" class="thumbimage" data-file-height="1596" data-file-width="738" height="476" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_effect_deltat_chart.svg/220px-Lake_effect_deltat_chart.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_effect_deltat_chart.svg/330px-Lake_effect_deltat_chart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_effect_deltat_chart.svg/440px-Lake_effect_deltat_chart.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lake_effect_deltat_chart.svg" title="Enlarge"></a></div>
+Temperature difference and instability are directly related, the greater the difference the more unstable and convective the lake effect precipitation will be.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Upstream_moisture">Upstream moisture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=5" title="Edit section: Upstream moisture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A lower upstream relative humidity will make it more difficult and time consuming for lake effect condensation, clouds and precipitation to form. The opposite is true if the upstream moisture has a high relative humidity, allowing lake effect condensation, cloud and precipitation to form more readily and in a greater quantity.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Upwind_lakes">Upwind lakes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=6" title="Edit section: Upwind lakes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Any large body of water upwind will impact lake-effect precipitation to the lee of a downwind lake by adding moisture or pre-existing lake-effect bands, which can re-intensify over the downwind lake. Upwind lakes do not always lead to an increase of precipitation downwind.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Synoptic_forcing">Synoptic forcing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=7" title="Edit section: Synoptic forcing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Vorticity advection aloft and large upscale ascent help increase mixing and the convective depth, while cold air advection lowers the temperature and increases instability.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Orography_and_topography">Orography and topography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=8" title="Edit section: Orography and topography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Typically lake-effect precipitation will increase with elevation to the lee of the lake as topographic forcing squeezes out precipitation and dries out the squall much faster.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Snow_and_ice_cover">Snow and ice cover</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=9" title="Edit section: Snow and ice cover">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a lake gradually freezes over, its ability to produce lake-effect precipitation decreases for two reasons. Firstly, the open ice-free liquid surface area of the lake shrinks. This reduces fetch distances. Secondly, the water temperature nears freezing, reducing overall latent heat energy available to produce squalls. To end the production of lake-effect precipitation, a complete freeze is often not necessary.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<p>Even when precipitation is not produced, cold air passing over warmer water may produce cloud cover. Fast moving mid-latitude cyclones, known as <a href="/wiki/Alberta_clipper" title="Alberta clipper">Alberta clippers</a>, often cross the Great Lakes. After the passage of a cold front, winds tend to switch to the northwest, and a frequent pattern is for a long-lasting <a href="/wiki/Low-pressure_area" title="Low-pressure area">low-pressure area</a> to form over the <a class="mw-redirect" href="/wiki/Canadian_Maritimes" title="Canadian Maritimes">Canadian Maritimes</a>, which may pull cold northwestern air across the Great Lakes for a week or more, commonly identified with the negative phase of the North Atlantic Oscillation (NAO). Since the prevailing winter winds tend to be colder than the water for much of the winter, the southeastern shores of the lakes are almost constantly overcast, leading to the use of the term <i>The Great Gray Funk</i> as a synonym for winter.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>]</sup> These areas allegedly contain populations that suffer from high rates of <a href="/wiki/Seasonal_affective_disorder" title="Seasonal affective disorder">seasonal affective disorder</a>, a type of psychological depression thought to be caused by lack of light.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Great_Lakes_region">Great Lakes region</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=10" title="Edit section: Great Lakes region">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="U.S._Northeast">U.S. Northeast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=11" title="Edit section: U.S. Northeast">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snowband_anim.gif"><img alt="" class="thumbimage" data-file-height="275" data-file-width="300" height="202" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2d/Snowband_anim.gif/220px-Snowband_anim.gif" srcset="//upload.wikimedia.org/wikipedia/en/2/2d/Snowband_anim.gif 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowband_anim.gif" title="Enlarge"></a></div>
+Lake effect snow bands over <a href="/wiki/Central_New_York" title="Central New York">Central New York</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:USA-Lake-Effect-Snow-Areas.svg"><img alt="" class="thumbimage" data-file-height="149" data-file-width="211" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA-Lake-Effect-Snow-Areas.svg/220px-USA-Lake-Effect-Snow-Areas.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA-Lake-Effect-Snow-Areas.svg/330px-USA-Lake-Effect-Snow-Areas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA-Lake-Effect-Snow-Areas.svg/440px-USA-Lake-Effect-Snow-Areas.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:USA-Lake-Effect-Snow-Areas.svg" title="Enlarge"></a></div>
+Map showing some of the lake-effect snow areas of the United States</div>
+</div>
+</div>
+<p>Cold winds in the winter typically prevail from the northwest in the Great Lakes region, producing the most dramatic lake-effect snowfalls on the southern and eastern shores of the <a class="mw-redirect" href="/wiki/Great_Lakes_(North_America)" title="Great Lakes (North America)">Great Lakes</a>. This lake-effect produces a significant difference between the snowfall on the southern/eastern shores and the northern and western shores of the Great Lakes.</p>
+<p>The most affected areas include Upper Michigan, <a href="/wiki/Central_New_York" title="Central New York">Central New York</a>, <a href="/wiki/Western_New_York" title="Western New York">Western New York</a>, <a href="/wiki/Northwestern_Pennsylvania" title="Northwestern Pennsylvania">Northwestern Pennsylvania</a>, <a href="/wiki/Northeast_Ohio" title="Northeast Ohio">Northeastern Ohio</a>, <a href="/wiki/Southwestern_Ontario" title="Southwestern Ontario">southwestern Ontario</a> and central Ontario, Northeastern Illinois (along the shoreline of Lake Michigan), northwestern and northcentral <a href="/wiki/Indiana" title="Indiana">Indiana</a> (mostly between <a class="mw-redirect" href="/wiki/Gary,_IN" title="Gary, IN">Gary, IN</a> and <a class="mw-redirect" href="/wiki/Elkhart,_IN" title="Elkhart, IN">Elkhart, IN</a>), and <a class="mw-redirect" href="/wiki/Western_Michigan" title="Western Michigan">western Michigan</a>. <a href="/wiki/Tug_Hill" title="Tug Hill">Tug Hill</a> in <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>'s <a href="/wiki/North_Country_(New_York)" title="North Country (New York)">North Country</a> region has the 2nd most snow amounts of any non-mountainous location within the continental U.S., only trailing the <a href="/wiki/Upper_Peninsula_of_Michigan" title="Upper Peninsula of Michigan">Upper Peninsula of Michigan</a>, which can average over 200 inches (508 centimeters) of snow per year.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Lake-effect snows on the <a href="/wiki/Tug_Hill" title="Tug Hill">Tug Hill</a> plateau (east of <a href="/wiki/Lake_Ontario" title="Lake Ontario">Lake Ontario</a>) can frequently set daily records for snowfall in the <a href="/wiki/United_States" title="United States">United States</a>. Tug Hill receives, on average, over 20 feet (240 in; 610 cm) of snow each winter.<sup class="reference" id="cite_ref-NAME_13-0"><a href="#cite_note-NAME-13">[13]</a></sup> In February 2007, a prolonged lake-effect snow event left 141 inches (358 cm) of snow on the Tug Hill Plateau.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> <a href="/wiki/Syracuse,_New_York" title="Syracuse, New York">Syracuse, New York</a>, is directly south of the Tug Hill Plateau and receives significant lake-effect snow from Lake Ontario, averaging 115.6 inches (294 cm) of snow per year, which is enough snowfall to often be considered one of the "snowiest" large cities in America.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<p>A small amount of lake-effect snow from the <a href="/wiki/Finger_Lakes" title="Finger Lakes">Finger Lakes</a> falls in upstate New York as well. If the wind blows almost the entire length of either <a href="/wiki/Cayuga_Lake" title="Cayuga Lake">Cayuga Lake</a> or <a href="/wiki/Seneca_Lake_(New_York)" title="Seneca Lake (New York)">Seneca Lake</a>, <a href="/wiki/Ithaca,_New_York" title="Ithaca, New York">Ithaca</a> or <a href="/wiki/Watkins_Glen,_New_York" title="Watkins Glen, New York">Watkins Glen</a> respectfully can have a small lake effect snow storm. The <a href="/wiki/Appalachian_Mountains" title="Appalachian Mountains">Appalachian Mountains</a> and <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> largely shield <a href="/wiki/New_York_City" title="New York City">New York City</a> and <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a> from picking up any lake-effect snow; snow there tends to come from mesocyclonic storm systems mixing with cold temperatures.</p>
+<p><a href="/wiki/Lake_Erie" title="Lake Erie">Lake Erie</a> produces a similar effect for a zone stretching from the eastern suburbs of <a href="/wiki/Cleveland" title="Cleveland">Cleveland</a> through <a href="/wiki/Erie,_Pennsylvania" title="Erie, Pennsylvania">Erie</a> to <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo</a>.<sup class="reference" id="cite_ref-SCHMID_17-0"><a href="#cite_note-SCHMID-17">[17]</a></sup> Remnants of lake-effect snows from Lake Erie have been observed to reach as far south as <a href="/wiki/Garrett_County,_Maryland" title="Garrett County, Maryland">Garrett County, Maryland</a> and as far east as <a href="/wiki/Geneva,_New_York" title="Geneva, New York">Geneva, New York</a>.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> Because it's not as deep as the other lakes, Erie warms rapidly in the spring and summer and is frequently the only Great Lake to freeze over in winter. .<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> Once frozen, the resulting ice cover alleviates lake-effect snow downwind of the lake. Based on stable isotope evidence from lake sediment coupled with historical records of increasing lake effect snow, it has been predicted that Global Warming will result in a further increase in lake effect snow.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<p>A very large <a href="/wiki/Snowbelt" title="Snowbelt">snowbelt</a> in the <a href="/wiki/United_States" title="United States">United States</a> exists on the <a href="/wiki/Upper_Peninsula_of_Michigan" title="Upper Peninsula of Michigan">Upper Peninsula of Michigan</a>, near the cities of <a href="/wiki/Houghton,_Michigan" title="Houghton, Michigan">Houghton</a>, <a href="/wiki/Marquette,_Michigan" title="Marquette, Michigan">Marquette</a>, and <a href="/wiki/Munising,_Michigan" title="Munising, Michigan">Munising</a>. These areas average 250–300 inches (635–762 cm) of snow each season.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> For comparison, on the western shore, <a href="/wiki/Duluth,_Minnesota" title="Duluth, Minnesota">Duluth, Minnesota</a> receives 78 inches (198 cm) per season.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> <a href="/wiki/Lake_Superior" title="Lake Superior">Lake Superior</a> and <a href="/wiki/Lake_Huron" title="Lake Huron">Lake Huron</a> rarely freeze because of their size and depth; hence, lake-effect snow can fall continually in the Upper Peninsula and Canadian snowbelts during the winter months. Main areas of the Upper Peninsula snow belt include the <a href="/wiki/Keweenaw_Peninsula" title="Keweenaw Peninsula">Keweenaw Peninsula</a> and <a href="/wiki/Baraga_County,_Michigan" title="Baraga County, Michigan">Baraga</a>, <a href="/wiki/Marquette_County,_Michigan" title="Marquette County, Michigan">Marquette</a> and <a href="/wiki/Alger_County,_Michigan" title="Alger County, Michigan">Alger</a> counties, where Lake Superior contributes to lake-effect snow, making them a prominent part of the Midwestern snow belt. Records of 390 inches (991 cm) of snow or more have been set in many communities in this area. The Keweenaw Peninsula averages more snowfall than almost anywhere in the United States—more than anywhere east of the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a> and the most of all non-mountainous regions of the continental United States. Because of the howling storms across Lake Superior, which cause dramatic amounts of precipitation, it has been said that the lake-effect snow makes the Keweenaw Peninsula the snowiest place east of the <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rockies</a>. Only one official weather station exists in this region. Located in <a href="/wiki/Hancock,_Michigan" title="Hancock, Michigan">Hancock, Michigan</a>, this station averages well over 210 inches (533 cm) per year. Farther north in the peninsula, lake-effect snow can occur with any wind direction. The road commission in <a href="/wiki/Keweenaw_County,_Michigan" title="Keweenaw County, Michigan">Keweenaw County, Michigan</a> collects unofficial data in a community called Delaware, and it strictly follows the guidelines set forth by the National Weather Service. This station averages over 240 inches (610 cm) per season. Even farther north, a ski resort called <a href="/wiki/Mount_Bohemia" title="Mount Bohemia">Mount Bohemia</a> receives an unofficial annual average of 273 inches (693 cm). <a href="/wiki/Herman,_Michigan" title="Herman, Michigan">Herman, Michigan</a>, averages 236 inches (599 cm) of snow every year. Lake-effect snow can cause blinding <a href="/wiki/Whiteout_(weather)" title="Whiteout (weather)">whiteouts</a> in just minutes, and some storms can last days.</p>
+<p><a class="mw-redirect" href="/wiki/Western_Michigan" title="Western Michigan">Western Michigan</a>, western <a href="/wiki/Northern_Michigan" title="Northern Michigan">Northern Lower Michigan</a>, and <a href="/wiki/Northern_Indiana" title="Northern Indiana">Northern Indiana</a> can get heavy lake-effect snows as winds pass over Lake Michigan and deposit snows over <a href="/wiki/Muskegon,_Michigan" title="Muskegon, Michigan">Muskegon</a>, <a href="/wiki/Traverse_City,_Michigan" title="Traverse City, Michigan">Traverse City</a>, <a href="/wiki/Grand_Rapids,_Michigan" title="Grand Rapids, Michigan">Grand Rapids</a>, <a href="/wiki/Kalamazoo,_Michigan" title="Kalamazoo, Michigan">Kalamazoo</a>, <a href="/wiki/New_Carlisle,_Indiana" title="New Carlisle, Indiana">New Carlisle</a>, <a href="/wiki/South_Bend,_Indiana" title="South Bend, Indiana">South Bend</a>, and <a href="/wiki/Elkhart,_Indiana" title="Elkhart, Indiana">Elkhart</a>, but these snows abate significantly before <a href="/wiki/Lansing,_Michigan" title="Lansing, Michigan">Lansing</a> or <a href="/wiki/Fort_Wayne,_Indiana" title="Fort Wayne, Indiana">Fort Wayne, Indiana</a>. When winds become northerly, or aligned between 330 and 390 degrees, a single band of lake-effect snow may form, which extends down the length of Lake Michigan. This long fetch often produces a very intense, yet localized, area of heavy snowfall, affecting cities such as <a class="mw-redirect" href="/wiki/Laporte,_Indiana" title="Laporte, Indiana">Laporte</a> and <a href="/wiki/Gary,_Indiana" title="Gary, Indiana">Gary</a>.<sup class="reference" id="cite_ref-glisa.umich.edu_23-0"><a href="#cite_note-glisa.umich.edu-23">[23]</a></sup></p>
+<p>Lake-effect snow is uncommon in <a href="/wiki/Detroit" title="Detroit">Detroit</a>, <a href="/wiki/Toledo,_Ohio" title="Toledo, Ohio">Toledo</a>, <a href="/wiki/Milwaukee" title="Milwaukee">Milwaukee</a>, and <a href="/wiki/Chicago" title="Chicago">Chicago</a>, because the region's dominant winds are from the northwest, making them upwind from their respective Great Lakes. However, they too can see lake-effect snow during easterly or north-easterly winds. More frequently, the north side of a low-pressure system picks up more moisture over the lake as it travels west, creating a phenomenon called lake-enhanced precipitation.<sup class="reference" id="cite_ref-glisa.umich.edu_23-1"><a href="#cite_note-glisa.umich.edu-23">[23]</a></sup></p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:35.5px auto;"><a class="image" href="/wiki/File:Buffalo2001-20.jpg"><img alt="" data-file-height="248" data-file-width="312" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Buffalo2001-20.jpg/200px-Buffalo2001-20.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Buffalo2001-20.jpg/300px-Buffalo2001-20.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a8/Buffalo2001-20.jpg 2x" width="200"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo, New York</a>, after 82.3 inches (209 cm) of snow fell from December 24, 2001 to December 28, 2001</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:27px auto;"><a class="image" href="/wiki/File:Fultonles.jpg"><img alt="" data-file-height="316" data-file-width="360" height="176" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/Fultonles.jpg/200px-Fultonles.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/Fultonles.jpg/300px-Fultonles.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/2/2e/Fultonles.jpg 2x" width="200"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Fulton, New York after a snowburst dropped 4–6 feet (122–183 cm) of snow over most of Oswego County January 28–31, 2004.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:48.5px auto;"><a class="image" href="/wiki/File:Snow-removal-cleveland-4.jpg"><img alt="" data-file-height="1023" data-file-width="1536" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Snow-removal-cleveland-4.jpg/200px-Snow-removal-cleveland-4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Snow-removal-cleveland-4.jpg/300px-Snow-removal-cleveland-4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Snow-removal-cleveland-4.jpg/400px-Snow-removal-cleveland-4.jpg 2x" width="200"/></a></div>
+</div>
+<div class="gallerytext">
+<p>The Veteran's Day storm of November 9–14, 1996 may be the most severe early season lake effect snow (LES) storm the Great Lakes has witnessed in the past fifty years. At the height of the storm, over 160,000 customers were without power in Greater Cleveland alone, as the storm produced isolated snowfall tallies approaching 70 inches (178 cm).</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span id="Ontario,_Canada"></span><span class="mw-headline" id="Ontario.2C_Canada">Ontario, Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=12" title="Edit section: Ontario, Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sat1.gif"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="165" src="//upload.wikimedia.org/wikipedia/en/thumb/5/51/Sat1.gif/220px-Sat1.gif" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/51/Sat1.gif/330px-Sat1.gif 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/51/Sat1.gif/440px-Sat1.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sat1.gif" title="Enlarge"></a></div>
+Visible satellite image showing a large single lake-effect band from Lake Huron with vigorous vertical motion. This band produced 8 inches (20 cm) of snow in the eastern and northern suburbs of <a href="/wiki/Toronto" title="Toronto">Toronto</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG"><img alt="" class="thumbimage" data-file-height="1464" data-file-width="1952" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG/220px-Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG/330px-Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG/440px-Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wasaga_Beach_60_cm_snow_12_hours_Jan04_02.JPG" title="Enlarge"></a></div>
+The community of <a href="/wiki/Wasaga_Beach" title="Wasaga Beach">Wasaga Beach</a> after sixty centimeters of snow fell in 12 hours from a persistent lake effect band</div>
+</div>
+</div>
+<p>Because Southwestern Ontario is surrounded by water on three sides, many parts of Southwestern and Central Ontario get a large part of their winter snow from lake-effect snow.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> This region is notorious for the whiteouts which can suddenly reduce highway visibility on the world's busiest highway (<a href="/wiki/Ontario_Highway_401" title="Ontario Highway 401">Ontario Highway 401</a>) from clear to zero. The region most commonly affected spans from <a href="/wiki/Port_Stanley,_Ontario" title="Port Stanley, Ontario">Port Stanley</a> in the west, <a href="/wiki/Brantford" title="Brantford">Brantford</a> and the <a href="/wiki/Bruce_Peninsula" title="Bruce Peninsula">Bruce Peninsula</a> in the north, <a href="/wiki/Niagara-on-the-Lake" title="Niagara-on-the-Lake">Niagara-on-the-Lake</a> to the east, and <a href="/wiki/Fort_Erie,_Ontario" title="Fort Erie, Ontario">Fort Erie</a> to the south. The heaviest accumulations usually happen in the Bruce Peninsula, which is between Lake Huron and Georgian Bay. So long as the Great Lakes are not frozen over, the only time the Bruce Peninsula does not get lake-effect snow is when the wind is directly from the south.</p>
+<p><a href="/wiki/Toronto" title="Toronto">Toronto</a> and <a href="/wiki/Hamilton,_Ontario" title="Hamilton, Ontario">Hamilton</a> are usually spared lake-effect squalls because they are not on the leeward side of Lake Ontario during the dominant northwest winds. However, some central and northern portions of the <a href="/wiki/Greater_Toronto_Area" title="Greater Toronto Area">Greater Toronto Area</a> can be affected a few times each year by lake-effect snow from <a href="/wiki/Georgian_Bay" title="Georgian Bay">Georgian Bay</a>. Downtown Toronto and Hamilton get most of their lake-effect snow when the wind comes from the southeast or east, over Lake Ontario. Such easterly winds are usually associated with a winter cyclone passing just to the south of the Great Lakes.</p>
+<p>When the wind is from the north, the <a href="/wiki/Snowbelt" title="Snowbelt">snowbelt</a> runs north-south from <a class="mw-redirect" href="/wiki/Grand_Bend,_Ontario" title="Grand Bend, Ontario">Grand Bend</a> to <a class="mw-redirect" href="/wiki/Sarnia,_Ontario" title="Sarnia, Ontario">Sarnia</a> and <a href="/wiki/London,_Ontario" title="London, Ontario">London</a>. Areas such as <a class="mw-redirect" href="/wiki/Lucan,_Ontario" title="Lucan, Ontario">Lucan</a> and <a href="/wiki/Arkona,_Ontario" title="Arkona, Ontario">Arkona</a> have experienced some of the heaviest snowsqualls from Lake Huron in this region. When the wind is slightly more westerly, the snowbelt runs from <a href="/wiki/Tobermory,_Ontario" title="Tobermory, Ontario">Tobermory</a>, <a href="/wiki/Owen_Sound" title="Owen Sound">Owen Sound</a>, and Grand Bend to as far south and east as <a href="/wiki/Arthur,_Ontario" title="Arthur, Ontario">Arthur</a>, <a href="/wiki/Orangeville,_Ontario" title="Orangeville, Ontario">Orangeville</a> and <a href="/wiki/Caledon,_Ontario" title="Caledon, Ontario">Caledon</a>. This snowbelt often reaches <a href="/wiki/Kitchener,_Ontario" title="Kitchener, Ontario">Kitchener</a> and can affect the <a href="/wiki/Regional_Municipality_of_Halton" title="Regional Municipality of Halton">Halton</a> and <a href="/wiki/Regional_Municipality_of_Peel" title="Regional Municipality of Peel">Peel</a> regions of the <a href="/wiki/Greater_Toronto_Area" title="Greater Toronto Area">Greater Toronto Area</a>. These northwesterly winds usually also bring snow southeast of Georgian Bay, which can reach beyond <a href="/wiki/Lake_Scugog" title="Lake Scugog">Lake Scugog</a>. A westerly wind sends lake-effect streamers east from Owen Sound to <a href="/wiki/Gravenhurst,_Ontario" title="Gravenhurst, Ontario">Gravenhurst</a>, <a href="/wiki/Barrie" title="Barrie">Barrie</a>, and <a href="/wiki/Orillia" title="Orillia">Orillia</a>, and may even reach as far south and east as <a href="/wiki/Regional_Municipality_of_York" title="Regional Municipality of York">York Region</a> in the <a href="/wiki/Greater_Toronto_Area" title="Greater Toronto Area">Greater Toronto Area</a>. When the wind is from the southwest, lake-effect streamers from Lake Huron and Georgian Bay run from Noelville to <a href="/wiki/Greater_Sudbury" title="Greater Sudbury">Sudbury</a>, <a href="/wiki/Gravenhurst,_Ontario" title="Gravenhurst, Ontario">Gravenhurst</a>, and <a href="/wiki/Algonquin_Provincial_Park" title="Algonquin Provincial Park">Algonquin Provincial Park</a>. Winds from this same direction coming over Lake Ontario will cause squalls to come ashore from <a class="mw-redirect" href="/wiki/Cobourg,_Ontario" title="Cobourg, Ontario">Cobourg</a> through the <a href="/wiki/Belleville,_Ontario" title="Belleville, Ontario">Belleville</a> area to <a href="/wiki/Kingston,_Ontario" title="Kingston, Ontario">Kingston</a> and the <a href="/wiki/Thousand_Islands" title="Thousand Islands">Thousand Islands</a>, with <a href="/wiki/Prince_Edward_County,_Ontario" title="Prince Edward County, Ontario">Prince Edward County</a> being the area most vulnerable to extreme snowfall amounts. Some snow bands can occasionally reach <a href="/wiki/Quebec" title="Quebec">Quebec</a> and <a href="/wiki/Maine" title="Maine">Maine</a>, while snow originating from Lake Erie, Lake Ontario and even Lake Michigan can impact southern Ontario. Easterly winds primarily affect the Niagara Peninsula. Local lake-effect snowsqualls can occasionally occur downwind of <a href="/wiki/Lake_Simcoe" title="Lake Simcoe">Lake Simcoe</a> when the lake is unfrozen, usually in early winter or late fall.</p>
+<p>Lake Superior has its own independent snowbelts, affecting <a href="/wiki/Wawa,_Ontario" title="Wawa, Ontario">Wawa</a>, <a href="/wiki/Sault_Ste._Marie,_Ontario" title="Sault Ste. Marie, Ontario">Sault Ste. Marie</a>, <a href="/wiki/Marathon,_Ontario" title="Marathon, Ontario">Marathon</a>, the <a href="/wiki/Keweenaw_Peninsula" title="Keweenaw Peninsula">Keweenaw Peninsula in Upper Michigan</a>, and <a href="/wiki/Pukaskwa_National_Park" title="Pukaskwa National Park">Pukaskwa National Park</a>. <a href="/wiki/Thunder_Bay" title="Thunder Bay">Thunder Bay</a> is usually not affected by lake-effect snow, unless it is associated with a winter storm.</p>
+<h2><span class="mw-headline" id="Elsewhere_in_the_United_States">Elsewhere in the United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=13" title="Edit section: Elsewhere in the United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Great_Salt_Lake_effect" title="Great Salt Lake effect">Great Salt Lake effect</a></div>
+<p>Similar snowfall can occur near large inland bays, where it is known as bay-effect snow. Bay-effect snows fall downwind of <a href="/wiki/Delaware_Bay" title="Delaware Bay">Delaware Bay</a>, <a href="/wiki/Chesapeake_Bay" title="Chesapeake Bay">Chesapeake Bay</a>, and <a href="/wiki/Massachusetts_Bay" title="Massachusetts Bay">Massachusetts Bay</a> when the basic criteria are met, and on rarer occasions along <a href="/wiki/Long_Island" title="Long Island">Long Island</a>.</p>
+<p>The southern and southeastern sides of the <a href="/wiki/Great_Salt_Lake" title="Great Salt Lake">Great Salt Lake</a> receive significant lake-effect snow. Since the Great Salt Lake never freezes, the lake effect can influence the weather along the <a href="/wiki/Wasatch_Front" title="Wasatch Front">Wasatch Front</a> year-round. The lake effect largely contributes to the 55–80 inches (140–203 cm) annual snowfall amounts recorded south and east of the lake, and in average snowfall reaching 500 inches (13 m) in the <a href="/wiki/Wasatch_Range" title="Wasatch Range">Wasatch Range</a>. The snow, which is often very light and dry because of the semi-arid climate, is referred to as "The Greatest Snow on Earth" in the mountains. Lake-effect snow contributes to approximately 6–8 snowfalls per year in <a href="/wiki/Salt_Lake_City" title="Salt Lake City">Salt Lake City</a>, with approximately 10% of the city's precipitation being contributed by the phenomenon.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></p>
+<p>The <a href="/wiki/Finger_Lakes" title="Finger Lakes">Finger Lakes</a> of <a href="/wiki/New_York_(state)" title="New York (state)">New York</a> are long enough for lake-effect precipitation.</p>
+<p>The <a href="/wiki/Texas" title="Texas">Texas</a> twin cities of <a href="/wiki/Sherman,_Texas" title="Sherman, Texas">Sherman</a> and <a href="/wiki/Denison,_Texas" title="Denison, Texas">Denison</a> are known, in rare instances, to have experienced lake-effect snow from nearby <a href="/wiki/Lake_Texoma" title="Lake Texoma">Lake Texoma</a> due to the lake's size (it is the third-largest lake in Texas or along its borders).</p>
+<p>On one occasion in December 2016, lake effect snow fell in central <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a> from a lake band off <a href="/wiki/Ross_Barnett_Reservoir" title="Ross Barnett Reservoir">Ross Barnett Reservoir</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup></p>
+<p>The <a href="/wiki/Truckee_Meadows" title="Truckee Meadows">Truckee Meadows</a> and other parts of Northern Nevada which are normally in the <a href="/wiki/Rain_shadow" title="Rain shadow">rain shadow</a> of the <a href="/wiki/Sierra_Nevada_(U.S.)" title="Sierra Nevada (U.S.)">Sierra Nevada</a> can, when conditions are right, have severe snowfall as a result of lake effect from <a href="/wiki/Lake_Tahoe" title="Lake Tahoe">Lake Tahoe</a>. Recent severe examples of this phenomenon have occurred as recently as 2004, dumping several feet of snow in the normally dry region.</p>
+<p>The <a href="/wiki/West_Coast_of_the_United_States" title="West Coast of the United States">West Coast</a> occasionally experiences ocean-effect showers, usually in the form of rain at lower elevations south of about the mouth of the <a href="/wiki/Columbia_River" title="Columbia River">Columbia River</a>. These occur whenever an Arctic air mass from western Canada is drawn westward out over the Pacific Ocean, typically by way of the <a href="/wiki/Fraser_Valley" title="Fraser Valley">Fraser Valley</a>, returning shoreward around a center of low pressure. Cold air flowing southwest from the Fraser Valley can also pick up moisture over the <a href="/wiki/Strait_of_Georgia" title="Strait of Georgia">Strait of Georgia</a> and <a href="/wiki/Strait_of_Juan_de_Fuca" title="Strait of Juan de Fuca">Strait of Juan de Fuca</a>, then rise over the northeastern slopes of the <a href="/wiki/Olympic_Mountains" title="Olympic Mountains">Olympic Mountains</a>, producing heavy, localized snow between <a href="/wiki/Port_Angeles,_Washington" title="Port Angeles, Washington">Port Angeles</a> and <a href="/wiki/Sequim,_Washington" title="Sequim, Washington">Sequim</a>, as well as areas in <a href="/wiki/Kitsap_County,_Washington" title="Kitsap County, Washington">Kitsap County</a> and the <a href="/wiki/Puget_Sound_region" title="Puget Sound region">Puget Sound region</a>.<sup class="reference" id="cite_ref-mass_27-0"><a href="#cite_note-mass-27">[27]</a></sup></p>
+<p>Rarely, the phenomenon of gulf-effect snow has been observed along the northern coast of the <a href="/wiki/Gulf_of_Mexico" title="Gulf of Mexico">Gulf of Mexico</a>, notably during <a href="/wiki/Florida" title="Florida">Florida</a>'s <a href="/wiki/Great_Blizzard_of_1899" title="Great Blizzard of 1899">Great Blizzard of 1899</a>. Another extreme occurrence of "ocean effect" snow occurred on January 24, 2003, when wind off the Atlantic, combined with air temperatures in the 20 °F (−7 °C), brought snow flurries to the Atlantic coast of <a href="/wiki/Florida" title="Florida">Florida</a> as far south as <a href="/wiki/Cape_Canaveral" title="Cape Canaveral">Cape Canaveral</a>.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<h2><span class="mw-headline" id="Elsewhere_in_Canada">Elsewhere in Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=14" title="Edit section: Elsewhere in Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Lake_Winnipeg" title="Lake Winnipeg">Lake Winnipeg</a> and <a href="/wiki/Lake_Winnipegosis" title="Lake Winnipegosis">Lake Winnipegosis</a> in <a href="/wiki/Manitoba" title="Manitoba">Manitoba</a> historically have seen lake-effect snow as early as late October, and it is common throughout early to mid November. Towards the end of November the lakes sufficiently cool and begin to freeze ending the lake effect snow. A brief period of lake-effect snow is also common near <a href="/wiki/Great_Bear_Lake" title="Great Bear Lake">Great Bear Lake</a> and <a href="/wiki/Great_Slave_Lake" title="Great Slave Lake">Great Slave Lake</a> in the <a href="/wiki/Northwest_Territories" title="Northwest Territories">Northwest Territories</a> during early winter (usually early to mid October); however the lake-effect season for both lakes is very short. The lakes are frozen roughly eight months of the year and as a result have very little time to warm during the summer months.</p>
+<p>Other small lakes such as <a href="/wiki/Lake_Athabasca" title="Lake Athabasca">Lake Athabasca</a> in northern <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a> and <a href="/wiki/Lake_Nipigon" title="Lake Nipigon">Lake Nipigon</a> in northwestern <a href="/wiki/Ontario" title="Ontario">Ontario</a> produce early season lake-effect snows. <a href="/wiki/Smallwood_Reservoir" title="Smallwood Reservoir">Smallwood Reservoir</a>, a man-made lake located in <a href="/wiki/Labrador" title="Labrador">Labrador</a> has on occasion generated lake-effect snow.</p>
+<p>The Canadian <a class="mw-redirect" href="/wiki/Maritimes" title="Maritimes">Maritimes</a>, specifically <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a> and <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a>, are often affected by such snow squalls when an Arctic winter airmass moves over unfrozen waters. In PEI, sea-effect snow is often generated when a cold north wind blows over the unfrozen <a class="mw-redirect" href="/wiki/Gulf_of_St._Lawrence" title="Gulf of St. Lawrence">Gulf of St. Lawrence</a>, dumping heavy snow on the north shore. In Nova Scotia, a cold north-west wind can produce sea-effect snow over the <a href="/wiki/Cape_Breton_Highlands" title="Cape Breton Highlands">Cape Breton Highlands</a> from the Gulf of St. Lawrence, and the <a href="/wiki/Annapolis_Valley" title="Annapolis Valley">Annapolis Valley</a> from the <a href="/wiki/Bay_of_Fundy" title="Bay of Fundy">Bay of Fundy</a>; in the latter case, the sea-effect snow season can continue all winter as the Bay of Fundy remains open owing to its extreme tidal currents.</p>
+<h2><span class="mw-headline" id="Eurasia">Eurasia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=15" title="Edit section: Eurasia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snow-chart.png"><img alt="" class="thumbimage" data-file-height="568" data-file-width="595" height="210" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/Snow-chart.png/220px-Snow-chart.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/Snow-chart.png/330px-Snow-chart.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/Snow-chart.png/440px-Snow-chart.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snow-chart.png" title="Enlarge"></a></div>
+Chart showing the sea effect snow event of January 1987 in the UK. A continuous stream of showers deposited over 1 foot (30 cm) of snow over SE coastal regions.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lakeeffect.png"><img alt="" class="thumbimage" data-file-height="650" data-file-width="759" height="188" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c2/Lakeeffect.png/220px-Lakeeffect.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c2/Lakeeffect.png/330px-Lakeeffect.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c2/Lakeeffect.png/440px-Lakeeffect.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lakeeffect.png" title="Enlarge"></a></div>
+NetWeather<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> radar image showing "lake-effect" snow over <a href="/wiki/Kent" title="Kent">Kent</a> and northeast England.</div>
+</div>
+</div>
+<p>Lake-effect or sea-effect snow occurs in other countries, near large lakes or large sea areas. In <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a>, it occurs in the regions of the <a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a> in <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a> and <a href="/wiki/Turkey" title="Turkey">Turkey</a>, the <a href="/wiki/Adriatic_Sea" title="Adriatic Sea">Adriatic Sea</a> in <a href="/wiki/Italy" title="Italy">Italy</a>, the <a href="/wiki/North_Sea" title="North Sea">North Sea</a>, the <a href="/wiki/Aegean_Sea" title="Aegean Sea">Aegean Sea</a>, the <a href="/wiki/Balearic_Islands" title="Balearic Islands">Balearic Islands</a>, the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> as well as areas surrounding the <a href="/wiki/Sea_of_Japan" title="Sea of Japan">Sea of Japan</a>.</p>
+<p>Because the southern Black Sea is relatively warm (around 13 °C or 55 °F at the beginning of winter, typically 10 to 6 °C or 50 to 43 °F by the end), sufficiently cold air aloft can create significant snowfalls in a relatively short period of time. Due to its location on a peninsula between the Black Sea and the <a href="/wiki/Sea_of_Marmara" title="Sea of Marmara">Sea of Marmara</a>, <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a> is very prone to lake-effect snow and this weather phenomenon occurs almost every winter. This type of precipitation is generated by the warmer Black Sea temperature and colder air temperature, over the Istanbul area. In February 2005, a lake-effect snowfall left 50 centimeters (20 in) of snow, and in March 1987, a three-week-long lake-effect snowfall accompanied with strong winds (lake-effect blizzard) left 80 centimeters (31 in) of snow in Istanbul.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> The snowfall in the eastern regions of the Black Sea is amplified by the orographic effect of the nearby <a href="/wiki/Caucasus_Mountains" title="Caucasus Mountains">Caucasus Mountains</a>, often resulting in snowfall of several meters, especially at higher elevations.</p>
+<p>In <a href="/wiki/Northern_Europe" title="Northern Europe">Northern Europe</a>, cold, dry air masses from <a href="/wiki/Russia" title="Russia">Russia</a> can blow over the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> and cause heavy snow squalls on areas of the southern and eastern coasts of <a href="/wiki/Sweden" title="Sweden">Sweden</a>, as well as on the Danish island of <a href="/wiki/Bornholm" title="Bornholm">Bornholm</a> and the east coast of <a href="/wiki/Jutland" title="Jutland">Jutland</a>.</p>
+<p>In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, easterly winds bringing cold continental air across the <a href="/wiki/North_Sea" title="North Sea">North Sea</a> can lead to a similar phenomenon. Locally it is also known as "lake-effect snow" despite the snow coming in from the sea rather than a lake.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> Similarly during a north-westerly wind, snow showers can form coming in from the <a href="/wiki/Liverpool_Bay" title="Liverpool Bay">Liverpool Bay</a>, coming down the <a href="/wiki/Cheshire_Plain" title="Cheshire Plain">Cheshire gap</a>, causing snowfall in the <a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands</a>—this formation resulted in the white Christmas of 2004, in the area. A similar phenomenon can affect the city of <a href="/wiki/Inverness" title="Inverness">Inverness</a> in the <a href="/wiki/Scottish_Highlands" title="Scottish Highlands">Scottish Highlands</a>, where cold north east winds cause heavy snow to form in the <a href="/wiki/Moray_Firth" title="Moray Firth">Moray Firth</a>; this was the case with the White Hogmanay of 2009, which caused the street party to be canceled. Northerly and north-westerly winds can cause the effect to occur over the <a href="/wiki/Irish_Sea" title="Irish Sea">Irish Sea</a> and <a href="/wiki/Bristol_Channel" title="Bristol Channel">Bristol Channel</a> feeding snow into <a class="mw-redirect" href="/wiki/South-west_England" title="South-west England">south-west England</a> and Eastern Ireland. Western Scotland and the north of Ireland can also see snow showers from a north or north-westerly wind over the Atlantic.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a class="image" href="/wiki/File:Caspiansatelliteimage.jpg"><img alt="" class="thumbimage" data-file-height="2600" data-file-width="2300" height="198" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caspiansatelliteimage.jpg/175px-Caspiansatelliteimage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caspiansatelliteimage.jpg/263px-Caspiansatelliteimage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caspiansatelliteimage.jpg/350px-Caspiansatelliteimage.jpg 2x" width="175"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Caspiansatelliteimage.jpg" title="Enlarge"></a></div>
+Lake effect clouds over <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a> on Jan 07 2008</div>
+</div>
+</div>
+<p>Since the North Sea is relatively warm (around 13 °C or 55.4 °F at the beginning of winter, typically 10 to 6 °C or 50 to 43 °F by the end), sufficiently cold air aloft can create significant snowfalls in a relatively short period of time. The best-known example occurred in <a class="mw-redirect" href="/wiki/January_1987_South-East_England_snowfall" title="January 1987 South-East England snowfall">January 1987</a>, when record-breaking cold air (associated with an upper low) moved across the North Sea towards the UK. The end result was over a foot of snow for coastal areas, leading to communities being cut off for over a week. In recent years, lake-effect snow has been much lighter.</p>
+<p>Similarly, northern winds blowing across the relatively warm waters of the English Channel during cold spells can bring significant snowfall to the French region of Normandy, where snow drifts exceeding ten feet (3 m) were measured in March 2013.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup></p>
+<p>The Sea of Japan creates snowfall in the mountainous western Japanese prefectures of Niigata and Nagano, parts of which are known collectively as <a href="/wiki/Snow_country_(Japan)" title="Snow country (Japan)">Snow country</a> ("Yukiguni"). In addition to the Sea of Japan, other parts of Japan, as well as Korea and Scandinavia, experience these same conditions.</p>
+<p>Because the Aegean Sea (<a href="/wiki/Greece" title="Greece">Greece</a>), is warm in the winter, when cold air masses from Siberia advance in the area, they pick up lots of moisture, resulting in heavy snowfalls in eastern <a href="/wiki/Central_Greece" title="Central Greece">Central Greece</a>, eastern <a href="/wiki/Thessaly" title="Thessaly">Thessaly</a>, eastern <a href="/wiki/Peloponnese" title="Peloponnese">Peloponnese</a>, south-eastern <a href="/wiki/Chalkidiki" title="Chalkidiki">Chalkidiki</a>, the <a href="/wiki/Cyclades" title="Cyclades">Cyclades</a> and <a href="/wiki/Crete" title="Crete">Crete</a> (more commonly in the mountainous areas). In 2008 a severe snowstorm blanketed <a href="/wiki/Athens" title="Athens">Athens</a> dropping 40cm of snow and causing huge traffic jams.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a class="image" href="/wiki/File:Caspian-lake-effect.gif"><img alt="" class="thumbimage" data-file-height="445" data-file-width="679" height="115" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caspian-lake-effect.gif/175px-Caspian-lake-effect.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caspian-lake-effect.gif/263px-Caspian-lake-effect.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caspian-lake-effect.gif/350px-Caspian-lake-effect.gif 2x" width="175"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Caspian-lake-effect.gif" title="Enlarge"></a></div>
+IRIMO<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> Radar animation of lake effect snow in southern coast of Caspian Sea in the north of Iran</div>
+</div>
+</div>
+<p>Moving of polar or Siberian high pressure centers along <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a> regarding to relatively warmer water of this sea can make heavy snowfalls in the northern coast of <a href="/wiki/Iran" title="Iran">Iran</a>. Several blizzards have been reported in this region during the last decades. in Feb 2014 heavy snowfall reached two meters in the coast line in <a href="/wiki/Gilan_Province" title="Gilan Province">Gilan</a> and <a href="/wiki/Mazandaran_Province" title="Mazandaran Province">Mazandaran</a> provinces of Iran. The heaviest snowfall was reported in <a href="/wiki/Abkenar,_Gilan" title="Abkenar, Gilan">Abkenar village</a> near <a href="/wiki/Anzali_Lagoon" title="Anzali Lagoon">Anzali Lagoon</a> <sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup><sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup><sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup><sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Horizontal_convective_rolls" title="Horizontal convective rolls">Horizontal convective rolls</a></li>
+<li><a href="/wiki/OWLeS" title="OWLeS">Ontario Winter Lake effect Systems (OWLeS)</a></li>
+<li><a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">Planetary boundary layer</a></li>
+<li><a href="/wiki/Sea_smoke" title="Sea smoke">Sea smoke</a></li>
+</ul>
+<p>Warnings about lake-effect snow:</p>
+<dl>
+<dd><b>United States</b>:
+<dl>
+<dd>
+<ul>
+<li><a href="/wiki/Lake_effect_snow_advisory" title="Lake effect snow advisory">Lake effect snow advisory</a></li>
+<li><a href="/wiki/Lake_effect_snow_watch" title="Lake effect snow watch">Lake effect snow watch</a></li>
+<li><a href="/wiki/Lake_effect_snow_warning" title="Lake effect snow warning">Lake effect snow warning</a></li>
+<li><a href="/wiki/Severe_weather_terminology_(United_States)" title="Severe weather terminology (United States)">Severe weather terminology (United States)</a></li>
+</ul>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd><b>Canada</b>:
+<dl>
+<dd>
+<ul>
+<li><a href="/wiki/Snowsquall_warning" title="Snowsquall warning">Snowsquall warning</a></li>
+<li><a href="/wiki/Severe_weather_terminology_(Canada)" title="Severe weather terminology (Canada)">Severe weather terminology (Canada)</a></li>
+</ul>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.noaa.gov/features/02_monitoring/lakesnow.html" rel="nofollow">"NOAA – National Oceanic and Atmospheric Administration – Monitoring &amp; Understanding Our Changing Planet"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=NOAA+%E2%80%93+National+Oceanic+and+Atmospheric+Administration+%E2%80%93+Monitoring+%26+Understanding+Our+Changing+Planet&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.noaa.gov%2Ffeatures%2F02_monitoring%2Flakesnow.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.nws.noaa.gov/directives/sym/pd01005013curr.pdf" rel="nofollow">http://www.nws.noaa.gov/directives/sym/pd01005013curr.pdf</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090617013142/http://www.comet.ucar.edu/class/smfaculty/byrd/sld010.htm" rel="nofollow">"Instability"</a>. Archived from <a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld010.htm" rel="nofollow">the original</a> on 2009-06-17.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Instability&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld010.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld012.htm" rel="nofollow">"Fetch"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Fetch&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld012.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Wind_Shear-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wind_Shear_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wind_Shear_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld014.htm" rel="nofollow">"Wind Shear"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Wind+Shear&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld014.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld015.htm" rel="nofollow">"Upstream Moisture"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Upstream+Moisture&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld015.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld016.htm" rel="nofollow">"Upstream Lakes"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Upstream+Lakes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld016.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld019.htm" rel="nofollow">"Synoptic-Scale Forcing"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Synoptic-Scale+Forcing&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld019.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld021.htm" rel="nofollow">"Orography/Topography"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Orography%2FTopography&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld021.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld022.htm" rel="nofollow">"Snow/Ice Cover on the Great Lakes"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Snow%2FIce+Cover+on+the+Great+Lakes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld022.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.wunderground.com/health/mood.asp" rel="nofollow">"Oops! There's been an error. – Weather Underground"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Oops%21+There%27s+been+an+error.+%E2%80%93+Weather+Underground&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wunderground.com%2Fhealth%2Fmood.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.climatesource.com/us/fact_sheets/fact_snowfall_us.html" rel="nofollow">"Mean Monthly and Annual Snowfall for the Conterminous United States"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Mean+Monthly+and+Annual+Snowfall+for+the+Conterminous+United+States&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.climatesource.com%2Fus%2Ffact_sheets%2Ffact_snowfall_us.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NAME-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-NAME_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Northern Forest Alliance. <a class="external text" href="https://web.archive.org/web/20080509164303/http://www.northernforestalliance.org/explore/wildlands/tughill/TUGindex.htm" rel="nofollow">"Tug Hill Plateau – New York"</a>. <i>www.northernforestalliance.org</i>. Archived from <a class="external text" href="http://www.northernforestalliance.org/explore/wildlands/tughill/TUGindex.htm" rel="nofollow">the original</a> on May 9, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">February 1,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.atitle=Tug+Hill+Plateau+%E2%80%93+New+York&amp;rft.au=Northern+Forest+Alliance&amp;rft.genre=unknown&amp;rft.jtitle=www.northernforestalliance.org&amp;rft_id=http%3A%2F%2Fwww.northernforestalliance.org%2Fexplore%2Fwildlands%2Ftughill%2FTUGindex.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">National Climatic Data Center</a>. <a class="external text" href="http://www.ncdc.noaa.gov/oa/climate/research/2007/feb/feb07.html" rel="nofollow">Climate of 2007 – February in Historical Perspective</a>. Retrieved on 2008-03-01.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Cappella, Chris: "<a class="external text" href="http://www.usatoday.com/weather/resources/askjack/2003-10-01-snowiest-cities_x.htm" rel="nofollow">Answers: 10 snowiest 'cities' aren't all in New York</a>", <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>, 3 October 2003</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Kirst, Sean: "We won't buckle under the Snowbelt's blows", <i><a class="mw-redirect" href="/wiki/Post-Standard" title="Post-Standard">Post-Standard</a></i>, 14 March 2005</span></li>
+<li id="cite_note-SCHMID-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-SCHMID_17-0">^</a></b></span> <span class="reference-text">Thomas W. Schmidlin. <a class="external text" href="https://kb.osu.edu/dspace/bitstream/1811/23329/1/V089N4_101.pdf" rel="nofollow">Climatic Summary of Snowfall and Snow Depth in the Ohio Snowbelt at Chardon.</a> Retrieved on 2008-03-01.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Northeast Regional Climate Center. <a class="external text" href="http://www.nrcc.cornell.edu/climate/Impacts_02-95.html" rel="nofollow">February Brings Winter Weather to the Northeast.</a> <a class="external text" href="https://web.archive.org/web/20070611035114/http://www.nrcc.cornell.edu/climate/Impacts_02-95.html" rel="nofollow">Archived</a> 2007-06-11 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 2008-03-01.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Great Lakes Information Network. <a class="external text" href="http://www.great-lakes.net/teach/geog/intro/intro_6.html" rel="nofollow">6 | Introduction to the Great Lakes.</a> Retrieved on 2008-03-01.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Adam W. Burnett, Matthew E. Kirby, Henry T. Mullins, and William P. Patterson, 2003: Increasing Great Lake–Effect Snowfall during the Twentieth Century: A Regional Response to Global Warming?. Journal of Climate, 16, 3535–3542.<a class="external autonumber" href="http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2003)016%3C3535:IGLSDT%3E2.0.CO;2" rel="nofollow">[1]</a>.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Robert J. Ruhf. <a class="external text" href="http://www.x98ruhf.net/lake_effect.htm" rel="nofollow">Lake-Effect Precipitation in Michigan.</a> Retrieved on 2008-03-01.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="/wiki/University_of_Utah" title="University of Utah">University of Utah</a> Department of Meteorology. <a class="external text" href="http://www.met.utah.edu/jhorel/html/wx/climate/normsnow.html" rel="nofollow">Average Snowfall, Inches.</a> <a class="external text" href="https://web.archive.org/web/20080328140436/http://www.met.utah.edu/jhorel/html/wx/climate/normsnow.html" rel="nofollow">Archived</a> 2008-03-28 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 2008-03-01.</span></li>
+<li id="cite_note-glisa.umich.edu-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-glisa.umich.edu_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-glisa.umich.edu_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20140413141621/http://glisa.umich.edu/resources/lake-effect-snow-great-lakes-region" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://glisa.umich.edu/resources/lake-effect-snow-great-lakes-region" rel="nofollow">the original</a> on 2014-04-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fglisa.umich.edu%2Fresources%2Flake-effect-snow-great-lakes-region&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.sciences360.com/index.php/how-lakes-affect-snowfalls-lake-effect-snow-7263/" rel="nofollow">http://www.sciences360.com/index.php/how-lakes-affect-snowfalls-lake-effect-snow-7263/</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a class="external text" href="http://deseretnews.com/misc/gsl/105002200.htm" rel="nofollow">"Lake has great impacts on storm, weather"</a>. <i><a class="mw-redirect" href="/wiki/Deseret_Morning_News" title="Deseret Morning News">Deseret Morning News</a></i>, August 5, 1999. <a class="external text" href="https://web.archive.org/web/20121002201320/http://deseretnews.com/misc/gsl/105002200.htm" rel="nofollow">Archived</a> October 2, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.wtok.com/content/news/Tuesday-December-20-Afternoon-Forecast-Discussion-407646085.html" rel="nofollow">http://www.wtok.com/content/news/Tuesday-December-20-Afternoon-Forecast-Discussion-407646085.html</a></span></li>
+<li id="cite_note-mass-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-mass_27-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Mass, Cliff (2008). <i>The Weather of the Pacific Northwest</i>. <a href="/wiki/University_of_Washington_Press" title="University of Washington Press">University of Washington Press</a>. p. 60. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-295-98847-4" title="Special:BookSources/978-0-295-98847-4">978-0-295-98847-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.aufirst=Cliff&amp;rft.aulast=Mass&amp;rft.btitle=The+Weather+of+the+Pacific+Northwest&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-295-98847-4&amp;rft.pages=60&amp;rft.pub=University+of+Washington+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> Office, Melbourne, Florida.<a class="external text" href="http://www.srh.noaa.gov/mlb/?n=012403" rel="nofollow">Cold Temperatures and Snow Flurries in</a> East-Central Florida January 24, 2003. Retrieved on 2006-11-05.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.netweather.tv" rel="nofollow">"Weather Forecasts, News &amp; More – Netweather.tv"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Weather+Forecasts%2C+News+%26+More+%E2%80%93+Netweather.tv&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.netweather.tv&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a class="external text" href="http://meetings.copernicus.org/www.cosis.net/abstracts/EGU06/05142/EGU06-J-05142.pdf" rel="nofollow">The Black Sea impact on the severe snow episode over the city of Istanbul</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">USW archives <a class="external autonumber" href="https://groups.google.com/forum/?hl=en#!searchin/uk.sci.weather/%22lake$20effect$20snow%22$20%22north$20sea%22" rel="nofollow">[2]</a> Retrieved on 2007-08-03.</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.76actu.fr/neige-le-mois-de-mars-de-tous-les-records-en-normandie_28850/" rel="nofollow">"Rouen. Neige. Le mois de mars de tous les records en Normandie « Article « Normandie-actu"</a>. <i>Normandie-actu</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.atitle=Rouen.+Neige.+Le+mois+de+mars+de+tous+les+records+en+Normandie+%C2%AB+Article+%C2%AB+Normandie-actu&amp;rft.genre=unknown&amp;rft.jtitle=Normandie-actu&amp;rft_id=http%3A%2F%2Fwww.76actu.fr%2Fneige-le-mois-de-mars-de-tous-les-records-en-normandie_28850%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.irimo.ir" rel="nofollow">"سازمان هواشناسی :: Weather ::"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86+%D9%87%D9%88%D8%A7%D8%B4%D9%86%D8%A7%D8%B3%DB%8C+%3A%3A+Weather+%3A%3A&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.irimo.ir&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://earthobservatory.nasa.gov/NaturalHazards/view.php?id=83110&amp;eocn=home&amp;eoci=nh" rel="nofollow">"Snow Blankets Iran : Natural Hazards"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Snow+Blankets+Iran+%3A+Natural+Hazards&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FNaturalHazards%2Fview.php%3Fid%3D83110%26eocn%3Dhome%26eoci%3Dnh&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.bbc.co.uk/news/world-middle-east-26024415" rel="nofollow">"BBC News – Iran snow cuts power to nearly 500,000 homes"</a>. <i>BBC News</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.atitle=BBC+News+%E2%80%93+Iran+snow+cuts+power+to+nearly+500%2C000+homes&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-middle-east-26024415&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://news.nationalgeographic.com/news/2008/01/photogalleries/snow-pictures/" rel="nofollow">"Heavy Snow Kills Dozens in Asia"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.btitle=Heavy+Snow+Kills+Dozens+in+Asia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.nationalgeographic.com%2Fnews%2F2008%2F01%2Fphotogalleries%2Fsnow-pictures%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://observers.france24.com/content/20140214-iranians-facebook-save-villagers-snowstorm" rel="nofollow">"Iranians use Facebook to save villagers from snowstorm"</a>. <i>The Observers</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake-effect+snow&amp;rft.atitle=Iranians+use+Facebook+to+save+villagers+from+snowstorm&amp;rft.genre=unknown&amp;rft.jtitle=The+Observers&amp;rft_id=http%3A%2F%2Fobservers.france24.com%2Fcontent%2F20140214-iranians-facebook-save-villagers-snowstorm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake-effect_snow&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Lake_effect_snow" title="commons:Lake effect snow">Lake effect snow</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.weather.gov/buf/lakeeffect" rel="nofollow">National Weather Service Official Lake Effect Page</a>—Based in Buffalo, NY</li>
+<li><a class="external text" href="http://www.theweatherprediction.com/winterwx/lesnow/" rel="nofollow">Lake effect forecasting</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=KSLoIY3bCv8" rel="nofollow">Video of a snowsquall timelapse while driving on Highway 407 ETR in Greater Toronto</a></li>
+<li><a class="external text" href="http://wintercenter.homestead.com/photoles2001a.html" rel="nofollow">Digital Snow Museum</a></li>
+<li><a class="external text" href="http://www.glerl.noaa.gov/data/pgs/ice.html" rel="nofollow">Ice and snow measurements on lakes and surrounding land areas</a>, <a href="/wiki/Great_Lakes_Environmental_Research_Laboratory" title="Great Lakes Environmental Research Laboratory">Great Lakes Environmental Research Laboratory</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=Hd6DuebHliY" rel="nofollow">A BBC forecast of lake effect snow in the UK in 1991</a></li>
+</ul>
+<div aria-labelledby="Severe_weather_terminology_in_the_United_States" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Severe_weather_terminology_(United_States)_navbox" title="Template:Severe weather terminology (United States) navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Severe_weather_terminology_(United_States)_navbox" title="Template talk:Severe weather terminology (United States) navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Severe_weather_terminology_(United_States)_navbox&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Severe_weather_terminology_in_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Severe_weather_terminology_(United_States)" title="Severe weather terminology (United States)">Severe weather terminology in the United States</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Severe<br/>
+storms</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Thunderstorm</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Significant_weather_advisory" title="Significant weather advisory">Advisory</a></li>
+<li><a href="/wiki/Severe_thunderstorm_watch" title="Severe thunderstorm watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Severe_thunderstorm_warning" title="Severe thunderstorm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Tornado" title="Tornado">Tornado</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tornado_watch" title="Tornado watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Tornado_warning" title="Tornado warning">Warning</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Warning</a></li>
+<li><a href="/wiki/Tornado_emergency" title="Tornado emergency">Emergency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Marine thunderstorm</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Special_marine_warning" title="Special marine warning">Special marine warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Winter<br/>
+weather</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Advisories</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winter_weather_advisory" title="Winter weather advisory">Winter weather advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Winter_storm" title="Winter storm">Winter storm</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winter_storm_watch" title="Winter storm watch">Watch</a></li>
+<li><a href="/wiki/Winter_storm_warning" title="Winter storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Blizzard" title="Blizzard">Blizzard/Blowing snow</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blowing_snow_advisory" title="Blowing snow advisory">Blowing snow advisory</a></li>
+<li><a href="/wiki/Blizzard_Watch" title="Blizzard Watch">Blizzard Watch</a></li>
+<li><a href="/wiki/Blizzard_Warning" title="Blizzard Warning">Blizzard Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Heavy snow</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heavy_snow_warning" title="Heavy snow warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-selflink selflink">Lake-effect snow</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lake_effect_snow_advisory" title="Lake effect snow advisory">Advisory</a></li>
+<li><a href="/wiki/Lake_effect_snow_watch" title="Lake effect snow watch">Watch</a></li>
+<li><a href="/wiki/Lake_effect_snow_warning" title="Lake effect snow warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Ice_storm" title="Ice storm">Ice</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freezing_rain_advisory" title="Freezing rain advisory">Freezing rain advisory</a></li>
+<li><a href="/wiki/Ice_storm_warning" title="Ice storm warning">Ice storm warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Tropical_cyclone_warnings_and_watches" title="Tropical cyclone warnings and watches">Tropical<br/>
+cyclones</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Tropical_storms" title="Tropical storms">Tropical storms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Tropical_storm_watch" title="Tropical storm watch">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Tropical_storm_warning" title="Tropical storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Hurricanes" title="Hurricanes">Hurricanes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Hurricane_Watch" title="Hurricane Watch">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Hurricane_warning" title="Hurricane warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Inland_advisories" title="Inland advisories">Inland advisories</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Inland_Tropical_Storm_Watch" title="Inland Tropical Storm Watch">Inland Tropical Storm Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Tropical_Storm_Warning" title="Inland Tropical Storm Warning">Inland Tropical Storm Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Hurricane_Watch" title="Inland Hurricane Watch">Inland Hurricane Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Hurricane_Warning" title="Inland Hurricane Warning">Inland Hurricane Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Hurricane_Local_Statement" title="Hurricane Local Statement">Hurricane Local Statement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Flood" title="Flood">Flood</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Flood" title="Flood">Flood</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Flood_watch" title="Flood watch">Watch</a></li>
+<li><a href="/wiki/Flood_warning" title="Flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Flash_flood" title="Flash flood">Flash flood</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flash_flood_watch" title="Flash flood watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Flash_flood_warning" title="Flash flood warning">Warning</a></li>
+<li><a href="/wiki/Flash_flood_warning" title="Flash flood warning">Emergency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Coastal_flood" title="Coastal flood">Coastal flood</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coastal_flood_advisory" title="Coastal flood advisory">Advisory</a></li>
+<li><a href="/wiki/Coastal_flood_watch" title="Coastal flood watch">Watch</a></li>
+<li><a href="/wiki/Coastal_flood_warning" title="Coastal flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Lakeshore flood</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_advisory&amp;action=edit&amp;redlink=1" title="Lakeshore flood advisory (page does not exist)">Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_watch&amp;action=edit&amp;redlink=1" title="Lakeshore flood watch (page does not exist)">Watch</a></li>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_warning&amp;action=edit&amp;redlink=1" title="Lakeshore flood warning (page does not exist)">Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Seiche_Warning" title="Seiche Warning">Seiche Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">River flood</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/River_flood_advisory" title="River flood advisory">Advisory</a></li>
+<li><a href="/wiki/River_flood_watch" title="River flood watch">Watch</a></li>
+<li><a href="/wiki/River_flood_warning" title="River flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Urban and small stream flood</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Urban_and_small_stream_flood_advisory" title="Urban and small stream flood advisory">Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Apparent_temperature" title="Apparent temperature">Apparent<br/>
+temperature</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Heat_index" title="Heat index">Heat index</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heat_advisory" title="Heat advisory">Heat advisory</a></li>
+<li><a href="/wiki/Excessive_heat_watch" title="Excessive heat watch">Excessive heat watch</a></li>
+<li><a href="/wiki/Excessive_heat_warning" title="Excessive heat warning">Excessive heat warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind_chill_advisory" title="Wind chill advisory">Advisory</a></li>
+<li><a href="/wiki/Wind_chill_watch" title="Wind chill watch">Watch</a></li>
+<li><a href="/wiki/Wind_chill_warning" title="Wind chill warning">Warning</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Extreme cold</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Extreme_cold_watch&amp;action=edit&amp;redlink=1" title="Extreme cold watch (page does not exist)">Watch</a></li>
+<li><a href="/wiki/Extreme_cold_warning" title="Extreme cold warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Freeze</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Freeze_Watch&amp;action=edit&amp;redlink=1" title="Freeze Watch (page does not exist)">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Freeze_Warning" title="Freeze Warning">Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Hard_Freeze_Warning" title="Hard Freeze Warning">Hard Freeze Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Frost_Advisory" title="Frost Advisory">Frost Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Maritime<br/>
+and<br/>
+coastal<br/>
+weather</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Marine winds</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Small_craft_advisory" title="Small craft advisory">Small craft advisory</a></li>
+<li><a class="mw-redirect" href="/wiki/Brisk_wind_advisory" title="Brisk wind advisory">Brisk wind advisory</a></li>
+<li><a href="/wiki/Lake_Wind_Advisory" title="Lake Wind Advisory">Lake Wind Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Gale" title="Gale">Gale</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gale_watch" title="Gale watch">Watch</a></li>
+<li><a href="/wiki/Gale_warning" title="Gale warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Storm</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Storm_watch" title="Storm watch">Watch</a></li>
+<li><a href="/wiki/Storm_warning" title="Storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Hurricane-force wind</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Hurricane_force_wind_watch&amp;action=edit&amp;redlink=1" title="Hurricane force wind watch (page does not exist)">Watch</a></li>
+<li><a href="/wiki/Hurricane_force_wind_warning" title="Hurricane force wind warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Hazardous seas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hazardous_seas_watch" title="Hazardous seas watch">Watch</a></li>
+<li><a href="/wiki/Hazardous_seas_warning" title="Hazardous seas warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Freezing spray</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freezing_spray_advisory" title="Freezing spray advisory">Freezing spray advisory</a></li>
+<li><a href="/wiki/Heavy_freezing_spray_watch" title="Heavy freezing spray watch">Heavy freezing spray watch</a></li>
+<li><a href="/wiki/Heavy_freezing_spray_warning" title="Heavy freezing spray warning">Heavy freezing spray warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">High surf</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=High_surf_advisory&amp;action=edit&amp;redlink=1" title="High surf advisory (page does not exist)">Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=High_surf_warning&amp;action=edit&amp;redlink=1" title="High surf warning (page does not exist)">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Marine_weather_statement" title="Marine weather statement">Marine weather statement</a></li>
+<li><a href="/wiki/Rip_current_statement" title="Rip current statement">Rip current statement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Wind</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Advisory-force winds</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Wind_Advisory" title="Wind Advisory">Wind Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Gale" title="Gale">Gale</a>-force winds</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/High_wind_watch" title="High wind watch">High wind watch</a></li>
+<li><a class="mw-redirect" href="/wiki/High_wind_warning" title="High wind warning">High wind warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Major hurricane-force winds</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extreme_wind_warning" title="Extreme wind warning">Extreme wind warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Particulates" title="Particulates">Airborne<br/>
+particulates</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Dust/sand</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Blowing_Dust_Advisory&amp;action=edit&amp;redlink=1" title="Blowing Dust Advisory (page does not exist)">Blowing Dust Advisory</a></li>
+<li><a href="/wiki/Dust_Storm_Warning" title="Dust Storm Warning">Dust Storm Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Fog" title="Fog">Fog</a>/<a href="/wiki/Smoke" title="Smoke">Smoke</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Dense_Fog_Advisory" title="Dense Fog Advisory">Dense Fog Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=Dense_Smoke_Advisory&amp;action=edit&amp;redlink=1" title="Dense Smoke Advisory (page does not exist)">Dense Smoke Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Volcanic_ash" title="Volcanic ash">Ash</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Ashfall_Advisory&amp;action=edit&amp;redlink=1" title="Ashfall Advisory (page does not exist)">Ashfall Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Air_pollution" title="Air pollution">Air pollution</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Air_Stagnation_Advisory" title="Air Stagnation Advisory">Air Stagnation Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Wildfire" title="Wildfire">Fire</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Fire_weather_watch&amp;action=edit&amp;redlink=1" title="Fire weather watch (page does not exist)">Fire weather watch</a></li>
+<li><a href="/wiki/Red_flag_warning" title="Red flag warning">Red flag warning</a></li>
+<li><a href="/wiki/Fire_warning" title="Fire warning">Fire warning</a></li>
+<li><a href="/wiki/Evacuation_Immediate" title="Evacuation Immediate">Evacuation Immediate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a class="mw-redirect" href="/wiki/Aviation_meteorology" title="Aviation meteorology">Aviation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Center_Weather_Advisory&amp;action=edit&amp;redlink=1" title="Center Weather Advisory (page does not exist)">Center Weather Advisory</a></li>
+<li><a href="/wiki/SIGMET" title="SIGMET">SIGMET</a></li>
+<li><a href="/wiki/Volcanic_Ash_Advisory_Center#Alerts" title="Volcanic Ash Advisory Center">Volcanic Ash Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Weather scales<br/>
+used by NWS</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort</a> (wind)</li>
+<li><a href="/wiki/Enhanced_Fujita_scale" title="Enhanced Fujita scale">Enhanced Fujita</a> (tornadoes)</li>
+<li><a href="/wiki/Saffir%E2%80%93Simpson_scale" title="Saffir–Simpson scale">Saffir–Simpson scale</a> (tropical cyclones)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Special_weather_statement" title="Special weather statement">Special weather statement</a></li>
+<li><a class="mw-redirect" href="/wiki/Severe_weather_statement" title="Severe weather statement">Severe weather statement</a></li>
+<li><a href="/wiki/Hazardous_weather_outlook" title="Hazardous weather outlook">Hazardous weather outlook</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1209
+Cached time: 20171029180352
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.528 seconds
+Real time usage: 0.631 seconds
+Preprocessor visited node count: 2358/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 123126/2097152 bytes
+Template argument size: 7235/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.237/10.000 seconds
+Lua memory usage: 7.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  468.997      1 -total
+ 36.72%  172.211      1 Template:Reflist
+ 24.02%  112.661     20 Template:Cite_web
+ 20.24%   94.941     37 Template:Convert
+ 13.01%   61.026      9 Template:Navbox
+ 10.80%   50.658      1 Template:Citation_needed
+  9.36%   43.900      1 Template:Fix
+  8.89%   41.714      1 Template:Severe_weather_terminology_(United_States)_navbox
+  6.81%   31.923      1 Template:Stack
+  5.90%   27.689      1 Template:Weather
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43864-0!canonical and timestamp 20171029180351 and revision id 797015750
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lake-effect_snow&amp;oldid=797015750">https://en.wikipedia.org/w/index.php?title=Lake-effect_snow&amp;oldid=797015750</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_forcing_agents" title="Category:Climate forcing agents">Climate forcing agents</a></li><li><a href="/wiki/Category:Snow_or_ice_weather_phenomena" title="Category:Snow or ice weather phenomena">Snow or ice weather phenomena</a></li><li><a href="/wiki/Category:Upper_Peninsula_of_Michigan" title="Category:Upper Peninsula of Michigan">Upper Peninsula of Michigan</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2010" title="Category:Articles with unsourced statements from March 2010">Articles with unsourced statements from March 2010</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lake-effect+snow" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lake-effect+snow" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Lake-effect_snow" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Lake-effect_snow" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Lake-effect_snow">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Lake-effect_snow&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Lake-effect_snow&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Lake-effect_snow" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lake-effect_snow" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lake-effect_snow&amp;oldid=797015750" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lake-effect_snow&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1969483" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lake-effect_snow&amp;id=797015750" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lake-effect+snow">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lake-effect+snow&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Lake-effect_snow&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Lake_effect_snow" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sn%C4%9Bhov%C3%BD_efekt_vodn%C3%ADch_ploch" hreflang="cs" lang="cs" title="Sněhový efekt vodních ploch – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lake_Effect" hreflang="de" lang="de" title="Lake Effect – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Nevada_por_efecto_lacustre" hreflang="es" lang="es" title="Nevada por efecto lacustre – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%81_%D9%85%D8%AA%D8%A3%D8%AB%D8%B1_%D8%A7%D8%B2_%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87" hreflang="fa" lang="fa" title="برف متأثر از دریاچه – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Bourrasque_de_neige#Bourrasques_en_aval_de_plans_d.27eau" hreflang="fr" lang="fr" title="Bourrasque de neige – French">Français</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/J%C5%ABras_efekta_nokri%C5%A1%C5%86i" hreflang="lv" lang="lv" title="Jūras efekta nokrišņi – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Warmwatereffect" hreflang="nl" lang="nl" title="Warmwatereffect – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B9%96%E6%B0%B4%E5%8A%B9%E6%9E%9C%E9%9B%AA" hreflang="ja" lang="ja" title="湖水効果雪 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sj%C3%B8sn%C3%B8" hreflang="no" lang="no" title="Sjøsnø – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82_%D0%BE%D0%B7%D0%B5%D1%80%D0%B0" hreflang="ru" lang="ru" title="Снежный эффект озера – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Avoveden_vaikutus_lumisateeseen" hreflang="fi" lang="fi" title="Avoveden vaikutus lumisateeseen – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sn%C3%B6kanon_(v%C3%A4derfenomen)" hreflang="sv" lang="sv" title="Snökanon (väderfenomen) – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B9%96%E6%95%88%E6%87%89" hreflang="zh" lang="zh" title="大湖效應 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1969483#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 August 2017, at 12:40.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lake-effect_snow&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.631","ppvisitednodes":{"value":2358,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":123126,"limit":2097152},"templateargumentsize":{"value":7235,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  468.997      1 -total"," 36.72%  172.211      1 Template:Reflist"," 24.02%  112.661     20 Template:Cite_web"," 20.24%   94.941     37 Template:Convert"," 13.01%   61.026      9 Template:Navbox"," 10.80%   50.658      1 Template:Citation_needed","  9.36%   43.900      1 Template:Fix","  8.89%   41.714      1 Template:Severe_weather_terminology_(United_States)_navbox","  6.81%   31.923      1 Template:Stack","  5.90%   27.689      1 Template:Weather"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":8250492,"limit":52428800}},"cachereport":{"origin":"mw1209","timestamp":"20171029180352","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1185"});});</script>
+</body>
+</html>

@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Shovel - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shovel","wgTitle":"Shovel","wgCurRevisionId":803443813,"wgRevisionId":803443813,"wgArticleId":192438,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from November 2011","All articles needing additional references","Gardening tools","Shovels"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shovel","wgRelevantArticleId":192438,"wgRequestId":"WfveXQpAIDYAAFkEsl8AAABY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7220961","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg/1200px-Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Shovel" rel="alternate"/>
+<link href="/w/index.php?title=Shovel&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Shovel&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Shovel" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Shovel rootpage-Shovel vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Shovel</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Shovel_(disambiguation)" title="Shovel (disambiguation)">Shovel (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Shovel&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(November 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg"><img alt="" class="thumbimage" data-file-height="1375" data-file-width="2062" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg/200px-Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg/300px-Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg/400px-Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Unloading_flood_relief_supplies_at_Gilgit_Air_Base_2010-09-18_1.jpg" title="Enlarge"></a></div>
+A man carrying shovels</div>
+</div>
+</div>
+<p>A <b>shovel</b> is a <a href="/wiki/Tool" title="Tool">tool</a> for digging, lifting, and moving bulk materials, such as <a href="/wiki/Soil" title="Soil">soil</a>, <a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Gravel" title="Gravel">gravel</a>, <a href="/wiki/Snow" title="Snow">snow</a>, <a href="/wiki/Sand" title="Sand">sand</a>, or <a href="/wiki/Ore" title="Ore">ore</a>.</p>
+<p>Most shovels are <a href="/wiki/Hand_tool" title="Hand tool">hand tools</a> consisting of a broad blade fixed to a medium-length handle. Shovel blades are usually made of <a href="/wiki/Sheet_metal" title="Sheet metal">sheet steel</a> or hard plastics and are very strong. Shovel handles are usually made of wood (especially specific varieties such as <a href="/wiki/Fraxinus" title="Fraxinus">ash</a> or <a href="/wiki/Maple" title="Maple">maple</a>) or <a class="mw-redirect" href="/wiki/Glass-reinforced_plastic" title="Glass-reinforced plastic">glass-reinforced plastic</a> (fibreglass).</p>
+<p>Hand shovel blades made of sheet steel usually have a folded seam or hem at the back to make a socket for the handle. This fold also commonly provides extra rigidity to the blade. The handles are usually <a href="/wiki/Rivet" title="Rivet">riveted</a> in place. A T-piece is commonly fitted to the end of the handle to aid grip and control where the shovel is designed for moving soil and heavy materials. These designs can all be easily <a href="/wiki/Mass_production" title="Mass production">mass-produced</a>.</p>
+<p>The term <i>shovel</i> also applies to larger excavating machines called <a href="/wiki/Power_shovel" title="Power shovel">power shovels</a>, which serve the same purpose—digging, lifting, and moving material. Modern power shovels descend from <a href="/wiki/Steam_shovel" title="Steam shovel">steam shovels</a>. <a href="/wiki/Loader_(equipment)" title="Loader (equipment)">Loaders</a> and <a href="/wiki/Excavator" title="Excavator">excavators</a> (such as <a href="/wiki/Backhoe" title="Backhoe">backhoes</a>) perform similar work, <a class="mw-redirect" href="/wiki/Etic" title="Etic">etically</a> speaking, but are not classified as shovels <a class="mw-redirect" href="/wiki/Emic" title="Emic">emically</a>.</p>
+<p>Hand shovels have been adapted for many different tasks and environments. They can be optimized for a single task or designed as cross-over or compromise <a class="mw-redirect" href="/wiki/Multitasking" title="Multitasking">multitaskers</a>. It's very useful in agriculture. Examples are given under "<a href="#Types">Types</a>".</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types"><span class="tocnumber">1</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shovel&amp;action=edit&amp;section=1" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tr>
+<th class="unsortable">Image</th>
+<th>Name<br/>
+(and <a href="/wiki/Synonym" title="Synonym">synonyms</a><br/>
+if any)</th>
+<th class="unsortable">Description</th>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Shovel_black.jpg"><img alt="Shovel black.jpg" data-file-height="404" data-file-width="157" height="386" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Shovel_black.jpg/150px-Shovel_black.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/4/48/Shovel_black.jpg 1.5x" width="150"/></a></td>
+<td><b><a href="/wiki/Coal_shovel" title="Coal shovel">coal shovel</a></b></td>
+<td>Typically has a wide, flat blade with steeply turned sides, a flat face and a short D-shaped handle. Over the years, various sizes for different kinds or grades of <a href="/wiki/Coal" title="Coal">coal</a> have sometimes been used.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Shovelling_Snow,_USAF.jpg"><img alt="Shovelling Snow, USAF.jpg" data-file-height="1800" data-file-width="2400" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Shovelling_Snow%2C_USAF.jpg/150px-Shovelling_Snow%2C_USAF.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Shovelling_Snow%2C_USAF.jpg/225px-Shovelling_Snow%2C_USAF.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Shovelling_Snow%2C_USAF.jpg/300px-Shovelling_Snow%2C_USAF.jpg 2x" width="150"/></a></td>
+<td><b><a href="/wiki/Snow_shovel" title="Snow shovel">snow shovel</a></b></td>
+<td>Often has a very wide sideless blade that curves upward attached to a long handle. A variety of styles are available. Some are designed mostly for pushing the snow, others for lifting it. The blade can be metal or plastic, but the latter is used to offer a lighter tool. Some have one or more wheels.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Schneewanne01.jpg"><img alt="Schneewanne01.jpg" data-file-height="2576" data-file-width="1806" height="214" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Schneewanne01.jpg/150px-Schneewanne01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Schneewanne01.jpg/225px-Schneewanne01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Schneewanne01.jpg/300px-Schneewanne01.jpg 2x" width="150"/></a></td>
+<td><b><a class="new" href="/w/index.php?title=Snow_sled_shovel&amp;action=edit&amp;redlink=1" title="Snow sled shovel (page does not exist)">snow sled shovel</a></b><br/>
+<b>snow scoop</b><br/>
+<b>sleigh shovel</b></td>
+<td>large and deep hopper-like implement fitted with a wide handle and designed to scoop up a load of snow and slide it on any slippery surface to another location without lifting.</td>
+</tr>
+<tr>
+<td></td>
+<td><b>snow pusher</b></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><b>grain shovel</b><br/>
+<b>barn shovel</b></td>
+<td>Has a wide aluminium or plastic blade that is attached to a short hardwood handle with "D" top. This shovel has been designed to offer a lighter tool that does not damage the grain. Early models were made from timber.</td>
+</tr>
+<tr>
+<td></td>
+<td><b>spoon shovel</b></td>
+<td>A long handle with a small, oval, cupped, inclined blade at the end, used in excavating deep, narrow holes. Its name comes from its resemblance to a <a href="/wiki/Spoon" title="Spoon">spoon</a>.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Trowel.JPG"><img alt="Trowel.JPG" data-file-height="657" data-file-width="878" height="112" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Trowel.JPG/150px-Trowel.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Trowel.JPG/225px-Trowel.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Trowel.JPG/300px-Trowel.JPG 2x" width="150"/></a></td>
+<td><b>gardening trowel</b></td>
+<td>A <a href="/wiki/Trowel" title="Trowel">trowel</a> in general is a small, single-hand implement for digging, scooping, spreading, or otherwise manipulating dirt or other bulk materials (such as <a href="/wiki/Mortar_(masonry)" title="Mortar (masonry)">mortar</a>). In <a href="/wiki/Gardening" title="Gardening">gardening</a> and <a href="/wiki/Horticulture" title="Horticulture">horticulture</a>, they are useful in planting and potting for digging holes and breaking up clumps of soil. Gardening trowels typically have strong, narrow blades with sharp points. They are a [small] type of spade.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Roofing_felt.jpg"><img alt="Roofing felt.jpg" data-file-height="1500" data-file-width="2241" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Roofing_felt.jpg/150px-Roofing_felt.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Roofing_felt.jpg/225px-Roofing_felt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Roofing_felt.jpg/300px-Roofing_felt.jpg 2x" width="150"/></a></td>
+<td><b>roofing shovel</b></td>
+<td>A specialized prying tool that evolved from use of <a class="mw-redirect" href="/wiki/Spading_fork" title="Spading fork">spading forks</a> and <a href="/wiki/Pitchfork" title="Pitchfork">pitchforks</a> to remove old <a href="/wiki/Roof_shingle" title="Roof shingle">roof shingles</a> and underlayment as part of roof repair.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:B%C3%AAche.jpg"><img alt="Bêche.jpg" data-file-height="2572" data-file-width="636" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/B%C3%AAche.jpg/49px-B%C3%AAche.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/B%C3%AAche.jpg/74px-B%C3%AAche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/B%C3%AAche.jpg/99px-B%C3%AAche.jpg 2x" width="49"/></a></td>
+<td><b><a href="/wiki/Spade" title="Spade">spade</a></b></td>
+<td>A general category of shovels tailored to digging hard ground that must be broken with substantial force before it can be moved. Most spades have sharp or nearly sharp edges, often shaped as triangular points. (The typographical spade symbol, ♠, is a stylized icon derived from this idea.) Some spades lack triangular points but are fairly narrow. They are tailored to <a href="/wiki/Lawn" title="Lawn">lawn</a> cutting and to <a href="/wiki/Transplanting" title="Transplanting">transplanting</a> of bushes and small trees. In fact, their modern mechanized equivalent is also called a <a href="/wiki/Tree_spade" title="Tree spade">tree spade</a>.
+<p>Some <a href="/wiki/Linguistic_prescription" title="Linguistic prescription">usage prescriptions</a> prescribe that the words "spade" and "shovel" should be held in contradistinction (piercing and digging [spade] versus scooping and moving [shovel]). <a href="/wiki/Natural_language" title="Natural language">Natural language</a> does not widely follow these prescriptions; it more often treats "spade" and "scoop" as contradistinguished subsets under "shovel".</p>
+</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Aa_shovel01.jpg"><img alt="Aa shovel01.jpg" data-file-height="800" data-file-width="600" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aa_shovel01.jpg/150px-Aa_shovel01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aa_shovel01.jpg/225px-Aa_shovel01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aa_shovel01.jpg/300px-Aa_shovel01.jpg 2x" width="150"/></a></td>
+<td><b>square shovel</b></td>
+<td>A general category of shovel that includes many types with a generally square outline (rather than being pointed like many spades are). But there is no rigorous, always-enforced distinction between square shovels and spades.</td>
+</tr>
+<tr>
+<td></td>
+<td><b>scoop</b></td>
+<td>A general category of shovel that includes many types with a generally dished or cupped shape, and typically a fairly square edge, tailored to scooping up dirt or other materials that are already fairly loose and do not need the groundbreaking force of a spade's point.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:BLW_Miniature_fire_tools.jpg"><img alt="BLW Miniature fire tools.jpg" data-file-height="2742" data-file-width="3123" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/BLW_Miniature_fire_tools.jpg/150px-BLW_Miniature_fire_tools.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/BLW_Miniature_fire_tools.jpg/225px-BLW_Miniature_fire_tools.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/BLW_Miniature_fire_tools.jpg/300px-BLW_Miniature_fire_tools.jpg 2x" width="150"/></a></td>
+<td><b>fireplace shovel</b><br/>
+(see middle tool in image)</td>
+<td>One of the <a href="/wiki/Fire_iron" title="Fire iron">fire irons</a> used in a <a href="/wiki/Fireplace" title="Fireplace">fireplace</a>. It is used to tend to the <a href="/wiki/Wood_ash" title="Wood ash">ashes</a>.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Schep.JPG"><img alt="Schep.JPG" data-file-height="184" data-file-width="181" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Schep.JPG/150px-Schep.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/2/22/Schep.JPG 1.5x" width="150"/></a></td>
+<td><b>toy shovel</b></td>
+<td>Common <a href="/wiki/Play_(activity)" title="Play (activity)">plaything</a> on sandy <a href="/wiki/Beach" title="Beach">beaches</a>, in <a href="/wiki/Sandpit" title="Sandpit">sandboxes</a>, or in yards, gardens, lawns, and fields.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:Drain_spade_002.png"><img alt="Drain spade 002.png" data-file-height="597" data-file-width="2497" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Drain_spade_002.png/150px-Drain_spade_002.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Drain_spade_002.png/225px-Drain_spade_002.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Drain_spade_002.png/300px-Drain_spade_002.png 2x" width="150"/></a></td>
+<td><b>trenching shovel</b><br/>
+<b>trenching spade</b><br/>
+<b>drain spade</b></td>
+<td>Generally a long thin blade with pronounced upturned side flanges. Used for digging trenches.</td>
+</tr>
+<tr>
+<td><a class="image" href="/wiki/File:USMC_ETool.jpg"><img alt="USMC ETool.jpg" data-file-height="269" data-file-width="158" height="255" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/USMC_ETool.jpg/150px-USMC_ETool.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/1/1d/USMC_ETool.jpg 1.5x" width="150"/></a></td>
+<td><b><a href="/wiki/Entrenching_tool" title="Entrenching tool">entrenching tool</a></b></td>
+<td>A smaller and sometimes collapsible shovel for creating and maintaining <a href="/wiki/Defensive_fighting_position" title="Defensive fighting position">defensive fighting positions</a>.</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shovel&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Neolithic" title="Neolithic">neolithic</a> times and earlier a large animal's <a href="/wiki/Scapula" title="Scapula">scapula</a> (shoulder blade) was often used as a crude shovel or <a href="/wiki/Spade" title="Spade">spade</a>.<sup class="reference" id="cite_ref-ConciseOxfordDictArchaeol_1-0"><a href="#cite_note-ConciseOxfordDictArchaeol-1">[1]</a></sup> It is via this connection between shoulder blades and digging blades that the words <i><a href="/wiki/Spatula" title="Spatula">spatula</a></i> and <i><a href="/wiki/Spade" title="Spade">spade</a></i> both have <a href="/wiki/Etymology" title="Etymology">etymologic</a> connection with scapulas.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a class="image" href="/wiki/File:Aa_shoveling_00.jpg"><img alt="" class="thumbimage" data-file-height="1000" data-file-width="1000" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aa_shoveling_00.jpg/100px-Aa_shoveling_00.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aa_shoveling_00.jpg/150px-Aa_shoveling_00.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aa_shoveling_00.jpg/200px-Aa_shoveling_00.jpg 2x" width="100"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Aa_shoveling_00.jpg" title="Enlarge"></a></div>
+Typical action when shoveling material from the ground</div>
+</div>
+</div>
+<p>Manual shoveling (often in combination with <a href="/wiki/Pickaxe" title="Pickaxe">picking</a>) was the chief means of excavation in construction until <a href="/wiki/Mechanization" title="Mechanization">mechanization</a> via <a href="/wiki/Steam_shovel" title="Steam shovel">steam shovels</a> and later <a href="/wiki/Hydraulics" title="Hydraulics">hydraulic</a> equipment (<a href="/wiki/Excavator" title="Excavator">excavators</a> such as <a href="/wiki/Backhoe" title="Backhoe">backhoes</a> and <a href="/wiki/Loader_(equipment)" title="Loader (equipment)">loaders</a>) gradually replaced most manual shoveling. The same is also true of the history of <a href="/wiki/Mining" title="Mining">mining</a> and <a href="/wiki/Quarry" title="Quarry">quarrying</a> and of bulk <a class="mw-redirect" href="/wiki/Material_handling_equipment" title="Material handling equipment">materials handling</a> in industries such as <a href="/wiki/Steel_mill" title="Steel mill">steelmaking</a> and <a href="/wiki/Stevedore" title="Stevedore">stevedoring</a>. <a href="/wiki/Railroad_car" title="Railroad car">Railroad cars</a> and <a class="mw-redirect" href="/wiki/Hold_(ship)" title="Hold (ship)">cargo holds</a> containing <a href="/wiki/Ore" title="Ore">ore</a>, <a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Gravel" title="Gravel">gravel</a>, <a href="/wiki/Sand" title="Sand">sand</a>, or <a href="/wiki/Grain" title="Grain">grains</a> were often loaded and unloaded this way. These industries did not always rely <i>exclusively</i> on such work, but such work was a <a class="extiw" href="https://en.wiktionary.org/wiki/ubiquitous#Adjective" title="wikt:ubiquitous">ubiquitous</a> part of them. Until the 1950s, manual shoveling employed large numbers of workers. Groups of workers called <b>labor gangs</b> were assigned to whatever digging or bulk materials handling was needed in any given week, and dozens or hundreds of workers with hand shovels would do the kind of rapid excavating or materials handling that today is usually accomplished with powered excavators and loaders operated by a few skilled operators. Thus the <a href="/wiki/Labour_economics" title="Labour economics">cost of labor</a>, even when each individual worker was poorly paid, was a tremendous expense of operations. <a href="/wiki/Productivity" title="Productivity">Productivity</a> of the business was tied mostly to <a href="/wiki/Workforce_productivity" title="Workforce productivity">labor productivity</a>. It still often is even today; but in the past it was even more so. In industrial and commercial materials handling, hand shoveling was later replaced not only with loaders and backhoes.</p>
+<p><span id="science_of_shoveling"></span>Given the central importance and cost of <a href="/wiki/Manual_labour" title="Manual labour">manual labour</a> in industry in the late 19th and early 20th centuries, the [<a href="/wiki/Applied_science" title="Applied science">applied</a>] "science of shoveling" was something of great interest to developers of <a href="/wiki/Scientific_management" title="Scientific management">scientific management</a> such as <a href="/wiki/Frederick_Winslow_Taylor" title="Frederick Winslow Taylor">Frederick Winslow Taylor</a>.<sup class="reference" id="cite_ref-Taylor1911pp64-75_2-0"><a href="#cite_note-Taylor1911pp64-75-2">[2]</a></sup> Taylor, with his focus on <a href="/wiki/Time_and_motion_study" title="Time and motion study">time and motion study</a>, took an interest in differentiating the many motions of manual labor to a far greater degree than others tended to. Managers might not care to analyze it (<a href="/wiki/Manual_labour#simplistically_equating_manual_labour_to_low_skill_and_class" title="Manual labour">figuring that brute work is brute work, case closed</a>), and workers might not care to analyze it in any way that encouraged management to take away the <a class="extiw" href="https://en.wiktionary.org/wiki/prerogative#Noun" title="wikt:prerogative">prerogative</a> in <a href="/wiki/Craft_production" title="Craft production">craft work</a> for the craftsman to decide the details of his methods. Taylor realized that failing to analyze shoveling practice represented a missed opportunity to discover or synthesize <a href="/wiki/Best_practice" title="Best practice">best practices</a> for shoveling, which could achieve highest productivity (value for dollar spent). It was Taylor and colleagues in the 1890s through 1910s that greatly expanded the existing idea of varied shovel designs with different-sized scoops, one for each material, based on the material's density. Under scientific management, it was no longer acceptable to use the same shovel for shoveling brown coal one day and gravel the next. Taylor advocated the higher <a href="/wiki/Capital_cost" title="Capital cost">capital cost</a> of maintaining two shovels as more than paying for itself through the increase in worker productivity that it would lead to, which would mean less money being spent on <a href="/wiki/Wage" title="Wage">wages</a> for each unit of shoveling work accomplished. Unfortunately, despite Taylor's valid insights about the possibility for applying science to manual labour (including shoveling and the lifting and carrying of heavy objects) and his valid insights about the inequality of talents between individuals, he did not really respect the human dignity of all workers, and tended to be contemptuous of people with low intelligence.<sup class="reference" id="cite_ref-Taylor1911p59_3-0"><a href="#cite_note-Taylor1911p59-3">[3]</a></sup></p>
+<p>The science of shoveling [that is, hand shoveling] has long since mostly faded out of commercial concern thanks to extensive mechanization, such as bulldozers and other equipment. Humans are once again mostly content to let one coal scoop handle various bulk materials of differing densities.</p>
+<p>During the <a class="mw-redirect" href="/wiki/Second_industrial_revolution" title="Second industrial revolution">Second industrial revolution</a> around year 1900, the shovel gave way to <a href="/wiki/Heavy_equipment" title="Heavy equipment">heavy equipment</a> such as <a href="/wiki/Excavator" title="Excavator">excavators</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shovel&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Dustpan" title="Dustpan">dustpan</a>, a form of shovel</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shovel&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-ConciseOxfordDictArchaeol-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-ConciseOxfordDictArchaeol_1-0">^</a></b></span> <span class="reference-text"><a class="external text" href="https://books.google.co.uk/books?id=iSd8hm5kImwC&amp;pg=PA304#v=onepage&amp;f=false" rel="nofollow">Concise Oxford Dictionary of Archaeology, p. 304</a>.</span></li>
+<li id="cite_note-Taylor1911pp64-75-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Taylor1911pp64-75_2-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTaylor1911">Taylor 1911</a>, <a class="external text" href="https://books.google.com/books?id=HoJMAAAAYAAJ&amp;pg=PA64#v=onepage&amp;f=false" rel="nofollow">pp. 64–75</a>.</span></li>
+<li id="cite_note-Taylor1911p59-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Taylor1911p59_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTaylor1911">Taylor 1911</a>, <a class="external text" href="https://books.google.com/books?id=HoJMAAAAYAAJ&amp;pg=PA59#v=onepage&amp;f=false" rel="nofollow">p. 59</a>.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shovel&amp;action=edit&amp;section=5" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation" id="CITEREFTaylor1911"><a href="/wiki/Frederick_Winslow_Taylor" title="Frederick Winslow Taylor">Taylor, Frederick Winslow</a> (1911), <a class="external text" href="https://books.google.com/books?id=HoJMAAAAYAAJ&amp;pg=PA3#v=onepage&amp;f=false" rel="nofollow"><i>The Principles of Scientific Management</i></a>, New York, NY, USA and London, UK: Harper &amp; Brothers, <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a> <a class="external text" href="//lccn.loc.gov/11010339" rel="nofollow">11010339</a>, <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/233134" rel="nofollow">233134</a>. <i><a class="external text" href="http://www.gutenberg.org/etext/6435" rel="nofollow">Also available from Project Gutenberg</a>.</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShovel&amp;rft.aufirst=Frederick+Winslow&amp;rft.aulast=Taylor&amp;rft.btitle=The+Principles+of+Scientific+Management&amp;rft.date=1911&amp;rft.genre=book&amp;rft.place=New+York%2C+NY%2C+USA+and+London%2C+UK&amp;rft.pub=Harper+%26+Brothers&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHoJMAAAAYAAJ%26pg%3DPA3%23v%3Donepage%26f%3Dfalse&amp;rft_id=info%3Alccn%2F11010339&amp;rft_id=info%3Aoclcnum%2F233134&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shovel&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Shovels_and_spades" title="commons:Category:Shovels and spades">Shovels and spades</a></b></i>.</td>
+</tr>
+</table>
+<div aria-labelledby="Forestry_tools_and_equipment" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Forestry_tools" title="Template:Forestry tools"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Forestry_tools" title="Template talk:Forestry tools"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Forestry_tools&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Forestry_tools_and_equipment" style="font-size:114%;margin:0 4em"><a href="/wiki/Forestry" title="Forestry">Forestry</a> <a href="/wiki/Tool" title="Tool">tools</a> and <a href="/wiki/Heavy_equipment" title="Heavy equipment">equipment</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tree_planting" title="Tree planting">Tree planting</a>/<br/>
+<a href="/wiki/Afforestation" title="Afforestation">afforestation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caulk_boots" title="Caulk boots">Caulk boots</a></li>
+<li><a href="/wiki/Hoe_(tool)#Types" title="Hoe (tool)">Hoedad</a> (hoedag)</li>
+<li><a href="/wiki/Groasis_Waterboxx" title="Groasis Waterboxx">Groasis Waterboxx</a></li>
+<li><a href="/wiki/Mattock" title="Mattock">Mattock</a></li>
+<li><a class="mw-redirect" href="/wiki/Pottiputki_(tool)" title="Pottiputki (tool)">Pottiputki</a></li>
+<li><a href="/wiki/Root_trainer" title="Root trainer">Root trainer</a></li>
+<li><a href="/wiki/Seed_trap" title="Seed trap">Seed trap</a></li>
+<li><a href="/wiki/Tree_planting_bar" title="Tree planting bar">Tree planting bar</a> (dibble bar)</li>
+<li><a href="/wiki/Tree_shelter" title="Tree shelter">Tree shelter</a> (Tuley tube)</li>
+<li><a href="/wiki/Tree_spade" title="Tree spade">Tree spade</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Using_a_DTApe.JPG"><img alt="Using a DTApe.JPG" data-file-height="2048" data-file-width="1536" height="93" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Using_a_DTApe.JPG/70px-Using_a_DTApe.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Using_a_DTApe.JPG/105px-Using_a_DTApe.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Using_a_DTApe.JPG/140px-Using_a_DTApe.JPG 2x" width="70"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tree_measurement" title="Tree measurement">Mensuration</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3D_scanner" title="3D scanner">3D scanner</a></li>
+<li><a href="/wiki/Angle_gauge" title="Angle gauge">Angle gauge</a></li>
+<li><a href="/wiki/Biltmore_stick" title="Biltmore stick">Biltmore stick</a></li>
+<li><a href="/wiki/Calipers" title="Calipers">Calipers</a></li>
+<li><a href="/wiki/Chain_(unit)#Other_instruments" title="Chain (unit)">Chain</a></li>
+<li><a href="/wiki/Cruising_rod" title="Cruising rod">Cruising rod</a></li>
+<li><a href="/wiki/Diameter_tape" title="Diameter tape">Diameter tape</a></li>
+<li><a href="/wiki/Hemispherical_photography" title="Hemispherical photography">Hemispherical photography</a></li>
+<li><a href="/wiki/Inclinometer" title="Inclinometer">Inclinometer</a></li>
+<li><a href="/wiki/Increment_borer" title="Increment borer">Increment borer</a></li>
+<li><a href="/wiki/Rangefinder" title="Rangefinder">Rangefinder</a>
+<ul>
+<li><a href="/wiki/Laser_rangefinder" title="Laser rangefinder">laser</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Microtome" title="Microtome">Microtome</a></li>
+<li><a href="/wiki/Relascope" title="Relascope">Relascope</a></li>
+<li><a href="/wiki/Wedge_prism" title="Wedge prism">Wedge prism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wildfire_suppression_equipment_and_personnel" title="Wildfire suppression equipment and personnel">Fire suppression</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aerial_firefighting" title="Aerial firefighting">Aerial firefighting</a>
+<ul>
+<li><a href="/wiki/DC-10_Air_Tanker" title="DC-10 Air Tanker">DC-10</a></li>
+<li><a href="/wiki/Unmanned_aerial_vehicle#Forest_fire_detection" title="Unmanned aerial vehicle">UAVs</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Driptorch" title="Driptorch">Driptorch</a></li>
+<li><a href="/wiki/Fire_flapper_(tool)" title="Fire flapper (tool)">Fire flapper</a></li>
+<li><a href="/wiki/Fire_rake" title="Fire rake">Fire rake</a></li>
+<li><a href="/wiki/Fire_retardant#Forest-fire_fighting" title="Fire retardant">Fire retardant</a></li>
+<li><a href="/wiki/Helitack" title="Helitack">Helitack</a></li>
+<li><a href="/wiki/McLeod_(tool)" title="McLeod (tool)">McLeod</a></li>
+<li><a href="/wiki/Pulaski_(tool)" title="Pulaski (tool)">Pulaski</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Axe" title="Axe">Axes</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Billhook" title="Billhook">Billhook</a></li>
+<li><a href="/wiki/Broadaxe" title="Broadaxe">Broadaxe</a></li>
+<li><a href="/wiki/Froe" title="Froe">Froe</a> (shake axe)</li>
+<li><a href="/wiki/Hatchet" title="Hatchet">Hatchet</a></li>
+<li><a href="/wiki/Labrys" title="Labrys">Labrys</a></li>
+<li><a href="/wiki/Log_splitter" title="Log splitter">Log splitter</a></li>
+<li><a href="/wiki/Splitting_maul" title="Splitting maul">Splitting maul</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Saw" title="Saw">Saws</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bow_saw" title="Bow saw">Bow saw</a></li>
+<li><a href="/wiki/Bucksaw" title="Bucksaw">Bucksaw</a></li>
+<li><a href="/wiki/Chainsaw" title="Chainsaw">Chainsaw</a>
+<ul>
+<li><a href="/wiki/Chainsaw_safety_clothing" title="Chainsaw safety clothing">safety clothing</a></li>
+<li><a href="/wiki/Chainsaw_safety_features" title="Chainsaw safety features">safety features</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Crosscut_saw" title="Crosscut saw">Crosscut saw</a></li>
+<li><a href="/wiki/Dragsaw" title="Dragsaw">Dragsaw</a></li>
+<li><a href="/wiki/Head_saw" title="Head saw">Head saw</a></li>
+<li><a href="/wiki/Lumber_edger" title="Lumber edger">Lumber edger</a></li>
+<li><a href="/wiki/Portable_sawmill" title="Portable sawmill">Portable sawmill</a></li>
+<li><a href="/wiki/Resaw" title="Resaw">Resaw</a></li>
+<li><a href="/wiki/Two-man_saw" title="Two-man saw">Two-man saw</a></li>
+<li><a href="/wiki/Whipsaw" title="Whipsaw">Whipsaw</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Logging" title="Logging">Logging</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cant_hook" title="Cant hook">Cant hook</a></li>
+<li><a href="/wiki/Feller_buncher" title="Feller buncher">Feller buncher</a></li>
+<li><a href="/wiki/Forwarder" title="Forwarder">Forwarder</a></li>
+<li><a href="/wiki/Go-devil" title="Go-devil">Go-devil</a></li>
+<li><a href="/wiki/Harvester_(forestry)" title="Harvester (forestry)">Harvester</a></li>
+<li><a href="/wiki/Heli-logging" title="Heli-logging">Helicopter</a></li>
+<li><a href="/wiki/Logging_truck" title="Logging truck">Log truck</a></li>
+<li><a href="/wiki/Lombard_Steam_Log_Hauler" title="Lombard Steam Log Hauler">Lombard Steam Log Hauler</a></li>
+<li><a href="/wiki/Michigan_logging_wheels" title="Michigan logging wheels">Michigan logging wheels</a></li>
+<li><a href="/wiki/Peavey_(tool)" title="Peavey (tool)">Peavey</a></li>
+<li><a href="/wiki/Pickaroon" title="Pickaroon">Pickaroon</a></li>
+<li><a href="/wiki/Pike_pole" title="Pike pole">Pike pole</a></li>
+<li><a href="/wiki/Skid_cone" title="Skid cone">Skid cone</a></li>
+<li><a href="/wiki/Skidder" title="Skidder">Skidder</a>
+<ul>
+<li><a href="/wiki/Washington_Iron_Works_Skidder" title="Washington Iron Works Skidder">Washington winch</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Steam_donkey" title="Steam donkey">Steam donkey</a></li>
+<li><a href="/wiki/Yarder" title="Yarder">Yarder</a>
+<ul>
+<li><a href="/wiki/Swing_yarder" title="Swing yarder">swing</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Denailer" title="Denailer">Denailer</a></li>
+<li><a href="/wiki/Firewood_processor" title="Firewood processor">Firewood processor</a></li>
+<li><a href="/wiki/Forest_railway" title="Forest railway">Forest railway</a></li>
+<li><a href="/wiki/Forestry_mulching" title="Forestry mulching">Forestry mulcher</a></li>
+<li><a href="/wiki/Hand_compass" title="Hand compass">Hand compass</a></li>
+<li><a href="/wiki/Hook_(hand_tool)#Forestry_hook" title="Hook (hand tool)">Hand hook</a></li>
+<li><a href="/wiki/Hydraulic_debarker" title="Hydraulic debarker">Hydraulic debarker</a></li>
+<li><a href="/wiki/Log_house_moulder" title="Log house moulder">Log house moulder</a></li>
+<li><a href="/wiki/Machete" title="Machete">Machete</a></li>
+<li><a href="/wiki/Stump_grinder" title="Stump grinder">Stump grinder</a></li>
+<li><a href="/wiki/Chainsaw_mill" title="Chainsaw mill">Chainsaw mill</a></li>
+<li>Tree tyer</li>
+<li><a href="/wiki/Whoopie_sling" title="Whoopie sling">Whoopie sling</a></li>
+<li><a href="/wiki/Kiln#Wood-drying_kiln" title="Kiln">Wood-drying kiln</a></li>
+<li><a href="/wiki/Woodchipper" title="Woodchipper">Woodchipper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a class="image" href="/wiki/File:Pine_forest_in_Sweden.jpg"><img alt="Pine forest in Sweden.jpg" class="noviewer" data-file-height="900" data-file-width="860" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pine_forest_in_Sweden.jpg/15px-Pine_forest_in_Sweden.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pine_forest_in_Sweden.jpg/23px-Pine_forest_in_Sweden.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pine_forest_in_Sweden.jpg/31px-Pine_forest_in_Sweden.jpg 2x" width="15"/></a> <a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b>Categories</b>
+<ul>
+<li><a href="/wiki/Category:Forestry_tools" title="Category:Forestry tools">tools</a></li>
+<li><a href="/wiki/Category:Forestry_equipment" title="Category:Forestry equipment">equipment</a></li>
+</ul>
+</li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b>Commons</b>
+<ul>
+<li><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Forestry_tools" title="commons:Category:Forestry tools">tools</a></li>
+<li><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Forestry_machinery" title="commons:Category:Forestry machinery">equipment</a></li>
+</ul>
+</li>
+<li><img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <a href="/wiki/Wikipedia:WikiProject_Forestry" title="Wikipedia:WikiProject Forestry">WikiProject Forestry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Garden_tools" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Garden_tools" title="Template:Garden tools"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Garden_tools" title="Template talk:Garden tools"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Garden_tools&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Garden_tools" style="font-size:114%;margin:0 4em"><a href="/wiki/Garden_tool" title="Garden tool">Garden tools</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Averruncator" title="Averruncator">Averruncator</a></li>
+<li><a href="/wiki/Axe" title="Axe">Axe</a></li>
+<li><a href="/wiki/Chainsaw" title="Chainsaw">Chainsaw</a></li>
+<li><a href="/wiki/Cultivator" title="Cultivator">Cultivator</a></li>
+<li><a href="/wiki/Daisy_grubber" title="Daisy grubber">Daisy grubber</a></li>
+<li><a href="/wiki/Dibber" title="Dibber">Dibber</a></li>
+<li><a href="/wiki/Auger_(drill)" title="Auger (drill)">Earth auger</a></li>
+<li><a href="/wiki/Edger" title="Edger">Edger</a></li>
+<li><a href="/wiki/Garden_fork" title="Garden fork">Garden fork</a></li>
+<li><a href="/wiki/Garden_hose" title="Garden hose">Garden hose</a></li>
+<li><a href="/wiki/Grass_shears" title="Grass shears">Grass shears</a></li>
+<li><a class="mw-redirect" href="/wiki/Grass_stitcher" title="Grass stitcher">Grass stitcher</a></li>
+<li><a href="/wiki/Hedge_trimmer" title="Hedge trimmer">Hedge trimmer</a></li>
+<li><a href="/wiki/Hoe_(tool)" title="Hoe (tool)">Hoe</a></li>
+<li><a href="/wiki/Hori_hori" title="Hori hori">Hori hori</a></li>
+<li><a href="/wiki/Irrigation_sprinkler" title="Irrigation sprinkler">Irrigation sprinkler</a></li>
+<li><a href="/wiki/Lawn_aerator" title="Lawn aerator">Lawn aerator</a></li>
+<li><a href="/wiki/Lawn_mower" title="Lawn mower">Lawn mower</a></li>
+<li><a href="/wiki/Lawn_sweeper" title="Lawn sweeper">Lawn sweeper</a></li>
+<li><a href="/wiki/Leaf_blower" title="Leaf blower">Leaf blower</a></li>
+<li><a href="/wiki/Loppers" title="Loppers">Loppers</a></li>
+<li><a href="/wiki/Machete" title="Machete">Machete</a></li>
+<li><a href="/wiki/Mattock" title="Mattock">Mattock</a></li>
+<li><a href="/wiki/Pickaxe" title="Pickaxe">Pickaxe</a></li>
+<li><a href="/wiki/Pitchfork" title="Pitchfork">Pitchfork</a></li>
+<li><a href="/wiki/Plough" title="Plough">Plough (plow)</a></li>
+<li><a href="/wiki/Post_hole_digger" title="Post hole digger">Post hole digger</a></li>
+<li><a href="/wiki/Potting_bench" title="Potting bench">Potting bench</a></li>
+<li><a href="/wiki/Pruning_shears" title="Pruning shears">Pruning shears (secateurs)</a></li>
+<li><a href="/wiki/Rake_(tool)" title="Rake (tool)">Rake</a></li>
+<li><a href="/wiki/Riddle_(tool)" title="Riddle (tool)">Riddle</a></li>
+<li><a class="mw-redirect" href="/wiki/Rotary_tiller" title="Rotary tiller">Rotary tiller</a></li>
+<li><a href="/wiki/Scythe" title="Scythe">Scythe</a></li>
+<li><a class="mw-selflink selflink">Shovel</a></li>
+<li><a href="/wiki/Sickle" title="Sickle">Sickle</a></li>
+<li><a href="/wiki/Spade" title="Spade">Spade</a></li>
+<li><a href="/wiki/String_trimmer" title="String trimmer">String trimmer</a></li>
+<li><a href="/wiki/Trowel#Hand_tools" title="Trowel">Trowel</a></li>
+<li><a href="/wiki/Watering_can" title="Watering can">Watering can</a></li>
+<li><a href="/wiki/Weeder" title="Weeder">Weeder</a></li>
+<li><a href="/wiki/Wheelbarrow" title="Wheelbarrow">Wheelbarrow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20171029075357
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.235 seconds
+Preprocessor visited node count: 598/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33946/2097152 bytes
+Template argument size: 379/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 2.91 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  158.006      1 -total
+ 19.90%   31.443      1 Template:Citation
+ 17.35%   27.420      1 Template:Refimprove
+ 16.54%   26.130      1 Template:Commons_category
+ 15.74%   24.870      2 Template:Navbox
+ 15.63%   24.701      1 Template:Other_uses
+ 15.54%   24.559      1 Template:Forestry_tools
+ 14.66%   23.161      1 Template:Ambox
+  8.73%   13.798      1 Template:Reflist
+  4.70%    7.430      1 Template:Commons
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:192438-0!canonical and timestamp 20171029075357 and revision id 803443813
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shovel&amp;oldid=803443813">https://en.wikipedia.org/w/index.php?title=Shovel&amp;oldid=803443813</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gardening_tools" title="Category:Gardening tools">Gardening tools</a></li><li><a href="/wiki/Category:Shovels" title="Category:Shovels">Shovels</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2011" title="Category:Articles needing additional references from November 2011">Articles needing additional references from November 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Shovel" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Shovel" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Shovel" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Shovel" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Shovel">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Shovel&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Shovel&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Shovel" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Shovel" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Shovel&amp;oldid=803443813" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Shovel&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7220961" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shovel&amp;id=803443813" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shovel">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Shovel&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Shovel&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Shovels_and_spades" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D8%B1%D9%81%D8%A9" hreflang="ar" lang="ar" title="مجرفة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Pala" hreflang="an" lang="an" title="Pala – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-atj"><a class="interlanguage-link-target" href="https://atj.wikipedia.org/wiki/Okaripakan" hreflang="atj" lang="atj" title="Okaripakan – Atikamekw">Atikamekw</a></li><li class="interlanguage-link interwiki-gn"><a class="interlanguage-link-target" href="https://gn.wikipedia.org/wiki/Yvyjo%27oha" hreflang="gn" lang="gn" title="Yvyjo'oha – Guarani">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Bel" hreflang="az" lang="az" title="Bel – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A0%D1%8B%D0%B4%D0%BB%D1%91%D1%9E%D0%BA%D0%B0" hreflang="be" lang="be" title="Рыдлёўка – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A0%D1%8B%D0%B4%D0%BB%D1%91%D1%9E%D0%BA%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Рыдлёўка – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B0" hreflang="bg" lang="bg" title="Лопата – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pala_(eina)" hreflang="ca" lang="ca" title="Pala (eina) – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Lopata" hreflang="cs" lang="cs" title="Lopata – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Skovl" hreflang="da" lang="da" title="Skovl – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schaufel" hreflang="de" lang="de" title="Schaufel – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CF%81%CE%AC%CF%83%CE%B9" hreflang="el" lang="el" title="Φαράσι – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a class="interlanguage-link-target" href="https://eml.wikipedia.org/wiki/Bad%C3%AEl" hreflang="eml" lang="eml" title="Badîl – Emiliano-Romagnolo">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pala" hreflang="es" lang="es" title="Pala – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/%C5%9Covelilo" hreflang="eo" lang="eo" title="Ŝovelilo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Pala" hreflang="eu" lang="eu" title="Pala – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D9%84" hreflang="fa" lang="fa" title="بیل – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pelle_(outil)" hreflang="fr" lang="fr" title="Pelle (outil) – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Sluasaid" hreflang="ga" lang="ga" title="Sluasaid – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Pa_(ferramenta)" hreflang="gl" lang="gl" title="Pa (ferramenta) – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%82%BD" hreflang="ko" lang="ko" title="삽 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%81%E0%A4%9A%E0%A4%BE:%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF_%E0%A4%95%E0%A5%87_%E0%A4%94%E0%A4%9C%E0%A4%BE%E0%A4%B0" hreflang="hi" lang="hi" title="साँचा:कृषि के औजार – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Lopata" hreflang="hr" lang="hr" title="Lopata – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Shovelo" hreflang="io" lang="io" title="Shovelo – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Pengki" hreflang="id" lang="id" title="Pengki – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Spa%C3%B0i_(verkf%C3%A6ri)" hreflang="is" lang="is" title="Spaði (verkfæri) – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pala_(attrezzo)" hreflang="it" lang="it" title="Pala (attrezzo) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%AA_(%D7%9B%D7%9C%D7%99)" hreflang="he" lang="he" title="את (כלי) – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%A0%E1%83%98_(%E1%83%98%E1%83%90%E1%83%A0%E1%83%90%E1%83%A6%E1%83%98)" hreflang="ka" lang="ka" title="ბარი (იარაღი) – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D2%AF%D1%80%D0%B5%D0%BA" hreflang="kk" lang="kk" title="Күрек – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-kv"><a class="interlanguage-link-target" href="https://kv.wikipedia.org/wiki/%D0%97%D1%8B%D1%80" hreflang="kv" lang="kv" title="Зыр – Komi">Коми</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/B%C3%AAr" hreflang="ku" lang="ku" title="Bêr – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-mrj"><a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D0%BC%D1%8B" hreflang="mrj" lang="mrj" title="Кольмы – Western Mari">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Pala" hreflang="la" lang="la" title="Pala – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/L%C4%81psta" hreflang="lv" lang="lv" title="Lāpsta – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Sch%C3%ABpp" hreflang="lb" lang="lb" title="Schëpp – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kastuvas" hreflang="lt" lang="lt" title="Kastuvas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Lap%C3%A1t" hreflang="hu" lang="hu" title="Lapát – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Schop_(gebruiksvoorwerp)" hreflang="nl" lang="nl" title="Schop (gebruiksvoorwerp) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a class="interlanguage-link-target" href="https://nds-nl.wikipedia.org/wiki/Batse" hreflang="nds-NL" lang="nds-NL" title="Batse – Low Saxon">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%99%E3%83%AB" hreflang="ja" lang="ja" title="シャベル – Japanese">日本語</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Bel_(mehnat_quroli)" hreflang="uz" lang="uz" title="Bel (mehnat quroli) – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/%C5%81opata_(narz%C4%99dzie)" hreflang="pl" lang="pl" title="Łopata (narzędzie) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/P%C3%A1" hreflang="pt" lang="pt" title="Pá – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/F%C4%83ra%C8%99" hreflang="ro" lang="ro" title="Făraș – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Lampa" hreflang="qu" lang="qu" title="Lampa – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B0" hreflang="ru" lang="ru" title="Лопата – Russian">Русский</a></li><li class="interlanguage-link interwiki-sah"><a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%9A%D2%AF%D1%80%D0%B4%D1%8C%D1%8D%D1%85" hreflang="sah" lang="sah" title="Күрдьэх – Sakha">Саха тыла</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Shuil" hreflang="sco" lang="sco" title="Shuil – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Shovel" hreflang="simple" lang="simple" title="Shovel – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Lopata" hreflang="sk" lang="sk" title="Lopata – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Smeti%C5%A1nica" hreflang="sl" lang="sl" title="Smetišnica – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a class="interlanguage-link-target" href="https://szl.wikipedia.org/wiki/Szipa" hreflang="szl" lang="szl" title="Szipa – Silesian">Ślůnski</a></li><li class="interlanguage-link interwiki-so"><a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Badeel_(majarafad)" hreflang="so" lang="so" title="Badeel (majarafad) – Somali">Soomaaliga</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B0" hreflang="sr" lang="sr" title="Лопата – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Lopata" hreflang="sh" lang="sh" title="Lopata – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Lapio" hreflang="fi" lang="fi" title="Lapio – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Skyffel" hreflang="sv" lang="sv" title="Skyffel – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Pandakot" hreflang="tl" lang="tl" title="Pandakot – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%9A%D3%A9%D1%80%D3%99%D0%BA" hreflang="tt" lang="tt" title="Көрәк – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-chy"><a class="interlanguage-link-target" href="https://chy.wikipedia.org/wiki/M%C3%A9n%C3%B4he%27%C3%A9hestatseo%27o" hreflang="chy" lang="chy" title="Ménôhe'éhestatseo'o – Cheyenne">Tsetsêhestâhese</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B0" hreflang="uk" lang="uk" title="Лопата – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A8%DB%8C%D9%84%DA%86%DB%81" hreflang="ur" lang="ur" title="بیلچہ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vec"><a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Bai%C5%82a" hreflang="vec" lang="vec" title="Baiła – Venetian">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/X%E1%BA%BBng" hreflang="vi" lang="vi" title="Xẻng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Schoupe" hreflang="wa" lang="wa" title="Schoupe – Walloon">Walon</a></li><li class="interlanguage-link interwiki-bat-smg"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Luop%C4%97ta" hreflang="bat-smg" lang="bat-smg" title="Luopėta – Samogitian">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%8F%9F%E5%AD%90" hreflang="zh" lang="zh" title="鏟子 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7220961#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 October 2017, at 15:37.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Shovel&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.235","ppvisitednodes":{"value":598,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33946,"limit":2097152},"templateargumentsize":{"value":379,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  158.006      1 -total"," 19.90%   31.443      1 Template:Citation"," 17.35%   27.420      1 Template:Refimprove"," 16.54%   26.130      1 Template:Commons_category"," 15.74%   24.870      2 Template:Navbox"," 15.63%   24.701      1 Template:Other_uses"," 15.54%   24.559      1 Template:Forestry_tools"," 14.66%   23.161      1 Template:Ambox","  8.73%   13.798      1 Template:Reflist","  4.70%    7.430      1 Template:Commons"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":3055910,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20171029075357","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1184"});});</script>
+</body>
+</html>

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Wind speed - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wind_speed","wgTitle":"Wind speed","wgCurRevisionId":808048516,"wgRevisionId":808048516,"wgArticleId":165198,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wind","Airspeed","Wind power","Weather extremes of Earth"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wind_speed","wgRelevantArticleId":165198,"wgRequestId":"WftU3gpAMEkAAHZduCkAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1464943","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.5" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG/1200px-Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wind_speed" rel="alternate"/>
+<link href="/w/index.php?title=Wind_speed&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Wind_speed&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Wind_speed" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wind_speed rootpage-Wind_speed vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Wind speed</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a class="image" href="/wiki/File:Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG"><img alt="" class="thumbimage" data-file-height="3216" data-file-width="4288" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG/240px-Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG/360px-Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG/480px-Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG 2x" width="240"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Weather_Station_at_Feilding_Waste_Water_Treatment_Plant.JPG" title="Enlarge"></a></div>
+An anemometer is commonly used to measure wind speed.</div>
+</div>
+</div>
+<p><b>Wind speed</b>, or wind <a href="/wiki/Flow_velocity" title="Flow velocity">flow velocity</a>, is a fundamental <a href="/wiki/Atmosphere" title="Atmosphere">atmospheric</a> quantity.</p>
+<p>Wind speed is caused by air moving from high pressure to low pressure, usually due to changes in temperature. Note that wind direction is usually almost parallel to <a class="mw-redirect" href="/wiki/Isobar_(meteorology)" title="Isobar (meteorology)">isobars</a> (and not perpendicular as one might expect), due to the rotation of the earth.</p>
+<p>Wind speed affects <a href="/wiki/Weather_forecasting" title="Weather forecasting">weather forecasting</a>, <a href="/wiki/Aircraft" title="Aircraft">aircraft</a> and maritime operations, construction projects, growth and <a href="/wiki/Metabolism" title="Metabolism">metabolism</a> rate of many plant species, and countless other implications.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p><a href="/wiki/Wind" title="Wind">Wind</a> speed is now commonly measured with an <a href="/wiki/Anemometer" title="Anemometer">anemometer</a> but can also be classified using the older <a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort scale</a> which is based on people's observation of specifically defined wind effects.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Factors_affecting_wind_speed"><span class="tocnumber">1</span> <span class="toctext">Factors affecting wind speed</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Highest_speed"><span class="tocnumber">2</span> <span class="toctext">Highest speed</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Design_of_structures"><span class="tocnumber">3</span> <span class="toctext">Design of structures</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Factors_affecting_wind_speed">Factors affecting wind speed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_speed&amp;action=edit&amp;section=1" title="Edit section: Factors affecting wind speed">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wind speed is affected by a number of factors and situations, operating on varying scales (from micro to macro scales). These include the pressure gradient, Rossby waves and <a href="/wiki/Jet_stream" title="Jet stream">jet streams</a>, and local weather conditions. There are also links to be found between wind speed and <a href="/wiki/Wind_direction" title="Wind direction">wind direction</a>, notably with the pressure gradient and terrain conditions.</p>
+<p><b>Pressure gradient</b> is a term to describe the difference in air pressure between two points in the atmosphere or on the surface of the Earth. It is vital to wind speed, because the greater the difference in pressure, the faster the wind flows (from the high to low pressure) to balance out the variation. The pressure gradient, when combined with the <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis effect</a> and <a href="/wiki/Friction" title="Friction">friction</a>, also influences <a href="/wiki/Wind_direction" title="Wind direction">wind direction</a>.</p>
+<p><b><a href="/wiki/Rossby_wave" title="Rossby wave">Rossby waves</a></b> are strong winds in the upper <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>. These operate on a global scale and move from West to East (hence being known as <a href="/wiki/Westerlies" title="Westerlies">Westerlies</a>). The Rossby waves are themselves a different wind speed from what we experience in the lower <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>.</p>
+<p><b>Local weather conditions</b> play a key role in influencing wind speed, as the formation of <a class="mw-redirect" href="/wiki/Hurricanes" title="Hurricanes">hurricanes</a>, <a href="/wiki/Monsoon" title="Monsoon">monsoons</a> and <a class="mw-redirect" href="/wiki/Cyclones" title="Cyclones">cyclones</a> as freak weather conditions can drastically affect the flow velocity of the wind.</p>
+<h2><span class="mw-headline" id="Highest_speed">Highest speed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_speed&amp;action=edit&amp;section=2" title="Edit section: Highest speed">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:The_Big_Wind_Anemometer.JPG"><img alt="" class="thumbimage" data-file-height="4032" data-file-width="3024" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Big_Wind_Anemometer.JPG/170px-The_Big_Wind_Anemometer.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Big_Wind_Anemometer.JPG/255px-The_Big_Wind_Anemometer.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Big_Wind_Anemometer.JPG/340px-The_Big_Wind_Anemometer.JPG 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:The_Big_Wind_Anemometer.JPG" title="Enlarge"></a></div>
+The original anemometer that measured The Big Wind in 1934 at Mount Washington Observatory</div>
+</div>
+</div>
+<p>The fastest wind speed not related to <a href="/wiki/Tornado" title="Tornado">tornadoes</a> ever recorded was during the passage of Tropical <a href="/wiki/Cyclone_Olivia" title="Cyclone Olivia">Cyclone Olivia</a> on 10 April 1996: an <a href="/wiki/Automatic_weather_station" title="Automatic weather station">automatic weather station</a> on <a href="/wiki/Barrow_Island_(Western_Australia)" title="Barrow Island (Western Australia)">Barrow Island</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, registered a maximum wind gust of 408 km/h (220 kn; 253 mph; 113 m/s).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The wind gust was evaluated by the WMO Evaluation Panel who found that the anemometer was mechanically sound and the gust was within statistical probability and ratified the measurement in 2010. The anemometer was mounted 10 m above ground level (and thus 64 m above sea level). During the cyclone, several extreme gusts of greater than 300 km/h (160 kn; 83 m/s) were recorded, with a maximum 5-minute mean speed of 176 km/h (95 kn; 110 mph; 49 m/s), the extreme gust factor was in the order of 2.27–2.75 times the mean wind speed. The pattern and scales of the gusts suggest that a <a class="mw-redirect" href="/wiki/Mesovortex" title="Mesovortex">mesovortex</a> was embedded in the already strong <a class="mw-redirect" href="/wiki/Eyewall" title="Eyewall">eyewall</a> of the cyclone.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The now second highest surface wind speed ever officially recorded is 372 km/h (231 mph; 103 m/s) at the <a href="/wiki/Mount_Washington_(New_Hampshire)" title="Mount Washington (New Hampshire)">Mount Washington (New Hampshire)</a> Observatory: 6,288 ft (1917 m) above sea level in the US on 12 April 1934, using a <a href="/wiki/Anemometer" title="Anemometer">heated anemometer</a>. The anemometer, specifically designed for use on Mount Washington was later tested by the US <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Bureau</a> and confirmed to be accurate.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Wind speeds within certain atmospheric phenomena (such as <a href="/wiki/Tornado" title="Tornado">tornadoes</a>) may greatly exceed these values but have never been accurately measured. Directly measuring these tornadic winds is rarely done as the violent wind would destroy the instruments. Another method of estimating is to use <a href="/wiki/Doppler_on_Wheels" title="Doppler on Wheels">Doppler on Wheels</a> to sense the wind speeds remotely.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The figure of 486 km/h (302 mph; 135 m/s) during the <a href="/wiki/1999_Bridge_Creek%E2%80%93Moore_tornado" title="1999 Bridge Creek–Moore tornado">1999 Bridge Creek–Moore tornado</a> in <a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a> on 3 May 1999 is often quoted as the highest-recorded surface wind speed.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> However, another figure of 512 kilometres per hour (318 mph) has also been quoted for the same tornado.<sup class="reference" id="cite_ref-worldrecordacademy_7-0"><a href="#cite_note-worldrecordacademy-7">[7]</a></sup> Yet another number used by the Center for Severe Weather Research for that measurement is 486 ± 32 km/h (302 ± 20 mph).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> However, speeds measured by Doppler radar are not considered official records.<sup class="reference" id="cite_ref-worldrecordacademy_7-1"><a href="#cite_note-worldrecordacademy-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Design_of_structures">Design of structures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_speed&amp;action=edit&amp;section=3" title="Edit section: Design of structures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Wind_engineering" title="Wind engineering">Wind engineering</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Anemometer_on_stage_set.JPG"><img alt="" class="thumbimage" data-file-height="3456" data-file-width="4608" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anemometer_on_stage_set.JPG/220px-Anemometer_on_stage_set.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anemometer_on_stage_set.JPG/330px-Anemometer_on_stage_set.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anemometer_on_stage_set.JPG/440px-Anemometer_on_stage_set.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Anemometer_on_stage_set.JPG" title="Enlarge"></a></div>
+Anemometer on an outdoor stage set, to measure wind speed</div>
+</div>
+</div>
+<p>Wind speed is a common factor in the design of structures and buildings around the world. It is often the governing factor in the required lateral strength of a structure's design.</p>
+<p>In the United States, the wind speed used in design is often referred to as a "3-second gust" which is the highest sustained gust over a 3-second period having a probability of being exceeded per year of 1 in 50 (ASCE 7-05). This design wind speed is accepted by most building codes in the United States and often governs the lateral design of buildings and structures.</p>
+<p>In Canada, reference wind pressures are used in design and are based on the "mean hourly" wind speed having a probability of being exceeded per year of 1 in 50. The reference wind pressure (q) is calculated in Pascals using the following equation (ref: NBC 2005 Structural Commentaries - Part 4 of Div. B, Comm. I): q=(1/2)pV² where p is the air density in kg/m³ and V is wind speed in m/s.</p>
+<p>Historically, wind speeds have been reported with a variety of averaging times (such as fastest mile, 3-second gust, 1-minute and mean hourly) which designers may have to take into account. To convert wind speeds from one averaging time to another, the Durst Curve (Ref: ASCE 7-05 commentary Figure C6-4, ASCE 7-10 C26.5-1) was developed which defines the relation between probable maximum wind speed averaged over t seconds, V<sub>t</sub>, and mean wind speed over one hour V<sub>3600</sub>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_speed&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Wind_speed" title="commons:Wind speed">Wind speed</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort scale</a></li>
+<li><a href="/wiki/Fujita_scale" title="Fujita scale">Fujita scale</a> and <a class="mw-redirect" href="/wiki/Enhanced_Fujita_Scale" title="Enhanced Fujita Scale">Enhanced Fujita Scale</a></li>
+<li><a class="mw-redirect" href="/wiki/Prevailing_wind" title="Prevailing wind">Prevailing wind</a></li>
+<li><a class="mw-redirect" href="/wiki/Saffir%E2%80%93Simpson_Hurricane_Scale" title="Saffir–Simpson Hurricane Scale">Saffir–Simpson Hurricane Scale</a></li>
+<li><a href="/wiki/TORRO_scale" title="TORRO scale">TORRO scale</a></li>
+<li><a href="/wiki/Wind_direction" title="Wind direction">Wind direction</a></li>
+<li><a href="/wiki/Knot_(unit)" title="Knot (unit)">Knot (unit)</a></li>
+<li><a href="/wiki/International_Building_Code" title="International Building Code">International Building Code</a> (promulgator of NBC 2005)</li>
+<li><a href="/wiki/American_Society_of_Civil_Engineers" title="American Society of Civil Engineers">American Society of Civil Engineers</a> (promulgator of ASCE 7-05)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_speed&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">C.Michael Hogan. 2010. <a class="external text" href="http://www.eoearth.org/article/Abiotic_factor?topic=49461" rel="nofollow"><i>Abiotic factor</i>. Encyclopedia of Earth. eds Emily Monosson and C. Cleveland. National Council for Science and the Environment</a> <a class="external text" href="https://web.archive.org/web/20130608071757/http://www.eoearth.org/article/Abiotic_factor?topic=49461" rel="nofollow">Archived</a> 2013-06-08 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Washington DC</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://public.wmo.int/en/media/news/new-world-record-wind-gust" rel="nofollow">"World record wind gust"</a>. World Meteorological Association<span class="reference-accessdate">. Retrieved <span class="nowrap">12 February</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+speed&amp;rft.btitle=World+record+wind+gust&amp;rft.genre=unknown&amp;rft.pub=World+Meteorological+Association&amp;rft_id=https%3A%2F%2Fpublic.wmo.int%2Fen%2Fmedia%2Fnews%2Fnew-world-record-wind-gust&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.bom.gov.au/amoj/docs/2012/courtney_hres.pdf" rel="nofollow">"Documentation and verification of the world extreme wind gust record: 113.3 m s–1 on Barrow Island, Australia, during passage of tropical cyclone Olivia"</a> <span style="font-size:85%;">(PDF)</span>. Australian Meteorological and Oceanographic Journal.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+speed&amp;rft.btitle=Documentation+and+verification+of+the+world+extreme+wind+gust+record%3A+113.3+m+s%E2%80%931+on+Barrow+Island%2C+Australia%2C+during+passage+of+tropical+cyclone+Olivia&amp;rft.genre=unknown&amp;rft.pub=Australian+Meteorological+and+Oceanographic+Journal&amp;rft_id=http%3A%2F%2Fwww.bom.gov.au%2Famoj%2Fdocs%2F2012%2Fcourtney_hres.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mountwashington.org/about/visitor/recordwind.php" rel="nofollow">"The story of the world record wind"</a>. Mount Washington Observatory<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+speed&amp;rft.btitle=The+story+of+the+world+record+wind&amp;rft.genre=unknown&amp;rft.pub=Mount+Washington+Observatory&amp;rft_id=http%3A%2F%2Fwww.mountwashington.org%2Fabout%2Fvisitor%2Frecordwind.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.cbsnews.com/news/massive-okla-tornado-had-windspeed-up-to-200-mph/" rel="nofollow">"Massive Okla. tornado had windspeed up to 200 mph"</a>. <i>CBS News</i>. 20 May 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+speed&amp;rft.atitle=Massive+Okla.+tornado+had+windspeed+up+to+200+mph&amp;rft.date=2013-05-20&amp;rft.genre=article&amp;rft.jtitle=CBS+News&amp;rft_id=http%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fmassive-okla-tornado-had-windspeed-up-to-200-mph%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.spc.noaa.gov/faq/tornado/#History" rel="nofollow">"Historical Tornadoes"</a>. National Weather Service.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+speed&amp;rft.btitle=Historical+Tornadoes&amp;rft.genre=unknown&amp;rft.pub=National+Weather+Service&amp;rft_id=http%3A%2F%2Fwww.spc.noaa.gov%2Ffaq%2Ftornado%2F%23History&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-worldrecordacademy-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-worldrecordacademy_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-worldrecordacademy_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.worldrecordacademy.com/weather/highest_surface_wind_speed_Tropical_Cyclone_Olivia_sets_world_record_101519.htm" rel="nofollow">"Highest surface wind speed-Tropical Cyclone Olivia sets world record"</a>. <i>World Record Academy</i>. 26 January 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+speed&amp;rft.atitle=Highest+surface+wind+speed-Tropical+Cyclone+Olivia+sets+world+record&amp;rft.date=2010-01-26&amp;rft.genre=article&amp;rft.jtitle=World+Record+Academy&amp;rft_id=http%3A%2F%2Fwww.worldrecordacademy.com%2Fweather%2Fhighest_surface_wind_speed_Tropical_Cyclone_Olivia_sets_world_record_101519.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Joshua_Wurman" title="Joshua Wurman">Wurman, Joshua</a> (2007). <a class="external text" href="http://www.cswr.org/dow/DOW.htm" rel="nofollow">"Doppler On Wheels"</a>. Center for Severe Weather Research.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+speed&amp;rft.aufirst=Joshua&amp;rft.aulast=Wurman&amp;rft.btitle=Doppler+On+Wheels&amp;rft.date=2007&amp;rft.genre=unknown&amp;rft.pub=Center+for+Severe+Weather+Research&amp;rft_id=http%3A%2F%2Fwww.cswr.org%2Fdow%2FDOW.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1313
+Cached time: 20171031153739
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.120 seconds
+Real time usage: 0.159 seconds
+Preprocessor visited node count: 440/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12077/2097152 bytes
+Template argument size: 184/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 4.15 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  131.370      1 -total
+ 53.81%   70.690      1 Template:Reflist
+ 33.09%   43.471      5 Template:Cite_web
+ 30.72%   40.363      2 Template:Convert
+  7.73%   10.161      1 Template:Main
+  6.41%    8.423      2 Template:Cite_news
+  6.19%    8.136      1 Template:Commons
+  5.24%    6.886      1 Template:Sister_project
+  3.91%    5.136      1 Template:Webarchive
+  3.84%    5.045      1 Template:Side_box
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:165198-0!canonical and timestamp 20171031153739 and revision id 808048516
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wind_speed&amp;oldid=808048516">https://en.wikipedia.org/w/index.php?title=Wind_speed&amp;oldid=808048516</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wind" title="Category:Wind">Wind</a></li><li><a href="/wiki/Category:Airspeed" title="Category:Airspeed">Airspeed</a></li><li><a href="/wiki/Category:Wind_power" title="Category:Wind power">Wind power</a></li><li><a href="/wiki/Category:Weather_extremes_of_Earth" title="Category:Weather extremes of Earth">Weather extremes of Earth</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wind+speed" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wind+speed" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Wind_speed" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Wind_speed" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Wind_speed">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Wind_speed&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Wind_speed&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Wind_speed" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Wind_speed" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wind_speed&amp;oldid=808048516" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wind_speed&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1464943" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wind_speed&amp;id=808048516" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wind+speed">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wind+speed&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Wind_speed&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wind_speed" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD" hreflang="ar" lang="ar" title="سرعة الرياح – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/K%C3%BCl%C9%99yin_s%C3%BCr%C9%99ti" hreflang="az" lang="az" title="Küləyin sürəti – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Hong-sok" hreflang="zh-min-nan" lang="zh-min-nan" title="Hong-sok – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Rychlost_v%C4%9Btru" hreflang="cs" lang="cs" title="Rychlost větru – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Windgeschwindigkeit" hreflang="de" lang="de" title="Windgeschwindigkeit – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Viento#Caracter.C3.ADsticas_f.C3.ADsicas_de_los_vientos" hreflang="es" lang="es" title="Viento – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%D8%AA_%D8%A8%D8%A7%D8%AF" hreflang="fa" lang="fa" title="سرعت باد – Persian">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B5%E0%A4%A8_%E0%A4%B5%E0%A5%87%E0%A4%97" hreflang="hi" lang="hi" title="पवन वेग – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Vindhra%C3%B0i" hreflang="is" lang="is" title="Vindhraði – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%A2%A8%E9%80%9F" hreflang="ja" lang="ja" title="風速 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Vindstyrke" hreflang="no" lang="no" title="Vindstyrke – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Vindsn%C3%B8ggleik" hreflang="nn" lang="nn" title="Vindsnøggleik – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Shpejt%C3%ABsia_e_er%C3%ABs" hreflang="sq" lang="sq" title="Shpejtësia e erës – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Wind_speed" hreflang="simple" lang="simple" title="Wind speed – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Vindstyrka" hreflang="sv" lang="sv" title="Vindstyrka – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-chr"><a class="interlanguage-link-target" href="https://chr.wikipedia.org/wiki/%E1%8F%82%E1%8E%A6%E1%8F%AF%E1%8F%84%E1%8E%B8_%E1%8E%A4%E1%8F%83%E1%8E%B4" hreflang="chr" lang="chr" title="ᏂᎦᏯᏄᎸ ᎤᏃᎴ – Cherokee">ᏣᎳᎩ</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/R%C3%BCzg%C3%A2r_h%C4%B1z%C4%B1" hreflang="tr" lang="tr" title="Rüzgâr hızı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%A2%A8%E9%80%9F" hreflang="zh-yue" lang="zh-yue" title="風速 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%A2%A8%E9%80%9F" hreflang="zh" lang="zh" title="風速 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1464943#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 October 2017, at 15:37.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Wind_speed&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.159","ppvisitednodes":{"value":440,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12077,"limit":2097152},"templateargumentsize":{"value":184,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  131.370      1 -total"," 53.81%   70.690      1 Template:Reflist"," 33.09%   43.471      5 Template:Cite_web"," 30.72%   40.363      2 Template:Convert","  7.73%   10.161      1 Template:Main","  6.41%    8.423      2 Template:Cite_news","  6.19%    8.136      1 Template:Commons","  5.24%    6.886      1 Template:Sister_project","  3.91%    5.136      1 Template:Webarchive","  3.84%    5.045      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.061","limit":"10.000"},"limitreport-memusage":{"value":4350114,"limit":52428800}},"cachereport":{"origin":"mw1313","timestamp":"20171031153739","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1238"});});</script>
+</body>
+</html>

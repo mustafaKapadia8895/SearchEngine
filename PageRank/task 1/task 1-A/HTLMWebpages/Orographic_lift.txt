@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Orographic lift - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orographic_lift","wgTitle":"Orographic lift","wgCurRevisionId":781926318,"wgRevisionId":781926318,"wgArticleId":377177,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Climate forcing agents","Land surface effects on climate","Mountain meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Orographic_lift","wgRelevantArticleId":377177,"wgRequestId":"WgFcBQpAIDQAACWLbBsAAAFN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1506685","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wave_cloud.jpg/1200px-Wave_cloud.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Orographic_lift" rel="alternate"/>
+<link href="/w/index.php?title=Orographic_lift&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Orographic_lift&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Orographic_lift" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Orographic_lift rootpage-Orographic_lift vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Orographic lift</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a class="image" href="/wiki/File:Wave_cloud.jpg"><img alt="" class="thumbimage" data-file-height="1215" data-file-width="1919" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wave_cloud.jpg/320px-Wave_cloud.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wave_cloud.jpg/480px-Wave_cloud.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wave_cloud.jpg/640px-Wave_cloud.jpg 2x" width="320"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wave_cloud.jpg" title="Enlarge"></a></div>
+A <a href="/wiki/Gravity_wave" title="Gravity wave">gravity wave</a> cloud pattern—analogous to a ship <a href="/wiki/Wake" title="Wake">wake</a>—in the downwind zone behind the <a href="/wiki/%C3%8Ele_Amsterdam" title="Île Amsterdam">Île Amsterdam</a>, in the far southern <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a>. The island generates wave motion in the wind passing over it, creating regularly spaced orographic clouds. The wave crests raise and cool the air to form clouds, while the troughs remain too low for cloud formation. Note that while the wave motion is generated by orographic lift, it is not required. In other words, one cloud often forms at the peak. See <a href="/wiki/Wave_cloud" title="Wave cloud">wave cloud</a>.</div>
+</div>
+</div>
+<p><b>Orographic lift</b> occurs when an <a href="/wiki/Air_mass" title="Air mass">air mass</a> is forced from a low <a href="/wiki/Elevation" title="Elevation">elevation</a> to a higher elevation as it moves over rising <a href="/wiki/Terrain" title="Terrain">terrain</a>. As the air mass gains <a href="/wiki/Altitude" title="Altitude">altitude</a> it quickly cools down <a class="mw-redirect" href="/wiki/Adiabatic_cooling" title="Adiabatic cooling">adiabatically</a>, which can raise the <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> to 100% and create <a href="/wiki/Cloud" title="Cloud">clouds</a> and, under the right conditions, <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Effects_of_orographic_lifting"><span class="tocnumber">1</span> <span class="toctext">Effects of orographic lifting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Precipitation"><span class="tocnumber">1.1</span> <span class="toctext">Precipitation</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Rain_shadowing"><span class="tocnumber">1.2</span> <span class="toctext">Rain shadowing</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Leeward_winds"><span class="tocnumber">1.3</span> <span class="toctext">Leeward winds</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Associated_clouds"><span class="tocnumber">1.4</span> <span class="toctext">Associated clouds</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Effects_of_orographic_lifting">Effects of orographic lifting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orographic_lift&amp;action=edit&amp;section=1" title="Edit section: Effects of orographic lifting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Precipitation">Precipitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orographic_lift&amp;action=edit&amp;section=2" title="Edit section: Precipitation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Precipitation induced by orographic lift occurs in <a href="/wiki/Rain_shadow#Regions_of_notable_rain_shadow" title="Rain shadow">many places throughout the world</a>. Examples include:</p>
+<ul>
+<li>The <a href="/wiki/Mogollon_Rim" title="Mogollon Rim">Mogollon Rim</a> in central Arizona</li>
+<li>The western slope of the <a href="/wiki/Sierra_Nevada_(U.S.)" title="Sierra Nevada (U.S.)">Sierra Nevada</a> range in California</li>
+<li>The mountains near Baja California North – specifically La Bocana to Laguna Hanson.</li>
+<li>The windward slopes of Khasi and Jayantia Hills (see <a href="/wiki/Mawsynram" title="Mawsynram">Mawsynram</a>) in the state of <a href="/wiki/Meghalaya" title="Meghalaya">Meghalaya</a> in India.</li>
+<li>The Western Highlands of <a href="/wiki/Yemen#Regions_and_climate" title="Yemen">Yemen</a>, which receive by far the most rain in Arabia.</li>
+<li>The <a href="/wiki/Western_Ghats" title="Western Ghats">Western Ghats</a> that run along India's western coast.</li>
+<li>The <a href="/wiki/Great_Dividing_Range" title="Great Dividing Range">Great Dividing Range</a> of Eastern and South Eastern Australia which forces uplift of moist air originating from the ocean to the east.</li>
+<li>The mountains of <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, which faces a prevailing <a href="/wiki/Westerlies" title="Westerlies">westerly</a> flow off the <a href="/wiki/Tasman_Sea" title="Tasman Sea">Tasman Sea</a>.</li>
+<li>The mountains of western <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a> which also face a prevailing westerly flow.</li>
+<li>The southern <a href="/wiki/Andes" title="Andes">Andes</a>, which faces a prevailing westerly flow off the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a>.</li>
+<li>The <a href="/wiki/Northwestern_United_States" title="Northwestern United States">Northwestern United States</a> and <a href="/wiki/Canada" title="Canada">Canada</a> (<a href="/wiki/Oregon" title="Oregon">Oregon</a>, <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>, <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a>, and Southern <a href="/wiki/Alaska" title="Alaska">Alaska</a>) see prevailing westerly flow off the northern <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a>. Places on the sea-facing side of coastal mountains see in excess of 140 inches (over 3.5 m) of <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> per year. These locales are on the side of the <a href="/wiki/Mountain" title="Mountain">mountains</a> which are in the path of <a href="/wiki/Storm" title="Storm">storm</a> systems, and therefore receive the moisture which is effectively squeezed from the clouds.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Dreamy_Twilight.jpg"><img alt="" class="thumbimage" data-file-height="2112" data-file-width="2816" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dreamy_Twilight.jpg/220px-Dreamy_Twilight.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dreamy_Twilight.jpg/330px-Dreamy_Twilight.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dreamy_Twilight.jpg/440px-Dreamy_Twilight.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Dreamy_Twilight.jpg" title="Enlarge"></a></div>
+Windy evening <a href="/wiki/Twilight" title="Twilight">twilight</a> enhanced by the Sun's angle, can visually mimic a <a href="/wiki/Tornado" title="Tornado">tornado</a> resulting from orographic lift</div>
+</div>
+</div>
+<ul>
+<li>The <a href="/wiki/Ski_country" title="Ski country">ski country</a> region of <a href="/wiki/New_York_(state)" title="New York (state)">New York</a> and <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, particularly with <a class="mw-redirect" href="/wiki/Lake_effect_snow" title="Lake effect snow">lake effect snows</a>.</li>
+<li><a href="/wiki/Transylvania_County,_North_Carolina" title="Transylvania County, North Carolina">Transylvania County, North Carolina</a>, which gets the most rainfall of anywhere in the Eastern U.S. (90 inches [2,300 mm]).</li>
+<li>The <a href="/wiki/Appalachian_Mountains" title="Appalachian Mountains">Appalachian Mountains</a> in <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a> (particularly the western facing slopes).</li>
+<li>The <a href="/wiki/Ecoregions_of_Madagascar" title="Ecoregions of Madagascar">Eastern seaboard of</a> <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>.</li>
+<li><a href="/wiki/Table_Mountain" title="Table Mountain">Table Mountain</a>, <a href="/wiki/Cape_Town" title="Cape Town">Cape Town</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a>. The cold Atlantic air mass flows up over the north western face to 3,500 feet (1,100 m) above sea level and is met by the warm Indian Ocean air mass from the south eastern back side of the mountain forming the famous "Table Cloth".</li>
+<li><a href="/wiki/Oppland" title="Oppland">Oppland</a> mountain area, <a href="/wiki/Norway" title="Norway">Norway</a>..</li>
+<li>The Front Range Foothills of Northern Colorado – west of Boulder to Golden as storms pass by. Winter storms can produce 5–6 feet (1.5–1.8 m) of snow.</li>
+</ul>
+<h3><span class="mw-headline" id="Rain_shadowing">Rain shadowing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orographic_lift&amp;action=edit&amp;section=3" title="Edit section: Rain shadowing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Rain_shadow" title="Rain shadow">Rain shadow</a></div>
+<p>The highest precipitation amounts are found slightly upwind from the prevailing winds at the crests of mountain ranges, where they relieve and therefore the upward lifting is greatest. As the air descends the lee side of the mountain, it warms and dries, creating a rain shadow. On the lee side of the mountains, sometimes as little as 15 miles (25 km) away from high precipitation zones, annual <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> can be as low as 8 inches (200 mm) per year.<sup class="reference" id="cite_ref-Whiteman_1-0"><a href="#cite_note-Whiteman-1">[1]</a></sup></p>
+<p>Areas where this effect is observed include:</p>
+<ul>
+<li>The <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> block moisture from the <a href="/wiki/Tibetan_Plateau" title="Tibetan Plateau">Tibetan Plateau</a></li>
+<li>The <a href="/wiki/Atacama_Desert" title="Atacama Desert">Atacama Desert</a> in <a href="/wiki/Peru" title="Peru">Peru</a> and <a href="/wiki/Chile" title="Chile">Chile</a></li>
+<li><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>'s <a class="mw-redirect" href="/wiki/Rh%C3%B4ne_River" title="Rhône River">Rhone valley</a></li>
+<li>Areas east of the <a href="/wiki/Cascade_Range" title="Cascade Range">Cascade Range</a> in the Pacific Northwest (<a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a> and <a href="/wiki/Oregon" title="Oregon">Oregon</a>)</li>
+<li>Areas east of the <a href="/wiki/Olympic_Mountains" title="Olympic Mountains">Olympic Mountains</a> in Washington state, (i.e. <a href="/wiki/Sequim,_Washington" title="Sequim, Washington">Sequim, Washington</a>)</li>
+<li>The <a href="/wiki/Great_Basin" title="Great Basin">Great Basin</a> of the United States, east of the <a href="/wiki/Sierra_Nevada_(U.S.)" title="Sierra Nevada (U.S.)">Sierra Nevada</a></li>
+<li><a class="mw-redirect" href="/wiki/Geography_of_the_United_States_Pacific_Mountain_System" title="Geography of the United States Pacific Mountain System">Geography of the United States Pacific Mountain System</a></li>
+<li><a class="mw-redirect" href="/wiki/Pacific_Cordillera" title="Pacific Cordillera">Pacific Cordillera</a></li>
+<li><a href="/wiki/California" title="California">California</a>'s <a href="/wiki/Central_Valley_(California)" title="Central Valley (California)">Central Valley</a></li>
+<li>The <a href="/wiki/Canadian_Prairies" title="Canadian Prairies">Canadian Prairies</a></li>
+<li>All of the <a href="/wiki/Hawaiian_Islands" title="Hawaiian Islands">Hawaiian Islands</a>. The entire island of <a href="/wiki/Kahoolawe" title="Kahoolawe">Kaho'olawe</a> is in the rain shadow of <a href="/wiki/Maui" title="Maui">Maui</a></li>
+<li>North East England is in the rain shadow of the Pennines, this combined with Britain's prevailing wind from the South West. This explains the significant differences between the rainfall in the North West and North East.</li>
+<li>The <a class="mw-redirect" href="/wiki/Judean_Desert" title="Judean Desert">Judean Desert</a> in the Land of Israel and the <a href="/wiki/Dead_Sea" title="Dead Sea">Dead Sea</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Leeward_winds">Leeward winds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orographic_lift&amp;action=edit&amp;section=4" title="Edit section: Leeward winds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:408px;max-width:408px">
+<div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Orographic_lifting_of_the_air_-_NOAA.jpg"><img alt="" data-file-height="1136" data-file-width="1776" height="128" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orographic_lifting_of_the_air_-_NOAA.jpg/200px-Orographic_lifting_of_the_air_-_NOAA.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orographic_lifting_of_the_air_-_NOAA.jpg/300px-Orographic_lifting_of_the_air_-_NOAA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orographic_lifting_of_the_air_-_NOAA.jpg/400px-Orographic_lifting_of_the_air_-_NOAA.jpg 2x" width="200"/></a></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Tadrart01.JPG"><img alt="" data-file-height="2048" data-file-width="3072" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tadrart01.JPG/200px-Tadrart01.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tadrart01.JPG/300px-Tadrart01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tadrart01.JPG/400px-Tadrart01.JPG 2x" width="200"/></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">A <a href="/wiki/Pileus_(meteorology)" title="Pileus (meteorology)">cap cloud</a> (left) and <a href="/wiki/Wave_cloud" title="Wave cloud">wave clouds</a></div>
+</div>
+</div>
+<p>Downslope winds occur on the leeward side of mountain barriers when a stable air mass is carried over the mountain by strong winds that increase in strength with height. Moisture is removed and latent heat released as the air mass is orographically lifted. As the air mass descends, it is compression heated. The warm <a href="/wiki/Foehn_wind" title="Foehn wind">foehn wind</a>, locally known as the <a href="/wiki/Chinook_wind" title="Chinook wind">Chinook wind</a>, <a class="mw-redirect" href="/wiki/Bergwind" title="Bergwind">Bergwind</a> or <a href="/wiki/Diablo_wind" title="Diablo wind">Diablo wind</a> or <a href="/wiki/Nor%27west_arch" title="Nor'west arch">Nor'wester</a> depending on the region, provide examples of this type of wind, and are driven in part by latent heat released by orographic-lifting-induced precipitation.</p>
+<p>A similar class of winds, the <a href="/wiki/Sirocco" title="Sirocco">Sirocco</a>, the <a href="/wiki/Bora_(wind)" title="Bora (wind)">Bora</a> and <a class="mw-redirect" href="/wiki/Santa_Ana_wind" title="Santa Ana wind">Santa Ana winds</a>, are examples where orographic lifting has limited effect since there is limited moisture to remove in the <a href="/wiki/Sahara" title="Sahara">Saharan</a> or other air masses; the Sirocco, Bora and Santa Ana are driven primarily by (<a class="mw-redirect" href="/wiki/Adiabatic" title="Adiabatic">adiabatic</a>) compression heating.</p>
+<h3><span class="mw-headline" id="Associated_clouds">Associated clouds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orographic_lift&amp;action=edit&amp;section=5" title="Edit section: Associated clouds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As air flows over mountain barriers, orographic lift can create a variety of cloud effects.</p>
+<ul>
+<li><i>Orographic fog</i> is formed as the air rises up the slope and will often envelope the summit. When the air is humid, some of the moisture will fall on the windward slope and on the summit of the mountain.</li>
+</ul>
+<ul>
+<li>When there is a high wind, a <i>banner cloud</i> is formed downwind of the upper slopes of isolated, steep-sided mountains. It is created by the low pressure areas in the downwind <a href="/wiki/Vortex" title="Vortex">vortices</a> drawing in relatively humid air from the lower slopes of the mountain. This reduction in pressure compared to the surrounding air increases condensation, in the same manner as an aircraft's <a href="/wiki/Wingtip_vortices" title="Wingtip vortices">wingtip vortices</a>. The most famous such cloud forms routinely in the lee of the <a href="/wiki/Matterhorn" title="Matterhorn">Matterhorn</a>.<sup class="reference" id="cite_ref-Whiteman_1-1"><a href="#cite_note-Whiteman-1">[1]</a></sup></li>
+</ul>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:408px;max-width:408px">
+<div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Banner_clouds.jpg"><img alt="" data-file-height="1411" data-file-width="1992" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Banner_clouds.jpg/200px-Banner_clouds.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Banner_clouds.jpg/300px-Banner_clouds.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Banner_clouds.jpg/400px-Banner_clouds.jpg 2x" width="200"/></a></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:New-Mexico-Lenticular.jpg"><img alt="" data-file-height="1728" data-file-width="2304" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/New-Mexico-Lenticular.jpg/200px-New-Mexico-Lenticular.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/New-Mexico-Lenticular.jpg/300px-New-Mexico-Lenticular.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/New-Mexico-Lenticular.jpg/400px-New-Mexico-Lenticular.jpg 2x" width="200"/></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">Banner cloud formation on the <a href="/wiki/Matterhorn" title="Matterhorn">Matterhorn</a> (left) and a <a href="/wiki/Lenticular_cloud" title="Lenticular cloud">lenticular cloud</a> in New Mexico</div>
+</div>
+</div>
+<ul>
+<li>The leeward edge of an extensive mass of orographic clouds may be quite distinct. On the leeward side of the mountain, the air flowing downward is known as a <a href="/wiki/Foehn_wind" title="Foehn wind">foehn wind</a>. Because some of the moisture that has condensed on the top of the mountain has precipitated, the foehn (or föhn) is drier, and the lower moisture content causes the descending air mass to warm up more than it had cooled down during ascent. The distinct cut-off line which forms along and parallel to the ridge line is sometimes known as a <i>foehn wall</i> (or <i>föhn wall</i>). This is because the edge appears stationary and it often appears to have an abrupt wall-like edge. A foehn wall is a common feature along the <a href="/wiki/Front_Range" title="Front Range">Front Range</a> of the <a href="/wiki/Colorado" title="Colorado">Colorado</a> <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rockies</a>.<sup class="reference" id="cite_ref-Whiteman_1-2"><a href="#cite_note-Whiteman-1">[1]</a></sup></li>
+<li>A <i>rotor cloud</i> is sometimes formed downwind and below the level of the ridge. It has the appearance of the ragged <a href="/wiki/Cumulus_cloud" title="Cumulus cloud">cumulus</a> cloud type but it is caused by a turbulent horizontal vortex, i.e. the air is very rough.</li>
+<li><i><a href="/wiki/Lenticular_cloud" title="Lenticular cloud">Lenticular clouds</a></i> are stationary lens-shaped clouds that are formed downwind of mountains by <a class="mw-redirect" href="/wiki/Lee_waves" title="Lee waves">lee waves</a> if the air mass is close to the dew point.<sup class="reference" id="cite_ref-Whiteman_1-3"><a href="#cite_note-Whiteman-1">[1]</a></sup> They are normally aligned at right-angles to the wind direction and are formed at altitudes up to 12,000 metres (39,370 ft).</li>
+<li>A <i>cap cloud</i> is a special form of the lenticular cloud with a base low enough that it forms around and covers the peak, capping it.<sup class="reference" id="cite_ref-Whiteman_1-4"><a href="#cite_note-Whiteman-1">[1]</a></sup></li>
+<li>A <i><a href="/wiki/Chinook_wind#Chinook_arch" title="Chinook wind">chinook arch cloud</a></i> is an extensive wave cloud. It has this special name in North America where it is associated with the <a href="/wiki/Chinook_wind" title="Chinook wind">Chinook wind</a>. It forms above the mountain range, usually at the beginning of a chinook wind as a result of orographic lifting over the range. It appears when seen from downwind to form an arch over the mountain range. A layer of clear air separates it from the mountain.<sup class="reference" id="cite_ref-Whiteman_1-5"><a href="#cite_note-Whiteman-1">[1]</a></sup></li>
+</ul>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:802px;"><a class="image" href="/wiki/File:Mountains_from_westlands.jpg"><img alt="" class="thumbimage" data-file-height="2649" data-file-width="13433" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mountains_from_westlands.jpg/800px-Mountains_from_westlands.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mountains_from_westlands.jpg/1200px-Mountains_from_westlands.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mountains_from_westlands.jpg/1600px-Mountains_from_westlands.jpg 2x" width="800"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mountains_from_westlands.jpg" title="Enlarge"></a></div>
+A view of the <a href="/wiki/Front_Range" title="Front Range">Front Range</a> of the <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rockies</a> capped by a föhn wall.</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orographic_lift&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Atmospheric convection</a></li>
+<li><a href="/wiki/Weather_front" title="Weather front">Weather front</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orographic_lift&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Whiteman-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Whiteman_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Whiteman_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Whiteman_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Whiteman_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Whiteman_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Whiteman_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Whiteman, C. David (2000). <i>Mountain Meteorology: Fundamentals and Applications</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-513271-8" title="Special:BookSources/0-19-513271-8">0-19-513271-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrographic+lift&amp;rft.au=Whiteman%2C+C.+David&amp;rft.btitle=Mountain+Meteorology%3A+Fundamentals+and+Applications&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-19-513271-8&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1220
+Cached time: 20171103111930
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.104 seconds
+Real time usage: 0.143 seconds
+Preprocessor visited node count: 282/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 4185/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 2.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   99.321      1 -total
+ 40.57%   40.292      4 Template:Convert
+ 31.63%   31.415      1 Template:Cite_book
+ 11.90%   11.823      1 Template:Main_article
+  7.82%    7.764      2 Template:Multiple_image
+  1.19%    1.179      1 Template:Clear
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:377177-0!canonical and timestamp 20171103111930 and revision id 781926318
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Orographic_lift&amp;oldid=781926318">https://en.wikipedia.org/w/index.php?title=Orographic_lift&amp;oldid=781926318</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_forcing_agents" title="Category:Climate forcing agents">Climate forcing agents</a></li><li><a href="/wiki/Category:Land_surface_effects_on_climate" title="Category:Land surface effects on climate">Land surface effects on climate</a></li><li><a href="/wiki/Category:Mountain_meteorology" title="Category:Mountain meteorology">Mountain meteorology</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orographic+lift" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Orographic+lift" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Orographic_lift" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Orographic_lift" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Orographic_lift">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Orographic_lift&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Orographic_lift&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Orographic_lift" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Orographic_lift" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Orographic_lift&amp;oldid=781926318" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Orographic_lift&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1506685" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Orographic_lift&amp;id=781926318" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Orographic+lift">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Orographic+lift&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Orographic_lift&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Orographic_clouds" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%BA%D9%8A%D9%88%D9%85_%D8%A8%D9%8A%D8%B1%D9%82%D9%8A%D8%A9" hreflang="ar" lang="ar" title="غيوم بيرقية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/N%C3%BAvol_orogr%C3%A0fic" hreflang="ca" lang="ca" title="Núvol orogràfic – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Stau_(Meteorologie)" hreflang="de" lang="de" title="Stau (Meteorologie) – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Nube_orogr%C3%A1fica" hreflang="es" lang="es" title="Nube orográfica – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%DB%8C_%DA%A9%D9%88%D9%87%D8%B3%D8%A7%D8%B1%DB%8C" hreflang="fa" lang="fa" title="بالابری کوهساری – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Soul%C3%A8vement_orographique" hreflang="fr" lang="fr" title="Soulèvement orographique – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sollevamento_orografico" hreflang="it" lang="it" title="Sollevamento orografico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A2%D7%A0%D7%A0%D7%95%D7%AA_%D7%90%D7%95%D7%A8%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%AA" hreflang="he" lang="he" title="עננות אורוגרפית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Stuwingsneerslag" hreflang="nl" lang="nl" title="Stuwingsneerslag – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Orografisk_heving" hreflang="no" lang="no" title="Orografisk heving – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Orografisk_heving" hreflang="nn" lang="nn" title="Orografisk heving – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Opad_orograficzny" hreflang="pl" lang="pl" title="Opad orograficzny – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Орографическая облачность – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Orografinen_pilvi" hreflang="fi" lang="fi" title="Orografinen pilvi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Orografisk_nederb%C3%B6rd" hreflang="sv" lang="sv" title="Orografisk nederbörd – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D0%B0_%D1%85%D0%BC%D0%B0%D1%80%D0%B0" hreflang="uk" lang="uk" title="Орографічна хмара – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1506685#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 May 2017, at 01:06.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Orographic_lift&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.143","ppvisitednodes":{"value":282,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":4185,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   99.321      1 -total"," 40.57%   40.292      4 Template:Convert"," 31.63%   31.415      1 Template:Cite_book"," 11.90%   11.823      1 Template:Main_article","  7.82%    7.764      2 Template:Multiple_image","  1.19%    1.179      1 Template:Clear"]},"scribunto":{"limitreport-timeusage":{"value":"0.043","limit":"10.000"},"limitreport-memusage":{"value":2784765,"limit":52428800}},"cachereport":{"origin":"mw1220","timestamp":"20171103111930","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1182"});});</script>
+</body>
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Hadley cell - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hadley_cell","wgTitle":"Hadley cell","wgCurRevisionId":798907345,"wgRevisionId":798907345,"wgArticleId":6953458,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with DOIs inactive since 2017","CS1 maint: Multiple names: authors list","Tropical meteorology","Oceanography"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hadley_cell","wgRelevantArticleId":6953458,"wgRequestId":"WgDwhQpAIDIAAAsUZEsAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q338589","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/6/6b/Omega-500-july-era40-1979.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hadley_cell" rel="alternate"/>
+<link href="/w/index.php?title=Hadley_cell&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Hadley_cell&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Hadley_cell" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hadley_cell rootpage-Hadley_cell vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Hadley cell</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Omega-500-july-era40-1979.png"><img alt="" class="thumbimage" data-file-height="376" data-file-width="717" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Omega-500-july-era40-1979.png/300px-Omega-500-july-era40-1979.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Omega-500-july-era40-1979.png/450px-Omega-500-july-era40-1979.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Omega-500-july-era40-1979.png/600px-Omega-500-july-era40-1979.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Omega-500-july-era40-1979.png" title="Enlarge"></a></div>
+Vertical velocity at 500 hPa, July average in units of pascals per second. Ascent (negative values) is concentrated close to the solar equator; descent (positive values) is more diffuse.</div>
+</div>
+</div>
+<p>The <b>Hadley cell</b>, named after <a href="/wiki/George_Hadley" title="George Hadley">George Hadley</a>, is a global scale tropical <a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">atmospheric circulation</a> that features air rising near the equator, flowing poleward at 10–15 kilometers above the surface, descending in the subtropics, and then returning equatorward near the surface. This circulation creates the <a class="mw-redirect" href="/wiki/Trade_wind" title="Trade wind">trade winds</a>, tropical rain-belts and <a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">hurricanes</a>, subtropical deserts and the <a href="/wiki/Jet_stream" title="Jet stream">jet streams</a>.</p>
+<p>In each hemisphere, there is one primary circulation cell known as a Hadley cell and two secondary circulation cells at higher latitudes, between 30° and 60° latitude known as the <a class="mw-redirect" href="/wiki/Ferrel_cell" title="Ferrel cell">Ferrel cell</a>, and beyond 60° as the <a href="/wiki/Polar_vortex" title="Polar vortex">Polar cell</a>. Each Hadley cell operates between zero and 30 to 40 degrees north and south and is mainly responsible for the weather in the equatorial regions of the world.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mechanism"><span class="tocnumber">1</span> <span class="toctext">Mechanism</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_of_discovery"><span class="tocnumber">2</span> <span class="toctext">History of discovery</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Major_impacts_on_precipitation_by_latitude"><span class="tocnumber">3</span> <span class="toctext">Major impacts on precipitation by latitude</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Hadley_cell_expansion"><span class="tocnumber">4</span> <span class="toctext">Hadley cell expansion</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadley_cell&amp;action=edit&amp;section=1" title="Edit section: Mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The major driving force of <a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">atmospheric circulation</a> is the uneven distribution of solar heating across the Earth, which is greatest near the equator and lesser at the poles. The atmospheric circulation transports energy polewards, thus reducing the resulting equator-to-pole temperature gradient. The mechanisms by which this is accomplished differ in tropical and extratropical latitudes.</p>
+<p>Hadley cells exist on either side of the equator. Each cell encircles the globe latitudinally and acts to transport energy from the equator to about the 30th latitude. The circulation exhibits the following phenomena<sup class="reference" id="cite_ref-:0_1-0"><a href="#cite_note-:0-1">[1]</a></sup>:</p>
+<ul>
+<li>Warm, moist air converging near the equator causes heavy precipitation. This releases latent heat, driving strong rising motions.</li>
+<li>This air rises to the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a>, about 10-15 kilometers above sea level, where the air is no longer buoyant.</li>
+<li>Unable to continue rising, this sub-stratospheric air is instead forced poleward by the continual rise of air below.</li>
+<li>As air moves poleward, it both cools and gains a strong eastward component due to the <a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis effect</a> and the conservation of <a href="/wiki/Angular_momentum" title="Angular momentum">angular momentum</a>. The resulting winds form the subtropical <a href="/wiki/Jet_stream" title="Jet stream">jet streams</a>.</li>
+<li>At about 30º latitude on either side of the equator, the jet streams become so much faster than the surface wind speed that <a href="/wiki/Baroclinity" title="Baroclinity">baroclinic instability</a> prevents the Hadley circulation from extending further poleward. This coincides with the beginning of the <a class="mw-redirect" href="/wiki/Ferrel_cell" title="Ferrel cell">Ferrel cells</a>.</li>
+<li>At this latitude, the now cool, dry, high altitude air begins to sink. As it sinks, it warms adiabatically, decreasing its relative humidity.</li>
+<li>Near the surface, a frictional return flow completes the loop, absorbing moisture along the way. The Coriolis effect gives this flow a westward component, creating the <a href="/wiki/Trade_winds" title="Trade winds">trade winds</a>.</li>
+</ul>
+<p>The Hadley circulation exhibits seasonal variation. During the solstitial seasons (DJF and JJA), the upward branch of the Hadley cell occurs not directly over the equator but rather in the summer hemisphere. In the annual mean, the upward branch is slightly offset into the northern hemisphere, making way for a stronger Hadley cell in the southern hemisphere. This evidences a small net energy transport from the northern to the southern hemisphere.<sup class="reference" id="cite_ref-:0_1-1"><a href="#cite_note-:0-1">[1]</a></sup></p>
+<p>The Hadley system provides an example of a thermally direct circulation. The thermodynamic efficiency of the Hadley system, considered as a heat engine, has been relatively constant over the 1979~2010 period, averaging 2.6%. Over the same interval, the power generated by the Hadley regime has risen at an average rate of about 0.54 TW per yr; this reflects an increase in energy input to the system consistent with the observed increasing of tropical sea surface temperatures.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Overall, mean meridional circulation cells such as the Hadley circulation are not particularly efficient at reducing the equator-to-pole temperature gradient due to cancellation between transports of different types of energy. In the Hadley cell, both sensible and latent heat are transported equatorward near the surface, while potential energy is transported above in the opposite direction, poleward. The resulting net poleward transport is only about 10% of this potential energy transport. This is partly a result of the strong constraints imposed on atmospheric motions by the conservation of angular momentum.<sup class="reference" id="cite_ref-:0_1-2"><a href="#cite_note-:0-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="History_of_discovery">History of discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadley_cell&amp;action=edit&amp;section=2" title="Edit section: History of discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Earth_Global_Circulation_-_en.svg"><img alt="" class="thumbimage" data-file-height="835" data-file-width="1000" height="334" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Earth_Global_Circulation_-_en.svg/400px-Earth_Global_Circulation_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Earth_Global_Circulation_-_en.svg/600px-Earth_Global_Circulation_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Earth_Global_Circulation_-_en.svg/800px-Earth_Global_Circulation_-_en.svg.png 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Earth_Global_Circulation_-_en.svg" title="Enlarge"></a></div>
+Hadley cells within an idealized depiction of the Earth's atmospheric circulation as they may appear at <a href="/wiki/Equinox" title="Equinox">equinox</a>.</div>
+</div>
+</div>
+<p>In the early 18th century, <a href="/wiki/George_Hadley" title="George Hadley">George Hadley</a>, an English lawyer and amateur <a class="mw-redirect" href="/wiki/Meteorologist" title="Meteorologist">meteorologist</a>, was dissatisfied with the theory that the astronomer <a href="/wiki/Edmond_Halley" title="Edmond Halley">Edmond Halley</a> had proposed for explaining the trade winds. What was no doubt correct in Halley's theory was that solar heating creates upward motion of equatorial air, and <a href="/wiki/Air_mass" title="Air mass">air mass</a> from neighboring latitudes must flow in to replace the risen air mass. But for the westward component of the trade winds Halley had proposed that in moving across the sky the Sun heats the air mass differently over the course of the day. Hadley was not satisfied with that part of Halley's theory and rightly so. Hadley was the first to recognize that Earth's rotation plays a role in the direction taken by an air mass as it moves relative to the Earth. Hadley's theory, published in 1735, remained unknown, but it was rediscovered independently several times. Among the re-discoverers was <a href="/wiki/John_Dalton" title="John Dalton">John Dalton</a>, who later learned of Hadley's priority. Over time the mechanism proposed by Hadley became accepted, and over time his name was increasingly attached to it. By the end of the 19th century it was shown that Hadley's theory was deficient in several respects. One of the first who accounted for the dynamics correctly was <a href="/wiki/William_Ferrel" title="William Ferrel">William Ferrel</a>. It took many decades for the correct theory to become accepted, and even today Hadley's theory can still be encountered occasionally, particularly in popular books and websites.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Hadley's theory was the generally accepted theory long enough to make his name become universally attached to the circulation pattern in the tropical atmosphere. In 1980 <a href="/wiki/Isaac_Held" title="Isaac Held">Isaac Held</a> and Arthur Hou developed the <a href="/wiki/Held-Hou_Model" title="Held-Hou Model">Held-Hou Model</a> to describe the Hadley circulation.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:MeanMonthlyP.gif"><img alt="" class="thumbimage" data-file-height="744" data-file-width="1200" height="248" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MeanMonthlyP.gif/400px-MeanMonthlyP.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MeanMonthlyP.gif/600px-MeanMonthlyP.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MeanMonthlyP.gif/800px-MeanMonthlyP.gif 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:MeanMonthlyP.gif" title="Enlarge"></a></div>
+Long-term mean precipitation by month</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg"><img alt="" class="thumbimage" data-file-height="3002" data-file-width="3000" height="350" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/350px-The_Earth_seen_from_Apollo_17.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/525px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/700px-The_Earth_seen_from_Apollo_17.jpg 2x" width="350"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg" title="Enlarge"></a></div>
+Cloud formations in a famous image of Earth from Apollo 17, makes atmospheric circulation directly visible</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Major_impacts_on_precipitation_by_latitude">Major impacts on precipitation by latitude</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadley_cell&amp;action=edit&amp;section=3" title="Edit section: Major impacts on precipitation by latitude">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The region in which the equatorward moving air masses converge and rise, is known as the <a class="mw-redirect" href="/wiki/Intertropical_convergence_zone" title="Intertropical convergence zone">intertropical convergence zone</a>, or ITCZ. Within that zone develops a band of thunderstorms that produce high-precipitation.</p>
+<p>Having lost most of its water vapor to condensation and precipitation in the upward branch of the Hadley cell circulation, the descending air is dry. As the air descends, low relative humidities are produced as the air is warmed <a class="mw-redirect" href="/wiki/Adiabatic_lapse_rate" title="Adiabatic lapse rate">adiabatically</a> by compression from the overlying air, producing a region of higher pressure. The subtropics are relatively free of the convection, or thunderstorms, that are common in the equatorial belt. Many of the world's deserts are located in these subtropical latitudes. Although the deserts do not extend to the eastern side of the various continents because of ocean currents caused by the Trade Winds.</p>
+<h2><span class="mw-headline" id="Hadley_cell_expansion">Hadley cell expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadley_cell&amp;action=edit&amp;section=4" title="Edit section: Hadley cell expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is some evidence that the expansion of the Hadley cells is related to climate change.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The majority of Earth's arid regions are located in the areas beneath the descending part of the Hadley circulation at around 30 degrees latitude.<sup class="reference" id="cite_ref-simple_5-0"><a href="#cite_note-simple-5">[5]</a></sup> Those models show that the Hadley cell will expand with increased global mean temperature (perhaps by 2 degrees latitude over the 21st century <sup class="reference" id="cite_ref-tropics_6-0"><a href="#cite_note-tropics-6">[6]</a></sup>). This might lead to large changes in precipitation in the latitudes at the edge of the cells.<sup class="reference" id="cite_ref-simple_5-1"><a href="#cite_note-simple-5">[5]</a></sup> Scientists fear that global warming might bring changes to the ecosystems in the deep tropics and that the deserts will become drier and expand.<sup class="reference" id="cite_ref-tropics_6-1"><a href="#cite_note-tropics-6">[6]</a></sup> As the areas around 30 degrees latitude become drier, those inhabiting that region will see less rainfall than traditionally expected, which could cause difficulty with food supplies and livability.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> There is strong evidence of paleoclimate climate change in central Africa's rain forest in c. 850 B.C.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Palynological (fossil pollen) evidence shows a drastic change in rain forest biome to that of open savannah as a consequence of wide-scale drying not connected necessarily to intermittent drought but perhaps to gradual warming. The hypothesis, that a decline in solar activity reduces the latitudinal extent of the Hadley Circulation and decreases mid-latitudinal monsoon intensity, is matched by data, showing increased dryness in central west Africa and increase in precipitation in temperate zones north. Meanwhile, mid-latitudinal storm tracks in the temperate zones increased and moved equatorward.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadley_cell&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Intertropical_convergence_zone" title="Intertropical convergence zone">Intertropical convergence zone</a></li>
+<li><a class="mw-redirect" href="/wiki/Prevailing_wind" title="Prevailing wind">Prevailing wind</a></li>
+<li><a href="/wiki/Subtropical_ridge" title="Subtropical ridge">Subtropical ridge</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadley_cell&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">L.,, Hartmann, Dennis. <a class="external text" href="https://www.worldcat.org/oclc/944522711" rel="nofollow"><i>Global physical climatology</i></a>. Elsevier. pp. 165–76. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780123285317" title="Special:BookSources/9780123285317">9780123285317</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/944522711" rel="nofollow">944522711</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.aufirst=Hartmann%2C+Dennis&amp;rft.aulast=L.%2C&amp;rft.btitle=Global+physical+climatology&amp;rft.genre=book&amp;rft.isbn=9780123285317&amp;rft.pages=165-76&amp;rft.pub=Elsevier&amp;rft_id=https%3A%2F%2Fwww.worldcat.org%2Foclc%2F944522711&amp;rft_id=info%3Aoclcnum%2F944522711&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Junling Huang; Michael B. McElroy (2014). <a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00538.1" rel="nofollow">"Contributions of the Hadley and Ferrel Circulations to the Energetics of the Atmosphere over the Past 32 Years"</a>. <i>Journal of Climate</i>. <b>27</b> (7): 2656–2666. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014JCli...27.2656H" rel="nofollow">2014JCli...27.2656H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2Fjcli-d-13-00538.1" rel="nofollow">10.1175/jcli-d-13-00538.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=Contributions+of+the+Hadley+and+Ferrel+Circulations+to+the+Energetics+of+the+Atmosphere+over+the+Past+32+Years&amp;rft.au=Junling+Huang&amp;rft.au=Michael+B.+McElroy&amp;rft.date=2014&amp;rft.genre=article&amp;rft.issue=7&amp;rft.jtitle=Journal+of+Climate&amp;rft.pages=2656-2666&amp;rft.volume=27&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2FJCLI-D-13-00538.1&amp;rft_id=info%3Abibcode%2F2014JCli...27.2656H&amp;rft_id=info%3Adoi%2F10.1175%2Fjcli-d-13-00538.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Anders Persson (2006). <a class="external text" href="http://www.meteohistory.org/2006historyofmeteorology3/2persson_hadley.pdf" rel="nofollow">"Hadley's Principle: Understanding and Misunderstanding the Trade Winds"</a> <span style="font-size:85%;">(PDF)</span>. <i>History of Meteorology</i>. <b>3</b>: 17–42.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=Hadley%27s+Principle%3A+Understanding+and+Misunderstanding+the+Trade+Winds&amp;rft.au=Anders+Persson&amp;rft.date=2006&amp;rft.genre=article&amp;rft.jtitle=History+of+Meteorology&amp;rft.pages=17-42&amp;rft.volume=3&amp;rft_id=http%3A%2F%2Fwww.meteohistory.org%2F2006historyofmeteorology3%2F2persson_hadley.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Xiao-Wei Quan; Henry F. Diaz; Martin P. Hoerling (2004). <a class="external text" href="http://www.springerlink.com/content/m02p12416416604x/" rel="nofollow">"Changes in the Tropical Hadley Cell since 1950"</a>. In Henry F. Diaz; Raymond S. Bradley. <i>The Hadley Circulation: Present, Past, and Future</i>. Advances in Global Change Research. <b>21</b>. Springer Netherlands. pp. 85–120. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4020-2943-1" title="Special:BookSources/978-1-4020-2943-1">978-1-4020-2943-1</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2F978-1-4020-2944-8" rel="nofollow">10.1007/978-1-4020-2944-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=Changes+in+the+Tropical+Hadley+Cell+since+1950&amp;rft.au=Henry+F.+Diaz&amp;rft.au=Martin+P.+Hoerling&amp;rft.au=Xiao-Wei+Quan&amp;rft.btitle=The+Hadley+Circulation%3A+Present%2C+Past%2C+and+Future&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft.isbn=978-1-4020-2943-1&amp;rft.pages=85-120&amp;rft.pub=Springer+Netherlands&amp;rft.series=Advances+in+Global+Change+Research&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Fm02p12416416604x%2F&amp;rft_id=info%3Adoi%2F10.1007%2F978-1-4020-2944-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> Preprint at '<a class="external text" href="http://www.esrl.noaa.gov/psd/people/quan.xiaowei/PDF/HCpaper.pdf" rel="nofollow">Change of the Tropical Hadley Cell Since 1950</a>', NOAA-CIRES Climate Diagnostic Center (2004) (PDF file 2.9 MB)</span></li>
+<li id="cite_note-simple-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-simple_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-simple_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Dargan M.W. Frierson; Jian Lu; Gang Chen (2007). <a class="external text" href="http://sunspot.eas.cornell.edu/~gc352/Files/flc07.pdf" rel="nofollow">"Width of the Hadley cell in simple and comprehensive general circulation models"</a> <span style="font-size:85%;">(PDF)</span>. <i>Geophysical Research Letters</i>. <b>34</b> (18): L18804. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007GeoRL..3418804F" rel="nofollow">2007GeoRL..3418804F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2007GL031115" rel="nofollow">10.1029/2007GL031115</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=Width+of+the+Hadley+cell+in+simple+and+comprehensive+general+circulation+models&amp;rft.au=Dargan+M.W.+Frierson&amp;rft.au=Gang+Chen&amp;rft.au=Jian+Lu&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=18&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.pages=L18804&amp;rft.volume=34&amp;rft_id=http%3A%2F%2Fsunspot.eas.cornell.edu%2F~gc352%2FFiles%2Fflc07.pdf&amp;rft_id=info%3Abibcode%2F2007GeoRL..3418804F&amp;rft_id=info%3Adoi%2F10.1029%2F2007GL031115&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-tropics-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-tropics_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tropics_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Dian J. Seidel; Qian Fu; William J. Randel; Thomas J. Reichler (2007). <a class="external text" href="http://www.nature.com/ngeo/journal/v1/n1/full/ngeo.2007.38.html" rel="nofollow">"Widening of the tropical belt in a changing climate"</a>. <i>Nature Geoscience</i>. <b>1</b> (1): 21–4. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2008NatGe...1...21S" rel="nofollow">2008NatGe...1...21S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:10.1038/ngeo.2007.38 (inactive 2017-08-22).</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=Widening+of+the+tropical+belt+in+a+changing+climate&amp;rft.au=Dian+J.+Seidel&amp;rft.au=Qian+Fu&amp;rft.au=Thomas+J.+Reichler&amp;rft.au=William+J.+Randel&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Nature+Geoscience&amp;rft.pages=21-4&amp;rft.volume=1&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fngeo%2Fjournal%2Fv1%2Fn1%2Ffull%2Fngeo.2007.38.html&amp;rft_id=info%3Abibcode%2F2008NatGe...1...21S&amp;rft_id=info%3Adoi%2F10.1038%2Fngeo.2007.38&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Celeste M. Johanson; Qiang Fu (2009). <a class="external text" href="http://www.atmos.washington.edu/~qfu/Publications/jc.johanson.2009.pdf" rel="nofollow">"Hadley Cell Widening: Model Simulations versus Observations"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Climate</i>. <b>22</b> (10): 2713–25. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2009JCli...22.2713J" rel="nofollow">2009JCli...22.2713J</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F2008JCLI2620.1" rel="nofollow">10.1175/2008JCLI2620.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=Hadley+Cell+Widening%3A+Model+Simulations+versus+Observations&amp;rft.au=Celeste+M.+Johanson&amp;rft.au=Qiang+Fu&amp;rft.date=2009&amp;rft.genre=article&amp;rft.issue=10&amp;rft.jtitle=Journal+of+Climate&amp;rft.pages=2713-25&amp;rft.volume=22&amp;rft_id=http%3A%2F%2Fwww.atmos.washington.edu%2F~qfu%2FPublications%2Fjc.johanson.2009.pdf&amp;rft_id=info%3Abibcode%2F2009JCli...22.2713J&amp;rft_id=info%3Adoi%2F10.1175%2F2008JCLI2620.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">van Geel B.,van der Plicht, J.,Kilian, M.R., (1998). "The sharp rise of 14C ca. 800 cal BP:possible causes, related climatic teleconnections and the impact on human environments.". <i>Radiocarbon</i>. <b>40</b> (1): 535–550.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=The+sharp+rise+of+14C+ca.+800+cal+BP%3Apossible+causes%2C+related+climatic+teleconnections+and+the+impact+on+human+environments.&amp;rft.au=van+Geel+B.%2Cvan+der+Plicht%2C+J.%2CKilian%2C+M.R.%2C&amp;rft.date=1998&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Radiocarbon&amp;rft.pages=535-550&amp;rft.volume=40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">van Geel B., Renssen, H., (1998). "Abrupt climate change around 2650 BP in North-West Europe:evidence for climatic teleconnections and a tentative explanation". In Issar, A.S.,Brown, N. <i>Water, Environment and Society in Times of Climatic Change</i>. Kluwer Academic Publishers, Dordrecht. pp. 21–41.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadley+cell&amp;rft.atitle=Abrupt+climate+change+around+2650+BP+in+North-West+Europe%3Aevidence+for+climatic+teleconnections+and+a+tentative+explanation&amp;rft.au=van+Geel+B.%2C+Renssen%2C+H.%2C&amp;rft.btitle=Water%2C+Environment+and+Society+in+Times+of+Climatic+Change&amp;rft.date=1998&amp;rft.genre=bookitem&amp;rft.pages=21-41&amp;rft.pub=Kluwer+Academic+Publishers%2C+Dordrecht&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadley_cell&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.recreationalflying.com/tutorials/meteorology/section4.html" rel="nofollow">Planetary-scale tropospheric systems, John Brandon's 'Fly Safe!' tutorials</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080721170544/http://www.raa.asn.au/meteorology/section4.html" rel="nofollow">Planetary scale tropospheric systems, Recreational Aviation Australia</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1279
+Cached time: 20171018151712
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.120 seconds
+Real time usage: 0.148 seconds
+Preprocessor visited node count: 513/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19209/2097152 bytes
+Template argument size: 75/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.050/10.000 seconds
+Lua memory usage: 2.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  101.754      1 Template:Reflist
+100.00%  101.754      1 -total
+ 53.03%   53.961      3 Template:Cite_book
+ 25.28%   25.720      6 Template:Cite_journal
+  2.03%    2.064      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6953458-0!canonical and timestamp 20171018151711 and revision id 798907345
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hadley_cell&amp;oldid=798907345">https://en.wikipedia.org/w/index.php?title=Hadley_cell&amp;oldid=798907345</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tropical_meteorology" title="Category:Tropical meteorology">Tropical meteorology</a></li><li><a href="/wiki/Category:Oceanography" title="Category:Oceanography">Oceanography</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_DOIs_inactive_since_2017" title="Category:Pages with DOIs inactive since 2017">Pages with DOIs inactive since 2017</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hadley+cell" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Hadley+cell" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Hadley_cell" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Hadley_cell" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Hadley_cell">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Hadley_cell&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Hadley_cell&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Hadley_cell" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Hadley_cell" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hadley_cell&amp;oldid=798907345" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hadley_cell&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q338589" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hadley_cell&amp;id=798907345" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hadley+cell">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hadley+cell&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Hadley_cell&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Atmospheric_circulation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%AC%D9%8A%D8%B1%D8%A9_%D9%87%D8%A7%D8%AF%D9%84%D9%8A" hreflang="ar" lang="ar" title="حجيرة هادلي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Hadley_s%C3%BBn-kho%C3%A2n" hreflang="zh-min-nan" lang="zh-min-nan" title="Hadley sûn-khoân – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A6%D1%8B%D1%80%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D1%8B%D1%8F_%D0%B0%D1%82%D0%BC%D0%B0%D1%81%D1%84%D0%B5%D1%80%D1%8B" hreflang="be" lang="be" title="Цыркуляцыя атмасферы – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/C%C3%A8l%C2%B7lula_de_Hadley" hreflang="ca" lang="ca" title="Cèl·lula de Hadley – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hadley-Zelle" hreflang="de" lang="de" title="Hadley-Zelle – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/C%C3%A9lula_de_Hadley" hreflang="es" lang="es" title="Célula de Hadley – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%88%D9%84_%D9%87%D8%A7%D8%AF%D9%84%DB%8C" hreflang="fa" lang="fa" title="سلول هادلی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Circulation_atmosph%C3%A9rique#Cellules_de_Hadley" hreflang="fr" lang="fr" title="Circulation atmosphérique – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/C%C3%A9lula_de_Hadley" hreflang="gl" lang="gl" title="Célula de Hadley – Galician">Galego</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Cella_di_Hadley" hreflang="it" lang="it" title="Cella di Hadley – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Hadley-cella" hreflang="hu" lang="hu" title="Hadley-cella – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Hadleycel" hreflang="nl" lang="nl" title="Hadleycel – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%89%E3%83%AC%E3%83%BC%E5%BE%AA%E7%92%B0" hreflang="ja" lang="ja" title="ハドレー循環 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Hadleycelle" hreflang="no" lang="no" title="Hadleycelle – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Hadleycelle" hreflang="nn" lang="nn" title="Hadleycelle – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kom%C3%B3rka_Hadleya" hreflang="pl" lang="pl" title="Komórka Hadleya – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/C%C3%A9lula_de_Hadley" hreflang="pt" lang="pt" title="Célula de Hadley – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AF%D1%87%D0%B5%D0%B9%D0%BA%D0%B0_%D0%A5%D1%8D%D0%B4%D0%BB%D0%B8" hreflang="ru" lang="ru" title="Ячейка Хэдли – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Hadleyn_solu" hreflang="fi" lang="fi" title="Hadleyn solu – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Hadleycell" hreflang="sv" lang="sv" title="Hadleycell – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D1%96%D1%80%D0%BA%D0%B0_%D0%93%D0%B0%D0%B4%D0%BB%D1%96" hreflang="uk" lang="uk" title="Комірка Гадлі – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%93%88%E5%BE%B7%E9%87%8C%E7%92%B0%E6%B5%81%E5%9C%88" hreflang="zh" lang="zh" title="哈德里環流圈 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q338589#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 September 2017, at 14:21.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Hadley_cell&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.148","ppvisitednodes":{"value":513,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19209,"limit":2097152},"templateargumentsize":{"value":75,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  101.754      1 Template:Reflist","100.00%  101.754      1 -total"," 53.03%   53.961      3 Template:Cite_book"," 25.28%   25.720      6 Template:Cite_journal","  2.03%    2.064      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"10.000"},"limitreport-memusage":{"value":3014699,"limit":52428800}},"cachereport":{"origin":"mw1279","timestamp":"20171018151712","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1180"});});</script>
+</body>
+</html>

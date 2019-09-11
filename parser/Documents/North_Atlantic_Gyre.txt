@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>North Atlantic Gyre - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"North_Atlantic_Gyre","wgTitle":"North Atlantic Gyre","wgCurRevisionId":765180618,"wgRevisionId":765180618,"wgArticleId":1940889,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Atlantic Ocean","Oceanic gyres"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"North_Atlantic_Gyre","wgRelevantArticleId":1940889,"wgRequestId":"WgHLXgpAMFcAAIrWSw4AAABC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5254916","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b4/North_Atlantic_Gyre.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/North_Atlantic_Gyre" rel="alternate"/>
+<link href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/North_Atlantic_Gyre" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-North_Atlantic_Gyre rootpage-North_Atlantic_Gyre vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">North Atlantic Gyre</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a class="image" href="/wiki/File:North_Atlantic_Gyre.png"><img alt="" class="thumbimage" data-file-height="539" data-file-width="748" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/North_Atlantic_Gyre.png/280px-North_Atlantic_Gyre.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/North_Atlantic_Gyre.png/420px-North_Atlantic_Gyre.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/North_Atlantic_Gyre.png/560px-North_Atlantic_Gyre.png 2x" width="280"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:North_Atlantic_Gyre.png" title="Enlarge"></a></div>
+View of the currents surrounding the gyre.</div>
+</div>
+</div>
+<p>The <b>North Atlantic Gyre</b>, located in the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, is one of the five major <a class="mw-redirect" href="/wiki/Oceanic_gyre" title="Oceanic gyre">oceanic gyres</a>. It is a circular system of <a class="mw-redirect" href="/wiki/Ocean_currents" title="Ocean currents">ocean currents</a> that stretches across the North Atlantic from near the <a href="/wiki/Equator" title="Equator">equator</a> almost to <a href="/wiki/Iceland" title="Iceland">Iceland</a>, and from the east coast of <a href="/wiki/North_America" title="North America">North America</a> to the west coasts of <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Africa" title="Africa">Africa</a>.</p>
+<p>The currents that compose the North Atlantic Gyre include the <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> in the west, the <a href="/wiki/North_Atlantic_Current" title="North Atlantic Current">North Atlantic Current</a> in the north, the <a href="/wiki/Canary_Current" title="Canary Current">Canary Current</a> in the east, and the Atlantic <a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial Current</a> in the south. This gyre is particularly important for the central role it plays in the <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">thermohaline circulation</a>, bringing salty water west from the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> and then north to form the <a href="/wiki/North_Atlantic_Deep_Water" title="North Atlantic Deep Water">North Atlantic Deep Water</a>.</p>
+<p>This gyre is similar to the <a href="/wiki/North_Pacific_Gyre" title="North Pacific Gyre">North Pacific Gyre</a> in the way it traps man-made <a href="/wiki/Marine_debris" title="Marine debris">marine debris</a> in the <a class="mw-redirect" href="/wiki/North_Atlantic_Garbage_Patch" title="North Atlantic Garbage Patch">North Atlantic Garbage Patch</a>, similar to the <a class="mw-redirect" href="/wiki/Great_Pacific_Garbage_Patch" title="Great Pacific Garbage Patch">Great Pacific Garbage Patch</a> in the North <a class="mw-redirect" href="/wiki/Pacific" title="Pacific">Pacific</a>.<sup class="reference" id="cite_ref-lavlaw_1-0"><a href="#cite_note-lavlaw-1">[1]</a></sup></p>
+<p>The North Atlantic Gyre forms the <a href="/wiki/Sargasso_Sea" title="Sargasso Sea">Sargasso Sea</a>, noted for its still waters and dense seaweed accumulations.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Seasonal_variability"><span class="tocnumber">1</span> <span class="toctext">Seasonal variability</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Lead_contamination"><span class="tocnumber">2</span> <span class="toctext">Lead contamination</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Seasonal_variability">Seasonal variability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit&amp;section=1" title="Edit section: Seasonal variability">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As with many oceanographic patterns, the North Atlantic Gyre experiences seasonal changes. Stramma and Siedler (1988) determined that the gyre expands and contracts with a seasonal variance; however, the magnitude of volume transport does not seem to change significantly. During the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a> <a href="/wiki/Winter" title="Winter">winter</a> season, the gyre follows a more zonal pattern; that is, it expands in the east-west direction and thins in the north-south direction. As the seasons move from winter to summer, the gyre shifts south by a few degrees latitude. This occurs concurrently with the displacement of the northeastern part of the gyre. It has been concluded that <a href="/wiki/Zonal_and_meridional" title="Zonal and meridional">zonal</a> deviations within the gyre remain small while north and south of the gyre they are large.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Data collected in the <a href="/wiki/Sargasso_Sea" title="Sargasso Sea">Sargasso Sea</a> region in the western part of the North Atlantic Gyre has led to analytical evidence that the variability of this gyre is linked to wintertime <a href="/wiki/Convective_mixing" title="Convective mixing">convective mixing</a>. According to Bates (2001), a seasonal variation of 8-10 <a href="/wiki/Celsius" title="Celsius">°C</a> in <a class="mw-redirect" href="/wiki/Surface_temperature" title="Surface temperature">surface temperature</a> occurs alongside a fluctuation in the <a href="/wiki/Mixed_layer" title="Mixed layer">mixed layer</a> depth between the Northern Hemisphere winter and summer seasons. The depth rises from 200 meters in winter to about 10 meters in summer. Nutrients remain below the <a class="mw-redirect" href="/wiki/Euphotic_zone" title="Euphotic zone">euphotic zone</a> for most of the year, resulting in low <a href="/wiki/Primary_production" title="Primary production">primary production</a>. Yet during winter convective mixing, nutrients penetrate the euphotic zone, causing a short-lived <a href="/wiki/Phytoplankton" title="Phytoplankton">phytoplankton</a> bloom in the spring. This then lifts the mixed-layer depth to 10 meters.</p>
+<p>The changes in oceanic <a href="/wiki/Biology" title="Biology">biology</a> and vertical mixing between winter and summer in the North Atlantic Gyre seasonally alter the total amount of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> in the <a href="/wiki/Seawater" title="Seawater">seawater</a>. Interannual trends have established that carbon dioxide concentrations within this gyre are increasing at a similar rate to that occurring in the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>. This discovery concurs with that made in the <a href="/wiki/North_Pacific_Gyre" title="North Pacific Gyre">North Pacific Gyre</a>. The North Atlantic Gyre also undergoes <a href="/wiki/Temperature" title="Temperature">temperature</a> changes via atmospheric wave patterns. The <a class="mw-redirect" href="/wiki/North_Atlantic_Oscillation" title="North Atlantic Oscillation">North Atlantic Oscillation</a> (NAO) is one such pattern. During its positive phase, the gyre warms. This is due to a weakening of the <a href="/wiki/Westerlies" title="Westerlies">westerly winds</a>, resulting in reduced <a href="/wiki/Wind_stress" title="Wind stress">wind stress</a> and <a href="/wiki/Heat_transfer" title="Heat transfer">heat exchange</a>, providing a greater period of time for the gyre water temperatures to rise.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Lead_contamination">Lead contamination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit&amp;section=2" title="Edit section: Lead contamination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Collections of <a class="mw-redirect" href="/wiki/Aerosols" title="Aerosols">aerosols</a>, <a href="/wiki/Ocean" title="Ocean">marine</a> particles, and ocean water in the North Atlantic Gyre from 1990-1992 have led to measurements in <a href="/wiki/Lead" title="Lead">lead</a> <a href="/wiki/Isotope" title="Isotope">isotope</a> ratios. These measurements exceed those associated with atmospheric <a href="/wiki/Pollution" title="Pollution">pollution</a> carried from <a href="/wiki/Europe" title="Europe">Europe</a> by the <a href="/wiki/Trade_winds" title="Trade winds">trade winds</a>, implying that the majority of lead <a href="/wiki/Contamination" title="Contamination">contamination</a> in the gyre in the early 1990s was primarily caused by American emissions. The surface layers of the <a href="/wiki/Sargasso_Sea" title="Sargasso Sea">Sargasso Sea</a> were used to estimate the lead isotopic concentrations. 42-57% of the lead isotope concentrations result from American <a href="/wiki/Industrial_waste" title="Industrial waste">industrial</a> and <a class="mw-redirect" href="/wiki/Automotive" title="Automotive">automotive</a> contamination, despite the reduction in the production and use of leaded <a href="/wiki/Gasoline" title="Gasoline">gasoline</a> in the United States. However, lead concentrations from measurements made after 1992 show a decrease in the amount of lead contamination.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Ocean_current" title="Ocean current">Ocean current</a></li>
+<li><a class="mw-redirect" href="/wiki/Oceanic_gyre" title="Oceanic gyre">Oceanic gyre</a></li>
+<li><a href="/wiki/Volta_do_mar" title="Volta do mar">Volta do mar</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-lavlaw-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-lavlaw_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lavender Law, Kara; S. Moret-Fergusen; N. Maximenko; et al. (2010). "Plastic accumulation in the north atlantic subtropical gyre". <i>Science</i>. <b>329</b> (5996): 1185–8. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20724586" rel="nofollow">20724586</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1192321" rel="nofollow">10.1126/science.1192321</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorth+Atlantic+Gyre&amp;rft.atitle=Plastic+accumulation+in+the+north+atlantic+subtropical+gyre&amp;rft.au=N.+Maximenko&amp;rft.au=S.+Moret-Fergusen&amp;rft.aufirst=Kara&amp;rft.aulast=Lavender+Law&amp;rft.date=2010&amp;rft.genre=article&amp;rft.issue=5996&amp;rft.jtitle=Science&amp;rft.pages=1185-8&amp;rft.volume=329&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1192321&amp;rft_id=info%3Apmid%2F20724586&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1029/JC093iC07p08111/abstract" rel="nofollow">"Seasonal changes in the North Atlantic subtropical gyre"</a>. <i>Journal of Geophysical Research</i>. <b>93</b>: 8111. 1988. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1988JGR....93.8111S" rel="nofollow">1988JGR....93.8111S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2FJC093iC07p08111" rel="nofollow">10.1029/JC093iC07p08111</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorth+Atlantic+Gyre&amp;rft.atitle=Seasonal+changes+in+the+North+Atlantic+subtropical+gyre&amp;rft.date=1988&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.pages=8111&amp;rft.volume=93&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1029%2FJC093iC07p08111%2Fabstract&amp;rft_id=info%3Abibcode%2F1988JGR....93.8111S&amp;rft_id=info%3Adoi%2F10.1029%2FJC093iC07p08111&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://www.sciencedirect.com/science/article/pii/S096706450000151X" rel="nofollow">"Interannual variability of oceanic CO2 and biogeochemical properties in the Western North Atlantic subtropical gyre"</a>. <i>Deep Sea Research Part II: Topical Studies in Oceanography</i>. <b>48</b> (8–9): 1507–1528. 2001. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0967-0645%2800%2900151-X" rel="nofollow">10.1016/S0967-0645(00)00151-X</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorth+Atlantic+Gyre&amp;rft.atitle=Interannual+variability+of+oceanic+CO2+and+biogeochemical+properties+in+the+Western+North+Atlantic+subtropical+gyre&amp;rft.date=2001&amp;rft.genre=article&amp;rft.issue=8%E2%80%939&amp;rft.jtitle=Deep+Sea+Research+Part+II%3A+Topical+Studies+in+Oceanography&amp;rft.pages=1507-1528&amp;rft.volume=48&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS096706450000151X&amp;rft_id=info%3Adoi%2F10.1016%2FS0967-0645%2800%2900151-X&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0016703797002421" rel="nofollow">"Isotopic evidence of pollutant lead transport from North America to the subtropical North Atlantic gyre"</a>. <i>Geochimica et Cosmochimica Acta</i>. 1997<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorth+Atlantic+Gyre&amp;rft.atitle=Isotopic+evidence+of+pollutant+lead+transport+from+North+America+to+the+subtropical+North+Atlantic+gyre&amp;rft.date=1997&amp;rft.genre=article&amp;rft.jtitle=Geochimica+et+Cosmochimica+Acta&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0016703797002421&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://oceancurrents.rsmas.miami.edu/index.html" rel="nofollow">Ocean currents</a></li>
+</ul>
+<div aria-labelledby="Ocean_currents_and_gyres" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ocean" title="Template:Ocean"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ocean" title="Template talk:Ocean"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ocean&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ocean_currents_and_gyres" style="font-size:114%;margin:0 4em"><a href="/wiki/Ocean_current" title="Ocean current">Ocean currents</a> and <a href="/wiki/Ocean_gyre" title="Ocean gyre">gyres</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_current" title="Ocean current">Currents</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Arctic Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/North_Icelandic_Jet" title="North Icelandic Jet">North Icelandic</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Transpolar_Drift_Stream" title="Transpolar Drift Stream">Transpolar Drift Stream</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Atlantic Ocean</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angola_Current" title="Angola Current">Angola</a></li>
+<li><a href="/wiki/Antilles_Current" title="Antilles Current">Antilles</a></li>
+<li><a href="/wiki/Azores_Current" title="Azores Current">Azores</a></li>
+<li><a href="/wiki/Baffin_Island_Current" title="Baffin Island Current">Baffin Island</a></li>
+<li><a href="/wiki/Benguela_Current" title="Benguela Current">Benguela</a></li>
+<li><a href="/wiki/Brazil_Current" title="Brazil Current">Brazil</a></li>
+<li><a href="/wiki/Canary_Current" title="Canary Current">Canary</a></li>
+<li><a href="/wiki/Cape_Horn_Current" title="Cape Horn Current">Cape Horn</a></li>
+<li><a href="/wiki/Caribbean_Current" title="Caribbean Current">Caribbean</a></li>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/East_Iceland_Current" title="East Iceland Current">East Iceland</a></li>
+<li><a href="/wiki/Falkland_Current" title="Falkland Current">Falkland</a></li>
+<li><a href="/wiki/Florida_Current" title="Florida Current">Florida</a></li>
+<li><a href="/wiki/Guinea_Current" title="Guinea Current">Guinea</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Irminger_Current" title="Irminger Current">Irminger</a></li>
+<li><a href="/wiki/Labrador_Current" title="Labrador Current">Labrador</a></li>
+<li><a href="/wiki/Lomonosov_Current" title="Lomonosov Current">Lomonosov</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop</a></li>
+<li><a href="/wiki/North_Atlantic_Current" title="North Atlantic Current">North Atlantic</a></li>
+<li><a href="/wiki/North_Brazil_Current" title="North Brazil Current">North Brazil</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Portugal_Current" title="Portugal Current">Portugal</a></li>
+<li><a class="new" href="/w/index.php?title=Slope_Jet_Current&amp;action=edit&amp;redlink=1" title="Slope Jet Current (page does not exist)">Slope Jet</a></li>
+<li><a href="/wiki/South_Atlantic_Current" title="South Atlantic Current">South Atlantic</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Greenland_Current" title="West Greenland Current">West Greenland</a></li>
+<li><a href="/wiki/West_Spitsbergen_Current" title="West Spitsbergen Current">West Spitsbergen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Indian Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agulhas_Current" title="Agulhas Current">Agulhas</a></li>
+<li><a href="/wiki/Agulhas_Return_Current" title="Agulhas Return Current">Agulhas Return</a></li>
+<li><a href="/wiki/East_Madagascar_Current" title="East Madagascar Current">East Madagascar</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Indian_Monsoon_Current" title="Indian Monsoon Current">Indian Monsoon</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Leeuwin_Current" title="Leeuwin Current">Leeuwin</a></li>
+<li><a href="/wiki/Madagascar_Current" title="Madagascar Current">Madagascar</a></li>
+<li><a href="/wiki/Mozambique_Current" title="Mozambique Current">Mozambique</a></li>
+<li><a href="/wiki/North_Madagascar_Current" title="North Madagascar Current">North Madagascar</a></li>
+<li><a href="/wiki/Somali_Current" title="Somali Current">Somali</a></li>
+<li><a class="new" href="/w/index.php?title=South_Australian_Counter_Current&amp;action=edit&amp;redlink=1" title="South Australian Counter Current (page does not exist)">South Australian</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Australian_Current" title="West Australian Current">West Australian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Pacific Ocean</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alaska_Current" title="Alaska Current">Alaska</a></li>
+<li><a href="/wiki/Aleutian_Current" title="Aleutian Current">Aleutian</a></li>
+<li><a href="/wiki/California_Current" title="California Current">California</a></li>
+<li><a href="/wiki/Cromwell_Current" title="Cromwell Current">Cromwell</a></li>
+<li><a href="/wiki/Davidson_Current" title="Davidson Current">Davidson</a></li>
+<li><a href="/wiki/East_Australian_Current" title="East Australian Current">East Australian</a></li>
+<li><a href="/wiki/East_Korea_Warm_Current" title="East Korea Warm Current">East Korea Warm</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Kamchatka_Current" title="Kamchatka Current">Kamchatka</a></li>
+<li><a href="/wiki/Kuroshio_Current" title="Kuroshio Current">Kuroshio</a></li>
+<li><a href="/wiki/Mindanao_Current" title="Mindanao Current">Mindanao</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/North_Korea_Cold_Current" title="North Korea Cold Current">North Korea Cold</a></li>
+<li><a href="/wiki/North_Pacific_Current" title="North Pacific Current">North Pacific</a></li>
+<li><a href="/wiki/Oyashio_Current" title="Oyashio Current">Oyashio</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/Tasman_Front" title="Tasman Front">Tasman Front</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Southern Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar</a></li>
+<li><a href="/wiki/Tasman_Outflow" title="Tasman Outflow">Tasman Outflow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_gyre" title="Ocean gyre">Gyres</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Major gyres</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indian_Ocean_Gyre" title="Indian Ocean Gyre">Indian Ocean Gyre</a></li>
+<li><a class="mw-selflink selflink">North Atlantic Gyre</a></li>
+<li><a href="/wiki/South_Atlantic_Gyre" title="South Atlantic Gyre">South Atlantic Gyre</a></li>
+<li><a href="/wiki/North_Pacific_Gyre" title="North Pacific Gyre">North Pacific Gyre</a></li>
+<li><a href="/wiki/South_Pacific_Gyre" title="South Pacific Gyre">South Pacific Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other gyres</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaufort_Gyre" title="Beaufort Gyre">Beaufort Gyre</a></li>
+<li><a href="/wiki/Ross_Gyre" title="Ross Gyre">Ross Gyre</a></li>
+<li><a href="/wiki/Weddell_Gyre" title="Weddell Gyre">Weddell Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/Great_Pacific_garbage_patch" title="Great Pacific garbage patch">Great Pacific garbage patch</a></li>
+<li><a href="/wiki/Indian_Ocean_garbage_patch" title="Indian Ocean garbage patch">Indian Ocean garbage patch</a></li>
+<li><a href="/wiki/Marine_debris" title="Marine debris">Marine debris</a></li>
+<li><a href="/wiki/North_Atlantic_garbage_patch" title="North Atlantic garbage patch">North Atlantic garbage patch</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20171021132745
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.120 seconds
+Real time usage: 0.142 seconds
+Preprocessor visited node count: 402/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38277/2097152 bytes
+Template argument size: 83/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 2.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  105.060      1 -total
+ 84.48%   88.753      1 Template:Reflist
+ 68.74%   72.214      4 Template:Cite_journal
+ 16.79%   17.639      3 Template:Navbox
+ 15.43%   16.207      1 Template:Ocean
+  1.60%    1.680      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1940889-0!canonical and timestamp 20171021132745 and revision id 765180618
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=North_Atlantic_Gyre&amp;oldid=765180618">https://en.wikipedia.org/w/index.php?title=North_Atlantic_Gyre&amp;oldid=765180618</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atlantic_Ocean" title="Category:Atlantic Ocean">Atlantic Ocean</a></li><li><a href="/wiki/Category:Oceanic_gyres" title="Category:Oceanic gyres">Oceanic gyres</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=North+Atlantic+Gyre" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=North+Atlantic+Gyre" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/North_Atlantic_Gyre" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:North_Atlantic_Gyre" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/North_Atlantic_Gyre">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=North_Atlantic_Gyre&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=North_Atlantic_Gyre&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/North_Atlantic_Gyre" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/North_Atlantic_Gyre" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=North_Atlantic_Gyre&amp;oldid=765180618" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=North_Atlantic_Gyre&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5254916" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=North_Atlantic_Gyre&amp;id=765180618" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=North+Atlantic+Gyre">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=North+Atlantic+Gyre&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=North_Atlantic_Gyre&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%AE%D8%A7%D8%A8_%D8%A7%D8%B7%D9%84%D8%B3_%D8%B4%D9%85%D8%A7%D9%84%DB%8C" hreflang="fa" lang="fa" title="چرخاب اطلس شمالی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Gir_Atlantik_Utara" hreflang="ms" lang="ms" title="Gir Atlantik Utara – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Giro_do_Atl%C3%A2ntico_Norte" hreflang="pt" lang="pt" title="Giro do Atlântico Norte – Portuguese">Português</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Pohjois-Atlantin_kiertoliike" hreflang="fi" lang="fi" title="Pohjois-Atlantin kiertoliike – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E7%92%B0%E6%B5%81" hreflang="zh" lang="zh" title="北大西洋環流 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5254916#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 13 February 2017, at 00:45.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=North_Atlantic_Gyre&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.142","ppvisitednodes":{"value":402,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38277,"limit":2097152},"templateargumentsize":{"value":83,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  105.060      1 -total"," 84.48%   88.753      1 Template:Reflist"," 68.74%   72.214      4 Template:Cite_journal"," 16.79%   17.639      3 Template:Navbox"," 15.43%   16.207      1 Template:Ocean","  1.60%    1.680      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.048","limit":"10.000"},"limitreport-memusage":{"value":2598602,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20171021132745","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1252"});});</script>
+</body>
+</html>

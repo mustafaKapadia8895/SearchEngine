@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Snowmaking - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Snowmaking","wgTitle":"Snowmaking","wgCurRevisionId":800070956,"wgRevisionId":800070956,"wgArticleId":2502462,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["American inventions","Snow","Ski areas and resorts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Snowmaking","wgRelevantArticleId":2502462,"wgRequestId":"WgHOjApAADsAAHX1WyUAAADP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Snow_cannon","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Snowmaking","wgWikibaseItemId":"Q720493","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SuperCrystal%40Camelback.jpg/1200px-SuperCrystal%40Camelback.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Snowmaking" rel="alternate"/>
+<link href="/w/index.php?title=Snowmaking&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Snowmaking&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Snowmaking" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Snowmaking rootpage-Snowmaking vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Snowmaking</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Snow_cannon&amp;redirect=no" title="Snow cannon">Snow cannon</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about making snow artificially from water. For artificial snow made from hydrated artificial polymer, see <a href="/wiki/Superabsorbent_polymer" title="Superabsorbent polymer">Superabsorbent polymer</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:SuperCrystal@Camelback.jpg"><img alt="" class="thumbimage" data-file-height="833" data-file-width="1250" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SuperCrystal%40Camelback.jpg/220px-SuperCrystal%40Camelback.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SuperCrystal%40Camelback.jpg/330px-SuperCrystal%40Camelback.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SuperCrystal%40Camelback.jpg/440px-SuperCrystal%40Camelback.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:SuperCrystal@Camelback.jpg" title="Enlarge"></a></div>
+Snow production at <a class="mw-redirect" href="/wiki/Camelback_Ski_Area" title="Camelback Ski Area">Camelback Ski Area</a>, United States.</div>
+</div>
+</div>
+<p><b>Snowmaking</b> is the production of snow by forcing water and pressurized air through a "<b>snow gun</b>," also known as a "<b>snow cannon</b>", on ski slopes. Snowmaking is mainly used at <a href="/wiki/Ski_resort" title="Ski resort">ski resorts</a> to supplement natural snow. This allows ski resorts to improve the reliability of their snow cover and to extend their ski seasons from late autumn to early spring. <a class="mw-redirect" href="/wiki/Indoor_ski_slope" title="Indoor ski slope">Indoor ski slopes</a> often use snowmaking. They can generally do so year-round as they have a climate-controlled environment.</p>
+<p>The production of snow requires low temperatures. The threshold temperature for snowmaking increases as humidity decreases. <a class="mw-redirect" href="/wiki/Wet_bulb_temperature" title="Wet bulb temperature">Wet bulb temperature</a> is used as a metric since it takes air temperature and relative humidity into account. Snowmaking is a relatively expensive process in its energy use, thereby limiting its use.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operation"><span class="tocnumber">2</span> <span class="toctext">Operation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Ice_nucleation-active_proteins"><span class="tocnumber">2.1</span> <span class="toctext">Ice nucleation-active proteins</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Infrastructure"><span class="tocnumber">2.2</span> <span class="toctext">Infrastructure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Snowmaking_guns"><span class="tocnumber">3</span> <span class="toctext">Snowmaking guns</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Home_snowmaking"><span class="tocnumber">3.1</span> <span class="toctext">Home snowmaking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Other_uses"><span class="tocnumber">4</span> <span class="toctext">Other uses</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Art Hunt, Dave Richey, and Wayne Pierce invented the snow cannon in 1950,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> but secured a patent sometime later.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> In 1952, <a href="/wiki/Grossinger%27s_Catskill_Resort_Hotel" title="Grossinger's Catskill Resort Hotel">Grossinger's Catskill Resort Hotel</a> became the first in the world to use artificial snow.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Snowmaking began to be used extensively in the early 1970s. Many ski resorts depend heavily upon snowmaking.</p>
+<p>Snowmaking has achieved greater efficiency with increasing complexity. Traditionally, snowmaking quality depended upon the skill of the equipment operator. Computer control supplements that skill with greater precision, such that a snow gun operates only when snowmaking is optimal. All-weather snowmakers have been developed by IDE.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Operation">Operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=2" title="Edit section: Operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snow_making_curve.svg"><img alt="" class="thumbimage" data-file-height="480" data-file-width="600" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snow_making_curve.svg/220px-Snow_making_curve.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snow_making_curve.svg/330px-Snow_making_curve.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snow_making_curve.svg/440px-Snow_making_curve.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snow_making_curve.svg" title="Enlarge"></a></div>
+A graph of air temperature against relative humidity: if conditions are below the curve, snow can be made.</div>
+</div>
+</div>
+<p>The key considerations in snow production are increasing water and energy efficiency and increasing the environmental window in which snow can be made.</p>
+<p>Snowmaking plants require water pumps and sometimes <a href="/wiki/Air_compressor" title="Air compressor">air compressors</a> when using lances, that are both very large and expensive. The energy required to make artificial snow is about 0.6 - 0.7 kW h/m³ for lances and 1 - 2 kW h/m³ for fan guns. The <a href="/wiki/Density" title="Density">density</a> of artificial snow is between 400 and 500 kg/m³ and the water consumption for producing snow is roughly equal to that number.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Snowmaking begins with a water supply such as a river or reservoir. Water is pushed up a pipeline on the mountain using very large electric pumps in a pump house. This water is distributed through an intricate series of valves and pipes to any trails that require snowmaking. Many resorts also add a <a href="/wiki/Nucleation" title="Nucleation">nucleating</a> agent to ensure that as much water as possible freezes and turns into snow. These products are organic or inorganic materials that facilitate the water molecules to form the proper shape to freeze into <a href="/wiki/Ice_crystals" title="Ice crystals">ice crystals</a>. The products are non-toxic and biodegradable.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Pump_house.jpg"><img alt="" class="thumbimage" data-file-height="334" data-file-width="856" height="86" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pump_house.jpg/220px-Pump_house.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pump_house.jpg/330px-Pump_house.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pump_house.jpg/440px-Pump_house.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pump_house.jpg" title="Enlarge"></a></div>
+Pump House &amp; Air Plant Combo</div>
+</div>
+</div>
+<p>The next step in the snowmaking process is to add air using an air plant. This plant is often a building which contains electric or diesel industrial air compressors the size of a van or truck. However, in some instances air compression is provided using diesel-powered, portable trailer-mounted compressors which can be added to the system. Many fan-type snow guns have on-board electric air compressors, which allows for cheaper, and more compact operation. A ski area may have the required high-output water pumps, but not an air pump. Onboard compressors are cheaper and easier than having a dedicated pumping house. The air is generally cooled and excess moisture is removed before it is sent out of the plant. Some systems even cool the water before it enters the system. This improves the snowmaking process as the less heat in the air and water, the less heat must be dissipated to the atmosphere to freeze the water. From this plant the air travels up a separate pipeline following the same path as the water pipeline.</p>
+<h3><span class="mw-headline" id="Ice_nucleation-active_proteins">Ice nucleation-active proteins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=3" title="Edit section: Ice nucleation-active proteins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The water is sometimes mixed with <i>ina</i> (ice nucleation-active) <a href="/wiki/Protein" title="Protein">proteins</a> from the bacterium <i><a href="/wiki/Pseudomonas_syringae" title="Pseudomonas syringae">Pseudomonas syringae</a></i>. These proteins serve as effective <a href="/wiki/Nucleation" title="Nucleation">nuclei</a> to initiate the formation of ice crystals at relatively high temperatures, so that the droplets will turn into ice before falling to the ground. The bacterium itself uses these <i>ina</i> proteins in order to injure plants.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Infrastructure">Infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=4" title="Edit section: Infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snowmaking_diagram.svg"><img alt="" class="thumbimage" data-file-height="622" data-file-width="813" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Snowmaking_diagram.svg/220px-Snowmaking_diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Snowmaking_diagram.svg/330px-Snowmaking_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Snowmaking_diagram.svg/440px-Snowmaking_diagram.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snowmaking_diagram.svg" title="Enlarge"></a></div>
+Piping Diagram</div>
+</div>
+</div>
+<p>The pipes following the trails are equipped with shelters containing hydrants, electrical power and, optionally, communication lines mounted. Whereas shelters for <b>fan guns</b> require only water, power and maybe communication, <b>lance</b>-shelters usually need air hydrants as well. Hybrid shelters allow maximum flexibility to connect each snow machine type as they have all supplies available. The typical distance for lance shelters is 100–150 feet (30–46 m), for fan guns 250–300 feet (76–91 m). From these hydrants <span class="nowrap"> </span><span class="frac nowrap">1<span class="visualhide"> </span><sup>1</sup>⁄<sub>2</sub></span>"–2" pressure resistant hoses are connected similar to fire hoses with camlocks to the snow machine.</p>
+<h2><span class="mw-headline" id="Snowmaking_guns">Snowmaking guns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=5" title="Edit section: Snowmaking guns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Schneekanone.JPG"><img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schneekanone.JPG/220px-Schneekanone.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schneekanone.JPG/330px-Schneekanone.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schneekanone.JPG/440px-Schneekanone.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Schneekanone.JPG" title="Enlarge"></a></div>
+Rear view of snow cannon at <a class="new" href="/w/index.php?title=M%C3%B6lltaler_Gletscher&amp;action=edit&amp;redlink=1" title="Mölltaler Gletscher (page does not exist)">Mölltaler Gletscher</a>, Austria, showing the powerful fan.</div>
+</div>
+</div>
+<p>There are many forms of snowmaking guns; however, they all share the basic principle of combining air and water to form snow. For most guns the type or "quality" of snow can be changed by regulating the amount of water in the mixture. For others, the water and air are simply on or off and the snow quality is determined by the air temperature and humidity.</p>
+<p>In general there are three types of snowmaking guns: Internal Mixing, External Mixing and Fan Guns. These come in two main styles of makers: air water guns and fan guns.</p>
+<p>An air water gun can be mounted on a tower or on a stand on the ground. It uses higher pressure water and air, while a fan gun uses a powerful axial fan to propel the water jet to a great distance.</p>
+<p>A modern snow fan usually consists of one or more rings of <a href="/wiki/Nozzle" title="Nozzle">nozzles</a> which inject water into the fan air stream. A separate nozzle or small group of nozzles is fed with a mix of water and <a href="/wiki/Compressed_air" title="Compressed air">compressed air</a> and produces the nucleation points for the snow crystals. The small droplets of water and the tiny ice crystals are then mixed and propelled out by a powerful <a class="mw-redirect" href="/wiki/Fan_(mechanical)" title="Fan (mechanical)">fan</a>, after which they further cool through evaporation in the surrounding air as they fall to the ground. The crystals of ice act as <a href="/wiki/Nucleation" title="Nucleation">seeds</a> to make the water droplets freeze at 0 °<a href="/wiki/Celsius" title="Celsius">C</a> (32 °<a href="/wiki/Fahrenheit" title="Fahrenheit">F</a>). Without these crystals the water would <a href="/wiki/Supercooling" title="Supercooling">supercool</a> instead of <a href="/wiki/Freezing" title="Freezing">freezing</a>. This method can produce snow when the <a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">wet-bulb temperature</a> of the air is as high as -1 °C (30.2 °F).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The lower the air temperature is, the more and the better snow a cannon can make. This is one of the main reasons snow cannons are usually operated in the night. The quality of the mixing of the water and air streams and their relative pressures is crucial to the amount of snow made and its quality.</p>
+<p>Modern snow cannons are fully computerized and can operate autonomously or be remotely controlled from a central location. Operational parameters are: starting and stopping time, quality of snow, maximum wet-bulb temperature in which to operate, maximum windspeed, horizontal and vertical orientation, and sweep angle (to cover a wider or narrower area). Sweep angle and area may follow wind direction.</p>
+<ul>
+<li><b>Internal mixing guns</b> have a chamber where the water and air are mixed together and forced through jets or through holes and fall to the ground as snow. These guns are typically low to the ground on a frame or tripod and require a lot of air to compensate for the short hang time (time the water is airborne). Some newer guns are built in a tower form and use much less air because of the increased hang time. The amount of water flow determines the type of snow that is to be made and is controlled by an adjustable water valve.</li>
+<li><b>External mixing guns</b> have a nozzle spraying water as a stream and air nozzles shooting air through this water stream to break it up into much smaller water particles. These guns are sometimes equipped with a set of internal mixing nozzles that are known as nucleators. These help create a nucleus for the water droplets to bond to as they freeze. External mixing guns are typically tower guns and rely on a longer hang time to freeze the snow. This allows them to use much less air. External mixing guns are usually reliant on high water pressure to operate correctly so the water supply is opened completely, though in some the flow can be regulated by valves on the gun.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sn%C3%B6kanon_2009c.jpg"><img alt="" class="thumbimage" data-file-height="2692" data-file-width="2048" height="289" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sn%C3%B6kanon_2009c.jpg/220px-Sn%C3%B6kanon_2009c.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sn%C3%B6kanon_2009c.jpg/330px-Sn%C3%B6kanon_2009c.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sn%C3%B6kanon_2009c.jpg/440px-Sn%C3%B6kanon_2009c.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sn%C3%B6kanon_2009c.jpg" title="Enlarge"></a></div>
+Snow Lance used at Flottsbro in <a href="/wiki/Stockholm" title="Stockholm">Stockholm</a></div>
+</div>
+</div>
+<ul>
+<li><b>Fan Guns</b> are very different from all other guns because they require electricity to power a fan as well as an on-board reciprocating piston air compressor; modern fan guns do not require compressed air from an external source. Compressed air and water are shot out of the gun through a variety of nozzles (there are many different designs) and then the wind from the large fan blows this into a mist in the air to achieve a long hang time. Fan guns have anywhere from 12 to 360 water nozzles on a ring on the front of the gun through which the fan blows air. These banks can be controlled by valves. The valves are either manual, manual electric, or automatic electric (controlled by logic controller or computer).</li>
+<li><b>Snow Lances</b> are up to 12 meter long vertically inclined aluminum tubes at the head of which are placed water and-or air nucleators. Air is blown into the atomized water at the outlet from the water nozzle. The previously compressed air expands and cools, creating ice nuclei on which crystallization of the atomized water takes place. Due to the height and the slow rate of descent there will be enough time for this process. This process uses less energy than a fan gun, but has a smaller range and lower snow quality; it also has greater sensitivity to wind. Advantages over fan gun are: lower investment (only cable system with air and water, central compressor station), much quieter, half the energy consumption for the same amount of snow, simpler maintenance due to lower wear and fewer moving parts, and regulation of snow making is possible in principle. The working pressure of snow lances is 20-60 bar. There are also small mobile systems for the home user that are operated by the garden connection (Home Snow).</li>
+</ul>
+<h3><span class="mw-headline" id="Home_snowmaking">Home snowmaking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=6" title="Edit section: Home snowmaking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Smaller versions of the snow machines found at ski resorts exist, scaled down to run off household size air and water supplies. Home snowmakers receive their water supply either from a garden hose or from a <a class="mw-redirect" href="/wiki/Pressure_washer" title="Pressure washer">pressure washer</a>, which makes more snow per hour. Plans also exist for do-it-yourself snowmaking machines made out of plumbing fittings and special nozzles.</p>
+<p>Volumes of snow output by home snowmakers depend on the air/water mixture, temperature, wind variations, pumping capacity, water supply, air supply, and other factors. Using a household spray bottle will not work unless temperatures are well below the freezing point of water.</p>
+<h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=7" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Swedish, the phrase "snow cannon" (<a class="extiw" href="https://sv.wikipedia.org/wiki/Sn%C3%B6kanon_(v%C3%A4derfenomen)" title="sv:Snökanon (väderfenomen)">Snökanon</a>) is used to designate the <a href="/wiki/Lake-effect_snow" title="Lake-effect snow">Lake-effect snow</a> weather phenomenon. For example, if the <a class="mw-redirect" href="/wiki/Baltic_sea" title="Baltic sea">Baltic sea</a> is not yet frozen in January, cold winds from <a href="/wiki/Siberia" title="Siberia">Siberia</a> may lead to significant snowfall.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a class="image" href="/wiki/File:Snow_making_machine.jpg"><img alt="" data-file-height="768" data-file-width="1024" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Snow_making_machine.jpg/120px-Snow_making_machine.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Snow_making_machine.jpg/180px-Snow_making_machine.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Snow_making_machine.jpg/240px-Snow_making_machine.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>A snow making machine at <a href="/wiki/Smiggin_Holes,_New_South_Wales" title="Smiggin Holes, New South Wales">Smiggin Holes, New South Wales</a>, Australia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a class="image" href="/wiki/File:CPSnowmaker.JPG"><img alt="" data-file-height="2112" data-file-width="2816" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/CPSnowmaker.JPG/120px-CPSnowmaker.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/CPSnowmaker.JPG/180px-CPSnowmaker.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/CPSnowmaker.JPG/240px-CPSnowmaker.JPG 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Full blast snow cannon at The Nordic Centre, <a href="/wiki/Canmore,_Alberta" title="Canmore, Alberta">Canmore, Alberta</a>, Canada</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Snow_cannon" title="commons:Snow cannon">Snow cannon</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Artificial_ski_slopes" title="Artificial ski slopes">Artificial ski slopes</a></li>
+<li><a href="/wiki/Snow_grooming" title="Snow grooming">Snow grooming</a></li>
+<li><a href="/wiki/Kern_arc" title="Kern arc">Kern arc</a> - one of optical displays caused by snowgun ice crystal clouds</li>
+<li><a href="/wiki/Pumpable_ice_technology" title="Pumpable ice technology">Pumpable ice technology</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snowmaking&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Selingo, Jeffrey (2001-02-02). <a class="external text" href="https://query.nytimes.com/gst/fullpage.html?res=9900EEDA1631F93BA35751C0A9679C8B63&amp;sec=&amp;spon=&amp;pagewanted=all" rel="nofollow">"Machines Let Resorts Please Skiers When Nature Won't"</a>. <a class="mw-redirect" href="/wiki/New_York_Times" title="New York Times">New York Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowmaking&amp;rft.atitle=Machines+Let+Resorts+Please+Skiers+When+Nature+Won%27t&amp;rft.aufirst=Jeffrey&amp;rft.aulast=Selingo&amp;rft.date=2001-02-02&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9900EEDA1631F93BA35751C0A9679C8B63%26sec%3D%26spon%3D%26pagewanted%3Dall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://inventors.about.com/library/inventors/blsnow.htm" rel="nofollow">"Making Snow"</a>. About.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowmaking&amp;rft.btitle=Making+Snow&amp;rft.genre=unknown&amp;rft.pub=About.com&amp;rft_id=http%3A%2F%2Finventors.about.com%2Flibrary%2Finventors%2Fblsnow.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation patent" id="CITEREFW._M._Pierce.2C_Jr.1950"><a class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US2676471" rel="nofollow">US patent 2676471</a>, W. M. Pierce, Jr., "Method for Making and Distributing Snow", issued 1950-12-14</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=2676471&amp;rft.cc=US&amp;rft.title=Method+for+Making+and+Distributing+Snow&amp;rft.inventor=W.+M.+Pierce%2C+Jr.&amp;rft.date=1950-12-14"><span style="display: none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://news.bbc.co.uk/onthisday/hi/dates/stories/march/25/newsid_2786000/2786871.stm" rel="nofollow">On This Day: March 25</a>, <a href="/wiki/BBC_News" title="BBC News">BBC News</a>, accessed December 20, 2006. "The first artificial snow was made two years later, in 1952, at Grossinger's resort in New York, USA. "</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.ide-snowmaker.com/" rel="nofollow">http://www.ide-snowmaker.com/</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFJ.C3.B6rgen_Rogstam_.26_Mattias_Dahlberg2011">Jörgen Rogstam &amp; Mattias Dahlberg (April 1, 2011), <a class="external text" href="http://bachler.cms1.ch/Portals/41/docs/energy_usage_for_snowmaking.pdf" rel="nofollow"><i>Energy usage for snowmaking</i></a> <span style="font-size:85%;">(PDF)</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowmaking&amp;rft.au=J%C3%B6rgen+Rogstam+%26+Mattias+Dahlberg&amp;rft.btitle=Energy+usage+for+snowmaking&amp;rft.date=2011-04-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbachler.cms1.ch%2FPortals%2F41%2Fdocs%2Fenergy_usage_for_snowmaking.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFRobbins2010">Robbins, Jim (May 24, 2010), <a class="external text" href="https://www.nytimes.com/2010/05/25/science/25snow.html?partner=rss&amp;emc=rss" rel="nofollow">"From Trees and Grass, Bacteria That Cause Snow and Rain"</a>, <i>The New York Times</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowmaking&amp;rft.atitle=From+Trees+and+Grass%2C+Bacteria+That+Cause+Snow+and+Rain&amp;rft.aufirst=Jim&amp;rft.aulast=Robbins&amp;rft.date=2010-05-24&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2010%2F05%2F25%2Fscience%2F25snow.html%3Fpartner%3Drss%26emc%3Drss&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Liu, Xiaohong (2012). <a class="external text" href="http://asr.science.energy.gov/meetings/fall-working-groups/2012/presentations/xiaohong_icenucleation_capi.pdf" rel="nofollow">"What processes control ice nucleation and its impact on ice-containing clouds?"</a> <span style="font-size:85%;">(PDF)</span>. <a class="new" href="/w/index.php?title=Pacific_Northwest_National_Library&amp;action=edit&amp;redlink=1" title="Pacific Northwest National Library (page does not exist)">Pacific Northwest National Library</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowmaking&amp;rft.aufirst=Xiaohong&amp;rft.aulast=Liu&amp;rft.btitle=What+processes+control+ice+nucleation+and+its+impact+on+ice-containing+clouds%3F&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft.pub=Pacific+Northwest+National+Library&amp;rft_id=http%3A%2F%2Fasr.science.energy.gov%2Fmeetings%2Ffall-working-groups%2F2012%2Fpresentations%2Fxiaohong_icenucleation_capi.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Kim, H. K. (1987-07-07). <a class="external text" href="http://www.apsnet.org/publications/PlantDisease/BackIssues/Documents/1987Articles/PlantDisease71n11_994.PDF" rel="nofollow">"Xanthomonas campestris pv. translucens Strains Active in Ice Nucleation"</a> <span style="font-size:85%;">(PDF)</span>. <a class="mw-redirect" href="/wiki/The_American_Phytopathological_Society" title="The American Phytopathological Society">The American Phytopathological Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnowmaking&amp;rft.aufirst=H.+K.&amp;rft.aulast=Kim&amp;rft.btitle=Xanthomonas+campestris+pv.+translucens+Strains+Active+in+Ice+Nucleation&amp;rft.date=1987-07-07&amp;rft.genre=unknown&amp;rft.pub=The+American+Phytopathological+Society&amp;rft_id=http%3A%2F%2Fwww.apsnet.org%2Fpublications%2FPlantDisease%2FBackIssues%2FDocuments%2F1987Articles%2FPlantDisease71n11_994.PDF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1188
+Cached time: 20171025113131
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.197 seconds
+Preprocessor visited node count: 739/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15205/2097152 bytes
+Template argument size: 775/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.058/10.000 seconds
+Lua memory usage: 3.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  161.238      1 -total
+ 50.32%   81.136      1 Template:Reflist
+ 19.70%   31.766      1 Template:Cite_news
+ 18.07%   29.128      2 Template:Convert
+ 12.57%   20.275      1 Template:About
+  7.69%   12.397      3 Template:Cite_web
+  6.30%   10.154      2 Template:Citation
+  6.26%   10.094      1 Template:Commons
+  6.18%    9.961      1 Template:US_patent_reference
+  5.38%    8.675      1 Template:Sister_project
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2502462-0!canonical and timestamp 20171025113131 and revision id 800070956
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Snowmaking&amp;oldid=800070956">https://en.wikipedia.org/w/index.php?title=Snowmaking&amp;oldid=800070956</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_inventions" title="Category:American inventions">American inventions</a></li><li><a href="/wiki/Category:Snow" title="Category:Snow">Snow</a></li><li><a href="/wiki/Category:Ski_areas_and_resorts" title="Category:Ski areas and resorts">Ski areas and resorts</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Snowmaking" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Snowmaking" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Snowmaking" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Snowmaking" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Snowmaking">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Snowmaking&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Snowmaking&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Snowmaking" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Snowmaking" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Snowmaking&amp;oldid=800070956" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Snowmaking&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q720493" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Snowmaking&amp;id=800070956" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Snowmaking">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Snowmaking&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Snowmaking&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Snow_cannons" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B5%D9%86%D8%B9_%D8%A7%D9%84%D8%AB%D9%84%D8%AC" hreflang="ar" lang="ar" title="صنع الثلج – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D1%80%D0%BC%D0%B0%D1%82%D0%B0" hreflang="be" lang="be" title="Снежная гармата – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D1%8A%D0%B4%D0%B8%D0%B5_%D0%B7%D0%B0_%D1%81%D0%BD%D1%8F%D0%B3" hreflang="bg" lang="bg" title="Оръдие за сняг – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Can%C3%B3_de_neu" hreflang="ca" lang="ca" title="Canó de neu – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sn%C4%9B%C5%BEn%C3%A9_d%C4%9Blo" hreflang="cs" lang="cs" title="Sněžné dělo – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Snekanon" hreflang="da" lang="da" title="Snekanon – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schneekanone" hreflang="de" lang="de" title="Schneekanone – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ca%C3%B1%C3%B3n_de_nieve" hreflang="es" lang="es" title="Cañón de nieve – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Ne%C4%9Dokanono" hreflang="eo" lang="eo" title="Neĝokanono – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Canon_%C3%A0_neige" hreflang="fr" lang="fr" title="Canon à neige – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5%EB%88%88" hreflang="ko" lang="ko" title="인공눈 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Neve_artificiale" hreflang="it" lang="it" title="Neve artificiale – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Sniego_patranka" hreflang="lt" lang="lt" title="Sniego patranka – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/H%C3%B3%C3%A1gy%C3%BA" hreflang="hu" lang="hu" title="Hóágyú – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sneeuwkanon" hreflang="nl" lang="nl" title="Sneeuwkanon – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E9%99%8D%E9%9B%AA%E6%A9%9F" hreflang="ja" lang="ja" title="人工降雪機 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sn%C3%B8kanon" hreflang="no" lang="no" title="Snøkanon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Sn%C3%B8kanon" hreflang="nn" lang="nn" title="Snøkanon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Armatka_%C5%9Bnie%C5%BCna" hreflang="pl" lang="pl" title="Armatka śnieżna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Canh%C3%A3o_de_neve" hreflang="pt" lang="pt" title="Canhão de neve – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BF%D1%83%D1%88%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Снежная пушка – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Sne%C5%BEn%C3%A9_delo" hreflang="sk" lang="sk" title="Snežné delo – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Lumetus" hreflang="fi" lang="fi" title="Lumetus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sn%C3%B6kanon" hreflang="sv" lang="sv" title="Snökanon – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%B0" hreflang="th" lang="th" title="เครื่องสร้างหิมะ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%87%D0%BD%D0%B8%D0%B9_%D1%81%D0%BD%D1%96%D0%B3" hreflang="uk" lang="uk" title="Штучний сніг – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9B%AA%E7%A0%B2" hreflang="zh" lang="zh" title="雪砲 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q720493#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 September 2017, at 10:30.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Snowmaking&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.197","ppvisitednodes":{"value":739,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15205,"limit":2097152},"templateargumentsize":{"value":775,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  161.238      1 -total"," 50.32%   81.136      1 Template:Reflist"," 19.70%   31.766      1 Template:Cite_news"," 18.07%   29.128      2 Template:Convert"," 12.57%   20.275      1 Template:About","  7.69%   12.397      3 Template:Cite_web","  6.30%   10.154      2 Template:Citation","  6.26%   10.094      1 Template:Commons","  6.18%    9.961      1 Template:US_patent_reference","  5.38%    8.675      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.058","limit":"10.000"},"limitreport-memusage":{"value":3881484,"limit":52428800}},"cachereport":{"origin":"mw1188","timestamp":"20171025113131","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1264"});});</script>
+</body>
+</html>

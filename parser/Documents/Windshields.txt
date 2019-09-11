@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Windshield - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Windshield","wgTitle":"Windshield","wgCurRevisionId":804917053,"wgRevisionId":804917053,"wgArticleId":254664,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from March 2008","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from November 2015","Articles with unsourced statements from August 2012","Articles with unsourced statements from December 2013","Articles needing additional references from December 2013","Articles needing additional references from May 2015","Wikipedia articles with GND identifiers","Vehicle parts","Glass applications","Glass coating and surface modification","Automotive safety technologies","Car safety","Car windows"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Windshield","wgRelevantArticleId":254664,"wgRequestId":"WgH26gpAEKsAACxL-lwAAACO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Windshields","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Windshield","wgWikibaseItemId":"Q13693","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/5/55/Panoramic-windshield.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Windshield" rel="alternate"/>
+<link href="/w/index.php?title=Windshield&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Windshield&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Windshield" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Windshield rootpage-Windshield vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Windshield</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Windshields&amp;redirect=no" title="Windshields">Windshields</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about glass used on vehicles. For the screen on windows, see <a href="/wiki/Window_screen" title="Window screen">window screen</a>. For the microphone wind protecting accessory, see <a href="/wiki/Microphone#Microphone_windscreens" title="Microphone">Microphone § Microphone windscreens</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Windshield&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Panoramic-windshield.JPG"><img alt="" class="thumbimage" data-file-height="420" data-file-width="560" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Panoramic-windshield.JPG/220px-Panoramic-windshield.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Panoramic-windshield.JPG/330px-Panoramic-windshield.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Panoramic-windshield.JPG/440px-Panoramic-windshield.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Panoramic-windshield.JPG" title="Enlarge"></a></div>
+Panoramic (wrap-around) windshield on a 1959 <a href="/wiki/Edsel_Corsair" title="Edsel Corsair">Edsel Corsair</a></div>
+</div>
+</div>
+<p>The <b>windshield</b> (<a href="/wiki/North_America" title="North America">North America</a>) or <b>windscreen</b> (<a href="/wiki/Commonwealth" title="Commonwealth">Commonwealth</a> English) of an <a href="/wiki/Aircraft" title="Aircraft">aircraft</a>, <a href="/wiki/Car" title="Car">car</a>, <a href="/wiki/Bus" title="Bus">bus</a>, <a class="mw-redirect" href="/wiki/Motorbike" title="Motorbike">motorbike</a> or <a href="/wiki/Tram" title="Tram">tram</a> is the front <a href="/wiki/Window" title="Window">window</a>. Modern windshields are generally made of <a href="/wiki/Laminated_glass" title="Laminated glass">laminated safety glass</a>, a type of treated glass, which consists of two (typically) curved sheets of <a href="/wiki/Glass" title="Glass">glass</a> with a <a href="/wiki/Plastic" title="Plastic">plastic</a> layer <a class="mw-redirect" href="/wiki/Laminate" title="Laminate">laminated</a> between them for safety, and are bonded into the window frame. Motorbike windshields are often made of high-impact <a href="/wiki/Polycarbonate" title="Polycarbonate">polycarbonate</a> or <a href="/wiki/Poly(methyl_methacrylate)" title="Poly(methyl methacrylate)">acrylic</a> plastic.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Usage"><span class="tocnumber">1</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Safety"><span class="tocnumber">2</span> <span class="toctext">Safety</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Other_aspects"><span class="tocnumber">3</span> <span class="toctext">Other aspects</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Terminology"><span class="tocnumber">4</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Repair_of_stone-chip_and_crack_damage"><span class="tocnumber">5</span> <span class="toctext">Repair of stone-chip and crack damage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Size_and_depth"><span class="tocnumber">5.1</span> <span class="toctext">Size and depth</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Type"><span class="tocnumber">5.2</span> <span class="toctext">Type</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Location"><span class="tocnumber">5.3</span> <span class="toctext">Location</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Replacement"><span class="tocnumber">6</span> <span class="toctext">Replacement</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Disposal"><span class="tocnumber">7</span> <span class="toctext">Disposal</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=1" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Raked_windshield_1952_DeSoto.jpg"><img alt="" class="thumbimage" data-file-height="525" data-file-width="700" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Raked_windshield_1952_DeSoto.jpg/220px-Raked_windshield_1952_DeSoto.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Raked_windshield_1952_DeSoto.jpg/330px-Raked_windshield_1952_DeSoto.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Raked_windshield_1952_DeSoto.jpg/440px-Raked_windshield_1952_DeSoto.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Raked_windshield_1952_DeSoto.jpg" title="Enlarge"></a></div>
+Split and raked windshield on a 1952 DeSoto. Note the panes of glass are flat.</div>
+</div>
+</div>
+<p>Windshields protect the vehicle's occupants from wind and flying debris such as dust, insects, and rocks, and provide an aerodynamically formed window towards the front. UV coating <a href="/wiki/Windshield_sun_shades" title="Windshield sun shades">may be applied</a> to screen out harmful ultraviolet radiation. However, this is usually unnecessary since most auto windshields are made from <a href="/wiki/Laminated_glass" title="Laminated glass">laminated safety glass</a>. The majority of UV-B is absorbed by the glass itself, and any remaining UV-B together with most of the UV-A is absorbed by the PVB bonding layer.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>On motorbikes their main function is to shield the rider from wind, though not as completely as in a car, whereas on sports and racing motorcycles the main function is reducing drag when the rider assumes the optimal aerodynamic configuration with his or her body in unison with the machine, and does not shield the rider from wind when sitting upright.</p>
+<h2><span class="mw-headline" id="Safety">Safety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=2" title="Edit section: Safety">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Windshield-spiderweb.jpg"><img alt="" class="thumbimage" data-file-height="655" data-file-width="1349" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Windshield-spiderweb.jpg/220px-Windshield-spiderweb.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Windshield-spiderweb.jpg/330px-Windshield-spiderweb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Windshield-spiderweb.jpg/440px-Windshield-spiderweb.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Windshield-spiderweb.jpg" title="Enlarge"></a></div>
+Automobile windshield displaying "spiderweb" cracking typical of laminated safety glass.</div>
+</div>
+</div>
+<p>Early windshields were made of ordinary window glass, but that could lead to serious injuries in the event of a crash. A series of crashes led up to the development of stronger windshields. The most notable example of this is the <i>Pane vs. Ford</i> case of 1917 that decided against Pane in that he was only injured through <a href="/wiki/Reckless_driving" title="Reckless driving">reckless driving</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup> They were replaced with windshields made of <a href="/wiki/Toughened_glass" title="Toughened glass">toughened glass</a> and were fitted in the frame using a <a class="mw-redirect" href="/wiki/Rubber" title="Rubber">rubber</a> or <a href="/wiki/Neoprene" title="Neoprene">neoprene</a> <a href="/wiki/Seal_(mechanical)" title="Seal (mechanical)">seal</a>. The hardened glass shattered into many mostly harmless fragments when the windshield broke. These windshields, hovever, could shatter from a simple stone chip. In 1919, <a href="/wiki/Henry_Ford" title="Henry Ford">Henry Ford</a> solved the problem of flying debris by using the new French technology of <a href="/wiki/Laminated_glass" title="Laminated glass">glass laminating</a>. Windshields made using this process were two layers of glass with a cellulose inner layer. This inner layer held the glass together when it fractured. Between 1919 and 1929, Ford ordered the use of laminated glass on all of his vehicles.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Modern, glued-in windshields contribute to the vehicle's rigidity, but the main force for innovation has historically been the need to prevent injury from sharp glass fragments. Almost all nations now require windshields to stay in one piece even if broken, except if pierced by a strong force. Properly installed automobile windshields are also essential to safety; along with the roof of the car, they provide protection to the vehicle's occupants in the case of a roll-over accident<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>]</sup>.</p>
+<p>Today’s windshields are a safety device just like seat belts and airbags. The installation of the auto glass is done with an automotive grade urethane designed specifically for automobiles. The adhesive creates a molecular bond between the glass and the vehicle. If the adhesive bond fails at any point on the glass it can reduce the effectiveness of the air bag and substantially compromise the structural integrity of the roof.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup> The urethane sealant is protected from UV in sunlight by a band of dark dots around the edge of the windshield. The darkened edge transitions to the clear windshield with smaller dots to minimize thermal stress in manufacturing. The same band of darkened dots is often expanded around the rear view mirror to act as a sunshade.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Other_aspects">Other aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=3" title="Edit section: Other aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Windshield&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>In many places, laws restrict the use of heavily <a class="mw-redirect" href="/wiki/Window_tinting" title="Window tinting">tinted glass</a> in vehicle windshields; generally, laws specify the maximum level of tint permitted. Some vehicles have noticeably more tint in the uppermost part of the windshield to block <a href="/wiki/Light_pollution#Glare" title="Light pollution">sunglare</a>.</p>
+<p>In aircraft windshields, an electric current is applied through a conducting layer of <a href="/wiki/Tin_dioxide" title="Tin dioxide">tin(IV) oxide</a> to generate <a href="/wiki/Heat" title="Heat">heat</a> to prevent <a href="/wiki/Frost" title="Frost">icing</a>. A similar system for automobile windshields, introduced on <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a> vehicles as "<a href="/wiki/Quickclear" title="Quickclear">Quickclear</a>" in Europe ("InstaClear" in North America) in the 1980s and through the early 1990s, used this conductive metallic coating applied to the inboard side of the outer layer of glass. Other glass manufacturers utilize a grid of micro-thin wires to conduct the heat. These systems are more typically utilized by European auto manufacturers such as <a href="/wiki/Jaguar_Cars" title="Jaguar Cars">Jaguar</a> and <a href="/wiki/Porsche" title="Porsche">Porsche</a>.</p>
+<p>The use of thermal glass prevents some <a href="/wiki/Automotive_navigation_system" title="Automotive navigation system">navigation systems</a> from functioning correctly, as the embedded metal blocks the satellite signal.The RF signal tends to flow along the metal wires or layer so very little radiation can pass. This can be resolved by using an external antenna. Mobile telephones can also have problems; thermal glass typically allows only 0.0001 (1‰, or one per mille) of the signal to pass, whereas a concrete wall with rebars allows up to 0.0100 (10%, or 100‰) of the signal to pass.</p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=4" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Windshield&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:BB1_aeroscreen.JPG"><img alt="" class="thumbimage" data-file-height="400" data-file-width="600" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/BB1_aeroscreen.JPG/220px-BB1_aeroscreen.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/BB1_aeroscreen.JPG/330px-BB1_aeroscreen.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/BB1_aeroscreen.JPG/440px-BB1_aeroscreen.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:BB1_aeroscreen.JPG" title="Enlarge"></a></div>
+Singled aero screen on <a href="/wiki/Bentley_Blower_No.1" title="Bentley Blower No.1">Bentley Blower No.1</a></div>
+</div>
+</div>
+<p>The term <i>windshield</i> is used generally throughout North America. The term <i>windscreen</i> is the usual term in the <a href="/wiki/British_Isles" title="British Isles">British Isles</a> and <a href="/wiki/Australasia" title="Australasia">Australasia</a> for all vehicles. In the US <i>windscreen</i> refers to the mesh or foam placed over a <a href="/wiki/Microphone" title="Microphone">microphone</a> to minimize wind noise, while a <i>windshield</i> refers to the front window of a car. In the UK, the terms are reversed, although generally, the foam screen is referred to as a microphone shield, and not a windshield.</p>
+<p>Sports or racing cars would sometimes have <b>aero screens</b>, which were small semi-circular or rectangular windshields. These were often mounted in pairs behind a foldable flat windshield.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Aero screens are usually less than 20 cm (8 in) in height. They are known as aero screens because they only deflect the wind. The twin aeroscreen setup (often called <a href="/wiki/Brooklands" title="Brooklands">Brooklands</a>) was popular among older sports and modern cars in vintage style.</p>
+<p>A <i>wiperless windshield</i> is a windshield that uses a mechanism other than <a class="mw-redirect" href="/wiki/Windshield_wiper" title="Windshield wiper">wipers</a> to remove snow and rain from the windshield. The concept car <a href="/wiki/Acura_TL" title="Acura TL">Acura TL</a> features a wiperless windshield using a series of jet <a href="/wiki/Nozzle" title="Nozzle">nozzles</a> in the <a href="/wiki/Cowling" title="Cowling">cowl</a> to blow <a href="/wiki/Pressure" title="Pressure">pressurized air</a> onto the windshield.</p>
+<h2><span class="mw-headline" id="Repair_of_stone-chip_and_crack_damage">Repair of stone-chip and crack damage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=5" title="Edit section: Repair of stone-chip and crack damage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the US National Windshield Repair Association, many types of <a href="/wiki/Stone_damage" title="Stone damage">stone damage</a> can be successfully repaired. Whether the windshield can be repaired always depends upon four factors: the size, type, depth and location of the damage.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Size_and_depth">Size and depth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=6" title="Edit section: Size and depth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Repair of cracks up to 6.1 cm (2.4 in) is within permissible limits; automobile glass with more severe damage needs to be replaced. However, this is dependent on local laws. Unless it goes to the edge of the window. It would then compromise the structural integrity of the windshield.</p>
+<h3><span class="mw-headline" id="Type">Type</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=7" title="Edit section: Type">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Circular bullseyes, linear cracks, crack chips, dings, pits and star-shaped breaks can be repaired without removing the glass, eliminating the risk of leaking or bonding problems sometimes associated with replacement.</p>
+<h3><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=8" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some damages are very difficult to repair, or cannot be repaired:</p>
+<ul>
+<li>on inside of the windshield</li>
+<li>deep damage on both layers of glass</li>
+<li>damage over rain sensor or internal radio antenna</li>
+</ul>
+<ul>
+<li>complex multiple cracks</li>
+<li>very long cracks (i.e. over 18–24 inches (46–61 cm) long)</li>
+<li>contaminated cracks</li>
+<li>edge cracks</li>
+</ul>
+<p>In cracked windshield repair, air is removed from the damaged area on the windshield with a specified vacuum injection pump. Then using the injection pump, clear adhesive resin is injected to replace the air in the windshield crack. The resin is then cured with an ultraviolet light. When done properly, the damaged area’s strength is restored, as is 90–95% of the clarity.</p>
+<h2><span class="mw-headline" id="Replacement">Replacement<span id="Windshield_replacement"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=9" title="Edit section: Replacement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Windshields that cannot be repaired have to be replaced. Replacement of a windshield typically takes less than an hour. To ensure the vehicle is safe to drive, time values called the <a class="mw-redirect" href="/wiki/Safe_drive_away_time" title="Safe drive away time">Safe Drive Away Time</a> have been established. Windshields which have been replaced must cure or bond sufficiently until they are able to withstand the forces of a crash. Knowing the minimum time needed to cure the glass bonding adhesives is therefore important. This <b>safe drive away time</b> (SDAT) or <b>minimum drive away time</b> (MDAT) refers to the time required until a windshield installation or glass replacement is considered safe to drive again.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Criteria are specified in <a href="/wiki/National_Highway_Traffic_Safety_Administration" title="National Highway Traffic Safety Administration">U.S. Federal Motor Vehicle Safety Standards</a> 212/208 (see <a href="/wiki/Federal_Motor_Vehicle_Safety_Standards" title="Federal Motor Vehicle Safety Standards">FMVSS</a>) to ensure the reliability of adhesive systems. Typically the SDAT is verified with <a href="/wiki/Crash_test" title="Crash test">crash tests</a> as well as with high speed laboratory test methods.</p>
+<p>Consumers may be unaware that the MDAT or SDAT time is focused on safety and not necessarily on the quality, durability, or warranty of the installation. Care must be taken not to drive the vehicle prior to the SDAT/MDAT. If a vehicle is released to be driven before the SDAT and the adhesive used to set the new windshield has not had appropriate cure time, the occupants will not be properly protected in the event of a collision.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p><a href="/wiki/Airbag" title="Airbag">Airbags</a> deploy at speeds up to 200 mph (320 km/h; 89 m/s) and in some cases exert tremendous force on the windshield. Occupants can impact the airbag just 50 ms after initial deployment.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Depending on vehicle design, airbag deployment and/or occupant impact into the airbag may increase forces on the windshield, dramatically in some cases. Forces of occupants on the airbags - and hence the potential forces on the windshield - are lower for belted occupants.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> As consequence, <a href="/wiki/Adhesive" title="Adhesive">adhesive</a> suppliers usually inform their customers about the level of security achieved:</p>
+<p>1) Example: Security exceeding FMVSS 212/208 belted</p>
+<p>2) Example: Security exceeding FMVSS 212/208 unbelted<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<p>With the advent of quick cure adhesives, mobile windshield replacements have become more prevalent. Often the temperature and humidity cannot be controlled for mobile installations. For most common glass adhesives the ideal environment is 70 °F (21 °C) and 50% <a href="/wiki/Humidity" title="Humidity">humidity</a>. Variations from the ideal curing environment can increase the time needed for a sufficiently safe bond to form. A controlled environment always ensures the performance and safety of the windshield installation.</p>
+<p>If not properly cured, the adhesive bond could fail during a crash, allowing occupants to be injured, ejected, or causing other harm. Because of the variables and difficulties involved in mobile windshield replacement, many vehicle manufacturers do not recommend this method of installation.</p>
+<h2><span class="mw-headline" id="Disposal">Disposal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=10" title="Edit section: Disposal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Waste_disposal" title="Waste disposal">Waste disposal</a> of <a href="/wiki/Laminated_glass" title="Laminated glass">laminated glass</a> is no longer permitted in landfill in most European countries as the <a href="/wiki/End_of_Life_Vehicles_Directive" title="End of Life Vehicles Directive">End of Life Vehicles Directive</a> (ELV) is implemented. A study<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> by <a class="mw-redirect" href="/wiki/Surrey_University" title="Surrey University">Surrey University</a> and <a class="mw-redirect" href="/wiki/Pilkington_Glass" title="Pilkington Glass">Pilkington Glass</a> proposes that waste laminated glass be placed into a separating device such as a rolling mill where the glass is fragmented and the larger <a class="mw-redirect" href="/wiki/Cullet" title="Cullet">cullet</a> is mechanically detached from the inner film. The application of heat then melts the laminating plastic, usually Polyvinyl Butyral "PVB" enabling both the glass and the interior film to be recycled. The PVB recycling process is a simple procedure of melting and reshaping it.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Automotive_head-up_display" title="Automotive head-up display">Automotive head-up display</a></li>
+<li><a href="/wiki/BS_857" title="BS 857">BS 857</a></li>
+<li><a class="mw-redirect" href="/wiki/Blind_spot_(vehicle)" title="Blind spot (vehicle)">Driver visibility</a></li>
+<li><a href="/wiki/Car_glass" title="Car glass">Car glass</a></li>
+<li><a href="/wiki/Motorcycle_accessories" title="Motorcycle accessories">Motorcycle windshield</a></li>
+<li><a href="/wiki/Windscreen_wiper" title="Windscreen wiper">Windscreen wiper</a></li>
+<li><a class="new" href="/w/index.php?title=Windshield_visor&amp;action=edit&amp;redlink=1" title="Windshield visor (page does not exist)">Windshield visor</a></li>
+<li><a href="/wiki/Glass_run_channel" title="Glass run channel">Glass run channel</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Windshields" title="commons:Category:Windshields">Windshields</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tuchinda, Chanisada; Sabong Srivannaboon; Henry W Lim (2006). <a class="external text" href="http://www.jaad.org/article/S0190-9622%2805%2904624-4/abstract" rel="nofollow">"Photoprotection by window glass, automobile glass, and sunglasses"</a>. <i>J Am Acad Dermatol</i>. <b>54</b>: 845–854. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jaad.2006.05.014" rel="nofollow">10.1016/j.jaad.2006.05.014</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 January</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.atitle=Photoprotection+by+window+glass%2C+automobile+glass%2C+and+sunglasses&amp;rft.au=Henry+W+Lim&amp;rft.au=Sabong+Srivannaboon&amp;rft.aufirst=Chanisada&amp;rft.aulast=Tuchinda&amp;rft.date=2006&amp;rft.genre=article&amp;rft.jtitle=J+Am+Acad+Dermatol&amp;rft.pages=845-854&amp;rft.volume=54&amp;rft_id=http%3A%2F%2Fwww.jaad.org%2Farticle%2FS0190-9622%252805%252904624-4%2Fabstract&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jaad.2006.05.014&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090802145330/http://www.glass.org/consumer/a_windshield.htm" rel="nofollow">"Your Windshield is Not Just a "Wind-Shield" Any More"</a>. National Glass Association. Archived from <a class="external text" href="http://www.glass.org/consumer/a_windshield.htm" rel="nofollow">the original</a> on 2 August 2009.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.btitle=Your+Windshield+is+Not+Just+a+%22Wind-Shield%22+Any+More&amp;rft.genre=unknown&amp;rft.pub=National+Glass+Association&amp;rft_id=http%3A%2F%2Fwww.glass.org%2Fconsumer%2Fa_windshield.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Tracy, David. <a class="external text" href="http://jalopnik.com/heres-what-those-little-dots-are-on-the-edges-of-your-c-1791075995" rel="nofollow">"Here's What Those Little Dots Are On The Edges Of Your Car Windows"</a>. <i>Jalopnik</i>. <a href="/wiki/Gawker_Media" title="Gawker Media">Gawker Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 February</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.atitle=Here%27s+What+Those+Little+Dots+Are+On+The+Edges+Of+Your+Car+Windows&amp;rft.aufirst=David&amp;rft.aulast=Tracy&amp;rft.genre=unknown&amp;rft.jtitle=Jalopnik&amp;rft_id=http%3A%2F%2Fjalopnik.com%2Fheres-what-those-little-dots-are-on-the-edges-of-your-c-1791075995&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book" id="CITEREFBeattie1977">Beattie, Ian (1977). <i>The Complete Book of Automobile Body Design</i>. Yeovil, UK: The Haynes Publishing Group. p. 22. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0854292179" title="Special:BookSources/0854292179">0854292179</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.aufirst=Ian&amp;rft.aulast=Beattie&amp;rft.btitle=The+Complete+Book+of+Automobile+Body+Design&amp;rft.date=1977&amp;rft.genre=book&amp;rft.isbn=0854292179&amp;rft.pages=22&amp;rft.place=Yeovil%2C+UK&amp;rft.pub=The+Haynes+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.carwindshields.info/is-your-windshield-repairable" rel="nofollow">"Is Your Windshield Repairable?"</a>. Car Windshield Info<span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.btitle=Is+Your+Windshield+Repairable%3F&amp;rft.genre=unknown&amp;rft.pub=Car+Windshield+Info&amp;rft_id=http%3A%2F%2Fwww.carwindshields.info%2Fis-your-windshield-repairable&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Cognard, Philippe (2006). <i>Handbook of Adhesives and Sealants</i>. Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0080447087" title="Special:BookSources/978-0080447087">978-0080447087</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.aufirst=Philippe&amp;rft.aulast=Cognard&amp;rft.btitle=Handbook+of+Adhesives+and+Sealants&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0080447087&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://libertyautoglass.us/critical-safety-procedures-for-the-replacement-of-auto-glass-retained-by-bonding/" rel="nofollow">"Critical Safety Procedures For The Replacement of Auto Glass Retained By Bonding"</a>. <i>Liberty AutoGlass</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-06-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.atitle=Critical+Safety+Procedures+For+The+Replacement+of+Auto+Glass+Retained+By+Bonding&amp;rft.genre=unknown&amp;rft.jtitle=Liberty+AutoGlass&amp;rft_id=http%3A%2F%2Flibertyautoglass.us%2Fcritical-safety-procedures-for-the-replacement-of-auto-glass-retained-by-bonding%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Bob Stenzel: Determining SDAT, AGRR Magazine, March/April 2012, page 29-30</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Exposing Industry Shortcuts to SDAT Recommendations, <a class="external free" href="http://www.sika.com/en/solutions_products/Sika%20Industry%20Business/01a001/noshortcutstosafety/nsts_4.html" rel="nofollow">http://www.sika.com/en/solutions_products/Sika%20Industry%20Business/01a001/noshortcutstosafety/nsts_4.html</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Premium Adhesive Systems, AGRR Magazine, March/April 2012, Page 15</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20081031083149/http://www.surrey.ac.uk/CHAMP/documents/pilk.pdf" rel="nofollow">"Laminated Car Windscreen Recycling"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a class="external text" href="http://www.surrey.ac.uk/CHAMP/documents/pilk.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(pdf)</span> on 2008-10-31.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.btitle=Laminated+Car+Windscreen+Recycling&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.surrey.ac.uk%2FCHAMP%2Fdocuments%2Fpilk.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<p>Manufacturing Processes Reference Guide: Robert H. Todd, Dell K. Allen, and Leo Alting How It's Made: Windshields</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Windshield&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://www.unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/R043r3e.pdf" rel="nofollow">UNECE Reg. 43</a> Safety glazing material</li>
+<li><a class="external text" href="http://www.bsi-global.com/en/Shop/Publication-Detail/?pid=000000000030158037" rel="nofollow">BS 857:1967</a> Specification for safety glass for land transport</li>
+<li><a class="external text" href="http://www.glass.org" rel="nofollow">National Glass Association</a></li>
+<li><a class="external text" href="http://www.agrss.org" rel="nofollow">Auto Glass Replacement Safety Standards Council</a></li>
+<li><a class="external text" href="http://www.rolags.com/" rel="nofollow">Repair of Laminated Automotive Glass Standard</a></li>
+<li><cite class="citation journal">Windsor, H. H., Jr., ed. (September 1933). <a class="external text" href="https://books.google.com/books?id=EeIDAAAAMBAJ&amp;pg=PA337&amp;dq=Popular+Science+1933+plane+%22Popular+Mechanics%22&amp;hl=en&amp;ei=iI0JTqqmEKOlsQLBrNHKAQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=8&amp;sqi=2&amp;ved=0CEYQ6AEwBw#v=onepage&amp;q&amp;f=true" rel="nofollow">"Shatter Proof Glass Found In Laboratory Accident"</a>. <i><a href="/wiki/Popular_Mechanics" title="Popular Mechanics">Popular Mechanics</a></i>. Chicago, IL ISA: Popular Mechanics. <b>60</b> (3): 337<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindshield&amp;rft.atitle=Shatter+Proof+Glass+Found+In+Laboratory+Accident&amp;rft.date=1933-09&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Popular+Mechanics&amp;rft.pages=337&amp;rft.volume=60&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DEeIDAAAAMBAJ%26pg%3DPA337%26dq%3DPopular%2BScience%2B1933%2Bplane%2B%2522Popular%2BMechanics%2522%26hl%3Den%26ei%3DiI0JTqqmEKOlsQLBrNHKAQ%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D8%26sqi%3D2%26ved%3D0CEYQ6AEwBw%23v%3Donepage%26q%26f%3Dtrue&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<div aria-labelledby="Automotive_design" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CarDesign_nav" title="Template:CarDesign nav"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CarDesign_nav" title="Template talk:CarDesign nav"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CarDesign_nav&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Automotive_design" style="font-size:114%;margin:0 4em"><a href="/wiki/Automotive_design" title="Automotive design">Automotive design</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>Part of a series of articles on <a href="/wiki/Car" title="Car">cars</a></i></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;"><a href="/wiki/Coachbuilder" title="Coachbuilder">Body</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;"><a href="/wiki/Vehicle_frame" title="Vehicle frame">Framework</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Car_platform" title="Car platform">Car platform</a></li>
+<li><a href="/wiki/Backbone_chassis" title="Backbone chassis">Backbone chassis</a></li>
+<li><a href="/wiki/Beltline_(automotive)" title="Beltline (automotive)">Beltline</a></li>
+<li><a href="/wiki/Body-on-frame" title="Body-on-frame">Body-on-frame</a></li>
+<li><a href="/wiki/Bumper_(car)" title="Bumper (car)">Bumper</a></li>
+<li><a href="/wiki/Cabrio_coach" title="Cabrio coach">Cabrio coach</a></li>
+<li><a href="/wiki/Chassis" title="Chassis">Chassis</a></li>
+<li><a href="/wiki/Continental_tire" title="Continental tire">Continental tire</a></li>
+<li><a href="/wiki/Crumple_zone" title="Crumple zone">Crumple zone</a></li>
+<li><a href="/wiki/Dagmar_bumpers" title="Dagmar bumpers">Dagmar bumpers</a></li>
+<li><a href="/wiki/Fender_(vehicle)" title="Fender (vehicle)">Fender</a></li>
+<li><a href="/wiki/Fender_skirts" title="Fender skirts">Fender skirts</a></li>
+<li><a href="/wiki/Grille_(car)" title="Grille (car)">Grille</a></li>
+<li><a href="/wiki/Hood_(car)" title="Hood (car)">Hood</a></li>
+<li><a href="/wiki/Hood_scoop" title="Hood scoop">Hood scoop</a></li>
+<li><a href="/wiki/Monocoque" title="Monocoque">Monocoque</a></li>
+<li><a href="/wiki/Overhang_(car)" title="Overhang (car)">Overhang</a></li>
+<li><a href="/wiki/Pillar_(car)" title="Pillar (car)">Pillar</a></li>
+<li><a href="/wiki/Ponton_(car)" title="Ponton (car)">Pontoon fenders</a></li>
+<li><a href="/wiki/Quarter_panel" title="Quarter panel">Quarter panel</a></li>
+<li><a href="/wiki/Roof_rack" title="Roof rack">Roof rack</a></li>
+<li><a href="/wiki/Shaker_scoop" title="Shaker scoop">Shaker scoop</a></li>
+<li><a href="/wiki/Spoiler_(car)" title="Spoiler (car)">Spoiler</a></li>
+<li><a href="/wiki/Stressed_member_engine" title="Stressed member engine">Stressed member engine</a></li>
+<li><a href="/wiki/Subframe" title="Subframe">Subframe</a></li>
+<li><a href="/wiki/Tonneau" title="Tonneau">Tonneau</a></li>
+<li><a class="mw-redirect" href="/wiki/Trunk_lid" title="Trunk lid">Trunk lid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;">Compartments</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trunk_(car)" title="Trunk (car)">Trunk/boot/dickie</a></li>
+<li><a href="/wiki/Hood_(car)" title="Hood (car)">Hood/bonnet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;"><a href="/wiki/Car_door" title="Car door">Doors</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Butterfly_doors" title="Butterfly doors">Butterfly doors</a></li>
+<li><a href="/wiki/Gull-wing_door" title="Gull-wing door">Gull-wing door</a></li>
+<li><a href="/wiki/Scissor_doors" title="Scissor doors">Scissor doors</a></li>
+<li><a href="/wiki/Sliding_door_(car)" title="Sliding door (car)">Sliding door</a></li>
+<li><a href="/wiki/Suicide_door" title="Suicide door">Suicide door</a></li>
+<li><a href="/wiki/Vehicle_canopy" title="Vehicle canopy">Vehicle canopy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;"><a href="/wiki/Car_glass" title="Car glass">Glass</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greenhouse_(car)" title="Greenhouse (car)">Greenhouse</a></li>
+<li><a href="/wiki/Power_window" title="Power window">Power window</a></li>
+<li><a href="/wiki/Quarter_glass" title="Quarter glass">Quarter glass</a></li>
+<li><a href="/wiki/Opera_window" title="Opera window">Opera window</a></li>
+<li><a href="/wiki/Sunroof" title="Sunroof">Sunroof</a></li>
+<li><a class="mw-selflink selflink">Windshield/windscreen</a></li>
+<li><a href="/wiki/Windscreen_wiper" title="Windscreen wiper">Windshield/windscreen wiper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;">Other elements</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bumper_sticker" title="Bumper sticker">Bumper sticker</a></li>
+<li><a href="/wiki/Curb_feeler" title="Curb feeler">Curb feeler</a></li>
+<li><a href="/wiki/Front-end_bra" title="Front-end bra">Front-end bra</a></li>
+<li><a href="/wiki/Hood_ornament" title="Hood ornament">Hood ornament</a></li>
+<li><a href="/wiki/Japan_black" title="Japan black">Japan black</a></li>
+<li><a href="/wiki/Nerf_bar" title="Nerf bar">Nerf bar</a></li>
+<li><a href="/wiki/Omniview_technology" title="Omniview technology">Omniview technology</a></li>
+<li><a href="/wiki/Run-flat_tire" title="Run-flat tire">Run-flat tire</a></li>
+<li><a href="/wiki/Spare_tire" title="Spare tire">Spare tire</a></li>
+<li><a href="/wiki/Tire" title="Tire">Tire/tyre</a></li>
+<li><a href="/wiki/Tow_hitch" title="Tow hitch">Tow hitch</a></li>
+<li><a href="/wiki/Truck_accessory" title="Truck accessory">Truck accessory</a></li>
+<li><a href="/wiki/Window_deflector" title="Window deflector">Window deflector</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;">Geometry</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Approach_and_departure_angles" title="Approach and departure angles">Approach and departure angles</a></li>
+<li><a href="/wiki/Breakover_angle" title="Breakover angle">Breakover angle</a></li>
+<li><a href="/wiki/Overhang_(car)" title="Overhang (car)">Overhang</a></li>
+<li><a href="/wiki/Ride_height" title="Ride height">Ride height</a></li>
+<li><a href="/wiki/Roll_center" title="Roll center">Roll center</a></li>
+<li><a href="/wiki/Turning_radius" title="Turning radius">Turning radius</a></li>
+<li><a href="/wiki/Weight_distribution" title="Weight distribution">Weight distribution</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align:center;">
+<div style="padding:0.1em 0;line-height:1.2em;">Exterior<br/>
+equipment</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;"><a href="/wiki/Automotive_lighting" title="Automotive lighting">Lighting</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Daytime_running_lamp" title="Daytime running lamp">Daytime running lamp</a></li>
+<li><a href="/wiki/Headlamp" title="Headlamp">Headlamp</a>
+<ul>
+<li><a href="/wiki/Sealed_beam" title="Sealed beam">sealed beam</a></li>
+<li><a href="/wiki/High-intensity_discharge_lamp" title="High-intensity discharge lamp">high-intensity discharge lamp</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hidden_headlamp" title="Hidden headlamp">Hidden headlamps</a></li>
+<li><a href="/wiki/Automotive_lighting#Turn_isgnals" title="Automotive lighting">Turn signals</a>
+<ul>
+<li><a href="/wiki/Trafficators" title="Trafficators">trafficators</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Automotive_lighting#Rear_position_lamps_.28tail_lamps.29" title="Automotive lighting">Rear position lamps</a></li>
+<li><a href="/wiki/Automotive_lighting#Stop_lamps_.28brake_lights.29" title="Automotive lighting">Stop lamps</a></li>
+<li><a href="/wiki/Automotive_lighting#Reversing_.28backup.29_lamps" title="Automotive lighting">Reversing lamps</a></li>
+<li><a href="/wiki/Safety_reflector" title="Safety reflector">Safety reflector</a>
+<ul>
+<li><a href="/wiki/Retroreflector" title="Retroreflector">retroreflector</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;">Other elements</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vehicle_horn" title="Vehicle horn">Vehicle horn</a></li>
+<li><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration plate</a>
+<ul>
+<li><a href="/wiki/Vanity_plate" title="Vanity plate">vanity plate</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Windshield_washer_fluid" title="Windshield washer fluid">Windshield/windscreen washer fluid</a></li>
+<li><a href="/wiki/Wing_mirror" title="Wing mirror">Wing mirror</a>
+<ul>
+<li><a href="/wiki/Power_side-view_mirror" title="Power side-view mirror">power side-view mirror</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9.0em;font-weight:normal;">Legal</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Motor_vehicle_theft" title="Motor vehicle theft">Motor vehicle theft</a></li>
+<li><a href="/wiki/Vehicle_identification_number" title="Vehicle identification number">Vehicle identification number</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Automobiles" title="Category:Automobiles">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Automobiles" title="commons:Category:Automobiles">Commons</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Cars" title="Portal:Cars">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4189952-0" rel="nofollow">4189952-0</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20171102223454
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.348 seconds
+Real time usage: 0.442 seconds
+Preprocessor visited node count: 1495/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 71527/2097152 bytes
+Template argument size: 1914/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 6/500
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 6.24 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  368.603      1 -total
+ 28.05%  103.408      1 Template:Reflist
+ 14.25%   52.524      3 Template:Citation_needed
+ 14.20%   52.336      2 Template:Cite_journal
+ 12.85%   47.357      3 Template:Fix
+ 10.63%   39.198      5 Template:Convert
+ 10.61%   39.096      2 Template:Refimprove
+ 10.35%   38.152      3 Template:Ambox
+ 10.06%   37.080      3 Template:Navbox
+  9.17%   33.789      1 Template:CarDesign_nav
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:254664-0!canonical and timestamp 20171102223454 and revision id 804917053
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Windshield&amp;oldid=804917053">https://en.wikipedia.org/w/index.php?title=Windshield&amp;oldid=804917053</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Vehicle_parts" title="Category:Vehicle parts">Vehicle parts</a></li><li><a href="/wiki/Category:Glass_applications" title="Category:Glass applications">Glass applications</a></li><li><a href="/wiki/Category:Glass_coating_and_surface_modification" title="Category:Glass coating and surface modification">Glass coating and surface modification</a></li><li><a href="/wiki/Category:Automotive_safety_technologies" title="Category:Automotive safety technologies">Automotive safety technologies</a></li><li><a href="/wiki/Category:Car_safety" title="Category:Car safety">Car safety</a></li><li><a href="/wiki/Category:Car_windows" title="Category:Car windows">Car windows</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2008" title="Category:Articles needing additional references from March 2008">Articles needing additional references from March 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Articles with unsourced statements from August 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2013" title="Category:Articles with unsourced statements from December 2013">Articles with unsourced statements from December 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2013" title="Category:Articles needing additional references from December 2013">Articles needing additional references from December 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2015" title="Category:Articles needing additional references from May 2015">Articles needing additional references from May 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Windshield" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Windshield" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Windshield" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Windshield" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Windshield">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Windshield&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Windshield&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Windshield" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Windshield" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Windshield&amp;oldid=804917053" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Windshield&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q13693" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Windshield&amp;id=804917053" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Windshield">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Windshield&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Windshield&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Windshields" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D8%AC%D8%A7%D8%AC_%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%85%D9%8A" hreflang="ar" lang="ar" title="الزجاج الأمامي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B1%D0%B0%D0%B2%D0%BE%D0%B5_%D1%88%D0%BA%D0%BB%D0%BE" hreflang="be" lang="be" title="Лабавое шкло – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Gwerenn-dal" hreflang="br" lang="br" title="Gwerenn-dal – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Parabrisa" hreflang="ca" lang="ca" title="Parabrisa – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Forrude" hreflang="da" lang="da" title="Forrude – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Windschutzscheibe" hreflang="de" lang="de" title="Windschutzscheibe – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%81%CE%BC%CF%80%CF%81%CE%AF%CE%B6" hreflang="el" lang="el" title="Παρμπρίζ – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Parabrisas" hreflang="es" lang="es" title="Parabrisas – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Haizetako" hreflang="eu" lang="eu" title="Haizetako – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B4%D9%87_%D8%AC%D9%84%D9%88" hreflang="fa" lang="fa" title="شیشه جلو – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pare-brise" hreflang="fr" lang="fr" title="Pare-brise – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Gaothsc%C3%A1th" hreflang="ga" lang="ga" title="Gaothscáth – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Parabrezza" hreflang="it" lang="it" title="Parabrezza – Italian">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Para-brisa" hreflang="pt" lang="pt" title="Para-brisa – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Parbriz" hreflang="ro" lang="ro" title="Parbriz – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B1%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE" hreflang="ru" lang="ru" title="Лобовое стекло – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tuulilasi" hreflang="fi" lang="fi" title="Tuulilasi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Vindruta" hreflang="sv" lang="sv" title="Vindruta – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D1%8B_%D0%BF%D1%8B%D1%8F%D0%BB%D0%B0" hreflang="tt" lang="tt" title="Алгы пыяла – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%82%D1%80%D0%BE%D0%B2%D0%B5_%D1%81%D0%BA%D0%BB%D0%BE" hreflang="uk" lang="uk" title="Вітрове скло – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%93%8B%E9%A2%A8%E7%8E%BB%E7%92%83" hreflang="zh" lang="zh" title="擋風玻璃 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q13693#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 October 2017, at 22:28.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Windshield&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.442","ppvisitednodes":{"value":1495,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71527,"limit":2097152},"templateargumentsize":{"value":1914,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  368.603      1 -total"," 28.05%  103.408      1 Template:Reflist"," 14.25%   52.524      3 Template:Citation_needed"," 14.20%   52.336      2 Template:Cite_journal"," 12.85%   47.357      3 Template:Fix"," 10.63%   39.198      5 Template:Convert"," 10.61%   39.096      2 Template:Refimprove"," 10.35%   38.152      3 Template:Ambox"," 10.06%   37.080      3 Template:Navbox","  9.17%   33.789      1 Template:CarDesign_nav"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":6546766,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20171102223454","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1216"});});</script>
+</body>
+</html>

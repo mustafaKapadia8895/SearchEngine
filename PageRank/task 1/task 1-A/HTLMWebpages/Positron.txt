@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Positron - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Positron","wgTitle":"Positron","wgCurRevisionId":806366160,"wgRevisionId":806366160,"wgArticleId":24731,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","All articles with unsourced statements","Articles with unsourced statements from April 2016","Wikipedia articles with GND identifiers","Antimatter","Elementary particles","Leptons","Quantum electrodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Positron","wgRelevantArticleId":24731,"wgRequestId":"WgGpkwpAAEMAAC9himAAAABG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3229","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PositronDiscovery.jpg/1200px-PositronDiscovery.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Positron" rel="alternate"/>
+<link href="/w/index.php?title=Positron&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Positron&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Positron" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Positron rootpage-Positron vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Positron</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Positron_(disambiguation)" title="Positron (disambiguation)">Positron (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<caption>Positron (antielectron)</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:PositronDiscovery.jpg"><img alt="PositronDiscovery.jpg" data-file-height="2374" data-file-width="2408" height="197" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/PositronDiscovery.jpg/200px-PositronDiscovery.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/PositronDiscovery.jpg/300px-PositronDiscovery.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/PositronDiscovery.jpg/400px-PositronDiscovery.jpg 2x" width="200"/></a>
+<div><a href="/wiki/Cloud_chamber" title="Cloud chamber">Cloud chamber</a> photograph by <a href="/wiki/Carl_David_Anderson" title="Carl David Anderson">C. D. Anderson</a> of the first positron ever identified. A 6 mm lead plate separates the upper and lower halves of the chamber. The deflection and direction of the particle's ion trail indicate the particle is a positron (see <a href="#Experimental_clues_and_discovery">below</a>).</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Particle#Composition" title="Particle">Composition</a></th>
+<td><a href="/wiki/Elementary_particle" title="Elementary particle">Elementary particle</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Particle_statistics" title="Particle statistics">Statistics</a></th>
+<td><a class="mw-redirect" href="/wiki/Fermionic" title="Fermionic">Fermionic</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Generation_(particle_physics)" title="Generation (particle physics)">Generation</a></th>
+<td>First</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Fundamental_interaction" title="Fundamental interaction">Interactions</a></th>
+<td><a href="/wiki/Gravity" title="Gravity">Gravity</a>, <a class="mw-redirect" href="/wiki/Electromagnetic_interaction" title="Electromagnetic interaction">Electromagnetic</a>, <a href="/wiki/Weak_interaction" title="Weak interaction">Weak</a></td>
+</tr>
+<tr>
+<th scope="row">Symbol</th>
+<td><span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><br/></span>e<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left">+<br/></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><br/></span>β<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left">+<br/></span></span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Antiparticle" title="Antiparticle">Antiparticle</a></th>
+<td><a href="/wiki/Electron" title="Electron">Electron</a></td>
+</tr>
+<tr>
+<th scope="row">Theorized</th>
+<td><a href="/wiki/Paul_Dirac" title="Paul Dirac">Paul Dirac</a> (1928)</td>
+</tr>
+<tr>
+<th scope="row">Discovered</th>
+<td><a class="mw-redirect" href="/wiki/Carl_D._Anderson" title="Carl D. Anderson">Carl D. Anderson</a> (1932)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Invariant_mass" title="Invariant mass">Mass</a></th>
+<td>
+<p><a href="/wiki/Electron_rest_mass" title="Electron rest mass">m<sub>e</sub></a> <span class="nowrap"><span class="sortkey" style="display:none">6969910938355999999♠</span>9.109<span style="margin-left:.25em;">383</span><span style="margin-left:.25em;">56</span>(11)<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−31</sup> <a href="/wiki/Kilogram" title="Kilogram">kg</a></span><sup class="reference" id="cite_ref-CODATA_1-0"><a href="#cite_note-CODATA-1">[1]</a></sup><br/>
+<span class="nowrap"><span class="sortkey" style="display:none">6996548579909000000♠</span>5.485<span style="margin-left:.25em;">799</span><span style="margin-left:.25em;">090</span>(16)<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup> <a href="/wiki/Unified_atomic_mass_unit" title="Unified atomic mass unit">u</a></span><sup class="reference" id="cite_ref-CODATA_1-1"><a href="#cite_note-CODATA-1">[1]</a></sup><br/></p>
+<span class="nowrap"><span class="sortkey" style="display:none">6999510998946099999♠</span>0.510<span style="margin-left:.25em;">998</span><span style="margin-left:.25em;">9461</span>(13) <a href="/wiki/Electronvolt#Mass" title="Electronvolt">MeV/<i>c</i><sup>2</sup></a></span><sup class="reference" id="cite_ref-CODATA_1-2"><a href="#cite_note-CODATA-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Electric_charge" title="Electric charge">Electric charge</a></th>
+<td>+1 <a href="/wiki/Elementary_charge" title="Elementary charge"><i>e</i></a><br/>
++<span class="nowrap"><span class="sortkey" style="display:none">6981160217656499999♠</span>1.602<span style="margin-left:.25em;">176</span><span style="margin-left:.25em;">565</span>(35)<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−19</sup> <a href="/wiki/Coulomb" title="Coulomb">C</a></span><sup class="reference" id="cite_ref-CODATA_1-3"><a href="#cite_note-CODATA-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Spin_(physics)" title="Spin (physics)">Spin</a></th>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span> <small>(same as electron)</small></td>
+</tr>
+</table>
+<p>The <b>positron</b> or <b>antielectron</b> is the <a href="/wiki/Antiparticle" title="Antiparticle">antiparticle</a> or the <a href="/wiki/Antimatter" title="Antimatter">antimatter</a> counterpart of the <a href="/wiki/Electron" title="Electron">electron</a>. The positron has an <a href="/wiki/Electric_charge" title="Electric charge">electric charge</a> of +1 <i><a href="/wiki/Elementary_charge" title="Elementary charge">e</a></i>, a <a href="/wiki/Spin_(physics)" title="Spin (physics)">spin</a> of 1/2 (same as electron), and has the same <a href="/wiki/Electron_rest_mass" title="Electron rest mass">mass as an electron</a>. When a positron collides with an electron, <a href="/wiki/Annihilation" title="Annihilation">annihilation</a> occurs. If this collision occurs at low energies, it results in the production of two or more <a href="/wiki/Gamma_ray" title="Gamma ray">gamma ray</a> <a href="/wiki/Photon" title="Photon">photons</a> (see <a href="/wiki/Electron%E2%80%93positron_annihilation" title="Electron–positron annihilation">electron–positron annihilation</a>).</p>
+<p>Positrons may be generated by <a href="/wiki/Positron_emission" title="Positron emission">positron emission</a> radioactive decay (through <a href="/wiki/Weak_interaction" title="Weak interaction">weak interactions</a>), or by <a href="/wiki/Pair_production" title="Pair production">pair production</a> from a sufficiently energetic <a href="/wiki/Photon" title="Photon">photon</a> which is interacting with an atom in a material.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Theory"><span class="tocnumber">1.1</span> <span class="toctext">Theory</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Experimental_clues_and_discovery"><span class="tocnumber">1.2</span> <span class="toctext">Experimental clues and discovery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Natural_production"><span class="tocnumber">2</span> <span class="toctext">Natural production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Observation_in_cosmic_rays"><span class="tocnumber">2.1</span> <span class="toctext">Observation in cosmic rays</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Artificial_production"><span class="tocnumber">3</span> <span class="toctext">Artificial production</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Applications"><span class="tocnumber">4</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Notes"><span class="tocnumber">6.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Citations"><span class="tocnumber">6.2</span> <span class="toctext">Citations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Theory">Theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=2" title="Edit section: Theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1928, <a href="/wiki/Paul_Dirac" title="Paul Dirac">Paul Dirac</a> published a paper<sup class="reference" id="cite_ref-QuantumElectron_2-0"><a href="#cite_note-QuantumElectron-2">[2]</a></sup> proposing that electrons can have both a positive and negative charge. This paper introduced the <a href="/wiki/Dirac_equation" title="Dirac equation">Dirac equation</a>, a unification of quantum mechanics, <a href="/wiki/Special_relativity" title="Special relativity">special relativity</a>, and the then-new concept of electron <a href="/wiki/Spin_(physics)" title="Spin (physics)">spin</a> to explain the <a href="/wiki/Zeeman_effect" title="Zeeman effect">Zeeman effect</a>. The paper did not explicitly predict a new particle but did allow for electrons having either positive or negative energy as solutions. Hermann Weyl then published a paper discussing the mathematical implications of the negative energy solution.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The positive-energy solution explained experimental results, but Dirac was puzzled by the equally valid negative-energy solution that the mathematical model allowed. Quantum mechanics did not allow the negative energy solution to simply be ignored, as classical mechanics often did in such equations; the dual solution implied the possibility of an electron spontaneously jumping between positive and negative energy states. However, no such transition had yet been observed experimentally. He referred to the issues raised by this conflict between theory and observation as "difficulties" that were "unresolved".</p>
+<p>Dirac wrote a follow-up paper in December 1929<sup class="reference" id="cite_ref-ElectronProton_4-0"><a href="#cite_note-ElectronProton-4">[4]</a></sup> that attempted to explain the unavoidable negative-energy solution for the relativistic electron. He argued that "... an electron with negative energy moves in an external [electromagnetic] field as though it carries a positive charge." He further asserted that all of space could be regarded as a <a href="/wiki/Dirac_sea" title="Dirac sea">"sea" of negative energy states</a> that were filled, so as to prevent electrons jumping between positive energy states (negative electric charge) and negative energy states (positive charge). The paper also explored the possibility of the <a href="/wiki/Proton" title="Proton">proton</a> being an island in this sea, and that it might actually be a negative-energy electron. Dirac acknowledged that the proton having a much greater mass than the electron was a problem, but expressed "hope" that a future theory would resolve the issue.</p>
+<p><a class="mw-redirect" href="/wiki/Robert_Oppenheimer" title="Robert Oppenheimer">Robert Oppenheimer</a> argued strongly against the proton being the negative-energy electron solution to Dirac's equation. He asserted that if it were, the hydrogen atom would rapidly self-destruct.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Persuaded by Oppenheimer's argument, Dirac published a paper in 1931 that predicted the existence of an as-yet-unobserved particle that he called an "anti-electron" that would have the same mass as an electron and that would mutually annihilate upon contact with an electron.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p><a class="mw-redirect" href="/wiki/Feynman" title="Feynman">Feynman</a>, and earlier <a class="mw-redirect" href="/wiki/Ernst_Carl_Gerlach_Stueckelberg" title="Ernst Carl Gerlach Stueckelberg">Stueckelberg</a>, proposed an interpretation of the positron as an electron moving backward in time,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> reinterpreting the negative-energy solutions of the <a href="/wiki/Dirac_equation" title="Dirac equation">Dirac equation</a>. Electrons moving backward in time would have a positive <a href="/wiki/Electric_charge" title="Electric charge">electric charge</a>. <a href="/wiki/John_Archibald_Wheeler" title="John Archibald Wheeler">Wheeler</a> invoked this concept to explain the identical properties shared by all electrons, suggesting that <a href="/wiki/One-electron_universe" title="One-electron universe">"they are all the same electron"</a> with a complex, self-intersecting <a class="mw-redirect" href="/wiki/Worldline" title="Worldline">worldline</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> <a href="/wiki/Yoichiro_Nambu" title="Yoichiro Nambu">Yoichiro Nambu</a> later applied it to all production and <a href="/wiki/Annihilation" title="Annihilation">annihilation</a> of particle-antiparticle pairs, stating that "the eventual creation and annihilation of pairs that may occur now and then is no creation or annihilation, but only a change of direction of moving particles, from the past to the future, or from the future to the past."<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The backwards in time point of view is nowadays accepted as completely equivalent to other pictures, but it does not have anything to do with the macroscopic terms "cause" and "effect", which do not appear in a microscopic physical description.</p>
+<h3><span class="mw-headline" id="Experimental_clues_and_discovery">Experimental clues and discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=3" title="Edit section: Experimental clues and discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cloud_chambers_played_an_important_role_of_particle_detectors.jpg"><img alt="" class="thumbimage" data-file-height="1920" data-file-width="1280" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cloud_chambers_played_an_important_role_of_particle_detectors.jpg/220px-Cloud_chambers_played_an_important_role_of_particle_detectors.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cloud_chambers_played_an_important_role_of_particle_detectors.jpg/330px-Cloud_chambers_played_an_important_role_of_particle_detectors.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cloud_chambers_played_an_important_role_of_particle_detectors.jpg/440px-Cloud_chambers_played_an_important_role_of_particle_detectors.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cloud_chambers_played_an_important_role_of_particle_detectors.jpg" title="Enlarge"></a></div>
+Wilson <a href="/wiki/Cloud_chamber" title="Cloud chamber">Cloud chambers</a> used to be very important <a href="/wiki/Particle_detector" title="Particle detector">particle detectors</a> in the early days of <a href="/wiki/Particle_physics" title="Particle physics">particle physics</a>. Apart from positron, they were also used in discovery of <a href="/wiki/Muon" title="Muon">muon</a> and <a href="/wiki/Kaon" title="Kaon">kaon</a>.</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Antimatter" title="Antimatter">Antimatter</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:PositronDiscovery.jpg"><img alt="PositronDiscovery.jpg" data-file-height="2374" data-file-width="2408" height="69" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/PositronDiscovery.jpg/70px-PositronDiscovery.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/PositronDiscovery.jpg/105px-PositronDiscovery.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/PositronDiscovery.jpg/140px-PositronDiscovery.jpg 2x" width="70"/></a></td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;text-align:left; padding:2px; padding-right:4px; border-width:0 1px">
+<div style="width:100%; background:lavender; padding-left:2px;"><a href="/wiki/Annihilation" title="Annihilation">Annihilation</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:2px">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-left:2px; background:lavender">Devices</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Particle_accelerator" title="Particle accelerator">Particle accelerator</a></li>
+<li><a href="/wiki/Penning_trap" title="Penning trap">Penning trap</a></li>
+<li><a href="/wiki/Cloud_chamber" title="Cloud chamber">Wilson chamber</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:2px">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-left:2px; background:lavender"><a href="/wiki/Antiparticle" title="Antiparticle">Antiparticles</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a class="mw-selflink selflink">Positron</a></li>
+<li><a href="/wiki/Antiproton" title="Antiproton">Antiproton</a></li>
+<li><a href="/wiki/Antineutron" title="Antineutron">Antineutron</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:2px">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-left:2px; background:lavender">Uses</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Positron_emission_tomography" title="Positron emission tomography">Positron emission tomography</a></li>
+<li><a href="/wiki/Antimatter#Fuel" title="Antimatter">Fuel</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:2px">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-left:2px; background:lavender">Bodies</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a class="mw-redirect" href="/wiki/ALPHA_Collaboration" title="ALPHA Collaboration">ALPHA Collaboration</a></li>
+<li><a class="mw-redirect" href="/wiki/ATHENA" title="ATHENA">ATHENA</a></li>
+<li><a class="mw-redirect" href="/wiki/ATRAP" title="ATRAP">ATRAP</a></li>
+<li><a href="/wiki/CERN" title="CERN">CERN</a></li>
+<li><a href="/wiki/Relativistic_Heavy_Ion_Collider" title="Relativistic Heavy Ion Collider">RHIC</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:2px">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-left:2px; background:lavender">People</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Paul_Dirac" title="Paul Dirac">Paul Dirac</a></li>
+<li><a href="/wiki/Carl_David_Anderson" title="Carl David Anderson">Carl David Anderson</a></li>
+<li><a href="/wiki/Andrei_Sakharov" title="Andrei Sakharov">Andrei Sakharov</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;padding:0 2px">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Antimatter" title="Template:Antimatter"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Antimatter" title="Template talk:Antimatter"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Antimatter&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><a href="/wiki/Dmitri_Skobeltsyn" title="Dmitri Skobeltsyn">Dmitri Skobeltsyn</a> first observed the positron in 1929.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> While using a Wilson <a href="/wiki/Cloud_chamber" title="Cloud chamber">cloud chamber</a><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> to try to detect <a href="/wiki/Gamma_ray" title="Gamma ray">gamma radiation</a> in <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic rays</a>, Skobeltsyn detected particles that acted like electrons but curved in the opposite direction in an applied magnetic field.</p>
+<p>Likewise, in 1929 <a href="/wiki/Chung-Yao_Chao" title="Chung-Yao Chao">Chung-Yao Chao</a>, a graduate student at <a class="mw-redirect" href="/wiki/Caltech" title="Caltech">Caltech</a>, noticed some anomalous results that indicated particles behaving like electrons, but with a positive charge, though the results were inconclusive and the phenomenon was not pursued.<sup class="reference" id="cite_ref-MehraRechenberg_12-0"><a href="#cite_note-MehraRechenberg-12">[12]</a></sup></p>
+<p><a href="/wiki/Carl_David_Anderson" title="Carl David Anderson">Carl David Anderson</a> discovered the positron on August 2, 1932,<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> for which he won the Nobel Prize for Physics in 1936.<sup class="reference" id="cite_ref-nobel_14-0"><a href="#cite_note-nobel-14">[14]</a></sup> Anderson did not coin the term <i>positron</i>, but allowed it at the suggestion of the <a href="/wiki/Physical_Review" title="Physical Review">Physical Review</a> journal editor to which he submitted his discovery paper in late 1932. The positron was the first evidence of <a href="/wiki/Antimatter" title="Antimatter">antimatter</a> and was discovered when Anderson allowed cosmic rays to pass through a cloud chamber and a lead plate. A magnet surrounded this apparatus, causing particles to bend in different directions based on their electric charge. The ion trail left by each positron appeared on the photographic plate with a curvature matching the <a href="/wiki/Mass-to-charge_ratio" title="Mass-to-charge ratio">mass-to-charge ratio</a> of an electron, but in a direction that showed its charge was positive.<sup class="reference" id="cite_ref-Penny_Gilmer_6-19-11_15-0"><a href="#cite_note-Penny_Gilmer_6-19-11-15">[15]</a></sup></p>
+<p>Anderson wrote in retrospect that the positron could have been discovered earlier based on Chung-Yao Chao's work, if only it had been followed up on.<sup class="reference" id="cite_ref-MehraRechenberg_12-1"><a href="#cite_note-MehraRechenberg-12">[12]</a></sup> <a href="/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie" title="Frédéric Joliot-Curie">Frédéric</a> and <a href="/wiki/Ir%C3%A8ne_Joliot-Curie" title="Irène Joliot-Curie">Irène Joliot-Curie</a> in Paris had evidence of positrons in old photographs when Anderson's results came out, but they had dismissed them as protons.<sup class="reference" id="cite_ref-Penny_Gilmer_6-19-11_15-1"><a href="#cite_note-Penny_Gilmer_6-19-11-15">[15]</a></sup></p>
+<p>The positron had also been contemporaneously discovered by <a href="/wiki/Patrick_Blackett" title="Patrick Blackett">Patrick Blackett</a> and <a href="/wiki/Giuseppe_Occhialini" title="Giuseppe Occhialini">Giuseppe Occhialini</a> at the Cavendish Laboratory in 1932. Blackett and Occhialini had delayed publication to obtain more solid evidence, so Anderson was able to publish the discovery first.<sup class="reference" id="cite_ref-AM_16-0"><a href="#cite_note-AM-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Natural_production">Natural production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=4" title="Edit section: Natural production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Positron_emission" title="Positron emission">Positron emission</a></div>
+<p>Positrons are produced naturally in β<sup>+</sup> decays of naturally occurring radioactive isotopes (for example, <a href="/wiki/Potassium-40" title="Potassium-40">potassium-40</a>) and in interactions of gamma quanta (emitted by radioactive nuclei) with matter. <a class="mw-redirect" href="/wiki/Antineutrino" title="Antineutrino">Antineutrinos</a> are another kind of antiparticle produced by natural radioactivity (β<sup>−</sup> decay). Many different kinds of antiparticles are also produced by (and contained in) <a class="mw-redirect" href="/wiki/Cosmic_rays" title="Cosmic rays">cosmic rays</a>. Recent (as of January 2011) research by the <a href="/wiki/American_Astronomical_Society" title="American Astronomical Society">American Astronomical Society</a> has discovered antimatter (positrons) originating above <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorm</a> clouds; positrons are produced in gamma-ray flashes created by electrons accelerated by strong electric fields in the clouds.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> Antiprotons have also been found to exist in the <a class="mw-redirect" href="/wiki/Van_Allen_Belt" title="Van Allen Belt">Van Allen Belts</a> around the Earth by the <a class="mw-redirect" href="/wiki/Payload_for_Antimatter_Matter_Exploration_and_Light-nuclei_Astrophysics#Results" title="Payload for Antimatter Matter Exploration and Light-nuclei Astrophysics">PAMELA module</a>.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></p>
+<p>Antiparticles, of which the most common are positrons due to their low mass, are also produced in any environment with a sufficiently high temperature (mean particle energy greater than the <a href="/wiki/Pair_production" title="Pair production">pair production</a> threshold). During the period of baryogenesis, when the universe was extremely hot and dense, matter and antimatter were continually produced and annihilated. The presence of remaining matter, and absence of detectable remaining antimatter,<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> also called <a href="/wiki/Baryon_asymmetry" title="Baryon asymmetry">baryon asymmetry</a>, is attributed to <a class="mw-redirect" href="/wiki/CP-violation" title="CP-violation">CP-violation</a>: a violation of the CP-symmetry relating matter to antimatter. The exact mechanism of this violation during baryogenesis remains a mystery.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup></p>
+<p>Positron production from radioactive <a href="/wiki/Beta_decay" title="Beta decay"><span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><br/></span>β<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left">+<br/></span></span> decay</a> can be considered both artificial and natural production, as the generation of the radioisotope can be natural or artificial. Perhaps the best known naturally-occurring radioisotope which produces positrons is <a href="/wiki/Potassium-40" title="Potassium-40">potassium-40</a>, a long-lived isotope of potassium which occurs as a <a class="mw-redirect" href="/wiki/Primordial_isotope" title="Primordial isotope">primordial isotope</a> of potassium. Even though a small percent of potassium (0.0117%) it is the single most abundant <a class="mw-redirect" href="/wiki/Radioisotope" title="Radioisotope">radioisotope</a> in the human body. In a human body of 70 kg mass, about 4,400 nuclei of <sup>40</sup>K decay per second.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> The activity of natural potassium is 31 <a href="/wiki/Becquerel" title="Becquerel">Bq</a>/g.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> About 0.001% of these <sup>40</sup>K decays produce about 4000 natural positrons per day in the human body.<sup class="reference" id="cite_ref-Engelkemeir_23-0"><a href="#cite_note-Engelkemeir-23">[23]</a></sup> These positrons soon find an electron, undergo annihilation, and produce pairs of 511 keV gamma rays, in a process similar (but much lower intensity) to that which happens during a <a class="mw-redirect" href="/wiki/PET_scan" title="PET scan">PET scan</a> <a href="/wiki/Nuclear_medicine" title="Nuclear medicine">nuclear medicine</a> procedure.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup></p>
+<p>Recent observations indicate black holes and neutron stars produce vast amounts of positron-electron plasma via the jets. Large clouds of positron-electron plasma have also been associated with neutron stars.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup></p>
+<h3><span class="mw-headline" id="Observation_in_cosmic_rays">Observation in cosmic rays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=5" title="Edit section: Observation in cosmic rays">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic ray</a></div>
+<p>Satellite experiments have found evidence of positrons (as well as a few antiprotons) in primary cosmic rays, amounting to less than 1% of the particles in primary cosmic rays. These do not appear to be the products of large amounts of antimatter from the Big Bang, or indeed complex antimatter in the universe (evidence for which is lacking, see below). Rather, the antimatter in cosmic rays appear to consist of only these two elementary particles, probably made in energetic processes long after the Big Bang.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup></p>
+<p>Preliminary results from the presently operating <a href="/wiki/Alpha_Magnetic_Spectrometer" title="Alpha Magnetic Spectrometer">Alpha Magnetic Spectrometer</a> (<i>AMS-02</i>) on board the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> show that positrons in the cosmic rays arrive with no directionality, and with energies that range from 10 <a class="extiw" href="https://en.wiktionary.org/wiki/gigaelectron_volt" title="wiktionary:gigaelectron volt">GeV</a> to 250 GeV. In September, 2014, new results with almost twice as much data were presented in a talk at CERN and published in Physical Review Letters.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> A new measurement of positron fraction up to 500 GeV was reported, showing that positron fraction peaks at a maximum of about 16% of total electron+positron events, around an energy of 275 ± 32 GeV. At higher energies, up to 500 GeV, the ratio of positrons to electrons begins to fall again. The absolute flux of positrons also begins to fall before 500 GeV, but peaks at energies far higher than electron energies, which peak about 10 GeV.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> These results on interpretation have been suggested to be due to positron production in annihilation events of massive <a href="/wiki/Dark_matter" title="Dark matter">dark matter</a> particles.<sup class="reference" id="cite_ref-physrevltrs413_30-0"><a href="#cite_note-physrevltrs413-30">[30]</a></sup></p>
+<p>Positrons, like anti-protons, do not appear to originate from any hypothetical "antimatter" regions of the universe. On the contrary, there is no evidence of complex antimatter atomic nuclei, such as <a class="mw-redirect" href="/wiki/Antihelium" title="Antihelium">antihelium</a> nuclei (i.e., anti-alpha particles), in cosmic rays. These are actively being searched for. A prototype of the <i>AMS-02</i> designated <i>AMS-01</i>, was flown into space aboard the <span class="nowrap"><a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a></span> <a href="/wiki/Space_Shuttle_Discovery" title="Space Shuttle Discovery"><i>Discovery</i></a> on <a href="/wiki/STS-91" title="STS-91">STS-91</a> in June 1998. By not detecting any <a class="mw-redirect" href="/wiki/Antihelium#Antihelium" title="Antihelium">antihelium</a> at all, the <i>AMS-01</i> established an upper limit of 1.1×10<sup>−6</sup> for the antihelium to helium <a href="/wiki/Flux" title="Flux">flux</a> ratio.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></p>
+<h2><span class="mw-headline" id="Artificial_production">Artificial production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=6" title="Edit section: Artificial production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Physicists at the <a href="/wiki/Lawrence_Livermore_National_Laboratory" title="Lawrence Livermore National Laboratory">Lawrence Livermore National Laboratory</a> in California have used a short, ultra-intense laser to irradiate a millimeter-thick gold target and produce more than 100 billion positrons.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> Presently significant lab production of 5 MeV positron-electron beams allows investigation of multiple characteristics such as how different elements react to 5 MeV positron interactions or impacts, how energy is transferred to particles, and the shock effect of GRBs.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup></p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=7" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Certain kinds of <a href="/wiki/Particle_accelerator" title="Particle accelerator">particle accelerator</a> experiments involve colliding positrons and electrons at relativistic speeds. The high impact energy and the mutual annihilation of these matter/antimatter opposites create a fountain of diverse subatomic particles. Physicists study the results of these collisions to test theoretical predictions and to search for new kinds of particles.</p>
+<p>Gamma rays, emitted indirectly by a positron-emitting radionuclide (tracer), are detected in <a href="/wiki/Positron_emission_tomography" title="Positron emission tomography">positron emission tomography</a> (PET) scanners used in hospitals. PET scanners create detailed three-dimensional images of metabolic activity within the human body.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup></p>
+<p>An experimental tool called <a href="/wiki/Positron_annihilation_spectroscopy" title="Positron annihilation spectroscopy">positron annihilation spectroscopy</a> (PAS) is used in materials research to detect variations in density, defects, displacements, or even voids, within a solid material.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Beta_particle" title="Beta particle">Beta particle</a></li>
+<li><a href="/wiki/List_of_particles" title="List of particles">List of particles</a></li>
+<li><a href="/wiki/Positronium" title="Positronium">Positronium</a></li>
+<li><a href="/wiki/Positronic_brain" title="Positronic brain">Positronic brain</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=11" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-CODATA-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-CODATA_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CODATA_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CODATA_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CODATA_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">The original source for CODATA is:</span>
+<dl>
+<dd><span class="reference-text"><cite class="citation journal">Mohr, P. J.; Taylor, B. N.; Newell, D. B. (2006). "CODATA recommended values of the fundamental physical constants". <i><a href="/wiki/Reviews_of_Modern_Physics" title="Reviews of Modern Physics">Reviews of Modern Physics</a></i>. <b>80</b> (2): 633–730. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/0801.0028" rel="nofollow">0801.0028</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2008RvMP...80..633M" rel="nofollow">2008RvMP...80..633M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FRevModPhys.80.633" rel="nofollow">10.1103/RevModPhys.80.633</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+of+Modern+Physics&amp;rft.atitle=CODATA+recommended+values+of+the+fundamental+physical+constants&amp;rft.volume=80&amp;rft.issue=2&amp;rft.pages=633-730&amp;rft.date=2006&amp;rft_id=info%3Aarxiv%2F0801.0028&amp;rft_id=info%3Adoi%2F10.1103%2FRevModPhys.80.633&amp;rft_id=info%3Abibcode%2F2008RvMP...80..633M&amp;rft.aulast=Mohr&amp;rft.aufirst=P.+J.&amp;rft.au=Taylor%2C+B.+N.&amp;rft.au=Newell%2C+D.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span><br/>
+Individual physical constants from the CODATA are available at:</span></dd>
+<dd><cite class="citation web"><a class="external text" href="http://physics.nist.gov/cuu/" rel="nofollow">"The NIST Reference on Constants, Units and Uncertainty"</a>. <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+NIST+Reference+on+Constants%2C+Units+and+Uncertainty&amp;rft.pub=National+Institute+of+Standards+and+Technology&amp;rft_id=http%3A%2F%2Fphysics.nist.gov%2Fcuu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></dd>
+</dl>
+</li>
+<li id="cite_note-QuantumElectron-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-QuantumElectron_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dirac, P. A. M. (1928). <a class="external text" href="http://rspa.royalsocietypublishing.org/content/117/778/610.full.pdf" rel="nofollow">"The quantum theory of the electron"</a> <span style="font-size:85%;">(PDF)</span>. <i><a class="mw-redirect" href="/wiki/Proceedings_of_the_Royal_Society_A" title="Proceedings of the Royal Society A">Proceedings of the Royal Society A</a></i>. <b>117</b> (778): 610. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1928RSPSA.117..610D" rel="nofollow">1928RSPSA.117..610D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<span class="plainlinks"><a class="external text" href="//doi.org/10.1098%2Frspa.1928.0023" rel="nofollow">10.1098/rspa.1928.0023</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society+A&amp;rft.atitle=The+quantum+theory+of+the+electron&amp;rft.volume=117&amp;rft.issue=778&amp;rft.pages=610&amp;rft.date=1928&amp;rft_id=info%3Adoi%2F10.1098%2Frspa.1928.0023&amp;rft_id=info%3Abibcode%2F1928RSPSA.117..610D&amp;rft.aulast=Dirac&amp;rft.aufirst=P.+A.+M.&amp;rft_id=http%3A%2F%2Frspa.royalsocietypublishing.org%2Fcontent%2F117%2F778%2F610.full.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Weyl, H. (1929). <a class="external text" href="http://www.pnas.org/content/15/4/323.full.pdf" rel="nofollow">"Gravitation and the Electron"</a> <span style="font-size:85%;">(PDF)</span>. <i>PNAS</i>. <b>15</b> (4): 323–334. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1929PNAS...15..323W" rel="nofollow">1929PNAS...15..323W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.15.4.323" rel="nofollow">10.1073/pnas.15.4.323</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC522457" rel="nofollow">522457</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16587474" rel="nofollow">16587474</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PNAS&amp;rft.atitle=Gravitation+and+the+Electron&amp;rft.volume=15&amp;rft.issue=4&amp;rft.pages=323-334&amp;rft.date=1929&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC522457&amp;rft_id=info%3Apmid%2F16587474&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.15.4.323&amp;rft_id=info%3Abibcode%2F1929PNAS...15..323W&amp;rft.aulast=Weyl&amp;rft.aufirst=H.&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F15%2F4%2F323.full.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ElectronProton-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-ElectronProton_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dirac, P. A. M. (1930). <a class="external text" href="http://rspa.royalsocietypublishing.org/content/126/801/360.full.pdf" rel="nofollow">"A theory of electrons and protons"</a> <span style="font-size:85%;">(PDF)</span>. <i><a class="mw-redirect" href="/wiki/Proceedings_of_the_Royal_Society_A" title="Proceedings of the Royal Society A">Proceedings of the Royal Society A</a></i>. <b>126</b> (801): 360. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1930RSPSA.126..360D" rel="nofollow">1930RSPSA.126..360D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<span class="plainlinks"><a class="external text" href="//doi.org/10.1098%2Frspa.1930.0013" rel="nofollow">10.1098/rspa.1930.0013</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society+A&amp;rft.atitle=A+theory+of+electrons+and+protons&amp;rft.volume=126&amp;rft.issue=801&amp;rft.pages=360&amp;rft.date=1930&amp;rft_id=info%3Adoi%2F10.1098%2Frspa.1930.0013&amp;rft_id=info%3Abibcode%2F1930RSPSA.126..360D&amp;rft.aulast=Dirac&amp;rft.aufirst=P.+A.+M.&amp;rft_id=http%3A%2F%2Frspa.royalsocietypublishing.org%2Fcontent%2F126%2F801%2F360.full.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Frank_Close" title="Frank Close">Close, F.</a> (2009). <i>Antimatter</i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. p. 46. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-955016-6" title="Special:BookSources/978-0-19-955016-6">978-0-19-955016-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Antimatter&amp;rft.pages=46&amp;rft.pub=Oxford+University+Press&amp;rft.date=2009&amp;rft.isbn=978-0-19-955016-6&amp;rft.aulast=Close&amp;rft.aufirst=F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dirac, P. A. M. (1931). <a class="external text" href="http://rspa.royalsocietypublishing.org/content/133/821/60.full.pdf" rel="nofollow">"Quantised Singularities in the Quantum Field"</a> <span style="font-size:85%;">(PDF)</span>. <i><a class="mw-redirect" href="/wiki/Proceedings_of_the_Royal_Society_A" title="Proceedings of the Royal Society A">Proceedings of the Royal Society A</a></i>. <b>133</b> (821): 60. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1931RSPSA.133...60D" rel="nofollow">1931RSPSA.133...60D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<span class="plainlinks"><a class="external text" href="//doi.org/10.1098%2Frspa.1931.0130" rel="nofollow">10.1098/rspa.1931.0130</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society+A&amp;rft.atitle=Quantised+Singularities+in+the+Quantum+Field&amp;rft.volume=133&amp;rft.issue=821&amp;rft.pages=60&amp;rft.date=1931&amp;rft_id=info%3Adoi%2F10.1098%2Frspa.1931.0130&amp;rft_id=info%3Abibcode%2F1931RSPSA.133...60D&amp;rft.aulast=Dirac&amp;rft.aufirst=P.+A.+M.&amp;rft_id=http%3A%2F%2Frspa.royalsocietypublishing.org%2Fcontent%2F133%2F821%2F60.full.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Feynman, R. (1949). "The theory of positrons". <i><a href="/wiki/Physical_Review" title="Physical Review">Physical Review</a></i>. <b>76</b> (6): 749. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1949PhRv...76..749F" rel="nofollow">1949PhRv...76..749F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRev.76.749" rel="nofollow">10.1103/PhysRev.76.749</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review&amp;rft.atitle=The+theory+of+positrons&amp;rft.volume=76&amp;rft.issue=6&amp;rft.pages=749&amp;rft.date=1949&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRev.76.749&amp;rft_id=info%3Abibcode%2F1949PhRv...76..749F&amp;rft.aulast=Feynman&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation speech">Feynman, R. (1965-12-11). <a class="external text" href="http://nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html" rel="nofollow"><i>The Development of the Space-Time View of Quantum Electrodynamics</i></a> (Speech). Nobel Lecture<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Development+of+the+Space-Time+View+of+Quantum+Electrodynamics&amp;rft.place=Nobel+Lecture&amp;rft.date=1965-12-11&amp;rft.aulast=Feynman&amp;rft.aufirst=R.&amp;rft_id=http%3A%2F%2Fnobelprize.org%2Fnobel_prizes%2Fphysics%2Flaureates%2F1965%2Ffeynman-lecture.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nambu, Y. (1950). "The Use of the Proper Time in Quantum Electrodynamics I". <i><a class="mw-redirect" href="/wiki/Progress_of_Theoretical_Physics" title="Progress of Theoretical Physics">Progress of Theoretical Physics</a></i>. <b>5</b> (1): 82. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1950PThPh...5...82N" rel="nofollow">1950PThPh...5...82N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<span class="plainlinks"><a class="external text" href="//doi.org/10.1143%2FPTP.5.82" rel="nofollow">10.1143/PTP.5.82</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Progress+of+Theoretical+Physics&amp;rft.atitle=The+Use+of+the+Proper+Time+in+Quantum+Electrodynamics+I&amp;rft.volume=5&amp;rft.issue=1&amp;rft.pages=82&amp;rft.date=1950&amp;rft_id=info%3Adoi%2F10.1143%2FPTP.5.82&amp;rft_id=info%3Abibcode%2F1950PThPh...5...82N&amp;rft.aulast=Nambu&amp;rft.aufirst=Y.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Frank_Close" title="Frank Close">Close, F.</a> (2009). <i>Antimatter</i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. pp. 50–52. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-955016-6" title="Special:BookSources/978-0-19-955016-6">978-0-19-955016-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Antimatter&amp;rft.pages=50-52&amp;rft.pub=Oxford+University+Press&amp;rft.date=2009&amp;rft.isbn=978-0-19-955016-6&amp;rft.aulast=Close&amp;rft.aufirst=F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cowan, E. (1982). <a class="external text" href="http://calteches.library.caltech.edu/3360/" rel="nofollow">"The Picture That Was Not Reversed"</a>. <i><a class="new" href="/w/index.php?title=Engineering_%26_Science&amp;action=edit&amp;redlink=1" title="Engineering &amp; Science (page does not exist)">Engineering &amp; Science</a></i>. <b>46</b> (2): 6–28.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Engineering+%26+Science&amp;rft.atitle=The+Picture+That+Was+Not+Reversed&amp;rft.volume=46&amp;rft.issue=2&amp;rft.pages=6-28&amp;rft.date=1982&amp;rft.aulast=Cowan&amp;rft.aufirst=E.&amp;rft_id=http%3A%2F%2Fcalteches.library.caltech.edu%2F3360%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-MehraRechenberg-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-MehraRechenberg_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MehraRechenberg_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Merhra, J.; Rechenberg, H. (2000). <a class="external text" href="https://books.google.com/?id=9l61Dy9FBfYC&amp;pg=PA804&amp;lpg=PA804&amp;dq=Chung-Yao+Chao+positron&amp;q=Chung-Yao%20Chao%20positron" rel="nofollow"><i>The Historical Development of Quantum Theory, Volume 6: The Completion of Quantum Mechanics 1926–1941</i></a>. Springer. p. 804. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-387-95175-1" title="Special:BookSources/978-0-387-95175-1">978-0-387-95175-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Historical+Development+of+Quantum+Theory%2C+Volume+6%3A+The+Completion+of+Quantum+Mechanics+1926%E2%80%931941&amp;rft.pages=804&amp;rft.pub=Springer&amp;rft.date=2000&amp;rft.isbn=978-0-387-95175-1&amp;rft.aulast=Merhra&amp;rft.aufirst=J.&amp;rft.au=Rechenberg%2C+H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D9l61Dy9FBfYC%26pg%3DPA804%26lpg%3DPA804%26dq%3DChung-Yao%2BChao%2Bpositron%26q%3DChung-Yao%2520Chao%2520positron&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Anderson, C. D. (1933). "The Positive Electron". <i><a href="/wiki/Physical_Review" title="Physical Review">Physical Review</a></i>. <b>43</b> (6): 491–494. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1933PhRv...43..491A" rel="nofollow">1933PhRv...43..491A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<span class="plainlinks"><a class="external text" href="//doi.org/10.1103%2FPhysRev.43.491" rel="nofollow">10.1103/PhysRev.43.491</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review&amp;rft.atitle=The+Positive+Electron&amp;rft.volume=43&amp;rft.issue=6&amp;rft.pages=491-494&amp;rft.date=1933&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRev.43.491&amp;rft_id=info%3Abibcode%2F1933PhRv...43..491A&amp;rft.aulast=Anderson&amp;rft.aufirst=C.+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-nobel-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-nobel_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://nobelprize.org/nobel_prizes/physics/laureates/1936/index.html" rel="nofollow">"The Nobel Prize in Physics 1936"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Nobel+Prize+in+Physics+1936&amp;rft_id=http%3A%2F%2Fnobelprize.org%2Fnobel_prizes%2Fphysics%2Flaureates%2F1936%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Penny_Gilmer_6-19-11-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Penny_Gilmer_6-19-11_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Penny_Gilmer_6-19-11_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Gilmer, P. J. (19 July 2011). <a class="external text" href="http://www.chem.fsu.edu/~gilmer/PDFs/Ch%202_Irene_Curie_Penny_Gilmer_6-19-11_pg_mh.pdf" rel="nofollow">"Irène Jolit-Curie, a Nobel laureate in artificial radioactivity"</a> <span style="font-size:85%;">(PDF)</span>. p. 8<span class="reference-accessdate">. Retrieved <span class="nowrap">13 July</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ir%C3%A8ne+Jolit-Curie%2C+a+Nobel+laureate+in+artificial+radioactivity&amp;rft.pages=8&amp;rft.date=2011-07-19&amp;rft.aulast=Gilmer&amp;rft.aufirst=P.+J.&amp;rft_id=http%3A%2F%2Fwww.chem.fsu.edu%2F~gilmer%2FPDFs%2FCh%25202_Irene_Curie_Penny_Gilmer_6-19-11_pg_mh.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-AM-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-AM_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.aip.org/history/exhibits/rutherford/sections/atop-physics-wave.html" rel="nofollow">"Atop the Physics Wave: Rutherford Back in Cambridge, 1919–1937"</a>. <i>Rutherford's Nuclear World</i>. <a href="/wiki/American_Institute_of_Physics" title="American Institute of Physics">American Institute of Physics</a>. 2011–2014<span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rutherford%27s+Nuclear+World&amp;rft.atitle=Atop+the+Physics+Wave%3A+Rutherford+Back+in+Cambridge%2C+1919%E2%80%931937&amp;rft.date=2011%2F2014&amp;rft_id=http%3A%2F%2Fwww.aip.org%2Fhistory%2Fexhibits%2Frutherford%2Fsections%2Fatop-physics-wave.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Palmer, J. (11 January 2011). <a class="external text" href="http://www.bbc.co.uk/news/science-environment-12158718" rel="nofollow">"Antimatter caught streaming from thunderstorms on Earth"</a>. <a href="/wiki/BBC" title="BBC">BBC</a>. <a class="external text" href="https://web.archive.org/web/20110112080623/http://www.bbc.co.uk/news/science-environment-12158718" rel="nofollow">Archived</a> from the original on 12 January 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">11 January</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Antimatter+caught+streaming+from+thunderstorms+on+Earth&amp;rft.pub=BBC&amp;rft.date=2011-01-11&amp;rft.aulast=Palmer&amp;rft.aufirst=J.&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fscience-environment-12158718&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Adriani, O.; et al. (2011). "The Discovery of Geomagnetically Trapped Cosmic-Ray Antiprotons". <i><a class="mw-redirect" href="/wiki/The_Astrophysical_Journal_Letters" title="The Astrophysical Journal Letters">The Astrophysical Journal Letters</a></i>. <b>737</b> (2): L29. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/1107.4882" rel="nofollow">1107.4882</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<span class="plainlinks"><a class="external text" href="http://adsabs.harvard.edu/abs/2011ApJ...737L..29A" rel="nofollow">2011ApJ...737L..29A</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<span class="plainlinks"><a class="external text" href="//doi.org/10.1088%2F2041-8205%2F737%2F2%2FL29" rel="nofollow">10.1088/2041-8205/737/2/L29</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Letters&amp;rft.atitle=The+Discovery+of+Geomagnetically+Trapped+Cosmic-Ray+Antiprotons&amp;rft.volume=737&amp;rft.issue=2&amp;rft.pages=L29&amp;rft.date=2011&amp;rft_id=info%3Aarxiv%2F1107.4882&amp;rft_id=info%3Adoi%2F10.1088%2F2041-8205%2F737%2F2%2FL29&amp;rft_id=info%3Abibcode%2F2011ApJ...737L..29A&amp;rft.aulast=Adriani&amp;rft.aufirst=O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Than, K. (10 August 2011). <a class="external text" href="http://news.nationalgeographic.com/news/2011/08/110810-antimatter-belt-earth-trapped-pamela-space-science/" rel="nofollow">"Antimatter Found Orbiting Earth—A First"</a>. <a href="/wiki/National_Geographic_Society" title="National Geographic Society">National Geographic Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Antimatter+Found+Orbiting+Earth%E2%80%94A+First&amp;rft.date=2011-08-10&amp;rft.aulast=Than&amp;rft.aufirst=K.&amp;rft_id=http%3A%2F%2Fnews.nationalgeographic.com%2Fnews%2F2011%2F08%2F110810-antimatter-belt-earth-trapped-pamela-space-science%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20080604155823/https://science.nasa.gov/headlines/y2000/ast29may_1m.htm" rel="nofollow">"What's the Matter with Antimatter?"</a>. <a href="/wiki/NASA" title="NASA">NASA</a>. 29 May 2000. Archived from <a class="external text" href="https://science.nasa.gov/headlines/y2000/ast29may_1m.htm" rel="nofollow">the original</a> on 4 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What%27s+the+Matter+with+Antimatter%3F&amp;rft.pub=NASA&amp;rft.date=2000-05-29&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fheadlines%2Fy2000%2Fast29may_1m.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.fas.harvard.edu/~scdiroff/lds/QuantumRelativity/RadioactiveHumanBody/RadioactiveHumanBody.html" rel="nofollow">"Radiation and Radioactive Decay. Radioactive Human Body"</a>. Harvard Natural Sciences Lecture Demonstrations<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Radiation+and+Radioactive+Decay.+Radioactive+Human+Body&amp;rft.pub=Harvard+Natural+Sciences+Lecture+Demonstrations&amp;rft_id=http%3A%2F%2Fwww.fas.harvard.edu%2F~scdiroff%2Flds%2FQuantumRelativity%2FRadioactiveHumanBody%2FRadioactiveHumanBody.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Wintergham, F. P. W. (1989). <a class="external text" href="https://books.google.com/books?id=KRVXMiQWi0cC&amp;pg=PA32" rel="nofollow"><i>Radioactive Fallout in Soils, Crops and Food</i></a>. <a class="mw-redirect" href="/wiki/Food_%26_Agriculture_Organization" title="Food &amp; Agriculture Organization">Food &amp; Agriculture Organization</a>. p. 32. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-92-5-102877-3" title="Special:BookSources/978-92-5-102877-3">978-92-5-102877-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Radioactive+Fallout+in+Soils%2C+Crops+and+Food&amp;rft.pages=32&amp;rft.pub=Food+%26+Agriculture+Organization&amp;rft.date=1989&amp;rft.isbn=978-92-5-102877-3&amp;rft.aulast=Wintergham&amp;rft.aufirst=F.+P.+W.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKRVXMiQWi0cC%26pg%3DPA32&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Engelkemeir-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Engelkemeir_23-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Engelkemeir, D. W.; Flynn, K. F.; Glendenin, L. E. (1962). "Positron Emission in the Decay of K<sup>40</sup>". <i><a href="/wiki/Physical_Review" title="Physical Review">Physical Review</a></i>. <b>126</b> (5): 1818. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1962PhRv..126.1818E" rel="nofollow">1962PhRv..126.1818E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRev.126.1818" rel="nofollow">10.1103/PhysRev.126.1818</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review&amp;rft.atitle=Positron+Emission+in+the+Decay+of+K%3Csup%3E40%3C%2Fsup%3E&amp;rft.volume=126&amp;rft.issue=5&amp;rft.pages=1818&amp;rft.date=1962&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRev.126.1818&amp;rft_id=info%3Abibcode%2F1962PhRv..126.1818E&amp;rft.aulast=Engelkemeir&amp;rft.aufirst=D.+W.&amp;rft.au=Flynn%2C+K.+F.&amp;rft.au=Glendenin%2C+L.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a class="external text" href="http://pc.astro.brandeis.edu/pdfs/elec-pos.pdf" rel="nofollow">Electron-positron Jets Associated with Quasar 3C 279</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nasa.gov/centers/goddard/news/topstory/2007/antimatter_binary.html" rel="nofollow">"Vast Cloud of Antimatter Traced to Binary Stars"</a>. NASA.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vast+Cloud+of+Antimatter+Traced+to+Binary+Stars&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fcenters%2Fgoddard%2Fnews%2Ftopstory%2F2007%2Fantimatter_binary.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.youtube.com/watch?v=Sw-og52UUVg" rel="nofollow">https://www.youtube.com/watch?v=Sw-og52UUVg</a> start FOUR minutes into video: Sagittarius produces 15 billion tons/sec of electron-positron matter</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Accardo, L.; et al. (AMS Collaboration) (2014). <a class="external text" href="http://ams.nasa.gov/Documents/AMS_Publications/PhysRevLett.113.121101.pdf" rel="nofollow">"High Statistics Measurement of the Positron Fraction in Primary Cosmic Rays of 0.5–500 GeV with the Alpha Magnetic Spectrometer on the International Space Station"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Physical_Review_Letters" title="Physical Review Letters">Physical Review Letters</a></i>. <b>113</b>: 121101. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014PhRvL.113l1101A" rel="nofollow">2014PhRvL.113l1101A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRevLett.113.121101" rel="nofollow">10.1103/PhysRevLett.113.121101</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=High+Statistics+Measurement+of+the+Positron+Fraction+in+Primary+Cosmic+Rays+of+0.5%E2%80%93500+GeV+with+the+Alpha+Magnetic+Spectrometer+on+the+International+Space+Station&amp;rft.volume=113&amp;rft.pages=121101&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.113.121101&amp;rft_id=info%3Abibcode%2F2014PhRvL.113l1101A&amp;rft.aulast=Accardo&amp;rft.aufirst=L.&amp;rft_id=http%3A%2F%2Fams.nasa.gov%2FDocuments%2FAMS_Publications%2FPhysRevLett.113.121101.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Schirber, M. <a class="external text" href="http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.113.121102" rel="nofollow">"Synopsis: More Dark Matter Hints from Cosmic Rays?"</a>. <a href="/wiki/American_Physical_Society" title="American Physical Society">American Physical Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Synopsis%3A+More+Dark+Matter+Hints+from+Cosmic+Rays%3F&amp;rft.pub=American+Physical+Society&amp;rft.aulast=Schirber&amp;rft.aufirst=M.&amp;rft_id=http%3A%2F%2Fphysics.aps.org%2Fsynopsis-for%2F10.1103%2FPhysRevLett.113.121102&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ams.nasa.gov/Documents/AMS_Publications/ams_new_results_-_18.09.2014.pdf" rel="nofollow">"New results from the Alpha Magnetic Spectrometer on the International Space Station"</a> <span style="font-size:85%;">(PDF)</span>. <i>AMS-02 at NASA</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AMS-02+at+NASA&amp;rft.atitle=New+results+from+the+Alpha+Magnetic+Spectrometer+on+the+International+Space+Station&amp;rft_id=http%3A%2F%2Fams.nasa.gov%2FDocuments%2FAMS_Publications%2Fams_new_results_-_18.09.2014.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-physrevltrs413-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-physrevltrs413_30-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aguilar, M.; et al. (2013). "First Result from the Alpha Magnetic Spectrometer on the International Space Station: Precision Measurement of the Positron Fraction in Primary Cosmic Rays of 0.5–350 GeV". <i><a href="/wiki/Physical_Review_Letters" title="Physical Review Letters">Physical Review Letters</a></i>. <b>110</b> (14): 141102. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2013PhRvL.110n1102A" rel="nofollow">2013PhRvL.110n1102A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRevLett.110.141102" rel="nofollow">10.1103/PhysRevLett.110.141102</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25166975" rel="nofollow">25166975</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=First+Result+from+the+Alpha+Magnetic+Spectrometer+on+the+International+Space+Station%3A+Precision+Measurement+of+the+Positron+Fraction+in+Primary+Cosmic+Rays+of+0.5%E2%80%93350+GeV&amp;rft.volume=110&amp;rft.issue=14&amp;rft.pages=141102&amp;rft.date=2013&amp;rft_id=info%3Apmid%2F25166975&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.110.141102&amp;rft_id=info%3Abibcode%2F2013PhRvL.110n1102A&amp;rft.aulast=Aguilar&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aguilar, M.; et al. (<a class="new" href="/w/index.php?title=AMS_Collaboration&amp;action=edit&amp;redlink=1" title="AMS Collaboration (page does not exist)">AMS Collaboration</a>) (2002). "The Alpha Magnetic Spectrometer (AMS) on the International Space Station: Part I – results from the test flight on the space shuttle". <i><a href="/wiki/Physics_Reports" title="Physics Reports">Physics Reports</a></i>. <b>366</b> (6): 331–405. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2002PhR...366..331A" rel="nofollow">2002PhR...366..331A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0370-1573%2802%2900013-3" rel="nofollow">10.1016/S0370-1573(02)00013-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physics+Reports&amp;rft.atitle=The+Alpha+Magnetic+Spectrometer+%28AMS%29+on+the+International+Space+Station%3A+Part+I+%E2%80%93+results+from+the+test+flight+on+the+space+shuttle&amp;rft.volume=366&amp;rft.issue=6&amp;rft.pages=331-405&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1016%2FS0370-1573%2802%2900013-3&amp;rft_id=info%3Abibcode%2F2002PhR...366..331A&amp;rft.aulast=Aguilar&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation news">Bland, E. (1 December 2008). <a class="external text" href="http://www.msnbc.msn.com/id/27998860/" rel="nofollow">"Laser technique produces bevy of antimatter"</a>. <a href="/wiki/MSNBC" title="MSNBC">MSNBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2016</span>. <q>The LLNL scientists created the positrons by shooting the lab's high-powered Titan laser onto a one-millimeter-thick piece of gold.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Laser+technique+produces+bevy+of+antimatter&amp;rft.date=2008-12-01&amp;rft.aulast=Bland&amp;rft.aufirst=E.&amp;rft_id=http%3A%2F%2Fwww.msnbc.msn.com%2Fid%2F27998860%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a class="external free" href="https://lasers.llnl.gov/workshops/user_group_2012/docs/7.3_chen.pdf" rel="nofollow">https://lasers.llnl.gov/workshops/user_group_2012/docs/7.3_chen.pdf</a> Lab production of 5MeV positron-electron beams</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation book">Phelps, M. E. (2006). <i>PET: physics, instrumentation, and scanners</i>. Springer. pp. 2–3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-387-32302-3" title="Special:BookSources/0-387-32302-3">0-387-32302-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=PET%3A+physics%2C+instrumentation%2C+and+scanners&amp;rft.pages=2-3&amp;rft.pub=Springer&amp;rft.date=2006&amp;rft.isbn=0-387-32302-3&amp;rft.aulast=Phelps&amp;rft.aufirst=M.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.stolaf.edu/academics/positron/intro.htm" rel="nofollow">"Introduction to Positron Research"</a>. <a href="/wiki/St._Olaf_College" title="St. Olaf College">St. Olaf College</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Introduction+to+Positron+Research&amp;rft.pub=St.+Olaf+College&amp;rft_id=http%3A%2F%2Fwww.stolaf.edu%2Facademics%2Fpositron%2Fintro.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APositron"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Positron&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Positrons" title="commons:Category:Positrons">Positrons</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.positron.edu.au/faq.html" rel="nofollow">What is a Positron?</a> (from the Frequently Asked Questions :: Center for Antimatter-Matter Studies)</li>
+<li><a class="external text" href="http://discover.positron.edu.au" rel="nofollow">Website about positrons and antimatter</a></li>
+<li><a class="external text" href="http://www-search.slac.stanford.edu:8765/query.html?qt=positron" rel="nofollow">Positron information search at SLAC</a></li>
+<li><a class="external text" href="http://positronannihilation.net" rel="nofollow">Positron Annihilation as a method of experimental physics used in materials research.</a></li>
+<li><a class="external text" href="https://publicaffairs.llnl.gov/news/news_releases/2008/NR-08-11-03.html" rel="nofollow">New production method to produce large quantities of positrons</a></li>
+<li><a class="external text" href="http://www.como.polimi.it/positron" rel="nofollow">Website about antimatter (positrons, positronium and antihydrogen). Positron Laboratory, Como, Italy</a></li>
+<li><a class="external text" href="http://aegis.web.cern.ch/aegis/home.html" rel="nofollow">Website of the AEgIS: Antimatter Experiment: Gravity, Interferometry, Spectroscopy, CERN</a></li>
+<li><a class="external text" href="http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.110.255002" rel="nofollow">Synopsis: Tabletop Particle Accelerator</a> ... new tabletop method for generating electron–positron streams.</li>
+</ul>
+<div aria-labelledby="Quantum_electrodynamics" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:QED" title="Template:QED"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:QED" title="Template talk:QED"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:QED&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Quantum_electrodynamics" style="font-size:114%;margin:0 4em"><a href="/wiki/Quantum_electrodynamics" title="Quantum electrodynamics">Quantum electrodynamics</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anomalous_magnetic_dipole_moment" title="Anomalous magnetic dipole moment">Anomalous magnetic dipole moment</a></li>
+<li><a href="/wiki/Bhabha_scattering" title="Bhabha scattering">Bhabha scattering</a></li>
+<li><a href="/wiki/Bremsstrahlung" title="Bremsstrahlung">Bremsstrahlung</a></li>
+<li><a href="/wiki/Compton_scattering" title="Compton scattering">Compton scattering</a></li>
+<li><a href="/wiki/Electron" title="Electron">Electron</a></li>
+<li><a href="/wiki/Gupta%E2%80%93Bleuler_formalism" title="Gupta–Bleuler formalism">Gupta–Bleuler formalism</a></li>
+<li><a href="/wiki/M%C3%B8ller_scattering" title="Møller scattering">Møller scattering</a></li>
+<li><a href="/wiki/Photon" title="Photon">Photon</a></li>
+<li><a class="mw-selflink selflink">Positron</a></li>
+<li><a href="/wiki/Positronium" title="Positronium">Positronium</a></li>
+<li><a href="/wiki/Dual_photon" title="Dual photon">Dual photon</a></li>
+<li><a href="/wiki/QED_vacuum" title="QED vacuum">QED vacuum</a></li>
+<li><a href="/wiki/Self-energy" title="Self-energy">Self-energy</a></li>
+<li><a href="/wiki/Vacuum_polarization" title="Vacuum polarization">Vacuum polarization</a></li>
+<li><a href="/wiki/Virtual_particle" title="Virtual particle">Virtual particles</a></li>
+<li><a href="/wiki/Vertex_function" title="Vertex function">Vertex function</a></li>
+<li><a href="/wiki/Ward%E2%80%93Takahashi_identity" title="Ward–Takahashi identity">Ward–Takahashi identity</a></li>
+<li><a class="mw-redirect" href="/wiki/%CE%9E_gauge" title="Ξ gauge">ξ gauge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Particles_in_physics" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Particles" title="Template:Particles"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Particles" title="Template talk:Particles"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Particles&amp;action=edit"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Particles_in_physics" style="font-size:114%;margin:0 4em"><a href="/wiki/Particle_physics" title="Particle physics">Particles in physics</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Elementary_particle" title="Elementary particle">Elementary</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a href="/wiki/Fermion" title="Fermion">Fermions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Quark" title="Quark">Quarks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Up_quark" title="Up quark">Up (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Up_antiquark" title="Up antiquark">antiquark)</a></li>
+<li><a href="/wiki/Down_quark" title="Down quark">Down (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Down_antiquark" title="Down antiquark">antiquark)</a></li>
+<li><a href="/wiki/Charm_quark" title="Charm quark">Charm (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Charm_antiquark" title="Charm antiquark">antiquark)</a></li>
+<li><a href="/wiki/Strange_quark" title="Strange quark">Strange (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Strange_antiquark" title="Strange antiquark">antiquark)</a></li>
+<li><a href="/wiki/Top_quark" title="Top quark">Top (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Top_antiquark" title="Top antiquark">antiquark)</a></li>
+<li><a href="/wiki/Bottom_quark" title="Bottom quark">Bottom (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Bottom_antiquark" title="Bottom antiquark">antiquark)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Lepton" title="Lepton">Leptons</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electron" title="Electron">Electron</a></li>
+<li><a class="mw-selflink selflink">Positron</a></li>
+<li><a href="/wiki/Muon" title="Muon">Muon</a></li>
+<li><a class="mw-redirect" href="/wiki/Antimuon" title="Antimuon">Antimuon</a></li>
+<li><a href="/wiki/Tau_(particle)" title="Tau (particle)">Tau</a></li>
+<li><a class="mw-redirect" href="/wiki/Antitau" title="Antitau">Antitau</a></li>
+<li><a href="/wiki/Electron_neutrino" title="Electron neutrino">Electron neutrino</a></li>
+<li><a class="mw-redirect" href="/wiki/Antineutrino" title="Antineutrino">Electron antineutrino</a></li>
+<li><a href="/wiki/Muon_neutrino" title="Muon neutrino">Muon neutrino</a></li>
+<li><a class="mw-redirect" href="/wiki/Antineutrino" title="Antineutrino">Muon antineutrino</a></li>
+<li><a href="/wiki/Tau_neutrino" title="Tau neutrino">Tau neutrino</a></li>
+<li><a class="mw-redirect" href="/wiki/Antineutrino" title="Antineutrino">Tau antineutrino</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a href="/wiki/Boson" title="Boson">Bosons</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:4em;font-weight:normal; text-align: center;"><a href="/wiki/Gauge_boson" title="Gauge boson">Gauge</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photon" title="Photon">Photon</a></li>
+<li><a href="/wiki/Gluon" title="Gluon">Gluon</a></li>
+<li><a href="/wiki/W_and_Z_bosons" title="W and Z bosons">W and Z bosons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:4em;font-weight:normal; text-align: center;"><a href="/wiki/Scalar_boson" title="Scalar boson">Scalar</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Higgs_boson" title="Higgs boson">Higgs boson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align: center;;font-weight:normal; text-align: center;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Faddeev%E2%80%93Popov_ghost" title="Faddeev–Popov ghost">Ghosts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a class="mw-redirect" href="/wiki/Hypothetical_particles" title="Hypothetical particles">Hypothetical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Superpartner" title="Superpartner">Superpartners</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Gaugino" title="Gaugino">Gauginos</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gluino" title="Gluino">Gluino</a></li>
+<li><a href="/wiki/Gravitino" title="Gravitino">Gravitino</a></li>
+<li><a href="/wiki/Photino" title="Photino">Photino</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Higgsino" title="Higgsino">Higgsino</a></li>
+<li><a href="/wiki/Neutralino" title="Neutralino">Neutralino</a></li>
+<li><a href="/wiki/Chargino" title="Chargino">Chargino</a></li>
+<li><a href="/wiki/Axino" title="Axino">Axino</a></li>
+<li><a href="/wiki/Sfermion" title="Sfermion">Sfermion</a> (<a href="/wiki/Stop_squark" title="Stop squark">Stop squark</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Planck_particle" title="Planck particle">Planck particle</a></li>
+<li><a href="/wiki/Axion" title="Axion">Axion</a></li>
+<li><a href="/wiki/Dilaton" title="Dilaton">Dilaton</a></li>
+<li><a href="/wiki/Dual_graviton" title="Dual graviton">Dual graviton</a></li>
+<li><a href="/wiki/Graviton" title="Graviton">Graviton</a></li>
+<li><a href="/wiki/Leptoquark" title="Leptoquark">Leptoquark</a></li>
+<li><a href="/wiki/Majoron" title="Majoron">Majoron</a></li>
+<li><a href="/wiki/Majorana_fermion" title="Majorana fermion">Majorana fermion</a></li>
+<li><a href="/wiki/Magnetic_monopole" title="Magnetic monopole">Magnetic monopole</a></li>
+<li><a href="/wiki/Preon" title="Preon">Preon</a></li>
+<li><a href="/wiki/Sterile_neutrino" title="Sterile neutrino">Sterile neutrino</a></li>
+<li><a href="/wiki/Tachyon" title="Tachyon">Tachyon</a></li>
+<li><a href="/wiki/W%E2%80%B2_and_Z%E2%80%B2_bosons" title="W′ and Z′ bosons">W′ and Z′ bosons</a></li>
+<li><a href="/wiki/X_and_Y_bosons" title="X and Y bosons">X and Y bosons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Bound_state" title="Bound state">Composite</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hadron" title="Hadron">Hadrons</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Baryon" title="Baryon">Baryons</a> / <a href="/wiki/Hyperon" title="Hyperon">hyperons</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nucleon" title="Nucleon">Nucleon</a>
+<ul>
+<li><a href="/wiki/Proton" title="Proton">Proton</a></li>
+<li><a href="/wiki/Antiproton" title="Antiproton">Antiproton</a></li>
+<li><a href="/wiki/Neutron" title="Neutron">Neutron</a></li>
+<li><a href="/wiki/Antineutron" title="Antineutron">Antineutron</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Delta_baryon" title="Delta baryon">Delta baryon</a></li>
+<li><a href="/wiki/Lambda_baryon" title="Lambda baryon">Lambda baryon</a></li>
+<li><a href="/wiki/Sigma_baryon" title="Sigma baryon">Sigma baryon</a></li>
+<li><a href="/wiki/Xi_baryon" title="Xi baryon">Xi baryon</a></li>
+<li><a href="/wiki/Omega_baryon" title="Omega baryon">Omega baryon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Meson" title="Meson">Mesons</a> / <a href="/wiki/Quarkonium" title="Quarkonium">quarkonia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pion" title="Pion">Pion</a></li>
+<li><a href="/wiki/Rho_meson" title="Rho meson">Rho meson</a></li>
+<li><a href="/wiki/Eta_meson" title="Eta meson">Eta and eta prime mesons</a></li>
+<li><a href="/wiki/Phi_meson" title="Phi meson">Phi meson</a></li>
+<li><a href="/wiki/J/psi_meson" title="J/psi meson">J/psi meson</a></li>
+<li><a href="/wiki/List_of_mesons" title="List of mesons">Omega meson</a></li>
+<li><a href="/wiki/Upsilon_meson" title="Upsilon meson">Upsilon meson</a></li>
+<li><a href="/wiki/Kaon" title="Kaon">Kaon</a></li>
+<li><a href="/wiki/B_meson" title="B meson">B meson</a></li>
+<li><a href="/wiki/D_meson" title="D meson">D meson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Exotic_hadron" title="Exotic hadron">Exotic hadrons</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tetraquark" title="Tetraquark">Tetraquark</a></li>
+<li><a href="/wiki/Pentaquark" title="Pentaquark">Pentaquark</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atomic_nucleus" title="Atomic nucleus">Atomic nuclei</a></li>
+<li><a href="/wiki/Atom" title="Atom">Atoms</a></li>
+<li><a href="/wiki/Exotic_atom" title="Exotic atom">Exotic atoms</a>
+<ul>
+<li><a href="/wiki/Positronium" title="Positronium">Positronium</a></li>
+<li><a href="/wiki/Muonium" title="Muonium">Muonium</a></li>
+<li><a class="mw-redirect" href="/wiki/Tauonium" title="Tauonium">Tauonium</a></li>
+<li><a href="/wiki/Onium" title="Onium">Onia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Superatom" title="Superatom">Superatoms</a></li>
+<li><a href="/wiki/Molecule" title="Molecule">Molecules</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Hypothetical_composite_particles" title="Category:Hypothetical composite particles">Hypothetical</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Hypothetical baryons</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hexaquark" title="Hexaquark">Hexaquark</a></li>
+<li><a href="/wiki/Skyrmion" title="Skyrmion">Skyrmion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Hypothetical mesons</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glueball" title="Glueball">Glueball</a></li>
+<li><a href="/wiki/Theta_meson" title="Theta meson">Theta meson</a></li>
+<li><a href="/wiki/T_meson" title="T meson">T meson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;;font-weight:normal; text-align: center;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mesonic_molecule" title="Mesonic molecule">Mesonic molecule</a></li>
+<li><a href="/wiki/Pomeron" title="Pomeron">Pomeron</a></li>
+<li><a href="/wiki/Diquark" title="Diquark">Diquarks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Quasiparticle" title="Quasiparticle">Quasiparticles</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Davydov_soliton" title="Davydov soliton">Davydov soliton</a></li>
+<li><a href="/wiki/Dropleton" title="Dropleton">Dropleton</a></li>
+<li><a href="/wiki/Exciton" title="Exciton">Exciton</a></li>
+<li><a href="/wiki/Electron_hole" title="Electron hole">Hole</a></li>
+<li><a href="/wiki/Magnon" title="Magnon">Magnon</a></li>
+<li><a href="/wiki/Phonon" title="Phonon">Phonon</a></li>
+<li><a href="/wiki/Plasmaron" title="Plasmaron">Plasmaron</a></li>
+<li><a href="/wiki/Plasmon" title="Plasmon">Plasmon</a></li>
+<li><a href="/wiki/Polariton" title="Polariton">Polariton</a></li>
+<li><a href="/wiki/Polaron" title="Polaron">Polaron</a></li>
+<li><a href="/wiki/Roton" title="Roton">Roton</a></li>
+<li><a href="/wiki/Trion_(physics)" title="Trion (physics)">Trion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%">Lists</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_baryons" title="List of baryons">Baryons</a></li>
+<li><a href="/wiki/List_of_mesons" title="List of mesons">Mesons</a></li>
+<li><a href="/wiki/List_of_particles" title="List of particles">Particles</a></li>
+<li><a href="/wiki/List_of_quasiparticles" title="List of quasiparticles">Quasiparticles</a></li>
+<li><a href="/wiki/Timeline_of_particle_discoveries" title="Timeline of particle discoveries">Timeline of particle discoveries</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_subatomic_physics" title="History of subatomic physics">History of subatomic physics</a>
+<ul>
+<li><a href="/wiki/Timeline_of_atomic_and_subatomic_physics" title="Timeline of atomic and subatomic physics">timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a>
+<ul>
+<li><a href="/wiki/Standard_Model_(mathematical_formulation)" title="Standard Model (mathematical formulation)">mathematical formulation</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/Subatomic_particles" title="Subatomic particles">Subatomic particles</a></li>
+<li><a class="mw-redirect" href="/wiki/Particles" title="Particles">Particles</a></li>
+<li><a href="/wiki/Antiparticle" title="Antiparticle">Antiparticles</a></li>
+<li><a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear physics</a></li>
+<li><a href="/wiki/Eightfold_Way_(physics)" title="Eightfold Way (physics)">Eightfold Way</a>
+<ul>
+<li><a href="/wiki/Quark_model" title="Quark model">Quark model</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Exotic_matter" title="Exotic matter">Exotic matter</a></li>
+<li><a href="/wiki/Massless_particle" title="Massless particle">Massless particle</a></li>
+<li><a href="/wiki/Relativistic_particle" title="Relativistic particle">Relativistic particle</a></li>
+<li><a href="/wiki/Virtual_particle" title="Virtual particle">Virtual particle</a></li>
+<li><a href="/wiki/Wave%E2%80%93particle_duality" title="Wave–particle duality">Wave–particle duality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Wikipedia books</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Book:Hadronic_Matter" title="Book:Hadronic Matter">Hadronic Matter</a></li>
+<li><a href="/wiki/Book:Particles_of_the_Standard_Model" title="Book:Particles of the Standard Model">Particles of the Standard Model</a></li>
+<li><a href="/wiki/Book:Leptons" title="Book:Leptons">Leptons</a></li>
+<li><a href="/wiki/Book:Quarks" title="Book:Quarks">Quarks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align: center;">
+<div><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <b><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics portal</a></b></div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4175441-4" rel="nofollow">4175441-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00574256" rel="nofollow">00574256</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1213
+Cached time: 20171107120814
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.552 seconds
+Real time usage: 0.656 seconds
+Preprocessor visited node count: 3068/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 180834/2097152 bytes
+Template argument size: 4775/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.281/10.000 seconds
+Lua memory usage: 8.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  531.452      1 -total
+ 44.84%  238.318      2 Template:Reflist
+ 17.86%   94.938     14 Template:Cite_journal
+ 16.65%   88.472      1 Template:Infobox_Particle
+ 15.81%   84.033      1 Template:Infobox
+ 13.37%   71.036     11 Template:Navbox
+ 11.21%   59.585      3 Template:Citation_needed
+ 10.46%   55.609      3 Template:Fix
+  9.15%   48.651     11 Template:Cite_web
+  7.30%   38.820      4 Template:Val
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24731-0!canonical and timestamp 20171107120813 and revision id 806366160
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Positron&amp;oldid=806366160">https://en.wikipedia.org/w/index.php?title=Positron&amp;oldid=806366160</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Antimatter" title="Category:Antimatter">Antimatter</a></li><li><a href="/wiki/Category:Elementary_particles" title="Category:Elementary particles">Elementary particles</a></li><li><a href="/wiki/Category:Leptons" title="Category:Leptons">Leptons</a></li><li><a href="/wiki/Category:Quantum_electrodynamics" title="Category:Quantum electrodynamics">Quantum electrodynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2016" title="Category:Articles with unsourced statements from April 2016">Articles with unsourced statements from April 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Positron" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Positron" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Positron" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Positron" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Positron">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Positron&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Positron&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Positron" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Positron" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Positron&amp;oldid=806366160" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Positron&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3229" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Positron&amp;id=806366160" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Positron">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Positron&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Positron&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Positrons" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B2%D9%8A%D8%AA%D8%B1%D9%88%D9%86" hreflang="ar" lang="ar" title="بوزيترون – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Pozitron" hreflang="az" lang="az" title="Pozitron – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%9C%E0%A6%BF%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A8" hreflang="bn" lang="bn" title="পজিট্রন – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B7%D1%96%D1%82%D1%80%D0%BE%D0%BD" hreflang="be" lang="be" title="Пазітрон – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="bg" lang="bg" title="Позитрон – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Pozitron" hreflang="bs" lang="bs" title="Pozitron – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Pozitron" hreflang="br" lang="br" title="Pozitron – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Positr%C3%B3" hreflang="ca" lang="ca" title="Positró – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="cv" lang="cv" title="Позитрон – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Pozitron" hreflang="cs" lang="cs" title="Pozitron – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Positron" hreflang="da" lang="da" title="Positron – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Positron" hreflang="de" lang="de" title="Positron – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Positron" hreflang="et" lang="et" title="Positron – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%BF%CE%B6%CE%B9%CF%84%CF%81%CF%8C%CE%BD%CE%B9%CE%BF" hreflang="el" lang="el" title="Ποζιτρόνιο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Positr%C3%B3n" hreflang="es" lang="es" title="Positrón – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Pozitrono" hreflang="eo" lang="eo" title="Pozitrono – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Positroi" hreflang="eu" lang="eu" title="Positroi – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D9%88%D8%B2%DB%8C%D8%AA%D8%B1%D9%88%D9%86" hreflang="fa" lang="fa" title="پوزیترون – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Positron" hreflang="fr" lang="fr" title="Positron – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Posatr%C3%B3n" hreflang="ga" lang="ga" title="Posatrón – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Positr%C3%B3n" hreflang="gl" lang="gl" title="Positrón – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%96%91%EC%A0%84%EC%9E%90" hreflang="ko" lang="ko" title="양전자 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8A%D5%B8%D5%A6%D5%AB%D5%BF%D6%80%D5%B8%D5%B6" hreflang="hy" lang="hy" title="Պոզիտրոն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A5%80%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%A8" hreflang="hi" lang="hi" title="पोजीट्रॉन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Pozitron" hreflang="hr" lang="hr" title="Pozitron – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Positron" hreflang="id" lang="id" title="Positron – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/J%C3%A1eind" hreflang="is" lang="is" title="Jáeind – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Positrone" hreflang="it" lang="it" title="Positrone – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%96%D7%99%D7%98%D7%A8%D7%95%D7%9F" hreflang="he" lang="he" title="פוזיטרון – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%BE%E0%B2%B8%E0%B2%BF%E0%B2%9F%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%A8%E0%B3%8D" hreflang="kn" lang="kn" title="ಪಾಸಿಟ್ರಾನ್ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="kk" lang="kk" title="Позитрон – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Pozitwon" hreflang="ht" lang="ht" title="Pozitwon – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="ky" lang="ky" title="Позитрон – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Positron" hreflang="la" lang="la" title="Positron – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Pozitrons" hreflang="lv" lang="lv" title="Pozitrons – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Pozitronas" hreflang="lt" lang="lt" title="Pozitronas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Positron" hreflang="li" lang="li" title="Positron – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-lmo"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Positron" hreflang="lmo" lang="lmo" title="Positron – Lombard">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Pozitron" hreflang="hu" lang="hu" title="Pozitron – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="mk" lang="mk" title="Позитрон – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%A7%E0%A4%A8%E0%A4%BE%E0%A4%A3%E0%A5%82" hreflang="mr" lang="mr" title="धनाणू – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Positron" hreflang="ms" lang="ms" title="Positron – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/Ci%C3%A1ng_di%C3%AAng-c%E1%B9%B3%CC%84" hreflang="cdo" lang="cdo" title="Ciáng diêng-cṳ̄ – Min Dong Chinese">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="mn" lang="mn" title="Позитрон – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%95%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AE%E1%80%91%E1%80%9B%E1%80%BD%E1%80%94%E1%80%BA" hreflang="my" lang="my" title="ပိုစီထရွန် – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Positron" hreflang="nl" lang="nl" title="Positron – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%99%BD%E9%9B%BB%E5%AD%90" hreflang="ja" lang="ja" title="陽電子 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Positron" hreflang="no" lang="no" title="Positron – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Positron" hreflang="nn" lang="nn" title="Positron – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nov"><a class="interlanguage-link-target" href="https://nov.wikipedia.org/wiki/Positrone" hreflang="nov" lang="nov" title="Positrone – Novial">Novial</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Positron" hreflang="oc" lang="oc" title="Positron – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Pozitron" hreflang="uz" lang="uz" title="Pozitron – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%BE%E0%A8%9C%E0%A8%BC%E0%A9%80%E0%A8%9F%E0%A9%8D%E0%A8%B0%E0%A9%8B%E0%A8%A8" hreflang="pa" lang="pa" title="ਪਾਜ਼ੀਟ੍ਰੋਨ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D9%BE%D9%88%D8%B2%DB%8C%D9%B9%D8%B1%D8%A7%D9%86" hreflang="pnb" lang="pnb" title="پوزیٹران – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Positron" hreflang="pms" lang="pms" title="Positron – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Positron" hreflang="nds" lang="nds" title="Positron – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pozyton" hreflang="pl" lang="pl" title="Pozyton – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/P%C3%B3sitron" hreflang="pt" lang="pt" title="Pósitron – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Pozitron" hreflang="ro" lang="ro" title="Pozitron – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Pusitrun" hreflang="qu" lang="qu" title="Pusitrun – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="ru" lang="ru" title="Позитрон – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Positron" hreflang="sco" lang="sco" title="Positron – Scots">Scots</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%9C%E0%B7%83%E0%B7%92%E0%B6%A7%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9D%E0%B6%B1%E0%B6%BA" hreflang="si" lang="si" title="පොසිට්‍රෝනය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Positron" hreflang="simple" lang="simple" title="Positron – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Pozitr%C3%B3n" hreflang="sk" lang="sk" title="Pozitrón – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Pozitron" hreflang="sl" lang="sl" title="Pozitron – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%BE%DB%86%D8%B2%DB%8C%D8%AA%D8%B1%DB%86%D9%86" hreflang="ckb" lang="ckb" title="پۆزیترۆن – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="sr" lang="sr" title="Позитрон – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Pozitron" hreflang="sh" lang="sh" title="Pozitron – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Positron" hreflang="su" lang="su" title="Positron – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Positroni" hreflang="fi" lang="fi" title="Positroni – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Positron" hreflang="sv" lang="sv" title="Positron – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Positron" hreflang="tl" lang="tl" title="Positron – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%9E%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%99" hreflang="th" lang="th" title="โพซิตรอน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Pozitron" hreflang="tr" lang="tr" title="Pozitron – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%82%D1%80%D0%BE%D0%BD" hreflang="uk" lang="uk" title="Позитрон – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D8%AB%D8%A8%D8%AA_%D8%A8%D8%B1%D9%82%D9%8A%DB%81" hreflang="ur" lang="ur" title="مثبت برقيہ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Positron" hreflang="vi" lang="vi" title="Positron – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Positron" hreflang="war" lang="war" title="Positron – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%AD%A3%E9%9B%BB%E5%AD%90" hreflang="zh-yue" lang="zh-yue" title="正電子 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%AD%A3%E9%9B%BB%E5%AD%90" hreflang="zh" lang="zh" title="正電子 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3229#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 October 2017, at 15:19.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Positron&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.552","walltime":"0.656","ppvisitednodes":{"value":3068,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":180834,"limit":2097152},"templateargumentsize":{"value":4775,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  531.452      1 -total"," 44.84%  238.318      2 Template:Reflist"," 17.86%   94.938     14 Template:Cite_journal"," 16.65%   88.472      1 Template:Infobox_Particle"," 15.81%   84.033      1 Template:Infobox"," 13.37%   71.036     11 Template:Navbox"," 11.21%   59.585      3 Template:Citation_needed"," 10.46%   55.609      3 Template:Fix","  9.15%   48.651     11 Template:Cite_web","  7.30%   38.820      4 Template:Val"]},"scribunto":{"limitreport-timeusage":{"value":"0.281","limit":"10.000"},"limitreport-memusage":{"value":9120796,"limit":52428800}},"cachereport":{"origin":"mw1213","timestamp":"20171107120814","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

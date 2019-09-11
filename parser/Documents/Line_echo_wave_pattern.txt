@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Line echo wave pattern - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Line_echo_wave_pattern","wgTitle":"Line echo wave pattern","wgCurRevisionId":797580456,"wgRevisionId":797580456,"wgArticleId":36561875,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: authors list","Pages with URL errors","Radar meteorology","Severe weather and convection"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Line_echo_wave_pattern","wgRelevantArticleId":36561875,"wgRequestId":"WgJA9QpAMCYAAG@hR@cAAAAW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6553246","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/2b/Line_echo_wave_pattern.gif" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Line_echo_wave_pattern" rel="alternate"/>
+<link href="/w/index.php?title=Line_echo_wave_pattern&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Line_echo_wave_pattern&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Line_echo_wave_pattern" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Line_echo_wave_pattern rootpage-Line_echo_wave_pattern vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Line echo wave pattern</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Line_echo_wave_pattern.gif"><img alt="" class="thumbimage" data-file-height="491" data-file-width="366" height="295" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Line_echo_wave_pattern.gif/220px-Line_echo_wave_pattern.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Line_echo_wave_pattern.gif/330px-Line_echo_wave_pattern.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/2/2b/Line_echo_wave_pattern.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Line_echo_wave_pattern.gif" title="Enlarge"></a></div>
+Radar schematic of a LEWP. This shape is a single wave along the pattern, for real LEWPs this shape is <a class="mw-redirect" href="/wiki/Tessellate" title="Tessellate">tessellated</a> repeatedly in a linear fashion</div>
+</div>
+</div>
+<p>A <b>line echo wave pattern</b> (<b>LEWP</b>) is a <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a> formation in which a single line of thunderstorms presenting multiple <a href="/wiki/Bow_echo" title="Bow echo">bow echoes</a> forms south (or equatorward) of a <a href="/wiki/Mesoscale_meteorology" title="Mesoscale meteorology">mesoscale</a> <a href="/wiki/Low-pressure_area" title="Low-pressure area">low-pressure area</a> with a rotating "head".<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> LEWP often are associated with a multiple-bow serial <a href="/wiki/Derecho" title="Derecho">derecho</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> and often produce tornadoes, some of which can be strong.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The existence of a LEWP on radar means that a serial <a href="/wiki/Derecho" title="Derecho">derecho</a> has developed or is likely to develop soon, much as a <a href="/wiki/Hook_echo" title="Hook echo">hook echo</a> indicates the same for a <a href="/wiki/Tornado" title="Tornado">tornado</a>.</p>
+<p>A LEWP, according to the NWAS, is defined as "a <a href="/wiki/Squall_line" title="Squall line">squall line</a> that has developed into a wave-like pattern due to acceleration at one end of the line and deceleration along the portion immediately adjacent."<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Illinois-LEWP.jpg"><img alt="" class="thumbimage" data-file-height="502" data-file-width="512" height="216" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Illinois-LEWP.jpg/220px-Illinois-LEWP.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Illinois-LEWP.jpg/330px-Illinois-LEWP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Illinois-LEWP.jpg/440px-Illinois-LEWP.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Illinois-LEWP.jpg" title="Enlarge"></a></div>
+A LEWP in Illinois/Indiana and Arkansas, associated with a <a class="mw-redirect" href="/wiki/April_19%E2%80%9324,_2011_tornado_outbreak_sequence" title="April 19–24, 2011 tornado outbreak sequence">very large derecho</a></div>
+</div>
+</div>
+<p>A LEWP is an extension of the concept of the bow echo, which usually indicates a powerful convective windstorm. Areas hit by the apices of bows often see the worst weather, with the highest winds and very heavy rain. However, if the sides of the bows reach enough of an orientation parallel to the derecho's movement, <a class="mw-redirect" href="/wiki/Storm_train" title="Storm train">a very long-duration</a> heavy rain event can result, leading to <a href="/wiki/Flash_flood" title="Flash flood">flash flooding</a>. A serial derecho can be in the form of a LEWP or a single, very large <a href="/wiki/Bow_echo" title="Bow echo">bow echo</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Line_echo_wave_pattern&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Derecho" title="Derecho">Derecho</a></li>
+<li><a href="/wiki/Hook_echo" title="Hook echo">Hook echo</a></li>
+<li><a href="/wiki/Convective_storm_detection" title="Convective storm detection">Convective storm detection</a></li>
+<li><a href="/wiki/Mesoscale_convective_system" title="Mesoscale convective system">Mesoscale convective system</a> (MCS) and <a href="/wiki/Mesoscale_convective_complex" title="Mesoscale convective complex">mesoscale convective complex</a> (MCC)</li>
+<li><a href="/wiki/Mesoscale_convective_vortex" title="Mesoscale convective vortex">Mesoscale convective vortex</a> (MCV) and <a class="mw-redirect" href="/wiki/Mesolow" title="Mesolow">mesolow</a></li>
+<li><a href="/wiki/Rear-inflow_jet" title="Rear-inflow jet">Rear-inflow jet</a> (RIJ)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Line_echo_wave_pattern&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Todd_Glickman" title="Todd Glickman">Glickman, Todd S. (ed.)</a> (2000). <a class="external text" href="http://glossary.ametsoc.org/wiki/Line_echo_wave_pattern" rel="nofollow"><i>Glossary of Meteorology</i></a> (2nd ed.). American Meteorological Society. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-878220-34-9" title="Special:BookSources/978-1-878220-34-9">978-1-878220-34-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALine+echo+wave+pattern&amp;rft.aufirst=Todd+S.+%28ed.%29&amp;rft.aulast=Glickman&amp;rft.btitle=Glossary+of+Meteorology&amp;rft.date=2000&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-1-878220-34-9&amp;rft.pub=American+Meteorological+Society&amp;rft_id=http%3A%2F%2Fglossary.ametsoc.org%2Fwiki%2FLine_echo_wave_pattern&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: authors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">link</a>)</span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Obergfell; Lashley; Chamberlain (April 24, 2011). <a class="external text" href="http://www.crh.noaa.gov/iwx/?n=severestorms_2011apr19" rel="nofollow">Severe Storms of April 19th-20th "Severe Thunderstorms and Tornadoes of April 19-20, 2011"</a> <span class="error citation-comment" style="font-size:100%">Check <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> value (<a href="/wiki/Help:CS1_errors#bad_url" title="Help:CS1 errors">help</a>)</span>. National Weather Service Weather Forecast Office, Northern Indiana<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALine+echo+wave+pattern&amp;rft.au=Chamberlain&amp;rft.au=Lashley&amp;rft.au=Obergfell&amp;rft.btitle=Severe+Thunderstorms+and+Tornadoes+of+April+19-20%2C+2011&amp;rft.date=2011-04-24&amp;rft.genre=unknown&amp;rft.pub=National+Weather+Service+Weather+Forecast+Office%2C+Northern+Indiana&amp;rft_id=http%3A%2F%2Fwww.crh.noaa.gov%2Fiwx%2F%3Fn%3Dseverestorms_2011apr19+Severe+Storms+of+April+19th-20th&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.wrh.noaa.gov/mtr/stormSummary/TorWx_3_18-23_2011/torwx_3_18-23.php" rel="nofollow">"Waterspouts and Tornadoes March 2011"</a>. National Weather Service Forecast Office (part of NOAA). 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALine+echo+wave+pattern&amp;rft.btitle=Waterspouts+and+Tornadoes+March+2011&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft.pub=National+Weather+Service+Forecast+Office+%28part+of+NOAA%29&amp;rft_id=http%3A%2F%2Fwww.wrh.noaa.gov%2Fmtr%2FstormSummary%2FTorWx_3_18-23_2011%2Ftorwx_3_18-23.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nwas.org/committees/avnwinterwx/doppler_weather_radar_overview.htm" rel="nofollow">"Doppler Weather Radar Overview"</a>. <i>Echo Identification using NEXRAD: Line Echo Wave Pattern</i>. NWAS<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALine+echo+wave+pattern&amp;rft.atitle=Doppler+Weather+Radar+Overview&amp;rft.genre=unknown&amp;rft.jtitle=Echo+Identification+using+NEXRAD%3A+Line+Echo+Wave+Pattern&amp;rft_id=http%3A%2F%2Fwww.nwas.org%2Fcommittees%2Favnwinterwx%2Fdoppler_weather_radar_overview.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.srh.noaa.gov/oun/?n=spotterglossary-figure4" rel="nofollow">"Line Echo Wave Pattern (LEWP)"</a>. <i>Norman, OK: Figure 4, LEWP</i>. National Weather Service Weather Forecast Office. December 2, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALine+echo+wave+pattern&amp;rft.atitle=Line+Echo+Wave+Pattern+%28LEWP%29&amp;rft.date=2009-12-02&amp;rft.genre=unknown&amp;rft.jtitle=Norman%2C+OK%3A+Figure+4%2C+LEWP&amp;rft_id=http%3A%2F%2Fwww.srh.noaa.gov%2Foun%2F%3Fn%3Dspotterglossary-figure4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1187
+Cached time: 20171104005553
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.080 seconds
+Real time usage: 0.107 seconds
+Preprocessor visited node count: 291/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9691/2097152 bytes
+Template argument size: 103/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 2.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   79.457      1 -total
+ 97.89%   77.783      1 Template:Reflist
+ 56.00%   44.494      1 Template:Cite_book
+ 19.69%   15.644      4 Template:Cite_web
+  2.44%    1.936      1 Template:Main_other
+  1.97%    1.565      1 Template:Clear
+  1.39%    1.104      1 Template:Column-width
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:36561875-0!canonical and timestamp 20171104005553 and revision id 797580456
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Line_echo_wave_pattern&amp;oldid=797580456">https://en.wikipedia.org/w/index.php?title=Line_echo_wave_pattern&amp;oldid=797580456</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Radar_meteorology" title="Category:Radar meteorology">Radar meteorology</a></li><li><a href="/wiki/Category:Severe_weather_and_convection" title="Category:Severe weather and convection">Severe weather and convection</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:Pages_with_URL_errors" title="Category:Pages with URL errors">Pages with URL errors</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Line+echo+wave+pattern" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Line+echo+wave+pattern" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Line_echo_wave_pattern" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Line_echo_wave_pattern" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Line_echo_wave_pattern">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Line_echo_wave_pattern&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Line_echo_wave_pattern&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Line_echo_wave_pattern" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Line_echo_wave_pattern" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Line_echo_wave_pattern&amp;oldid=797580456" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Line_echo_wave_pattern&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6553246" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Line_echo_wave_pattern&amp;id=797580456" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Line+echo+wave+pattern">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Line+echo+wave+pattern&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Line_echo_wave_pattern&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Grain_en_arc#Arcs_multiples" hreflang="fr" lang="fr" title="Grain en arc – French">Français</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6553246#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 28 August 2017, at 00:41.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Line_echo_wave_pattern&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.080","walltime":"0.107","ppvisitednodes":{"value":291,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9691,"limit":2097152},"templateargumentsize":{"value":103,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   79.457      1 -total"," 97.89%   77.783      1 Template:Reflist"," 56.00%   44.494      1 Template:Cite_book"," 19.69%   15.644      4 Template:Cite_web","  2.44%    1.936      1 Template:Main_other","  1.97%    1.565      1 Template:Clear","  1.39%    1.104      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.033","limit":"10.000"},"limitreport-memusage":{"value":2288966,"limit":52428800}},"cachereport":{"origin":"mw1187","timestamp":"20171104005553","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1210"});});</script>
+</body>
+</html>

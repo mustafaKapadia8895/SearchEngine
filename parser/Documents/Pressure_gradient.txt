@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Pressure gradient - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pressure_gradient","wgTitle":"Pressure gradient","wgCurRevisionId":805606871,"wgRevisionId":805606871,"wgArticleId":2909308,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Atmospheric dynamics","Pressure","Spatial gradient"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pressure_gradient","wgRelevantArticleId":2909308,"wgRequestId":"WgH3iwpAAEMAAIiqD@8AAAAC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2414143","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pressure_gradient" rel="alternate"/>
+<link href="/w/index.php?title=Pressure_gradient&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Pressure_gradient&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Pressure_gradient" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pressure_gradient rootpage-Pressure_gradient vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Pressure gradient</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In atmospheric science (<a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <a href="/wiki/Climatology" title="Climatology">climatology</a> and related fields), the <b>pressure gradient</b> (typically of <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">air</a>, more generally of any <a href="/wiki/Fluid" title="Fluid">fluid</a>) is a physical quantity that describes which direction and at what rate the <a href="/wiki/Pressure" title="Pressure">pressure</a> changes the most rapidly around a particular location. The pressure gradient is a dimensional quantity expressed in <a href="/wiki/Units_of_measurement" title="Units of measurement">units</a> of pressure per unit length, or <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a>/<a class="mw-redirect" href="/wiki/Meter" title="Meter">m</a></p>
+<p>Mathematically, it is obtained by applying the <a class="mw-redirect" href="/wiki/Del_operator" title="Del operator">del operator</a> to a pressure function of position. The negative gradient of pressure is known as the <a href="/wiki/Force_density" title="Force density">force density</a>.</p>
+<p>In the <a href="/wiki/Petroleum_geology" title="Petroleum geology">Petroleum Geology</a> and Petrochemical sciences pertaining to <a href="/wiki/Oil_well" title="Oil well">oil wells</a>, and more specifically within <a href="/wiki/Hydrostatics" title="Hydrostatics">Hydrostatic Pressure</a>, pressure gradients refer to the <a href="/wiki/Gradient" title="Gradient">gradient</a> of vertical pressure in a column of fluid within a <a class="mw-redirect" href="/wiki/Wellbore" title="Wellbore">wellbore</a> generally expressed in psi/ft. this column of fluid is subject to the compound pressure gradient of the overlying fluids. The path and geometry of the column is totally irrelevant, only the vertical depth of the column has any relevance on the vertical pressure of any point within its column and the pressure gradient for any given <a href="/wiki/True_vertical_depth" title="True vertical depth">true vertical depth</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Physical_interpretation"><span class="tocnumber">1</span> <span class="toctext">Physical interpretation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Weather_and_climate_relevance"><span class="tocnumber">2</span> <span class="toctext">Weather and climate relevance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Physical_interpretation">Physical interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pressure_gradient&amp;action=edit&amp;section=1" title="Edit section: Physical interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Strictly speaking, the concept of pressure gradient is a <i>local</i> characterisation of the air (more generally of the fluid under investigation). The pressure gradient is defined only at those spatial scales at which pressure (more generally <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid dynamics</a>) itself is defined.</p>
+<p>Within <a href="/wiki/Planet" title="Planet">planetary</a> <a href="/wiki/Atmosphere" title="Atmosphere">atmospheres</a> (including the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">Earth's</a>), the pressure gradient is a vector pointing roughly downwards, because the pressure changes most rapidly vertically, increasing downwards, see <a href="/wiki/Vertical_pressure_variation" title="Vertical pressure variation">vertical pressure variation</a>. The value of the strength (or <a href="/wiki/Norm_(mathematics)" title="Norm (mathematics)">norm</a>) of the pressure gradient in the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> is typically of the order 9 Pa/m (or 90 hPa/km).</p>
+<p>The pressure gradient often has a small but critical horizontal component, which is largely responsible for the <a href="/wiki/Wind" title="Wind">wind</a> circulation. The <b>horizontal pressure gradient</b> is a 2-dimensional vector resulting from the projection of the pressure gradient onto a local horizontal plane.</p>
+<p>Near the <a class="mw-redirect" href="/wiki/Earth%27s_surface" title="Earth's surface">Earth's surface</a>, this horizontal pressure gradient force is directed from higher toward lower pressure. Its particular orientation at any one time and place depends strongly on the weather situation. At mid-<a href="/wiki/Latitude" title="Latitude">latitudes</a>, the typical horizontal pressure gradient may take on values of the order of 10<sup>−2</sup> Pa/m (or 10 Pa/km), although rather higher values occur within <a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">meteorological fronts</a>.</p>
+<h2><span class="mw-headline" id="Weather_and_climate_relevance">Weather and climate relevance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pressure_gradient&amp;action=edit&amp;section=2" title="Edit section: Weather and climate relevance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Differences in air pressure between different locations are critical in weather forecasting and climate. As indicated above, the pressure gradient constitutes one of the main forces acting on the air to make it move as wind. Note that the <a class="mw-redirect" href="/wiki/Pressure_gradient_force" title="Pressure gradient force">pressure gradient force</a> points from high towards low pressure zones, it is thus oriented in the opposite direction from the pressure gradient itself.</p>
+<p><a href="/wiki/Sound" title="Sound">Sound</a> waves and <a href="/wiki/Shock_wave" title="Shock wave">shock waves</a> are events that can induce very large pressure gradients, but these are often transitory disturbances.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pressure_gradient&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Gradient" title="Gradient">Gradient</a></li>
+<li><a href="/wiki/Force_density" title="Force density">Force density</a></li>
+<li><a class="mw-redirect" href="/wiki/Isobar_(meteorology)" title="Isobar (meteorology)">Isobar</a></li>
+<li><a href="/wiki/Geopotential_height" title="Geopotential height">Geopotential height</a></li>
+<li><a href="/wiki/Geostrophic_wind" title="Geostrophic wind">Geostrophic wind</a></li>
+<li><a href="/wiki/Primitive_equations" title="Primitive equations">Primitive equations</a></li>
+<li><a href="/wiki/Temperature_gradient" title="Temperature gradient">Temperature gradient</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pressure_gradient&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Conner A. Perrine (1967) <i>The nature and theory of the general circulation of atmosphere</i>, World Meteorological Organization, Publication No. 218, Geneva, Switzerland.</li>
+<li>Robert G. Fleagle and <a class="mw-redirect" href="/wiki/Joost_A._Businger" title="Joost A. Businger">Joost A. Businger</a> (1980) <i>An Introduction to Atmospheric Physics</i>, Second Edition, Academic Press, International Geophysics Series, Volume <b>25</b>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-260355-9" title="Special:BookSources/0-12-260355-9">0-12-260355-9</a>.</li>
+<li>John S. Wallace and Peter V. Hobbs (2006) <i>Atmospheric Science: An Introductory Survey</i>, Second Edition, Academic Press, International Geophysics Series, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-732951-X" title="Special:BookSources/0-12-732951-X">0-12-732951-X</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pressure_gradient&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.grida.no/climate/ipcc_tar/wg1/index.htm" rel="nofollow">IPCC Third Assessment Report</a></li>
+</ul>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a href="/wiki/Advection" title="Advection">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a href="/wiki/Vorticity" title="Vorticity">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a href="/wiki/Convective_instability" title="Convective instability">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a class="mw-selflink selflink">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20171107155427
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.072 seconds
+Real time usage: 0.096 seconds
+Preprocessor visited node count: 559/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15748/2097152 bytes
+Template argument size: 804/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 827 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.122      1 -total
+ 77.72%   51.387      2 Template:ISBN
+ 22.05%   14.583      1 Template:Meteorological_variables
+ 21.76%   14.389      2 Template:Catalog_lookup_link
+ 19.53%   12.911      1 Template:Navbox
+  9.89%    6.537      2 Template:Error-small
+  7.62%    5.040      6 Template:Yesno-no
+  4.42%    2.924      6 Template:Yesno
+  4.21%    2.784     12 Template:Trim
+  2.70%    1.786      2 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2909308-0!canonical and timestamp 20171107155427 and revision id 805606871
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pressure_gradient&amp;oldid=805606871">https://en.wikipedia.org/w/index.php?title=Pressure_gradient&amp;oldid=805606871</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_dynamics" title="Category:Atmospheric dynamics">Atmospheric dynamics</a></li><li><a href="/wiki/Category:Pressure" title="Category:Pressure">Pressure</a></li><li><a href="/wiki/Category:Spatial_gradient" title="Category:Spatial gradient">Spatial gradient</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pressure+gradient" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Pressure+gradient" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Pressure_gradient" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Pressure_gradient" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Pressure_gradient">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Pressure_gradient&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Pressure_gradient&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Pressure_gradient" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Pressure_gradient" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pressure_gradient&amp;oldid=805606871" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pressure_gradient&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2414143" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pressure_gradient&amp;id=805606871" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pressure+gradient">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pressure+gradient&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Pressure_gradient&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Gradient_de_pressi%C3%B3" hreflang="ca" lang="ca" title="Gradient de pressió – Catalan">Català</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Gradiente_barom%C3%A9trico" hreflang="es" lang="es" title="Gradiente barométrico – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Gradient_de_pression" hreflang="fr" lang="fr" title="Gradient de pression – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Gradiente_di_pressione" hreflang="it" lang="it" title="Gradiente di pressione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Drukgradi%C3%ABnt" hreflang="nl" lang="nl" title="Drukgradiënt – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9C%A7%E5%8A%9B%E5%8B%BE%E9%85%8D" hreflang="ja" lang="ja" title="圧力勾配 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Gradient_ci%C5%9Bnienia" hreflang="pl" lang="pl" title="Gradient ciśnienia – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Gradiente_de_press%C3%A3o" hreflang="pt" lang="pt" title="Gradiente de pressão – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82" hreflang="ru" lang="ru" title="Барический градиент – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Pressure_gradient" hreflang="simple" lang="simple" title="Pressure gradient – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D1%96%D1%94%D0%BD%D1%82" hreflang="uk" lang="uk" title="Баричний градієнт – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2414143#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 16 October 2017, at 13:53.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Pressure_gradient&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.072","walltime":"0.096","ppvisitednodes":{"value":559,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15748,"limit":2097152},"templateargumentsize":{"value":804,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   66.122      1 -total"," 77.72%   51.387      2 Template:ISBN"," 22.05%   14.583      1 Template:Meteorological_variables"," 21.76%   14.389      2 Template:Catalog_lookup_link"," 19.53%   12.911      1 Template:Navbox","  9.89%    6.537      2 Template:Error-small","  7.62%    5.040      6 Template:Yesno-no","  4.42%    2.924      6 Template:Yesno","  4.21%    2.784     12 Template:Trim","  2.70%    1.786      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":846875,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20171107155427","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

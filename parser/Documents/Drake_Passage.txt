@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Drake Passage - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Drake_Passage","wgTitle":"Drake Passage","wgCurRevisionId":795119152,"wgRevisionId":795119152,"wgArticleId":330453,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from March 2015","All articles needing additional references","Articles containing Spanish-language text","Coordinates on Wikidata","Francis Drake","Straits of Chile","Straits of Antarctica","Bodies of water of Magallanes y la Antártica Chilena Region","Landforms of Tierra del Fuego Province, Argentina","Borders of Chile","Antarctic region"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Drake_Passage","wgRelevantArticleId":330453,"wgRequestId":"Wf5RPwpAME4AAG5GYV8AAAAP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":-58.580277777778,"lon":-65.909444444444},"wgWikibaseItemId":"Q143650","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/ce/Drake_passage_en.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Drake_Passage" rel="alternate"/>
+<link href="/w/index.php?title=Drake_Passage&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Drake_Passage&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Drake_Passage" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Drake_Passage rootpage-Drake_Passage vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Drake Passage</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Drake_Passage&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Drake_passage_en.png"><img alt="" class="thumbimage" data-file-height="846" data-file-width="928" height="201" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Drake_passage_en.png/220px-Drake_passage_en.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Drake_passage_en.png/330px-Drake_passage_en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Drake_passage_en.png/440px-Drake_passage_en.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Drake_passage_en.png" title="Enlarge"></a></div>
+Drake Passage showing the boundary points A, B, C, D, E and F accorded by the <a href="/wiki/Treaty_of_Peace_and_Friendship_of_1984_between_Chile_and_Argentina" title="Treaty of Peace and Friendship of 1984 between Chile and Argentina">Treaty of Peace and Friendship of 1984 between Chile and Argentina</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:DrakeP1.JPG"><img alt="" class="thumbimage" data-file-height="750" data-file-width="1000" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DrakeP1.JPG/220px-DrakeP1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DrakeP1.JPG/330px-DrakeP1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DrakeP1.JPG/440px-DrakeP1.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:DrakeP1.JPG" title="Enlarge"></a></div>
+Tourist expedition ship Akademik Ioffe sailing across the Drake Passage to Antarctica</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Drake-Passage_profile_hg.png"><img alt="" class="thumbimage" data-file-height="806" data-file-width="1155" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drake-Passage_profile_hg.png/220px-Drake-Passage_profile_hg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drake-Passage_profile_hg.png/330px-Drake-Passage_profile_hg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drake-Passage_profile_hg.png/440px-Drake-Passage_profile_hg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Drake-Passage_profile_hg.png" title="Enlarge"></a></div>
+Depth profile with salinity and temperature for surface water.</div>
+</div>
+</div>
+<p>The <b>Drake Passage</b> (<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <span lang="es" xml:lang="es"><i>Pasaje de Drake</i></span>) or <b>Mar de Hoces</b>—Sea of <a href="/wiki/Francisco_de_Hoces" title="Francisco de Hoces">Hoces</a>—is the body of water between <a href="/wiki/South_America" title="South America">South America</a>'s <a href="/wiki/Cape_Horn" title="Cape Horn">Cape Horn</a> and the <a href="/wiki/South_Shetland_Islands" title="South Shetland Islands">South Shetland Islands</a> of <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>. It connects the southwestern part of the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> (<a href="/wiki/Scotia_Sea" title="Scotia Sea">Scotia Sea</a>) with the southeastern part of the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> and extends into the <a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Geology"><span class="tocnumber">3</span> <span class="toctext">Geology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drake_Passage&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The passage receives its English-language name from the 16th-century <a href="/wiki/England" title="England">English</a> <a href="/wiki/Privateer" title="Privateer">privateer</a> <a href="/wiki/Francis_Drake" title="Francis Drake">Sir Francis Drake</a>. Drake's <a href="/wiki/Golden_Hind" title="Golden Hind">only remaining ship</a>, after having passed through the <a href="/wiki/Strait_of_Magellan" title="Strait of Magellan">Strait of Magellan</a>, was blown far south in September 1578. This incident implied an open connection between the Atlantic and Pacific oceans.</p>
+<p>Half a century earlier, after a gale had pushed them south from the entrance of the Strait of Magellan, the crew of the <a href="/wiki/Spain" title="Spain">Spanish</a> navigator <a href="/wiki/Francisco_de_Hoces" title="Francisco de Hoces">Francisco de Hoces</a> thought they saw a land's end and possibly inferred this passage in 1525.<sup class="reference" id="cite_ref-Oyarzun_1-0"><a href="#cite_note-Oyarzun-1">[1]</a></sup> For this reason, some Spanish and <a href="/wiki/Latin_America" title="Latin America">Latin American</a> <a href="/wiki/Historian" title="Historian">historians</a> and sources call it <b>Mar de Hoces</b> after Francisco de Hoces.</p>
+<p>The first recorded voyage through the passage was that of <i>Eendracht</i>, captained by the Dutch navigator <a href="/wiki/Willem_Schouten" title="Willem Schouten">Willem Schouten</a> in 1616, naming Cape Horn in the process.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drake_Passage&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 800-kilometre (500 mi) wide passage between Cape Horn and <a href="/wiki/Livingston_Island" title="Livingston Island">Livingston Island</a> is the shortest crossing from Antarctica to any other landmass. The boundary between the Atlantic and Pacific Oceans is sometimes taken to be a line drawn from Cape Horn to <a href="/wiki/Snow_Island_(South_Shetland_Islands)" title="Snow Island (South Shetland Islands)">Snow Island</a> (130 kilometres (81 mi) north of mainland Antarctica). Alternatively, the meridian that passes through Cape Horn may be taken as the boundary. Both boundaries lie entirely within the Drake Passage.</p>
+<p>The other two passages around the extreme southern part of South America (though not going around Cape Horn as such), <a href="/wiki/Strait_of_Magellan" title="Strait of Magellan">Strait of Magellan</a> and <a href="/wiki/Beagle_Channel" title="Beagle Channel">Beagle Channel</a>, are very narrow, leaving little room for a ship. They can also become icebound, and sometimes the <a href="/wiki/Wind" title="Wind">wind</a> blows so strongly no <a href="/wiki/Sailing" title="Sailing">sailing</a> vessel can make headway against it. Hence most sailing ships preferred the Drake Passage, which is open water for hundreds of miles, despite very rough conditions. The small <a href="/wiki/Diego_Ram%C3%ADrez_Islands" title="Diego Ramírez Islands">Diego Ramírez Islands</a> lie about 100 kilometres (62 mi) south-southwest of Cape Horn.</p>
+<p>There is no significant land anywhere around the world at the <a href="/wiki/Latitude" title="Latitude">latitudes</a> of Drake Passage, which is important to the unimpeded flow of the <a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar Current</a> which carries a huge volume of water (about 600 times the flow of the <a href="/wiki/Amazon_River" title="Amazon River">Amazon River</a>) through the Passage and around Antarctica.</p>
+<p>Ships in the Passage are often good platforms for the sighting of <a href="/wiki/Whale" title="Whale">whales</a>, <a href="/wiki/Dolphin" title="Dolphin">dolphins</a> and seabirds including <a href="/wiki/Giant_petrel" title="Giant petrel">giant petrels</a>, other <a href="/wiki/Petrel" title="Petrel">petrels</a>, <a href="/wiki/Albatross" title="Albatross">albatrosses</a> and <a href="/wiki/Penguin" title="Penguin">penguins</a>.</p>
+<h2><span class="mw-headline" id="Geology">Geology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drake_Passage&amp;action=edit&amp;section=3" title="Edit section: Geology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The passage is known to have been closed until around 41 <a class="mw-redirect" href="/wiki/Million_years_ago" title="Million years ago">million years ago</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> according to a chemical study of <a href="/wiki/Shark_tooth" title="Shark tooth">fish teeth</a> found in <a href="/wiki/Ocean" title="Ocean">oceanic</a> <a href="/wiki/Sedimentary_rock" title="Sedimentary rock">sedimentary rock</a>. Before the passage opened, the Atlantic and Pacific Oceans were separated entirely with Antarctica being much warmer and having no <a href="/wiki/Ice_cap" title="Ice cap">ice cap</a>. The joining of the two great oceans started the <a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar Current</a> and cooled the <a href="/wiki/Continent" title="Continent">continent</a> significantly.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drake_Passage&amp;action=edit&amp;section=4" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Drake2.JPG"><img alt="" data-file-height="750" data-file-width="1000" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Drake2.JPG/240px-Drake2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Drake2.JPG/360px-Drake2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Drake2.JPG/480px-Drake2.JPG 2x" width="160"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Rough seas are common in the Drake Passage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Drake3.JPG"><img alt="" data-file-height="750" data-file-width="1000" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Drake3.JPG/240px-Drake3.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Drake3.JPG/360px-Drake3.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Drake3.JPG/480px-Drake3.JPG 2x" width="160"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Tourists watch whales in the Drake Passage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 128.66666666667px">
+<div style="width: 128.66666666667px">
+<div class="thumb" style="width: 126.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Drake4.JPG"><img alt="" data-file-height="949" data-file-width="1000" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drake4.JPG/190px-Drake4.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drake4.JPG/285px-Drake4.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drake4.JPG/379px-Drake4.JPG 2x" width="127"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Seabird (light-mantled sooty albatross) flying over the Drake Passage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 116.66666666667px">
+<div style="width: 116.66666666667px">
+<div class="thumb" style="width: 114.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Drake5.JPG"><img alt="" data-file-height="1000" data-file-width="956" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Drake5.JPG/172px-Drake5.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Drake5.JPG/258px-Drake5.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Drake5.JPG/344px-Drake5.JPG 2x" width="115"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Humpback_whale" title="Humpback whale">Humpback whales</a> are a common sight in the Drake Passage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 194px">
+<div style="width: 194px">
+<div class="thumb" style="width: 192px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Hourglas_dolphin_crop.jpg"><img alt="" data-file-height="1000" data-file-width="1600" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hourglas_dolphin_crop.jpg/288px-Hourglas_dolphin_crop.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hourglas_dolphin_crop.jpg/432px-Hourglas_dolphin_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hourglas_dolphin_crop.jpg/576px-Hourglas_dolphin_crop.jpg 2x" width="192"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hourglass_dolphin" title="Hourglass dolphin">Hourglass dolphins</a> leaping in the Passage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 112.66666666667px">
+<div style="width: 112.66666666667px">
+<div class="thumb" style="width: 110.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Drake_Passage_-_Lambert_Azimuthal_projection.png"><img alt="" data-file-height="562" data-file-width="517" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drake_Passage_-_Lambert_Azimuthal_projection.png/166px-Drake_Passage_-_Lambert_Azimuthal_projection.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drake_Passage_-_Lambert_Azimuthal_projection.png/248px-Drake_Passage_-_Lambert_Azimuthal_projection.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drake_Passage_-_Lambert_Azimuthal_projection.png/331px-Drake_Passage_-_Lambert_Azimuthal_projection.png 2x" width="111"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Drake Passage or <i>Mar de Hoces</i> between <a href="/wiki/South_America" title="South America">South America</a> and <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 122px">
+<div style="width: 122px">
+<div class="thumb" style="width: 120px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Drake_Passage_-_Orthographic_projection.png"><img alt="" data-file-height="487" data-file-width="488" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Drake_Passage_-_Orthographic_projection.png/180px-Drake_Passage_-_Orthographic_projection.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Drake_Passage_-_Orthographic_projection.png/271px-Drake_Passage_-_Orthographic_projection.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Drake_Passage_-_Orthographic_projection.png/361px-Drake_Passage_-_Orthographic_projection.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Drake Passage</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drake_Passage&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Francis_Drake" title="Francis Drake">Francis Drake</a></li>
+<li><a href="/wiki/Garcia_de_Nodal_expedition" title="Garcia de Nodal expedition">García de Nodal</a></li>
+<li><a href="/wiki/Strait_of_Magellan" title="Strait of Magellan">Strait of Magellan</a></li>
+<li><a href="/wiki/Beagle_Channel" title="Beagle Channel">Beagle Channel</a></li>
+<li><a href="/wiki/Bransfield_Strait" title="Bransfield Strait">Bransfield Strait</a></li>
+<li><a href="/wiki/Sars_Bank" title="Sars Bank">Sars Bank</a></li>
+<li><a href="/wiki/Elizabeth_Island_(Cape_Horn)" title="Elizabeth Island (Cape Horn)">Elizabeth Island</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drake_Passage&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Oyarzun-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oyarzun_1-0">^</a></b></span> <span class="reference-text">Oyarzun, Javier, <i>Expediciones españolas al Estrecho de Magallanes y Tierra de Fuego</i>, 1976, Madrid: Ediciones Cultura Hispánica <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/84-7232-130-4" title="Special:BookSources/84-7232-130-4">84-7232-130-4</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Helen Briggs (21 April 2006). <a class="external text" href="http://news.bbc.co.uk/1/hi/sci/tech/4928010.stm" rel="nofollow">"Fossil gives clue to big chill"</a>. BBC News<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Fossil+gives+clue+to+big+chill&amp;rft.date=2006-04-21&amp;rft.au=Helen+Briggs&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fsci%2Ftech%2F4928010.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Passage"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drake_Passage&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Drake_Passage" title="commons:Category:Drake Passage">Drake Passage</a> at Wikimedia Commons</p>
+<ul>
+<li><a class="external text" href="http://www.noc.soton.ac.uk/JRD/HYDRO/drake/index.php" rel="nofollow">National Oceanography Centre, Southampton page of the important and complex bathymetry of the Passage</a></li>
+<li><a class="external text" href="https://visibleearth.nasa.gov/view.php?id=52534" rel="nofollow">A NASA image of an eddy in the Passage</a></li>
+<li><a class="external text" href="https://www.fnmoc.navy.mil/PUBLIC/SATELLITE/GEO/sat_spole.html" rel="nofollow">Larger-scale images of the passage from the US Navy (Rain, ice edge and wind images)</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Drake_Passage&amp;params=58_34_49_S_65_54_34_W_type:waterbody_scale:10000000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">58°34′49″S</span> <span class="longitude">65°54′34″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">58.58028°S 65.90944°W</span><span style="display:none">﻿ / <span class="geo">-58.58028; -65.90944</span></span></span></a></span></span></span></p>
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20171104234607
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.215 seconds
+Preprocessor visited node count: 713/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9540/2097152 bytes
+Template argument size: 731/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 3.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  191.718      1 -total
+ 29.46%   56.481      1 Template:Reflist
+ 20.39%   39.093      1 Template:Refimprove
+ 15.15%   29.054      3 Template:Convert
+ 14.79%   28.354      1 Template:Cite_news
+ 13.46%   25.797      1 Template:Ambox
+ 11.05%   21.184      1 Template:ISBN
+ 11.02%   21.130      1 Template:Commonscat-inline
+  9.30%   17.823      1 Template:Sister-inline
+  6.09%   11.667      1 Template:Coord
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:330453-0!canonical and timestamp 20171104234607 and revision id 795119152
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Drake_Passage&amp;oldid=795119152">https://en.wikipedia.org/w/index.php?title=Drake_Passage&amp;oldid=795119152</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Francis_Drake" title="Category:Francis Drake">Francis Drake</a></li><li><a href="/wiki/Category:Straits_of_Chile" title="Category:Straits of Chile">Straits of Chile</a></li><li><a href="/wiki/Category:Straits_of_Antarctica" title="Category:Straits of Antarctica">Straits of Antarctica</a></li><li><a href="/wiki/Category:Bodies_of_water_of_Magallanes_y_la_Ant%C3%A1rtica_Chilena_Region" title="Category:Bodies of water of Magallanes y la Antártica Chilena Region">Bodies of water of Magallanes y la Antártica Chilena Region</a></li><li><a href="/wiki/Category:Landforms_of_Tierra_del_Fuego_Province,_Argentina" title="Category:Landforms of Tierra del Fuego Province, Argentina">Landforms of Tierra del Fuego Province, Argentina</a></li><li><a href="/wiki/Category:Borders_of_Chile" title="Category:Borders of Chile">Borders of Chile</a></li><li><a href="/wiki/Category:Antarctic_region" title="Category:Antarctic region">Antarctic region</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2015" title="Category:Articles needing additional references from March 2015">Articles needing additional references from March 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Drake+Passage" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Drake+Passage" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Drake_Passage" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Drake_Passage" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Drake_Passage">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Drake_Passage&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Drake_Passage&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Drake_Passage" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Drake_Passage" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Drake_Passage&amp;oldid=795119152" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Drake_Passage&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q143650" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Drake_Passage&amp;id=795119152" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Drake+Passage">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Drake+Passage&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Drake_Passage&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Drake_Passage" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%85%D8%B1_%D8%AF%D8%B1%D9%8A%D9%83" hreflang="ar" lang="ar" title="ممر دريك – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Dreyk_bo%C4%9Faz%C4%B1" hreflang="az" lang="az" title="Dreyk boğazı – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D0%BA_%D0%B1%D0%BE%D2%93%D0%B0%D2%99%D1%8B" hreflang="ba" lang="ba" title="Дрейк боғаҙы – Bashkir">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BB%D1%96%D1%9E_%D0%94%D1%80%D1%8D%D0%B9%D0%BA%D0%B0" hreflang="be" lang="be" title="Праліў Дрэйка – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BB%D1%96%D1%9E_%D0%94%D1%80%D1%8D%D0%B9%D0%BA%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Праліў Дрэйка – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D0%BA_(%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA)" hreflang="bg" lang="bg" title="Дрейк (проток) – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bo"><a class="interlanguage-link-target" href="https://bo.wikipedia.org/wiki/%E0%BD%8F%E0%BD%B2%E0%BC%8B%E0%BD%A2%E0%BD%BA%E0%BC%8B%E0%BD%81%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%9A%E0%BD%BC%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BD%82" hreflang="bo" lang="bo" title="ཏི་རེ་ཁི་མཚོ་འགག – Tibetan">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Drakeov_prolaz" hreflang="bs" lang="bs" title="Drakeov prolaz – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Tremen_Drake" hreflang="br" lang="br" title="Tremen Drake – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Passatge_de_Drake" hreflang="ca" lang="ca" title="Passatge de Drake – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Drake%C5%AFv_pr%C5%AFliv" hreflang="cs" lang="cs" title="Drakeův průliv – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Drakestr%C3%A6det" hreflang="da" lang="da" title="Drakestrædet – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Drakestra%C3%9Fe" hreflang="de" lang="de" title="Drakestraße – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Drake%27i_v%C3%A4in" hreflang="et" lang="et" title="Drake'i väin – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%BF%CF%81%CE%B8%CE%BC%CF%8C%CF%82_%CF%84%CE%BF%CF%85_%CE%9D%CF%84%CF%81%CE%AD%CE%B9%CE%BA" hreflang="el" lang="el" title="Πορθμός του Ντρέικ – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pasaje_de_Drake" hreflang="es" lang="es" title="Pasaje de Drake – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Drake-pasejo" hreflang="eo" lang="eo" title="Drake-pasejo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Drake_pasaia" hreflang="eu" lang="eu" title="Drake pasaia – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B0%D8%B1%DA%AF%D8%A7%D9%87_%D8%AF%D8%B1%DB%8C%DA%A9" hreflang="fa" lang="fa" title="گذرگاه دریک – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Passage_de_Drake" hreflang="fr" lang="fr" title="Passage de Drake – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Drakestrjitte" hreflang="fy" lang="fy" title="Drakestrjitte – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Pasaxe_de_Drake" hreflang="gl" lang="gl" title="Pasaxe de Drake – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%93%9C%EB%A0%88%EC%9D%B4%ED%81%AC_%ED%95%B4%ED%98%91" hreflang="ko" lang="ko" title="드레이크 해협 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B4%D6%80%D5%A5%D5%B5%D6%84%D5%AB_%D5%B6%D5%A5%D5%B2%D5%B8%D6%82%D6%81" hreflang="hy" lang="hy" title="Դրեյքի նեղուց – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%95_%E0%A4%9C%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97" hreflang="hi" lang="hi" title="ड्रेक जलमार्ग – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Drakeov_prolaz" hreflang="hr" lang="hr" title="Drakeov prolaz – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Selat_Drake" hreflang="id" lang="id" title="Selat Drake – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Drakesund" hreflang="is" lang="is" title="Drakesund – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Canale_di_Drake" hreflang="it" lang="it" title="Canale di Drake – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%91%D7%A8_%D7%93%D7%A8%D7%99%D7%99%D7%A7" hreflang="he" lang="he" title="מעבר דרייק – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%A0%E1%83%94%E1%83%98%E1%83%99%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%A0%E1%83%A3%E1%83%A2%E1%83%94" hreflang="ka" lang="ka" title="დრეიკის სრუტე – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D0%BA_%D0%B1%D2%B1%D2%93%D0%B0%D0%B7%D1%8B" hreflang="kk" lang="kk" title="Дрейк бұғазы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D0%BA_%D0%BA%D1%8B%D1%81%D1%8B%D0%B3%D1%8B" hreflang="ky" lang="ky" title="Дрейк кысыгы – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Fretum_Drakeanum" hreflang="la" lang="la" title="Fretum Drakeanum – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Dreika_%C5%A1aurums" hreflang="lv" lang="lv" title="Dreika šaurums – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Dreiko_s%C4%85siauris" hreflang="lt" lang="lt" title="Dreiko sąsiauris – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Drake-%C3%A1tj%C3%A1r%C3%B3" hreflang="hu" lang="hu" title="Drake-átjáró – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D1%98%D0%BA%D0%BE%D0%B2_%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%BD" hreflang="mk" lang="mk" title="Дрејков Премин – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Straat_Drake" hreflang="nl" lang="nl" title="Straat Drake – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AC%E3%83%BC%E3%82%AF%E6%B5%B7%E5%B3%A1" hreflang="ja" lang="ja" title="ドレーク海峡 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-ce"><a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D0%BA%D0%B0%D0%BD_%D1%85%D0%B8%D0%B4%D0%BE%D1%8C%D0%BA%D1%8A%D0%B5" hreflang="ce" lang="ce" title="Дрейкан хидоькъе – Chechen">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Drakestredet" hreflang="no" lang="no" title="Drakestredet – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Drakesundet" hreflang="nn" lang="nn" title="Drakesundet – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Dreyk_bo%CA%BBg%CA%BBozi" hreflang="uz" lang="uz" title="Dreyk boʻgʻozi – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Cie%C5%9Bnina_Drake%E2%80%99a" hreflang="pl" lang="pl" title="Cieśnina Drake’a – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Passagem_de_Drake" hreflang="pt" lang="pt" title="Passagem de Drake – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Str%C3%A2mtoarea_Drake" hreflang="ro" lang="ro" title="Strâmtoarea Drake – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%94%D1%80%D0%B5%D0%B9%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Пролив Дрейка – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Drake_Passage" hreflang="sco" lang="sco" title="Drake Passage – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Drake_Passage" hreflang="simple" lang="simple" title="Drake Passage – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Drakov_prieliv" hreflang="sk" lang="sk" title="Drakov prieliv – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Drakov_preliv" hreflang="sl" lang="sl" title="Drakov preliv – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D1%98%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%BB%D0%B0%D0%B7" hreflang="sr" lang="sr" title="Дрејков пролаз – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Drakeov_prolaz" hreflang="sh" lang="sh" title="Drakeov prolaz – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Drakensalmi" hreflang="fi" lang="fi" title="Drakensalmi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Drakes_sund" hreflang="sv" lang="sv" title="Drakes sund – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D0%BA_%D0%B1%D1%83%D0%B3%D0%B0%D0%B7%D1%8B" hreflang="tt" lang="tt" title="Дрейк бугазы – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%A3%E0%B8%81" hreflang="th" lang="th" title="ช่องแคบเดรก – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Drake_Bo%C4%9Faz%C4%B1" hreflang="tr" lang="tr" title="Drake Boğazı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%B0_%D0%94%D1%80%D0%B5%D0%B9%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Протока Дрейка – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%AF%D8%B2%D8%B1%DA%AF%D8%A7%DB%81_%DA%88%D8%B1%DB%8C%DA%A9" hreflang="ur" lang="ur" title="گزرگاہ ڈریک – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Eo_bi%E1%BB%83n_Drake" hreflang="vi" lang="vi" title="Eo biển Drake – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Aragian_Drake" hreflang="war" lang="war" title="Aragian Drake – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%88%B4%E5%9F%BA%E6%B5%B7%E5%B3%BD" hreflang="zh-yue" lang="zh-yue" title="戴基海峽 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E9%9B%B7%E5%85%8B%E6%B5%B7%E5%B3%A1" hreflang="zh" lang="zh" title="德雷克海峡 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q143650#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 August 2017, at 03:57.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Drake_Passage&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.215","ppvisitednodes":{"value":713,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9540,"limit":2097152},"templateargumentsize":{"value":731,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  191.718      1 -total"," 29.46%   56.481      1 Template:Reflist"," 20.39%   39.093      1 Template:Refimprove"," 15.15%   29.054      3 Template:Convert"," 14.79%   28.354      1 Template:Cite_news"," 13.46%   25.797      1 Template:Ambox"," 11.05%   21.184      1 Template:ISBN"," 11.02%   21.130      1 Template:Commonscat-inline","  9.30%   17.823      1 Template:Sister-inline","  6.09%   11.667      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.054","limit":"10.000"},"limitreport-memusage":{"value":3500410,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20171104234607","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":292,"wgHostname":"mw1243"});});</script>
+</body>
+</html>

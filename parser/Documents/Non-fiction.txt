@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Non-fiction - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Non-fiction","wgTitle":"Non-fiction","wgCurRevisionId":809235391,"wgRevisionId":809235391,"wgArticleId":21857,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses editors parameter","All articles with unsourced statements","Articles with unsourced statements from February 2015","Commons category with local link different than on Wikidata","Non-fiction","Genres"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Non-fiction","wgRelevantArticleId":21857,"wgRequestId":"WgI23wpAADkAACPZYcYAAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q213051","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Non-fiction" rel="alternate"/>
+<link href="/w/index.php?title=Non-fiction&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Non-fiction&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Non-fiction" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Non-fiction rootpage-Non-fiction vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Non-fiction</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Non-fiction_(disambiguation)" title="Non-fiction (disambiguation)">Non-fiction (disambiguation)</a>.</div>
+<p><b>Non-fiction</b> or <b>nonfiction</b> is <a href="/wiki/Content_(media)" title="Content (media)">content</a> (sometimes, in the form of a <a href="/wiki/Narrative" title="Narrative">story</a>) whose creator, in <a href="/wiki/Good_faith" title="Good faith">good faith</a>, assumes responsibility for the truth or accuracy of the events, people, or information presented.<sup class="reference" id="cite_ref-litfiction_1-0"><a href="#cite_note-litfiction-1">[1]</a></sup> In contrast, a story whose creator explicitly leaves open if and how the work refers to reality is usually classified as <a href="/wiki/Fiction" title="Fiction">fiction</a>.<sup class="reference" id="cite_ref-litfiction_1-1"><a href="#cite_note-litfiction-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Nonfiction, which may be presented either <a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">objectively</a> or <a href="/wiki/Subjectivity" title="Subjectivity">subjectively</a>, is traditionally one of the two main divisions of narratives (and, specifically, <a href="/wiki/Prose" title="Prose">prose</a> writing),<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> the other traditional division being <a href="/wiki/Fiction" title="Fiction">fiction</a>, which contrasts with nonfiction by dealing in information, events, and characters expected to be partly or largely imaginary.</p>
+<p>Nonfiction's specific factual assertions and descriptions may or may not be accurate, and can give either a <a href="/wiki/Truth" title="Truth">true</a> or a <a href="/wiki/Lie" title="Lie">false</a> account of the subject in question. However, authors of such accounts genuinely believe or claim them to be truthful at the time of their composition or, at least, pose them to a convinced audience as <a href="/wiki/History" title="History">historically</a> or <a class="mw-redirect" href="/wiki/Empirical" title="Empirical">empirically</a> factual. Reporting the <a href="/wiki/Belief" title="Belief">beliefs</a> of others in a nonfiction format is not necessarily an endorsement of the ultimate veracity of those beliefs, it is simply saying it is true that people believe them (for such topics as <a href="/wiki/Mythology" title="Mythology">mythology</a>). Nonfiction can also be written about <a href="/wiki/Fiction" title="Fiction">fiction</a>, typically known as <a href="/wiki/Literary_criticism" title="Literary criticism">literary criticism</a>, giving information and analysis on these other works. Nonfiction need not necessarily be written <a href="/wiki/Text_(literary_theory)" title="Text (literary theory)">text</a>, since <a class="mw-redirect" href="/wiki/Picture" title="Picture">pictures</a> and <a href="/wiki/Film" title="Film">film</a> can also purport to present a factual account of a subject.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Distinctions"><span class="tocnumber">1</span> <span class="toctext">Distinctions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Major_types"><span class="tocnumber">2</span> <span class="toctext">Major types</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Distinctions">Distinctions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Non-fiction&amp;action=edit&amp;section=1" title="Edit section: Distinctions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The numerous <a class="mw-redirect" href="/wiki/Literary" title="Literary">literary</a> and creative devices used within fiction are generally thought inappropriate for use in nonfiction. They are still present particularly in older works but they are often muted so as not to overshadow the information within the work. Simplicity, clarity and directness are some of the most important considerations when producing nonfiction. Audience is important in any artistic or descriptive endeavor, but it is perhaps most important in nonfiction. In fiction, the writer believes that readers will make an effort to follow and interpret an indirectly or abstractly presented progression of theme, whereas the production of nonfiction has more to do with the direct provision of information. Understanding of the potential readers' use for the work and their existing knowledge of a subject are both fundamental for effective nonfiction. Despite the truth of nonfiction, it is often necessary to persuade the reader to agree with the ideas and so a balanced, coherent and informed argument is vital. However, the boundaries between fiction and nonfiction are continually blurred and argued upon, especially in the field of biography;<sup class="reference" id="cite_ref-The_Art_of_Life_4-0"><a href="#cite_note-The_Art_of_Life-4">[4]</a></sup> as <a href="/wiki/Virginia_Woolf" title="Virginia Woolf">Virginia Woolf</a> said: "if we think of truth as something of granite-like solidity and of personality as something of rainbow-like intangibility and reflect that the aim of biography is to weld these two into one seamless whole, we shall admit that the problem is a stiff one and that we need not wonder if biographers, for the most part failed to solve it."<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>Semi-fiction is fiction implementing a great deal of nonfiction,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> e.g. a fictional description based on a true story.</p>
+<h2><span class="mw-headline" id="Major_types">Major types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Non-fiction&amp;action=edit&amp;section=2" title="Edit section: Major types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Common literary examples of nonfiction include <a class="mw-redirect" href="/wiki/Expository_writing" title="Expository writing">expository</a>, <a href="/wiki/Rhetorical_modes#argument" title="Rhetorical modes">argumentative</a>, functional, and <a href="/wiki/Opinion_piece" title="Opinion piece">opinion pieces</a>; <a href="/wiki/Essay" title="Essay">essays</a> on art or literature; <a href="/wiki/Biography" title="Biography">biographies</a>; <a href="/wiki/Memoir" title="Memoir">memoirs</a>; <a href="/wiki/Journalism" title="Journalism">journalism</a>; and historical, <a href="/wiki/Scientific_writing" title="Scientific writing">scientific</a>, <a href="/wiki/Technical_writing" title="Technical writing">technical</a>, or economic writings (including electronic ones).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Journals, <a href="/wiki/Photograph" title="Photograph">photographs</a>, <a href="/wiki/Textbook" title="Textbook">textbooks</a>, <a class="mw-redirect" href="/wiki/Travel_books" title="Travel books">travel books</a>, <a href="/wiki/Blueprint" title="Blueprint">blueprints</a>, and <a href="/wiki/Diagram" title="Diagram">diagrams</a> are also often considered non-fictional.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2015)">citation needed</span></a></i>]</sup> Including information that the author knows to be untrue within any of these works is usually regarded as dishonest. Other works can legitimately be either fiction or nonfiction, such as journals of self-expression, <a href="/wiki/Letter_(message)" title="Letter (message)">letters</a>, <a href="/wiki/Magazine" title="Magazine">magazine</a> articles, and other expressions of imagination. Though they are mostly either one or the other, it is possible for there to be a blend of both. Some fiction may include nonfictional elements. Some nonfiction may include elements of unverified <a class="mw-redirect" href="/wiki/Supposition" title="Supposition">supposition</a>, <a href="/wiki/Deductive_reasoning" title="Deductive reasoning">deduction</a>, or <a href="/wiki/Imagination" title="Imagination">imagination</a> for the purpose of smoothing out a <a href="/wiki/Narrative" title="Narrative">narrative</a>, but the inclusion of open falsehoods would discredit it as a work of nonfiction. The publishing and bookselling business sometimes uses the phrase "literary nonfiction" to distinguish works with a more literary or intellectual bent, as opposed to the greater collection of nonfiction subjects.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Nontraditional: Health Security Name Institutional Affiliation</p>
+<p><br/></p>
+<p><br/></p>
+<p><br/></p>
+<p><br/></p>
+<p><br/></p>
+<p>Nontraditional: Health threats After the early cold war, human security got added to the international security agenda. Threats to a country were no longer perceived as military based. According to Jinping (2014), non-military threats, also known as non-traditional threats began to get factored. Among the most common nontraditional security threats included environmental security, climate change, pandemics and social issues. Among all the mentioned security threats, health security is one of the most popular risks in developing countries especially in Asia (Collins, 2016). Whether intentionally inflicted or naturally occurring, microbial agents possess the ability to cause sickness, disability, and death in individuals while disrupting state economies, governments, and entire populations. In the highly unified and readily traversed ‘world village’ of the modern era, one country’s problem soon becomes every other country’s crisis as political and geographical boundaries offer minor impediments to such threats. It is important to highlight the social risks posed by health security, as a traditional and nontraditional. It is also imperative to focus why some countries need to be wary of the impending threats from poor health security programs. Health security is considered as a nontraditional health threat because it is a modern concept in national security compared to traditional ideas such as military threats. Health security is also regarded as non-traditional because it does not directly affect a country’s security. The world underwent significant shifts in the 20th century in the form of two deadly and reserves draining world wars. The formation of a bipolar world, proxy wars, emergence of the United States as a sole world superpower and the end of the cold war. However, in the early twentieth century, the impact of intra-state conflicts, the rise of non-state actors, environmental degeneration demographic changes and the swiftly escalating cyber warfare arena replaced the main threats to a country’s security. The critical changes in the 21st century made significant focus shift on security unlike the previous times, in which the most feared security threats were other nation’s militaries. Health threat is therefore considered a nontraditional or a modern security threat because it came into the spotlight as a national threat in the early twentieth century. Health security is also directly affected by other nontraditional health threats such as climate change and environmental degradation. In the modern times, nations view and treat national security as an unconventional security threat due to significant changes that cause occurrence and spread of diseases and other national pandemics. In the recent past, the United Arab Emirates and the entire Gulf region have experienced a wave of political conflicts which have led to shocking events such as the Arab revolution. After the discovery of oil and gas reserved in the UAE, the region underwent a significant pattern shift from an impoverished desert region to the sprawling tarmac and skyscraper cities. The rapid cultural and economic transformation is a substantial reason for dilapidation of health security in the UAE. According to the WHO, a normal UAE man life expectancy is 76 years while a third of the male inhabitants suffer from some form of health issue. The world health organization also reports that the most frequent health complication is cardiovascular disease. A study by the world health association also indicates that one in four UAE men have poor sperm quality, a condition which gets caused by poor diet and the region’s scorching temperatures. The other reason the United Arab Emirates need to worry about nontraditional health issues is due to the rising number of immigrants (Heymann, Chen, Takemi, Fidler, Tappero, Thomas &amp; Kalache, 2015). In the early twenties century, the UAE was relatively a small region with few thousand citizens, but the economic boom caused a rise in labor demand which saw many workers and investors move to the area. The new visitors may bring and spread new infectious diseases such as tuberculosis and Aids into the UAE. Another reason the United Arab Emirates need to be concerned about traditional threats from health security is environmental degradation, particularly climate change and its impacts. Burgeoning energy needs and rising population in the UAE has led to excessive depletion of resources and overdevelopment of land, a factor which directly affects the health of its citizens. Climate change has taken a very vital importance in the UAE, a region which is naturally hot due to its geographical location (Kickbusch, Orbinski, Winkler &amp; Schnabel, 2015). Lack of clean water sources in the UAE is another critical health concern that should worry the government. As the saying goes “water is life,” lack of fresh water sources guarantees occurrence and spread of water bound diseases such as typhoid and cholera. While most government officials solely focused on military based and terror threats, the condition might be eating through UAE security undetected. According to Kutzin &amp; Sparkes (2016), the Inadequate medical staff is another health security threat in the United Arab Emirates. As health experts estimate, if demand for healthcare services rises, then logic dictates that more doctors and medical specialists are needed to cope in a region that does not produce enough graduates and depends on medical staff from abroad. Studies indicate that a shortage of nurses and midwives still exist despite a campaign to make the medical profession more attractive and lucrative through initiatives such as better salaries and working conditions (Maier-Knapp, 2014). Recent studies show that there are over 803,000 diabetics in the United Arab Emirates; the research by the International Diabetics Federation suggests that the number will rise by more than 80 percent to 3 million by 2035 unless action gets taken. Studies indicate that the rate of obesity in the UAE is almost double that of the entire world. Obesity is an effect of pitiable diet and lack of exercise, habits caused by the affluent lifestyle by the UAE nationals. Cancer is another reason the UAE should worry about traditional security; it is one of the most common killers in the Gulf region. According to Health Authority Abu Dhabi research, women accounted for about 45 percent of the total cancer-related deaths in the UAE, with breast cancer the most common in blood and lung cancers. In conclusion, the UAE should, and other developing nations should embrace the need to strengthen disease surveillance to stop and prevent disease spread. Zimmerman, (2016) indicates that the UAE capacity to deal with microbial threats to national health is contingent on a national health infrastructure that has declined due to many years of neglect and ignorance. The UAE government and other developing countries should upgrade their existing domestic health programs which require increased investment across diverse levels of government. Support will have to get regularly sustained. The UAE also has an opportunity to develop new policies and programs that will both protect against disease and aid in the fast and reliable treatment of diseases.</p>
+<p>References Collins, A. (2016). Contemporary security studies. Oxford university press. Heymann, D. L., Chen, L., Takemi, K., Fidler, D. P., Tappero, J. W., Thomas, M. J., ... &amp; Kalache, A. (2015). International health security: the broader lessons from the West African Ebola virus disease epidemic. The Lancet, 385(9980), 1884-1901. Jinping, X. (2014, May). New Asian security idea for further progress in security cooperation. In remarks at the Fourth Summit of the Conference on Interaction and Confidence Building Measures in Asia, Shanghai. Kickbusch, I., Orbinski, J. Winkler, &amp; Schnabel, A. (2015). We need a sustainable development goal 18 on global health security. The Lancet, 385(9973), 1069. Kutzin, J., &amp; Sparkes, S. P. (2016). Health systems increase, universal health coverage, health security, and resilience. Bulletin of the World Health Organization, 94(1), 2. Maier-Knapp, N. (2014). Southeast Asia &amp; the European Union: non-traditional security crisis and collaboration. Routledge. Zimmerman, E. (2016). Introduction. In Think Tanks and Non-Traditional Security (pp. 1-15). Palgrave Macmillan UK.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Non-fiction&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Documentary_practice" title="Documentary practice">Documentary practice</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_non-fictional_genres" title="List of non-fictional genres">List of non-fictional genres</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Non-fiction&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Nonfiction" title="commons:Category:Nonfiction">Nonfiction</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-litfiction-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-litfiction_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-litfiction_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Farner, Geir (2014). "Chapter 2: What is Literary Fiction?". <a class="external text" href="https://books.google.com/books?id=qXXHAgAAQBAJ&amp;pg" rel="nofollow"><i>Literary Fiction: The Ways We Read Narrative Literature</i></a>. Bloomsbury Publishing USA.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+2%3A+What+is+Literary+Fiction%3F&amp;rft.btitle=Literary+Fiction%3A+The+Ways+We+Read+Narrative+Literature&amp;rft.pub=Bloomsbury+Publishing+USA&amp;rft.date=2014&amp;rft.aulast=Farner&amp;rft.aufirst=Geir&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqXXHAgAAQBAJ%26pg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANon-fiction"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Culler, Jonathan (2000). <i>Literary Theory: A Very Short Introduction</i>. Oxford University Press. p. 31. <q>Non-fictional discourse is usually embedded in a context that tells you how to take it: an instruction manual, a newspaper report, a letter from a charity. The context of fiction, though, explicitly leaves open the question of what the fiction is really about. Reference to the world is not so much a property of literary [i.e. fictional] works as a function they are given by interpretation.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Literary+Theory%3A+A+Very+Short+Introduction&amp;rft.pages=31&amp;rft.pub=Oxford+University+Press&amp;rft.date=2000&amp;rft.aulast=Culler&amp;rft.aufirst=Jonathan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANon-fiction"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.oxforddictionaries.com/definition/english/non-fiction" rel="nofollow">"Non-fiction". <i>Oxford Dictionaries</i>. Oxford University Press, 2015.</a></span></li>
+<li id="cite_note-The_Art_of_Life-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Art_of_Life_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">The Institute of Art and Ideas. <a class="external text" href="http://iai.tv/video/the-art-of-life" rel="nofollow">"The Art of Life"</a>. IAI<span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Art+of+Life&amp;rft.pub=IAI&amp;rft.au=The+Institute+of+Art+and+Ideas&amp;rft_id=http%3A%2F%2Fiai.tv%2Fvideo%2Fthe-art-of-life&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANon-fiction"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Woolf, Virginia (2010). <i>Orlando</i>. Aziloth Books. p. 134. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1907523687" title="Special:BookSources/978-1907523687">978-1907523687</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Orlando&amp;rft.pages=134&amp;rft.pub=Aziloth+Books&amp;rft.date=2010&amp;rft.isbn=978-1907523687&amp;rft.aulast=Woolf&amp;rft.aufirst=Virginia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANon-fiction"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=981296" rel="nofollow">The Role of Narrative Fiction and Semi-Fiction in Organizational Studies</a> G. Whiteman. N. Phillips. 13 2006, 12</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Susan B. Neuman and Linda B. Gambrell, eds. (2013). <a class="external text" href="https://books.google.com/books?id=mzbNGWVonZIC&amp;dq" rel="nofollow"><i>Quality Reading Instruction in the Age of Common Core Standards</i></a>. International Reading Association. p. 46.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quality+Reading+Instruction+in+the+Age+of+Common+Core+Standards&amp;rft.pages=46&amp;rft.pub=International+Reading+Association&amp;rft.date=2013&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DmzbNGWVonZIC%26dq&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANon-fiction"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.us.penguingroup.com/static/pages/publishers/adult/penguinpress.html" rel="nofollow">www.us.penguingroup.com</a></span></li>
+</ol>
+</div>
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Non-fiction&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/non-fiction" title="wiktionary:Special:Search/non-fiction">non-fiction</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks infobox" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em"><a class="mw-redirect" href="/wiki/Wikipedia:LIBRARY" title="Wikipedia:LIBRARY">Library resources</a> about<br/>
+<b>Nonfiction</b>
+<hr/></td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left;">
+<ul>
+<li><a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=Non-fiction">Resources in your library</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="https://www.creativenonfiction.org/what-creative-nonfiction" rel="nofollow">What is Creative Nonfiction?</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1315
+Cached time: 20171107223233
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 762/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15500/2097152 bytes
+Template argument size: 923/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.068/10.000 seconds
+Lua memory usage: 3.1 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  199.324      1 -total
+ 34.12%   68.000      1 Template:Reflist
+ 24.67%   49.165      4 Template:Cite_book
+ 21.37%   42.586      1 Template:Citation_needed
+ 19.55%   38.977      1 Template:Fix
+ 14.86%   29.618      1 Template:Commons_category
+ 12.53%   24.978      1 Template:Other_uses
+ 12.02%   23.954      2 Template:Category_handler
+  6.31%   12.586      1 Template:Delink
+  5.94%   11.849      1 Template:Library_resources_box
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21857-0!canonical and timestamp 20171107223242 and revision id 809235391
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Non-fiction&amp;oldid=809235391">https://en.wikipedia.org/w/index.php?title=Non-fiction&amp;oldid=809235391</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Non-fiction" title="Category:Non-fiction">Non-fiction</a></li><li><a href="/wiki/Category:Genres" title="Category:Genres">Genres</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2015" title="Category:Articles with unsourced statements from February 2015">Articles with unsourced statements from February 2015</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Non-fiction" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Non-fiction" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Non-fiction" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Non-fiction" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Non-fiction">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Non-fiction&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Non-fiction&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Non-fiction" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Non-fiction" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Non-fiction&amp;oldid=809235391" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Non-fiction&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q213051" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Non-fiction&amp;id=809235391" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Non-fiction">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Non-fiction&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Non-fiction&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Non-fiction" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Hui-hi-k%C3%B2%CD%98-l%C5%ABi" hreflang="zh-min-nan" lang="zh-min-nan" title="Hui-hi-kò͘-lūi – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Di_piksiyon" hreflang="ceb" lang="ceb" title="Di piksiyon – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%BA%DB%8C%D8%B1%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C" hreflang="fa" lang="fa" title="غیرداستانی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Non-fiksje" hreflang="fy" lang="fy" title="Non-fiksje – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Neamhfhicsean" hreflang="ga" lang="ga" title="Neamhfhicsean – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%85%BC%ED%94%BD%EC%85%98" hreflang="ko" lang="ko" title="논픽션 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%A5%E0%A5%87%E0%A4%A4%E0%A4%B0_%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF" hreflang="hi" lang="hi" title="कथेतर साहित्य – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Non-fiksi" hreflang="id" lang="id" title="Non-fiksi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%A2%D7%99%D7%95%D7%9F" hreflang="he" lang="he" title="ספר עיון – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Bukan_cereka" hreflang="ms" lang="ms" title="Bukan cereka – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Non-fictie" hreflang="nl" lang="nl" title="Non-fictie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3" hreflang="ja" lang="ja" title="ノンフィクション – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%88%E0%A8%B0-%E0%A8%97%E0%A8%B2%E0%A8%AA" hreflang="pa" lang="pa" title="ਗੈਰ-ਗਲਪ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/N%C3%A3o_fic%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Não ficção – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Non-fiction" hreflang="simple" lang="simple" title="Non-fiction – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%BA%DB%8C%D8%B1_%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%88%DB%8C_%D8%A7%D8%AF%D8%A8" hreflang="ur" lang="ur" title="غیر افسانوی ادب – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Phi_h%C6%B0_c%E1%BA%A5u" hreflang="vi" lang="vi" title="Phi hư cấu – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9D%9E%E8%99%9B%E6%A7%8B%E4%BD%9C%E5%93%81" hreflang="zh" lang="zh" title="非虛構作品 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q213051#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 7 November 2017, at 22:32.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Non-fiction&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.224","ppvisitednodes":{"value":762,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15500,"limit":2097152},"templateargumentsize":{"value":923,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  199.324      1 -total"," 34.12%   68.000      1 Template:Reflist"," 24.67%   49.165      4 Template:Cite_book"," 21.37%   42.586      1 Template:Citation_needed"," 19.55%   38.977      1 Template:Fix"," 14.86%   29.618      1 Template:Commons_category"," 12.53%   24.978      1 Template:Other_uses"," 12.02%   23.954      2 Template:Category_handler","  6.31%   12.586      1 Template:Delink","  5.94%   11.849      1 Template:Library_resources_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.068","limit":"10.000"},"limitreport-memusage":{"value":3248410,"limit":52428800}},"cachereport":{"origin":"mw1315","timestamp":"20171107223233","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1262"});});</script>
+</body>
+</html>

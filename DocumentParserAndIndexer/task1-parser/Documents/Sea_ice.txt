@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sea ice - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sea_ice","wgTitle":"Sea ice","wgCurRevisionId":806508318,"wgRevisionId":806508318,"wgArticleId":343225,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2012","Wikipedia articles with GND identifiers","Articles containing video clips","Sea ice","Aquatic ecology","Earth phenomena","Bodies of ice","Oceanographical terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sea_ice","wgRelevantArticleId":343225,"wgRequestId":"WgFQkApAICwAAHXPCkAAAACR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q213926","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.page.gallery","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arctic_ice.jpg/1200px-Arctic_ice.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sea_ice" rel="alternate"/>
+<link href="/w/index.php?title=Sea_ice&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sea_ice&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sea_ice" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sea_ice rootpage-Sea_ice vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sea ice</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Arctic_ice.jpg"><img alt="" class="thumbimage" data-file-height="2823" data-file-width="4251" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arctic_ice.jpg/300px-Arctic_ice.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arctic_ice.jpg/450px-Arctic_ice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arctic_ice.jpg/600px-Arctic_ice.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Arctic_ice.jpg" title="Enlarge"></a></div>
+Broken pieces of Arctic sea ice with a snow cover.</div>
+</div>
+</div>
+<p><b>Sea ice</b> arises as <a href="/wiki/Seawater" title="Seawater">seawater</a> freezes. Because <a href="/wiki/Ice" title="Ice">ice</a> is less <a href="/wiki/Density" title="Density">dense</a> than water, it floats on the ocean's surface (as does <a href="/wiki/Fresh_water" title="Fresh water">fresh water</a> ice, which has an even lower density). Sea ice covers about 7% of the Earth’s surface and about 12% of the world’s oceans.<sup class="reference" id="cite_ref-Wadhams_1-0"><a href="#cite_note-Wadhams-1">[1]</a></sup><sup class="reference" id="cite_ref-Weeks_2-0"><a href="#cite_note-Weeks-2">[2]</a></sup><sup class="reference" id="cite_ref-Shokr.26Sinha_3-0"><a href="#cite_note-Shokr.26Sinha-3">[3]</a></sup> Much of the world's sea ice is enclosed within the polar ice packs in the Earth's <a class="mw-redirect" href="/wiki/Polar_region" title="Polar region">polar regions</a>: the <a href="/wiki/Arctic_ice_pack" title="Arctic ice pack">Arctic ice pack</a> of the <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a> and the <a class="mw-redirect" href="/wiki/Antarctic_ice_pack" title="Antarctic ice pack">Antarctic ice pack</a> of the <a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a>. Polar packs undergo a significant yearly cycling in surface extent, a natural process upon which depends the <a href="/wiki/Arctic_ecology" title="Arctic ecology">Arctic ecology</a>, including the <a href="/wiki/Arctic_sea_ice_ecology_and_history" title="Arctic sea ice ecology and history">ocean's ecosystems</a>. Due to the action of winds, currents and temperature fluctuations, sea ice is very dynamic, leading to a wide variety of ice types and features. Sea ice may be contrasted with <a href="/wiki/Iceberg" title="Iceberg">icebergs</a>, which are chunks of <a href="/wiki/Ice_shelf" title="Ice shelf">ice shelves</a> or <a href="/wiki/Glacier" title="Glacier">glaciers</a> that <a href="/wiki/Ice_calving" title="Ice calving">calve</a> into the ocean. Depending on location, sea ice expanses may also incorporate icebergs.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_features_and_dynamics"><span class="tocnumber">1</span> <span class="toctext">General features and dynamics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Fast_ice_versus_drift_.28or_pack.29_ice"><span class="tocnumber">1.1</span> <span class="toctext">Fast ice versus drift (or pack) ice</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Classification_based_on_age"><span class="tocnumber">1.2</span> <span class="toctext">Classification based on age</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#New_ice.2C_nilas_and_young_ice"><span class="tocnumber">1.2.1</span> <span class="toctext">New ice, nilas and young ice</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#First-year_sea_ice"><span class="tocnumber">1.2.2</span> <span class="toctext">First-year sea ice</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Old_sea_ice"><span class="tocnumber">1.2.3</span> <span class="toctext">Old sea ice</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Driving_forces"><span class="tocnumber">1.3</span> <span class="toctext">Driving forces</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Deformation"><span class="tocnumber">1.4</span> <span class="toctext">Deformation</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Leads_and_polynyas"><span class="tocnumber">1.5</span> <span class="toctext">Leads and polynyas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Formation"><span class="tocnumber">2</span> <span class="toctext">Formation</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Yearly_freeze_and_melt_cycle"><span class="tocnumber">3</span> <span class="toctext">Yearly freeze and melt cycle</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Monitoring_and_observations"><span class="tocnumber">4</span> <span class="toctext">Monitoring and observations</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Modelling"><span class="tocnumber">5</span> <span class="toctext">Modelling</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Ecology"><span class="tocnumber">6</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Relationship_to_global_warming_and_climate_change"><span class="tocnumber">7</span> <span class="toctext">Relationship to global warming and climate change</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Ecology_2"><span class="tocnumber">8.1</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Geography.2Fclimatology"><span class="tocnumber">8.2</span> <span class="toctext">Geography/climatology</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Ice_types_or_features"><span class="tocnumber">8.3</span> <span class="toctext">Ice types or features</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Physics_and_chemistry"><span class="tocnumber">8.4</span> <span class="toctext">Physics and chemistry</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Applied_sciences_and_engineering_endeavours"><span class="tocnumber">8.5</span> <span class="toctext">Applied sciences and engineering endeavours</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Sea_ice_glossaries"><span class="tocnumber">10</span> <span class="toctext">Sea ice glossaries</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="General_features_and_dynamics">General features and dynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=1" title="Edit section: General features and dynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Sea_ice_Drawing_General_features.svg"><img alt="" class="thumbimage" data-file-height="250" data-file-width="804" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sea_ice_Drawing_General_features.svg/300px-Sea_ice_Drawing_General_features.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sea_ice_Drawing_General_features.svg/450px-Sea_ice_Drawing_General_features.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sea_ice_Drawing_General_features.svg/600px-Sea_ice_Drawing_General_features.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sea_ice_Drawing_General_features.svg" title="Enlarge"></a></div>
+Hypothetical sea ice dynamics scenario showing some of the most common sea ice features.</div>
+</div>
+</div>
+<p>Sea ice does not simply grow and melt. During its lifespan, it is very dynamic. Due to the combined action of winds, currents, water temperature, and air temperature fluctuations, sea ice expanses typically undergo a significant amount of deformation. Sea ice is classified according to whether or not it is able to drift, and according to its age.</p>
+<h3><span id="Fast_ice_versus_drift_(or_pack)_ice"></span><span class="mw-headline" id="Fast_ice_versus_drift_.28or_pack.29_ice">Fast ice versus drift (or pack) ice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=2" title="Edit section: Fast ice versus drift (or pack) ice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sea ice can be classified according to whether or not it is attached (or frozen) to the shoreline (or between <a href="/wiki/Shoal" title="Shoal">shoals</a> or to grounded <a href="/wiki/Iceberg" title="Iceberg">icebergs</a>). If attached, it is called landfast ice, or more often, <a href="/wiki/Fast_ice" title="Fast ice">fast ice</a> (from <i>fastened</i>). Alternatively, and unlike fast ice, <a href="/wiki/Drift_ice" title="Drift ice">drift ice</a> occurs further offshore in very wide areas, and encompasses ice that is free to move with currents and winds. The physical boundary between fast ice and drift ice is the <i>fast ice boundary</i>. The drift ice zone may be further divided into a <i>shear zone</i>, a <i>marginal ice zone</i> and a <i>central pack</i>.<sup class="reference" id="cite_ref-Lepp_4-0"><a href="#cite_note-Lepp-4">[4]</a></sup> Drift ice consists of <i>floes</i>, individual pieces of sea ice 20 metres (66 ft) or more across. There are names for various floe sizes: <i>small</i> – 20 metres (66 ft) to 100 metres (330 ft); <i>medium</i> – 100 metres (330 ft) to 500 metres (1,600 ft); <i>big</i> – 500 metres (1,600 ft) to 2,000 metres (6,600 ft); <i>vast</i> – 2 kilometres (1.2 mi) to 10 kilometres (6.2 mi); and <i>giant</i> – more than 10 kilometres (6.2 mi).<sup class="reference" id="cite_ref-NSIDC_5-0"><a href="#cite_note-NSIDC-5">[5]</a></sup><sup class="reference" id="cite_ref-ECGlossary_6-0"><a href="#cite_note-ECGlossary-6">[6]</a></sup> The term <i>pack ice</i> is used either as a synonym to <i>drift ice</i>,<sup class="reference" id="cite_ref-NSIDC_5-1"><a href="#cite_note-NSIDC-5">[5]</a></sup> or to designate drift ice zone in which the floes are densely packed.<sup class="reference" id="cite_ref-NSIDC_5-2"><a href="#cite_note-NSIDC-5">[5]</a></sup><sup class="reference" id="cite_ref-ECGlossary_6-1"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-0"><a href="#cite_note-WMO-7">[7]</a></sup> The overall sea ice cover is termed the <i>ice canopy</i> from the perspective of submarine navigation.<sup class="reference" id="cite_ref-ECGlossary_6-2"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-1"><a href="#cite_note-WMO-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Classification_based_on_age">Classification based on age</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=3" title="Edit section: Classification based on age">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another classification used by scientists to describe sea ice is based on age, that is, on its development stages. These stages are: <i>new ice</i>, <i>nilas</i>, <i>young ice</i>, <i>first-year</i> and <i>old</i>.<sup class="reference" id="cite_ref-NSIDC_5-3"><a href="#cite_note-NSIDC-5">[5]</a></sup><sup class="reference" id="cite_ref-ECGlossary_6-3"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-2"><a href="#cite_note-WMO-7">[7]</a></sup></p>
+<h4><span id="New_ice,_nilas_and_young_ice"></span><span class="mw-headline" id="New_ice.2C_nilas_and_young_ice">New ice, nilas and young ice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=4" title="Edit section: New ice, nilas and young ice">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Nilas_Sea_Ice.JPG"><img alt="" class="thumbimage" data-file-height="2304" data-file-width="3456" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nilas_Sea_Ice.JPG/220px-Nilas_Sea_Ice.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nilas_Sea_Ice.JPG/330px-Nilas_Sea_Ice.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nilas_Sea_Ice.JPG/440px-Nilas_Sea_Ice.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Nilas_Sea_Ice.JPG" title="Enlarge"></a></div>
+Nilas in <a href="/wiki/Baffin_Bay" title="Baffin Bay">Baffin Bay</a></div>
+</div>
+</div>
+<p><i>New ice</i> is a general term used for recently frozen sea water that does not yet make up solid ice. It may consist of <a href="/wiki/Frazil_ice" title="Frazil ice">frazil ice</a> (plates or spicules of ice suspended in water), <a href="/wiki/Slush" title="Slush">slush</a> (water saturated snow), or <i>shuga</i> (spongy white ice lumps a few centimeters across). Other terms, such as <a href="/wiki/Grease_ice" title="Grease ice">grease ice</a> and <a href="/wiki/Pancake_ice" title="Pancake ice">pancake ice</a>, are used for ice crystal accumulations under the action of wind and waves.</p>
+<p><i>Nilas</i> designates a sea ice crust up to 10 centimetres (3.9 in) in thickness. It bends without breaking around waves and swells. Nilas can be further subdivided into <i>dark nilas</i> – up to 5 centimetres (2.0 in) in thickness and very dark, and <i>light nilas</i> – over 5 centimetres (2.0 in) in thickness and lighter in color.</p>
+<p><i>Young ice</i> is a transition stage between nilas and first-year ice, and ranges in thickness from 10 centimetres (3.9 in) to 30 centimetres (12 in), Young ice can be further subdivided into <i>grey ice</i> – 10 centimetres (3.9 in) to 15 centimetres (5.9 in) in thickness, and <i>grey-white ice</i> – 15 centimetres (5.9 in) to 30 centimetres (12 in) in thickness. Young ice is not as flexible as nilas, but tends to break under wave action. In a compression regime, it will either raft (at the grey ice stage) or ridge (at the grey-white ice stage).</p>
+<h4><span class="mw-headline" id="First-year_sea_ice">First-year sea ice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=5" title="Edit section: First-year sea ice">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FYvsSYvsMY.svg"><img alt="" class="thumbimage" data-file-height="458" data-file-width="538" height="187" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/FYvsSYvsMY.svg/220px-FYvsSYvsMY.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/FYvsSYvsMY.svg/330px-FYvsSYvsMY.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/FYvsSYvsMY.svg/440px-FYvsSYvsMY.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FYvsSYvsMY.svg" title="Enlarge"></a></div>
+Distinction between 1st year sea ice (FY), 2nd year (SY), multiyear (MY) and old ice.</div>
+</div>
+</div>
+<p><i>First-year sea ice</i> is ice that is thicker than <i>young ice</i> but has no more than one year growth. In other words, it is ice that grows in the fall and winter (after it has gone through the <i>new ice — nilas — young ice</i> stages and grows further) but does not survive the spring and summer months (it melts away). The thickness of this ice typically ranges from 0.3 metres (0.98 ft) to 2 metres (6.6 ft).<sup class="reference" id="cite_ref-NSIDC_5-4"><a href="#cite_note-NSIDC-5">[5]</a></sup><sup class="reference" id="cite_ref-ECGlossary_6-4"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-3"><a href="#cite_note-WMO-7">[7]</a></sup> First-year ice may be further divided into <i>thin</i> (30 centimetres (0.98 ft) to 70 centimetres (2.3 ft)), <i>medium</i> (70 centimetres (2.3 ft) to 120 centimetres (3.9 ft)) and <i>thick</i> (&gt;120 centimetres (3.9 ft)).<sup class="reference" id="cite_ref-ECGlossary_6-5"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-4"><a href="#cite_note-WMO-7">[7]</a></sup></p>
+<h4><span class="mw-headline" id="Old_sea_ice">Old sea ice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=6" title="Edit section: Old sea ice">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Old sea ice</i> is sea ice that has survived at least one melting season (<i>i.e.</i> one summer). For this reason, this ice is generally thicker than first-year sea ice. Old ice is commonly divided into two types: <i>second-year ice</i>, which has survived one melting season, and <i>multiyear ice</i>, which has survived more than one. (In some sources,<sup class="reference" id="cite_ref-NSIDC_5-5"><a href="#cite_note-NSIDC-5">[5]</a></sup> <i>old ice</i> is more than 2-years old.) Multi-year ice is much more common in the Arctic than it is in the Antarctic.<sup class="reference" id="cite_ref-NSIDC_5-6"><a href="#cite_note-NSIDC-5">[5]</a></sup><sup class="reference" id="cite_ref-Wadhams2_8-0"><a href="#cite_note-Wadhams2-8">[8]</a></sup> The reason for this is that sea ice in the south drifts into warmer waters where it melts. In the Arctic, much of the sea ice is land-locked.</p>
+<h3><span class="mw-headline" id="Driving_forces">Driving forces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=7" title="Edit section: Driving forces">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While <a href="/wiki/Fast_ice" title="Fast ice">fast ice</a> is relatively stable (because it is attached to the shoreline or the seabed), <a href="/wiki/Drift_ice" title="Drift ice">drift (or pack) ice</a> undergoes relatively complex deformation processes that ultimately give rise to sea ice’s typically wide variety of landscapes. Wind is thought to be the main driving force along with ocean currents.<sup class="reference" id="cite_ref-Wadhams_1-1"><a href="#cite_note-Wadhams-1">[1]</a></sup><sup class="reference" id="cite_ref-NSIDC_5-7"><a href="#cite_note-NSIDC-5">[5]</a></sup> The <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis force</a> and sea ice surface tilt have also been invoked.<sup class="reference" id="cite_ref-NSIDC_5-8"><a href="#cite_note-NSIDC-5">[5]</a></sup> These driving forces induce a state of stress within the drift ice zone. An <a href="/wiki/Drift_ice" title="Drift ice">ice floe</a> converging toward another and pushing against it will generate a state of <i>compression</i> at the boundary between both. The ice cover may also undergo a state of <i>tension</i>, resulting in divergence and fissure opening. If two floes drift sideways past each other while remaining in contact, this will create a state of <i><a href="/wiki/Shear_(geology)" title="Shear (geology)">shear</a></i>.</p>
+<h3><span class="mw-headline" id="Deformation">Deformation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=8" title="Edit section: Deformation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sea ice deformation results from the interaction between ice floes, as they are driven against each other. The end result may be of three types of features:<sup class="reference" id="cite_ref-ECGlossary_6-6"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-5"><a href="#cite_note-WMO-7">[7]</a></sup> 1) <a href="/wiki/Finger_rafting" title="Finger rafting">Rafted ice</a>, when one piece is overriding another; 2) <a href="/wiki/Pressure_ridge_(ice)" title="Pressure ridge (ice)">Pressure ridges</a>, a line of broken ice forced downward (to make up the <i>keel</i>) and upward (to make the <i>sail</i>); and 3) <i><a href="/wiki/Hummock" title="Hummock">Hummock</a></i>, an hillock of broken ice that forms an uneven surface. A <i>shear ridge</i> is a pressure ridge that formed under shear – it tends to be more linear than a ridge induced only by compression.<sup class="reference" id="cite_ref-ECGlossary_6-7"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-6"><a href="#cite_note-WMO-7">[7]</a></sup> A <i>new ridge</i> is a recent feature — it is sharp-crested, with its side sloping at an angle exceeding 40 degrees. In contrast, a <i>weathered ridge</i> is one with a rounded crest and with sides sloping at less than 40 degrees.<sup class="reference" id="cite_ref-ECGlossary_6-8"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-7"><a href="#cite_note-WMO-7">[7]</a></sup> <a href="/wiki/Stamukha" title="Stamukha">Stamukhi</a> are yet another type of pile-up but these are grounded and are therefore relatively stationary. They result from the interaction between <a href="/wiki/Fast_ice" title="Fast ice">fast ice</a> and the drifting pack ice.</p>
+<p><i>Level ice</i> is sea ice that has not been affected by deformation, and is therefore relatively flat.<sup class="reference" id="cite_ref-ECGlossary_6-9"><a href="#cite_note-ECGlossary-6">[6]</a></sup><sup class="reference" id="cite_ref-WMO_7-8"><a href="#cite_note-WMO-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Leads_and_polynyas">Leads and polynyas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=9" title="Edit section: Leads and polynyas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Lead_(sea_ice)" title="Lead (sea ice)">Leads</a> and <a class="mw-redirect" href="/wiki/Polynyas" title="Polynyas">polynyas</a> are areas of open water that occur within sea ice expanses even though air temperatures are below freezing, and provide a direct interaction between the ocean and the atmosphere, which is important for the wildlife. Leads are narrow and linear – they vary in width from meter to km scale. During the winter, the water in leads quickly freezes up. They are also used for navigation purposes – even when refrozen, the ice in leads is thinner, allowing icebreakers access to an easier sail path, and submarines to surface more easily. Polynyas are more uniform in size than leads and are also larger – two types are recognized: 1) <i>Sensible-heat polynyas</i>, caused by the upwelling of warmer water and 2) <i>Latent-heat polynyas</i>, resulting from persistent winds from the coastline.</p>
+<hr/>
+<ul class="gallery mw-gallery-packed-hover">
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Sea_ice_near_coast_of_Labrador_-a.jpg"><img alt="" data-file-height="768" data-file-width="1024" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sea_ice_near_coast_of_Labrador_-a.jpg/240px-Sea_ice_near_coast_of_Labrador_-a.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sea_ice_near_coast_of_Labrador_-a.jpg/360px-Sea_ice_near_coast_of_Labrador_-a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sea_ice_near_coast_of_Labrador_-a.jpg/480px-Sea_ice_near_coast_of_Labrador_-a.jpg 2x" width="160"/></a></div>
+</div>
+<div class="gallerytextwrapper" style="width: 140px">
+<div class="gallerytext">
+<p>Aerial view showing an expanse of drift ice offshore Labrador (Eastern Canada) displaying floes of various sizes loosely packed, with open water in several networks of <a href="/wiki/Lead" title="Lead">leads</a>. (Scale not available.)</p>
+</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 216px">
+<div style="width: 216px">
+<div class="thumb" style="width: 214px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Ikaasaartik-strait-icefloes-aerial.jpg"><img alt="" data-file-height="2176" data-file-width="3872" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ikaasaartik-strait-icefloes-aerial.jpg/321px-Ikaasaartik-strait-icefloes-aerial.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ikaasaartik-strait-icefloes-aerial.jpg/481px-Ikaasaartik-strait-icefloes-aerial.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ikaasaartik-strait-icefloes-aerial.jpg/641px-Ikaasaartik-strait-icefloes-aerial.jpg 2x" width="214"/></a></div>
+</div>
+<div class="gallerytextwrapper" style="width: 194px">
+<div class="gallerytext">
+<p>Aerial view showing an expanse of drift ice in southeastern Greenland, comprising loosely packed floes of various sizes, with a <a href="/wiki/Lead_(sea_ice)" title="Lead (sea ice)">lead</a> developing in the centre.(Scale not available.)</p>
+</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 187.33333333333px">
+<div style="width: 187.33333333333px">
+<div class="thumb" style="width: 185.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Greenland_East_Coast_7.jpg"><img alt="" data-file-height="830" data-file-width="1280" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Greenland_East_Coast_7.jpg/278px-Greenland_East_Coast_7.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Greenland_East_Coast_7.jpg/417px-Greenland_East_Coast_7.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Greenland_East_Coast_7.jpg/555px-Greenland_East_Coast_7.jpg 2x" width="186"/></a></div>
+</div>
+<div class="gallerytextwrapper" style="width: 166px">
+<div class="gallerytext">
+<p>Aerial view showing an expanse of drift ice consisting mostly of water. (Scale not available.)</p>
+</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Ryuhyoh_03.jpg"><img alt="" data-file-height="960" data-file-width="1280" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryuhyoh_03.jpg/240px-Ryuhyoh_03.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryuhyoh_03.jpg/360px-Ryuhyoh_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryuhyoh_03.jpg/480px-Ryuhyoh_03.jpg 2x" width="160"/></a></div>
+</div>
+<div class="gallerytextwrapper" style="width: 140px">
+<div class="gallerytext">
+<p>Close-up view inside a drift ice zone: several small rounded floes are separated from each other by slush or grease ice. (Bird at lower right for scale.)</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul class="gallery mw-gallery-packed-hover">
+<li class="gallerybox" style="width: 242px">
+<div style="width: 242px">
+<div class="thumb" style="width: 240px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Hummock.JPG"><img alt="" data-file-height="2112" data-file-width="2816" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hummock.JPG/360px-Hummock.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hummock.JPG/540px-Hummock.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hummock.JPG/720px-Hummock.JPG 2x" width="240"/></a></div>
+</div>
+<div class="gallerytextwrapper" style="width: 220px">
+<div class="gallerytext">
+<p>Example of hummocky ice: an accumulation of ice blocks, here about 20 to 30 cm in thickness (with a thin snow cover).</p>
+</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 242px">
+<div style="width: 242px">
+<div class="thumb" style="width: 240px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Pressure_ridge_--_where_two_ice_floes_meet.jpg"><img alt="" data-file-height="375" data-file-width="500" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pressure_ridge_--_where_two_ice_floes_meet.jpg/360px-Pressure_ridge_--_where_two_ice_floes_meet.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/1/11/Pressure_ridge_--_where_two_ice_floes_meet.jpg 1.5x" width="240"/></a></div>
+</div>
+<div class="gallerytextwrapper" style="width: 220px">
+<div class="gallerytext">
+<p>Field example of a pressure ridge. Only the sail (the part of the ridge above the ice surface) is shown in this photograph – the keel is more difficult to document.</p>
+</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 136.66666666667px">
+<div style="width: 136.66666666667px">
+<div class="thumb" style="width: 134.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Chukchi_Sea.JPG"><img alt="" data-file-height="1229" data-file-width="922" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chukchi_Sea.JPG/202px-Chukchi_Sea.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chukchi_Sea.JPG/304px-Chukchi_Sea.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chukchi_Sea.JPG/405px-Chukchi_Sea.JPG 2x" width="135"/></a></div>
+</div>
+<div class="gallerytextwrapper" style="width: 115px">
+<div class="gallerytext">
+<p>Aerial view of the Chukchi Sea between Chukotka and Alaska, displaying a pattern of <a href="/wiki/Lead_(sea_ice)" title="Lead (sea ice)">leads</a>. Much of the open water inside those leads is already covered by <i>new ice</i> (indicated by a slightly lighter blue color)(scale not available).</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Formation">Formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=10" title="Edit section: Formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Sea_ice_growth_processes" title="Sea ice growth processes">Sea ice growth processes</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Seaice.jpg"><img alt="" class="thumbimage" data-file-height="545" data-file-width="683" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seaice.jpg/220px-Seaice.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seaice.jpg/330px-Seaice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seaice.jpg/440px-Seaice.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Seaice.jpg" title="Enlarge"></a></div>
+Satellite image of sea ice forming near <a href="/wiki/St._Matthew_Island" title="St. Matthew Island">St. Matthew Island</a> in the Bering Sea.</div>
+</div>
+</div>
+<p>Only the top layer of water needs to cool to the freezing point.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Convection of the surface layer involves the top 100 – 150 m, down to the <a href="/wiki/Pycnocline" title="Pycnocline">pycnocline</a> of increased density.</p>
+<p>In calm water, the first sea ice to form on the surface is a skim of separate crystals which initially are in the form of tiny discs, floating flat on the surface and of diameter less than 0.3 centimetres (0.12 in). Each disc has its c-axis vertical and grows outwards laterally. At a certain point such a disc shape becomes unstable, and the growing isolated crystals take on a hexagonal, stellar form, with long fragile arms stretching out over the surface. These crystals also have their c-axis vertical. The dendritic arms are very fragile, and soon break off, leaving a mixture of discs and arm fragments. With any kind of turbulence in the water, these fragments break up further into random-shaped small crystals which form a suspension of increasing density in the surface water, an ice type called <a href="/wiki/Frazil_ice" title="Frazil ice">frazil or grease ice</a>. In quiet conditions the frazil crystals soon freeze together to form a continuous thin sheet of young ice; in its early stages, when it is still transparent — that is the ice called <i>nilas</i>. Once nilas has formed, a quite different growth process occurs, in which water freezes on to the bottom of the existing ice sheet, a process called <i>congelation</i> growth. This growth process yields first-year ice.</p>
+<p>In rough water, fresh sea ice is formed by the cooling of the ocean as heat is lost into the atmosphere. The uppermost layer of the ocean is <a href="/wiki/Supercooling" title="Supercooling">supercooled</a> to slightly below the freezing point, at which time tiny ice platelets (frazil ice) form. With time, this process leads to a mushy surface layer, known as <a href="/wiki/Grease_ice" title="Grease ice">grease ice</a>. Frazil ice formation may also be started by <a href="/wiki/Snow" title="Snow">snowfall</a>, rather than supercooling. Waves and wind then act to compress these ice particles into larger plates, of several meters in diameter, called <a href="/wiki/Pancake_ice" title="Pancake ice">pancake ice</a>. These float on the ocean surface, and collide with one another, forming upturned edges. In time, the pancake ice plates may themselves be rafted over one another or frozen together into a more solid ice cover, known as consolidated pancake ice. Such ice has a very rough appearance on top and bottom.</p>
+<p>If sufficient snow falls on sea ice to depress the freeboard below sea level, sea water will flow in and a layer of ice will form of mixed snow/sea water. This is particularly common around <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>.</p>
+<p><a href="/wiki/Russia" title="Russia">Russian</a> scientist <a href="/wiki/Vladimir_Wiese" title="Vladimir Wiese">Vladimir Vize</a> (1886–1954) devoted his life to study the Arctic ice pack and developed the <i>Scientific Prediction of Ice Conditions Theory</i>, for which he was widely acclaimed in academic circles. He applied this theory in the field in the <a href="/wiki/Kara_Sea" title="Kara Sea">Kara Sea</a>, which led to the discovery of <a href="/wiki/Vize_Island" title="Vize Island">Vize Island</a>.</p>
+<h2><span class="mw-headline" id="Yearly_freeze_and_melt_cycle">Yearly freeze and melt cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=11" title="Edit section: Yearly freeze and melt cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Plot_arctic_sea_ice_volume.svg"><img alt="" class="thumbimage" data-file-height="516" data-file-width="688" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Plot_arctic_sea_ice_volume.svg/220px-Plot_arctic_sea_ice_volume.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Plot_arctic_sea_ice_volume.svg/330px-Plot_arctic_sea_ice_volume.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Plot_arctic_sea_ice_volume.svg/440px-Plot_arctic_sea_ice_volume.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Plot_arctic_sea_ice_volume.svg" title="Enlarge"></a></div>
+Seasonal variation and annual decrease of Arctic sea ice volume as estimated by measurement backed numerical modelling.<sup class="reference" id="cite_ref-zhangrothrock1_10-0"><a href="#cite_note-zhangrothrock1-10">[10]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Arctic-ice-with-labels.png"><img alt="" class="thumbimage" data-file-height="524" data-file-width="668" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arctic-ice-with-labels.png/220px-Arctic-ice-with-labels.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arctic-ice-with-labels.png/330px-Arctic-ice-with-labels.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arctic-ice-with-labels.png/440px-Arctic-ice-with-labels.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Arctic-ice-with-labels.png" title="Enlarge"></a></div>
+Volume of arctic sea ice over time using a polar coordinate system draw method (time goes counter clockwise; one cycle per year)</div>
+</div>
+</div>
+<p>Sea ice freezes and melts due to a combination of factors, including the age of the ice, air temperatures, and solar insolation. During the winter the area of the Arctic Ocean covered by sea ice increases, usually reaching a maximum extent during the month of March. The area covered in sea ice then decreases, reaching its minimum extent in September most years. First-year ice melts more easily than older ice for two reasons: 1) First-year ice is thinner than older ice, since the process of congelation growth has had less time to operate; and 2) first-year ice is less permeable than older ice, so summer meltwater tends to form deeper ponds on the first-year ice surface than on older ice, and deeper ponds mean lower <a href="/wiki/Albedo" title="Albedo">albedo</a> and thus greater solar energy capture.</p>
+<h2><span class="mw-headline" id="Monitoring_and_observations">Monitoring and observations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=12" title="Edit section: Monitoring and observations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Measurement_of_sea_ice" title="Measurement of sea ice">Measurement of sea ice</a></div>
+<p>Changes in sea ice conditions are best demonstrated by the rate of melting over time. A composite record of Arctic ice demonstrates that the floes’ retreat began around 1900, experiencing more rapid melting beginning within the past 50 years. Satellite study of sea ice began in 1979, and became a much more reliable measure of ice melt and polar climate change. In comparison to the extended record, the sea-ice extent in the polar region by September 2007 was only half the recorded mass that had been estimated to exist within the 1950–1970 period.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The volume of ice hit an all-time low in September 2012, when the ice was determined to cover only 24% of the Arctic Ocean, offsetting the previous low of 29% in 2007. Future predictions cast that summer sea ice might disappear altogether as soon as 2020.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> During the warmest years, like the winter of 2005–2006, sea ice is observed to reach a winter maximum extent that is smaller than in the years before or after. The summer minimum Arctic ice extent for 2010 was the third lowest over the period of satellite observations of the polar ice.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Modelling">Modelling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=13" title="Edit section: Modelling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In order to gain a better understanding about the variability, numerical sea ice models are used to perform <a href="/wiki/Sensitivity_analysis" title="Sensitivity analysis">sensitivity studies</a>. The two main ingredients are the <a class="mw-redirect" href="/wiki/Ice_dynamics" title="Ice dynamics">ice dynamics</a> and the thermodynamical properties (see <a href="/wiki/Sea_ice_emissivity_modelling" title="Sea ice emissivity modelling">Sea ice emissivity modelling</a>, <a href="/wiki/Sea_ice_growth_processes" title="Sea ice growth processes">Sea ice growth processes</a> and <a href="/wiki/Sea_ice_thickness" title="Sea ice thickness">Sea ice thickness</a>).</p>
+<p>Many <a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">Global Climate Models</a> (GCMs) have sea ice implemented in their numerical simulation scheme in order to capture the <a href="/wiki/Ice-albedo_feedback" title="Ice-albedo feedback">Ice-albedo feedback</a> correctly. Examples are:</p>
+<ul>
+<li>The <b>Louvain-la-Neuve Sea Ice Model</b> (<a class="external text" href="http://www.elic.ucl.ac.be/repomodx/lim/" rel="nofollow">LIM</a>) is a numerical model of sea ice designed for climate studies and operational oceanography developed at <a href="/wiki/Universit%C3%A9_catholique_de_Louvain" title="Université catholique de Louvain">Université catholique de Louvain</a> (<a class="external text" href="http://www.uclouvain.be/teclim" rel="nofollow">UCL</a>). It is coupled to the ocean general circulation model OPA (Ocean Parallélisé) and is freely available as a part of the <b>Nucleus for European Modeling of the Ocean</b> (<a class="external text" href="http://www.nemo-ocean.eu/" rel="nofollow">NEMO</a>).</li>
+<li>The <b><a href="/wiki/MIT_General_Circulation_Model" title="MIT General Circulation Model">MIT General Circulation Model</a></b> (<a class="external text" href="http://mitgcm.org/" rel="nofollow">MITgcm</a>) is a <a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">global circulation model</a> developed at <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT) includes a package for sea-ice (<a class="external text" href="http://mitgcm.org/tag/sea-ice-modeling/" rel="nofollow">MITgcm:seaice</a>). The code is freely available there.</li>
+<li>The <a href="/wiki/University_Corporation_for_Atmospheric_Research" title="University Corporation for Atmospheric Research">University Corporation for Atmospheric Research</a> (UCAR) develops the <b>Community Sea Ice Model</b> (<a class="external text" href="http://www.cesm.ucar.edu/models/ice-csim/" rel="nofollow">CSIM</a>).</li>
+<li>The <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos National Laboratory</a> has a project called <b>Los Alamos Sea Ice Model</b> (<a class="external text" href="http://oceans11.lanl.gov/trac/CICE" rel="nofollow">CICE</a>). CICE is <a class="mw-redirect" href="/wiki/Open_source" title="Open source">open source</a> and designed as a component of GCM, although it provides a standalone mode.</li>
+<li>The <b>Finite-Element Sea-Ice Ocean Model</b> (<a class="external text" href="http://www.awi.de/en/research/research_divisions/climate_science/climate_dynamics/research_projects/coupled_model_development_echam5_fesom/" rel="nofollow">FESOM</a>) developed at <a class="mw-redirect" href="/wiki/Alfred_Wegener_Institute" title="Alfred Wegener Institute">Alfred Wegener Institute</a> uses an <a href="/wiki/Unstructured_grid" title="Unstructured grid">unstructured grid</a>.</li>
+</ul>
+<p>The <a href="/wiki/Coupled_model_intercomparison_project" title="Coupled model intercomparison project">Coupled model intercomparison project</a> (<a class="external text" href="http://cmip-pcmdi.llnl.gov/" rel="nofollow">CMIP</a>) offers a standard protocol for studying the output of coupled atmosphere-ocean general circulation models. The coupling takes place at the atmosphere-ocean interface where the sea ice may occur.</p>
+<p>In addition to global modeling, various <b>regional models</b> deal with sea ice. Regional models are employed for seasonal forecasting experiments and for <a href="/wiki/Process_study" title="Process study">process studies</a>.</p>
+<h2><span class="mw-headline" id="Ecology">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=14" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Sympagic_ecology" title="Sympagic ecology">Sympagic ecology</a></div>
+<p>Sea ice is part of the Earth's <a href="/wiki/Biosphere" title="Biosphere">biosphere</a>. When sea water freezes, the ice is riddled with brine-filled channels which sustain <a href="/wiki/Sympagic_ecology" title="Sympagic ecology">sympagic organisms</a> such as bacteria, algae, copepods and annelids, which in turn provide food for animals such as krill and specialised fish like the <a href="/wiki/Bald_notothen" title="Bald notothen">Bald notothen</a>, fed upon in turn by larger animals such as <a class="mw-redirect" href="/wiki/Emperor_penguins" title="Emperor penguins">Emperor penguins</a> and <a class="mw-redirect" href="/wiki/Minke_whales" title="Minke whales">Minke whales</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<p>A decline of seasonal sea ice puts the survival of Arctic species such as <a href="/wiki/Ringed_seal" title="Ringed seal">ringed seals</a> and <a href="/wiki/Polar_bear" title="Polar bear">polar bears</a> at risk.<sup class="reference" id="cite_ref-Barber_15-0"><a href="#cite_note-Barber-15">[15]</a></sup><sup class="reference" id="cite_ref-Stirling.2C_Lunn_16-0"><a href="#cite_note-Stirling.2C_Lunn-16">[16]</a></sup><sup class="reference" id="cite_ref-Stirling.2C_Parkinson_17-0"><a href="#cite_note-Stirling.2C_Parkinson-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Relationship_to_global_warming_and_climate_change">Relationship to global warming and climate change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=15" title="Edit section: Relationship to global warming and climate change">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Ponds_on_the_Ocean,_ICESCAPE.jpg"><img alt="" class="thumbimage" data-file-height="2848" data-file-width="4272" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ponds_on_the_Ocean%2C_ICESCAPE.jpg/300px-Ponds_on_the_Ocean%2C_ICESCAPE.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ponds_on_the_Ocean%2C_ICESCAPE.jpg/450px-Ponds_on_the_Ocean%2C_ICESCAPE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ponds_on_the_Ocean%2C_ICESCAPE.jpg/600px-Ponds_on_the_Ocean%2C_ICESCAPE.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ponds_on_the_Ocean,_ICESCAPE.jpg" title="Enlarge"></a></div>
+As ice melts, the liquid water collects in depressions on the surface and deepens them, forming these melt ponds in the <a href="/wiki/Arctic" title="Arctic">Arctic</a>. These fresh water ponds are separated from the salty sea below and around it, until breaks in the ice merge the two.</div>
+</div>
+</div>
+<p>Sea ice provides an ecosystem for various polar species, particularly the <a href="/wiki/Polar_bear" title="Polar bear">polar bear</a>, whose environment is being threatened as global warming causes the ice to melt more as the Earth’s temperature gets warmer. Furthermore, the sea ice itself functions to help keep polar climates cool, since the ice exists in expansive enough amounts to maintain a cold environment. At this, sea ice’s relationship with global warming is cyclical; the ice helps to maintain cool climates, but as the global temperature increases, the ice melts, and is less effective in keeping those climates cold. The bright, shiny surface (<a href="/wiki/Albedo" title="Albedo">albedo</a>) of the ice also serves a role in maintaining cooler polar temperatures by reflecting much of the sunlight that hits it back into space. As the sea ice melts, its surface area shrinks, diminishing the size of the reflective surface and therefore causing the earth to absorb more of the sun’s heat. Though the size of the <a class="mw-redirect" href="/wiki/Ice_floes" title="Ice floes">ice floes</a> is affected by the seasons, even a small change in global temperature can greatly affect the amount of sea ice, and due to the shrinking reflective surface that keeps the ocean cool, this sparks a cycle of ice shrinking and temperatures warming. As a result, the polar regions are the most susceptible places to climate change on the planet.<sup class="reference" id="cite_ref-NSIDC_5-9"><a href="#cite_note-NSIDC-5">[5]</a></sup></p>
+<p>Furthermore, sea ice affects the movement of ocean waters. In the <a href="/wiki/Freezing" title="Freezing">freezing</a> process, much of the salt in ocean water is squeezed out of the frozen crystal formations, though some remains frozen in the ice. This salt becomes trapped beneath the sea ice, creating a higher concentration of salt in the water beneath ice floes. This concentration of salt contributes to the salinated water’s <a href="/wiki/Density" title="Density">density</a>, and this cold, denser water sinks to the bottom of the ocean. This cold water moves along the ocean floor towards the equator, while warmer water on the ocean surface moves in the direction of the poles. This is referred to as "<a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">conveyor belt</a> motion", and is a regularly occurring process.<sup class="reference" id="cite_ref-NSIDC_5-10"><a href="#cite_note-NSIDC-5">[5]</a></sup></p>
+<hr/>
+<ul class="gallery mw-gallery-traditional" style="margin:auto;">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Sea-ice-2013-en.svg"><img alt="" data-file-height="1201" data-file-width="1200" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sea-ice-2013-en.svg/120px-Sea-ice-2013-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sea-ice-2013-en.svg/180px-Sea-ice-2013-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sea-ice-2013-en.svg/240px-Sea-ice-2013-en.svg.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Change in extent of the <a class="mw-redirect" href="/wiki/Arctic_Sea" title="Arctic Sea">Arctic Sea</a> ice between April and August, in 2013.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Sea_Ice_off_Baffin_Island.jpg"><img alt="" data-file-height="6000" data-file-width="4400" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sea_Ice_off_Baffin_Island.jpg/88px-Sea_Ice_off_Baffin_Island.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sea_Ice_off_Baffin_Island.jpg/132px-Sea_Ice_off_Baffin_Island.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sea_Ice_off_Baffin_Island.jpg/176px-Sea_Ice_off_Baffin_Island.jpg 2x" width="88"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Sea ice off <a href="/wiki/Baffin_Island" title="Baffin Island">Baffin Island</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Sea_Ice_Imitates_the_Shoreline_along_the_Kamchatka_Peninsula.jpg"><img alt="" data-file-height="2100" data-file-width="1600" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sea_Ice_Imitates_the_Shoreline_along_the_Kamchatka_Peninsula.jpg/91px-Sea_Ice_Imitates_the_Shoreline_along_the_Kamchatka_Peninsula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sea_Ice_Imitates_the_Shoreline_along_the_Kamchatka_Peninsula.jpg/137px-Sea_Ice_Imitates_the_Shoreline_along_the_Kamchatka_Peninsula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sea_Ice_Imitates_the_Shoreline_along_the_Kamchatka_Peninsula.jpg/183px-Sea_Ice_Imitates_the_Shoreline_along_the_Kamchatka_Peninsula.jpg 2x" width="91"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Sea ice imitates the shoreline along the <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">Kamchatka Peninsula</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Antarctic_Peninsula,_the_Larsen_Ice_Shelf,_and_the_sea_ice_covered_waters_around_the_region.jpg"><img alt="" data-file-height="6400" data-file-width="5000" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctic_Peninsula%2C_the_Larsen_Ice_Shelf%2C_and_the_sea_ice_covered_waters_around_the_region.jpg/94px-Antarctic_Peninsula%2C_the_Larsen_Ice_Shelf%2C_and_the_sea_ice_covered_waters_around_the_region.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctic_Peninsula%2C_the_Larsen_Ice_Shelf%2C_and_the_sea_ice_covered_waters_around_the_region.jpg/141px-Antarctic_Peninsula%2C_the_Larsen_Ice_Shelf%2C_and_the_sea_ice_covered_waters_around_the_region.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctic_Peninsula%2C_the_Larsen_Ice_Shelf%2C_and_the_sea_ice_covered_waters_around_the_region.jpg/187px-Antarctic_Peninsula%2C_the_Larsen_Ice_Shelf%2C_and_the_sea_ice_covered_waters_around_the_region.jpg 2x" width="94"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Clear view of the <a href="/wiki/Antarctic_Peninsula" title="Antarctic Peninsula">Antarctic Peninsula</a>, the <a href="/wiki/Larsen_Ice_Shelf" title="Larsen Ice Shelf">Larsen Ice Shelf</a>, and the sea ice-covered waters around the region.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:41px auto;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:120px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/854px--Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="43.383333333333" data-startoffset="0" data-mwtitle="Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 1,920 × 1,080 (811 kbps)" data-shorttitle="Ogg source" data-width="1920" data-height="1080" data-bandwidth="811433" data-framerate="60"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="940480" data-framerate="60"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="1212840" data-framerate="60"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Full HD WebM (1080P)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1920" data-height="1080" data-bandwidth="2665112" data-framerate="60"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="122176" data-framerate="60"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="240096" data-framerate="60"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="472376" data-framerate="60"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Annual Sea Ice Minimum 1979-2013 with Area Graph.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv/120px--Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv.jpg" style="width:120px;height:68px"/><a href="//upload.wikimedia.org/wikipedia/commons/c/c4/Annual_Sea_Ice_Minimum_1979-2013_with_Area_Graph.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+</div>
+</div>
+<div class="gallerytext">
+<p>The Earth showing the annual minimum sea ice with a graph overlay showing the annual minimum sea ice area in millions of square kilometers.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:J%C3%A4%C3%A4_on_kulmunud_pallideks_(Looduse_veidrused)._05.jpg"><img alt="" class="thumbimage" data-file-height="4917" data-file-width="4917" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/J%C3%A4%C3%A4_on_kulmunud_pallideks_%28Looduse_veidrused%29._05.jpg/220px-J%C3%A4%C3%A4_on_kulmunud_pallideks_%28Looduse_veidrused%29._05.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/J%C3%A4%C3%A4_on_kulmunud_pallideks_%28Looduse_veidrused%29._05.jpg/330px-J%C3%A4%C3%A4_on_kulmunud_pallideks_%28Looduse_veidrused%29._05.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/J%C3%A4%C3%A4_on_kulmunud_pallideks_%28Looduse_veidrused%29._05.jpg/440px-J%C3%A4%C3%A4_on_kulmunud_pallideks_%28Looduse_veidrused%29._05.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:J%C3%A4%C3%A4_on_kulmunud_pallideks_(Looduse_veidrused)._05.jpg" title="Enlarge"></a></div>
+Rare phenomena – the formation of ball ice. Stroomi Beach, <a href="/wiki/Tallinn" title="Tallinn">Tallinn</a>, <a href="/wiki/Estonia" title="Estonia">Estonia</a>.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Ecology_2">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=17" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Antarctic_ecozone" title="Antarctic ecozone">Antarctic ecozone</a></li>
+<li><a href="/wiki/Arctic_ecology" title="Arctic ecology">Arctic ecology</a></li>
+<li><a href="/wiki/Arctic_fox" title="Arctic fox">Arctic fox</a></li>
+<li><a href="/wiki/Arctic_sea_ice_ecology_and_history" title="Arctic sea ice ecology and history">Arctic sea ice ecology and history</a></li>
+<li><a href="/wiki/Ice_algae" title="Ice algae">Ice algae</a></li>
+<li><a href="/wiki/Penguin" title="Penguin">Penguins</a></li>
+<li><a href="/wiki/Polar_bear" title="Polar bear">Polar bear</a></li>
+<li><a class="mw-redirect" href="/wiki/Pinnipeds" title="Pinnipeds">Pinnipeds</a></li>
+</ul>
+<h3><span id="Geography/climatology"></span><span class="mw-headline" id="Geography.2Fclimatology">Geography/climatology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=18" title="Edit section: Geography/climatology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table>
+<tr>
+<td>
+<ul>
+<li><a href="/wiki/Antarctic" title="Antarctic">Antarctic</a></li>
+<li><a href="/wiki/Antarctica" title="Antarctica">Antarctica</a></li>
+<li><a href="/wiki/Arctic" title="Arctic">Arctic</a></li>
+<li><a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a></li>
+<li><a class="mw-redirect" href="/wiki/Arctic_Sea" title="Arctic Sea">Arctic Sea</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Climate change in the Arctic</a></li>
+<li><a href="/wiki/Cryosphere" title="Cryosphere">Cryosphere</a></li>
+<li><a href="/wiki/Polar_ice_cap" title="Polar ice cap">Polar ice cap</a></li>
+<li><a class="mw-redirect" href="/wiki/Antarctic_ice_pack" title="Antarctic ice pack">Antarctic ice pack</a></li>
+<li><a href="/wiki/Arctic_ice_pack" title="Arctic ice pack">Arctic ice pack</a></li>
+<li><a class="mw-redirect" href="/wiki/Polar_region" title="Polar region">Polar region</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Ice_types_or_features">Ice types or features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=19" title="Edit section: Ice types or features">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table>
+<tr>
+<td>
+<ul>
+<li><a href="/wiki/Anchor_ice" title="Anchor ice">Anchor ice</a></li>
+<li><a href="/wiki/Congelation_ice" title="Congelation ice">Congelation ice</a></li>
+<li><a href="/wiki/Drift_ice" title="Drift ice">Drift ice</a></li>
+<li><a href="/wiki/Fast_ice" title="Fast ice">Fast ice</a></li>
+<li><a href="/wiki/Finger_rafting" title="Finger rafting">Finger rafting</a></li>
+<li><a href="/wiki/Frazil_ice" title="Frazil ice">Frazil ice</a></li>
+<li><a href="/wiki/Grease_ice" title="Grease ice">Grease ice</a></li>
+<li><a href="/wiki/Iceberg" title="Iceberg">Iceberg</a></li>
+<li><a href="/wiki/Ice_m%C3%A9lange" title="Ice mélange">Ice mélange</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/wiki/Lead_(sea_ice)" title="Lead (sea ice)">Lead (sea ice)</a></li>
+<li><a href="/wiki/Pancake_ice" title="Pancake ice">Pancake ice</a></li>
+<li><a href="/wiki/Polynya" title="Polynya">Polynya</a></li>
+<li><a href="/wiki/Pressure_ridge_(ice)" title="Pressure ridge (ice)">Pressure ridge (ice)</a></li>
+<li><a href="/wiki/Rotten_ice" title="Rotten ice">Rotten ice</a></li>
+<li><a href="/wiki/Seabed_gouging_by_ice" title="Seabed gouging by ice">Seabed gouging by ice</a></li>
+<li><a href="/wiki/Slush" title="Slush">Slush</a></li>
+<li><a href="/wiki/Stamukha" title="Stamukha">Stamukha</a></li>
+<li><a class="mw-redirect" href="/wiki/Zastruga" title="Zastruga">Zastruga</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Physics_and_chemistry">Physics and chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=20" title="Edit section: Physics and chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Arctic_shrinkage#Decline_of_sea_ice" title="Arctic shrinkage">Decline of sea ice</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a></li>
+<li><a href="/wiki/Ice_crystals" title="Ice crystals">Ice crystals</a></li>
+<li><a href="/wiki/Ice_Ih" title="Ice Ih">Ice Ih</a></li>
+<li>Sea ice</li>
+<li><a href="/wiki/Sea_ice_growth_processes" title="Sea ice growth processes">Sea ice growth processes</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+</ul>
+<h3><span class="mw-headline" id="Applied_sciences_and_engineering_endeavours">Applied sciences and engineering endeavours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=21" title="Edit section: Applied sciences and engineering endeavours">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table>
+<tr>
+<td>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Drift_ice_station" title="Drift ice station">Drift ice station</a></li>
+<li><a href="/wiki/Drift_station" title="Drift station">Drift station</a></li>
+<li><a href="/wiki/Ice_class" title="Ice class">Ice class</a></li>
+<li><a href="/wiki/Icebreaker" title="Icebreaker">Icebreaker</a></li>
+<li><a href="/wiki/Ice_navigation" title="Ice navigation">Ice navigation</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="/wiki/Measurement_of_sea_ice" title="Measurement of sea ice">Measurement of sea ice</a></li>
+<li><a href="/wiki/Sea_ice_concentration" title="Sea ice concentration">Sea ice concentration</a></li>
+<li><a href="/wiki/Sea_ice_emissivity_modelling" title="Sea ice emissivity modelling">Sea ice emissivity modelling</a></li>
+<li><a href="/wiki/Sea_ice_thickness" title="Sea ice thickness">Sea ice thickness</a></li>
+<li><a href="/wiki/Zhubov_scale" title="Zhubov scale">Zhubov scale</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Wadhams-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wadhams_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wadhams_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFNOAA_Sea_Ice_essay">NOAA Sea Ice essay</a></span></li>
+<li id="cite_note-Weeks-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Weeks_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Weeks, Willy F. (2010). <a class="external text" href="https://books.google.com/books?id=9S55O6WzuL8C&amp;pg=PA2" rel="nofollow"><i>On Sea Ice</i></a>. University of Alaska Press. p. 2. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-60223-101-6" title="Special:BookSources/978-1-60223-101-6">978-1-60223-101-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.aufirst=Willy+F.&amp;rft.aulast=Weeks&amp;rft.btitle=On+Sea+Ice&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-1-60223-101-6&amp;rft.pages=2&amp;rft.pub=University+of+Alaska+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9S55O6WzuL8C%26pg%3DPA2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Shokr.26Sinha-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shokr.26Sinha_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Shokr, Mohammed; Sinha, Nirmal (2015). <i>Sea Ice - Physics and Remote Sensing</i>. John Wiley &amp; Sons, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1119027898" title="Special:BookSources/978-1119027898">978-1119027898</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.au=Sinha%2C+Nirmal&amp;rft.aufirst=Mohammed&amp;rft.aulast=Shokr&amp;rft.btitle=Sea+Ice+-+Physics+and+Remote+Sensing&amp;rft.date=2015&amp;rft.genre=book&amp;rft.isbn=978-1119027898&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Lepp-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lepp_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Leppr̃anta, Matti (2005). <a class="external text" href="https://books.google.com/books?id=xJwub7E6VDcC" rel="nofollow"><i>The Drift Of Sea Ice</i></a>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-40881-9" title="Special:BookSources/978-3-540-40881-9">978-3-540-40881-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.aufirst=Matti&amp;rft.aulast=Leppr%CC%83anta&amp;rft.btitle=The+Drift+Of+Sea+Ice&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-3-540-40881-9&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxJwub7E6VDcC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NSIDC-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-NSIDC_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NSIDC_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NSIDC_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NSIDC_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-NSIDC_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-NSIDC_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-NSIDC_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-NSIDC_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-NSIDC_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-NSIDC_5-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-NSIDC_5-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFNSIDC_All_About_Sea_Ice">NSIDC All About Sea Ice</a></span></li>
+<li id="cite_note-ECGlossary-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-ECGlossary_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-ECGlossary_6-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFEnvironment_Canada_Ice_Glossary">Environment Canada Ice Glossary</a></span></li>
+<li id="cite_note-WMO-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-WMO_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WMO_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-WMO_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-WMO_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-WMO_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-WMO_7-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-WMO_7-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-WMO_7-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-WMO_7-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWMO_Sea-Ice_Nomenclature">WMO Sea-Ice Nomenclature</a></span></li>
+<li id="cite_note-Wadhams2-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wadhams2_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Wadhams, P. (2000). <i>Ice in the Ocean</i>. CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-90-5699-296-5" title="Special:BookSources/978-90-5699-296-5">978-90-5699-296-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.aufirst=P.&amp;rft.aulast=Wadhams&amp;rft.btitle=Ice+in+the+Ocean&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=978-90-5699-296-5&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Barry, Roger G.; Blanken, Peter D. (2016-05-23). <a class="external text" href="https://books.google.com/books?id=drgjDAAAQBAJ&amp;pg=PA189&amp;dq=Only+the+top+layer+of+water+needs+to+cool+to+the+freezing+point&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjzhv-SktDUAhUU_2MKHc23D2UQ6AEIJDAA#v=onepage&amp;q=Only%20the%20top%20layer%20of%20water%20needs%20to%20cool%20to%20the%20freezing%20point&amp;f=false" rel="nofollow"><i>Microclimate and Local Climate</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781316652336" title="Special:BookSources/9781316652336">9781316652336</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.au=Blanken%2C+Peter+D.&amp;rft.aufirst=Roger+G.&amp;rft.aulast=Barry&amp;rft.btitle=Microclimate+and+Local+Climate&amp;rft.date=2016-05-23&amp;rft.genre=book&amp;rft.isbn=9781316652336&amp;rft.pub=Cambridge+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdrgjDAAAQBAJ%26pg%3DPA189%26dq%3DOnly%2Bthe%2Btop%2Blayer%2Bof%2Bwater%2Bneeds%2Bto%2Bcool%2Bto%2Bthe%2Bfreezing%2Bpoint%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjzhv-SktDUAhUU_2MKHc23D2UQ6AEIJDAA%23v%3Donepage%26q%3DOnly%2520the%2520top%2520layer%2520of%2520water%2520needs%2520to%2520cool%2520to%2520the%2520freezing%2520point%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-zhangrothrock1-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-zhangrothrock1_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, Jinlun; Rothrock, D.A. (May 2003). <a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/1520-0493(2003)131" rel="nofollow">&lt;0845:MGSIWA&gt;2.0.CO;2 "Modeling global sea ice with a thickness and enthalpy distribution model in generalized curvilinear coordinates"</a>. <i>Mon. Wea. Rev</i>. <b>131</b> (5): 845–861. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003MWRv..131..845Z" rel="nofollow">2003MWRv..131..845Z</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0493%282003%29131%3C0845%3AMGSIWA%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0493(2003)131&lt;0845:MGSIWA&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=Modeling+global+sea+ice+with+a+thickness+and+enthalpy+distribution+model+in+generalized+curvilinear+coordinates&amp;rft.au=Rothrock%2C+D.A.&amp;rft.aufirst=Jinlun&amp;rft.aulast=Zhang&amp;rft.date=2003-05&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Mon.+Wea.+Rev.&amp;rft.pages=845-861&amp;rft.volume=131&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2F1520-0493%282003%29131%3C0845%3AMGSIWA%3E2.0.CO%3B2&amp;rft_id=info%3Abibcode%2F2003MWRv..131..845Z&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0493%282003%29131%3C0845%3AMGSIWA%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Polyak, Leonid; Richard B. Alley; John T. Andrews; Julie Brigham-Grette; Thomas M. Cronin; Dennis A. Darby; et al. (3 February 2010). <a class="external text" href="http://www.geo.umass.edu/faculty/jbg/Pubs/Polyak%20etal%20seaice%20QSR10%20inpress.pdf" rel="nofollow">"History of sea ice in the Arctic"</a> <span style="font-size:85%;">(PDF)</span>. <i>Quaternary Science Reviews</i>: 2–17. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F%2Bj.quascirev.2010.02.010" rel="nofollow">10.1016/+j.quascirev.2010.02.010</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=History+of+sea+ice+in+the+Arctic&amp;rft.au=Anne+E.+Jennings&amp;rft.au=Arthur+S.+Dyke&amp;rft.au=Dennis+A.+Darby&amp;rft.au=Eric+Wolff&amp;rft.au=Gifford+H.+Miller&amp;rft.au=James+Savelle&amp;rft.au=James+W.C.+White&amp;rft.au=Joan+J.+Fitzpatrick&amp;rft.au=John+T.+Andrews&amp;rft.au=Julie+Brigham-Grette&amp;rft.au=Kristen+St.+John&amp;rft.au=Marika+Holland&amp;rft.au=Mark+Serreze&amp;rft.au=Matt+O%E2%80%99Regan&amp;rft.au=Richard+B.+Alley&amp;rft.au=Svend+Funder&amp;rft.au=Thomas+M.+Cronin&amp;rft.aufirst=Leonid&amp;rft.aulast=Polyak&amp;rft.date=2010-02-03&amp;rft.genre=article&amp;rft.jtitle=Quaternary+Science+Reviews&amp;rft.pages=2-17&amp;rft_id=http%3A%2F%2Fwww.geo.umass.edu%2Ffaculty%2Fjbg%2FPubs%2FPolyak%2520etal%2520seaice%2520QSR10%2520inpress.pdf&amp;rft_id=info%3Adoi%2F10.1016%2F%2Bj.quascirev.2010.02.010&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Gillis, Justin (19 Sep 2012). <a class="external text" href="https://www.nytimes.com/2012/09/20/science/earth/arctic-sea-ice-stops-melting-but-new-record-low-is-set.html?_r=0" rel="nofollow">"Ending Its Summer Melt, Arctic Sea Ice Sets a New Low That Leads to Warnings"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 Oct</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=Ending+Its+Summer+Melt%2C+Arctic+Sea+Ice+Sets+a+New+Low+That+Leads+to+Warnings&amp;rft.aufirst=Justin&amp;rft.aulast=Gillis&amp;rft.date=2012-09-19&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2012%2F09%2F20%2Fscience%2Fearth%2Farctic-sea-ice-stops-melting-but-new-record-low-is-set.html%3F_r%3D0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Scott, Michon. <a class="external text" href="http://earthobservatory.nasa.gov/IOTD/view.php?id=46282" rel="nofollow">"Arctic Sea Ice Minimum for 2010"</a>. NASA Earth Observatory<span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.aufirst=Michon&amp;rft.aulast=Scott&amp;rft.btitle=Arctic+Sea+Ice+Minimum+for+2010&amp;rft.genre=unknown&amp;rft.pub=NASA+Earth+Observatory&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FIOTD%2Fview.php%3Fid%3D46282&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.acecrc.sipex.aq/access/page/?page=d664da82-b244-102a-8ea7-0019b9ea7c60" rel="nofollow">"Sea Ice Ecology"</a>. Acecrc.sipex.aq<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.btitle=Sea+Ice+Ecology&amp;rft.genre=unknown&amp;rft.pub=Acecrc.sipex.aq&amp;rft_id=http%3A%2F%2Fwww.acecrc.sipex.aq%2Faccess%2Fpage%2F%3Fpage%3Dd664da82-b244-102a-8ea7-0019b9ea7c60&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Barber-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Barber_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barber, D.G.; Iacozza, J. (March 2004). <a class="external text" href="http://goliath.ecnext.com/coms2/gi_0199-263435/Historical-analysis-of-sea-ice.html" rel="nofollow">"Historical analysis of sea ice conditions in M'Clintock Channel and the Gulf of Boothia, Nunavut: implications for ringed seal and polar bear habitat"</a>. <i>Arctic</i>. <b>57</b> (1): 1–14. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/40512590" rel="nofollow">40512590</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.14430%2Farctic478" rel="nofollow">10.14430/arctic478</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=Historical+analysis+of+sea+ice+conditions+in+M%27Clintock+Channel+and+the+Gulf+of+Boothia%2C+Nunavut%3A+implications+for+ringed+seal+and+polar+bear+habitat&amp;rft.au=Iacozza%2C+J.&amp;rft.aufirst=D.G.&amp;rft.aulast=Barber&amp;rft.date=2004-03&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Arctic&amp;rft.pages=1-14&amp;rft.volume=57&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F40512590&amp;rft_id=http%3A%2F%2Fgoliath.ecnext.com%2Fcoms2%2Fgi_0199-263435%2FHistorical-analysis-of-sea-ice.html&amp;rft_id=info%3Adoi%2F10.14430%2Farctic478&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Stirling.2C_Lunn-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stirling.2C_Lunn_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stirling, I.; Lunn, N.J.; Iacozza, J.; Elliott, C.; Obbard, M. (March 2004). "Polar bear distribution and abundance on the southwestern Hudson Bay coast during open water season, in relation to population trends and annual ice patterns". <i>Arctic</i>. <b>57</b> (1): 15–26. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/40512591" rel="nofollow">40512591</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.14430%2Farctic479" rel="nofollow">10.14430/arctic479</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=Polar+bear+distribution+and+abundance+on+the+southwestern+Hudson+Bay+coast+during+open+water+season%2C+in+relation+to+population+trends+and+annual+ice+patterns&amp;rft.au=Elliott%2C+C.&amp;rft.au=Iacozza%2C+J.&amp;rft.au=Lunn%2C+N.J.&amp;rft.au=Obbard%2C+M.&amp;rft.aufirst=I.&amp;rft.aulast=Stirling&amp;rft.date=2004-03&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Arctic&amp;rft.pages=15-26&amp;rft.volume=57&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F40512591&amp;rft_id=info%3Adoi%2F10.14430%2Farctic479&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Stirling.2C_Parkinson-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stirling.2C_Parkinson_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stirling, I.; Parkinson, C.L. (September 2006). <a class="external text" href="http://www.nasa.gov/pdf/157360main_StirlingParkinson2006_Arctic59-3-261.pdf" rel="nofollow">"Possible effects of climate warming on selected populations of polar bears (<i>Ursus maritimus</i>) in the Canadian Arctic"</a> <span style="font-size:85%;">(PDF)</span>. <i>Arctic</i>. <b>59</b> (3): 261–275. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/40512813" rel="nofollow">40512813</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.14430%2Farctic312" rel="nofollow">10.14430/arctic312</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=Possible+effects+of+climate+warming+on+selected+populations+of+polar+bears+%28Ursus+maritimus%29+in+the+Canadian+Arctic&amp;rft.au=Parkinson%2C+C.L.&amp;rft.aufirst=I.&amp;rft.aulast=Stirling&amp;rft.date=2006-09&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Arctic&amp;rft.pages=261-275&amp;rft.volume=59&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F40512813&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fpdf%2F157360main_StirlingParkinson2006_Arctic59-3-261.pdf&amp;rft_id=info%3Adoi%2F10.14430%2Farctic312&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation journal">Rothrock, D.A.; Zhang, J. (2005). "Arctic Ocean Sea Ice Volume: What Explains Its Recent Depletion?". <i><a class="mw-redirect" href="/wiki/J._Geophys._Res." title="J. Geophys. Res.">J. Geophys. Res.</a></i> <b>110</b> (C1): C01002. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005JGRC..11001002R" rel="nofollow">2005JGRC..11001002R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2004JC002282" rel="nofollow">10.1029/2004JC002282</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=Arctic+Ocean+Sea+Ice+Volume%3A+What+Explains+Its+Recent+Depletion%3F&amp;rft.au=Zhang%2C+J.&amp;rft.aufirst=D.A.&amp;rft.aulast=Rothrock&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=C1&amp;rft.jtitle=J.+Geophys.+Res.&amp;rft.pages=C01002&amp;rft.volume=110&amp;rft_id=info%3Abibcode%2F2005JGRC..11001002R&amp;rft_id=info%3Adoi%2F10.1029%2F2004JC002282&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web" id="CITEREFNOAA_Sea_Ice_essay"><a class="external text" href="http://www.arctic.noaa.gov/essay_wadhams.html" rel="nofollow">"How Does Arctic Sea Ice Form and Decay?"</a>. <i>NOAA Arctic theme page</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2005</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=How+Does+Arctic+Sea+Ice+Form+and+Decay%3F&amp;rft.genre=unknown&amp;rft.jtitle=NOAA+Arctic+theme+page&amp;rft_id=http%3A%2F%2Fwww.arctic.noaa.gov%2Fessay_wadhams.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web" id="CITEREFNSIDC_All_About_Sea_Ice"><a class="external text" href="http://nsidc.org/cryosphere/seaice/" rel="nofollow">"All About Sea Ice"</a>. National Snow and Ice Data Center, University of Colorado, Boulder.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.btitle=All+About+Sea+Ice&amp;rft.genre=unknown&amp;rft.pub=National+Snow+and+Ice+Data+Center%2C+University+of+Colorado%2C+Boulder&amp;rft_id=http%3A%2F%2Fnsidc.org%2Fcryosphere%2Fseaice%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Vinnikov, K.Y.; Cavalieri, D.J.; Parkinson, C.L. (March 2006). "A model assessment of satellite observed trends in polar sea ice extents". <i>Geophys. Res. Lett</i>. <b>33</b> (5): L05704. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006GeoRL..33.5704V" rel="nofollow">2006GeoRL..33.5704V</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2005GL025282" rel="nofollow">10.1029/2005GL025282</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.atitle=A+model+assessment+of+satellite+observed+trends+in+polar+sea+ice+extents&amp;rft.au=Cavalieri%2C+D.J.&amp;rft.au=Parkinson%2C+C.L.&amp;rft.aufirst=K.Y.&amp;rft.aulast=Vinnikov&amp;rft.date=2006-03&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=L05704&amp;rft.volume=33&amp;rft_id=info%3Abibcode%2F2006GeoRL..33.5704V&amp;rft_id=info%3Adoi%2F10.1029%2F2005GL025282&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Sea_ice_glossaries">Sea ice glossaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=23" title="Edit section: Sea ice glossaries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a class="external text" href="http://nsidc.org/cgi-bin/words/glossary.pl" rel="nofollow">"Cryosphere Glossary"</a>. National Snow and Ice Data Center, University of Colorado, Boulder.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.btitle=Cryosphere+Glossary&amp;rft.genre=unknown&amp;rft.pub=National+Snow+and+Ice+Data+Center%2C+University+of+Colorado%2C+Boulder&amp;rft_id=http%3A%2F%2Fnsidc.org%2Fcgi-bin%2Fwords%2Fglossary.pl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web" id="CITEREFEnvironment_Canada_Ice_Glossary"><a class="external text" href="http://www.ec.gc.ca/glaces-ice/default.asp?lang=En&amp;n=501D72C1-1" rel="nofollow">"Ice Glossary"</a>. Environment Canada.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.btitle=Ice+Glossary&amp;rft.genre=unknown&amp;rft.pub=Environment+Canada&amp;rft_id=http%3A%2F%2Fwww.ec.gc.ca%2Fglaces-ice%2Fdefault.asp%3Flang%3DEn%26n%3D501D72C1-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web" id="CITEREFWMO_Sea-Ice_Nomenclature"><a class="external text" href="http://www.jcomm.info/components/com_oe/oe.php?task=download&amp;id=27226&amp;version=March%202014&amp;lang=1&amp;format=1" rel="nofollow">"WMO Sea-Ice Nomenclature"</a>. World Meteorological Organization. WMO/OMM/ВМО — No. 259 • Edition 1970–2004.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.btitle=WMO+Sea-Ice+Nomenclature&amp;rft.genre=unknown&amp;rft.pub=World+Meteorological+Organization&amp;rft_id=http%3A%2F%2Fwww.jcomm.info%2Fcomponents%2Fcom_oe%2Foe.php%3Ftask%3Ddownload%26id%3D27226%26version%3DMarch%25202014%26lang%3D1%26format%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_ice&amp;action=edit&amp;section=24" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Sea_ice" title="commons:Category:Sea ice">Sea ice</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://arctic.atmos.uiuc.edu/cryosphere/" rel="nofollow">Cryosphere today: Current sea ice conditions from the University of Illinois</a></li>
+<li><a class="external text" href="http://www.iup.uni-bremen.de:8084/amsr2/" rel="nofollow">Daily <i>Advanced Microwave Scanning Radiometer 2</i> sea ice maps from the University of Bremen</a></li>
+<li><cite class="citation web"><a class="external text" href="http://nsidc.org" rel="nofollow">"National Snow and Ice Data Center"</a>. University of Colorado, Boulder.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+ice&amp;rft.btitle=National+Snow+and+Ice+Data+Center&amp;rft.genre=unknown&amp;rft.pub=University+of+Colorado%2C+Boulder&amp;rft_id=http%3A%2F%2Fnsidc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span>
+<ul>
+<li><a class="external text" href="http://nsidc.org/data/seaice_index/" rel="nofollow">Sea Ice Index</a></li>
+<li><a class="external text" href="http://nsidc.org/sotc/sea_ice.html" rel="nofollow">Global Sea Ice Extent and Concentration: What sensors on satellites are telling us about sea ice</a></li>
+</ul>
+</li>
+</ul>
+<div aria-labelledby="Ice" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ice" title="Template:Ice"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ice" title="Template talk:Ice"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ice&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ice" style="font-size:114%;margin:0 4em"><a href="/wiki/Ice" title="Ice">Ice</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>the <a href="/wiki/Solid" title="Solid">solid</a> <a href="/wiki/State_of_matter" title="State of matter">state</a> of <a href="/wiki/Water" title="Water">water</a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ice#Phases" title="Ice">Crystalline types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ice_Ih" title="Ice Ih">I<span style="position: relative; top: 0.2em;"><span style="font-size:90%;">h</span></span></a></li>
+<li><a href="/wiki/Ice_Ic" title="Ice Ic">I<span style="position: relative; top: 0.2em;"><span style="font-size:90%;">c</span></span></a></li>
+<li><a href="/wiki/Ice_II" title="Ice II">II</a></li>
+<li><a href="/wiki/Ice_III" title="Ice III">III</a></li>
+<li><a class="mw-redirect" href="/wiki/Ice_IV" title="Ice IV">IV</a></li>
+<li><a href="/wiki/Ice_V" title="Ice V">V</a></li>
+<li><a class="mw-redirect" href="/wiki/Ice_VI" title="Ice VI">VI</a></li>
+<li><a href="/wiki/Ice_VII" title="Ice VII">VII</a></li>
+<li><a href="/wiki/Ice_VIII" title="Ice VIII">VIII</a></li>
+<li><a href="/wiki/Ice_IX" title="Ice IX">IX</a></li>
+<li><a class="mw-redirect" href="/wiki/Ice_X" title="Ice X">X</a></li>
+<li><a href="/wiki/Ice_XI" title="Ice XI">XI</a></li>
+<li><a href="/wiki/Ice_XII" title="Ice XII">XII</a></li>
+<li><a class="mw-redirect" href="/wiki/Ice_XIII" title="Ice XIII">XIII</a></li>
+<li><a class="mw-redirect" href="/wiki/Ice_XIV" title="Ice XIV">XIV</a></li>
+<li><a href="/wiki/Ice_XV" title="Ice XV">XV</a></li>
+<li><a href="/wiki/Ice_XVI" title="Ice XVI">XVI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Formations and<br/>
+phenomena</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amorphous_ice" title="Amorphous ice">Amorphous solid</a></li>
+<li><a href="/wiki/Anchor_ice" title="Anchor ice">Anchor</a></li>
+<li><a href="/wiki/Black_ice" title="Black ice">Black</a></li>
+<li><a href="/wiki/Clathrate_hydrate" title="Clathrate hydrate">Clathrate hydrates</a></li>
+<li><a href="/wiki/Ice_cap" title="Ice cap">Cap</a></li>
+<li><a href="/wiki/Ice_cave" title="Ice cave">Cave</a></li>
+<li><a href="/wiki/Ice_circle" title="Ice circle">Circle or disc</a></li>
+<li><a href="/wiki/Clear_ice" title="Clear ice">Clear</a></li>
+<li><a href="/wiki/Ice_crystals" title="Ice crystals">Crystals</a></li>
+<li><a href="/wiki/Ice_dam" title="Ice dam">Dam</a> (<a href="/wiki/Ice_dam_(roof)" title="Ice dam (roof)">on roof</a>)</li>
+<li><a href="/wiki/Diamond_dust" title="Diamond dust">Diamond dust</a></li>
+<li><a href="/wiki/Drift_ice" title="Drift ice">Drift</a></li>
+<li><a href="/wiki/Ice_dune" title="Ice dune">Dune</a></li>
+<li><a href="/wiki/Ice_field" title="Ice field">Field</a></li>
+<li><a href="/wiki/Firn" title="Firn">Firn</a></li>
+<li><a href="/wiki/Ice_fog" title="Ice fog">Fog</a></li>
+<li><a href="/wiki/Frazil_ice" title="Frazil ice">Frazil</a></li>
+<li><a href="/wiki/Frost" title="Frost">Frost</a></li>
+<li><a href="/wiki/Frost_heaving" title="Frost heaving">Frost heave</a></li>
+<li><a href="/wiki/Frost_flower" title="Frost flower">Frost flower</a> (<a href="/wiki/Frost_flower_(sea_ice)" title="Frost flower (sea ice)">sea ice</a>)</li>
+<li><a href="/wiki/Glacier" title="Glacier">Glacier</a></li>
+<li><a href="/wiki/Glaze_(ice)" title="Glaze (ice)">Glaze</a></li>
+<li><a href="/wiki/Hair_ice" title="Hair ice">Hair ice</a></li>
+<li><a href="/wiki/Iceberg" title="Iceberg">Iceberg</a> (<a href="/wiki/Ice_calving" title="Ice calving">calving</a>)</li>
+<li><a href="/wiki/Icicle" title="Icicle">Icicle</a></li>
+<li><a href="/wiki/Ice_jacking" title="Ice jacking">Jacking</a></li>
+<li><a href="/wiki/Ice_nucleus" title="Ice nucleus">Nucleus</a></li>
+<li><a href="/wiki/Ice_sheet" title="Ice sheet">Sheet</a></li>
+<li><a href="/wiki/Ice_shove" title="Ice shove">Shove</a></li>
+<li><a href="/wiki/Ice_spike" title="Ice spike">Spike</a></li>
+<li><a href="/wiki/Stalactite#Ice_stalactites" title="Stalactite">Stalactites</a></li>
+<li><a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">Macroscopic quantum phenomena</a></li>
+<li><a href="/wiki/N%C3%A9v%C3%A9" title="Névé">Névé</a></li>
+<li><a href="/wiki/Needle_ice" title="Needle ice">Needle</a></li>
+<li><a href="/wiki/Frost#Rime" title="Frost">Rime</a>
+<ul>
+<li><a href="/wiki/Hard_rime" title="Hard rime">hard</a></li>
+<li><a href="/wiki/Soft_rime" title="Soft rime">soft</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Sea</a></li>
+<li><a href="/wiki/Slurry_ice" title="Slurry ice">Slurry</a></li>
+<li><a href="/wiki/Slush" title="Slush">Slush</a></li>
+<li><a href="/wiki/Ice_storm" title="Ice storm">Storm</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ice-related<br/>
+activities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ice_bath" title="Ice bath">Bathing</a></li>
+<li><a href="/wiki/Ice_blasting" title="Ice blasting">Blasting</a></li>
+<li><a href="/wiki/Ice_blocking" title="Ice blocking">Blocking</a></li>
+<li><a href="/wiki/Ice_climbing" title="Ice climbing">Climbing</a></li>
+<li><a href="/wiki/Ice_fishing" title="Ice fishing">Fishing</a></li>
+<li><a href="/wiki/Ice_rafting" title="Ice rafting">Rafting</a></li>
+<li><a href="/wiki/Ice_sculpture" title="Ice sculpture">Sculpture</a></li>
+<li><a href="/wiki/Ice_skating" title="Ice skating">Skating</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight: normal;"><a href="/wiki/Winter_sport" title="Winter sport">Sports</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ice_boat" title="Ice boat">Boating</a> / <a href="/wiki/Ice_yachting" title="Ice yachting">yachting</a></li>
+<li><a href="/wiki/Ice_cricket" title="Ice cricket">Cricket</a></li>
+<li><a href="/wiki/Curling" title="Curling">Curling</a></li>
+<li><a href="/wiki/Figure_skating" title="Figure skating">Figure skating</a></li>
+<li><a href="/wiki/Ice_hockey" title="Ice hockey">Hockey</a></li>
+<li><a href="/wiki/Ice_racing" title="Ice racing">Racing</a></li>
+<li><a href="/wiki/Tour_skating" title="Tour skating">Tour skating</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Constructions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ice_bar" title="Ice bar">Bar</a></li>
+<li><a href="/wiki/Ice_bridge" title="Ice bridge">Bridge</a></li>
+<li><a href="/wiki/Ice_hotel" title="Ice hotel">Hotel</a></li>
+<li><a href="/wiki/Igloo" title="Igloo">Igloo</a></li>
+<li><a href="/wiki/Ice_palace" title="Ice palace">Palace</a></li>
+<li><a href="/wiki/Ice_pier" title="Ice pier">Pier</a></li>
+<li><a href="/wiki/Pykrete" title="Pykrete">Pykrete</a></li>
+<li><a href="/wiki/Ice_road" title="Ice road">Road</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Work</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ice_cutting" title="Ice cutting">Cutting</a></li>
+<li><a href="/wiki/Icebox" title="Icebox">Icebox</a></li>
+<li><a href="/wiki/Ice_house_(building)" title="Ice house (building)">Icehouse</a></li>
+<li><a href="/wiki/Iceman_(occupation)" title="Iceman (occupation)">Iceman (occupation)</a></li>
+<li><a href="/wiki/Ice_pick" title="Ice pick">Pick</a></li>
+<li><a href="/wiki/Ice_trade" title="Ice trade">Trade</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other uses</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ice_chips" title="Ice chips">Chips</a></li>
+<li><a href="/wiki/Ice_core" title="Ice core">Core</a></li>
+<li><a href="/wiki/Ice_cream" title="Ice cream">Cream</a></li>
+<li><a href="/wiki/Ice_cube" title="Ice cube">Cube</a></li>
+<li><a href="/wiki/Ice_pack" title="Ice pack">Pack</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ice_age" title="Ice age">Ice ages</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glaciology" title="Glaciology">Glaciology</a></li>
+<li><a href="/wiki/Little_Ice_Age" title="Little Ice Age">Little Ice Age</a></li>
+<li><a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li> <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Water_ice" title="Category:Water ice">Category</a></li>
+<li> <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Ice" title="commons:Category:Ice">Wikimedia Commons</a></li>
+<li> <img alt="Wiktionary page" data-file-height="350" data-file-width="370" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/16px-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/24px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/32px-Wiktionary-logo.svg.png 2x" title="Wiktionary page" width="16"/> <a class="extiw" href="https://en.wiktionary.org/wiki/ice" title="wikt:ice">Wiktionary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4131349-5" rel="nofollow">4131349-5</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00564561" rel="nofollow">00564561</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1279
+Cached time: 20171022135426
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.420 seconds
+Real time usage: 0.529 seconds
+Preprocessor visited node count: 2035/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 64149/2097152 bytes
+Template argument size: 609/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.187/10.000 seconds
+Lua memory usage: 6.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  435.036      1 -total
+ 37.15%  161.617      1 Template:Reflist
+ 14.34%   62.393      5 Template:Cite_book
+ 12.98%   56.456     27 Template:Convert
+  8.80%   38.286      2 Template:Navbox
+  8.62%   37.485      1 Template:Ice
+  8.31%   36.145      7 Template:Cite_journal
+  7.90%   34.377      8 Template:Cite_web
+  6.63%   28.857      1 Template:Use_dmy_dates
+  6.51%   28.337      1 Template:Commons_category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:343225-0!canonical and timestamp 20171022135427 and revision id 806508318
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sea_ice&amp;oldid=806508318">https://en.wikipedia.org/w/index.php?title=Sea_ice&amp;oldid=806508318</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sea_ice" title="Category:Sea ice">Sea ice</a></li><li><a href="/wiki/Category:Aquatic_ecology" title="Category:Aquatic ecology">Aquatic ecology</a></li><li><a href="/wiki/Category:Earth_phenomena" title="Category:Earth phenomena">Earth phenomena</a></li><li><a href="/wiki/Category:Bodies_of_ice" title="Category:Bodies of ice">Bodies of ice</a></li><li><a href="/wiki/Category:Oceanographical_terminology" title="Category:Oceanographical terminology">Oceanographical terminology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_September_2012" title="Category:Use dmy dates from September 2012">Use dmy dates from September 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sea+ice" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sea+ice" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sea_ice" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sea_ice" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sea_ice">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sea_ice&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sea_ice&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sea_ice" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sea_ice" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sea_ice&amp;oldid=806508318" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sea_ice&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q213926" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sea_ice&amp;id=806508318" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sea+ice">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sea+ice&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sea_ice&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sea_ice" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Minerals/Ices/Sea_ices" hreflang="en">Wikiversity</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D9%84%D9%8A%D8%AF_%D8%A8%D8%AD%D8%B1%D9%8A" hreflang="ar" lang="ar" title="جليد بحري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Morskorneg" hreflang="br" lang="br" title="Morskorneg – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Banquisa" hreflang="ca" lang="ca" title="Banquisa – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mo%C5%99sk%C3%BD_led" hreflang="cs" lang="cs" title="Mořský led – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Havis" hreflang="da" lang="da" title="Havis – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Meereis" hreflang="de" lang="de" title="Meereis – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Paakj%C3%A4%C3%A4" hreflang="et" lang="et" title="Paakjää – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Banquisa" hreflang="es" lang="es" title="Banquisa – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Flosglacio" hreflang="eo" lang="eo" title="Flosglacio – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Bankisa" hreflang="eu" lang="eu" title="Bankisa – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DB%8C%D8%AE_%D8%AF%D8%B1%DB%8C%D8%A7" hreflang="fa" lang="fa" title="یخ دریا – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Banquise" hreflang="fr" lang="fr" title="Banquise – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Oighear_mara" hreflang="ga" lang="ga" title="Oighear mara – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Banquisa" hreflang="gl" lang="gl" title="Banquisa – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%95%B4%EB%B9%99" hreflang="ko" lang="ko" title="해빙 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A4%BC" hreflang="hi" lang="hi" title="समुद्री बर्फ़ – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Es_laut" hreflang="id" lang="id" title="Es laut – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Haf%C3%ADs" hreflang="is" lang="is" title="Hafís – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Banchisa" hreflang="it" lang="it" title="Banchisa – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%96%E1%83%A6%E1%83%95%E1%83%98%E1%83%A1_%E1%83%A7%E1%83%98%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98" hreflang="ka" lang="ka" title="ზღვის ყინული – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D0%B0%D1%81" hreflang="kk" lang="kk" title="Нилас – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Pakledus" hreflang="lv" lang="lv" title="Pakledus – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Pakas" hreflang="lt" lang="lt" title="Pakas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Air_batu_laut" hreflang="ms" lang="ms" title="Air batu laut – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zee-ijs" hreflang="nl" lang="nl" title="Zee-ijs – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B0%B7" hreflang="ja" lang="ja" title="海氷 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sj%C3%B8is" hreflang="no" lang="no" title="Sjøis – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Sj%C3%B8is" hreflang="nn" lang="nn" title="Sjøis – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Banquisa" hreflang="oc" lang="oc" title="Banquisa – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/L%C3%B3d_morski" hreflang="pl" lang="pl" title="Lód morski – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Banquisa" hreflang="pt" lang="pt" title="Banquisa – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Banchiz%C4%83" hreflang="ro" lang="ro" title="Banchiză – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D1%91%D0%B4" hreflang="ru" lang="ru" title="Морской лёд – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Morski_led" hreflang="sl" lang="sl" title="Morski led – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Merij%C3%A4%C3%A4" hreflang="fi" lang="fi" title="Merijää – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Havsis" hreflang="sv" lang="sv" title="Havsis – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%9F%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AE%BF" hreflang="ta" lang="ta" title="கடற்பனி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-chr"><a class="interlanguage-link-target" href="https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8E%BA%E1%8F%89%E1%8E%AF_%E1%8E%A4%E1%8F%81%E1%8F%8D%E1%8F%93%E1%8E%B3" hreflang="chr" lang="chr" title="ᎠᎺᏉᎯ ᎤᏁᏍᏓᎳ – Cherokee">ᏣᎳᎩ</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BB%D1%96%D0%B4" hreflang="uk" lang="uk" title="Морський лід – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B5%B7%E5%86%B0" hreflang="zh-yue" lang="zh-yue" title="海冰 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%86%B0" hreflang="zh" lang="zh" title="海冰 – Chinese">中文</a></li><li class="interlanguage-link interwiki-kbp"><a class="interlanguage-link-target" href="https://kbp.wikipedia.org/wiki/Pa%C5%8Bgiizi" hreflang="kbp" lang="kbp" title="Paŋgiizi – Kabiye">Kabɩyɛ</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q213926#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 October 2017, at 13:54.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sea_ice&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.529","ppvisitednodes":{"value":2035,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":64149,"limit":2097152},"templateargumentsize":{"value":609,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  435.036      1 -total"," 37.15%  161.617      1 Template:Reflist"," 14.34%   62.393      5 Template:Cite_book"," 12.98%   56.456     27 Template:Convert","  8.80%   38.286      2 Template:Navbox","  8.62%   37.485      1 Template:Ice","  8.31%   36.145      7 Template:Cite_journal","  7.90%   34.377      8 Template:Cite_web","  6.63%   28.857      1 Template:Use_dmy_dates","  6.51%   28.337      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.187","limit":"10.000"},"limitreport-memusage":{"value":6733996,"limit":52428800}},"cachereport":{"origin":"mw1279","timestamp":"20171022135426","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1323"});});</script>
+</body>
+</html>

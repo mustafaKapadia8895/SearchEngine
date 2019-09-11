@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Violin concerto - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Violin_concerto","wgTitle":"Violin concerto","wgCurRevisionId":802218601,"wgRevisionId":802218601,"wgArticleId":307929,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Violins","Violin concertos"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Violin_concerto","wgRelevantArticleId":307929,"wgRequestId":"WgDISgpAIDYAAFI5xAQAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q633441","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/1/12/Bundesarchiv_Bild_183-77066-0002%2C_Berlin%2C_Deutsche_Staatsoper%2C_Festkonzert_David_Oistrach.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Violin_concerto" rel="alternate"/>
+<link href="/w/index.php?title=Violin_concerto&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Violin_concerto&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Violin_concerto" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Violin_concerto rootpage-Violin_concerto vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Violin concerto</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:312px;"><a class="image" href="/wiki/File:Bundesarchiv_Bild_183-77066-0002,_Berlin,_Deutsche_Staatsoper,_Festkonzert_David_Oistrach.jpg"><img alt="" class="thumbimage" data-file-height="606" data-file-width="800" height="235" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_Bild_183-77066-0002%2C_Berlin%2C_Deutsche_Staatsoper%2C_Festkonzert_David_Oistrach.jpg/310px-Bundesarchiv_Bild_183-77066-0002%2C_Berlin%2C_Deutsche_Staatsoper%2C_Festkonzert_David_Oistrach.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_Bild_183-77066-0002%2C_Berlin%2C_Deutsche_Staatsoper%2C_Festkonzert_David_Oistrach.jpg/465px-Bundesarchiv_Bild_183-77066-0002%2C_Berlin%2C_Deutsche_Staatsoper%2C_Festkonzert_David_Oistrach.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_Bild_183-77066-0002%2C_Berlin%2C_Deutsche_Staatsoper%2C_Festkonzert_David_Oistrach.jpg/620px-Bundesarchiv_Bild_183-77066-0002%2C_Berlin%2C_Deutsche_Staatsoper%2C_Festkonzert_David_Oistrach.jpg 2x" width="310"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Bundesarchiv_Bild_183-77066-0002,_Berlin,_Deutsche_Staatsoper,_Festkonzert_David_Oistrach.jpg" title="Enlarge"></a></div>
+<a href="/wiki/David_Oistrakh" title="David Oistrakh">David Oistrakh</a> playing a violin concerto</div>
+</div>
+</div>
+<p>A <b>violin concerto</b> is a <a href="/wiki/Concerto" title="Concerto">concerto</a> for solo <a href="/wiki/Violin" title="Violin">violin</a> (occasionally, two or more violins) and instrumental ensemble, customarily <a href="/wiki/Orchestra" title="Orchestra">orchestra</a>. Such works have been written since the <a href="/wiki/Baroque_music" title="Baroque music">Baroque</a> period, when the solo concerto form was first developed, up through the present day. Many major composers have contributed to the violin concerto repertoire, with the best known works including those by <a href="/wiki/Johann_Sebastian_Bach" title="Johann Sebastian Bach">Bach</a>, <a href="/wiki/B%C3%A9la_Bart%C3%B3k" title="Béla Bartók">Bartók</a>, <a href="/wiki/William_Walton" title="William Walton">Walton</a>, <a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Beethoven</a>, <a href="/wiki/Johannes_Brahms" title="Johannes Brahms">Brahms</a>, <a href="/wiki/Max_Bruch" title="Max Bruch">Bruch</a>, <a href="/wiki/Felix_Mendelssohn" title="Felix Mendelssohn">Mendelssohn</a>, <a href="/wiki/Wolfgang_Amadeus_Mozart" title="Wolfgang Amadeus Mozart">Mozart</a>, <a href="/wiki/Niccol%C3%B2_Paganini" title="Niccolò Paganini">Paganini</a>, <a class="mw-redirect" href="/wiki/Prokofiev" title="Prokofiev">Prokofiev</a>, <a class="mw-redirect" href="/wiki/Shostakovich" title="Shostakovich">Shostakovich</a>, <a href="/wiki/Jean_Sibelius" title="Jean Sibelius">Sibelius</a>, <a href="/wiki/Pyotr_Ilyich_Tchaikovsky" title="Pyotr Ilyich Tchaikovsky">Tchaikovsky</a>, and <a class="mw-redirect" href="/wiki/Vivaldi" title="Vivaldi">Vivaldi</a>. Traditionally a three-movement work, the violin concerto has been structured in four movements by a number of modern composers, including <a href="/wiki/Dmitri_Shostakovich" title="Dmitri Shostakovich">Dmitri Shostakovich</a>, <a href="/wiki/Igor_Stravinsky" title="Igor Stravinsky">Igor Stravinsky</a>, and <a href="/wiki/Alban_Berg" title="Alban Berg">Alban Berg</a> (in the latter, the first two and last two movements are connected, with the only break coming between the second and third). In some violin concertos, especially from the Baroque and modern eras, the violin (or group of violins) is accompanied by a <a href="/wiki/Chamber_music" title="Chamber music">chamber ensemble</a> rather than an orchestra—for instance, Vivaldi's <i>L'estro armonico</i>, originally scored for four violins, two violas, cello, and <a href="/wiki/Figured_bass" title="Figured bass">continuo</a>, and <a href="/wiki/Allan_Pettersson" title="Allan Pettersson">Allan Pettersson</a>'s first concerto, for violin and string quartet.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Selected_list_of_violin_concertos"><span class="tocnumber">1</span> <span class="toctext">Selected list of violin concertos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Selected_list_of_other_works_for_violin_and_ensemble"><span class="tocnumber">1.1</span> <span class="toctext">Selected list of other works for violin and ensemble</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Selected_list_of_violin_concertos">Selected list of violin concertos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Violin_concerto&amp;action=edit&amp;section=1" title="Edit section: Selected list of violin concertos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following concertos are presently found near the center of the mainstream Western repertoire. For a more comprehensive list of violin concertos, see <a href="/wiki/List_of_compositions_for_violin_and_orchestra" title="List of compositions for violin and orchestra">List of compositions for violin and orchestra</a>.</p>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/John_Adams_(composer)" title="John Adams (composer)">John Adams</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Violin_Concerto_(John_Adams)" title="Violin Concerto (John Adams)">Violin Concerto</a> (1993)</li>
+</ul>
+</li>
+<li><a href="/wiki/Malcolm_Arnold" title="Malcolm Arnold">Malcolm Arnold</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Concerto_for_Two_Violins_and_String_Orchestra" title="Concerto for Two Violins and String Orchestra">Concerto for Two Violins and String Orchestra</a> (1962)</li>
+</ul>
+</li>
+<li><a href="/wiki/Johann_Sebastian_Bach" title="Johann Sebastian Bach">Johann Sebastian Bach</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_in_A_minor_(Bach)" title="Violin Concerto in A minor (Bach)">Violin Concerto in A minor, BWV 1041</a> (1717–1723)</li>
+<li><a href="/wiki/Violin_Concerto_in_E_major_(Bach)" title="Violin Concerto in E major (Bach)">Violin Concerto in E major, BWV 1042</a> (1717–1723)</li>
+<li><a class="mw-redirect" href="/wiki/Double_Violin_Concerto_(Bach)" title="Double Violin Concerto (Bach)">Double Violin Concerto in D minor, BWV 1043</a> (1723)</li>
+<li>Violin Concerto in D minor, BWV 1052</li>
+<li>Violin Concerto for 3 violins in D major, BWV 1064</li>
+<li>Violin Concerto in G minor, BWV 1056</li>
+</ul>
+</li>
+<li><a href="/wiki/Samuel_Barber" title="Samuel Barber">Samuel Barber</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Barber)" title="Violin Concerto (Barber)">Violin Concerto, op. 14</a> (1939)</li>
+</ul>
+</li>
+<li><a href="/wiki/B%C3%A9la_Bart%C3%B3k" title="Béla Bartók">Béla Bartók</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Bart%C3%B3k)" title="Violin Concerto No. 1 (Bartók)">Violin Concerto No. 1</a> (1908)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Bart%C3%B3k)" title="Violin Concerto No. 2 (Bartók)">Violin Concerto No. 2</a> (1938)</li>
+</ul>
+</li>
+<li><a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Ludwig van Beethoven</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Beethoven)" title="Violin Concerto (Beethoven)">Violin Concerto in D major, op. 61</a> (1806)</li>
+</ul>
+</li>
+<li><a href="/wiki/Alban_Berg" title="Alban Berg">Alban Berg</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Berg)" title="Violin Concerto (Berg)">Violin Concerto</a> (1935)</li>
+</ul>
+</li>
+<li><a href="/wiki/Johannes_Brahms" title="Johannes Brahms">Johannes Brahms</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Brahms)" title="Violin Concerto (Brahms)">Violin Concerto in D major, op. 77</a> (1878)</li>
+</ul>
+</li>
+<li><a href="/wiki/Benjamin_Britten" title="Benjamin Britten">Benjamin Britten</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Britten)" title="Violin Concerto (Britten)">Violin Concerto</a> (1939)</li>
+</ul>
+</li>
+<li><a href="/wiki/Max_Bruch" title="Max Bruch">Max Bruch</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Bruch)" title="Violin Concerto No. 1 (Bruch)">Violin Concerto No. 1 in G minor, op. 26</a> (1867)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Bruch)" title="Violin Concerto No. 2 (Bruch)">Violin Concerto No. 2 in D minor, op. 44</a> (1878)</li>
+<li><a href="/wiki/Violin_Concerto_No._3_(Bruch)" title="Violin Concerto No. 3 (Bruch)">Violin Concerto No. 3 in D minor, op. 58</a> (1891)</li>
+</ul>
+</li>
+<li><a href="/wiki/Henri_Dutilleux" title="Henri Dutilleux">Henri Dutilleux</a>
+<ul>
+<li><a href="/wiki/L%27arbre_des_songes" title="L'arbre des songes">L'Arbre des songes</a> (1985)</li>
+</ul>
+</li>
+<li><a href="/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k" title="Antonín Dvořák">Antonín Dvořák</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Dvo%C5%99%C3%A1k)" title="Violin Concerto (Dvořák)">Violin Concerto in A minor, op. 53</a> (1879–1880)</li>
+</ul>
+</li>
+<li><a href="/wiki/Edward_Elgar" title="Edward Elgar">Edward Elgar</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Elgar)" title="Violin Concerto (Elgar)">Violin Concerto in B minor, op. 61</a> (1910)</li>
+</ul>
+</li>
+<li><a href="/wiki/Eduard_Franck" title="Eduard Franck">Eduard Franck</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_(Eduard_Franck)&amp;action=edit&amp;redlink=1" title="Violin Concerto (Eduard Franck) (page does not exist)">Violin Concerto in e minor, op. 30</a> (1855/1861)</li>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_(Eduard_Franck)&amp;action=edit&amp;redlink=1" title="Violin Concerto (Eduard Franck) (page does not exist)">Violin Concerto in D major, op. 57</a> (1875)</li>
+</ul>
+</li>
+<li><a href="/wiki/Richard_Franck" title="Richard Franck">Richard Franck</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_(Richard_Franck)&amp;action=edit&amp;redlink=1" title="Violin Concerto (Richard Franck) (page does not exist)">Violin Concerto in D major, op. 43</a> (1906)</li>
+</ul>
+</li>
+<li><a href="/wiki/Alexander_Glazunov" title="Alexander Glazunov">Alexander Glazunov</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Glazunov)" title="Violin Concerto (Glazunov)">Violin Concerto in A minor, op. 82</a> (1904)</li>
+</ul>
+</li>
+<li><a href="/wiki/Karl_Goldmark" title="Karl Goldmark">Karl Goldmark</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Goldmark)" title="Violin Concerto No. 1 (Goldmark)">Violin Concerto No. 1 in A minor, op. 28</a> (1877)</li>
+</ul>
+</li>
+<li><a href="/wiki/Paul_Hindemith" title="Paul Hindemith">Paul Hindemith</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_(Hindemith)&amp;action=edit&amp;redlink=1" title="Violin Concerto (Hindemith) (page does not exist)">Violin Concerto</a> (1939)</li>
+</ul>
+</li>
+<li><a href="/wiki/Joseph_Joachim" title="Joseph Joachim">Joseph Joachim</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._3_(Joachim)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 3 (Joachim) (page does not exist)">Violin Concerto No. 3 in G major</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mieczys%C5%82aw_Kar%C5%82owicz" title="Mieczysław Karłowicz">Mieczysław Karłowicz</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_(Karlowicz)&amp;action=edit&amp;redlink=1" title="Violin Concerto (Karlowicz) (page does not exist)">Violin Concerto in A major, op. 8</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Aram_Khachaturian" title="Aram Khachaturian">Aram Khachaturian</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Khachaturian)" title="Violin Concerto (Khachaturian)">Violin Concerto in D minor, op. 46</a> (1940)</li>
+</ul>
+</li>
+<li><a href="/wiki/Erich_Wolfgang_Korngold" title="Erich Wolfgang Korngold">Erich Wolfgang Korngold</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Korngold)" title="Violin Concerto (Korngold)">Violin Concerto in D major, op. 35</a> (1945)</li>
+</ul>
+</li>
+<li><a href="/wiki/%C3%89douard_Lalo" title="Édouard Lalo">Édouard Lalo</a>
+<ul>
+<li>Violin Concerto in F major, op. 20 (1874)</li>
+<li><a class="mw-redirect" href="/wiki/Symphonie_Espagnole" title="Symphonie Espagnole">Symphonie Espagnole</a> (1874)</li>
+</ul>
+</li>
+<li><a href="/wiki/Lowell_Liebermann" title="Lowell Liebermann">Lowell Liebermann</a>
+<ul>
+<li>Concerto for Violin and Orchestra op. 74 (2001)</li>
+</ul>
+</li>
+<li><a href="/wiki/Gy%C3%B6rgy_Ligeti" title="György Ligeti">György Ligeti</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Ligeti)" title="Violin Concerto (Ligeti)">Violin Concerto (1992)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Karol_Lipi%C5%84ski" title="Karol Lipiński">Karol Lipiński</a>
+<ul>
+<li>Violin Concerto No. 1 op. 14 in F-sharp minor</li>
+<li>Violin Concerto No. 2 "Militaire" op. 21 in D major</li>
+<li>Violin Concerto No. 3 op. 24 in E minor</li>
+<li>Violin Concerto No. 4 op. 32 in A major</li>
+</ul>
+</li>
+<li><a href="/wiki/Henri_Marteau" title="Henri Marteau">Henri Marteau</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_in_C_Major,_op._18&amp;action=edit&amp;redlink=1" title="Violin Concerto in C Major, op. 18 (page does not exist)">Violin Concerto in C Major, op. 18</a> (1916)</li>
+</ul>
+</li>
+<li><a href="/wiki/Felix_Mendelssohn" title="Felix Mendelssohn">Felix Mendelssohn</a>
+<ul>
+<li><a href="/wiki/Concerto_for_Violin_and_Strings_(Mendelssohn)" title="Concerto for Violin and Strings (Mendelssohn)">Violin Concerto in D minor</a> (1822)</li>
+<li><a href="/wiki/Violin_Concerto_(Mendelssohn)" title="Violin Concerto (Mendelssohn)">Violin Concerto in E minor, op. 64</a> (1844)</li>
+</ul>
+</li>
+<li><a href="/wiki/Nikolai_Myaskovsky" title="Nikolai Myaskovsky">Nikolai Myaskovsky</a>
+<ul>
+<li>Violin Concerto in D Minor, op. 44</li>
+</ul>
+</li>
+<li><a href="/wiki/Wolfgang_Amadeus_Mozart" title="Wolfgang Amadeus Mozart">Wolfgang Amadeus Mozart</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Mozart)" title="Violin Concerto No. 1 (Mozart)">Violin Concerto No. 1 in B-flat major, K. 207</a> (1773)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Mozart)" title="Violin Concerto No. 2 (Mozart)">Violin Concerto No. 2 in D major, K. 211</a> (1775)</li>
+<li><a href="/wiki/Violin_Concerto_No._3_(Mozart)" title="Violin Concerto No. 3 (Mozart)">Violin Concerto No. 3 in G major, K. 216</a>, <i>Strassburg</i> (1775)</li>
+<li><a href="/wiki/Violin_Concerto_No._4_(Mozart)" title="Violin Concerto No. 4 (Mozart)">Violin Concerto No. 4 in D major, K. 218</a> (1775)</li>
+<li><a href="/wiki/Violin_Concerto_No._5_(Mozart)" title="Violin Concerto No. 5 (Mozart)">Violin Concerto No. 5 in A major, K. 219</a>, <i>Turkish</i> (1775), with alternative Adagio in E, K.261 (added 1776)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Carl_Nielsen" title="Carl Nielsen">Carl Nielsen</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Nielsen)" title="Violin Concerto (Nielsen)">Violin Concerto, op. 33</a> (1911)</li>
+</ul>
+</li>
+<li><a href="/wiki/Niccol%C3%B2_Paganini" title="Niccolò Paganini">Niccolò Paganini</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Paganini)" title="Violin Concerto No. 1 (Paganini)">Violin Concerto No. 1 in D major, op. 6, MS 21</a> (ca. 1811–17)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Paganini)" title="Violin Concerto No. 2 (Paganini)">Violin Concerto No. 2 in B minor, op. 7, MS 48</a>, <i>La Campanella</i> (1826)</li>
+<li><a href="/wiki/Violin_Concerto_No._3_(Paganini)" title="Violin Concerto No. 3 (Paganini)">Violin Concerto No. 3 in E major, MS 50</a> (ca. 1826–30)</li>
+<li><a href="/wiki/Violin_Concerto_No._4_(Paganini)" title="Violin Concerto No. 4 (Paganini)">Violin Concerto No. 4 in D minor, MS 60</a> (ca. 1829–30)</li>
+<li><a href="/wiki/Violin_Concerto_No._5_(Paganini)" title="Violin Concerto No. 5 (Paganini)">Violin Concerto No. 5 in A minor, MS 78</a> (1830)</li>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._6_(Paganini)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 6 (Paganini) (page does not exist)">Violin Concerto No. 6 in E minor, op. posth., MS 75</a>—probably the first to be written; only the solo part survives</li>
+</ul>
+</li>
+<li><a href="/wiki/Andr%C3%A9_Previn" title="André Previn">André Previn</a>
+<ul>
+<li>Violin Concerto "Anne-Sophie"</li>
+</ul>
+</li>
+<li><a href="/wiki/Sergei_Prokofiev" title="Sergei Prokofiev">Sergei Prokofiev</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Prokofiev)" title="Violin Concerto No. 1 (Prokofiev)">Violin Concerto No. 1 in D major, op. 19</a> (1917)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Prokofiev)" title="Violin Concerto No. 2 (Prokofiev)">Violin Concerto No. 2 in G minor, op. 63</a> (1935)</li>
+</ul>
+</li>
+<li><a href="/wiki/Max_Reger" title="Max Reger">Max Reger</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_(Reger)&amp;action=edit&amp;redlink=1" title="Violin Concerto (Reger) (page does not exist)">Violin Concerto</a> in A major <a class="mw-redirect" href="/wiki/Max_Reger_works#101" title="Max Reger works">Op. 101</a> (1907–1908)</li>
+</ul>
+</li>
+<li><a href="/wiki/Mikl%C3%B3s_R%C3%B3zsa" title="Miklós Rózsa">Miklós Rózsa</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(R%C3%B3zsa)" title="Violin Concerto (Rózsa)">Violin Concerto</a>, Op. 24 (1953)</li>
+</ul>
+</li>
+<li><a href="/wiki/Camille_Saint-Sa%C3%ABns" title="Camille Saint-Saëns">Camille Saint-Saëns</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._1_(Saint-Sa%C3%ABns)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 1 (Saint-Saëns) (page does not exist)">Violin Concerto No. 1 in A major, op. 20</a> (1859)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Saint-Sa%C3%ABns)" title="Violin Concerto No. 2 (Saint-Saëns)">Violin Concerto No. 2 in C major, op. 58</a> (1858)</li>
+<li><a href="/wiki/Violin_Concerto_No._3_(Saint-Sa%C3%ABns)" title="Violin Concerto No. 3 (Saint-Saëns)">Violin Concerto No. 3 in B minor, op. 61</a> (1880)</li>
+</ul>
+</li>
+<li><a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Schoenberg)" title="Violin Concerto (Schoenberg)">Violin Concerto</a> (1936)</li>
+</ul>
+</li>
+<li><a href="/wiki/Robert_Schumann" title="Robert Schumann">Robert Schumann</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Schumann)" title="Violin Concerto (Schumann)">Violin Concerto, WoO 23</a> (1853)</li>
+</ul>
+</li>
+<li><a href="/wiki/Laura_Schwendinger" title="Laura Schwendinger">Laura Schwendinger</a>
+<ul>
+<li>Violin Concerto "Chiaroscuro Azzurro"</li>
+</ul>
+</li>
+<li><a href="/wiki/Dmitri_Shostakovich" title="Dmitri Shostakovich">Dmitri Shostakovich</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Shostakovich)" title="Violin Concerto No. 1 (Shostakovich)">Violin Concerto No. 1 in A minor, op. 77</a> (1948, rev. 1955 as op. 99)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Shostakovich)" title="Violin Concerto No. 2 (Shostakovich)">Violin Concerto No. 2 in C-sharp minor, op. 129</a> (1967)</li>
+</ul>
+</li>
+<li><a href="/wiki/Aleksandr_Shymko" title="Aleksandr Shymko">Aleksandr Shymko</a>
+<ul>
+<li>Violin Concerto (2012)</li>
+</ul>
+</li>
+<li><a href="/wiki/Jean_Sibelius" title="Jean Sibelius">Jean Sibelius</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Sibelius)" title="Violin Concerto (Sibelius)">Violin Concerto in D minor, op. 47</a> (1904)</li>
+</ul>
+</li>
+<li><a href="/wiki/Maddalena_Laura_Sirmen" title="Maddalena Laura Sirmen">Maddalena Laura Sirmen</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Six_Violin_Concerti&amp;action=edit&amp;redlink=1" title="Six Violin Concerti (page does not exist)">Six Violin Concerti</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Igor_Stravinsky" title="Igor Stravinsky">Igor Stravinsky</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Stravinsky)" title="Violin Concerto (Stravinsky)">Violin Concerto</a> (1931)</li>
+</ul>
+</li>
+<li><a href="/wiki/Karol_Szymanowski" title="Karol Szymanowski">Karol Szymanowski</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Szymanowski)" title="Violin Concerto No. 1 (Szymanowski)">Violin Concerto No. 1, op. 35</a> (1916)</li>
+<li>Violin Concerto No. 2, op. 61 (1932-1933)</li>
+</ul>
+</li>
+<li><a href="/wiki/Pyotr_Ilyich_Tchaikovsky" title="Pyotr Ilyich Tchaikovsky">Pyotr Ilyich Tchaikovsky</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Tchaikovsky)" title="Violin Concerto (Tchaikovsky)">Violin Concerto in D major, op. 35</a> (1878)</li>
+</ul>
+</li>
+<li><a href="/wiki/Henri_Vieuxtemps" title="Henri Vieuxtemps">Henri Vieuxtemps</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._1_(Vieuxtemps)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 1 (Vieuxtemps) (page does not exist)">Violin Concerto No. 1 in E major, op. 10</a> (1840)</li>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._2_(Vieuxtemps)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 2 (Vieuxtemps) (page does not exist)">Violin Concerto No. 2 in F-sharp minor, op. 19</a> (ca. 1835–36)</li>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._3_(Vieuxtemps)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 3 (Vieuxtemps) (page does not exist)">Violin Concerto No. 3 in A major, op. 25</a> (1844)</li>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._4_(Vieuxtemps)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 4 (Vieuxtemps) (page does not exist)">Violin Concerto No. 4 in D minor, op. 31</a> (ca. 1850)</li>
+<li><a href="/wiki/Violin_Concerto_No._5_(Vieuxtemps)" title="Violin Concerto No. 5 (Vieuxtemps)">Violin Concerto No. 5 in A minor, op. 37</a>, <i>Grétry</i> (1861)</li>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._6_(Vieuxtemps)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 6 (Vieuxtemps) (page does not exist)">Violin Concerto No. 6 in G major, op. 47/op. posth. 1</a> (1865–1870)</li>
+<li><a class="new" href="/w/index.php?title=Violin_Concerto_No._7_(Vieuxtemps)&amp;action=edit&amp;redlink=1" title="Violin Concerto No. 7 (Vieuxtemps) (page does not exist)">Violin Concerto No. 7 in A minor, op. 49/op. posth. 3</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Antonio_Vivaldi" title="Antonio Vivaldi">Antonio Vivaldi</a> — many, particularly:
+<ul>
+<li><a class="mw-redirect" href="/wiki/L%27estro_Armonico" title="L'estro Armonico">L'estro Armonico</a>, op. 3 (1711)—twelve concertos</li>
+<li><i>La stravaganza</i>, op. 4 (ca. 1714)</li>
+<li><a href="/wiki/The_Four_Seasons_(Vivaldi)" title="The Four Seasons (Vivaldi)"><i>The Four Seasons</i></a> (ca. 1725)—four concertos, the first four numbers of <i>Il cimento dell'armonia e dell'inventione</i>, op. 8</li>
+</ul>
+</li>
+<li><a href="/wiki/William_Walton" title="William Walton">William Walton</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_(Walton)" title="Violin Concerto (Walton)">Violin Concerto</a> (1939)</li>
+</ul>
+</li>
+<li><a href="/wiki/Henryk_Wieniawski" title="Henryk Wieniawski">Henryk Wieniawski</a>
+<ul>
+<li><a href="/wiki/Violin_Concerto_No._1_(Wieniawski)" title="Violin Concerto No. 1 (Wieniawski)">Violin Concerto No. 1 in F-sharp minor, op. 14</a> (1853)</li>
+<li><a href="/wiki/Violin_Concerto_No._2_(Wieniawski)" title="Violin Concerto No. 2 (Wieniawski)">Violin Concerto No. 2 in D minor, op. 22</a> (1862)</li>
+</ul>
+</li>
+<li><a href="/wiki/Malcolm_Williamson" title="Malcolm Williamson">Malcolm Williamson</a>
+<ul>
+<li>Violin Concerto (1963–1964)</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h3><span class="mw-headline" id="Selected_list_of_other_works_for_violin_and_ensemble">Selected list of other works for violin and ensemble</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Violin_concerto&amp;action=edit&amp;section=2" title="Edit section: Selected list of other works for violin and ensemble">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/B%C3%A9la_Bart%C3%B3k" title="Béla Bartók">Béla Bartók</a>
+<ul>
+<li>Violin Rhapsody No. 1</li>
+<li>Violin Rhapsody No. 2</li>
+</ul>
+</li>
+<li><a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Ludwig van Beethoven</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Romance_No._1_(Beethoven)" title="Romance No. 1 (Beethoven)">Romance No. 1 in G major, op. 40</a> (1798–1802)</li>
+<li><a class="mw-redirect" href="/wiki/Romance_No._2_(Beethoven)" title="Romance No. 2 (Beethoven)">Romance No. 2 in F major, op. 50</a> (1798–1802)</li>
+</ul>
+</li>
+<li><a href="/wiki/Hector_Berlioz" title="Hector Berlioz">Hector Berlioz</a>
+<ul>
+<li>Rêverie et Caprice</li>
+</ul>
+</li>
+<li><a href="/wiki/Leonard_Bernstein" title="Leonard Bernstein">Leonard Bernstein</a>
+<ul>
+<li>Serenade, after <a href="/wiki/Plato" title="Plato">Plato</a>'s <i><a href="/wiki/Symposium_(Plato)" title="Symposium (Plato)">Symposium</a></i> (1954)</li>
+</ul>
+</li>
+<li><a href="/wiki/Ernest_Bloch" title="Ernest Bloch">Ernest Bloch</a>
+<ul>
+<li><a href="/wiki/Baal_Shem" title="Baal Shem">Baal Shem</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Max_Bruch" title="Max Bruch">Max Bruch</a>
+<ul>
+<li><a href="/wiki/Romance_in_A_minor_(Bruch)" title="Romance in A minor (Bruch)">Romance in A minor, op. 42</a> (1874)</li>
+<li><i><a href="/wiki/Scottish_Fantasy" title="Scottish Fantasy">Scottish Fantasy</a></i>, op. 46 (1880)</li>
+<li>Adagio Appassionato in C-sharp minor, op. 57 (1890)</li>
+<li><i>Schwedische Tanze</i>, op. 63/2 (1892)</li>
+<li><i>In memoriam</i>, op. 65 (1893)</li>
+<li><a href="/wiki/Serenade_(Bruch)" title="Serenade (Bruch)">Serenade in A minor, op. 75</a> (1899–1900)</li>
+<li>Konzertstück in F-sharp minor, op. 84 (ca. 1911)</li>
+</ul>
+</li>
+<li><a href="/wiki/Ernest_Chausson" title="Ernest Chausson">Ernest Chausson</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Po%C3%A8me_for_violin_and_orchestra_(Chausson)&amp;action=edit&amp;redlink=1" title="Poème for violin and orchestra (Chausson) (page does not exist)">Poème, op. 25</a> (1896)</li>
+</ul>
+</li>
+<li><a href="/wiki/John_Corigliano" title="John Corigliano">John Corigliano</a>
+<ul>
+<li><a href="/wiki/Chaconne" title="Chaconne">Chaconne</a> from "<a href="/wiki/The_Red_Violin" title="The Red Violin">The Red Violin</a>"</li>
+</ul>
+</li>
+<li><a href="/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k" title="Antonín Dvořák">Antonín Dvořák</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Romance_(Dvorak)&amp;action=edit&amp;redlink=1" title="Violin Romance (Dvorak) (page does not exist)">Romance in F minor, op. 11</a> (1877)</li>
+</ul>
+</li>
+<li><a href="/wiki/Richard_Franck" title="Richard Franck">Richard Franck</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=Violin_Serenade_(Franck)&amp;action=edit&amp;redlink=1" title="Violin Serenade (Franck) (page does not exist)">Serenade in A major, op. 25</a> (1896)</li>
+</ul>
+</li>
+<li><a href="/wiki/%C3%89douard_Lalo" title="Édouard Lalo">Édouard Lalo</a>
+<ul>
+<li><i><a class="mw-redirect" href="/wiki/Symphonie_Espagnole" title="Symphonie Espagnole">Symphonie Espagnole</a></i>, op. 21 (1874)</li>
+</ul>
+</li>
+<li><a href="/wiki/Jules_Massenet" title="Jules Massenet">Jules Massenet</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/M%C3%A9ditation_from_Tha%C3%AFs" title="Méditation from Thaïs">Méditation from <i>Thaïs</i></a> (1894)</li>
+</ul>
+</li>
+<li><a href="/wiki/Wolfgang_Amadeus_Mozart" title="Wolfgang Amadeus Mozart">Wolfgang Amadeus Mozart</a>
+<ul>
+<li>Concertone in C major, for two violins and orchestra, K. 190 (1774)</li>
+<li><a href="/wiki/Adagio_in_E_for_Violin_and_Orchestra_(Mozart)" title="Adagio in E for Violin and Orchestra (Mozart)">Adagio in E major, K. 261</a> (1776)</li>
+<li><a class="mw-redirect" href="/wiki/Rondo_in_B_flat_for_Violin_and_Orchestra_(Mozart)" title="Rondo in B flat for Violin and Orchestra (Mozart)">Rondo in B-flat major, K. 261a</a> (1776)</li>
+<li><a href="/wiki/Rondo_in_C_for_Violin_and_Orchestra_(Mozart)" title="Rondo in C for Violin and Orchestra (Mozart)">Rondo in C major, K. 373</a> (1781)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Arvo_P%C3%A4rt" title="Arvo Pärt">Arvo Pärt</a>
+<ul>
+<li><i>Fratres</i> for violin, string orchestra and percussion (1992)</li>
+<li><i>Darf ich...</i> for violin, bells and string orchestra (1995/1999)</li>
+</ul>
+</li>
+<li><a href="/wiki/Maurice_Ravel" title="Maurice Ravel">Maurice Ravel</a>
+<ul>
+<li><i><a href="/wiki/Tzigane" title="Tzigane">Tzigane</a></i> (1924)</li>
+</ul>
+</li>
+<li><a href="/wiki/Camille_Saint-Sa%C3%ABns" title="Camille Saint-Saëns">Camille Saint-Saëns</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Introduction_and_Rondo_capriccioso_(Saint-Sa%C3%ABns)" title="Introduction and Rondo capriccioso (Saint-Saëns)">Introduction and Rondo Capriccioso in A minor, op. 28</a> (1863)</li>
+<li>Romance in C major, op. 48 (1874)</li>
+<li><i>Morceau de concert</i> in G major, op. 62 (1880)</li>
+<li><a href="/wiki/Havanaise_(Saint-Sa%C3%ABns)" title="Havanaise (Saint-Saëns)"><i>Havanaise</i> in E major, op. 83</a> (1887)</li>
+<li><i>Caprice andalous</i> in G major, op. 122 (1904)</li>
+</ul>
+</li>
+<li><a href="/wiki/Pablo_de_Sarasate" title="Pablo de Sarasate">Pablo de Sarasate</a>
+<ul>
+<li><i><a href="/wiki/Zigeunerweisen" title="Zigeunerweisen">Zigeunerweisen</a></i>, op. 20 (1878)</li>
+<li><a href="/wiki/Carmen_Fantasy_(Sarasate)" title="Carmen Fantasy (Sarasate)"><i>Carmen Fantasy</i>, op. 25</a> (1883)</li>
+<li><i>Navarra</i> for two violins and orchestra, op. 33 (1889)</li>
+<li><i>Miramar-Zortzico</i>, op. 42 (1899)</li>
+<li>Introduction and Tarantella, op. 43 (1899)</li>
+</ul>
+</li>
+<li><a href="/wiki/Franz_Schubert" title="Franz Schubert">Franz Schubert</a>
+<ul>
+<li>Konzertstück in D major, D. 345 (1816)</li>
+<li><a class="new" href="/w/index.php?title=Rondo_in_A_major_(Schubert)&amp;action=edit&amp;redlink=1" title="Rondo in A major (Schubert) (page does not exist)">Rondo in A major, D. 438</a> (1816)</li>
+<li>Polonaise in B-flat major, D. 580 (1817)</li>
+</ul>
+</li>
+<li><a href="/wiki/Pyotr_Ilyich_Tchaikovsky" title="Pyotr Ilyich Tchaikovsky">Pyotr Ilyich Tchaikovsky</a>
+<ul>
+<li><i><a href="/wiki/S%C3%A9r%C3%A9nade_m%C3%A9lancolique" title="Sérénade mélancolique">Sérénade mélancolique</a></i></li>
+<li><i><a href="/wiki/Souvenir_d%27un_lieu_cher" title="Souvenir d'un lieu cher">Souvenir d'un lieu cher</a></i> (written for violin and piano in 1878; arranged for violin and orchestra by <a href="/wiki/Alexander_Glazunov" title="Alexander Glazunov">Alexander Glazunov</a> in 1896)</li>
+<li><i><a class="new" href="/w/index.php?title=Valse-Scherzo&amp;action=edit&amp;redlink=1" title="Valse-Scherzo (page does not exist)">Valse-Scherzo</a></i></li>
+</ul>
+</li>
+<li><a class="new" href="/w/index.php?title=Daniel_Theaker&amp;action=edit&amp;redlink=1" title="Daniel Theaker (page does not exist)">Daniel Theaker</a>
+<ul>
+<li>Violin Concerto</li>
+</ul>
+</li>
+<li><a href="/wiki/Ralph_Vaughan_Williams" title="Ralph Vaughan Williams">Ralph Vaughan Williams</a>
+<ul>
+<li><i><a href="/wiki/The_Lark_Ascending" title="The Lark Ascending">The Lark Ascending</a></i> (1914)</li>
+</ul>
+</li>
+<li><a href="/wiki/Henryk_Wieniawski" title="Henryk Wieniawski">Henryk Wieniawski</a>
+<ul>
+<li><a class="new" href="/w/index.php?title=L%C3%A9gende_in_G_minor,_op._17&amp;action=edit&amp;redlink=1" title="Légende in G minor, op. 17 (page does not exist)">Légende in G minor, op. 17</a> (1859)</li>
+<li>Fantasy brillante on Gounod's "Faust", op.20</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Violin_concerto&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Violin_sonata" title="Violin sonata">Violin sonata</a></li>
+<li><a href="/wiki/Piano_trio" title="Piano trio">Piano trio</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Violin_concerto&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Tobias Broeker: <a class="external text" href="http://www.tobias-broeker.de" rel="nofollow">Free e-book about the compositions for violin concertante of the 20th century</a> (<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-00-047105-6" title="Special:BookSources/978-3-00-047105-6">978-3-00-047105-6</a>)</li>
+</ul>
+<div aria-labelledby="Concertos" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Concertos" title="Template:Concertos"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Concertos" title="Template talk:Concertos"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Concertos&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Concertos" style="font-size:114%;margin:0 4em"><a href="/wiki/Concerto" title="Concerto">Concertos</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concertino_(composition)" title="Concertino (composition)">Concertino</a></li>
+<li><a href="/wiki/Concerto" title="Concerto">Concerto</a></li>
+<li><a href="/wiki/Concerto_for_Orchestra" title="Concerto for Orchestra">Concerto for orchestra</a></li>
+<li><a href="/wiki/Concerto_grosso" title="Concerto grosso">Concerto grosso</a></li>
+<li><a href="/wiki/Concert_piece" title="Concert piece">Concert piece</a></li>
+<li><a href="/wiki/Double_concerto" title="Double concerto">Double concerto</a></li>
+<li><a href="/wiki/Ripieno_concerto" title="Ripieno concerto">Ripieno concerto</a></li>
+<li><a href="/wiki/Sinfonia_concertante" title="Sinfonia concertante">Sinfonia concertante</a></li>
+<li><a href="/wiki/Solo_concerto" title="Solo concerto">Solo concerto</a></li>
+<li><a href="/wiki/Student_concerto" title="Student concerto">Student concerto</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">By instrument</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Bass_oboe_concerto" title="Bass oboe concerto">Bass oboe concerto</a></li>
+<li><a href="/wiki/Bassoon_concerto" title="Bassoon concerto">Bassoon concerto</a></li>
+<li><a href="/wiki/Cello_concerto" title="Cello concerto">Cello concerto</a></li>
+<li><a href="/wiki/Clarinet_concerto" title="Clarinet concerto">Clarinet concerto</a></li>
+<li><a href="/wiki/Concerto_for_solo_piano" title="Concerto for solo piano">Concerto for solo piano</a></li>
+<li><a href="/wiki/Double_bass_concerto" title="Double bass concerto">Double bass concerto</a></li>
+<li><a class="mw-redirect" href="/wiki/Double_concerto_for_violin_and_cello" title="Double concerto for violin and cello">Double concerto for violin and cello</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_English_horn_concertos" title="List of English horn concertos">English horn concerto</a></li>
+<li><a href="/wiki/Flute_concerto" title="Flute concerto">Flute concerto</a></li>
+<li><a href="/wiki/Harmonica_concerto" title="Harmonica concerto">Harmonica concerto</a></li>
+<li><a href="/wiki/List_of_compositions_for_harp#Concertos" title="List of compositions for harp">Harp concerto</a></li>
+<li><a href="/wiki/Harpsichord_concerto" title="Harpsichord concerto">Harpsichord concerto</a></li>
+<li><a href="/wiki/Marimba_concerto" title="Marimba concerto">Marimba concerto</a></li>
+<li><a href="/wiki/Oboe_concerto" title="Oboe concerto">Oboe concerto</a></li>
+<li><a href="/wiki/Organ_concerto" title="Organ concerto">Organ concerto</a></li>
+<li><a href="/wiki/Percussion_concerto" title="Percussion concerto">Percussion concerto</a></li>
+<li><a href="/wiki/Piano_concerto" title="Piano concerto">Piano concerto</a></li>
+<li><a href="/wiki/Timpani_concerto" title="Timpani concerto">Timpani concerto</a></li>
+<li><a class="mw-redirect" href="/wiki/Triple_concertos_for_violin,_cello,_and_piano" title="Triple concertos for violin, cello, and piano">Triple concertos for violin, cello, and piano</a></li>
+<li><a href="/wiki/Trumpet_concerto" title="Trumpet concerto">Trumpet concerto</a></li>
+<li><a href="/wiki/Viola_concerto" title="Viola concerto">Viola concerto</a></li>
+<li><a class="mw-selflink selflink">Violin concerto</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">By composer</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_orchestral_works_by_Johann_Sebastian_Bach" title="List of orchestral works by Johann Sebastian Bach">Bach</a></li>
+<li><a href="/wiki/List_of_concertos_by_Christoph_Graupner" title="List of concertos by Christoph Graupner">Graupner</a></li>
+<li><a href="/wiki/List_of_concertos_by_Joseph_Haydn" title="List of concertos by Joseph Haydn">Haydn</a></li>
+<li><a class="mw-redirect" href="/wiki/Mozart_piano_concertos" title="Mozart piano concertos">Mozart</a></li>
+<li><a href="/wiki/La_stravaganza" title="La stravaganza">Vivaldi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Miscellaneous</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chorale_concerto" title="Chorale concerto">Chorale concerto</a></li>
+<li><a href="/wiki/Concertato" title="Concertato">Concertato</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Concertos" title="Book:Concertos">Book:Concertos</a></b></li>
+<li><b><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Concertos" title="Category:Concertos">Category:Concertos</a></b></li>
+<li><b><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Classical_music" title="Portal:Classical music">Portal:Classical music</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Violin_family" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Violin_family" title="Template:Violin family"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Violin_family&amp;action=edit&amp;redlink=1" title="Template talk:Violin family (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Violin_family&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Violin_family" style="font-size:114%;margin:0 4em"><a href="/wiki/Violin_family" title="Violin family">Violin family</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Instruments</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Violin" title="Violin">Violin</a></li>
+<li><a href="/wiki/Viola" title="Viola">Viola</a></li>
+<li><a href="/wiki/Cello" title="Cello">Cello</a></li>
+<li><a href="/wiki/Double_bass" title="Double bass">Double bass</a></li>
+</ul>
+<ul>
+<li>Violin range
+<ul>
+<li><a href="/wiki/Kit_violin" title="Kit violin">Kit violin</a></li>
+<li><a href="/wiki/Five_string_violin" title="Five string violin">Five string violin</a></li>
+<li><a href="/wiki/Violino_piccolo" title="Violino piccolo">Violino piccolo</a></li>
+</ul>
+</li>
+<li>Viola range
+<ul>
+<li><a href="/wiki/Vertical_viola" title="Vertical viola">Vertical viola</a></li>
+<li><a href="/wiki/Viola_pomposa" title="Viola pomposa">Viola pomposa</a></li>
+</ul>
+</li>
+<li>Tenor range
+<ul>
+<li><a href="/wiki/Tenor_violin" title="Tenor violin">Tenor violin/Tenor viola</a></li>
+<li><a href="/wiki/Violotta" title="Violotta">Violotta</a></li>
+<li><a href="/wiki/Viola_profunda" title="Viola profunda">Viola profunda</a></li>
+</ul>
+</li>
+<li>Cello range
+<ul>
+<li><a href="/wiki/Baritone_violin" title="Baritone violin">Baritone violin</a></li>
+<li><a href="/wiki/Cello_da_spalla" title="Cello da spalla">Cello da spalla</a></li>
+<li><a href="/wiki/Cellone" title="Cellone">Cellone</a></li>
+</ul>
+</li>
+<li>Bass range
+<ul>
+<li><a href="/wiki/Bass_violin" title="Bass violin">Bass violin</a></li>
+<li><a href="/wiki/Violone" title="Violone">Violone</a></li>
+<li><a href="/wiki/Octobass" title="Octobass">Octobass</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:F-hole.jpg"><img alt="F-hole" data-file-height="1384" data-file-width="878" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-hole.jpg/50px-F-hole.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-hole.jpg/75px-F-hole.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-hole.jpg/100px-F-hole.jpg 2x" width="50"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Violin_construction_and_mechanics" title="Violin construction and mechanics">Parts</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bass_bar" title="Bass bar">Bass bar</a></li>
+<li><a href="/wiki/Bow_maker" title="Bow maker">Bow</a></li>
+<li><a href="/wiki/Bridge_(instrument)" title="Bridge (instrument)">Bridge</a></li>
+<li><a href="/wiki/Chinrest" title="Chinrest">Chinrest</a></li>
+<li><a href="/wiki/Endpin" title="Endpin">Endpin</a></li>
+<li><a href="/wiki/Sound_hole" title="Sound hole">F-hole</a></li>
+<li><a href="/wiki/Fingerboard" title="Fingerboard">Fingerboard</a></li>
+<li><a href="/wiki/Bow_frog" title="Bow frog">Frog</a></li>
+<li><a href="/wiki/Nut_(string_instrument)" title="Nut (string instrument)">Nut</a></li>
+<li><a href="/wiki/Scroll_(music)" title="Scroll (music)">Scroll</a></li>
+<li><a href="/wiki/Shoulder_rest" title="Shoulder rest">Shoulder rest</a></li>
+<li><a href="/wiki/Sound_post" title="Sound post">Sound post</a></li>
+<li><a href="/wiki/Tailpiece" title="Tailpiece">Tailpiece</a></li>
+<li><a href="/wiki/Tuning_peg" title="Tuning peg">Tuning peg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Violin_technique" title="Violin technique">Techniques</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bow_(music)" title="Bow (music)">Bowing</a>
+<ul>
+<li><i><a href="/wiki/Col_legno" title="Col legno">Col legno</a></i></li>
+<li><a href="/wiki/Down_bow" title="Down bow">Down bow</a></li>
+<li><a href="/wiki/Up_bow" title="Up bow">Up bow</a></li>
+<li><a href="/wiki/Martel%C3%A9_(bowstroke)" title="Martelé (bowstroke)">Martelé</a></li>
+<li><a href="/wiki/Portato" title="Portato">Portato</a></li>
+<li><a href="/wiki/Spiccato" title="Spiccato">Spiccato</a></li>
+<li><a href="/wiki/Tremolo" title="Tremolo">Tremolo</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Arpeggio" title="Arpeggio">Arpeggio</a></li>
+<li><a href="/wiki/Artificial_harmonic" title="Artificial harmonic">Artificial harmonic</a></li>
+<li><a href="/wiki/Double_stop" title="Double stop">Double stop</a></li>
+<li><a href="/wiki/Fingering_(music)" title="Fingering (music)">Fingering</a></li>
+<li><a href="/wiki/Finger_substitution" title="Finger substitution">Finger substitution</a>
+<ul>
+<li><a href="/wiki/Bariolage" title="Bariolage">Bariolage</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pizzicato" title="Pizzicato">Pizzicato</a></li>
+<li><a href="/wiki/Scordatura" title="Scordatura">Scordatura</a> (changing string tuning)</li>
+<li><a href="/wiki/Finger_vibrato" title="Finger vibrato">Vibrato</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ensembles<br/>
+and genres</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/String_quartet" title="String quartet">String quartet</a></li>
+<li><a href="/wiki/String_trio" title="String trio">String trio</a></li>
+<li><a href="/wiki/String_quintet" title="String quintet">String quintet</a></li>
+<li><a href="/wiki/String_sextet" title="String sextet">String sextet</a></li>
+<li><a href="/wiki/String_octet" title="String octet">String octet</a></li>
+<li><a href="/wiki/String_section" title="String section">String section</a></li>
+<li><a href="/wiki/String_orchestra" title="String orchestra">String orchestra</a></li>
+<li><a class="mw-selflink selflink">Violin concerto</a></li>
+<li><a href="/wiki/Viola_concerto" title="Viola concerto">Viola concerto</a></li>
+<li><a href="/wiki/Cello_concerto" title="Cello concerto">Cello concerto</a></li>
+<li><a href="/wiki/Double_bass_concerto" title="Double bass concerto">Double bass concerto</a></li>
+<li><a href="/wiki/Violin_sonata" title="Violin sonata">Violin sonata</a></li>
+<li><a href="/wiki/Viola_sonata" title="Viola sonata">Viola sonata</a></li>
+<li><a href="/wiki/Cello_sonata" title="Cello sonata">Cello sonata</a></li>
+<li><a href="/wiki/Carnatic_music" title="Carnatic music">Carnatic music</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basic_physics_of_the_violin" title="Basic physics of the violin">Violin physics</a></li>
+<li><a href="/wiki/History_of_the_violin" title="History of the violin">Violin history</a></li>
+<li><a href="/wiki/Jazz_bass" title="Jazz bass">Jazz bass</a></li>
+<li><a href="/wiki/Jazz_violin" title="Jazz violin">Jazz violin</a></li>
+<li><a href="/wiki/Rosin" title="Rosin">Rosin</a></li>
+<li><a href="/wiki/Stradivarius" title="Stradivarius">Stradivarius</a></li>
+<li><a href="/wiki/Viol" title="Viol">Viol</a></li>
+<li><a href="/wiki/Violin_making_and_maintenance" title="Violin making and maintenance">Violin lutherie</a></li>
+<li><a href="/wiki/Violin_musical_styles" title="Violin musical styles">Violin musical styles</a></li>
+<li><a href="/wiki/Violin_octet" title="Violin octet">Violin octet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4188370-6" rel="nofollow">4188370-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1188
+Cached time: 20171105202259
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.124 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 640/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26694/2097152 bytes
+Template argument size: 446/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   96.328      1 -total
+ 37.18%   35.810      1 Template:ISBN
+ 28.40%   27.359      1 Template:Authority_control
+ 25.53%   24.590      2 Template:Navbox
+ 23.96%   23.079      1 Template:Concertos
+ 10.72%   10.331      1 Template:Catalog_lookup_link
+  9.71%    9.350      3 Template:Icon
+  7.11%    6.853      1 Template:Error-small
+  5.81%    5.593      1 Template:Violin_family
+  4.26%    4.107      3 Template:Yesno-no
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:307929-0!canonical and timestamp 20171105202259 and revision id 802218601
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Violin_concerto&amp;oldid=802218601">https://en.wikipedia.org/w/index.php?title=Violin_concerto&amp;oldid=802218601</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Violins" title="Category:Violins">Violins</a></li><li><a href="/wiki/Category:Violin_concertos" title="Category:Violin concertos">Violin concertos</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Violin+concerto" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Violin+concerto" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Violin_concerto" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Violin_concerto" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Violin_concerto">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Violin_concerto&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Violin_concerto&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Violin_concerto" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Violin_concerto" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Violin_concerto&amp;oldid=802218601" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Violin_concerto&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q633441" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Violin_concerto&amp;id=802218601" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Violin+concerto">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Violin+concerto&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Violin_concerto&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Violin_concertos" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Houslov%C3%BD_koncert" hreflang="cs" lang="cs" title="Houslový koncert – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Violinkonzert" hreflang="de" lang="de" title="Violinkonzert – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Viiulikontsert" hreflang="et" lang="et" title="Viiulikontsert – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Concierto_para_viol%C3%ADn" hreflang="es" lang="es" title="Concierto para violín – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Violonkon%C4%89erto" hreflang="eo" lang="eo" title="Violonkonĉerto – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Concerto_pour_violon" hreflang="fr" lang="fr" title="Concerto pour violon – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%98%AC%EB%A6%B0_%ED%98%91%EC%A3%BC%EA%B3%A1" hreflang="ko" lang="ko" title="바이올린 협주곡 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Concerto_per_violino" hreflang="it" lang="it" title="Concerto per violino – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Heged%C5%B1verseny" hreflang="hu" lang="hu" title="Hegedűverseny – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vioolconcert" hreflang="nl" lang="nl" title="Vioolconcert – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E5%8D%94%E5%A5%8F%E6%9B%B2" hreflang="ja" lang="ja" title="ヴァイオリン協奏曲 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fiolinkonsert" hreflang="no" lang="no" title="Fiolinkonsert – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fiolinkonsert" hreflang="nn" lang="nn" title="Fiolinkonsert – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Koncert_skrzypcowy" hreflang="pl" lang="pl" title="Koncert skrzypcowy – Polish">Polski</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Concert_pentru_vioar%C4%83" hreflang="ro" lang="ro" title="Concert pentru vioară – Romanian">Română</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Hus%C4%BEov%C3%BD_koncert" hreflang="sk" lang="sk" title="Husľový koncert – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%A9%D9%86%DA%86%DB%8E%D8%B1%D8%AA%DB%86%DB%8C_%DA%A9%DB%95%D9%85%D8%A7%D9%86" hreflang="ckb" lang="ckb" title="کنچێرتۆی کەمان – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Violinkonsert" hreflang="sv" lang="sv" title="Violinkonsert – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2" hreflang="zh" lang="zh" title="小提琴协奏曲 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q633441#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 September 2017, at 19:19.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Violin_concerto&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.170","ppvisitednodes":{"value":640,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26694,"limit":2097152},"templateargumentsize":{"value":446,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   96.328      1 -total"," 37.18%   35.810      1 Template:ISBN"," 28.40%   27.359      1 Template:Authority_control"," 25.53%   24.590      2 Template:Navbox"," 23.96%   23.079      1 Template:Concertos"," 10.72%   10.331      1 Template:Catalog_lookup_link","  9.71%    9.350      3 Template:Icon","  7.11%    6.853      1 Template:Error-small","  5.81%    5.593      1 Template:Violin_family","  4.26%    4.107      3 Template:Yesno-no"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":1505344,"limit":52428800}},"cachereport":{"origin":"mw1188","timestamp":"20171105202259","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1184"});});</script>
+</body>
+</html>

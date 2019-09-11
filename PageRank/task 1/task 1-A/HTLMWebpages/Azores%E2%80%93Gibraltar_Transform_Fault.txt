@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Azores–Gibraltar Transform Fault - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Azores–Gibraltar_Transform_Fault","wgTitle":"Azores–Gibraltar Transform Fault","wgCurRevisionId":769108845,"wgRevisionId":769108845,"wgArticleId":16602928,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Plate tectonics","Seismic faults of Europe","Geology of Gibraltar","Geology of the Azores"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Azores–Gibraltar_Transform_Fault","wgRelevantArticleId":16602928,"wgRequestId":"Wf7osQpAAD0AAF@nHFEAAACP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":37,"lon":-16},"wgWikibaseItemId":"Q3505839","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/26/North_Atlantic_Ocean_laea_relief_location_map.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Azores%E2%80%93Gibraltar_Transform_Fault" rel="alternate"/>
+<link href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Azores%E2%80%93Gibraltar_Transform_Fault" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Azores–Gibraltar_Transform_Fault rootpage-Azores–Gibraltar_Transform_Fault vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Azores–Gibraltar Transform Fault</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="noviewer thumb tright">
+<div class="thumbinner" style="width:242px">
+<div style="position:relative;width:240px;border:1px solid lightgray"><a class="image" href="/wiki/File:North_Atlantic_Ocean_laea_relief_location_map.jpg" title="Azores–Gibraltar Transform Fault is located in North Atlantic"><img alt="Azores–Gibraltar Transform Fault is located in North Atlantic" data-file-height="958" data-file-width="1181" height="195" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/North_Atlantic_Ocean_laea_relief_location_map.jpg/240px-North_Atlantic_Ocean_laea_relief_location_map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/North_Atlantic_Ocean_laea_relief_location_map.jpg/360px-North_Atlantic_Ocean_laea_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/North_Atlantic_Ocean_laea_relief_location_map.jpg/480px-North_Atlantic_Ocean_laea_relief_location_map.jpg 2x" width="240"/></a>
+<div style="position:absolute;top:46.925%;left:53.566%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Azores–Gibraltar Transform Fault" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Azores–Gibraltar Transform Fault" width="8"/></div>
+</div>
+<div style="position:absolute;top:46.956%;left:70.858%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Azores–Gibraltar Transform Fault" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Azores–Gibraltar Transform Fault" width="8"/></div>
+</div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:North_Atlantic_Ocean_laea_relief_location_map.jpg" title="File:North Atlantic Ocean laea relief location map.jpg"></a></div>
+The Azores–Gibraltar Transform Fault stretches between the Strait of Gibraltar and the Azores Triple Junction</div>
+</div>
+</div>
+<p>The <b>Azores–Gibraltar Transform Fault</b> (<b>AGFZ</b>), also called a <a href="/wiki/Fault_(geology)" title="Fault (geology)">fault zone</a> and a <a href="/wiki/Fracture_zone" title="Fracture zone">fracture zone</a>, is a major seismic fault in the Central <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> west of the <a href="/wiki/Strait_of_Gibraltar" title="Strait of Gibraltar">Strait of Gibraltar</a>. It is the product of the complex interaction between the <a href="/wiki/African_Plate" title="African Plate">African</a>, <a href="/wiki/Eurasian_Plate" title="Eurasian Plate">Eurasian</a>, and <a href="/wiki/Iberian_Plate" title="Iberian Plate">Iberian</a> plates.<sup class="reference" id="cite_ref-Rich-etal_1-0"><a href="#cite_note-Rich-etal-1">[1]</a></sup> The AGFZ produced the large-magnitude <a href="/wiki/1755_Lisbon_earthquake" title="1755 Lisbon earthquake">1755 Lisbon</a> and <a href="/wiki/1969_Portugal_earthquake" title="1969 Portugal earthquake">1969 Horseshoe</a> earthquakes and, consequently, a number of large tsunamis.<sup class="reference" id="cite_ref-MartLori-intro_2-0"><a href="#cite_note-MartLori-intro-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geologic_setting"><span class="tocnumber">1</span> <span class="toctext">Geologic setting</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Plate_tectonics"><span class="tocnumber">2</span> <span class="toctext">Plate tectonics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Notes"><span class="tocnumber">3.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Sources"><span class="tocnumber">3.2</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geologic_setting">Geologic setting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit&amp;section=1" title="Edit section: Geologic setting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Forming the Atlantic segment of the boundary between the African and Eurasian plates, the AGFZ is largely dominated by compressional forces between these converging (3.8 to 5.6 mm/a (0.0047 to 0.0070 in/Ms)) plates, but it is subject of a dynamic tectonic regime also involving extension, <a href="/wiki/Transform_fault" title="Transform fault">trancurrent faulting</a>, and compression. The <a href="/wiki/Oceanic_crust" title="Oceanic crust">oceanic</a> <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a> in the area is directly related to the <a href="/wiki/Opening_of_the_North_Atlantic_Ocean" title="Opening of the North Atlantic Ocean">opening of the North Atlantic Ocean</a> and one of the oldest preserved on Earth.<sup class="reference" id="cite_ref-MartLori-intro_2-1"><a href="#cite_note-MartLori-intro-2">[2]</a></sup></p>
+<p>The western end of the AGFZ, the <a href="/wiki/Azores_Triple_Junction" title="Azores Triple Junction">Azores Triple Junction</a> on the <a href="/wiki/Mid-Atlantic_Ridge" title="Mid-Atlantic Ridge">Mid-Atlantic Ridge</a> (MAR), is where the North American, African, and Eurasian plates meet. Spreading in the MAR is faster south of the AGFZ than north of it, which results in a trancurrent movement along the AGFZ at about 4 mm/a (0.0050 in/Ms).<sup class="reference" id="cite_ref-Rich-etal_1-1"><a href="#cite_note-Rich-etal-1">[1]</a></sup> The eastern segment of the fault is complex and characterised by a series of seamounts and ridges separating the <a class="new" href="/w/index.php?title=Tores_Abyssal_Plain&amp;action=edit&amp;redlink=1" title="Tores Abyssal Plain (page does not exist)">Tores</a> and <a class="new" href="/w/index.php?title=Horseshoe_Abyssal_Plain&amp;action=edit&amp;redlink=1" title="Horseshoe Abyssal Plain (page does not exist)">Horseshoe</a> abyssal plains. The active compressional deformation in this segment is an extremely rare example of compression between two oceanic litospheres.<sup class="reference" id="cite_ref-Rich-etal_1-2"><a href="#cite_note-Rich-etal-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Plate_tectonics">Plate tectonics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit&amp;section=2" title="Edit section: Plate tectonics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Atlantic Ocean is surrounded by <a href="/wiki/Passive_margin" title="Passive margin">passive margins</a> with the exception of three subduction zones: the <a href="/wiki/Lesser_Antilles_Volcanic_Arc" title="Lesser Antilles Volcanic Arc">Lesser Antilles Arc</a> in the Caribbean, the <a href="/wiki/Scotia_Arc" title="Scotia Arc">Scotia Arc</a> in the South Atlantic, and the <a href="/wiki/Gibraltar_Arc" title="Gibraltar Arc">Gibraltar Arc</a> in the western <a class="mw-redirect" href="/wiki/Mediterranean" title="Mediterranean">Mediterranean</a>. The Gibraltar Arc is propagating westward into the Atlantic over an east-dipping oceanic slab (one of the remainders of the <a href="/wiki/Tethys_Ocean" title="Tethys Ocean">Tethys Ocean</a>). This subduction/<a href="/wiki/Back-arc_basin" title="Back-arc basin">back-arc basin</a> system is developing in front of the Alboran Block (under the <a href="/wiki/Alboran_Sea" title="Alboran Sea">Alboran Sea</a>) at a rate faster than that of the Africa-Iberia convergence. Consequently, this area is a rare case of a passive margin slowly being transformed into an <a class="mw-redirect" href="/wiki/Active_margin" title="Active margin">active margin</a>.<sup class="reference" id="cite_ref-Duarte-intro_3-0"><a href="#cite_note-Duarte-intro-3">[3]</a></sup> The extension of this subduction system, known as the "allochthonous unit of the Gulf of Cadiz" (AUGZ), marks the continuing propagation of the <a href="/wiki/Alpide_belt" title="Alpide belt">Alpide belt</a> into the Atlantic along the AGFZ.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> In the context of the <a class="mw-redirect" href="/wiki/Wilson_Cycle" title="Wilson Cycle">Wilson Cycle</a>, this suggests that the beginning of the closure of the Atlantic is taking place in front of the three Atlantic subduction zones.<sup class="reference" id="cite_ref-Duarte-intro_3-1"><a href="#cite_note-Duarte-intro-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Rich-etal-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rich-etal_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rich-etal_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rich-etal_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFRichardsonMussonHorsburgh2006">Richardson, Musson &amp; Horsburgh 2006</a>, Appendix A, Tectonics of the Azores-Gibraltar fault zone, pp. 94–97</span></li>
+<li id="cite_note-MartLori-intro-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-MartLori-intro_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MartLori-intro_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMart.C3.ADnez.E2.80.90LorienteSallar.C3.A8sGr.C3.A0ciaBartolome2014">Martínez‐Loriente et al. 2014</a>, Introduction, p. 127</span></li>
+<li id="cite_note-Duarte-intro-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Duarte-intro_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Duarte-intro_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDuarteRosasTerrinhaSchellart2013">Duarte et al. 2013</a>, Introduction, pp. 839–840</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#CITEREFHern.C3.A1ndez-MolinaSierroLlaveRoque2016">Hernández-Molina et al. 2016</a>, Geologic framework, p. 4</span></li>
+</ol>
+</div>
+</div>
+<h3><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit&amp;section=5" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation journal" id="CITEREFDuarteRosasTerrinhaSchellart2013">Duarte, J. C.; Rosas, F. M.; Terrinha, P.; Schellart, W. P.; Boutelier, D.; Gutscher, M. A.; Ribeiro, A. (2013). <a class="external text" href="https://www.researchgate.net/profile/Joao_Duarte9/publication/237145222_Are_subduction_zones_invading_the_Atlantic_Evidence_from_the_southwest_Iberia_margin/links/00b4953262121edb89000000.pdf" rel="nofollow">"Are subduction zones invading the Atlantic? Evidence from the southwest Iberia margin"</a> <span style="font-size:85%;">(PDF)</span>. <i>Geology</i>. <b>41</b> (8): 839–842. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1130%2FG34100" rel="nofollow">10.1130/G34100</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAzores%E2%80%93Gibraltar+Transform+Fault&amp;rft.atitle=Are+subduction+zones+invading+the+Atlantic%3F+Evidence+from+the+southwest+Iberia+margin&amp;rft.au=Boutelier%2C+D.&amp;rft.au=Gutscher%2C+M.+A.&amp;rft.au=Ribeiro%2C+A.&amp;rft.au=Rosas%2C+F.+M.&amp;rft.au=Schellart%2C+W.+P.&amp;rft.au=Terrinha%2C+P.&amp;rft.aufirst=J.+C.&amp;rft.aulast=Duarte&amp;rft.date=2013&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=Geology&amp;rft.pages=839-842&amp;rft.volume=41&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FJoao_Duarte9%2Fpublication%2F237145222_Are_subduction_zones_invading_the_Atlantic_Evidence_from_the_southwest_Iberia_margin%2Flinks%2F00b4953262121edb89000000.pdf&amp;rft_id=info%3Adoi%2F10.1130%2FG34100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFHern.C3.A1ndez-MolinaSierroLlaveRoque2016">Hernández-Molina, F. J.; Sierro, F. J.; Llave, E.; Roque, C.; Stow, D. A. V.; Williams, T.; Lofi, J.; Van der Schee, M.; Arnáiz, A.; Ledesma, S.; Rosales, C.; Rodríguez-Tovar, F. J.; Pardo-Igúzquiza, E.; Brackenridge, R. E. (2016). <a class="external text" href="https://www.researchgate.net/profile/Francisco_Sierro/publication/283148552_Evolution_of_the_gulf_of_Cadiz_margin_and_southwest_Portugal_contourite_depositional_system_Tectonic_sedimentary_and_paleoceanographic_implications_from_IODP_expedition_339/links/5630f60408ae13bc6c354bf2.pdf" rel="nofollow">"Evolution of the gulf of Cadiz margin and southwest Portugal contourite depositional system: Tectonic, sedimentary and paleoceanographic implications from IODP expedition 339"</a> <span style="font-size:85%;">(PDF)</span>. <i>Marine Geology</i>. <b>377</b>: 7–39. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.margeo.2015.09.013" rel="nofollow">10.1016/j.margeo.2015.09.013</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAzores%E2%80%93Gibraltar+Transform+Fault&amp;rft.atitle=Evolution+of+the+gulf+of+Cadiz+margin+and+southwest+Portugal+contourite+depositional+system%3A+Tectonic%2C+sedimentary+and+paleoceanographic+implications+from+IODP+expedition+339&amp;rft.au=Arn%C3%A1iz%2C+A.&amp;rft.au=Brackenridge%2C+R.+E.&amp;rft.au=Ledesma%2C+S.&amp;rft.au=Llave%2C+E.&amp;rft.au=Lofi%2C+J.&amp;rft.au=Pardo-Ig%C3%BAzquiza%2C+E.&amp;rft.au=Rodr%C3%ADguez-Tovar%2C+F.+J.&amp;rft.au=Roque%2C+C.&amp;rft.au=Rosales%2C+C.&amp;rft.au=Sierro%2C+F.+J.&amp;rft.au=Stow%2C+D.+A.+V.&amp;rft.au=Van+der+Schee%2C+M.&amp;rft.au=Williams%2C+T.&amp;rft.aufirst=F.+J.&amp;rft.aulast=Hern%C3%A1ndez-Molina&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=Marine+Geology&amp;rft.pages=7-39&amp;rft.volume=377&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FFrancisco_Sierro%2Fpublication%2F283148552_Evolution_of_the_gulf_of_Cadiz_margin_and_southwest_Portugal_contourite_depositional_system_Tectonic_sedimentary_and_paleoceanographic_implications_from_IODP_expedition_339%2Flinks%2F5630f60408ae13bc6c354bf2.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.margeo.2015.09.013&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFMart.C3.ADnez.E2.80.90LorienteSallar.C3.A8sGr.C3.A0ciaBartolome2014">Martínez‐Loriente, S.; Sallarès, V.; Gràcia, E.; Bartolome, R.; Dañobeitia, J. J.; Zitellini, N. (2014). <a class="external text" href="https://www.researchgate.net/profile/Sara_Martinez_Loriente/publication/259534320_Seismic_and_gravity_constraints_on_the_nature_of_the_basement_in_the_Africa-Eurasia_plate_boundary_New_insights_for_the_geodynamic_evolution_of_the_SW_Iberian_margin/links/0a85e52e6e98be0136000000.pdf" rel="nofollow">"Seismic and gravity constraints on the nature of the basement in the Africa‐Eurasia plate boundary: New insights for the geodynamic evolution of the SW Iberian margin"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Geophysical Research: Solid Earth</i>. <b>119</b> (1): 127–149. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2013JB010476" rel="nofollow">10.1002/2013JB010476</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAzores%E2%80%93Gibraltar+Transform+Fault&amp;rft.atitle=Seismic+and+gravity+constraints+on+the+nature+of+the+basement+in+the+Africa%E2%80%90Eurasia+plate+boundary%3A+New+insights+for+the+geodynamic+evolution+of+the+SW+Iberian+margin&amp;rft.au=Bartolome%2C+R.&amp;rft.au=Da%C3%B1obeitia%2C+J.+J.&amp;rft.au=Gr%C3%A0cia%2C+E.&amp;rft.au=Sallar%C3%A8s%2C+V.&amp;rft.au=Zitellini%2C+N.&amp;rft.aufirst=S.&amp;rft.aulast=Mart%C3%ADnez%E2%80%90Loriente&amp;rft.date=2014&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Geophysical+Research%3A+Solid+Earth&amp;rft.pages=127-149&amp;rft.volume=119&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FSara_Martinez_Loriente%2Fpublication%2F259534320_Seismic_and_gravity_constraints_on_the_nature_of_the_basement_in_the_Africa-Eurasia_plate_boundary_New_insights_for_the_geodynamic_evolution_of_the_SW_Iberian_margin%2Flinks%2F0a85e52e6e98be0136000000.pdf&amp;rft_id=info%3Adoi%2F10.1002%2F2013JB010476&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation conference" id="CITEREFRichardsonMussonHorsburgh2006">Richardson, S.; Musson, R.; Horsburgh, K. (2006). <a class="external text" href="http://webarchive.nationalarchives.gov.uk/20130123162956/http://archive.defra.gov.uk/environment/flooding/documents/risk/tsunami06.pdf" rel="nofollow"><i>Tsunamis–Assessing the hazard for the UK and Irish coast</i></a> <span style="font-size:85%;">(PDF)</span>. 41st Defra Flood and Coastal Management Conference. York, UK. Archived from <a class="external text" href="http://archive.defra.gov.uk/environment/flooding/documents/risk/tsunami06.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF (7.8Mb))</span> on 23 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAzores%E2%80%93Gibraltar+Transform+Fault&amp;rft.au=Horsburgh%2C+K.&amp;rft.au=Musson%2C+R.&amp;rft.aufirst=S.&amp;rft.aulast=Richardson&amp;rft.btitle=Tsunamis%E2%80%93Assessing+the+hazard+for+the+UK+and+Irish+coast&amp;rft.date=2006&amp;rft.genre=conference&amp;rft.place=York%2C+UK&amp;rft_id=http%3A%2F%2Farchive.defra.gov.uk%2Fenvironment%2Fflooding%2Fdocuments%2Frisk%2Ftsunami06.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+</div>
+<div aria-labelledby="26px.7Cborder_.7Calt.3DGibraltar.7Clink.3DGibraltar_Gibraltar_topics" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Gibraltar_topics" title="Template:Gibraltar topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Gibraltar_topics" title="Template talk:Gibraltar topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gibraltar_topics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="26px.7Cborder_.7Calt.3DGibraltar.7Clink.3DGibraltar_Gibraltar_topics" style="font-size:114%;margin:0 4em"><span style="position:relative; bottom:1px;"><span class="flagicon"><a href="/wiki/Gibraltar" title="Gibraltar"><img alt="Gibraltar" class="thumbborder" data-file-height="500" data-file-width="1000" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/26px-Flag_of_Gibraltar.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/39px-Flag_of_Gibraltar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/52px-Flag_of_Gibraltar.svg.png 2x" width="26"/></a></span></span> <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a> topics</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="History" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_Gibraltar" title="History of Gibraltar">History</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Neanderthals_of_Gibraltar" title="Neanderthals of Gibraltar">Neanderthals of Gibraltar</a></li>
+<li><a href="/wiki/Timeline_of_the_history_of_Gibraltar" title="Timeline of the history of Gibraltar">Timeline</a> (<a href="/wiki/List_of_sieges_of_Gibraltar" title="List of sieges of Gibraltar">sieges</a>)</li>
+<li><a href="/wiki/Pillars_of_Hercules" title="Pillars of Hercules">Pillars of Hercules</a></li>
+<li><a href="/wiki/First_Siege_of_Gibraltar" title="First Siege of Gibraltar">First Siege of Gibraltar</a></li>
+<li><a href="/wiki/Battle_of_Gibraltar_(1607)" title="Battle of Gibraltar (1607)">Battle of Gibraltar</a></li>
+<li><a href="/wiki/Capture_of_Gibraltar" title="Capture of Gibraltar">Capture of Gibraltar</a></li>
+<li><a href="/wiki/George_Rooke" title="George Rooke">George Rooke</a></li>
+<li><a href="/wiki/Treaty_of_Utrecht" title="Treaty of Utrecht">Treaty of Utrecht</a></li>
+<li><a href="/wiki/Thirteenth_Siege_of_Gibraltar" title="Thirteenth Siege of Gibraltar">Thirteenth Siege of Gibraltar</a></li>
+<li><a href="/wiki/Great_Siege_of_Gibraltar" title="Great Siege of Gibraltar">Great Siege</a></li>
+<li><a href="/wiki/George_Augustus_Eliott,_1st_Baron_Heathfield" title="George Augustus Eliott, 1st Baron Heathfield">George Augustus Eliott</a></li>
+<li><a href="/wiki/Gibraltar_real" title="Gibraltar real">Gibraltar real <small>(currency)</small></a></li>
+<li><a href="/wiki/Military_history_of_Gibraltar_during_World_War_II" title="Military history of Gibraltar during World War II">World War II</a></li>
+<li><a href="/wiki/History_of_nationality_in_Gibraltar" title="History of nationality in Gibraltar">Nationality</a></li>
+<li><a href="/wiki/History_of_the_Genoese_in_Gibraltar" title="History of the Genoese in Gibraltar">Genoese in Gibraltar</a></li>
+<li><a href="/wiki/History_of_the_Maltese_in_Gibraltar" title="History of the Maltese in Gibraltar">Maltese in Gibraltar</a></li>
+<li><a href="/wiki/Explosion_of_the_RFA_Bedenham" title="Explosion of the RFA Bedenham">Explosion of the RFA <i>Bedenham</i></a></li>
+<li><a href="/wiki/Operation_Flavius" title="Operation Flavius">Operation Flavius</a> (<a href="/wiki/Death_on_the_Rock" title="Death on the Rock">Death on the Rock</a>)</li>
+<li><a href="/wiki/MV_Aurora_(2000)#2003:_Norwalk_virus_breakout" title="MV Aurora (2000)"><i>Aurora</i> incident</a></li>
+<li><a href="/wiki/MV_New_Flame" title="MV New Flame"><i>New Flame</i> incident</a></li>
+<li><a href="/wiki/MV_Fedra" title="MV Fedra"><i>Fedra</i> incident</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Geography" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Geography_of_Gibraltar" title="Geography of Gibraltar">Geography</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Climate_of_Gibraltar" title="Climate of Gibraltar">Climate</a></li>
+<li><a href="/wiki/Geology_of_the_Iberian_Peninsula" title="Geology of the Iberian Peninsula">Geology</a>
+<ul>
+<li><a class="mw-selflink selflink">Azores–Gibraltar Transform Fault</a></li>
+<li><a href="/wiki/Gibraltar_Arc" title="Gibraltar Arc">Gibraltar Arc</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Environment_of_Gibraltar" title="Category:Environment of Gibraltar">Environment</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_birds_of_Gibraltar" title="List of birds of Gibraltar">Birds</a></li>
+<li><a href="/wiki/List_of_mammals_of_Gibraltar" title="List of mammals of Gibraltar">Mammals</a>
+<ul>
+<li><a href="/wiki/Barbary_macaques_in_Gibraltar" title="Barbary macaques in Gibraltar">Barbary macaques</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_amphibians_and_reptiles_of_Gibraltar" title="List of amphibians and reptiles of Gibraltar">Reptiles and amphibians</a></li>
+<li><a href="/wiki/Iberis_gibraltarica" title="Iberis gibraltarica">Candytuft <small>(<i>Iberis gibraltarica</i>)</small></a></li>
+<li><a href="/wiki/Gibraltar_Botanic_Gardens" title="Gibraltar Botanic Gardens">Botanic Gardens</a></li>
+<li><a href="/wiki/Gibraltar_Ornithological_%26_Natural_History_Society" title="Gibraltar Ornithological &amp; Natural History Society">Ornithological &amp; Natural History Society (GONHS)</a></li>
+<li><a href="/wiki/Alameda_Wildlife_Conservation_Park" title="Alameda Wildlife Conservation Park">Wildlife Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Places</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Natural</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bay_of_Gibraltar" title="Bay of Gibraltar">Bay of Gibraltar</a></li>
+<li><a href="/wiki/Catalan_Bay" title="Catalan Bay">Catalan Bay</a></li>
+<li><a href="/wiki/Eastern_Beach,_Gibraltar" title="Eastern Beach, Gibraltar">Eastern Beach</a></li>
+<li><a href="/wiki/Gorham%27s_Cave" title="Gorham's Cave">Gorham's Cave</a></li>
+<li><a href="/wiki/Rock_of_Gibraltar" title="Rock of Gibraltar">Rock of Gibraltar</a></li>
+<li><a href="/wiki/St._Michael%27s_Cave" title="St. Michael's Cave">St. Michael's Cave</a></li>
+<li><a href="/wiki/Sandy_Bay,_Gibraltar" title="Sandy Bay, Gibraltar">Sandy Bay</a></li>
+<li><a href="/wiki/Strait_of_Gibraltar" title="Strait of Gibraltar">Strait of Gibraltar</a></li>
+<li><a href="/wiki/Vanguard_Cave" title="Vanguard Cave">Vanguard Cave</a></li>
+<li><a href="/wiki/Windmill_Hill_(Gibraltar)" title="Windmill Hill (Gibraltar)">Windmill Hill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Category:Buildings_and_structures_in_Gibraltar" title="Category:Buildings and structures in Gibraltar">Built</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bristol_Hotel,_Gibraltar" title="Bristol Hotel, Gibraltar">Bristol Hotel</a></li>
+<li><a href="/wiki/Gibraltar_City_Hall" title="Gibraltar City Hall">City Hall</a></li>
+<li><a href="/wiki/The_Convent_(Gibraltar)" title="The Convent (Gibraltar)">The Convent</a></li>
+<li><a href="/wiki/Garrison_Library" title="Garrison Library">Garrison Library</a></li>
+<li><a href="/wiki/King_George_V_Hospital_(Gibraltar)" title="King George V Hospital (Gibraltar)">King George V Hospital</a></li>
+<li><a href="/wiki/Moorish_Castle" title="Moorish Castle">Moorish Castle</a></li>
+<li><a href="/wiki/The_Rock_Hotel" title="The Rock Hotel">The Rock Hotel</a></li>
+<li><a href="/wiki/St_Bernard%27s_Hospital" title="St Bernard's Hospital">St. Bernard's Hospital</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_Gibraltar" title="Politics of Gibraltar">Politics</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Constitution_of_Gibraltar" title="Constitution of Gibraltar">Constitution Order</a>
+<ul>
+<li><a href="/wiki/Gibraltar_Constitution_Order_1969" title="Gibraltar Constitution Order 1969">1969</a></li>
+<li><a href="/wiki/Gibraltar_Constitution_Order_2006" title="Gibraltar Constitution Order 2006">2006</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Law_of_Gibraltar" title="Law of Gibraltar">Law</a>
+<ul>
+<li><a href="/wiki/Judiciary_of_Gibraltar" title="Judiciary of Gibraltar">Court system</a></li>
+<li><a href="/wiki/LGBT_rights_in_Gibraltar" title="LGBT rights in Gibraltar">LGBT rights</a></li>
+</ul>
+</li>
+<li><a href="/wiki/British_passport_(Gibraltar)" title="British passport (Gibraltar)">Passport</a></li>
+<li><a href="/wiki/Political_development_in_modern_Gibraltar" title="Political development in modern Gibraltar">Political development in modern Gibraltar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chief_Minister_of_Gibraltar" title="Chief Minister of Gibraltar">Chief Minister</a></li>
+<li><a href="/wiki/Governor_of_Gibraltar" title="Governor of Gibraltar">Governor</a></li>
+<li><a href="/wiki/Mayor_of_Gibraltar" title="Mayor of Gibraltar">Mayor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Politics_of_Gibraltar" title="Politics of Gibraltar">Politics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Swan_Project" title="Black Swan Project">Black Swan Project controversy</a></li>
+<li><a href="/wiki/Disputed_status_of_Gibraltar" title="Disputed status of Gibraltar">Disputed status</a>
+<ul>
+<li><a href="/wiki/Disputed_status_of_the_isthmus_between_Gibraltar_and_Spain" title="Disputed status of the isthmus between Gibraltar and Spain">isthmus</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Elections_in_Gibraltar" title="Elections in Gibraltar">Elections</a>
+<ul>
+<li><a href="/wiki/Gibraltar_general_election,_2007" title="Gibraltar general election, 2007">2007</a></li>
+<li><a href="/wiki/Gibraltar_general_election,_2011" title="Gibraltar general election, 2011">2011</a></li>
+<li><a href="/wiki/Gibraltar_general_election,_2015" title="Gibraltar general election, 2015">2015</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gibraltar_Parliament" title="Gibraltar Parliament">Parliament</a>
+<ul>
+<li><a href="/wiki/Speaker_of_the_Gibraltar_Parliament" title="Speaker of the Gibraltar Parliament">Speaker</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_political_parties_in_Gibraltar" title="List of political parties in Gibraltar">Political parties</a></li>
+<li><a href="/wiki/Sovereignty" title="Sovereignty">Sovereignty referendums</a>
+<ul>
+<li><a href="/wiki/Gibraltar_sovereignty_referendum,_1967" title="Gibraltar sovereignty referendum, 1967">1967</a></li>
+<li><a href="/wiki/Gibraltar_sovereignty_referendum,_2002" title="Gibraltar sovereignty referendum, 2002">2002</a></li>
+</ul>
+</li>
+<li><a href="/wiki/United_Kingdom_European_Union_membership_referendum,_2016" title="United Kingdom European Union membership referendum, 2016">EU Referendum</a>
+<ul>
+<li><a href="/wiki/European_Union_(Referendum)_Act_2016_(Gibraltar)" title="European Union (Referendum) Act 2016 (Gibraltar)">European Union (Referendum) Act 2016 (Gibraltar)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Military_of_Gibraltar" title="Military of Gibraltar">Military</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/British_Forces_Gibraltar" title="British Forces Gibraltar">British Forces Gibraltar</a></li>
+<li><a href="/wiki/Gibraltar_Defence_Police" title="Gibraltar Defence Police">Gibraltar Defence Police</a></li>
+<li><a href="/wiki/Gibraltar_Squadron" title="Gibraltar Squadron">Gibraltar Squadron</a></li>
+<li><a href="/wiki/Napier_of_Magdala_Battery" title="Napier of Magdala Battery">Napier of Magdala Battery</a></li>
+<li><a href="/wiki/RAF_Gibraltar" title="RAF Gibraltar">RAF Gibraltar</a></li>
+<li><a href="/wiki/Royal_Gibraltar_Police" title="Royal Gibraltar Police">Royal Gibraltar Police</a></li>
+<li><a href="/wiki/Royal_Gibraltar_Regiment" title="Royal Gibraltar Regiment">Royal Gibraltar Regiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Economy" style="font-size:114%;margin:0 4em"><a href="/wiki/Economy_of_Gibraltar" title="Economy of Gibraltar">Economy</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_banks_in_Gibraltar" title="List of banks in Gibraltar">Banks</a></li>
+<li><a href="/wiki/Gibraltar_pound" title="Gibraltar pound">Gibraltar pound</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Coins_of_the_Gibraltar_pound" title="Coins of the Gibraltar pound">coins</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gibraltar_Stock_Exchange" title="Gibraltar Stock Exchange">Stock Exchange</a></li>
+<li><a href="/wiki/Taxation_in_Gibraltar" title="Taxation in Gibraltar">Taxation</a></li>
+<li><a href="/wiki/Tourism_in_Gibraltar" title="Tourism in Gibraltar">Tourism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Communications_in_Gibraltar" title="Communications in Gibraltar">Communications</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/.gi" title=".gi">.gi <small>(Internet domain)</small></a></li>
+<li><a href="/wiki/Gibraltar_Broadcasting_Corporation" title="Gibraltar Broadcasting Corporation">Gibraltar Broadcasting Corporation</a></li>
+<li><i><a href="/wiki/Gibraltar_Chronicle" title="Gibraltar Chronicle">Gibraltar Chronicle</a></i></li>
+<li><a href="/wiki/Gibtelecom" title="Gibtelecom">Gibtelecom</a></li>
+<li><a href="/wiki/Panorama_(Gibraltar)" title="Panorama (Gibraltar)">Panorama</a></li>
+<li><a href="/wiki/Gibraltar_Regulatory_Authority" title="Gibraltar Regulatory Authority">Regulatory Authority</a></li>
+<li><a href="/wiki/Royal_Gibraltar_Post_Office" title="Royal Gibraltar Post Office">Royal Gibraltar Post Office</a>
+<ul>
+<li><a href="/wiki/Postage_stamps_and_postal_history_of_Gibraltar" title="Postage stamps and postal history of Gibraltar">Postage stamps and history</a></li>
+<li><a href="/wiki/Postal_Orders_of_Gibraltar" title="Postal Orders of Gibraltar">Postal Orders</a></li>
+<li><a href="/wiki/Gibraltar_Study_Circle" title="Gibraltar Study Circle">Study Circle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Telephone_numbers_in_Gibraltar" title="Telephone numbers in Gibraltar">Telephone numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Transport_in_Gibraltar" title="Transport in Gibraltar">Transport</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gibraltar_International_Airport" title="Gibraltar International Airport">Airport</a></li>
+<li><a href="/wiki/Gibraltar_Cable_Car" title="Gibraltar Cable Car">Cable car</a></li>
+<li><a href="/wiki/Gibraltar%E2%80%93Spain_border" title="Gibraltar–Spain border">Gibraltar–Spain border</a></li>
+<li><a href="/wiki/Shipping_in_Gibraltar" title="Shipping in Gibraltar">Shipping in Gibraltar</a></li>
+<li><a href="/wiki/Vehicle_registration_plates_of_Gibraltar" title="Vehicle registration plates of Gibraltar">Vehicle registration plates</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Culture" style="font-size:114%;margin:0 4em"><a href="/wiki/Culture_of_Gibraltar" title="Culture of Gibraltar">Culture</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gibraltarian_cuisine" title="Gibraltarian cuisine">Cuisine</a></li>
+<li><a href="/wiki/Education_in_Gibraltar" title="Education in Gibraltar">Education</a>
+<ul>
+<li><a href="/wiki/University_of_Gibraltar" title="University of Gibraltar">University of Gibraltar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Miss_Gibraltar" title="Miss Gibraltar">Miss Gibraltar</a></li>
+<li><a href="/wiki/Music_of_Gibraltar" title="Music of Gibraltar">Music</a>
+<ul>
+<li><a href="/wiki/Ll%C3%A9vame_Donde_Nac%C3%AD" title="Llévame Donde Nací">Llévame Donde Nací</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gibraltar_National_Day" title="Gibraltar National Day">National Day</a></li>
+<li><a href="/wiki/Scouting_and_Guiding_in_Gibraltar" title="Scouting and Guiding in Gibraltar">Scouting and Guiding in Gibraltar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Demographics_of_Gibraltar" title="Demographics of Gibraltar">Demographics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gibraltarians" title="Gibraltarians">Gibraltarians</a>
+<ul>
+<li><a href="/wiki/List_of_Gibraltarians" title="List of Gibraltarians">list</a></li>
+<li><a href="/wiki/Gibraltarians_in_the_United_Kingdom" title="Gibraltarians in the United Kingdom">in the UK</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gibraltarian_status" title="Gibraltarian status">Gibraltarian status</a></li>
+<li><a href="/wiki/Languages_of_Gibraltar" title="Languages of Gibraltar">Languages</a>
+<ul>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Llanito" title="Llanito">Llanito</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Religion_in_Gibraltar" title="Religion in Gibraltar">Religion</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Christianity</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Church_of_England" title="Church of England">Anglicanism</a>
+<ul>
+<li><a href="/wiki/Diocese_in_Europe" title="Diocese in Europe">Diocese in Europe</a></li>
+<li><a href="/wiki/Bishop_in_Europe" title="Bishop in Europe">Bishop diocesan</a></li>
+<li><a href="/wiki/Suffragan_Bishop_in_Europe" title="Suffragan Bishop in Europe">Bishop suffragan</a></li>
+<li><a href="/wiki/Cathedral_of_the_Holy_Trinity,_Gibraltar" title="Cathedral of the Holy Trinity, Gibraltar">Cathedral of the Holy Trinity</a></li>
+</ul>
+</li>
+<li><a href="/wiki/St_Andrew%27s_Church,_Gibraltar" title="St Andrew's Church, Gibraltar">St. Andrew's Church <small>(Church of Scotland)</small></a></li>
+<li><a href="/wiki/Gibraltar_Methodist_Church" title="Gibraltar Methodist Church">Methodism</a></li>
+<li><a class="mw-redirect" href="/wiki/Roman_Catholicism_in_Gibraltar" title="Roman Catholicism in Gibraltar">Roman Catholicism</a>
+<ul>
+<li><a href="/wiki/Roman_Catholic_Diocese_of_Gibraltar" title="Roman Catholic Diocese of Gibraltar">Diocese</a></li>
+<li><a class="mw-redirect" href="/wiki/Roman_Catholic_Bishop_of_Gibraltar" title="Roman Catholic Bishop of Gibraltar">Bishop</a></li>
+<li><a href="/wiki/Cathedral_of_St._Mary_the_Crowned" title="Cathedral of St. Mary the Crowned">Cathedral of St. Mary the Crowned</a></li>
+<li><a href="/wiki/Our_Lady_of_Europe" title="Our Lady of Europe">Our Lady of Europe</a></li>
+<li><a href="/wiki/Shrine_of_Our_Lady_of_Europe" title="Shrine of Our Lady of Europe">Shrine of Our Lady of Europe</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trafalgar_Cemetery" title="Trafalgar Cemetery">Trafalgar Cemetery</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Other faiths</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hinduism_in_Gibraltar" title="Hinduism in Gibraltar">Hinduism</a></li>
+<li><a href="/wiki/Islam_in_Gibraltar" title="Islam in Gibraltar">Islam</a>
+<ul>
+<li><a href="/wiki/Ibrahim-al-Ibrahim_Mosque" title="Ibrahim-al-Ibrahim Mosque">Ibrahim-al-Ibrahim Mosque</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_the_Jews_in_Gibraltar" title="History of the Jews in Gibraltar">Judaism</a>
+<ul>
+<li><a href="/wiki/Great_Synagogue_(Gibraltar)" title="Great Synagogue (Gibraltar)">Great Synagogue</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sport_in_Gibraltar" title="Sport in Gibraltar">Sport</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;width:4.4em;font-weight:normal;">By sport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gibraltar_national_basketball_team" title="Gibraltar national basketball team">Basketball</a></li>
+<li><a href="/wiki/Gibraltar_Cricket_Association" title="Gibraltar Cricket Association">Cricket</a>
+<ul>
+<li><a href="/wiki/Gibraltar_national_cricket_team" title="Gibraltar national cricket team">national team</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gibraltar_Cycling_Association" title="Gibraltar Cycling Association">Cycling</a></li>
+<li><a href="/wiki/Football_in_Gibraltar" title="Football in Gibraltar">Football</a>
+<ul>
+<li><a href="/wiki/Gibraltar_Football_Association" title="Gibraltar Football Association">Football Association</a></li>
+<li><a href="/wiki/Gibraltar_national_football_team" title="Gibraltar national football team">national team</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gibraltar_Petanque_Association" title="Gibraltar Petanque Association">Petanque</a></li>
+<li><a href="/wiki/Rugby_union_in_Gibraltar" title="Rugby union in Gibraltar">Rugby union</a>
+<ul>
+<li><a href="/wiki/Gibraltar_Barbarians_Rugby_Club" title="Gibraltar Barbarians Rugby Club">Campo Gibraltar RUFC</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gibraltar_at_the_Commonwealth_Games" title="Gibraltar at the Commonwealth Games">Commonwealth Games</a></li>
+<li><a href="/wiki/International_Island_Games_Association" title="International Island Games Association">Island Games</a></li>
+<li><a class="mw-redirect" href="/wiki/Gibraltarian_records_in_athletics" title="Gibraltarian records in athletics">Records in athletics</a></li>
+<li><a href="/wiki/Victoria_Stadium_(Gibraltar)" title="Victoria Stadium (Gibraltar)">Victoria Stadium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:National_symbols_of_Gibraltar" title="Category:National symbols of Gibraltar">Symbols</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gibraltar_Anthem" title="Gibraltar Anthem">Anthem</a></li>
+<li><a href="/wiki/Coat_of_arms_of_Gibraltar" title="Coat of arms of Gibraltar">Coat of arms</a></li>
+<li><a href="/wiki/Flag_of_Gibraltar" title="Flag of Gibraltar">Official flag</a>
+<ul>
+<li><a href="/wiki/List_of_flags_of_Gibraltar" title="List of flags of Gibraltar">other flags</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow navbox-title" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Gibraltar" title="Category:Gibraltar">Category</a></b></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Gibraltar" title="commons:Category:Gibraltar">Commons</a></b></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <b><a href="/wiki/Portal:Gibraltar" title="Portal:Gibraltar">Portal</a></b></li>
+<li><img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <b><a href="/wiki/Wikipedia:WikiProject_Gibraltar" title="Wikipedia:WikiProject Gibraltar">WikiProject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Azores%E2%80%93Gibraltar_Transform_Fault&amp;params=37_N_-16_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°N</span> <span class="longitude">16°W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37°N 16°W</span><span style="display:none">﻿ / <span class="geo">37; -16</span></span></span></a></span></span></span></p>
+<!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20171027082104
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.300 seconds
+Preprocessor visited node count: 1669/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 141062/2097152 bytes
+Template argument size: 15252/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 5.12 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  225.377      1 -total
+ 31.32%   70.583      1 Template:Gibraltar_topics
+ 30.14%   67.932      1 Template:Navbox_with_collapsible_groups
+ 18.77%   42.293      3 Template:Cite_journal
+ 12.53%   28.230      2 Template:Convert
+ 12.46%   28.074      1 Template:Location_map+
+ 10.41%   23.462      1 Template:Coord
+  8.91%   20.081      7 Template:Navbox
+  8.61%   19.401      1 Template:Reflist
+  4.64%   10.467      4 Template:Icon
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16602928-0!canonical and timestamp 20171027082103 and revision id 769108845
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Azores–Gibraltar_Transform_Fault&amp;oldid=769108845">https://en.wikipedia.org/w/index.php?title=Azores–Gibraltar_Transform_Fault&amp;oldid=769108845</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Plate_tectonics" title="Category:Plate tectonics">Plate tectonics</a></li><li><a href="/wiki/Category:Seismic_faults_of_Europe" title="Category:Seismic faults of Europe">Seismic faults of Europe</a></li><li><a href="/wiki/Category:Geology_of_Gibraltar" title="Category:Geology of Gibraltar">Geology of Gibraltar</a></li><li><a href="/wiki/Category:Geology_of_the_Azores" title="Category:Geology of the Azores">Geology of the Azores</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Azores%E2%80%93Gibraltar+Transform+Fault" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Azores%E2%80%93Gibraltar+Transform+Fault" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Azores%E2%80%93Gibraltar_Transform_Fault" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Azores%E2%80%93Gibraltar_Transform_Fault" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Azores%E2%80%93Gibraltar_Transform_Fault">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Azores%E2%80%93Gibraltar_Transform_Fault" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Azores%E2%80%93Gibraltar_Transform_Fault" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;oldid=769108845" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3505839" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Azores%E2%80%93Gibraltar_Transform_Fault&amp;id=769108845" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Azores%E2%80%93Gibraltar+Transform+Fault">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Azores%E2%80%93Gibraltar+Transform+Fault&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Falla_transformant_d%27Azores-Chibraltar" hreflang="an" lang="an" title="Falla transformant d'Azores-Chibraltar – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Falla_Azores-Gibraltar" hreflang="es" lang="es" title="Falla Azores-Gibraltar – Spanish">Español</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Patahan_Transform_Azores-Gibraltar" hreflang="id" lang="id" title="Patahan Transform Azores-Gibraltar – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Uskok_transformacyjny_Azory-Gibraltar" hreflang="pl" lang="pl" title="Uskok transformacyjny Azory-Gibraltar – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Zona_de_fractura_A%C3%A7ores-Gibraltar" hreflang="pt" lang="pt" title="Zona de fractura Açores-Gibraltar – Portuguese">Português</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%B7%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%BE-%D0%93%D1%96%D0%B1%D1%80%D0%B0%D0%BB%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%BD%D0%B8%D0%B9_%D1%80%D0%BE%D0%B7%D0%BB%D0%BE%D0%BC" hreflang="uk" lang="uk" title="Азорсько-Гібралтарський трансформний розлом – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%80%9F%E5%B0%94-%E7%9B%B4%E5%B8%83%E7%BD%97%E9%99%80%E8%BD%AC%E6%8D%A2%E6%96%AD%E5%B1%82" hreflang="zh" lang="zh" title="亚速尔-直布罗陀转换断层 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3505839#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 7 March 2017, at 16:51.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Azores%E2%80%93Gibraltar_Transform_Fault&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.300","ppvisitednodes":{"value":1669,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":141062,"limit":2097152},"templateargumentsize":{"value":15252,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  225.377      1 -total"," 31.32%   70.583      1 Template:Gibraltar_topics"," 30.14%   67.932      1 Template:Navbox_with_collapsible_groups"," 18.77%   42.293      3 Template:Cite_journal"," 12.53%   28.230      2 Template:Convert"," 12.46%   28.074      1 Template:Location_map+"," 10.41%   23.462      1 Template:Coord","  8.91%   20.081      7 Template:Navbox","  8.61%   19.401      1 Template:Reflist","  4.64%   10.467      4 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.106","limit":"10.000"},"limitreport-memusage":{"value":5367410,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20171027082104","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

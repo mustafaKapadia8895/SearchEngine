@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Federal Aviation Administration - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Federal_Aviation_Administration","wgTitle":"Federal Aviation Administration","wgCurRevisionId":807061219,"wgRevisionId":807061219,"wgArticleId":11186,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Articles with Internet Archive links","Articles with LibriVox links","Civil aviation authorities in North America","Federal Aviation Administration","Aviation safety","Government agencies established in 1958","1958 establishments in the United States","Air navigation service providers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Federal_Aviation_Administration","wgRelevantArticleId":11186,"wgRequestId":"Wf0tvwpAEKcAAE0WtCwAAABT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q335357","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seal_of_the_United_States_Federal_Aviation_Administration.svg/1200px-Seal_of_the_United_States_Federal_Aviation_Administration.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Federal_Aviation_Administration" rel="alternate"/>
+<link href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Federal_Aviation_Administration rootpage-Federal_Aviation_Administration vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Federal Aviation Administration</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"FAA" redirects here. For other uses, see <a class="mw-disambig" href="/wiki/FAA_(disambiguation)" title="FAA (disambiguation)">FAA (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<caption>Federal Aviation Administration</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Seal_of_the_United_States_Federal_Aviation_Administration.svg"><img alt="Seal of the United States Federal Aviation Administration.svg" data-file-height="720" data-file-width="720" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seal_of_the_United_States_Federal_Aviation_Administration.svg/200px-Seal_of_the_United_States_Federal_Aviation_Administration.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seal_of_the_United_States_Federal_Aviation_Administration.svg/300px-Seal_of_the_United_States_Federal_Aviation_Administration.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seal_of_the_United_States_Federal_Aviation_Administration.svg/400px-Seal_of_the_United_States_Federal_Aviation_Administration.svg.png 2x" width="200"/></a>
+<div>Seal of the Federal Aviation Administration</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Flag_of_the_United_States_Federal_Aviation_Administration.svg"><img alt="Flag of the United States Federal Aviation Administration.svg" class="thumbborder" data-file-height="240" data-file-width="400" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_the_United_States_Federal_Aviation_Administration.svg/200px-Flag_of_the_United_States_Federal_Aviation_Administration.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_the_United_States_Federal_Aviation_Administration.svg/300px-Flag_of_the_United_States_Federal_Aviation_Administration.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_the_United_States_Federal_Aviation_Administration.svg/400px-Flag_of_the_United_States_Federal_Aviation_Administration.svg.png 2x" width="200"/></a>
+<div>Flag of the Federal Aviation Administration</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef">Agency overview</th>
+</tr>
+<tr>
+<th scope="row">Formed</th>
+<td>August 23, 1958<span class="noprint">; 59 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1958-08-23</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">Preceding agency</th>
+<td>
+<div class="plainlist">
+<ul>
+<li style="text-indent: -1em; padding-left: 1em;"><a href="/wiki/Civil_Aeronautics_Board" title="Civil Aeronautics Board">Civil Aeronautics Administration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Jurisdiction</th>
+<td><a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">Federal government of the United States</a></td>
+</tr>
+<tr>
+<th scope="row">Headquarters</th>
+<td>800 Independence Avenue SW<br/>
+<a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a> 20591<br/>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Federal_Aviation_Administration&amp;params=38_53_14.31_N_77_1_19.98_W_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">38°53′14.31″N</span> <span class="longitude">77°1′19.98″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">38.8873083°N 77.0222167°W</span><span style="display:none">﻿ / <span class="geo">38.8873083; -77.0222167</span></span></span></a></span></td>
+</tr>
+<tr>
+<th scope="row">Annual budget</th>
+<td><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>15.956 billion (<a href="/wiki/Fiscal_year" title="Fiscal year">FY2010</a>)</td>
+</tr>
+<tr>
+<th scope="row">Agency executives</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Michael_Huerta" title="Michael Huerta">Michael Huerta</a>, Administrator</li>
+<li>Dan Elwell, Deputy Administrator</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Parent agency</th>
+<td><a href="/wiki/United_States_Department_of_Transportation" title="United States Department of Transportation">U.S. Department of Transportation</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://www.faa.gov/" rel="nofollow">www.faa.gov</a></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef">Footnotes</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+</table>
+<p>The <b>Federal Aviation Administration</b> (<b>FAA</b>) of the United States is a national authority with powers to regulate all aspects of <a href="/wiki/Civil_aviation" title="Civil aviation">civil aviation</a>. These include the construction and operation of airports, <a href="/wiki/Air_traffic_management" title="Air traffic management">air traffic management</a>, the certification of personnel and aircraft, and the protection of US assets during the launch or <a class="mw-redirect" href="/wiki/Re-entry" title="Re-entry">re-entry</a> of commercial space vehicles.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Major_functions"><span class="tocnumber">1</span> <span class="toctext">Major functions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Organizations"><span class="tocnumber">2</span> <span class="toctext">Organizations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Regions_and_Aeronautical_Center_Operations"><span class="tocnumber">3</span> <span class="toctext">Regions and Aeronautical Center Operations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#21st_century"><span class="tocnumber">5</span> <span class="toctext">21st century</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#FAA_reauthorization_and_air_traffic_control_reform"><span class="tocnumber">5.1</span> <span class="toctext">FAA reauthorization and air traffic control reform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Criticism"><span class="tocnumber">6</span> <span class="toctext">Criticism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Conflicting_roles"><span class="tocnumber">6.1</span> <span class="toctext">Conflicting roles</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Changes_to_air_traffic_controller_application_process"><span class="tocnumber">6.2</span> <span class="toctext">Changes to air traffic controller application process</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#List_of_FAA_Administrators"><span class="tocnumber">7</span> <span class="toctext">List of FAA Administrators</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#FAA_process"><span class="tocnumber">8</span> <span class="toctext">FAA process</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Designated_Engineering_Representative"><span class="tocnumber">8.1</span> <span class="toctext">Designated Engineering Representative</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Designated_Airworthiness_Representative_.28DAR.29"><span class="tocnumber">8.2</span> <span class="toctext">Designated Airworthiness Representative (DAR)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Major_functions">Major functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=1" title="Edit section: Major functions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The FAA's roles include:</p>
+<ul>
+<li>Regulating U.S. commercial space transportation</li>
+<li>Regulating air navigation facilities' geometric and <a href="/wiki/Flight_inspection" title="Flight inspection">flight inspection</a> standards</li>
+<li>Encouraging and developing civil aeronautics, including new aviation technology</li>
+<li>Issuing, suspending, or revoking pilot certificates</li>
+<li>Regulating civil aviation to promote <a href="/wiki/Transportation_safety_in_the_United_States" title="Transportation safety in the United States">Transportation safety in the United States</a>, especially through local offices called <a href="/wiki/Flight_Standards_District_Office" title="Flight Standards District Office">Flight Standards District Offices</a></li>
+<li>Developing and operating a system of <a href="/wiki/Air_traffic_control" title="Air traffic control">air traffic control</a> and navigation for both civil and military aircraft</li>
+<li>Researching and developing the <a href="/wiki/National_Airspace_System" title="National Airspace System">National Airspace System</a> and civil aeronautics</li>
+<li>Developing and carrying out programs to control aircraft noise and other environmental effects of civil aviation</li>
+</ul>
+<h2><span class="mw-headline" id="Organizations">Organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=2" title="Edit section: Organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The FAA is divided into four "lines of business" (LOB).<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Each LOB has a specific role within the FAA.</p>
+<ul>
+<li><b>Airports</b> (<b>ARP</b>) — plans and develops projects involving airports, overseeing their construction and operations. Ensures compliance with federal regulations.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li><b><a href="/wiki/Air_Traffic_Organization" title="Air Traffic Organization">Air Traffic Organization</a></b> (<b>ATO</b>) — primary duty is to safely and efficiently move air traffic within the <a href="/wiki/National_Airspace_System" title="National Airspace System">National Airspace System</a>. ATO employees manage air traffic facilities including Airport Traffic Control Towers (ATCT) and Terminal Radar Approach Control Facilities (<a href="/wiki/Air_traffic_control#Approach_and_terminal_control" title="Air traffic control">TRACONs</a>).<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> <i>See also</i> <a href="/wiki/Airway_Operational_Support" title="Airway Operational Support">Airway Operational Support</a>.</li>
+<li><b>Aviation Safety</b> (<b>AVS</b>) — Responsible for aeronautical certification of personnel and aircraft, including pilots, airlines, and mechanics.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li>
+<li><b>Commercial Space Transportation</b> (<b>AST</b>) — ensures protection of U.S. assets during the launch or reentry of commercial space vehicles.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Regions_and_Aeronautical_Center_Operations">Regions and Aeronautical Center Operations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=3" title="Edit section: Regions and Aeronautical Center Operations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:377px;"><a class="image" href="/wiki/File:US_Overflight_Fee_Map.png"><img alt="Map of approximately the Northern Hemisphere from Japan &amp; New Guinea (left edge) to middle of North Atlantic Ocean. The map shows yellow over the continental U.S. and Bahamas, Alaska (and much of the Bering Sea), and a yellow circle around Bermuda. Most of the Northern Pacific is colored blue along with a small section in the middle of the Gulf of Mexico, and the western half of the North Atlantic from roughly the latitude of Maine to the northern edge of the Leeward Islands (or Puerto Rico)." class="thumbimage" data-file-height="272" data-file-width="375" height="272" src="//upload.wikimedia.org/wikipedia/commons/d/d2/US_Overflight_Fee_Map.png" width="375"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:US_Overflight_Fee_Map.png" title="Enlarge"></a></div>
+The FAA provides air traffic control services over U.S. territory and over international waters where it has been delegated such authority by the <a href="/wiki/International_Civil_Aviation_Organization" title="International Civil Aviation Organization">International Civil Aviation Organization</a>. This map depicts <a href="/wiki/Freedoms_of_the_air#First_freedom" title="Freedoms of the air">overflight</a> fee regions. Yellow (<i>enroute</i>) covers land territory, excluding Hawaii and some island territories but including most of the Bering Sea as well as <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a> and <a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a> (sovereign countries, where the FAA provides high-altitude ATC service). The blue regions are where the U.S. provides <i>oceanic</i> ATC services over international waters (Hawaii, some US island territories, &amp; some small, foreign island nations/territories are included in this region).</div>
+</div>
+</div>
+<p>The FAA is headquartered in <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> as well as the <a href="/wiki/William_J._Hughes_Technical_Center" title="William J. Hughes Technical Center">William J. Hughes Technical Center</a> in <a href="/wiki/Atlantic_City,_New_Jersey" title="Atlantic City, New Jersey">Atlantic City, New Jersey</a>, <a href="/wiki/Mike_Monroney_Aeronautical_Center" title="Mike Monroney Aeronautical Center">Mike Monroney Aeronautical Center</a> in <a class="mw-redirect" href="/wiki/Oklahoma_City,_Oklahoma" title="Oklahoma City, Oklahoma">Oklahoma City, Oklahoma</a> and its nine regional offices:</p>
+<ul>
+<li>Alaskan Region – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage, Alaska</a></li>
+<li>Northwest Mountain – <a href="/wiki/Renton,_Washington" title="Renton, Washington">Renton, Washington</a></li>
+<li>Western Pacific – <a href="/wiki/Lawndale,_California" title="Lawndale, California">Lawndale, California</a></li>
+<li>Southwest – <a href="/wiki/Fort_Worth,_Texas" title="Fort Worth, Texas">Fort Worth, Texas</a></li>
+<li>Central – <a href="/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City, Missouri</a></li>
+<li>Great Lakes – <a href="/wiki/Des_Plaines,_Illinois" title="Des Plaines, Illinois">Des Plaines, Illinois</a></li>
+<li>Southern – <a href="/wiki/College_Park,_Georgia" title="College Park, Georgia">College Park, Georgia</a></li>
+<li>Eastern – <a href="/wiki/Jamaica,_Queens" title="Jamaica, Queens">Jamaica, New York</a></li>
+<li>New England – <a href="/wiki/Burlington,_Massachusetts" title="Burlington, Massachusetts">Burlington, Massachusetts</a></li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a class="image" href="/wiki/File:DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG"><img alt="" class="thumbimage" data-file-height="2736" data-file-width="3648" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG/180px-DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG/270px-DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG/360px-DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG 2x" width="180"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:DOT-FAA_Headquarters_by_Matthew_Bisanz.JPG" title="Enlarge"></a></div>
+FAA Headquarters, <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></div>
+</div>
+</div>
+<p>The <a href="/wiki/United_States_government_role_in_civil_aviation" title="United States government role in civil aviation">Air Commerce Act</a> of May 20, 1926, is the cornerstone of the federal government's regulation of civil aviation. This landmark legislation was passed at the urging of the aviation industry, whose leaders believed the airplane could not reach its full commercial potential without federal action to improve and maintain safety standards. The Act charged the <a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">Secretary of Commerce</a> with fostering air commerce, issuing and enforcing air traffic rules, <a href="/wiki/Pilot_certification_in_the_United_States" title="Pilot certification in the United States">licensing pilots</a>, certifying aircraft, establishing airways, and operating and maintaining aids to air navigation. The newly created Aeronautics Branch, operating under the <a href="/wiki/United_States_Department_of_Commerce" title="United States Department of Commerce">Department of Commerce</a> assumed primary responsibility for aviation oversight.</p>
+<p>In fulfilling its civil aviation responsibilities, the Department of Commerce initially concentrated on such functions as safety regulations and the certification of pilots and aircraft. It took over the building and operation of the nation's system of lighted airways, a task initiated by the <a href="/wiki/United_States_Post_Office_Department" title="United States Post Office Department">Post Office Department</a>. The Department of Commerce improved aeronautical radio communications — before the founding of the <a href="/wiki/Federal_Communications_Commission" title="Federal Communications Commission">Federal Communications Commission</a> in 1934, which handles most such matters today — and introduced radio beacons as an effective aid to air navigation.</p>
+<p>The Aeronautics Branch was renamed the Bureau of Air Commerce in 1934 to reflect its enhanced status within the Department. As commercial flying increased, the Bureau encouraged a group of airlines to establish the first three centers for providing <a href="/wiki/Air_traffic_control" title="Air traffic control">air traffic control</a> (ATC) along the airways. In 1936, the Bureau itself took over the centers and began to expand the ATC system. The pioneer air traffic controllers used maps, blackboards, and mental calculations to ensure the safe separation of aircraft traveling along designated routes between cities.</p>
+<p>In 1938, the <a href="/wiki/United_States_government_role_in_civil_aviation" title="United States government role in civil aviation">Civil Aeronautics Act</a> transferred the federal civil aviation responsibilities from the Commerce Department to a new independent agency, the <a href="/wiki/Civil_Aeronautics_Board" title="Civil Aeronautics Board">Civil Aeronautics Authority</a>. The legislation also expanded the government's role by giving them the authority and the power to regulate airline fares and to determine the routes that air carriers would serve.</p>
+<p>President <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">Franklin D. Roosevelt</a> split the authority into two agencies in 1940, the Civil Aeronautics Administration (CAA) and the <a href="/wiki/Civil_Aeronautics_Board" title="Civil Aeronautics Board">Civil Aeronautics Board</a> (CAB). CAA was responsible for ATC, airman and aircraft certification, safety enforcement, and airway development. CAB was entrusted with safety regulation, accident investigation, and economic regulation of the airlines. The CAA was part of the Department of Commerce. The CAB was an independent federal agency.</p>
+<p>On the eve of America's entry into <a href="/wiki/World_War_II" title="World War II">World War II</a>, CAA began to extend its ATC responsibilities to takeoff and landing operations at airports. This expanded role eventually became permanent after the war. The application of <a href="/wiki/Radar" title="Radar">radar</a> to ATC helped controllers in their drive to keep abreast of the postwar boom in commercial air transportation. In 1946, meanwhile, Congress gave CAA the added task of administering the federal-aid airport program, the first peacetime program of financial assistance aimed exclusively at development of the nation's civil airports.</p>
+<p>The approaching era of <a href="/wiki/Jet_aircraft" title="Jet aircraft">jet</a> travel, and a series of midair collisions (most notable was the <a href="/wiki/1956_Grand_Canyon_mid-air_collision" title="1956 Grand Canyon mid-air collision">1956 Grand Canyon mid-air collision</a>), prompted passage of the <a href="/wiki/Federal_Aviation_Act_of_1958" title="Federal Aviation Act of 1958">Federal Aviation Act of 1958</a>. This legislation gave the CAA's functions to a new independent body, the Federal Aviation Agency. The act transferred air safety regulation from the CAB to the new FAA, and also gave the FAA sole responsibility for a common civil-military system of air navigation and air traffic control. The FAA's first administrator, <a href="/wiki/Elwood_Richard_Quesada" title="Elwood Richard Quesada">Elwood R. Quesada</a>, was a former <a href="/wiki/United_States_Air_Force" title="United States Air Force">Air Force</a> general and adviser to <a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">President Eisenhower</a>.</p>
+<p>The same year witnessed the birth of the <a href="/wiki/NASA" title="NASA">National Aeronautics and Space Administration</a> (NASA), created in the wake of the Soviets launching of the first artificial satellite and assuming NACA's role of aeronautical research.</p>
+<p>In 1967, a new <a href="/wiki/United_States_Department_of_Transportation" title="United States Department of Transportation">U.S. Department of Transportation</a> (DOT) combined major federal responsibilities for air and surface transport. The Federal Aviation Agency's name changed to the Federal Aviation Administration as it became one of several agencies (e.g., Federal Highway Administration, Federal Railroad Administration, the Coast Guard, and the Saint Lawrence Seaway Commission) within DOT (albeit the largest). The FAA administrator would no longer report directly to the president but would instead report to the Secretary of Transportation. New programs and budget requests would have to be approved by DOT, which would then include these requests in the overall budget and submit it to the president.</p>
+<p>At the same time, a new <a href="/wiki/National_Transportation_Safety_Board" title="National Transportation Safety Board">National Transportation Safety Board</a> took over the Civil Aeronautics Board's (CAB) role of investigating and determining the causes of transportation accidents and making recommendations to the secretary of transportation. CAB was merged into DOT with its responsibilities limited to the regulation of commercial airline routes and fares.</p>
+<p>The FAA gradually assumed additional functions. The hijacking epidemic of the 1960s had already brought the agency into the field of civil aviation security. In response to the hijackings on September 11, 2001, this responsibility is now primarily taken by the <a href="/wiki/United_States_Department_of_Homeland_Security" title="United States Department of Homeland Security">Department of Homeland Security</a>. The FAA became more involved with the environmental aspects of aviation in 1968 when it received the power to set aircraft noise standards. Legislation in 1970 gave the agency management of a new airport aid program and certain added responsibilities for airport safety. During the 1960s and 1970s, the FAA also started to regulate high altitude (over 500 feet) kite and balloon flying.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:FAA_Joint_Surveillance_Site_Canton_Michigan.JPG"><img alt="" class="thumbimage" data-file-height="3168" data-file-width="4752" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FAA_Joint_Surveillance_Site_Canton_Michigan.JPG/200px-FAA_Joint_Surveillance_Site_Canton_Michigan.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FAA_Joint_Surveillance_Site_Canton_Michigan.JPG/300px-FAA_Joint_Surveillance_Site_Canton_Michigan.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FAA_Joint_Surveillance_Site_Canton_Michigan.JPG/400px-FAA_Joint_Surveillance_Site_Canton_Michigan.JPG 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FAA_Joint_Surveillance_Site_Canton_Michigan.JPG" title="Enlarge"></a></div>
+FAA Joint Surveillance Site radar, <a href="/wiki/Canton,_Michigan" title="Canton, Michigan">Canton, Michigan</a></div>
+</div>
+</div>
+<p>By the mid-1970s, the agency had achieved a semi-automated air traffic control system using both <a href="/wiki/Radar" title="Radar">radar</a> and computer technology. This system required enhancement to keep pace with air traffic growth, however, especially after the <a href="/wiki/Airline_Deregulation_Act" title="Airline Deregulation Act">Airline Deregulation Act of 1978</a> phased out the CAB's economic regulation of the airlines. A nationwide strike by the <a href="/wiki/Professional_Air_Traffic_Controllers_Organization_(1968)" title="Professional Air Traffic Controllers Organization (1968)">air traffic controllers union</a> in 1981 forced temporary flight restrictions but failed to shut down the airspace system. During the following year, the agency unveiled a new plan for further automating its air traffic control facilities, but progress proved disappointing. In 1994, the FAA shifted to a more step-by-step approach that has provided controllers with advanced equipment.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>In 1979, Congress authorized the FAA to work with major commercial airports to define <a href="/wiki/Noise_pollution" title="Noise pollution">noise pollution</a> <a href="/wiki/Contour_line" title="Contour line">contours</a> and investigate the feasibility of <a href="/wiki/Noise_control" title="Noise control">noise mitigation</a> by residential retrofit programs. Throughout the 1980s, these charters were implemented.</p>
+<p>In the 1990s, satellite technology received increased emphasis in the FAA's development programs as a means to improvements in communications, navigation, and airspace management. In 1995, the agency assumed responsibility for safety oversight of commercial space transportation, a function begun eleven years before by an office within DOT headquarters. The agency was responsible for the decision to ground flights after the <a href="/wiki/September_11_attacks" title="September 11 attacks">September 11 attacks</a>.</p>
+<p>In 2007, two FAA <a href="/wiki/Whistleblower" title="Whistleblower">whistleblowers</a>, inspectors Charalambe "Bobby" Boutris and Douglas E. Peters, alleged that Boutris said he attempted to ground Southwest after finding cracks in the <a href="/wiki/Fuselage" title="Fuselage">fuselage</a> of an <a href="/wiki/Aircraft" title="Aircraft">aircraft</a>, but was prevented by supervisors he said were friendly with the airline.<sup class="reference" id="cite_ref-latimes-faa_10-0"><a href="#cite_note-latimes-faa-10">[10]</a></sup> This was validated by a report by the <a href="/wiki/United_States_Department_of_Transportation" title="United States Department of Transportation">Department of Transportation</a> which found FAA managers had allowed <a href="/wiki/Southwest_Airlines" title="Southwest Airlines">Southwest Airlines</a> to fly 46 airplanes in 2006 and 2007 that were overdue for safety inspections, ignoring concerns raised by inspectors. Audits of other airlines resulted in two airlines grounding hundreds of planes, causing thousands of flight cancellations.<sup class="reference" id="cite_ref-ainonline_11-0"><a href="#cite_note-ainonline-11">[11]</a></sup> The <a href="/wiki/United_States_House_Committee_on_Transportation_and_Infrastructure" title="United States House Committee on Transportation and Infrastructure">House Transportation and Infrastructure Committee</a> held hearings in April 2008. <a href="/wiki/Jim_Oberstar" title="Jim Oberstar">Jim Oberstar</a>, former chairman of the committee said its investigation uncovered a pattern of regulatory abuse and widespread regulatory lapses, allowing 117 aircraft to be operated commercially although not in compliance with FAA safety rules.<sup class="reference" id="cite_ref-latimes-faa_10-1"><a href="#cite_note-latimes-faa-10">[10]</a></sup> Oberstar said there was a "culture of coziness" between senior FAA officials and the airlines and "a systematic breakdown" in the FAA's culture that resulted in "malfeasance, bordering on corruption."<sup class="reference" id="cite_ref-latimes-faa_10-2"><a href="#cite_note-latimes-faa-10">[10]</a></sup> In 2008 the FAA proposed to fine Southwest $10.2 million for failing to inspect older planes for cracks,<sup class="reference" id="cite_ref-ap-mailtrib.2Fmsnbc_12-0"><a href="#cite_note-ap-mailtrib.2Fmsnbc-12">[12]</a></sup> and in 2009 Southwest and the FAA agreed that Southwest would pay a $7.5 million penalty and would adopt new safety procedures, with the fine doubling if Southwest failed to follow through.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="21st_century">21st century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=5" title="Edit section: 21st century">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In December 2000, an organization within the FAA called the <a href="/wiki/Air_Traffic_Organization" title="Air Traffic Organization">Air Traffic Organization</a>,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> (ATO) was set up by presidential executive order. This became the <a href="/wiki/Air_navigation_service_provider" title="Air navigation service provider">air navigation service provider</a> for the airspace of the United States and for the New York (Atlantic) and Oakland (Pacific) oceanic areas. It is a full member of the <a class="mw-redirect" href="/wiki/Civil_Air_Navigation_Services_Organisation" title="Civil Air Navigation Services Organisation">Civil Air Navigation Services Organisation</a>.</p>
+<p>The FAA issues a number of awards to holders of its licenses. Among these are demonstrated proficiencies as an aviation mechanic, a flight instructor, a 50-year aviator, or as a safe pilot. The latter, the FAA "<a href="/wiki/Pilot_Proficiency_Award_Program" title="Pilot Proficiency Award Program">Wings Program</a>", provides a series of three badges for pilots who have undergone several hours of training since their last award. For more information see "FAA Advisory Circular 61-91H".</p>
+<p>On March 18, 2008, the FAA ordered its inspectors to reconfirm that airlines are complying with federal rules after revelations that <a href="/wiki/Southwest_Airlines" title="Southwest Airlines">Southwest Airlines</a> flew dozens of aircraft without certain mandatory inspections.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> The FAA exercises surprise <a href="/wiki/Red_team#Important_cases" title="Red team">Red Team</a> drills on national airports annually.</p>
+<p>On October 31, 2013, after outcry from media outlets, including heavy criticism <sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> from <a href="/wiki/Nick_Bilton" title="Nick Bilton">Nick Bilton</a> of The New York Times,<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> the FAA announced it will allow airlines to expand the passengers use of portable electronic devices during all phases of flight, but <a href="/wiki/Mobile_phone" title="Mobile phone">mobile phone</a> calls will still be prohibited. Implementation will vary among airlines. The FAA expects many carriers to show that their planes allow passengers to safely use their devices in <a href="/wiki/Airplane_mode" title="Airplane mode">airplane mode</a>, gate-to-gate, by the end of 2013. Devices must be held or put in the seat-back pocket during the actual takeoff and landing. Mobile phones must be in airplane mode or with mobile service disabled, with no signal bars displayed, and cannot be used for voice communications due to <a href="/wiki/Federal_Communications_Commission" title="Federal Communications Commission">Federal Communications Commission</a> regulations that prohibit any airborne calls using mobile phones. If an air carrier provides <a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a> service during flight, passengers may use it. Short-range <a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a> accessories, like <a href="/wiki/Wireless_keyboard" title="Wireless keyboard">wireless keyboards</a>, can also be used.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></p>
+<p>In July 2014, in the wake of the downing of <a href="/wiki/Malaysia_Airlines_Flight_17" title="Malaysia Airlines Flight 17">Malaysia Airlines Flight 17</a>, the FAA suspended flights by U.S. airlines to <a href="/wiki/Ben_Gurion_Airport" title="Ben Gurion Airport">Ben Gurion Airport</a> during the <a href="/wiki/2014_Israel%E2%80%93Gaza_conflict" title="2014 Israel–Gaza conflict">2014 Israel–Gaza conflict</a> for 24 hours. The ban was extended for a further 24 hours, but was lifted about six hours later.<sup class="reference" id="cite_ref-IraqBA_19-0"><a href="#cite_note-IraqBA-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="FAA_reauthorization_and_air_traffic_control_reform">FAA reauthorization and air traffic control reform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=6" title="Edit section: FAA reauthorization and air traffic control reform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>U.S. law requires that the FAA’s budget and mandate be reauthorized on a regular basis. On July 18, 2016, President Obama signed a second short-term extension of the FAA authorization, replacing a previous extension that was due to expire that day.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<p>The 2016 extension (set to expire itself in September 2017) left out a provision pushed by Republican House leadership, including <a href="/wiki/United_States_House_Committee_on_Transportation_and_Infrastructure" title="United States House Committee on Transportation and Infrastructure">House Transportation and Infrastructure (T&amp;I) Committee</a> Chairman <a href="/wiki/Bill_Shuster" title="Bill Shuster">Bill Shuster</a> (R-PA). The provision would have moved authority over <a href="/wiki/Air_traffic_control" title="Air traffic control">air traffic control</a> from the FAA to a non-profit corporation, as many other nations, such as Canada, Germany and the United Kingdom have done.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Shuster's bill, the <a href="/wiki/Aviation_Innovation,_Reform,_and_Reauthorization_(AIRR)_Act" title="Aviation Innovation, Reform, and Reauthorization (AIRR) Act">Aviation Innovation, Reform, and Reauthorization (AIRR) Act</a>,<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> expired in the House at the end of the 114th Congress.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></p>
+<p>The House T&amp;I Committee began the new reauthorization process for the FAA in February 2017. It is expected that the committee will again urge Congress to consider and adopt air traffic control reform as part of the reauthorization package. Shuster has additional support from President Trump, who, in a meeting with aviation industry executives in early 2017 said the U.S. air control system is “….totally out of whack.”<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=7" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Conflicting_roles">Conflicting roles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=8" title="Edit section: Conflicting roles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The FAA has been cited as an example of <a href="/wiki/Regulatory_capture" title="Regulatory capture">regulatory capture</a>, "in which the airline industry openly dictates to its regulators its governing rules, arranging for not only beneficial regulation, but placing key people to head these regulators."<sup class="reference" id="cite_ref-davidoff-regcap_25-0"><a href="#cite_note-davidoff-regcap-25">[25]</a></sup> Retired NASA Office of Inspector General Senior Special Agent <a href="/wiki/Joseph_Gutheinz" title="Joseph Gutheinz">Joseph Gutheinz</a>, who used to be a Special Agent with the <a href="/wiki/Office_of_Inspector_General_for_the_Department_of_Transportation" title="Office of Inspector General for the Department of Transportation">Office of Inspector General for the Department of Transportation</a> and with FAA Security, is one of the most outspoken critics of FAA. Rather than commend the agency for proposing a $10.2 million fine against Southwest Airlines for its failure to conduct mandatory inspections in 2008, he was quoted as saying the following in an <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a> story: "Penalties against airlines that violate FAA directives should be stiffer. At $25,000 per violation, Gutheinz said, airlines can justify rolling the dice and taking the chance on getting caught. He also said the FAA is often too quick to bend to pressure from airlines and pilots."<sup class="reference" id="cite_ref-ap-mailtrib.2Fmsnbc_12-1"><a href="#cite_note-ap-mailtrib.2Fmsnbc-12">[12]</a></sup> Other experts have been critical of the constraints and expectations under which the FAA is expected to operate. The dual role of encouraging aerospace travel and regulating aerospace travel are contradictory. For example, to levy a heavy penalty upon an airline for violating an FAA regulation which would impact their ability to continue operating would not be considered encouraging aerospace travel.</p>
+<p>On July 22, 2008, in the aftermath of the Southwest Airlines inspection scandal, a bill was unanimously approved in the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">House</a> to tighten regulations concerning airplane maintenance procedures, including the establishment of a whistleblower office and a two-year "cooling off" period that FAA inspectors or supervisors of inspectors must wait before they can work for those they regulated.<sup class="reference" id="cite_ref-ainonline_11-1"><a href="#cite_note-ainonline-11">[11]</a></sup><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> The bill also required rotation of principal maintenance inspectors and stipulated that the word "customer" properly applies to the flying public, not those entities regulated by the FAA.<sup class="reference" id="cite_ref-ainonline_11-2"><a href="#cite_note-ainonline-11">[11]</a></sup> The bill died in a Senate committee that year.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></p>
+<p>In September 2009, the FAA administrator issued a directive mandating that the agency use the term "customers" only to refer to the flying public.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<h3><span class="mw-headline" id="Changes_to_air_traffic_controller_application_process">Changes to air traffic controller application process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=9" title="Edit section: Changes to air traffic controller application process">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2014, the FAA modified their approach to air traffic control hiring. They launched more "off the street bids", allowing anyone with either a 4-year degree or 5 years of full-time work experience to apply, rather than the closed college program or VRA bids, something that had last been done in 2008. Thousands have been picked up, including veterans, CTI grads, and people who are true "off the street" hires. The move was made to open the job up to more people who might make good controllers but did not go to a college that offered a CTI program. Before the change, candidates who had completed coursework at participating colleges and universities could be "fast-tracked" for consideration. However, the CTI program had no guarantee of a job offer, nor was the goal of the program to teach people to work actual traffic. The goal of the program was to prepare people for the FAA academy in Oklahoma City, OK. Having a CTI certificate allowed a prospective controller to skip the Air Traffic Basics part of the academy, about a 30- to 45-day course, and go right into Initial Qualification Training (IQT). All prospective controllers, CTI or not, have had to pass the FAA Academy in order to be hired as a controller. Failure at the academy means FAA employment is terminated. In January 2015 they launched another pipeline, a "prior experience" bid, where anyone with an FAA Control Tower Operator certificate (CTO) and 52 weeks of experience could apply. This was a revolving bid, every month the applicants on this bid were sorted out, and eligible applicants were hired and sent directly to facilities, bypassing the FAA academy entirely.</p>
+<p>In the process of promoting diversity the FAA revised their hiring process.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> The FAA later issued a report that the "bio-data" was not a reliable test for future performance. However, the "Bio-Q" was not the determinating factor for hiring, it was merely a screening tool to determine who would take a revised Air Traffic Standardized Aptitude Test (ATSAT). Due to cost and time, it was not practical to give all 30,000 some applicants the revised ATSAT, which has since been validated. There were also charges that the FAA discriminated against qualified candidates and was helping minority candidates "cheat" to ensure they passed the test.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></p>
+<p>In December 2015, a reverse discrimination lawsuit was filed against the FAA seeking class action status for the thousands of men and women who spent up to $40,000 getting trained under FAA rules before they were abruptly changed. The prospects of the lawsuit are unknown, as the FAA is self-governing entity and therefore can alter and experiment with its hiring practices, and there was never any guarantee of a job in the CTI program.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup></p>
+<h2><span class="mw-headline" id="List_of_FAA_Administrators">List of FAA Administrators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=10" title="Edit section: List of FAA Administrators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Elwood_Richard_Quesada" title="Elwood Richard Quesada">Elwood Richard Quesada</a> (Nov 1, 1958 – Jan 20, 1961)</li>
+<li><a href="/wiki/Najeeb_Halaby" title="Najeeb Halaby">Najeeb Halaby</a> (Mar 3, 1961 – Jul 1, 1965)</li>
+<li><a href="/wiki/William_F._McKee" title="William F. McKee">William F. McKee</a> (Jul 1, 1965 – Jul 31, 1968)<sup class="reference" id="cite_ref-ReferenceA_33-0"><a href="#cite_note-ReferenceA-33">[33]</a></sup></li>
+<li><a href="/wiki/John_H._Shaffer" title="John H. Shaffer">John H. Shaffer</a> (Mar 24, 1969 – Mar 14, 1973)<sup class="reference" id="cite_ref-ReferenceA_33-1"><a href="#cite_note-ReferenceA-33">[33]</a></sup></li>
+<li><a href="/wiki/Alexander_Butterfield" title="Alexander Butterfield">Alexander Butterfield</a> (Mar 14, 1973 – Mar 31, 1975)</li>
+<li><a href="/wiki/John_L._McLucas" title="John L. McLucas">John L. McLucas</a> (Nov 24, 1975 – Apr 1, 1977)</li>
+<li><a href="/wiki/Langhorne_Bond" title="Langhorne Bond">Langhorne Bond</a> (May 4, 1977 – Jan 20, 1981)</li>
+<li><a href="/wiki/J._Lynn_Helms" title="J. Lynn Helms">J. Lynn Helms</a> (Apr 22, 1981 – Jan 31, 1984)</li>
+<li><a href="/wiki/Donald_D._Engen" title="Donald D. Engen">Donald D. Engen</a> (Apr 10, 1984 – Jul 2, 1987)</li>
+<li><a href="/wiki/T._Allan_McArtor" title="T. Allan McArtor">T. Allan McArtor</a> (Jul 22, 1987 – Feb 17, 1989)</li>
+<li><a href="/wiki/James_B._Busey_IV" title="James B. Busey IV">James B. Busey IV</a> (Jun 30, 1989 – Dec 4, 1991)</li>
+<li><a href="/wiki/Thomas_C._Richards" title="Thomas C. Richards">Thomas C. Richards</a> (Jun 27, 1992 – Jan 20, 1993)</li>
+<li><a href="/wiki/David_R._Hinson" title="David R. Hinson">David R. Hinson</a> (Aug 10, 1993 – Nov 9, 1996)</li>
+<li><a href="/wiki/Jane_Garvey_(aviation_administrator)" title="Jane Garvey (aviation administrator)">Jane Garvey</a> (Aug 4, 1997 – Aug 2, 2002)</li>
+<li><a href="/wiki/Marion_Blakey" title="Marion Blakey">Marion Blakey</a> (Sept 12, 2002 – Sept 13, 2007)</li>
+<li><a href="/wiki/Robert_A._Sturgell" title="Robert A. Sturgell">Robert A. Sturgell</a> (Sept 14, 2007 – Jan 15, 2009)</li>
+<li><a class="new" href="/w/index.php?title=Lynne_Osmus&amp;action=edit&amp;redlink=1" title="Lynne Osmus (page does not exist)">Lynne Osmus</a> (Jan 16, 2009 – May 31, 2009)</li>
+<li><a href="/wiki/Randy_Babbitt" title="Randy Babbitt">Randy Babbitt</a> (Jun 1, 2009 – Dec 6, 2011)</li>
+<li><a href="/wiki/Michael_Huerta" title="Michael Huerta">Michael Huerta</a> (Dec 7, 2011 – present)</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="FAA_process">FAA process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=11" title="Edit section: FAA process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Designated_Engineering_Representative">Designated Engineering Representative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=12" title="Edit section: Designated Engineering Representative">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A Designated Engineering Representative (DER) is an engineer who is appointed to act on behalf of a company or as an independent consultant (IC).<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup></p>
+<ul>
+<li>Company DERs act on behalf of their employer and may only approve, or recommend the FAA approves, technical data produced by this company.</li>
+<li>Consultant DERs are appointed to act as independent DERs to approve, or recommend the FAA approves, technical data produced by any person or organization.</li>
+</ul>
+<h3><span id="Designated_Airworthiness_Representative_(DAR)"></span><span class="mw-headline" id="Designated_Airworthiness_Representative_.28DAR.29">Designated Airworthiness Representative (DAR)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=13" title="Edit section: Designated Airworthiness Representative (DAR)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A DAR is an individual appointed in accordance with 14 CFR 183.33 who may perform examination, inspection, and testing services necessary to the issuance of certificates. There are two types of DARs: manufacturing, and maintenance.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup></p>
+<ul>
+<li>Manufacturing DARs must possess aeronautical knowledge, experience, and meet the qualification requirements of Order 8100.8.</li>
+<li>Maintenance DARs must hold:
+<ol>
+<li>a mechanic's certificate with an airframe and powerplant rating under 14 CFR part 65, Certification: Airmen Other Than Flight Crewmembers, or</li>
+<li>a repairman certificate and be employed at a repair station certificated under 14 CFR part 145, or an air carrier operating certificate holder with an FAA-approved continuous airworthiness program, and must meet the qualification requirements of Order 8100.8, Chapter 14.</li>
+</ol>
+</li>
+</ul>
+<p>Specialized Experience – Amateur-Built and Light-Sport Aircraft DARs Both Manufacturing DARs and Maintenance DARs may be authorized to perform airworthiness certification of light-sport aircraft. DAR qualification criteria and selection procedures for amateur-built and light-sport aircraft airworthiness functions are provided in Order 8100.8.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="600" data-file-width="600" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/28px-Great_Seal_of_the_United_States_%28obverse%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/42px-Great_Seal_of_the_United_States_%28obverse%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/56px-Great_Seal_of_the_United_States_%28obverse%29.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Government_of_the_United_States" title="Portal:Government of the United States">Government of the United States portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="1600" data-file-width="1600" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/28px-Aviacionavion.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/42px-Aviacionavion.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/56px-Aviacionavion.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Aviation" title="Portal:Aviation">Aviation portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Acquisition_Management_System" title="Acquisition Management System">Acquisition Management System</a></li>
+<li><a href="/wiki/Federal_Aviation_Regulations" title="Federal Aviation Regulations">Federal Aviation Regulations</a></li>
+<li><a href="/wiki/National_aviation_authority" title="National aviation authority">National aviation authority</a> (generic term)</li>
+<li><a href="/wiki/Office_of_Dispute_Resolution_for_Acquisition" title="Office of Dispute Resolution for Acquisition">Office of Dispute Resolution for Acquisition</a></li>
+<li><a href="/wiki/SAFO" title="SAFO">SAFO</a>, Safety Alert for Operators</li>
+<li><a href="/wiki/United_States_government_role_in_civil_aviation" title="United States government role in civil aviation">United States government role in civil aviation</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.nytimes.com/2007/08/22/washington/22brfs-FAACHIEFTOLE_BRF.html?ex=1189915200&amp;en=6573fa34d3f186ea&amp;ei=5070" rel="nofollow">F.A.A. Chief to Lead Industry Group—New York Times</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.washingtonpost.com/wp-dyn/content/article/2007/08/21/AR2007082101889.html" rel="nofollow">FAA Chief To Become Aerospace Lobbyist—washingtonpost.com</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.faa.gov/about/office_org/" rel="nofollow">Offices</a>. Faa.gov (2013-05-24). Retrieved on 2013-07-12.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.faa.gov/about/office_org/headquarters_offices/arp/" rel="nofollow">Airports</a>. Faa.gov (2012-01-05). Retrieved on 2013-07-12.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.faa.gov/about/office_org/headquarters_offices/ato/" rel="nofollow">Air Traffic Organization</a>. Faa.gov (2013-02-05). Retrieved on 2013-07-12.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.faa.gov/about/office_org/headquarters_offices/avs/" rel="nofollow">Aviation Safety (AVS)</a>. Faa.gov (2013-04-29). Retrieved on 2013-07-12.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.faa.gov/about/office_org/headquarters_offices/ast/" rel="nofollow">Office of Commercial Space Transportation</a>. Faa.gov (2013-06-25). Retrieved on 2013-07-12.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.faa.gov/about/office_org/headquarters_offices/arc/ro_center/index.cfm?file_name=contact_us_headquarters" rel="nofollow">"Regional Offices &amp; Aeronautical Center"</a>. FAA.gov. 2011-04-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.btitle=Regional+Offices+%26+Aeronautical+Center&amp;rft.date=2011-04-06&amp;rft.genre=unknown&amp;rft.pub=FAA.gov&amp;rft_id=http%3A%2F%2Fwww.faa.gov%2Fabout%2Foffice_org%2Fheadquarters_offices%2Farc%2Fro_center%2Findex.cfm%3Ffile_name%3Dcontact_us_headquarters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.faa.gov/about/history/brief%5Fhistory/" rel="nofollow">FAA History</a> from official website.</span></li>
+<li id="cite_note-latimes-faa-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-latimes-faa_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-latimes-faa_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-latimes-faa_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Johanna Neuman, <a class="external text" href="http://www.latimes.com/travel/la-trw-airlines4apr04,0,4935961.story" rel="nofollow">"FAA's 'culture of coziness' targeted in airline safety hearing"</a> <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> (April 3, 2008). Retrieved April 11, 2011</span></li>
+<li id="cite_note-ainonline-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-ainonline_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ainonline_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ainonline_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Paul Lowe, <a class="external text" href="http://www.ainonline.com/aviation-news/aviation-international-news/2008-08-31/bill-proposes-distance-between-airlines-and-faa-regulators" rel="nofollow">"Bill proposes distance between airlines and FAA regulators"</a> AINonline.com (September 1, 2008). Retrieved April 11, 2011</span></li>
+<li id="cite_note-ap-mailtrib.2Fmsnbc-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-ap-mailtrib.2Fmsnbc_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ap-mailtrib.2Fmsnbc_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">David Koenig, <a class="external text" href="http://www.mailtribune.com/apps/pbcs.dll/article?AID=/20080307/BIZ/803070316/-1/rss05" rel="nofollow">"Southwest Airlines faces $10.2 million fine"</a> <i><a href="/wiki/Mail_Tribune" title="Mail Tribune">Mail Tribune</a></i>, <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a> (March 6, 2008). Retrieved April 11, 2011</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">John Hughes for Bloomberg News. March 2, 2009. <a class="external text" href="https://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=avFzkpTRRnHc&amp;refer=us" rel="nofollow">Southwest Air Agrees to $7.5 Million Fine, FAA Says (Update2)</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a class="external text" href="http://ato.faa.gov" rel="nofollow">Air Traffic Organization</a> Official website.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external text" href="http://edition.cnn.com/2008/US/03/18/air.safety/index.html" rel="nofollow">FAA looking to see if airlines made safety repairs</a>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Dwight Silverman (October 7, 2013). <a class="external text" href="http://blog.chron.com/techblog/2013/10/if-the-faa-changes-its-electronics-rules-you-can-thank-a-reporter/" rel="nofollow">"If the FAA changes its electronics rules, you can thank a reporter"</a>. <i><a href="/wiki/Houston_Chronicle" title="Houston Chronicle">Houston Chronicle</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=If+the+FAA+changes+its+electronics+rules%2C+you+can+thank+a+reporter&amp;rft.au=Dwight+Silverman&amp;rft.date=2013-10-07&amp;rft.genre=article&amp;rft.jtitle=Houston+Chronicle&amp;rft_id=http%3A%2F%2Fblog.chron.com%2Ftechblog%2F2013%2F10%2Fif-the-faa-changes-its-electronics-rules-you-can-thank-a-reporter%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://skift.com/2013/10/31/the-internet-is-thanking-nick-bilton-for-the-faas-new-rules/" rel="nofollow">[1]</a>.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.foxnews.com/tech/2013/10/31/faa-oks-air-passengers-using-gadgets-on-planes/" rel="nofollow">"At last! FAA green lights gadgets on planes"</a>. Fox News<span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.btitle=At+last%21+FAA+green+lights+gadgets+on+planes&amp;rft.genre=unknown&amp;rft.pub=Fox+News&amp;rft_id=http%3A%2F%2Fwww.foxnews.com%2Ftech%2F2013%2F10%2F31%2Ffaa-oks-air-passengers-using-gadgets-on-planes%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-IraqBA-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-IraqBA_19-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.theuknews.com/index.php/sid/224382415/scat/0f440bf3fff89f01/ht/British-Airways-CEO-insists-flights-over-Iraq-are-safe" rel="nofollow">"British Airways CEO insists flights over Iraq are safe"</a>. <i>The UK News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=British+Airways+CEO+insists+flights+over+Iraq+are+safe&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theuknews.com%2Findex.php%2Fsid%2F224382415%2Fscat%2F0f440bf3fff89f01%2Fht%2FBritish-Airways-CEO-insists-flights-over-Iraq-are-safe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.travelweekly.com/Travel-News/Government/FAA-reauthorization-signed-into-law" rel="nofollow">"FAA reauthorization signed into law: Travel Weekly"</a>. <i>www.travelweekly.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=FAA+reauthorization+signed+into+law%3A+Travel+Weekly&amp;rft.genre=unknown&amp;rft.jtitle=www.travelweekly.com&amp;rft_id=http%3A%2F%2Fwww.travelweekly.com%2FTravel-News%2FGovernment%2FFAA-reauthorization-signed-into-law&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Carey, Susan; Pasztor, Andy (2016-07-13). <a class="external text" href="https://www.wsj.com/articles/senate-passes-faa-reauthorization-bill-1468437144" rel="nofollow">"Senate Passes FAA Reauthorization Bill"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0099-9660" rel="nofollow">0099-9660</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=Senate+Passes+FAA+Reauthorization+Bill&amp;rft.au=Pasztor%2C+Andy&amp;rft.aufirst=Susan&amp;rft.aulast=Carey&amp;rft.date=2016-07-13&amp;rft.genre=article&amp;rft.issn=0099-9660&amp;rft.jtitle=Wall+Street+Journal&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fsenate-passes-faa-reauthorization-bill-1468437144&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.congress.gov/bill/114th-congress/house-bill/4441/all-info" rel="nofollow">https://www.congress.gov/bill/114th-congress/house-bill/4441/all-info</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://cei.org/blog/congress-trump-administration-must-prioritize-air-traffic-control-reform" rel="nofollow">"Congress, Trump Administration Must Prioritize Air Traffic Control Reform"</a>. <i>Competitive Enterprise Institute</i>. 2016-12-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=Congress%2C+Trump+Administration+Must+Prioritize+Air+Traffic+Control+Reform&amp;rft.date=2016-12-12&amp;rft.genre=article&amp;rft.jtitle=Competitive+Enterprise+Institute&amp;rft_id=https%3A%2F%2Fcei.org%2Fblog%2Fcongress-trump-administration-must-prioritize-air-traffic-control-reform&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.natlawreview.com/article/congressional-hearings-faa-reauthorization-and-automated-vehicles-fta-withholds" rel="nofollow">"Congressional Hearings on FAA Reauthorization and Automated Vehicles; FTA Withholds Funding from DC, MD, VA for Missing WMATA Safety Oversight Deadline"</a>. <i>The National Law Review</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=Congressional+Hearings+on+FAA+Reauthorization+and+Automated+Vehicles%3B+FTA+Withholds+Funding+from+DC%2C+MD%2C+VA+for+Missing+WMATA+Safety+Oversight+Deadline&amp;rft.genre=article&amp;rft.jtitle=The+National+Law+Review&amp;rft_id=http%3A%2F%2Fwww.natlawreview.com%2Farticle%2Fcongressional-hearings-faa-reauthorization-and-automated-vehicles-fta-withholds&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-davidoff-regcap-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-davidoff-regcap_25-0">^</a></b></span> <span class="reference-text">Steven M. Davidoff, <a class="external text" href="https://dealbook.nytimes.com/2010/06/11/the-governments-elite-and-regulatory-capture/" rel="nofollow">The Government’s Elite and Regulatory Capture</a>, <i>The New York Times</i> (June 11, 2010).</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Library of Congress, Thomas Official Website <a class="external text" href="http://hdl.loc.gov/loc.uscongress/legislation.110hr6493" rel="nofollow">Bill Summary &amp; Status 110th Congress (2007–2008) H.R.6493</a></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Library of Congress, Thomas Official Website <a class="external text" href="http://hdl.loc.gov/loc.uscongress/legislation.110s3440" rel="nofollow">Bill Summary &amp; Status 110th Congress (2007–2008) S.3440</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.usatoday.com/travel/flights/2009-09-17-faa-airline-customers_N.htm" rel="nofollow">"FAA will stop calling airlines 'customers'"</a> Reuters, <i>USA Today</i> (September 18, 2009). Retrieved October 17, 2009</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news">Shapiro, Adam; Browne, Pamela (20 May 2015). <a class="external text" href="http://www.foxbusiness.com/industries/2015/05/20/trouble-in-skies/" rel="nofollow">"Trouble in the Skies"</a>. Fox Business<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=Trouble+in+the+Skies&amp;rft.au=Browne%2C+Pamela&amp;rft.aufirst=Adam&amp;rft.aulast=Shapiro&amp;rft.date=2015-05-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.foxbusiness.com%2Findustries%2F2015%2F05%2F20%2Ftrouble-in-skies%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news">Reily, Jason L. (2 June 2015). <a class="external text" href="https://www.wsj.com/articles/affirmative-action-lands-in-the-air-traffic-control-tower-1433283292" rel="nofollow">"Affirmative Action Lands in the Air Traffic Control Tower"</a>. The Wall Street Journal<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=Affirmative+Action+Lands+in+the+Air+Traffic+Control+Tower&amp;rft.aufirst=Jason+L.&amp;rft.aulast=Reily&amp;rft.date=2015-06-02&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Faffirmative-action-lands-in-the-air-traffic-control-tower-1433283292&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://video.foxbusiness.com/v/4247596762001/unqualified-air-traffic-control-candidates-cheating-to-pass-faa-exams/?intcmp=related#sp=show-clips" rel="nofollow">"Unqualified air traffic control candidates cheating to pass FAA exams?"</a>. Fox Business. 20 May 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=Unqualified+air+traffic+control+candidates+cheating+to+pass+FAA+exams%3F&amp;rft.date=2015-05-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvideo.foxbusiness.com%2Fv%2F4247596762001%2Funqualified-air-traffic-control-candidates-cheating-to-pass-faa-exams%2F%3Fintcmp%3Drelated%23sp%3Dshow-clips&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation news">Shapiro, Adam (30 December 2015). <a class="external text" href="http://www.foxbusiness.com/industries/2015/12/30/reverse-discrimination-suit-filed-against-faa-hiring-fallout-continues/" rel="nofollow">"Reverse Discrimination Suit Filed Against FAA, Hiring Fallout Continues"</a>. Fox Business<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.atitle=Reverse+Discrimination+Suit+Filed+Against+FAA%2C+Hiring+Fallout+Continues&amp;rft.aufirst=Adam&amp;rft.aulast=Shapiro&amp;rft.date=2015-12-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.foxbusiness.com%2Findustries%2F2015%2F12%2F30%2Freverse-discrimination-suit-filed-against-faa-hiring-fallout-continues%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ReferenceA-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><i>Air Progress</i>: 76. August 1989.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.date=1989-08&amp;rft.genre=article&amp;rft.jtitle=Air+Progress&amp;rft.pages=76&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/der/" rel="nofollow">Designated Engineering Representative (DER)</a>.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/dar/" rel="nofollow">"Designated Airworthiness Representative (DAR)"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Aviation+Administration&amp;rft.btitle=Designated+Airworthiness+Representative+%28DAR%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.faa.gov%2Fother_visit%2Faviation_industry%2Fdesignees_delegations%2Fdesignee_types%2Fdar%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Federal_Aviation_Administration" title="commons:Category:Federal Aviation Administration">Federal Aviation Administration</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.faa.gov/" rel="nofollow">Federal Aviation Administration</a> (official site)</li>
+<li><a class="external text" href="https://catalog.archives.gov/id/564" rel="nofollow">Records of the Federal Aviation Administration in the National Archives (Record Group 237)</a></li>
+<li><a class="external text" href="https://www.federalregister.gov/agencies/federal-aviation-administration" rel="nofollow">Federal Aviation Administration</a> in the <a href="/wiki/Federal_Register" title="Federal Register">Federal Register</a></li>
+<li><a class="external text" href="http://www.faa.gov/news/safety_briefing/" rel="nofollow">FAA Safety Briefing</a></li>
+<li><a class="external text" href="http://www.faa.gov/pilots/safety/pilotsafetybrochures/" rel="nofollow">FAA – Pilot Safety Brochures</a></li>
+<li><a class="external text" href="//archive.org/search.php?query=%28%28subject%3A%22Administration%2C%20Federal%20Aviation%22%20OR%20subject%3A%22Administration%2C%20Federal%20A%2E%22%20OR%20subject%3A%22Administration%2C%20F%2E%20A%2E%22%20OR%20subject%3A%22Federal%20Aviation%20Administration%22%20OR%20subject%3A%22Federal%20A%2E%20Administration%22%20OR%20subject%3A%22F%2E%20A%2E%20Administration%22%20OR%20creator%3A%22Federal%20Aviation%20Administration%22%20OR%20creator%3A%22Federal%20A%2E%20Administration%22%20OR%20creator%3A%22F%2E%20A%2E%20Administration%22%20OR%20creator%3A%22F%2E%20Aviation%20Administration%22%20OR%20creator%3A%22Administration%2C%20Federal%20Aviation%22%20OR%20creator%3A%22Administration%2C%20Federal%20A%2E%22%20OR%20creator%3A%22Administration%2C%20F%2E%20A%2E%22%20OR%20creator%3A%22Administration%2C%20F%2E%20Aviation%22%20OR%20title%3A%22Federal%20Aviation%20Administration%22%20OR%20title%3A%22Federal%20A%2E%20Administration%22%20OR%20title%3A%22F%2E%20A%2E%20Administration%22%20OR%20description%3A%22Federal%20Aviation%20Administration%22%20OR%20description%3A%22Federal%20A%2E%20Administration%22%20OR%20description%3A%22F%2E%20A%2E%20Administration%22%20OR%20description%3A%22Administration%2C%20Federal%20Aviation%22%20OR%20description%3A%22Administration%2C%20Federal%20A%2E%22%29%29%20AND%20%28-mediatype:software%29" rel="nofollow">Works by or about Federal Aviation Administration</a> at <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li><a class="external text" href="https://librivox.org/author/9721" rel="nofollow">Works by Federal Aviation Administration</a> at <a href="/wiki/LibriVox" title="LibriVox">LibriVox</a> (public domain audiobooks) <img alt="" data-file-height="500" data-file-width="500" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/15px-Speaker_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/23px-Speaker_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/30px-Speaker_Icon.svg.png 2x" width="15"/></li>
+<li>Official FAA Record of the Acquisition Management System: <a class="external text" href="http://fast.faa.gov" rel="nofollow">FAA Acquisition System Toolset (FAST)</a></li>
+</ul>
+<div aria-labelledby="Agencies_under_the_United_States_Department_of_Transportation" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:United_States_Department_of_Transportation" title="Template:United States Department of Transportation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:United_States_Department_of_Transportation" title="Template talk:United States Department of Transportation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:United_States_Department_of_Transportation&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Agencies_under_the_United_States_Department_of_Transportation" style="font-size:114%;margin:0 4em"><a href="/wiki/United_States_Department_of_Transportation" title="United States Department of Transportation">Agencies under the United States Department of Transportation</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li>Headquarters: <b>1200 New Jersey Avenue SE</b><br/>
+(Transportation Department Building)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Elaine_Chao" title="Elaine Chao">Elaine Chao</a>, <a href="/wiki/United_States_Secretary_of_Transportation" title="United States Secretary of Transportation">Secretary of Transportation</a></li>
+<li><a href="/wiki/Jeffrey_A._Rosen" title="Jeffrey A. Rosen">Jeffrey A. Rosen</a>, <a href="/wiki/United_States_Deputy_Secretary_of_Transportation" title="United States Deputy Secretary of Transportation">Deputy Secretary of Transportation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/United_States_Deputy_Secretary_of_Transportation" title="United States Deputy Secretary of Transportation">Deputy Secretary of Transportation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Federal Aviation Administration</a></li>
+<li><a href="/wiki/Federal_Highway_Administration" title="Federal Highway Administration">Federal Highway Administration</a></li>
+<li><a href="/wiki/Federal_Railroad_Administration" title="Federal Railroad Administration">Federal Railroad Administration</a></li>
+<li><a href="/wiki/Federal_Transit_Administration" title="Federal Transit Administration">Federal Transit Administration</a></li>
+<li><a href="/wiki/Office_of_Inspector_General_for_the_Department_of_Transportation" title="Office of Inspector General for the Department of Transportation">Inspector General</a></li>
+<li><a href="/wiki/United_States_Maritime_Administration" title="United States Maritime Administration">U.S. Maritime Administration</a></li>
+<li><a href="/wiki/Federal_Motor_Carrier_Safety_Administration" title="Federal Motor Carrier Safety Administration">Federal Motor Carrier Safety Administration</a></li>
+<li><a href="/wiki/National_Highway_Traffic_Safety_Administration" title="National Highway Traffic Safety Administration">National Highway Traffic Safety Administration</a></li>
+<li><a href="/wiki/Research_and_Innovative_Technology_Administration" title="Research and Innovative Technology Administration">Research and Innovative Technology Administration</a></li>
+<li><a href="/wiki/Pipeline_and_Hazardous_Materials_Safety_Administration" title="Pipeline and Hazardous Materials Safety Administration">Pipeline and Hazardous Materials Safety Administration</a></li>
+<li><a href="/wiki/Saint_Lawrence_Seaway_Development_Corporation" title="Saint Lawrence Seaway Development Corporation">Saint Lawrence Seaway Development Corporation</a></li>
+<li><a href="/wiki/Surface_Transportation_Board" title="Surface Transportation Board">Surface Transportation Board</a></li>
+<li><a class="new" href="/w/index.php?title=Office_of_Drug_and_Alcohol_Policy_and_Compliance&amp;action=edit&amp;redlink=1" title="Office of Drug and Alcohol Policy and Compliance (page does not exist)">Office of Drug and Alcohol Policy and Compliance</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="" data-file-height="120" data-file-width="120" height="70" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seal_of_the_United_States_Department_of_Transportation.svg/70px-Seal_of_the_United_States_Department_of_Transportation.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seal_of_the_United_States_Department_of_Transportation.svg/105px-Seal_of_the_United_States_Department_of_Transportation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Seal_of_the_United_States_Department_of_Transportation.svg/140px-Seal_of_the_United_States_Department_of_Transportation.svg.png 2x" width="70"/></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="new" href="/w/index.php?title=Under_Secretary_of_Transportation_for_Policy&amp;action=edit&amp;redlink=1" title="Under Secretary of Transportation for Policy (page does not exist)">Under Secretary of Transportation for Policy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Office_of_Aviation_and_International_Affairs&amp;action=edit&amp;redlink=1" title="Office of Aviation and International Affairs (page does not exist)">Office of Aviation and International Affairs</a></li>
+<li><a class="new" href="/w/index.php?title=Office_of_Transportation_Policy&amp;action=edit&amp;redlink=1" title="Office of Transportation Policy (page does not exist)">Office of Transportation Policy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Commercial_air_travel" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Commercial_air_travel" title="Template:Commercial air travel"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Commercial_air_travel" title="Template talk:Commercial air travel"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Commercial_air_travel&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Commercial_air_travel" style="font-size:114%;margin:0 4em"><a href="/wiki/Civil_aviation" title="Civil aviation">Commercial air travel</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Airline" title="Airline">Airlines</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airline_codes" title="Airline codes">Airline codes</a></li>
+<li><a href="/wiki/List_of_airline_holding_companies" title="List of airline holding companies">Airline holding companies</a></li>
+<li><a href="/wiki/List_of_charter_airlines" title="List of charter airlines">Charter airlines</a></li>
+<li><a href="/wiki/List_of_low-cost_airlines" title="List of low-cost airlines">Low-cost airlines</a></li>
+<li><a href="/wiki/List_of_passenger_airlines" title="List of passenger airlines">Passenger airlines</a></li>
+<li><a href="/wiki/List_of_regional_airlines" title="List of regional airlines">Regional airlines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Airline_alliance" title="Airline alliance">Alliances</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oneworld" title="Oneworld">Oneworld</a></li>
+<li><a href="/wiki/SkyTeam" title="SkyTeam">SkyTeam</a></li>
+<li><a href="/wiki/Star_Alliance" title="Star Alliance">Star Alliance</a></li>
+<li><a href="/wiki/Value_Alliance" title="Value Alliance">Value Alliance</a></li>
+<li><a href="/wiki/Vanilla_Alliance" title="Vanilla Alliance">Vanilla Alliance</a></li>
+<li><a href="/wiki/U-FLY_Alliance" title="U-FLY Alliance">U-FLY Alliance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Trade_association" title="Trade association">Trade groups</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>International (<a href="/wiki/The_Airline_Cooperative" title="The Airline Cooperative">ACO</a></li>
+<li><a href="/wiki/Air_Transport_Action_Group" title="Air Transport Action Group">ATAG</a></li>
+<li><a href="/wiki/International_Air_Transport_Association" title="International Air Transport Association">IATA</a></li>
+<li><a href="/wiki/International_Association_of_Travel_Agents_Network" title="International Association of Travel Agents Network">IATAN</a></li>
+<li><a href="/wiki/International_Society_of_Transport_Aircraft_Trading" title="International Society of Transport Aircraft Trading">ISTAT</a>)</li>
+<li>United States (<a href="/wiki/Airlines_for_America" title="Airlines for America">A4A</a></li>
+<li><a href="/wiki/Regional_Airline_Association" title="Regional Airline Association">RAA</a>)</li>
+<li>Europe (<a href="/wiki/Association_of_European_Airlines" title="Association of European Airlines">AEA</a></li>
+<li><a href="/wiki/European_Business_Aviation_Association" title="European Business Aviation Association">EBAA</a></li>
+<li><a href="/wiki/European_Low_Fares_Airline_Association" title="European Low Fares Airline Association">ELFAA</a></li>
+<li><a class="mw-redirect" href="/wiki/European_Regional_Airlines_Association" title="European Regional Airlines Association">ERA</a>)</li>
+<li>Other regions (<a href="/wiki/Arab_Air_Carriers_Organization" title="Arab Air Carriers Organization">AACO</a></li>
+<li><a href="/wiki/Association_of_Asia_Pacific_Airlines" title="Association of Asia Pacific Airlines">AAPA</a></li>
+<li><a href="/wiki/African_Airlines_Association" title="African Airlines Association">AFRAA</a></li>
+<li><a href="/wiki/Regional_Aviation_Association_of_Australia" title="Regional Aviation Association of Australia">RAAA</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aircrew" title="Aircrew">Aircrew</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pilot_in_command" title="Pilot in command">Captain</a></li>
+<li><a href="/wiki/First_officer_(aeronautics)" title="First officer (aeronautics)">First Officer</a></li>
+<li><a href="/wiki/Second_officer_(aeronautics)" title="Second officer (aeronautics)">Second Officer</a></li>
+<li><a href="/wiki/Third_officer_(aeronautics)" title="Third officer (aeronautics)">Third Officer</a></li>
+<li><a href="/wiki/Flight_attendant" title="Flight attendant">Flight attendant</a></li>
+<li><a href="/wiki/Flight_engineer" title="Flight engineer">Flight engineer</a></li>
+<li><a href="/wiki/Loadmaster" title="Loadmaster">Loadmaster</a></li>
+<li><a class="mw-redirect" href="/wiki/Pilot_(aeronautics)" title="Pilot (aeronautics)">Pilot</a></li>
+<li><a href="/wiki/Purser#Aircraft" title="Purser">Purser</a></li>
+<li><a href="/wiki/Dead_mileage" title="Dead mileage">Deadheading</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Airliner" title="Airliner">Airliner</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Travel_class" title="Travel class">Travel class</a>
+<ul>
+<li><a href="/wiki/First_class_(aviation)" title="First class (aviation)">First class (aviation)</a></li>
+<li><a href="/wiki/First_class_travel" title="First class travel">First class travel</a></li>
+<li><a href="/wiki/Business_class" title="Business class">Business</a></li>
+<li><a href="/wiki/Premium_economy" title="Premium economy">Premium economy</a></li>
+<li><a href="/wiki/Economy_class" title="Economy class">Economy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Aircraft_cabin" title="Aircraft cabin">Aircraft cabin</a></li>
+<li><a href="/wiki/Aircraft_lavatory" title="Aircraft lavatory">Aircraft lavatory</a></li>
+<li><a href="/wiki/Aircraft_seat_map" title="Aircraft seat map">Aircraft seat map</a></li>
+<li><a href="/wiki/Airline_meal" title="Airline meal">Airline meal</a></li>
+<li><a href="/wiki/Airline_seat" title="Airline seat">Airline seat</a></li>
+<li><a href="/wiki/Buy_on_board" title="Buy on board">Buy on board</a></li>
+<li><a href="/wiki/Crew_rest_compartment" title="Crew rest compartment">Crew rest compartment</a></li>
+<li><a href="/wiki/In-flight_entertainment" title="In-flight entertainment">In-flight entertainment</a></li>
+<li><a href="/wiki/Inflight_smoking" title="Inflight smoking">Inflight smoking</a></li>
+<li><a href="/wiki/Galley_(kitchen)" title="Galley (kitchen)">Galley</a></li>
+<li><a href="/wiki/Sickness_bag" title="Sickness bag">Sickness bag</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Airport" title="Airport">Airport</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aerodrome" title="Aerodrome">Aerodrome</a></li>
+<li><a href="/wiki/Airline_hub" title="Airline hub">Airline hub</a></li>
+<li><a href="/wiki/Airport_check-in" title="Airport check-in">Airport check-in</a></li>
+<li><a href="/wiki/Airport_lounge" title="Airport lounge">Airport lounge</a></li>
+<li><a href="/wiki/Airport_rail_link" title="Airport rail link">Airport rail link</a></li>
+<li><a href="/wiki/Airport_terminal" title="Airport terminal">Airport terminal</a></li>
+<li><a href="/wiki/Airstair" title="Airstair">Airstair</a></li>
+<li><a href="/wiki/Boarding_(transport)" title="Boarding (transport)">Boarding</a></li>
+<li><a href="/wiki/Domestic_airport" title="Domestic airport">Domestic airport</a></li>
+<li><a href="/wiki/Gate_(airport)" title="Gate (airport)">Gate</a></li>
+<li><a href="/wiki/International_airport" title="International airport">International airport</a></li>
+<li><a href="/wiki/Jet_bridge" title="Jet bridge">Jet bridge</a></li>
+<li><a href="/wiki/Low_cost_carrier_terminal" title="Low cost carrier terminal">Low cost carrier terminal</a></li>
+<li><a href="/wiki/Runway" title="Runway">Runway</a></li>
+<li><a href="/wiki/Transit_hotel" title="Transit hotel">Transit hotel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Customs" title="Customs">Customs</a> / <a href="/wiki/Immigration" title="Immigration">Immigration</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arrival_card" title="Arrival card">Arrival card</a> (<a href="/wiki/Landing_card" title="Landing card">Landing card</a>)</li>
+<li><a href="/wiki/Border_control" title="Border control">Border control</a></li>
+<li><a href="/wiki/Departure_card" title="Departure card">Departure card</a></li>
+<li><a href="/wiki/Passport" title="Passport">Passport</a></li>
+<li><a href="/wiki/Timatic" title="Timatic">Timatic</a></li>
+<li><a href="/wiki/Travel_document" title="Travel document">Travel document</a></li>
+<li><a href="/wiki/Travel_visa" title="Travel visa">Visa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Environmental impact</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypermobility_(travel)" title="Hypermobility (travel)">Hypermobility</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Impact on environment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aviation_law" title="Aviation law">Law</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_transport_agreement" title="Air transport agreement">Air transport agreement</a>
+<ul>
+<li><a href="/wiki/Bermuda_Agreement" title="Bermuda Agreement">Bermuda Agreement</a> (UK-US, 1946-78)</li>
+<li><a href="/wiki/Bermuda_II_Agreement" title="Bermuda II Agreement">Bermuda II Agreement</a> (UK-US, 1978-2008)</li>
+<li><a href="/wiki/Air_route_authority_between_the_United_States_and_China" title="Air route authority between the United States and China">China-US</a></li>
+<li><a href="/wiki/Cross-Strait_charter" title="Cross-Strait charter">Cross-Strait charter</a> (China-Taiwan)</li>
+</ul>
+</li>
+<li><a href="/wiki/Beijing_Convention" title="Beijing Convention">Beijing Convention</a></li>
+<li><a href="/wiki/Cape_Town_Treaty" title="Cape Town Treaty">Cape Town Treaty</a></li>
+<li><a href="/wiki/Chicago_Convention_on_International_Civil_Aviation" title="Chicago Convention on International Civil Aviation">Chicago Convention</a></li>
+<li><a href="/wiki/Convention_on_the_Marking_of_Plastic_Explosives" title="Convention on the Marking of Plastic Explosives">Convention on the Marking of Plastic Explosives</a></li>
+<li><a href="/wiki/European_Common_Aviation_Area" title="European Common Aviation Area">European Common Aviation Area</a></li>
+<li><a href="/wiki/Flight_permit" title="Flight permit">Flight permit</a></li>
+<li><a href="/wiki/Freedoms_of_the_air" title="Freedoms of the air">Freedoms of the air</a></li>
+<li><a href="/wiki/Hague_Hijacking_Convention" title="Hague Hijacking Convention">Hague Hijacking Convention</a></li>
+<li><a href="/wiki/Hague_Protocol" title="Hague Protocol">Hague Protocol</a></li>
+<li><a href="/wiki/International_Civil_Aviation_Organization" title="International Civil Aviation Organization">ICAO</a></li>
+<li><a href="/wiki/Montreal_Convention" title="Montreal Convention">Montreal Convention</a></li>
+<li><a href="/wiki/Open_skies" title="Open skies">Open skies</a> (<a href="/wiki/EU%E2%80%93US_Open_Skies_Agreement" title="EU–US Open Skies Agreement">EU–US Open Skies Agreement</a>)</li>
+<li><a href="/wiki/Paris_Convention_of_1919" title="Paris Convention of 1919">Paris Convention of 1919</a></li>
+<li><a href="/wiki/Rome_Convention_on_Damage_Caused_by_Foreign_Aircraft_to_Third_Parties_on_the_Surface" title="Rome Convention on Damage Caused by Foreign Aircraft to Third Parties on the Surface">Rome Convention</a></li>
+<li><a href="/wiki/Convention_for_the_Suppression_of_Unlawful_Acts_against_the_Safety_of_Civil_Aviation" title="Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation">Sabotage Convention</a></li>
+<li><a href="/wiki/Tokyo_Convention" title="Tokyo Convention">Tokyo Convention</a></li>
+<li><a href="/wiki/Warsaw_Convention" title="Warsaw Convention">Warsaw Convention</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Baggage" title="Baggage">Luggage</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bag_tag" title="Bag tag">Bag tag</a></li>
+<li><a href="/wiki/Baggage_allowance" title="Baggage allowance">Baggage allowance</a></li>
+<li><a href="/wiki/Baggage_carousel" title="Baggage carousel">Baggage carousel</a></li>
+<li><a href="/wiki/Baggage_cart" title="Baggage cart">Baggage cart</a></li>
+<li><a href="/wiki/Baggage_reclaim" title="Baggage reclaim">Baggage reclaim</a></li>
+<li><a href="/wiki/Baggage_handler" title="Baggage handler">Baggage handler</a></li>
+<li><a href="/wiki/Baggage_handling_system" title="Baggage handling system">Baggage handling system</a></li>
+<li><a href="/wiki/Checked_baggage" title="Checked baggage">Checked baggage</a></li>
+<li><a href="/wiki/Hand_luggage" title="Hand luggage">Hand luggage</a></li>
+<li><a href="/wiki/Lost_luggage" title="Lost luggage">Lost luggage</a></li>
+<li><a href="/wiki/Luggage_lock" title="Luggage lock">Luggage lock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aviation_safety" title="Aviation safety">Safety</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_Navigation_and_Transport_Act" title="Air Navigation and Transport Act">Air Navigation and Transport Act</a></li>
+<li><a href="/wiki/Air_rage" title="Air rage">Air rage</a></li>
+<li><a href="/wiki/Air_traffic_control" title="Air traffic control">Air traffic control (ATC)</a></li>
+<li><a href="/wiki/Aircraft_safety_card" title="Aircraft safety card">Aircraft safety card</a></li>
+<li><a href="/wiki/Airport_authority" title="Airport authority">Airport authority</a></li>
+<li><a href="/wiki/Airport_crash_tender" title="Airport crash tender">Airport crash tender</a></li>
+<li><a href="/wiki/Airport_police" title="Airport police">Airport police</a></li>
+<li><a href="/wiki/Airport_security" title="Airport security">Airport security</a></li>
+<li><a href="/wiki/Brace_position" title="Brace position">Brace position</a></li>
+<li><a href="/wiki/Evacuation_slide" title="Evacuation slide">Evacuation slide</a></li>
+<li><a href="/wiki/Flight_recorder" title="Flight recorder">Flight recorder</a></li>
+<li><a href="/wiki/National_aviation_authority" title="National aviation authority">National aviation authority</a></li>
+<li><a href="/wiki/Overwing_exits" title="Overwing exits">Overwing exits</a></li>
+<li><a href="/wiki/Pre-flight_safety_demonstration" title="Pre-flight safety demonstration">Pre-flight safety demonstration</a></li>
+<li><a href="/wiki/Sky_marshal" title="Sky marshal">Sky marshal</a></li>
+<li><a href="/wiki/Unruly_aircraft_passenger" title="Unruly aircraft passenger">Unruly aircraft passenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Airline_ticket" title="Airline ticket">Ticketing</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airline_booking_ploys" title="Airline booking ploys">Airline booking ploys</a></li>
+<li><a href="/wiki/Airline_reservations_system" title="Airline reservations system">Airline reservations system</a></li>
+<li><a href="/wiki/Airline_ticket" title="Airline ticket">Airline ticket</a></li>
+<li><a href="/wiki/Airline_timetable" title="Airline timetable">Airline timetable</a></li>
+<li><a href="/wiki/Bereavement_flight" title="Bereavement flight">Bereavement flight</a></li>
+<li><a href="/wiki/Boarding_pass" title="Boarding pass">Boarding pass</a></li>
+<li><a href="/wiki/Codeshare_agreement" title="Codeshare agreement">Codeshare agreement</a></li>
+<li><a href="/wiki/Continent_pass" title="Continent pass">Continent pass</a></li>
+<li><a href="/wiki/Electronic_ticket" title="Electronic ticket">Electronic ticket</a></li>
+<li><a href="/wiki/Fare_basis_code" title="Fare basis code">Fare basis code</a></li>
+<li><a href="/wiki/Flight_cancellation_and_delay" title="Flight cancellation and delay">Flight cancellation and delay</a></li>
+<li><a href="/wiki/Frequent-flyer_program" title="Frequent-flyer program">Frequent-flyer program</a></li>
+<li><a href="/wiki/Government_contract_flight" title="Government contract flight">Government contract flight</a></li>
+<li><a href="/wiki/One-way_travel" title="One-way travel">One-way travel</a></li>
+<li><a href="/wiki/Open-jaw_ticket" title="Open-jaw ticket">Open-jaw ticket</a></li>
+<li><a href="/wiki/Passenger_name_record" title="Passenger name record">Passenger name record</a></li>
+<li><a href="/wiki/Red-eye_flight" title="Red-eye flight">Red-eye flight</a></li>
+<li><a href="/wiki/Round-the-world_ticket" title="Round-the-world ticket">Round-the-world ticket</a></li>
+<li><a href="/wiki/Standby_(air_travel)" title="Standby (air travel)">Standby</a></li>
+<li><a href="/wiki/Tracking_(commercial_airline_flight)" title="Tracking (commercial airline flight)">Tracking</a></li>
+<li><a href="/wiki/Travel_agency" title="Travel agency">Travel agency</a></li>
+<li><a href="/wiki/Travel_website" title="Travel website">Travel website</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Groundcrew" title="Groundcrew">Groundcrew</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aircraft_maintenance_technician" title="Aircraft maintenance technician">Aircraft maintenance technician</a></li>
+<li><a href="/wiki/Aircraft_ground_handling" title="Aircraft ground handling">Aircraft ground handler</a></li>
+<li><a href="/wiki/Baggage_handler" title="Baggage handler">Baggage handler</a></li>
+<li><a href="/wiki/Flight_dispatcher" title="Flight dispatcher">Flight dispatcher</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Miscellaneous</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mile_high_club" title="Mile high club">Mile high club</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1201
+Cached time: 20171025171256
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.568 seconds
+Real time usage: 0.700 seconds
+Preprocessor visited node count: 2316/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 82257/2097152 bytes
+Template argument size: 3835/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Lua time usage: 0.208/10.000 seconds
+Lua memory usage: 4.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  540.691      1 -total
+ 33.12%  179.090      1 Template:Reflist
+ 24.59%  132.979      1 Template:Infobox_government_agency
+ 21.11%  114.163      1 Template:Infobox
+ 11.06%   59.784      4 Template:Cite_web
+ 10.07%   54.467      9 Template:Cite_news
+  7.97%   43.099      1 Template:Redirect
+  6.90%   37.295      1 Template:Internet_Archive_author
+  6.76%   36.565      1 Template:Commons_category
+  4.82%   26.079      2 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11186-0!canonical and timestamp 20171025171257 and revision id 807061219
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Federal_Aviation_Administration&amp;oldid=807061219">https://en.wikipedia.org/w/index.php?title=Federal_Aviation_Administration&amp;oldid=807061219</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Civil_aviation_authorities_in_North_America" title="Category:Civil aviation authorities in North America">Civil aviation authorities in North America</a></li><li><a href="/wiki/Category:Federal_Aviation_Administration" title="Category:Federal Aviation Administration">Federal Aviation Administration</a></li><li><a href="/wiki/Category:Aviation_safety" title="Category:Aviation safety">Aviation safety</a></li><li><a href="/wiki/Category:Government_agencies_established_in_1958" title="Category:Government agencies established in 1958">Government agencies established in 1958</a></li><li><a href="/wiki/Category:1958_establishments_in_the_United_States" title="Category:1958 establishments in the United States">1958 establishments in the United States</a></li><li><a href="/wiki/Category:Air_navigation_service_providers" title="Category:Air navigation service providers">Air navigation service providers</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Articles_with_Internet_Archive_links" title="Category:Articles with Internet Archive links">Articles with Internet Archive links</a></li><li><a href="/wiki/Category:Articles_with_LibriVox_links" title="Category:Articles with LibriVox links">Articles with LibriVox links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Federal+Aviation+Administration" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Federal+Aviation+Administration" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Federal_Aviation_Administration" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Federal_Aviation_Administration" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Federal_Aviation_Administration">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Federal_Aviation_Administration&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Federal_Aviation_Administration&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Federal_Aviation_Administration" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Federal_Aviation_Administration" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Federal_Aviation_Administration&amp;oldid=807061219" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Federal_Aviation_Administration&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q335357" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Federal_Aviation_Administration&amp;id=807061219" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Federal+Aviation+Administration">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Federal+Aviation+Administration&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Federal_Aviation_Administration&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Federal_Aviation_Administration" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Category:Federal_Aviation_Administration" hreflang="en">Wikinews</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A%D8%A9" hreflang="ar" lang="ar" title="إدارة الطيران الفيدرالية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="ca" lang="ca" title="Federal Aviation Administration – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="cs" lang="cs" title="Federal Aviation Administration – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="da" lang="da" title="Federal Aviation Administration – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="de" lang="de" title="Federal Aviation Administration – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Ameerika_%C3%9Chendriikide_F%C3%B6deraalne_Lennuamet" hreflang="et" lang="et" title="Ameerika Ühendriikide Föderaalne Lennuamet – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9F%CE%BC%CE%BF%CF%83%CF%80%CE%BF%CE%BD%CE%B4%CE%B9%CE%B1%CE%BA%CE%AE_%CE%94%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7_%CE%91%CE%B5%CF%81%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1%CF%82" hreflang="el" lang="el" title="Ομοσπονδιακή Διοίκηση Αεροπορίας – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Administraci%C3%B3n_Federal_de_Aviaci%C3%B3n" hreflang="es" lang="es" title="Administración Federal de Aviación – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Federacia_Aviada_Administracio" hreflang="eo" lang="eo" title="Federacia Aviada Administracio – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Hegazkintza_Administrazio_Federala" hreflang="eu" lang="eu" title="Hegazkintza Administrazio Federala – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%AF%D8%A7%D8%B1%D9%87_%D9%87%D9%88%D8%A7%D9%86%D9%88%D8%B1%D8%AF%DB%8C_%D9%81%D8%AF%D8%B1%D8%A7%D9%84" hreflang="fa" lang="fa" title="اداره هوانوردی فدرال – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="fr" lang="fr" title="Federal Aviation Administration – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="fy" lang="fy" title="Federal Aviation Administration – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Administraci%C3%B3n_Federal_de_Aviaci%C3%B3n" hreflang="gl" lang="gl" title="Administración Federal de Aviación – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%B0%EB%B0%A9%ED%95%AD%EA%B3%B5%EA%B5%AD" hreflang="ko" lang="ko" title="연방항공국 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Savezna_uprava_za_civilno_zrakoplovstvo" hreflang="hr" lang="hr" title="Savezna uprava za civilno zrakoplovstvo – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="id" lang="id" title="Federal Aviation Administration – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="it" lang="it" title="Federal Aviation Administration – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A8%D7%A9%D7%95%D7%AA_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%94%D7%A4%D7%93%D7%A8%D7%9C%D7%99%D7%AA" hreflang="he" lang="he" title="רשות התעופה הפדרלית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Federalin%C4%97_aviacijos_administracija" hreflang="lt" lang="lt" title="Federalinė aviacijos administracija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AB%E0%A5%87%E0%A4%A1%E0%A4%B0%E0%A4%B2_%E0%A4%8F%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%AF%E0%A5%87%E0%A4%B6%E0%A4%A8_%E0%A4%85%E0%A5%85%E0%A4%A1%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8" hreflang="mr" lang="mr" title="फेडरल एव्हियेशन अॅडमिनिस्ट्रेशन – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Pentadbiran_Penerbangan_Persekutuan" hreflang="ms" lang="ms" title="Pentadbiran Penerbangan Persekutuan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="nl" lang="nl" title="Federal Aviation Administration – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E8%88%AA%E7%A9%BA%E5%B1%80" hreflang="ja" lang="ja" title="連邦航空局 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="no" lang="no" title="Federal Aviation Administration – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="pl" lang="pl" title="Federal Aviation Administration – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Administra%C3%A7%C3%A3o_Federal_de_Avia%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Administração Federal de Aviação – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%A1%D0%A8%D0%90" hreflang="ru" lang="ru" title="Федеральное управление гражданской авиации США – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="simple" lang="simple" title="Federal Aviation Administration – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Federalna_uprava_za_avijaciju" hreflang="sh" lang="sh" title="Federalna uprava za avijaciju – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Yhdysvaltain_ilmailuhallinto" hreflang="fi" lang="fi" title="Yhdysvaltain ilmailuhallinto – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Federal_Aviation_Administration" hreflang="sv" lang="sv" title="Federal Aviation Administration – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4" hreflang="th" lang="th" title="สำนักงานบริหารการบินแห่งชาติ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Federal_Havac%C4%B1l%C4%B1k_Kurulu" hreflang="tr" lang="tr" title="Federal Havacılık Kurulu – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F_%D1%86%D0%B8%D0%B2%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%97_%D0%B0%D0%B2%D1%96%D0%B0%D1%86%D1%96%D1%97_%D0%A1%D0%A8%D0%90" hreflang="uk" lang="uk" title="Федеральне управління цивільної авіації США – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%81%DB%8C%DA%88%D8%B1%D9%84_%D8%A7%DB%8C%D9%88%DB%8C_%D8%A7%DB%8C%D8%B4%D9%86_%D8%A7%DB%8C%DA%88%D9%85%D9%86%D8%B3%D9%B9%D8%B1%DB%8C%D8%B4%D9%86" hreflang="ur" lang="ur" title="فیڈرل ایوی ایشن ایڈمنسٹریشن – Urdu">اردو</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E8%88%AA%E7%A9%BA%E7%AE%A1%E7%90%86%E5%B1%80" hreflang="zh" lang="zh" title="美国联邦航空管理局 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q335357#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 October 2017, at 17:12.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Federal_Aviation_Administration&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.568","walltime":"0.700","ppvisitednodes":{"value":2316,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":82257,"limit":2097152},"templateargumentsize":{"value":3835,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  540.691      1 -total"," 33.12%  179.090      1 Template:Reflist"," 24.59%  132.979      1 Template:Infobox_government_agency"," 21.11%  114.163      1 Template:Infobox"," 11.06%   59.784      4 Template:Cite_web"," 10.07%   54.467      9 Template:Cite_news","  7.97%   43.099      1 Template:Redirect","  6.90%   37.295      1 Template:Internet_Archive_author","  6.76%   36.565      1 Template:Commons_category","  4.82%   26.079      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.208","limit":"10.000"},"limitreport-memusage":{"value":5090451,"limit":52428800}},"cachereport":{"origin":"mw1201","timestamp":"20171025171256","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1212"});});</script>
+</body>
+</html>

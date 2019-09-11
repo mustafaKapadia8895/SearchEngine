@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Disaster - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Disaster","wgTitle":"Disaster","wgCurRevisionId":809139964,"wgRevisionId":809139964,"wgArticleId":8137,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pending changes protected pages (level 1)","Articles lacking in-text citations from December 2014","All articles lacking in-text citations","Wikipedia articles with GND identifiers","Disasters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Disaster","wgRelevantArticleId":8137,"wgRequestId":"WgGU9ApAAD0AAGenp7gAAACL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":809139964,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3839081","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/1200px-Post-and-Grant-Avenue-Look.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Disaster" rel="alternate"/>
+<link href="/w/index.php?title=Disaster&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Disaster&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Disaster" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Disaster rootpage-Disaster vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-pp-autoreview"><a href="/wiki/Wikipedia:Protection_policy#pc1" title="All edits by unregistered and new users are subject to review prior to becoming visible to unregistered users"><img alt="Page protected with pending changes level 1" data-file-height="128" data-file-width="128" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Padlock-silver-light.svg/20px-Padlock-silver-light.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Padlock-silver-light.svg/30px-Padlock-silver-light.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/28/Padlock-silver-light.svg/40px-Padlock-silver-light.svg.png 2x" width="20"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Disaster</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint nomobile" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><img alt="Changes must be reviewed before being displayed on this page." class="flaggedrevs-icon" src="/w/extensions/FlaggedRevs/frontend/modules/img/doc-magnify.png" title="Changes must be reviewed before being displayed on this page."/><img alt="show/hide details" class="fr-toggle-arrow" id="mw-fr-revisiontoggle" src="/w/extensions/FlaggedRevs/frontend/modules/img/arrow-down.png" style="display:none;"/></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">This is the <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">latest accepted revision</a>, <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=Disaster">reviewed</a> on <i>7 November 2017</i>.</div>
+</div>
+</div>
+</div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Disaster_(disambiguation)" title="Disaster (disambiguation)">Disaster (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(December 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Post-and-Grant-Avenue-Look.jpg"><img alt="" class="thumbimage" data-file-height="1764" data-file-width="2369" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/220px-Post-and-Grant-Avenue-Look.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/330px-Post-and-Grant-Avenue-Look.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/440px-Post-and-Grant-Avenue-Look.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Post-and-Grant-Avenue-Look.jpg" title="Enlarge"></a></div>
+Ruins from the <a href="/wiki/1906_San_Francisco_earthquake" title="1906 San Francisco earthquake">1906 San Francisco earthquake</a>, remembered as one of the worst <a href="/wiki/Natural_disaster" title="Natural disaster">natural disasters</a> in the history of the <a href="/wiki/United_States" title="United States">United States</a>.</div>
+</div>
+</div>
+<p>A <b>disaster</b> is a serious disruption, occurring over a relatively short time, of the functioning of a community or a society involving widespread human, material, economic or environmental loss and impacts, which exceeds the ability of the affected community or society to cope using its own resources.<sup class="reference" id="cite_ref-ifrc_1-0"><a href="#cite_note-ifrc-1">[1]</a></sup></p>
+<p>In contemporary academia, disasters are seen as the consequence of inappropriately <a href="/wiki/Risk_management" title="Risk management">managed risk</a>. These risks are the product of a combination of both hazards and vulnerability. Hazards that strike in areas with low vulnerability will never become disasters, as in the case of uninhabited regions.<sup class="reference" id="cite_ref-quarantelli_2-0"><a href="#cite_note-quarantelli-2">[2]</a></sup></p>
+<p>Developing countries suffer the greatest costs when a disaster hits – more than 95 percent of all deaths caused by hazards occur in developing countries, and losses due to natural hazards are 20 times greater (as a percentage of <a class="mw-redirect" href="/wiki/GDP" title="GDP">GDP</a>) in <a class="mw-redirect" href="/wiki/Developing_countries" title="Developing countries">developing countries</a> than in <a class="mw-redirect" href="/wiki/Industrialized_countries" title="Industrialized countries">industrialized countries</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classifications"><span class="tocnumber">2</span> <span class="toctext">Classifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Natural_disaster"><span class="tocnumber">2.1</span> <span class="toctext">Natural disaster</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Human-instigated"><span class="tocnumber">2.2</span> <span class="toctext">Human-instigated</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word <i>disaster</i> is derived from Middle <a href="/wiki/French_language" title="French language">French</a> <i>désastre</i> and that from Old <a href="/wiki/Italian_language" title="Italian language">Italian</a> <i>disastro</i>, which in turn comes from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> <a href="/wiki/Pejorative" title="Pejorative">pejorative</a> prefix δυσ-, (<i>dus-</i>) "bad"<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> and ἀστήρ (<i>aster</i>), "star".<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The root of the word <i>disaster</i> ("bad star" in Greek) comes from an <a href="/wiki/Astrology" title="Astrology">astrological</a> sense of a calamity blamed on the position of planets.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Classifications">Classifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=2" title="Edit section: Classifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Researchers have been studying disasters for more than a century, and for more than forty years <a href="/wiki/Disaster_research" title="Disaster research">disaster research</a>. The studies reflect a common opinion when they argue that all disasters can be seen as being human-made, their reasoning being that human actions before the strike of the hazard can prevent it developing into a disaster. All disasters are hence the result of human failure to introduce appropriate <a class="mw-redirect" href="/wiki/Disaster_management" title="Disaster management">disaster management</a> measures.<sup class="reference" id="cite_ref-atrisk_8-0"><a href="#cite_note-atrisk-8">[8]</a></sup> Hazards are routinely divided into natural or human-made, although complex disasters, where there is no single root cause, are more common in <a href="/wiki/Developing_country" title="Developing country">developing countries</a>. A specific disaster may spawn a secondary disaster that increases the impact. A classic example is an <a href="/wiki/Earthquake" title="Earthquake">earthquake</a> that causes a <a href="/wiki/Tsunami" title="Tsunami">tsunami</a>, resulting in coastal <a class="mw-redirect" href="/wiki/Flooding" title="Flooding">flooding</a>.</p>
+<h3><span class="mw-headline" id="Natural_disaster">Natural disaster</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=3" title="Edit section: Natural disaster">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Natural_disaster" title="Natural disaster">Natural disaster</a></div>
+<p>A natural disaster is a natural process or phenomenon that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage.</p>
+<p>Various phenomena like earthquakes, landslides, volcanic eruptions, floods, hurricanes, tornadoes, blizzards, tsunamis, and cyclones are all natural hazards that kill thousands of people and destroy billions of dollars of habitat and property each year. However, the rapid growth of the world's population and its increased concentration often in hazardous environments has escalated both the frequency and severity of disasters. With the tropical climate and unstable land forms, coupled with deforestation, unplanned growth proliferation, non-engineered constructions which make the disaster-prone areas more vulnerable, tardy communication, and poor or no budgetary allocation for disaster prevention, developing countries suffer more or less chronically from natural disasters. <a href="/wiki/Asia" title="Asia">Asia</a> tops the list of casualties caused by natural hazards.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg"><img alt="" class="thumbimage" data-file-height="925" data-file-width="1063" height="174" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg/200px-UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg/300px-UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg/400px-UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg" title="Enlarge"></a></div>
+<a class="mw-redirect" href="/wiki/Airplane_crash" title="Airplane crash">Airplane crashes</a> and <a class="mw-redirect" href="/wiki/Terrorist_attack" title="Terrorist attack">terrorist attacks</a> are examples of man-made disasters: they cause pollution, kill people, and damage property. This example is of the <a href="/wiki/September_11_attacks" title="September 11 attacks">September 11 attacks</a> in 2001 at the World Trade Center in New York.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Human-instigated">Human-instigated</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=4" title="Edit section: Human-instigated">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Man-made_disasters" title="Man-made disasters">Man-made disasters</a></div>
+<p>Human-instigated disasters are the consequence of technological hazards. Examples include <a href="/wiki/Stampede" title="Stampede">stampedes</a>, fires, transport accidents, industrial accidents, oil spills and nuclear explosions/radiation. War and deliberate attacks may also be put in this category. As with natural hazards, man-made hazards are events that have not happened—for instance, terrorism. Man-made disasters are examples of specific cases where man-made hazards have become reality in an event.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Act_of_God" title="Act of God">Act of God</a></li>
+<li><a href="/wiki/Disaster_convergence" title="Disaster convergence">Disaster convergence</a></li>
+<li><a href="/wiki/Disaster_medicine" title="Disaster medicine">Disaster medicine</a></li>
+<li><a href="/wiki/Disaster_recovery" title="Disaster recovery">Disaster recovery</a></li>
+<li><a href="/wiki/Disaster_recovery_and_business_continuity_auditing" title="Disaster recovery and business continuity auditing">Disaster recovery and business continuity auditing</a></li>
+<li><a href="/wiki/Disaster_recovery_plan" title="Disaster recovery plan">Disaster recovery plan</a></li>
+<li><a href="/wiki/Disaster_research" title="Disaster research">Disaster research</a></li>
+<li><a href="/wiki/Disaster_response" title="Disaster response">Disaster response</a></li>
+<li><a href="/wiki/Emergency_management" title="Emergency management">Emergency management</a></li>
+<li><a href="/wiki/Environmental_emergency" title="Environmental emergency">Environmental emergency</a></li>
+<li><a href="/wiki/Human_extinction" title="Human extinction">Human extinction</a></li>
+<li><a href="/wiki/List_of_accidents_and_disasters_by_death_toll" title="List of accidents and disasters by death toll">List of accidents and disasters by death toll</a></li>
+<li><a href="/wiki/List_of_disasters_by_cost" title="List of disasters by cost">List of disasters by cost</a></li>
+<li><a href="/wiki/List_of_maritime_disasters" title="List of maritime disasters">List of maritime disasters</a></li>
+<li><a href="/wiki/List_of_military_disasters" title="List of military disasters">List of military disasters</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_railway_disasters" title="List of railway disasters">List of railway disasters</a></li>
+<li><a href="/wiki/Lists_of_disasters" title="Lists of disasters">Lists of disasters</a></li>
+<li><a href="/wiki/Opportunism" title="Opportunism">Opportunism</a></li>
+<li><a href="/wiki/Sociology_of_disaster" title="Sociology of disaster">Sociology of disaster</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-ifrc-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-ifrc_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Staff. <a class="external text" href="http://www.ifrc.org/en/what-we-do/disaster-management/about-disasters/what-is-a-disaster/" rel="nofollow">"What is a disaster?"</a>. <i>www.ifrc.org</i>. International Federation of Red Cross and Red Crescent Societies<span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ifrc.org&amp;rft.atitle=What+is+a+disaster%3F&amp;rft.au=Staff&amp;rft_id=http%3A%2F%2Fwww.ifrc.org%2Fen%2Fwhat-we-do%2Fdisaster-management%2Fabout-disasters%2Fwhat-is-a-disaster%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADisaster"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-quarantelli-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-quarantelli_2-0">^</a></b></span> <span class="reference-text">Quarantelli E.L. (editor) "Where We Have Been and Where We Might Go", <i>What is a Disaster?: A Dozen Perspectives on the Question</i>, London, Routledge, 1 edition 1998, pp.146–159</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTURBANDEVELOPMENT/EXTDISMGMT/0,,menuPK:341021~pagePK:149018~piPK:149093~theSitePK:341015,00.html" rel="nofollow">"World Bank: Disaster Risk Management"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Bank%3A+Disaster+Risk+Management&amp;rft_id=http%3A%2F%2Fweb.worldbank.org%2FWBSITE%2FEXTERNAL%2FTOPICS%2FEXTURBANDEVELOPMENT%2FEXTDISMGMT%2F0%2C%2CmenuPK%3A341021~pagePK%3A149018~piPK%3A149093~theSitePK%3A341015%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADisaster"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Luis Flores Ballesteros. <a class="external text" href="http://54pesos.org/2008/10/04/who%e2%80%99s-getting-the-worst-of-natural-disasters/" rel="nofollow">"Who’s getting the worst of natural disasters?"</a> 54Pesos.org, 4 October 2008</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D%2328613" rel="nofollow">"Dus, Henry George Liddell, Robert Scott, "A Greek-English Lexicon", at Perseus"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dus%2C+Henry+George+Liddell%2C+Robert+Scott%2C+%22A+Greek-English+Lexicon%22%2C+at+Perseus&amp;rft_id=http%3A%2F%2Fwww.perseus.tufts.edu%2Fcgi-bin%2Fptext%3Fdoc%3DPerseus%253Atext%253A1999.04.0057%253Aentry%253D%252328613&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADisaster"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D%2316528" rel="nofollow">"Aster, Henry George Liddell, Robert Scott, "A Greek-English Lexicon", at Perseus"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aster%2C+Henry+George+Liddell%2C+Robert+Scott%2C+%22A+Greek-English+Lexicon%22%2C+at+Perseus&amp;rft_id=http%3A%2F%2Fwww.perseus.tufts.edu%2Fcgi-bin%2Fptext%3Fdoc%3DPerseus%253Atext%253A1999.04.0057%253Aentry%253D%252316528&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADisaster"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://etymonline.com/?term=disaster" rel="nofollow">"Disaster"</a> in Etymology online</span></li>
+<li id="cite_note-atrisk-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-atrisk_8-0">^</a></b></span> <span class="reference-text">Blaikie, Piers, Terry Cannon, Ian Davis &amp; Ben Wisner. <i>At Risk – Natural hazards, people's vulnerability and disasters</i>, Wiltshire: Routledge, 2003, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-415-25216-4" title="Special:BookSources/0-415-25216-4">0-415-25216-4</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li>Barton, Allen H. <i>Communities in Disaster: A Sociological Analysis of Collective Stress Situations</i>, Doubleday, 1st edition 1969, ASIN: B0006BVVOW</li>
+<li>Susanna M. Hoffman, Susanna M. &amp; Anthony Oliver-Smith, authors &amp; editors. <i>Catastrophe and Culture: The Anthropology of Disaster</i>, School of American Research Press, 1st edition 2002, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1930618152" title="Special:BookSources/978-1930618152">978-1930618152</a></li>
+<li>Bankoff, Greg, Georg Frerks, Dorothea Hilhorst. <i>Mapping Vulnerability: Disasters, Development and People</i>, Routledge, 2004, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1853839641" title="Special:BookSources/978-1853839641">978-1853839641</a></li>
+<li>Alexander, David. <i>Principles of Emergency planning and Management</i>, Oxford University Press, 1 edition 2002, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0195218381" title="Special:BookSources/978-0195218381">978-0195218381</a></li>
+<li>Quarantelli, E. L. (2008). “Conventional Beliefs and Counterintuitive Realities”. Conventional Beliefs and Counterintuitive Realities in Social Research: an international Quarterly of the social Sciences, Vol. 75 (3): 873–904.</li>
+<li>Paul, B. K et al. (2003). “Public Response to Tornado Warnings: a comparative Study of the May 04, 2003 Tornadoes in Kansas, Missouri and Tennessee”. Quick Response Research Report, no 165, Natural Hazard Center, Universidad of Colorado</li>
+<li>Kahneman, D. y Tversky, A. (1984). “Choices, Values and frames”. American Psychologist 39 (4): 341–350.</li>
+<li>Beck, U. (2006). Risk Society, towards a new modernity. Buenos Aires, Paidos</li>
+<li>Aguirre, B. E &amp; Quarantelli, E. H. (2008). “Phenomenology of Death Counts in Disasters: the invisible dead in the 9/11 WTC attack”. International Journal of Mass Emergencies and Disasters. Vol. 26 (1): 19–39.</li>
+<li>Wilson, H. (2010). “Divine Sovereignty and The Global Climate Change debate”. Essays in Philosophy. Vol. 11 (1): 1–7</li>
+<li>Uscher-Pines, L. (2009). “Health effects of Relocation following disasters: a systematic review of literature”. Disasters. Vol. 33 (1): 1–22.</li>
+<li>Scheper-Hughes, N. (2005). “Katrina: the disaster and its doubles”. Anthropology Today. Vol. 21 (6).</li>
+<li>Phillips, B. D. (2005). “Disaster as a Discipline: The Status of Emergency Management Education in the US”. International Journal of Mass-Emergencies and Disasters. Vol. 23 (1): 111–140.</li>
+<li>Mileti, D. and Fitzpatrick, C. (1992). “The causal sequence of Risk communication in the Parkfield Earthquake Prediction experiment”. Risk Analysis. Vol. 12: 393–400.</li>
+<li>Korstanje, M. (2011). "The Scientific Sensationalism: short commentaries along with scientific risk perception". E Journalist. Volume 10, Issue 2.</li>
+<li>Korstanje, Maximiliano E. <a class="external text" href="http://www.emeraldinsight.com/doi/abs/10.1108/17595901111108371?queryID=15%2F18418929" rel="nofollow">"Swine Flu in Buenos Aires: Beyond the Principle of Resilience"</a>, <i>International Journal of Disaster Resilience in the Built Environment</i>, Vol. 2, Issue #1, 2001, pp. 59–73</li>
+<li>Perkins, Jamey. <a class="external text" href="http://www.publicsafetydegrees.com/articles/The_Calamity_of_Disaster.pdf" rel="nofollow">"The Calamity of Disaster – Recognizing the possibilities, planning for the event, managing crisis and coping with the effects"</a>, Public Safety Degrees</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disaster&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">The Wikibook <i><a class="extiw" href="https://en.wikibooks.org/wiki/History" title="wikibooks:History">History</a></i> has a page on the topic of: <i><b><a class="extiw" href="https://en.wikibooks.org/wiki/History/Historical_Disasters_and_Tragedies" title="wikibooks:History/Historical Disasters and Tragedies">Historical Disasters and Tragedies</a></b></i></td>
+</tr>
+</table>
+<div aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" role="navigation" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+<div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Disaster</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div>
+<ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="391" data-file-width="391" height="27" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/Disaster" title="wikt:Special:Search/Disaster">Definitions</a> from Wiktionary</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="1376" data-file-width="1024" height="27" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" style="vertical-align: middle" width="20"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Disaster" title="c:Special:Search/Disaster">Media</a> from Commons</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="415" data-file-width="759" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/41px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/54px-Wikinews-logo.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikinews.org/wiki/Special:Search/Disaster" title="n:Special:Search/Disaster">News</a> from Wikinews</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="355" data-file-width="300" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" style="vertical-align: middle" width="23"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Disaster" title="q:Special:Search/Disaster">Quotations</a> from Wikiquote</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="430" data-file-width="410" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" style="vertical-align: middle" width="26"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikisource.org/wiki/Special:Search/Disaster" title="s:Special:Search/Disaster">Texts</a> from Wikisource</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="300" data-file-width="300" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikibooks.org/wiki/Special:Search/Disaster" title="b:Special:Search/Disaster">Textbooks</a> from Wikibooks</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="900" data-file-width="1000" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikiversity.org/wiki/Special:Search/Disaster" title="v:Special:Search/Disaster">Learning resources</a> from Wikiversity</span></li>
+</ul>
+</div>
+<ul>
+<li><a class="external text" href="http://www.dels.nas.edu/dr/" rel="nofollow">The Disaster Roundtable</a> of the <a href="/wiki/National_Academy_of_Sciences" title="National Academy of Sciences">National Academy of Sciences</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080811021537/http://www.em-dat.net/" rel="nofollow">EM-DAT International Disaster Database</a> of the <a href="/wiki/Centre_for_Research_on_the_Epidemiology_of_Disasters" title="Centre for Research on the Epidemiology of Disasters">Centre for Research on the Epidemiology of Disasters</a></li>
+<li><a class="external text" href="http://www.gdacs.org" rel="nofollow">Global Disaster Alert and Coordination System</a> – The <a href="/wiki/Global_Disaster_Alert_and_Coordination_System" title="Global Disaster Alert and Coordination System">Global Disaster Alert and Coordination System</a> is a joint initiative of the <a href="/wiki/United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs" title="United Nations Office for the Coordination of Humanitarian Affairs">United Nations Office for the Coordination of Humanitarian Affairs</a> (OCHA) and the <a href="/wiki/European_Commission" title="European Commission">European Commission</a></li>
+<li><a class="external text" href="http://www.un-spider.org/" rel="nofollow">UN-SPIDER</a> – <a href="/wiki/UN-SPIDER" title="UN-SPIDER">UN-SPIDER</a>, the United Nations Programme for Space-based Information for Disaster Management and Emergency Response], a project of the <a href="/wiki/United_Nations_Office_for_Outer_Space_Affairs" title="United Nations Office for Outer Space Affairs">United Nations Office for Outer Space Affairs</a> (UNOOSA)</li>
+</ul>
+<div aria-labelledby="Disasters" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Disasters" title="Template:Disasters"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Disasters" title="Template talk:Disasters"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Disasters&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Disasters" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Disasters</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Overview</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lists_of_disasters" title="Lists of disasters">Lists</a>
+<ul>
+<li><a href="/wiki/List_of_accidents_and_disasters_by_death_toll" title="List of accidents and disasters by death toll">by death toll</a></li>
+<li><a href="/wiki/List_of_disasters_by_cost" title="List of disasters by cost">by cost</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Disasters</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_environmental_disasters" title="List of environmental disasters">Natural</a> (<a href="/wiki/List_of_natural_disasters_by_death_toll" title="List of natural disasters by death toll">by death toll</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Tornadoes" title="Tornadoes">Tornadoes</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a class="mw-redirect" href="/wiki/Mudslide" title="Mudslide">Mudslide</a></li>
+<li><a href="/wiki/List_of_floods" title="List of floods">Flood</a></li>
+<li><a href="/wiki/List_of_tropical_cyclones" title="List of tropical cyclones">Tropical cyclone</a></li>
+<li><a href="/wiki/Lists_of_earthquakes" title="Lists of earthquakes">Earthquake</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_volcanic_eruptions" title="List of volcanic eruptions">Volcanic eruptions</a></li>
+<li><a href="/wiki/List_of_fires" title="List of fires">Fires</a></li>
+<li><a href="/wiki/List_of_wildfires" title="List of wildfires">Wildfires</a></li>
+<li><a href="/wiki/Impact_event" title="Impact event">Impact event</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Accident" title="Accident">Accidents</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lists_of_rail_accidents" title="Lists of rail accidents">Rail</a></li>
+<li><a href="/wiki/List_of_maritime_disasters" title="List of maritime disasters">Maritime</a></li>
+<li><a href="/wiki/Lists_of_shipwrecks" title="Lists of shipwrecks">Shipwreck</a></li>
+<li><a href="/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft" title="List of accidents and incidents involving commercial aircraft">Aircraft</a></li>
+<li><a href="/wiki/List_of_airship_accidents" title="List of airship accidents">Airship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_industrial_disasters" title="List of industrial disasters">Industrial</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_structural_failures_and_collapses" title="List of structural failures and collapses">Structural failures and collapses</a></li>
+<li><a href="/wiki/List_of_bridge_failures" title="List of bridge failures">Bridge</a></li>
+<li><a href="/wiki/Dam_failure" title="Dam failure">Dam</a></li>
+<li><a href="/wiki/Lists_of_nuclear_disasters_and_radioactive_incidents" title="Lists of nuclear disasters and radioactive incidents">Nuclear</a>
+<ul>
+<li><a href="/wiki/List_of_nuclear_and_radiation_accidents_by_death_toll" title="List of nuclear and radiation accidents by death toll">by death toll</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_civilian_radiation_accidents" title="List of civilian radiation accidents">Civilian radiation</a></li>
+<li><a href="/wiki/List_of_civilian_nuclear_accidents" title="List of civilian nuclear accidents">Civilian nuclear</a></li>
+<li><a href="/wiki/List_of_military_nuclear_accidents" title="List of military nuclear accidents">Military nuclear</a></li>
+<li><a href="/wiki/List_of_oil_spills" title="List of oil spills">Oil spills</a></li>
+<li><a href="/wiki/Levee_breach" title="Levee breach">Levee breach</a></li>
+<li><a href="/wiki/List_of_catastrophic_collapses_of_broadcast_masts_and_towers" title="List of catastrophic collapses of broadcast masts and towers">Mast and tower</a></li>
+<li><a href="/wiki/List_of_modern_infrastructure_failures" title="List of modern infrastructure failures">Infrastructure</a></li>
+<li><a href="/wiki/List_of_spaceflight-related_accidents_and_incidents" title="List of spaceflight-related accidents and incidents">Space</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Health</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_famines" title="List of famines">Famines</a></li>
+<li><a href="/wiki/List_of_epidemics" title="List of epidemics">Epidemics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/List_of_man-made_disasters" title="List of man-made disasters">Man-made</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll" title="List of wars and anthropogenic disasters by death toll">Wars and anthropogenic disasters</a></li>
+<li><a href="/wiki/List_of_battles_and_other_violent_events_by_death_toll" title="List of battles and other violent events by death toll">Battles and other violent events</a></li>
+<li><a href="/wiki/List_of_military_disasters" title="List of military disasters">Military</a></li>
+<li><a class="mw-redirect" href="/wiki/Lists_of_wars" title="Lists of wars">Wars</a></li>
+<li><a href="/wiki/List_of_terrorist_incidents" title="List of terrorist incidents">Terrorist incidents</a></li>
+<li><a href="/wiki/List_of_riots" title="List of riots">Riots</a></li>
+<li><a href="/wiki/List_of_events_named_massacres" title="List of events named massacres">Massacres</a></li>
+<li><a href="/wiki/List_of_nightclub_fires" title="List of nightclub fires">Nightclub fires</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Countermeasures</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Humanitarian_aid" title="Humanitarian aid">Humanitarian aid</a></li>
+<li><a href="/wiki/Emergency_population_warning" title="Emergency population warning">Emergency population warning</a></li>
+<li><a href="/wiki/Emergency_Alert_System" title="Emergency Alert System">Emergency Alert System</a></li>
+<li><a href="/wiki/Earthquake_preparedness" title="Earthquake preparedness">Earthquake preparedness</a></li>
+<li><a href="/wiki/Earthquake_warning_system" title="Earthquake warning system">Earthquake warning system</a></li>
+<li><a href="/wiki/List_of_mass_evacuations" title="List of mass evacuations">Evacuations</a></li>
+<li><a href="/wiki/Emergency_management" title="Emergency management">Emergency management</a></li>
+<li><a href="/wiki/Hurricane_preparedness" title="Hurricane preparedness">Hurricane preparedness</a></li>
+<li><a href="/wiki/Crisis_management" title="Crisis management">Crisis management</a></li>
+<li><a href="/wiki/Disaster_risk_reduction" title="Disaster risk reduction">Disaster risk reduction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Media</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_disaster_films" title="List of disaster films">Feature films</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Organizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Global_Risk_Forum_GRF_Davos&amp;action=edit&amp;redlink=1" title="Global Risk Forum GRF Davos (page does not exist)">Global Risk Forum GRF Davos</a></li>
+<li><a href="/wiki/International_Association_of_Emergency_Managers" title="International Association of Emergency Managers">International Association of Emergency Managers</a></li>
+<li><a href="/wiki/International_Disaster_and_Risk_Conference" title="International Disaster and Risk Conference">International Disaster and Risk Conference</a></li>
+<li><a href="/wiki/Disaster_Accountability_Project" title="Disaster Accountability Project">Disaster Accountability Project</a></li>
+<li><a href="/wiki/International_Disaster_Emergency_Service" title="International Disaster Emergency Service">International Disaster Emergency Service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Disasters" title="Portal:Disasters">Portal</a></li>
+<li><img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <a href="/wiki/Wikipedia:WikiProject_Disaster_management" title="Wikipedia:WikiProject Disaster management">WikiProject</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:SanFranHouses06.JPG"><img alt="SanFranHouses06.JPG" data-file-height="330" data-file-width="430" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SanFranHouses06.JPG/24px-SanFranHouses06.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SanFranHouses06.JPG/36px-SanFranHouses06.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SanFranHouses06.JPG/48px-SanFranHouses06.JPG 2x" width="24"/></a></span><a href="/wiki/Portal:Disasters" title="Portal:Disasters">Disasters portal</a></span></li>
+</ul>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4029929-6" rel="nofollow">4029929-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00569981" rel="nofollow">00569981</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph114887&amp;CON_LNG=ENG" rel="nofollow">ph114887</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1288
+Cached time: 20171107103036
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.360 seconds
+Preprocessor visited node count: 1819/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 59318/2097152 bytes
+Template argument size: 2319/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  295.531      1 -total
+ 30.29%   89.512      1 Template:Reflist
+ 19.02%   56.221      4 Template:Cite_web
+ 13.25%   39.170      1 Template:More_footnotes
+ 11.86%   35.057      4 Template:ISBN
+ 10.42%   30.808      1 Template:Other_uses
+ 10.06%   29.736      1 Template:Pp-pc1
+  9.78%   28.899      1 Template:Ambox
+  8.79%   25.983      3 Template:Navbox
+  7.91%   23.362      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8137-0!canonical and timestamp 20171107103036 and revision id 809139964
+ -->
+<!-- Saved in parser cache with key enwiki:stable-pcache:idhash:8137-0!canonical and timestamp 20171107103045 and revision id 809139964
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Disaster&amp;oldid=809139964">https://en.wikipedia.org/w/index.php?title=Disaster&amp;oldid=809139964</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disasters" title="Category:Disasters">Disasters</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_pending_changes_protected_pages_(level_1)" title="Category:Wikipedia pending changes protected pages (level 1)">Wikipedia pending changes protected pages (level 1)</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_December_2014" title="Category:Articles lacking in-text citations from December 2014">Articles lacking in-text citations from December 2014</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Disaster" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Disaster" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Disaster" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Disaster" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Disaster">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Disaster&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Disaster&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Disaster" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Disaster" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Disaster&amp;oldid=809139964" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Disaster&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3839081" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Disaster&amp;id=809139964" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Disaster">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Disaster&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Disaster&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Disasters" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Category:Disasters_and_accidents" hreflang="en">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Disaster" hreflang="en">Wikiquote</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%B1%D8%AB%D8%A9" hreflang="ar" lang="ar" title="كارثة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Desastre" hreflang="an" lang="an" title="Desastre – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Cat%C3%A1strofe" hreflang="ast" lang="ast" title="Catástrofe – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97" hreflang="bn" lang="bn" title="দুর্যোগ – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0" hreflang="be" lang="be" title="Катастрофа – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Desastre" hreflang="ca" lang="ca" title="Desastre – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Katastrofa" hreflang="cs" lang="cs" title="Katastrofa – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Katastrofe" hreflang="da" lang="da" title="Katastrofe – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Katastrophe" hreflang="de" lang="de" title="Katastrophe – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Desastre" hreflang="es" lang="es" title="Desastre – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Katastrofo" hreflang="eo" lang="eo" title="Katastrofo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Hondamen" hreflang="eu" lang="eu" title="Hondamen – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%AC%D8%B9%D9%87" hreflang="fa" lang="fa" title="فاجعه – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Catastrophe" hreflang="fr" lang="fr" title="Catastrophe – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9E%AC%EB%82%9C" hreflang="ko" lang="ko" title="재난 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B2%D5%A5%D5%BF" hreflang="hy" lang="hy" title="Աղետ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%AA%E0%A4%A6%E0%A4%BE" hreflang="hi" lang="hi" title="आपदा – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Katastrofa" hreflang="hr" lang="hr" title="Katastrofa – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Dizastro" hreflang="io" lang="io" title="Dizastro – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Bencana" hreflang="id" lang="id" title="Bencana – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Calamitate" hreflang="ia" lang="ia" title="Calamitate – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Disastro" hreflang="it" lang="it" title="Disastro – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%95%D7%9F" hreflang="he" lang="he" title="אסון – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BF%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81" hreflang="kn" lang="kn" title="ವಿಪತ್ತು – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%90%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%90" hreflang="ka" lang="ka" title="კატასტროფა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D1%82" hreflang="kk" lang="kk" title="Апат – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Katastrof" hreflang="ht" lang="ht" title="Katastrof – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9A%D1%8B%D1%80%D1%81%D1%8B%D0%BA%D1%82%D0%B0%D1%80_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%D1%81%D1%8B" hreflang="ky" lang="ky" title="Кырсыктар теориясы – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Calamitas" hreflang="la" lang="la" title="Calamitas – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Katastrofa" hreflang="lv" lang="lv" title="Katastrofa – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0_%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%A8_%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA" hreflang="mr" lang="mr" title="विकिपीडिया:मुखपृष्ठ नवीन माहिती प्रकल्प – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Bencana" hreflang="ms" lang="ms" title="Bencana – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Ramp" hreflang="nl" lang="nl" title="Ramp – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%81%BD%E5%AE%B3" hreflang="ja" lang="ja" title="災害 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Katastrofe" hreflang="no" lang="no" title="Katastrofe – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-km"><a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%82%E1%9F%92%E1%9E%9A%E1%9F%84%E1%9F%87%E1%9E%98%E1%9E%A0%E1%9E%93%E1%9F%92%E1%9E%8F%E1%9E%9A%E1%9E%B6%E1%9E%99" hreflang="km" lang="km" title="គ្រោះមហន្តរាយ – Khmer">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Katastrofa" hreflang="pl" lang="pl" title="Katastrofa – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Desastre" hreflang="pt" lang="pt" title="Desastre – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0" hreflang="ru" lang="ru" title="Катастрофа – Russian">Русский</a></li><li class="interlanguage-link interwiki-sa"><a class="interlanguage-link-target" href="https://sa.wikipedia.org/wiki/Chanakya" hreflang="sa" lang="sa" title="Chanakya – Sanskrit">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Disaster" hreflang="sco" lang="sco" title="Disaster – Scots">Scots</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%83%E0%B6%B1" hreflang="si" lang="si" title="ව්‍යසන – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Disaster" hreflang="simple" lang="simple" title="Disaster – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Katastrofa" hreflang="sk" lang="sk" title="Katastrofa – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Katastrofa" hreflang="sh" lang="sh" title="Katastrofa – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Onnettomuus" hreflang="fi" lang="fi" title="Onnettomuus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Katastrof" hreflang="sv" lang="sv" title="Katastrof – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Sakuna" hreflang="tl" lang="tl" title="Sakuna – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4" hreflang="th" lang="th" title="ภัยพิบัติ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Afet" hreflang="tr" lang="tr" title="Afet – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0" hreflang="uk" lang="uk" title="Катастрофа – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_h%E1%BB%8Da" hreflang="vi" lang="vi" title="Thảm họa – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%81%BD%E7%A6%8D" hreflang="zh-yue" lang="zh-yue" title="災禍 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%81%BE%E5%AE%B3" hreflang="zh" lang="zh" title="灾害 – Chinese">中文</a></li><li class="interlanguage-link interwiki-kbp"><a class="interlanguage-link-target" href="https://kbp.wikipedia.org/wiki/As%C9%9By%CA%8A%CA%8A_(Catatrophe)" hreflang="kbp" lang="kbp" title="Asɛyʊʊ (Catatrophe) – Kabiye">Kabɩyɛ</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3839081#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 7 November 2017, at 10:30.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Disaster&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.360","ppvisitednodes":{"value":1819,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59318,"limit":2097152},"templateargumentsize":{"value":2319,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  295.531      1 -total"," 30.29%   89.512      1 Template:Reflist"," 19.02%   56.221      4 Template:Cite_web"," 13.25%   39.170      1 Template:More_footnotes"," 11.86%   35.057      4 Template:ISBN"," 10.42%   30.808      1 Template:Other_uses"," 10.06%   29.736      1 Template:Pp-pc1","  9.78%   28.899      1 Template:Ambox","  8.79%   25.983      3 Template:Navbox","  7.91%   23.362      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.107","limit":"10.000"},"limitreport-memusage":{"value":4182292,"limit":52428800}},"cachereport":{"origin":"mw1288","timestamp":"20171107103036","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

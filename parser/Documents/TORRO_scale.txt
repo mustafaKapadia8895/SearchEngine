@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>TORRO scale - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"TORRO_scale","wgTitle":"TORRO scale","wgCurRevisionId":800558208,"wgRevisionId":800558208,"wgArticleId":2333474,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from December 2011","All articles needing additional references","Articles lacking in-text citations from December 2011","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from December 2011","Articles with unsourced statements from June 2016","Hazard scales","Wind","Tornado"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"TORRO_scale","wgRelevantArticleId":2333474,"wgRequestId":"WfmFYQpAMCYAAGM6PbwAAACA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q939225","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.5" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/TORRO_scale" rel="alternate"/>
+<link href="/w/index.php?title=TORRO_scale&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=TORRO_scale&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/TORRO_scale" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-TORRO_scale rootpage-TORRO_scale vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">TORRO scale</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=TORRO_scale&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:TORRO_scale" title="Talk:TORRO scale">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=TORRO_scale&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(December 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>The <b>TORRO tornado intensity scale</b> (or <b>T-Scale</b>) is a scale measuring <a href="/wiki/Tornado" title="Tornado">tornado</a> intensity between T0 and T11. It was proposed by Terence Meaden of the <a class="mw-redirect" href="/wiki/Tornado_and_Storm_Research_Organisation_(TORRO)" title="Tornado and Storm Research Organisation (TORRO)">Tornado and Storm Research Organisation (TORRO)</a>, a <a href="/wiki/Meteorology" title="Meteorology">meteorological</a> organisation in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, as an extension of the <a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort scale</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_derivation_from_Beaufort_scale"><span class="tocnumber">1</span> <span class="toctext">History and derivation from Beaufort scale</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#TORRO_scale_formula"><span class="tocnumber">2</span> <span class="toctext">TORRO scale formula</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Rating_process_and_comparisons_to_Fujita_scale"><span class="tocnumber">3</span> <span class="toctext">Rating process and comparisons to Fujita scale</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#TORRO_scale_parameters"><span class="tocnumber">4</span> <span class="toctext">TORRO scale parameters</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History_and_derivation_from_Beaufort_scale">History and derivation from Beaufort scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TORRO_scale&amp;action=edit&amp;section=1" title="Edit section: History and derivation from Beaufort scale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The scale was tested from 1972 to 1975 and was made public at a meeting of the <a href="/wiki/Royal_Meteorological_Society" title="Royal Meteorological Society">Royal Meteorological Society</a> in 1975. The scale sets T0 as the equivalent of 8 on the Beaufort scale and is related to the Beaufort scale (B) by the formula:</p>
+<dl>
+<dd><i>B</i> = 2 (<i>T</i> + 4)</dd>
+</dl>
+<p>and conversely:</p>
+<dl>
+<dd><i>T</i> = (<i>B</i>/2 - 4)</dd>
+</dl>
+<table class="wikitable">
+<tr>
+<td style="background: #E0E0FF"><i>Beaufort scale</i></td>
+<td style="background: #E0E0FF"><b>B</b></td>
+<td style="text-align:right" width="20">8</td>
+<td style="text-align:right" width="20">10</td>
+<td style="text-align:right" width="20">12</td>
+<td style="text-align:right" width="20">14</td>
+<td style="text-align:right" width="20">16</td>
+<td style="text-align:right" width="20">18</td>
+<td style="text-align:right" width="20">20</td>
+<td style="text-align:right" width="20">22</td>
+<td style="text-align:right" width="20">24</td>
+<td style="text-align:right" width="20">26</td>
+<td style="text-align:right" width="20">28</td>
+<td style="text-align:right" width="20">30</td>
+</tr>
+<tr>
+<td style="background: #E0E0FF"><i>TORRO scale</i></td>
+<td style="background: #E0E0FF"><b>T</b></td>
+<td style="text-align:right" width="20">0</td>
+<td style="text-align:right" width="20">1</td>
+<td style="text-align:right" width="20">2</td>
+<td style="text-align:right" width="20">3</td>
+<td style="text-align:right" width="20">4</td>
+<td style="text-align:right" width="20">5</td>
+<td style="text-align:right" width="20">6</td>
+<td style="text-align:right" width="20">7</td>
+<td style="text-align:right" width="20">8</td>
+<td style="text-align:right" width="20">9</td>
+<td style="text-align:right" width="20">10</td>
+<td style="text-align:right" width="20">11</td>
+</tr>
+</table>
+<p>The <a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort scale</a> was first introduced in 1805, and in 1921 quantified. It expresses the wind speed (v) by the formula:</p>
+<dl>
+<dd><a href="/wiki/Speed" title="Speed">v</a> = 0.837 <i>B</i><sup>3/2</sup> <a href="/wiki/Metre_per_second" title="Metre per second">m/s</a></dd>
+</dl>
+<h2><span class="mw-headline" id="TORRO_scale_formula">TORRO scale formula</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TORRO_scale&amp;action=edit&amp;section=2" title="Edit section: TORRO scale formula">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most UK tornadoes are T6 or below with the strongest known UK tornado being a T8. For comparison, the strongest detected winds in a United States tornado (during the <a href="/wiki/1999_Oklahoma_tornado_outbreak" title="1999 Oklahoma tornado outbreak">1999 Oklahoma tornado outbreak</a>) would be T11 using the following formulae:</p>
+<dl>
+<dd><i><a href="/wiki/Speed" title="Speed">v</a></i> = 2.365 (<i>T</i>+4)<sup>3/2</sup> <a href="/wiki/Metre_per_second" title="Metre per second">m/s</a></dd>
+<dd><i><a href="/wiki/Speed" title="Speed">v</a></i> = 8.511 (<i>T</i>+4)<sup>3/2</sup> <a href="/wiki/Kilometres_per_hour" title="Kilometres per hour">km/h</a></dd>
+<dd><i><a href="/wiki/Speed" title="Speed">v</a></i> = 5.289 (<i>T</i>+4)<sup>3/2</sup> <a href="/wiki/Miles_per_hour" title="Miles per hour">mph</a></dd>
+<dd><i><a href="/wiki/Speed" title="Speed">v</a></i> = 4.596 (<i>T</i>+4)<sup>3/2</sup> <a href="/wiki/Knot_(unit)" title="Knot (unit)">kn</a></dd>
+</dl>
+<p>where <i>v</i> is <a href="/wiki/Wind_speed" title="Wind speed">wind speed</a> and <i>T</i> is TORRO intensity number. Wind speed is defined as a 3-second gust at 10 <a href="/wiki/Metre" title="Metre">m</a> <a class="mw-redirect" href="/wiki/Above_ground_level" title="Above ground level">AGL</a>.</p>
+<p>Alternatively, the T-Scale formula may be expressed as:</p>
+<dl>
+<dd><a href="/wiki/Speed" title="Speed">v</a> = 0.837 (2<i>T</i>+8)<sup>3/2</sup> <a href="/wiki/Metre_per_second" title="Metre per second">m/s</a></dd>
+</dl>
+<p>or</p>
+<dl>
+<dd><a href="/wiki/Speed" title="Speed">v</a> = 0.837(2<sup>3/2</sup>) (<i>T</i>+4)<sup>3/2</sup> <a href="/wiki/Metre_per_second" title="Metre per second">m/s</a></dd>
+<dd>or</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2.365</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>3</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=(v/2.365)^{2/3}-4}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T=(v/2.365)^{2/3}-4}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d9f0964c2f6051d21e15e6bcd0e61774415c349c" style="vertical-align: -0.838ex; width:20.99ex; height:3.343ex;"/></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Rating_process_and_comparisons_to_Fujita_scale">Rating process and comparisons to Fujita scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TORRO_scale&amp;action=edit&amp;section=3" title="Edit section: Rating process and comparisons to Fujita scale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>TORRO claims it differs from the <a href="/wiki/Fujita_scale" title="Fujita scale">Fujita scale</a> in that it is "purely" a wind speed scale, whereas the Fujita scale relies on damage for classification, but in practice, damage is utilised almost exclusively in both systems to infer intensity. That is because such a proxy for intensity is usually all that is available, although users of both scales would prefer direct, objective, quantitative measurements. The scale is primarily used in the United Kingdom whereas the Fujita scale is the primary scale used in North America, continental Europe, and the rest of the world.</p>
+<p>At the 2004 European Conference on Severe Storms, Dr. Meaden proposed a unification of the TORRO and Fujita scales as the Tornado Force or TF Scale.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> In 2007 in the United States, the <a class="mw-redirect" href="/wiki/Enhanced_Fujita_Scale" title="Enhanced Fujita Scale">Enhanced Fujita Scale</a> replaced the original Fujita Scale from 1971.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> It made substantial improvements in standardizing damage descriptors through expanding and refining damage indicators and associated degrees of damage, as well as calibrated tornado wind speeds to better match the associated damage.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> However, the EF Scale is biased to US construction practices,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup>. As of 2014, only the United States and Canada have adopted the EF scale.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>Unlike with the F scale, no analyses have been undertaken at all to establish the veracity and accuracy of the T scale damage descriptors. The scale was written in the early 1970s, and does not take into account changes such as the growth in weight of vehicles or the great reduction in numbers and change of type of railway locomotives,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup> and was written in an environment where tornadoes of F2 or stronger are extremely rare, so little or no first-hand investigation of actual damage at the upper end of the scale was possible. The TORRO scale has more graduations than the F scale which makes it arguably more useful for tornadoes on the lower end of the scale<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup>; however, such accuracy and precision are not typically attainable in practice. <a href="/wiki/Harold_E._Brooks" title="Harold E. Brooks">Brooks</a> and <a href="/wiki/Charles_A._Doswell_III" title="Charles A. Doswell III">Doswell</a> stated that "the problems associated with damage surveys and uncertainties associated with estimating wind speed from observed damage make highly precise assignments dubious".<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> In survey reports, Fujita ratings sometimes also have extra qualifications added ("minimal F2" or "upper-end F3 damage"), made by investigators who have experience of many similar tornadoes and relating to the fact that the F scale is a damage scale, not a wind speed scale.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup></p>
+<p>Tornadoes are rated after they have passed and have been examined, not whilst in progress. In rating the intensity of a tornado, both direct measurements and inferences from empirical observations of the effects of a tornado are used. Few <a href="/wiki/Anemometer" title="Anemometer">anemometers</a> are struck by a tornado, and even fewer survive, so there are very few <a class="mw-redirect" href="/wiki/In-situ" title="In-situ">in-situ</a> measurements. Therefore, almost all ratings are obtained from <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a> techniques or as <a href="/wiki/Proxy_(climate)" title="Proxy (climate)">proxies</a> from damage surveys. <a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a> is used when available, and sometimes <a href="/wiki/Photogrammetry" title="Photogrammetry">photogrammetry</a> or <a href="/wiki/Videogrammetry" title="Videogrammetry">videogrammetry</a> estimates wind speed by measuring tracers in the vortex. In most cases, aerial and ground damage surveys of structures and vegetation are utilised, sometimes with engineering analysis. Also sometimes available are ground swirl patterns (<a class="mw-redirect" href="/wiki/Cycloidal" title="Cycloidal">cycloidal</a> marks) left in the wake of a tornado. If an on site analysis is not possible, either for retrospective ratings or when personnel cannot reach a site, photographs, videos, or descriptions of damage may be utilised.</p>
+<h2><span class="mw-headline" id="TORRO_scale_parameters">TORRO scale parameters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TORRO_scale&amp;action=edit&amp;section=4" title="Edit section: TORRO scale parameters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 12 categories for the <b>TORRO scale</b> are listed below, in order of increasing intensity. Although the wind speeds and photographic damage examples are updated, which are more or less still accurate.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup> However, for the actual <b>TORRO scale</b> in practice, damage indicators (the type of structure which has been damaged) are predominantly used in determining the tornado intensity.</p>
+<table class="wikitable" width="100%">
+<tr style="text-align:center; background:gainsboro;">
+<td rowspan="2"><b>Scale</b></td>
+<td colspan="3"><b>Wind speed</b><br/>
+<b>(Estimated)</b></td>
+<td rowspan="2"><b>Potential damage</b></td>
+<td rowspan="2"><b>Example of damage</b></td>
+</tr>
+<tr style="text-align:center; background:gainsboro;">
+<td><b>mph</b></td>
+<td><b>km/h</b></td>
+<td><b>m/s</b></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FFFF" width="6%"><b>FC</b></td>
+<td style="text-align:center; width:8%;">0-38</td>
+<td style="text-align:center; width:8%;">0-60</td>
+<td style="text-align:center; width:8%;">0-16</td>
+<td>No damage. (Funnel cloud aloft, not a tornado)
+<p>No damage to structures, unless on tops of tallest towers, or to radiosondes, balloons, and aircraft. No damage in the country, except possibly agitation to highest tree-tops and effect on birds and smoke. Record FC when not known to have reached ground level. A whistling or rushing sound aloft may be noticed.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#B2FFFF" width="6%"><b>T0</b></td>
+<td style="text-align:center; width:8%;">39 - 54</td>
+<td style="text-align:center; width:8%;">61 - 86</td>
+<td style="text-align:center; width:8%;">17 - 24</td>
+<td>Light damage.
+<p>Loose light litter raised from ground-level in spirals. Tents, marquees seriously disturbed; most exposed tiles, slates on roofs dislodged. Twigs snapped; trail visible through crops.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FAF4" width="6%"><b>T1</b></td>
+<td style="text-align:center; width:8%;">55 - 72</td>
+<td style="text-align:center; width:8%;">87 - 115</td>
+<td style="text-align:center; width:8%;">25 - 32</td>
+<td>Mild damage.
+<p>Deckchairs, small plants, heavy litter becomes airborne; minor damage to sheds. More serious dislodging of tiles, slates, chimney pots. Wooden fences flattened. Slight damage to hedges and trees.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00F189" width="6%"><b>T2</b></td>
+<td style="text-align:center; width:8%;">73 - 92</td>
+<td style="text-align:center; width:8%;">116 - 147</td>
+<td style="text-align:center; width:8%;">33 - 41</td>
+<td>Moderate damage.
+<p>Heavy mobile homes displaced, light caravans blown over, garden sheds destroyed, garage roofs torn away, much damage to tiled roofs and chimney stacks. General damage to trees, some big branches twisted or snapped off, small trees uprooted.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#DFF3DF" width="6%"><b>T3</b></td>
+<td style="text-align:center; width:8%;">93 - 114</td>
+<td style="text-align:center; width:8%;">148 - 184</td>
+<td style="text-align:center; width:8%;">42 - 51</td>
+<td>Strong damage.
+<p>Mobile homes overturned / badly damaged; light caravans destroyed; garages and weak outbuildings destroyed; house roof timbers considerably exposed. Some of the bigger trees snapped or uprooted.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#F7E98E" width="6%"><b>T4</b></td>
+<td style="text-align:center; width:8%;">115 - 136</td>
+<td style="text-align:center; width:8%;">185 - 220</td>
+<td style="text-align:center; width:8%;">52 - 61</td>
+<td>Severe damage.
+<p>Motor cars levitated. Mobile homes airborne / destroyed; sheds airborne for considerable distances; entire roofs removed from some houses; roof timbers of stronger brick or stone houses completely exposed; gable ends torn away. Numerous trees uprooted or snapped.</p>
+</td>
+<td><a class="image" href="/wiki/File:2012-06-12_tornade_Venise_1.JPG"><img alt="2012-06-12 tornade Venise 1.JPG" data-file-height="3648" data-file-width="2432" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/2012-06-12_tornade_Venise_1.JPG/150px-2012-06-12_tornade_Venise_1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/2012-06-12_tornade_Venise_1.JPG/225px-2012-06-12_tornade_Venise_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/2012-06-12_tornade_Venise_1.JPG/300px-2012-06-12_tornade_Venise_1.JPG 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFE775" width="6%"><b>T5</b></td>
+<td style="text-align:center; width:8%;">137 - 160</td>
+<td style="text-align:center; width:8%;">221 - 259</td>
+<td style="text-align:center; width:8%;">62 - 72</td>
+<td>Intense damage.
+<p>Heavy motor vehicles levitated; more serious building damage than for T4, yet house walls usually remaining; the oldest, weakest buildings may collapse completely.</p>
+</td>
+<td><a class="image" href="/wiki/File:Birmingham_tornado_2005_damage.jpg"><img alt="Birmingham tornado 2005 damage.jpg" data-file-height="1536" data-file-width="2048" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Birmingham_tornado_2005_damage.jpg/150px-Birmingham_tornado_2005_damage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Birmingham_tornado_2005_damage.jpg/225px-Birmingham_tornado_2005_damage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Birmingham_tornado_2005_damage.jpg/300px-Birmingham_tornado_2005_damage.jpg 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#E9D66B" width="6%"><b>T6</b></td>
+<td style="text-align:center; width:8%;">161 - 186</td>
+<td style="text-align:center; width:8%;">260 - 299</td>
+<td style="text-align:center; width:8%;">73 - 83</td>
+<td>Moderately - devastating damage.
+<p>Strongly built houses lose entire roofs and perhaps also a wall; windows broken on skyscrapers, more of the less-strong buildings collapse.</p>
+</td>
+<td><a class="image" href="/wiki/File:August_2008_tornado_in_Poland_-_Kalina_p2.jpg"><img alt="August 2008 tornado in Poland - Kalina p2.jpg" data-file-height="2304" data-file-width="3456" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/August_2008_tornado_in_Poland_-_Kalina_p2.jpg/150px-August_2008_tornado_in_Poland_-_Kalina_p2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/August_2008_tornado_in_Poland_-_Kalina_p2.jpg/225px-August_2008_tornado_in_Poland_-_Kalina_p2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/August_2008_tornado_in_Poland_-_Kalina_p2.jpg/300px-August_2008_tornado_in_Poland_-_Kalina_p2.jpg 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFC140" width="6%"><b>T7</b></td>
+<td style="text-align:center; width:8%;">187 - 212</td>
+<td style="text-align:center; width:8%;">300 - 342</td>
+<td style="text-align:center; width:8%;">84 - 95</td>
+<td>Strongly - devastating damage.
+<p>Wooden-frame houses wholly demolished; some walls of stone or brick houses beaten down or collapse; skyscrapers twisted; steel-framed warehouse-type constructions may buckle slightly. Locomotives thrown over. Noticeable debarking of trees by flying debris.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#E49B0F" width="6%"><b>T8</b></td>
+<td style="text-align:center; width:8%;">213 - 240</td>
+<td style="text-align:center; width:8%;">343 - 385</td>
+<td style="text-align:center; width:8%;">96 - 107</td>
+<td>Severely - devastating damage.
+<p>Motor cars hurled great distances. Wooden-framed houses and their contents dispersed over long distances; stone or brick houses irreparably damaged; skyscrapers badly twisted and may show a visible lean to one side; shallowly anchored high rises may be toppled; other <a class="mw-redirect" href="/wiki/Steel-framed_buildings" title="Steel-framed buildings">steel-framed buildings</a> buckled. (<a href="/wiki/2008_Poland_tornado_outbreak" title="2008 Poland tornado outbreak">2008 Poland tornado outbreak</a>, for example)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FF8F20" width="6%"><b>T9</b></td>
+<td style="text-align:center; width:8%;">241 - 269</td>
+<td style="text-align:center; width:8%;">386 - 432</td>
+<td style="text-align:center; width:8%;">108 - 120</td>
+<td>Intensely - devastating damage.
+<p>Many steel-framed buildings badly damaged; skyscrapers toppled; locomotives or trains hurled some distances. Complete debarking of any standing tree-trunks.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FE5A1D" width="6%"><b>T10</b></td>
+<td style="text-align:center; width:8%;">270 - 299</td>
+<td style="text-align:center; width:8%;">433 - 482</td>
+<td style="text-align:center; width:8%;">121 - 134</td>
+<td>Super damage.
+<p>Entire frame houses and similar buildings lifted bodily or completely from foundations and carried a long or large distance to disintegrate. Steel-reinforced concrete buildings may be severely damaged or almost obliterated.</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FF6060" width="6%"><b>T11</b></td>
+<td style="text-align:center; width:8%;">&gt;300</td>
+<td style="text-align:center; width:8%;">&gt;483</td>
+<td style="text-align:center; width:8%;">&gt;135</td>
+<td>Phenomenal damage.
+<p>Strong framed, well built houses leveled off foundations and swept away. Steel-reinforced concrete structures are critically damaged. Tall buildings collapse or have severe structural deformations. Some cars, trucks and train cars can be thrown approximately 1 mile (1.6 kilometres).</p>
+</td>
+<td></td>
+</tr>
+</table>
+<table class="wikitable" width="100%">
+<tr>
+<td>T0</td>
+<td>T1</td>
+<td>T2</td>
+<td>T3</td>
+<td>T4</td>
+<td>T5</td>
+<td>T6</td>
+<td>T7</td>
+<td>T8</td>
+<td>T9</td>
+<td>T10</td>
+<td>T11</td>
+</tr>
+<tr>
+<td align="center" colspan="4" style="background: #fd0;">Weak</td>
+<td align="center" colspan="4" style="background: #f3943f;">Strong</td>
+<td align="center" colspan="4" style="background: #ea5297;">Violent</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TORRO_scale&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Saffir-Simpson_Hurricane_Scale" title="Saffir-Simpson Hurricane Scale">Saffir-Simpson Hurricane Scale</a></li>
+<li><a class="mw-redirect" href="/wiki/Tornado_intensity_and_damage" title="Tornado intensity and damage">Tornado intensity and damage</a></li>
+<li><a href="/wiki/Wind_engineering" title="Wind engineering">Wind engineering</a></li>
+<li><a href="/wiki/List_of_tornadoes_and_tornado_outbreaks" title="List of tornadoes and tornado outbreaks">List of tornadoes and tornado outbreaks</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TORRO_scale&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Meaden, Terence; TORRO members (2004). <a class="external text" href="https://web.archive.org/web/20100430211910/http://www.torro.org.uk/TORRO/ECSS_Slide_Show/2004%20SPAIN%20ECSS%20Post-FINAL%20slide%20show.html" rel="nofollow">"Tornado Force or TF Scale"</a>. Tornado and Storm Research Organisation. Archived from <a class="external text" href="http://www.torro.org.uk/TORRO/ECSS_Slide_Show/2004%20SPAIN%20ECSS%20Post-FINAL%20slide%20show.html" rel="nofollow">the original</a> on 2010-04-30.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.au=TORRO+members&amp;rft.aufirst=Terence&amp;rft.aulast=Meaden&amp;rft.btitle=Tornado+Force+or+TF+Scale&amp;rft.date=2004&amp;rft.genre=unknown&amp;rft.pub=Tornado+and+Storm+Research+Organisation&amp;rft_id=http%3A%2F%2Fwww.torro.org.uk%2FTORRO%2FECSS_Slide_Show%2F2004%2520SPAIN%2520ECSS%2520Post-FINAL%2520slide%2520show.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Thomas_P._Grazulis" title="Thomas P. Grazulis">Grazulis, Tom</a> (1999). <a class="external text" href="https://web.archive.org/web/20111230005516/http://www.tornadoproject.com/fscale/fscale.htm" rel="nofollow">"The Fujita Scale of Tornado Intensity"</a>. The Tornado Project. Archived from <a class="external text" href="http://www.tornadoproject.com/fscale/fscale.htm" rel="nofollow">the original</a> on 2011-12-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.aufirst=Tom&amp;rft.aulast=Grazulis&amp;rft.btitle=The+Fujita+Scale+of+Tornado+Intensity&amp;rft.date=1999&amp;rft.genre=unknown&amp;rft.pub=The+Tornado+Project&amp;rft_id=http%3A%2F%2Fwww.tornadoproject.com%2Ffscale%2Ffscale.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Godfrey, Elaine (2008). <a class="external text" href="http://www.ncdc.noaa.gov/oa/satellite/satelliteseye/educational/fujita.html" rel="nofollow">"The Enhanced Fujita Tornado Scale"</a>. National Climatic Data Center<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.aufirst=Elaine&amp;rft.aulast=Godfrey&amp;rft.btitle=The+Enhanced+Fujita+Tornado+Scale&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft.pub=National+Climatic+Data+Center&amp;rft_id=http%3A%2F%2Fwww.ncdc.noaa.gov%2Foa%2Fsatellite%2Fsatelliteseye%2Feducational%2Ffujita.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ec.gc.ca/meteo-weather/default.asp?lang=En&amp;n=41E875DA-1" rel="nofollow">"Enhanced Fujita Scale (EF-Scale)"</a>. Environment Canada<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.btitle=Enhanced+Fujita+Scale+%28EF-Scale%29&amp;rft.genre=unknown&amp;rft.pub=Environment+Canada&amp;rft_id=http%3A%2F%2Fwww.ec.gc.ca%2Fmeteo-weather%2Fdefault.asp%3Flang%3DEn%26n%3D41E875DA-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.theweathernetwork.com/news/storm_watch_stories3&amp;stormfile=Measuring_tornadoes__F_vs._EF_scales_03_04_2012/" rel="nofollow">Measuring tornadoes: F-scale vs. EF-scale</a> <a class="external text" href="https://web.archive.org/web/20120409111640/http://www.theweathernetwork.com/news/storm_watch_stories3%26stormfile%3DMeasuring_tornadoes__F_vs._EF_scales_03_04_2012/" rel="nofollow">Archived</a> April 9, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Harold_E._Brooks" title="Harold E. Brooks">Brooks, Harold</a>; Charles A. Doswell III (2001). <a class="external text" href="http://www.nssl.noaa.gov/users/brooks/public_html/toulclim.html" rel="nofollow">"Some aspects of the international climatology of tornadoes by damage classification"</a>. <i>Atmospheric Research</i>. <b>56</b> (1-4): 191–201. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001AtmRe..56..191B" rel="nofollow">2001AtmRe..56..191B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0169-8095%2800%2900098-3" rel="nofollow">10.1016/S0169-8095(00)00098-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.atitle=Some+aspects+of+the+international+climatology+of+tornadoes+by+damage+classification&amp;rft.au=Charles+A.+Doswell+III&amp;rft.aufirst=Harold&amp;rft.aulast=Brooks&amp;rft.date=2001&amp;rft.genre=article&amp;rft.issue=1-4&amp;rft.jtitle=Atmospheric+Research&amp;rft.pages=191-201&amp;rft.volume=56&amp;rft_id=http%3A%2F%2Fwww.nssl.noaa.gov%2Fusers%2Fbrooks%2Fpublic_html%2Ftoulclim.html&amp;rft_id=info%3Abibcode%2F2001AtmRe..56..191B&amp;rft_id=info%3Adoi%2F10.1016%2FS0169-8095%2800%2900098-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><cite class="citation book"><a href="/wiki/Thomas_P._Grazulis" title="Thomas P. Grazulis">Grazulis, Thomas P.</a> (1993). <i>Significant Tornadoes 1680-1991, A Chronology and Analysis of Events</i>. St. Johnsbury, VT: The Tornado Project of Environmental Films. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-879362-03-1" title="Special:BookSources/1-879362-03-1">1-879362-03-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.aufirst=Thomas+P.&amp;rft.aulast=Grazulis&amp;rft.btitle=Significant+Tornadoes+1680-1991%2C+A+Chronology+and+Analysis+of+Events&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=1-879362-03-1&amp;rft.place=St.+Johnsbury%2C+VT&amp;rft.pub=The+Tornado+Project+of+Environmental+Films&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Meaden, G. T. (1976). "Tornadoes in Britain: Their intensities and distribution in space and time". <i><a class="mw-redirect" href="/wiki/Journal_of_Meteorology" title="Journal of Meteorology">Journal of Meteorology</a></i>. UK. <b>1</b> (8): 242–51.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.atitle=Tornadoes+in+Britain%3A+Their+intensities+and+distribution+in+space+and+time&amp;rft.aufirst=G.+T.&amp;rft.aulast=Meaden&amp;rft.date=1976&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=Journal+of+Meteorology&amp;rft.pages=242-51&amp;rft.volume=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Meaden, G. T. (1985). "A study of tornadoes in Britain, with assessments of the general tornado risk potential and the specific risk potential at particular regional sites". <i><a class="mw-redirect" href="/wiki/Journal_of_Meteorology" title="Journal of Meteorology">Journal of Meteorology</a></i>. UK. <b>8</b> (79): 151–3.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATORRO+scale&amp;rft.atitle=A+study+of+tornadoes+in+Britain%2C+with+assessments+of+the+general+tornado+risk+potential+and+the+specific+risk+potential+at+particular+regional+sites&amp;rft.aufirst=G.+T.&amp;rft.aulast=Meaden&amp;rft.date=1985&amp;rft.genre=article&amp;rft.issue=79&amp;rft.jtitle=Journal+of+Meteorology&amp;rft.pages=151-3&amp;rft.volume=8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TORRO_scale&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://web.archive.org/web/20051109225809/http://www.torro.org.uk/TORRO/severeweather/tscale.php" rel="nofollow">TORRO Tornado Intensity Scale</a> (TORRO)</li>
+<li><a class="external text" href="http://www.torro.org.uk/TORRO/severeweather/Tscaleorigin.php" rel="nofollow">T-Scale Origins and Scientific Basis</a> (TORRO)</li>
+<li><a class="external text" href="https://web.archive.org/web/20100430211910/http://www.torro.org.uk/TORRO/ECSS_Slide_Show/2004%20SPAIN%20ECSS%20Post-FINAL%20slide%20show.html" rel="nofollow">Wind speed scales: Beaufort, T Scale, and Fujita's Scale</a> (TORRO)</li>
+<li><a class="external text" href="https://web.archive.org/web/20060117120112/http://www.tordach.org/topics/intensity_en.htm" rel="nofollow">Determination of tornado or downburst intensity</a> (TorDACH)</li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1185
+Cached time: 20171027212850
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.326 seconds
+Preprocessor visited node count: 1469/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45499/2097152 bytes
+Template argument size: 8554/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.132/10.000 seconds
+Lua memory usage: 3.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  249.814      1 -total
+ 37.38%   93.391      3 Template:Ambox
+ 31.86%   79.588      1 Template:Reflist
+ 29.66%   74.092      1 Template:Multiple_issues
+ 26.11%   65.236      5 Template:Fix
+ 23.99%   59.943      4 Template:Citation_needed
+ 20.61%   51.492      4 Template:Cite_web
+ 16.31%   40.751      5 Template:Delink
+  8.14%   20.344      1 Template:Refimprove
+  7.88%   19.683     10 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2333474-0!canonical!math=5 and timestamp 20171027212850 and revision id 800558208
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=TORRO_scale&amp;oldid=800558208">https://en.wikipedia.org/w/index.php?title=TORRO_scale&amp;oldid=800558208</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hazard_scales" title="Category:Hazard scales">Hazard scales</a></li><li><a href="/wiki/Category:Wind" title="Category:Wind">Wind</a></li><li><a href="/wiki/Category:Tornado" title="Category:Tornado">Tornado</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2011" title="Category:Articles needing additional references from December 2011">Articles needing additional references from December 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_December_2011" title="Category:Articles lacking in-text citations from December 2011">Articles lacking in-text citations from December 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2011" title="Category:Articles with unsourced statements from December 2011">Articles with unsourced statements from December 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2016" title="Category:Articles with unsourced statements from June 2016">Articles with unsourced statements from June 2016</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=TORRO+scale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=TORRO+scale" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/TORRO_scale" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:TORRO_scale" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/TORRO_scale">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=TORRO_scale&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=TORRO_scale&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/TORRO_scale" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/TORRO_scale" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=TORRO_scale&amp;oldid=800558208" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=TORRO_scale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q939225" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=TORRO_scale&amp;id=800558208" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=TORRO+scale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=TORRO+scale&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=TORRO_scale&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/TORRO_skala" hreflang="bs" lang="bs" title="TORRO skala – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Escala_TORRO" hreflang="ca" lang="ca" title="Escala TORRO – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/TORRO-Skala" hreflang="de" lang="de" title="TORRO-Skala – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/TORRO-skaala" hreflang="et" lang="et" title="TORRO-skaala – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CE%AF%CE%BC%CE%B1%CE%BA%CE%B1_TORRO" hreflang="el" lang="el" title="Κλίμακα TORRO – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Escala_TORRO" hreflang="es" lang="es" title="Escala TORRO – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89chelle_de_TORRO" hreflang="fr" lang="fr" title="Échelle de TORRO – French">Français</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/TORRO_ljestvica" hreflang="hr" lang="hr" title="TORRO ljestvica – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Scala_TORRO" hreflang="it" lang="it" title="Scala TORRO – Italian">Italiano</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/TORRO_skala" hreflang="sh" lang="sh" title="TORRO skala – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Torron_asteikko" hreflang="fi" lang="fi" title="Torron asteikko – Finnish">Suomi</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q939225#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 14 September 2017, at 08:17.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=TORRO_scale&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.326","ppvisitednodes":{"value":1469,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45499,"limit":2097152},"templateargumentsize":{"value":8554,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  249.814      1 -total"," 37.38%   93.391      3 Template:Ambox"," 31.86%   79.588      1 Template:Reflist"," 29.66%   74.092      1 Template:Multiple_issues"," 26.11%   65.236      5 Template:Fix"," 23.99%   59.943      4 Template:Citation_needed"," 20.61%   51.492      4 Template:Cite_web"," 16.31%   40.751      5 Template:Delink","  8.14%   20.344      1 Template:Refimprove","  7.88%   19.683     10 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.132","limit":"10.000"},"limitreport-memusage":{"value":3591731,"limit":52428800}},"cachereport":{"origin":"mw1185","timestamp":"20171027212850","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1210"});});</script>
+</body>
+</html>

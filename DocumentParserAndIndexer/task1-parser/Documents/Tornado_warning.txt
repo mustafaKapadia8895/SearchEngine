@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Tornado warning - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tornado_warning","wgTitle":"Tornado warning","wgCurRevisionId":798583024,"wgRevisionId":798583024,"wgArticleId":275591,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with vague or ambiguous time","Vague or ambiguous time from October 2015","Articles containing potentially dated statements from 2013","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from April 2010","Articles with hAudio microformats","Tornado","Weather warnings and advisories"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tornado_warning","wgRelevantArticleId":275591,"wgRequestId":"WgJu2gpAEK4AABdt4qEAAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3297873","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/bc/Douglas_Tornado.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tornado_warning" rel="alternate"/>
+<link href="/w/index.php?title=Tornado_warning&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tornado_warning&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tornado_warning" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tornado_warning rootpage-Tornado_warning vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Tornado warning</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/Tornado_watch" title="Tornado watch">Tornado watch</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:372px;"><a class="image" href="/wiki/File:Douglas_Tornado.jpg"><img alt="" class="thumbimage" data-file-height="339" data-file-width="600" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Douglas_Tornado.jpg/370px-Douglas_Tornado.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Douglas_Tornado.jpg/555px-Douglas_Tornado.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bc/Douglas_Tornado.jpg 2x" width="370"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Douglas_Tornado.jpg" title="Enlarge"></a></div>
+A tornado in <a href="/wiki/Douglas,_Oklahoma" title="Douglas, Oklahoma">Douglas, Oklahoma</a>, May 24, 2008.</div>
+</div>
+</div>
+<p>A <b>tornado warning</b> (<a href="/wiki/Specific_Area_Message_Encoding" title="Specific Area Message Encoding">SAME</a> code: TOR) is an alert issued by national weather forecasting agencies to warn the public that <a href="/wiki/Thunderstorm" title="Thunderstorm">severe thunderstorms</a> with <a href="/wiki/Tornado" title="Tornado">tornadoes</a> are imminent or occurring. It can be issued after a tornado, <a href="/wiki/Funnel_cloud" title="Funnel cloud">funnel cloud</a> and <a href="/wiki/Wall_cloud" title="Wall cloud">rotation in the clouds</a> has been spotted by the public, <a href="/wiki/Storm_chasing" title="Storm chasing">storm chasers</a>, <a href="/wiki/Emergency_management" title="Emergency management">emergency management</a> or <a href="/wiki/Law_enforcement" title="Law enforcement">law enforcement</a>.</p>
+<p>When this happens, the <a href="/wiki/Civil_defense_siren" title="Civil defense siren">tornado sirens</a> may sound in that area if any sirens are present, informing people that a tornado has been sighted or may be forming nearby (because sirens are not intended to be heard indoors, residents should not completely depend on them). The issuance of a tornado warning indicates that residents should take immediate safety precautions.</p>
+<p>It is a higher level of alert than a <a href="/wiki/Tornado_watch" title="Tornado watch">tornado watch</a>, but (in the United States) it can be surpassed by an even higher alert known as a <a href="/wiki/Tornado_emergency" title="Tornado emergency">tornado emergency</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_history"><span class="tocnumber">1</span> <span class="toctext">Early history</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tornado_alert"><span class="tocnumber">2</span> <span class="toctext">Tornado alert</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Tornado_emergency"><span class="tocnumber">3</span> <span class="toctext">Tornado emergency</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Criteria"><span class="tocnumber">4</span> <span class="toctext">Criteria</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Ground_truthing"><span class="tocnumber">5</span> <span class="toctext">Ground truthing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Examples"><span class="tocnumber">6</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_history">Early history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=1" title="Edit section: Early history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first official tornado forecast – and tornado warning – was made by <a href="/wiki/United_States_Air_Force" title="United States Air Force">United States Air Force</a> Capt. (later Col.) <a href="/wiki/Robert_C._Miller" title="Robert C. Miller">Robert C. Miller</a> and Major Ernest Fawbush, on March 25, 1948. The first such forecast came after the events that transpired five days earlier on March 20, 1948; Miller – a <a href="/wiki/California" title="California">California</a> native who became stationed at <a href="/wiki/Tinker_Air_Force_Base" title="Tinker Air Force Base">Tinker Air Force Base</a> three weeks earlier – was assigned to work the late shift as a forecaster for the base's Air Weather Service office that evening, analyzing <a href="/wiki/National_Weather_Service" title="National Weather Service">U.S. Weather Bureau</a> surface maps and upper-air charts that failed to note atmospheric instability and moisture content present over <a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a> that would be suitable for producing thunderstorm activity, erroneously forecasting dry conditions for that night. Thunderstorms soon developed southwest of <a href="/wiki/Oklahoma_City" title="Oklahoma City">Oklahoma City</a>, and at 9:30 p.m., forecasters from <a href="/wiki/Will_Rogers_World_Airport" title="Will Rogers World Airport">Will Rogers Airport</a> sent a warning to Tinker that the storm encroaching the city was producing wind gusts of 92 miles per hour (148 km/h) and a "Tornado South on Ground Moving NE!" Base personnel received an alert written by the Staff Sarg. on duty with Miller, minutes before the twister struck Tinker several minutes later around 10:00 p.m., damaging several military aircraft (with total damage estimated at $10 million) that could not be secured in time before it crossed the base grounds.<sup class="reference" id="cite_ref-stormwarning1_1-0"><a href="#cite_note-stormwarning1-1">[1]</a></sup></p>
+<p>Following an inquiry the next day before a tribunal of five generals who traveled to Tinker from <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>, who ruled that the March 20 tornado was an "act of God[..] not forecastable given the present state of the art", base commander Gen. Fred Borum tasked Miller and Fawbush to follow up on the board's suggestion to consider methods of forecasting tornadic thunderstorms. Over the next three days, Miller and Fawbush studied reports and charts from previous tornado events to determine the atmospheric conditions favorable for the development of tornadic activity, in an effort to predict such events with some degree of accuracy. At the time, there had not been studies on how tornadoes formed; however, military radars were being adapted for forecasting use, allowing forecasters to see the outlines of storms but not their internal attributes such as rotation. Miller and Fawbush's findings on atmospheric phenomenon present in past outbreaks would aid in their initial forecast, as the day's surface and upper-air analysis charts determined the same conditions present on March 20 were present on the 25th, concluded that central Oklahoma would have the highest risk for tornadoes during the late-afternoon and evening.<sup class="reference" id="cite_ref-stormwarning1_1-1"><a href="#cite_note-stormwarning1-1">[1]</a></sup></p>
+<p>Borum, who had put together a severe weather safety plan for base personnel, then suggested that Miller and Fawbush issue a severe thunderstorm forecast, and then asked the men if they would issue a tornado forecast based on the similarities between the conditions that produced the tornado which hit the base five days earlier, which they were reluctant to do. Fawbush wrote the forecast message that Miller would type and issued it to base operations at 2:50 p.m. as thunderstorms were approaching from <a href="/wiki/North_Texas" title="North Texas">North Texas</a>. Defying the high odds of two tornadoes hitting the same area in five days, one hit the Tinker campus around 6:00 p.m., to the surprise of Miller (who left the base an hour earlier, believing their forecast would not pan out), who found out about the storm (produced by two thunderstorms that merged to the southwest of Tinker) via a radio report. Miller and Fawbush would not put out another tornado forecast until March 25, 1949, when they successfully predicted tornadic activity would occur in southeastern Oklahoma.<sup class="reference" id="cite_ref-stormwarning1_1-2"><a href="#cite_note-stormwarning1-1">[1]</a></sup><sup class="reference" id="cite_ref-stormwarning2_2-0"><a href="#cite_note-stormwarning2-2">[2]</a></sup></p>
+<p>Miller and Fawbush soon would distribute their tornado forecasts to the <a href="/wiki/American_Red_Cross" title="American Red Cross">American Red Cross</a> and <a href="/wiki/Oklahoma_Highway_Patrol" title="Oklahoma Highway Patrol">Oklahoma Highway Patrol</a>, after giving William Maughan, chief meteorologist at the U.S. Weather Bureau's Oklahoma City office (who provided them with additional archived weather data to help fine-tune their forecasts), permission to relay their forecasts to those agencies. The relative accuracy of the forecasts restarted a debate over their reliability and whether military or civilian agencies should have jurisdiction over the issuance of weather warnings.<sup class="reference" id="cite_ref-stormwarning2_2-1"><a href="#cite_note-stormwarning2-2">[2]</a></sup> The USAF had pioneered tornado forecasting and tornado warnings, although John P. Finley had developed the first experimental tornado forecasts in 1885, before he and other officials with the agency were prohibited by the <a href="/wiki/Signal_Corps_(United_States_Army)" title="Signal Corps (United States Army)">United States Signal Service</a>'s weather service from using the word "tornado" in forecasts two years later, directing Finley to instead reference "severe local storms", a move motivated by concerns by businessmen in the <a href="/wiki/Great_Plains" title="Great Plains">Great Plains</a> that Finley's forecasts would hurt economic development if potential investors believed their areas were tornado-prone. This position on tornado forecasting would be shared with the U.S. Weather Bureau after it was formation in 1890, fearing that it would incite panic among the public if tornadoes were predicted to occur; the side effect of this was that the lack of warning resulted in a steady increase in the number of tornado-related fatalities through the 1950s, with some events prior to 1948 (such as the deadliest tornado in U.S. history, the <a href="/wiki/Tri-State_Tornado" title="Tri-State Tornado">Tri-State Tornado</a> in March 1925, and the <a href="/wiki/1947_Glazier%E2%80%93Higgins%E2%80%93Woodward_tornadoes" title="1947 Glazier–Higgins–Woodward tornadoes">Glazier–Higgins–Woodward tornadoes</a> in April 1947) having death tolls that exceeded well over 100.<sup class="reference" id="cite_ref-stormwarning3_3-0"><a href="#cite_note-stormwarning3-3">[3]</a></sup></p>
+<p>In 1938, the Weather Bureau rescinded its ban on the usage of the word "tornado" in weather products disseminated to emergency management personnel. The Bureau would develop a network of volunteer storm spotters in the early 1940s during <a href="/wiki/World_War_II" title="World War II">World War II</a>, to provide warning of tornadoes to workers in munitions plants and strategic factories.<sup class="reference" id="cite_ref-stormwarning3_3-1"><a href="#cite_note-stormwarning3-3">[3]</a></sup> The ban on issuing tornado warnings to the general public would not be revoked until Chief of Bureau Francis W. Reichelderfer officially lifted the ban in a Circular Letter issued on July 12, 1950 to all first order stations: "Weather Bureau employees should avoid statements that can be interpreted as a negation of the Bureau's willingness or ability to make tornado forecasts", and that a "good probability of verification" exist when issuing such forecasts due to the difficulty in accurately predicting tornadic activity.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a> agreed to have Miller and Fawbush present their methodology for forecasting tornadoes during the organization's 1950 meeting in <a class="mw-redirect" href="/wiki/St._Louis,_Missouri" title="St. Louis, Missouri">St. Louis</a>; after garnering press coverage for their successful prediction of past tornadoes, AMS representatives decided to open the presentation to the public.<sup class="reference" id="cite_ref-stormwarning3_3-2"><a href="#cite_note-stormwarning3-3">[3]</a></sup></p>
+<p>The Air Force began issuing severe weather forecasts relayed to Weather Bureau offices and emergency personnel in tornado-prone regions through the formation of the Severe Weather Warning Center in 1951, before the Bureau's contention that the USAF intruded on its responsibility to relay such forecasts led to the SWWC limiting the release of its tornado forecasts to military personnel; however, the move to prohibit the USAF from widespread releasing of tornado forecasts led to disapproval and heavy criticism from Oklahoma media outlets, given the agency's continued refusal to provide public tornado warnings. The Weather Bureau issued its first experimental public tornado forecast in March 1952, which proved inaccurate and was released too late to become widely available for public consumption; however, a forecast issued the following evening managed to predict an outbreak of tornadoes across most of the warned seven-state area (from <a href="/wiki/Texas" title="Texas">Texas</a> to <a href="/wiki/Indiana" title="Indiana">Indiana</a>).<sup class="reference" id="cite_ref-stormwarning3_3-3"><a href="#cite_note-stormwarning3-3">[3]</a></sup></p>
+<p>Even after the U.S. Weather Bureau lifted their ban on tornado warnings, the <a href="/wiki/Federal_Communications_Commission" title="Federal Communications Commission">Federal Communications Commission</a> continued to ban television and radio outlets from broadcasting tornado warnings on-air for the same reasoning cited in the Bureau's abolished ban. Broadcast media followed this ban until 1954, when meteorologist <a href="/wiki/Harry_Volkman" title="Harry Volkman">Harry Volkman</a> broadcast the first televised tornado warning over WKY-TV (now <a href="/wiki/KFOR-TV" title="KFOR-TV">KFOR-TV</a>) in <a href="/wiki/Oklahoma_City" title="Oklahoma City">Oklahoma City</a>, due to his belief that the banning of tornado warnings over broadcast media cost lives. Through an alert issued by the USAF Severe Weather Warning Center, Volkman opted to interrupt regular programming to warn viewers of a reported tornado approaching the Oklahoma City area; although station management and U.S. Weather Bureau officials were displeased with his move, WKY-TV received numerous telephone calls and letters thanking Volkman for the warning.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-stormwarning4_7-0"><a href="#cite_note-stormwarning4-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Tornado_alert">Tornado alert</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=2" title="Edit section: Tornado alert">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For many years until the early 1980s, an intermediate type of tornado advisory known as a tornado alert was defined by the <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> and issued by the agency's local forecast offices, indicating that tornado formation was imminent. In theory, tornado alerts covered situations such as visible rotation in clouds and certain other phenomena which are portents of funnel cloud formation. The National Weather Service's use of this advisory began to decline after 1974, although it was still listed on public information materials issued by various media outlets, local NWS offices and other entities for another decade or so.</p>
+<p>The criteria which called for tornado alerts in the past now generally result in a tornado warning with clarifying verbiage specifying that the warning was issued because rotation was detected in one way or another, that a <a href="/wiki/Wall_cloud" title="Wall cloud">wall cloud</a> has formed or a tornado has been spotted or detected. The preferred response to both the tornado alerts and warnings is to take shelter immediately, so distinguishing them could be seen as splitting hairs, especially since storm prediction methods have improved.</p>
+<p>The tornado alert was finally eliminated outright because it was made largely obsolete by the advent of <a href="/wiki/Pulse-Doppler_radar" title="Pulse-Doppler radar">Doppler</a> <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a>, which can detect rotational funnel cloud formations earlier than is typically possible by trained spotters and members of the public. With fewer false-positives, radar also helped reduce public confusion over storm types, strengths and precise locations. The last tornado alert to be officially issued was discussed in earnest following the <a href="/wiki/1974_Super_Outbreak" title="1974 Super Outbreak">1974 Super Outbreak</a>.</p>
+<h2><span class="mw-headline" id="Tornado_emergency">Tornado emergency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=3" title="Edit section: Tornado emergency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Tornado_emergency" title="Tornado emergency">Tornado emergency</a></div>
+<p>The National Weather Service has the option of issuing a <a href="/wiki/Tornado_emergency" title="Tornado emergency">tornado emergency</a>, a severe weather statement with unofficial, enhanced wording that is disseminated when a large, extremely violent tornado is about to impact a densely populated area. This category of weather statement is the highest and most urgent level relating to tornadoes, albeit an unofficial alert product. The first tornado emergency was declared on May 3, 1999, when an <a href="/wiki/1999_Bridge_Creek%E2%80%93Moore_tornado" title="1999 Bridge Creek–Moore tornado">F5 tornado</a> struck southern portions of the <a href="/wiki/Oklahoma_City" title="Oklahoma City">Oklahoma City</a> metropolitan area, causing major damage exceeding $1 billion. In some cases, such as an F3 tornado that struck the <a href="/wiki/Indianapolis" title="Indianapolis">Indianapolis</a>, <a href="/wiki/Indiana" title="Indiana">Indiana</a> metropolitan area on September 20, 2002, a tornado emergency has been declared within the initial issuance of the tornado warning. Not all confirmed tornadoes will be considered a "tornado emergency", and such statements are commonly declared when it is believed that the tornado is at a severity in which it would cause a significant threat to life and property.</p>
+<p>The levels of severity increase as follows:</p>
+<ol>
+<li><a class="mw-redirect" href="/wiki/Convective_Outlook" title="Convective Outlook">Convective Outlook</a> mentioning tornado potential</li>
+<li><a class="mw-redirect" href="/wiki/Public_Severe_Weather_Outlook" title="Public Severe Weather Outlook">Public Severe Weather Outlook</a> mentioning tornado potential</li>
+<li><a href="/wiki/Tornado_watch" title="Tornado watch">Tornado Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">Particularly Dangerous Situation</a> Tornado Watch</li>
+<li>Tornado Warning</li>
+<li>Particularly Dangerous Situation Tornado Warning (used by Weather Forecast Offices within the National Weather Service Central Region Headquarters as an intermediate warning in the event that a tornado has been spotted or confirmed, or a significant tornado is expected)<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li><a href="/wiki/Tornado_emergency" title="Tornado emergency">Tornado Emergency</a></li>
+</ol>
+<p>Tornado warnings can also be intensified by added wording mentioning that the storm is life-threatening, that it is an extremely dangerous situation, that a large, violent and/or destructive tornado is on the ground or is capable of causing significant property damage.</p>
+<h2><span class="mw-headline" id="Criteria">Criteria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=4" title="Edit section: Criteria">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A tornado warning is issued when any of the following conditions has occurred:</p>
+<ul>
+<li>a tornado is reported on the ground, or</li>
+<li>a funnel cloud has been reported, or</li>
+<li><a href="/wiki/Wall_cloud" title="Wall cloud">strong low-level rotation</a> is indicated by <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a>,<sup class="reference" id="cite_ref-Definition_9-0"><a href="#cite_note-Definition-9">[9]</a></sup> or</li>
+<li>a <a href="/wiki/Waterspout" title="Waterspout">waterspout</a> is headed for <a class="mw-redirect" href="/wiki/Landfall_(meteorology)" title="Landfall (meteorology)">landfall</a>.<sup class="reference" id="cite_ref-Definition_9-1"><a href="#cite_note-Definition-9">[9]</a></sup></li>
+</ul>
+<p>A <i>tornado warning</i> means there is immediate danger for the warned area and immediate surrounding locations – if not from the relatively narrow tornado itself, from the severe thunderstorm producing (or likely to produce) it. Those in the path of such a storm are urged to take cover immediately, as it is a life-threatening situation. A warning is different from a <a href="/wiki/Tornado_watch" title="Tornado watch">tornado watch</a> (issued in the <a href="/wiki/United_States" title="United States">United States</a> by a national guidance center, the <a href="/wiki/Storm_Prediction_Center" title="Storm Prediction Center">Storm Prediction Center</a>) which only indicates that conditions are favorable for the formation of tornadoes.</p>
+<p>Generally (but not always), a tornado warning also indicates that the potential is there for severe <a href="/wiki/Downburst" title="Downburst">straight-line winds</a> and/or large <a href="/wiki/Hail" title="Hail">hail</a> (in the United States, winds exceeding 58 miles per hour (93 km/h) and hail larger than 1 inch (2.5 cm) are the respective defined criteria to classify such phenomena as severe; the criteria varies in other countries) from the thunderstorm.<sup class="reference" id="cite_ref-Example2_10-0"><a href="#cite_note-Example2-10">[10]</a></sup> A <a href="/wiki/Severe_thunderstorm_warning" title="Severe thunderstorm warning">severe thunderstorm warning</a> can be upgraded suddenly to a tornado warning should conditions warrant.<sup class="reference" id="cite_ref-Example2_10-1"><a href="#cite_note-Example2-10">[10]</a></sup></p>
+<p>In the United States, local offices of the <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> outline warnings for tornadoes and severe thunderstorms in <a href="/wiki/Polygon" title="Polygon">polygonal</a> shapes for map-based weather hazard products, which are used to delineate sections of a <a href="/wiki/County_(United_States)" title="County (United States)">county</a>, <a href="/wiki/Parish_(administrative_division)" title="Parish (administrative division)">parish</a> or other jurisdiction that the warning covers (which are also referenced in NWS text warning products by the specified sections of the affected jurisdictions), based on the projected path of a storm as determined by Doppler radar at the time of the warning's issuance; however, entire counties/parishes are sometimes included in the warning polygon, especially if they encompass a small geographical area. Prior to October 2007, warnings were issued by the National Weather Service on a per-county basis.<sup class="reference" id="cite_ref-Storm-based_11-0"><a href="#cite_note-Storm-based-11">[11]</a></sup> Storm Prediction Center and National Weather Service products as well as <a href="/wiki/First_Warning" title="First Warning">severe weather alert displays</a> used by some television stations highlight tornado warnings with a red polygon or filled county/parish outline.</p>
+<p>In <a href="/wiki/Canada" title="Canada">Canada</a>, similar criteria are used and warnings are issued by regional offices of the <a href="/wiki/Meteorological_Service_of_Canada" title="Meteorological Service of Canada">Meteorological Service of Canada</a> branch of <a class="mw-redirect" href="/wiki/Environment_Canada" title="Environment Canada">Environment Canada</a> in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>, <a href="/wiki/Edmonton" title="Edmonton">Edmonton</a>, <a href="/wiki/Winnipeg" title="Winnipeg">Winnipeg</a>, <a href="/wiki/Toronto" title="Toronto">Toronto</a>, <a href="/wiki/Montreal" title="Montreal">Montreal</a> and <a class="mw-redirect" href="/wiki/Halifax_Regional_Municipality" title="Halifax Regional Municipality">Halifax</a><sup class="reference" id="cite_ref-Canada_12-0"><a href="#cite_note-Canada-12">[12]</a></sup> (in the province of <a href="/wiki/Ontario" title="Ontario">Ontario</a>, Emergency Management Ontario recently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (October 2015)">when?</span></a></i>]</sup> began issuing red alerts for areas of the province that are already under an Environment Canada-issued tornado warning; these red alerts sometimes override the tornado warning if local government or media are participating in the program).</p>
+<p>Tornado warnings are generated via the Advance Weather Interactive Processing System (<a class="mw-redirect" href="/wiki/AWIPS" title="AWIPS">AWIPS</a>) and then disseminated through various communication routes accessed by the media and various agencies, on the internet, to <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">NOAA</a> satellites, and on <a href="/wiki/NOAA_Weather_Radio" title="NOAA Weather Radio">NOAA Weather Radio</a>.<sup class="reference" id="cite_ref-Dissemination_13-0"><a href="#cite_note-Dissemination-13">[13]</a></sup> <a href="/wiki/Civil_defense_siren" title="Civil defense siren">Tornado sirens</a> are also usually activated for the affected areas if present (the actual areas where sirens are activated may vary depending on the relay structure of a given jurisdiction's siren network, with some municipalities activating all sirens within their network even in areas not referenced as being included in the warning). Local police or fire departments may dispatch crews not assigned to an existing emergency call to travel within a designated area to warn residents to take tornado safety precautions if sirens are disabled due to technical problems or are not present, while <a href="/wiki/Auto_dialer" title="Auto dialer">automated phone calls</a> may be made to residents for the same purpose in some areas should such disruptions occur.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> Additionally, if it is deemed necessary, the National Weather Service has the option of requesting activation of the <a href="/wiki/Emergency_Alert_System" title="Emergency Alert System">Emergency Alert System</a> to interrupt television and radio broadcasts to get the bulletin out quickly.</p>
+<p>Advances in technology, both in identifying conditions and in distributing warnings effectively, have been credited with reducing the death toll from tornadoes. The average warning times have increased substantially from -10 to -15 minutes in 1974 to about 15 minutes as of 2013<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Tornado_warning&amp;action=edit">[update]</a></sup> (in some cases, the lead time can extend to more than an hour's warning of impending tornadoes). In the United States, the tornado death rate has declined from 1.8 deaths per million people per year in 1925 to only 0.11 per million in 2000.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Much of this change is credited to improvements in the tornado warning system, via the various advances in the detection of severe local storms, along with an increase in reports visually confirming severe weather activity via storm spotters, public officials and citizens.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2010)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Ground_truthing">Ground truthing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=5" title="Edit section: Ground truthing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a class="mw-redirect" href="/wiki/SKYWARN" title="SKYWARN">SKYWARN</a> program, which trains citizens on how to spot tornadoes, funnel clouds, wall clouds, and other severe weather phenomena, is offered by the National Weather Service.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> Used in tandem with Doppler radar information, eyewitness reports can be very helpful for warning the public of an impending tornado, especially when used for <a href="/wiki/Ground_truth" title="Ground truth">ground truthing</a>.<sup class="reference" id="cite_ref-Groundtruth3_17-0"><a href="#cite_note-Groundtruth3-17">[17]</a></sup></p>
+<p>Other spotter groups such as the <a href="/wiki/Amateur_Radio_Emergency_Service" title="Amateur Radio Emergency Service">Amateur Radio Emergency Service</a>, news media, local <a class="mw-redirect" href="/wiki/Law_enforcement_agencies" title="Law enforcement agencies">law enforcement agencies</a>/<a href="/wiki/Emergency_management" title="Emergency management">emergency management</a> organizations, <a href="/wiki/National_Weather_Service#Surface_observations" title="National Weather Service">cooperative observers</a>, and the general public also relay information to the National Weather Service for ground truthing.<sup class="reference" id="cite_ref-Groundtruth4_18-0"><a href="#cite_note-Groundtruth4-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=6" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" data-file-height="160" data-file-width="160" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" width="50"/></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em">
+<div class="haudio">
+<div style="padding:4px 0"><a href="/wiki/File:NWR_audio_Greensburg,_Kansas_tornado_May_4,_2007.ogg" title="File:NWR audio Greensburg, Kansas tornado May 4, 2007.ogg">Greensburg tornado warning</a></div>
+<div>
+<div class="mediaContainer" style="width:220px"><audio class="kskin" controls="" data-durationhint="71.172" data-mwprovider="wikimediacommons" data-mwtitle="NWR_audio_Greensburg,_Kansas_tornado_May_4,_2007.ogg" data-startoffset="0" id="mwe_player_0" preload="none" style="width:220px">
+<source data-bandwidth="45699" data-height="0" data-shorttitle="Ogg source" data-title="Original Ogg file (46 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/1/10/NWR_audio_Greensburg%2C_Kansas_tornado_May_4%2C_2007.ogg" type='audio/ogg; codecs="vorbis"'/>
+<track data-dir="ltr" data-mwprovider="wikimediacommons" data-mwtitle="TimedText:NWR_audio_Greensburg,_Kansas_tornado_May_4,_2007.ogg.en.srt" kind="subtitles" label="English (en) subtitles" src="https://commons.wikimedia.org/w/index.php?title=TimedText:NWR_audio_Greensburg,_Kansas_tornado_May_4,_2007.ogg.en.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="en" type="text/x-srt"/></audio></div>
+</div>
+<div class="description" style="padding:2px 0 0 0">The NOAA Weather Radio audio of a tornado warning issued for Greensburg, Kansas on May 4, 2007. Greensburg was struck by an EF-5 tornado while the warning was in effect.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mbox-text" colspan="2" style="line-height:1.1em">
+<hr/>
+<span><i>Problems playing this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<table class="mbox-small" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" data-file-height="160" data-file-width="160" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" width="50"/></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em">
+<div class="haudio">
+<div style="padding:4px 0"><a href="/wiki/File:TOR.wav" title="File:TOR.wav">Tornado warning South Carolina</a></div>
+<div>
+<div class="mediaContainer" style="width:220px"><audio class="kskin" controls="" data-durationhint="130.3946031746" data-mwprovider="wikimediacommons" data-mwtitle="TOR.wav" data-startoffset="0" id="mwe_player_1" preload="none" style="width:220px">
+<source data-bandwidth="78840" data-height="0" data-shorttitle="Ogg Vorbis" data-title="Ogg Vorbis" data-transcodekey="ogg" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/43/TOR.wav/TOR.wav.ogg" type='audio/ogg; codecs="vorbis"'/>
+<source data-bandwidth="705600" data-height="0" data-shorttitle="WAV source" data-title="Original WAV file (706 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/4/43/TOR.wav" type="audio/wav"/></audio></div>
+</div>
+<div class="description" style="padding:2px 0 0 0">A tornado warning issued in South Carolina during the <a href="/wiki/Tornado_outbreak_of_November_27%E2%80%9330,_2016" title="Tornado outbreak of November 27–30, 2016">tornado outbreak of November 27–30, 2016</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mbox-text" colspan="2" style="line-height:1.1em">
+<hr/>
+<span><i>Problems playing this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p>Below is an example of a Tornado Warning issued by the <a href="/wiki/National_Weather_Service_Norman,_Oklahoma" title="National Weather Service Norman, Oklahoma">National Weather Service office in Norman, Oklahoma</a>, using the new experimental Impact Based Warning (IBW) format.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></p>
+<pre>
+000
+WFUS54 KOUN 252341
+TOROUN
+OKC017-109-260015-
+/O.NEW.KOUN.TO.W.0001.150325T2341Z-150326T0015Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+TORNADO WARNING
+NATIONAL WEATHER SERVICE NORMAN OK
+641 PM CDT WED MAR 25 2015
+
+THE NATIONAL WEATHER SERVICE IN NORMAN HAS ISSUED A
+
+* TORNADO WARNING FOR...
+  WESTERN OKLAHOMA COUNTY IN CENTRAL OKLAHOMA...
+  SOUTHEASTERN CANADIAN COUNTY IN CENTRAL OKLAHOMA...
+
+* UNTIL 715 PM CDT
+* AT 639 PM CDT...A SEVERE THUNDERSTORM CAPABLE OF PRODUCING A
+  TORNADO WAS LOCATED OVER MOORE...MOVING EAST AT 40 MPH.
+
+  HAZARD...TORNADO AND GOLF BALL SIZE HAIL.
+
+  SOURCE...RADAR INDICATED ROTATION.
+
+  IMPACT...FLYING DEBRIS WILL BE DANGEROUS TO THOSE CAUGHT WITHOUT 
+           SHELTER. MOBILE HOMES WILL BE DAMAGED OR DESTROYED. 
+           DAMAGE TO ROOFS...WINDOWS AND VEHICLES WILL OCCUR.  TREE 
+           DAMAGE IS LIKELY.
+
+* THIS DANGEROUS STORM WILL BE NEAR...
+  TINKER AIR FORCE BASE AROUND 645 PM CDT.
+
+OTHER LOCATIONS IMPACTED BY THIS TORNADIC THUNDERSTORM INCLUDE WILL
+ROGERS AIRPORT...THE FAIRGROUNDS...SMITH VILLAGE...THE CAPITOL...LAKE
+ALUMA...WOODLAWN PARK...WILEY POST AIRPORT AND FOREST PARK.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+THIS TORNADO WARNING REPLACES THE SEVERE THUNDERSTORM WARNING ISSUED
+FOR THE SAME AREA.
+
+&amp;&amp;
+
+LAT...LON 3538 9731 3538 9767 3537 9767 3537 9778
+      3544 9785 3561 9774 3567 9733
+TIME...MOT...LOC 2339Z 279DEG 34KT 3534 9750
+
+TORNADO...RADAR INDICATED
+HAIL...1.75IN
+
+$$
+
+MBS
+</pre>
+<p>Below is an example of an Environment Canada-issued tornado warning for southeastern <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>.</p>
+<pre>
+344
+WFCN13 CWWG 262334
+TORNADO WARNING
+UPDATED BY ENVIRONMENT CANADA
+AT 5:34 PM CST TUESDAY 26 JUNE 2012.
+----
+TORNADO WARNING FOR:
+      R.M. OF WHEATLANDS INCLUDING MORTLACH AND PARKBEG
+      R.M. OF CARON INCLUDING CARONPORT AND CARON
+      R.M. OF MOOSE JAW INCLUDING PASQUA AND BUSHELL PARK
+      CITY OF MOOSE JAW.
+
+TORNADO WARNING ENDED FOR:
+      R.M. OF RODGERS INCLUDING CODERRE AND COURVAL
+      R.M. OF HILLSBOROUGH INCLUDING CRESTWYND AND OLD WIVES LAKE.
+
+----
+==DISCUSSION==
+AT 5:30 PM CST, PUBLIC REPORTS A LARGE TORNADO CURRENTLY ON THE
+GROUND WEST OF MOOSE JAW. RADAR INDICATES THE SEVERE THUNDERSTORM
+ASSOCIATED WITH THIS TORNADO IS CURRENTLY JUST SOUTH OF MORTLACH AND
+IS SLOWLY TRACKING NORTHEASTWARDS TOWARDS THE CITY OF MOOSE JAW.
+
+</pre>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Severe_weather_terminology_(United_States)" title="Severe weather terminology (United States)">Severe weather terminology (United States)</a></li>
+<li><a href="/wiki/Emergency_Broadcast_System" title="Emergency Broadcast System">Emergency Broadcast System</a></li>
+<li><a href="/wiki/Emergency_Alert_System" title="Emergency Alert System">Emergency Alert System</a></li>
+<li><a href="/wiki/Microburst" title="Microburst">Microburst</a></li>
+<li><a class="mw-redirect" href="/wiki/Emergency_Communication_System" title="Emergency Communication System">Emergency Communication System</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tornado_warning&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-stormwarning1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-stormwarning1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stormwarning1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-stormwarning1_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Nancy Mathis (2007). <i>Storm Warning: The Story of a Killer Tornado</i>. <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Touchstone</a>. pp. 41–43. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7432-8053-2" title="Special:BookSources/978-0-7432-8053-2">978-0-7432-8053-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.au=Nancy+Mathis&amp;rft.btitle=Storm+Warning%3A+The+Story+of+a+Killer+Tornado&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-7432-8053-2&amp;rft.pages=41-43&amp;rft.pub=Touchstone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-stormwarning2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-stormwarning2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stormwarning2_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Nancy Mathis (2007). <i>Storm Warning: The Story of a Killer Tornado</i>. Touchstone. pp. 44–47. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7432-8053-2" title="Special:BookSources/978-0-7432-8053-2">978-0-7432-8053-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.au=Nancy+Mathis&amp;rft.btitle=Storm+Warning%3A+The+Story+of+a+Killer+Tornado&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-7432-8053-2&amp;rft.pages=44-47&amp;rft.pub=Touchstone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-stormwarning3-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-stormwarning3_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stormwarning3_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-stormwarning3_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-stormwarning3_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Nancy Mathis (2007). <i>Storm Warning: The Story of a Killer Tornado</i>. Touchstone. pp. 47–53. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7432-8053-2" title="Special:BookSources/978-0-7432-8053-2">978-0-7432-8053-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.au=Nancy+Mathis&amp;rft.btitle=Storm+Warning%3A+The+Story+of+a+Killer+Tornado&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-7432-8053-2&amp;rft.pages=47-53&amp;rft.pub=Touchstone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Roger_Edwards_(meteorologist)" title="Roger Edwards (meteorologist)">Roger Edwards</a>. <a class="external text" href="http://www.spc.noaa.gov/faq/tornado/#Forecasting" rel="nofollow">"The Online Tornado FAQ"</a>. <a href="/wiki/Storm_Prediction_Center" title="Storm Prediction Center">Storm Prediction Center</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 6,</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.au=Roger+Edwards&amp;rft.btitle=The+Online+Tornado+FAQ&amp;rft.genre=unknown&amp;rft.pub=Storm+Prediction+Center&amp;rft_id=http%3A%2F%2Fwww.spc.noaa.gov%2Ffaq%2Ftornado%2F%23Forecasting&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://tulsatvmemories.com/weather.html" rel="nofollow">"Tulsa TV Weather"</a>. <i>Tulsa TV Memories</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 11,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=Tulsa+TV+Weather&amp;rft.genre=unknown&amp;rft.jtitle=Tulsa+TV+Memories&amp;rft_id=http%3A%2F%2Ftulsatvmemories.com%2Fweather.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Timothy A. Coleman (May 2011). <a class="external text" href="http://journals.ametsoc.org/doi/pdf/10.1175/2010BAMS3062.1" rel="nofollow">"The History (and Future) of Tornado Warning Dissemination in the United States"</a> <span style="font-size:85%;">(<a class="mw-redirect" href="/wiki/PDF" title="PDF">PDF</a>)</span>. <i>Bulletin of the American Meteorological Society</i>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. <b>92</b>: 567–582. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F2010BAMS3062.1" rel="nofollow">10.1175/2010BAMS3062.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=The+History+%28and+Future%29+of+Tornado+Warning+Dissemination+in+the+United+States&amp;rft.au=Timothy+A.+Coleman&amp;rft.date=2011-05&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=567-582&amp;rft.volume=92&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fpdf%2F10.1175%2F2010BAMS3062.1&amp;rft_id=info%3Adoi%2F10.1175%2F2010BAMS3062.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-stormwarning4-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-stormwarning4_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Nancy Mathis (2007). <i>Storm Warning: The Story of a Killer Tornado</i>. Touchstone. p. 85. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7432-8053-2" title="Special:BookSources/978-0-7432-8053-2">978-0-7432-8053-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.au=Nancy+Mathis&amp;rft.btitle=Storm+Warning%3A+The+Story+of+a+Killer+Tornado&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-7432-8053-2&amp;rft.pages=85&amp;rft.pub=Touchstone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.accuweather.com/en/weather-news/catastrophic-and-unsurvivable/63553" rel="nofollow">"<span style="padding-left:0.2em;">'</span>CATASTROPHIC': Experimental Tornado Warnings to be Explicit"</a>. <i><a href="/wiki/AccuWeather" title="AccuWeather">AccuWeather</a></i>. AccuWeather, Inc. April 5, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=%27CATASTROPHIC%27%3A+Experimental+Tornado+Warnings+to+be+Explicit&amp;rft.date=2012-04-05&amp;rft.genre=article&amp;rft.jtitle=AccuWeather&amp;rft_id=http%3A%2F%2Fwww.accuweather.com%2Fen%2Fweather-news%2Fcatastrophic-and-unsurvivable%2F63553&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Definition-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Definition_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Definition_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nws.noaa.gov/glossary/index.php?word=Tornado+Warning" rel="nofollow">"Tornado Warning"</a>. <i>NOAA National Weather Service Glossary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=Tornado+Warning&amp;rft.genre=unknown&amp;rft.jtitle=NOAA+National+Weather+Service+Glossary&amp;rft_id=http%3A%2F%2Fwww.nws.noaa.gov%2Fglossary%2Findex.php%3Fword%3DTornado%2BWarning&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Example2-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Example2_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Example2_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Paul Howerton (June 12, 2008). <a class="external text" href="http://mesonet.agron.iastate.edu/vtec/#2008-O-NEW-KICT-TO-W-0049" rel="nofollow">"Tornado Warning"</a>. <i>Iowa Environmental Mesonet NWS Product Archive</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=Tornado+Warning&amp;rft.au=Paul+Howerton&amp;rft.date=2008-06-12&amp;rft.genre=unknown&amp;rft.jtitle=Iowa+Environmental+Mesonet+NWS+Product+Archive&amp;rft_id=http%3A%2F%2Fmesonet.agron.iastate.edu%2Fvtec%2F%232008-O-NEW-KICT-TO-W-0049&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Storm-based-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Storm-based_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.weather.gov/sbwarnings/" rel="nofollow">"Storm-Based Warnings: Why Storm-Based Warnings?"</a>. NOAA Warning Decision Training Branch. February 26, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">January 11,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.btitle=Storm-Based+Warnings%3A+Why+Storm-Based+Warnings%3F&amp;rft.date=2008-02-26&amp;rft.genre=unknown&amp;rft.pub=NOAA+Warning+Decision+Training+Branch&amp;rft_id=http%3A%2F%2Fwww.weather.gov%2Fsbwarnings%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Canada-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Canada_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.pnr-rpn.ec.gc.ca/air/severewthr/warning.en.html" rel="nofollow">"Prairie and Northern Region Weather Watch and Weather Warning Criteria: Tornado warning"</a>. <a class="mw-redirect" href="/wiki/Environment_Canada" title="Environment Canada">Environment Canada</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.btitle=Prairie+and+Northern+Region+Weather+Watch+and+Weather+Warning+Criteria%3A+Tornado+warning&amp;rft.genre=unknown&amp;rft.pub=Environment+Canada&amp;rft_id=http%3A%2F%2Fwww.pnr-rpn.ec.gc.ca%2Fair%2Fseverewthr%2Fwarning.en.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Dissemination-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dissemination_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nws.noaa.gov/om/disemsys.shtml" rel="nofollow">"NWS Dissemination Services"</a>. NWS Office of Climate, Water, and Weather Services<span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.btitle=NWS+Dissemination+Services&amp;rft.genre=unknown&amp;rft.pub=NWS+Office+of+Climate%2C+Water%2C+and+Weather+Services&amp;rft_id=http%3A%2F%2Fwww.nws.noaa.gov%2Fom%2Fdisemsys.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">National Weather Service Twin Cities, MN (April 22, 2010). <a class="external text" href="http://www.webcitation.org/5uzwPG3io?url=http://www.crh.noaa.gov/mpx/?n=swaw" rel="nofollow">"Severe Weather Awareness Week"</a>. National Oceanic and Atmospheric Administration. Archived from <a class="external text" href="http://www.crh.noaa.gov/mpx/?n=swaw" rel="nofollow">the original</a> on December 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">December 15,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.au=National+Weather+Service+Twin+Cities%2C+MN&amp;rft.btitle=Severe+Weather+Awareness+Week&amp;rft.date=2010-04-22&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.crh.noaa.gov%2Fmpx%2F%3Fn%3Dswaw&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://mattcuttsalerts.com/tornado-warnings/" rel="nofollow">"Tornado Warnings Infographic"</a>. <i>Matt Cutt's Alerts</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 18,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=Tornado+Warnings+Infographic&amp;rft.genre=unknown&amp;rft.jtitle=Matt+Cutt%27s+Alerts&amp;rft_id=http%3A%2F%2Fmattcuttsalerts.com%2Ftornado-warnings%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ict-skywarn.org/" rel="nofollow">"SKYWARN"</a>. <i><a class="mw-redirect" href="/wiki/SKYWARN" title="SKYWARN">SKYWARN</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 13,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=SKYWARN&amp;rft.genre=unknown&amp;rft.jtitle=SKYWARN&amp;rft_id=http%3A%2F%2Fwww.ict-skywarn.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Groundtruth3-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Groundtruth3_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Andy Wood (November 10, 2008). <a class="external text" href="http://www.wdtb.noaa.gov/modules/spotters/player.html" rel="nofollow">"Spotter Report Data Quality"</a>. Warning Decision Training Branch: 3<span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=Spotter+Report+Data+Quality&amp;rft.au=Andy+Wood&amp;rft.date=2008-11-10&amp;rft.genre=article&amp;rft.pages=3&amp;rft_id=http%3A%2F%2Fwww.wdtb.noaa.gov%2Fmodules%2Fspotters%2Fplayer.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Groundtruth4-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Groundtruth4_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Andy Wood (November 10, 2008). <a class="external text" href="http://www.wdtb.noaa.gov/modules/spotters/player.html" rel="nofollow">"Spotter Report Data Quality"</a>. Warning Decision Training Branch: 4<span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=Spotter+Report+Data+Quality&amp;rft.au=Andy+Wood&amp;rft.date=2008-11-10&amp;rft.genre=article&amp;rft.pages=4&amp;rft_id=http%3A%2F%2Fwww.wdtb.noaa.gov%2Fmodules%2Fspotters%2Fplayer.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://nwschat.weather.gov/vtec/#2015-O-NEW-KOUN-TO-W-0001/USCOMP-N0Q-201503252340" rel="nofollow">"Valid Time Extent Code (VTEC) App"</a>. <i>NWSChat</i>. National Weather Service<span class="reference-accessdate">. Retrieved <span class="nowrap">May 16,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATornado+warning&amp;rft.atitle=Valid+Time+Extent+Code+%28VTEC%29+App&amp;rft.genre=unknown&amp;rft.jtitle=NWSChat&amp;rft_id=https%3A%2F%2Fnwschat.weather.gov%2Fvtec%2F%232015-O-NEW-KOUN-TO-W-0001%2FUSCOMP-N0Q-201503252340&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<div aria-labelledby="Severe_weather_terminology_in_the_United_States" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Severe_weather_terminology_(United_States)_navbox" title="Template:Severe weather terminology (United States) navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Severe_weather_terminology_(United_States)_navbox" title="Template talk:Severe weather terminology (United States) navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Severe_weather_terminology_(United_States)_navbox&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Severe_weather_terminology_in_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Severe_weather_terminology_(United_States)" title="Severe weather terminology (United States)">Severe weather terminology in the United States</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Severe<br/>
+storms</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Thunderstorm</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Significant_weather_advisory" title="Significant weather advisory">Advisory</a></li>
+<li><a href="/wiki/Severe_thunderstorm_watch" title="Severe thunderstorm watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Severe_thunderstorm_warning" title="Severe thunderstorm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Tornado" title="Tornado">Tornado</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tornado_watch" title="Tornado watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a class="mw-selflink selflink">Warning</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Warning</a></li>
+<li><a href="/wiki/Tornado_emergency" title="Tornado emergency">Emergency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Marine thunderstorm</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Special_marine_warning" title="Special marine warning">Special marine warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Winter<br/>
+weather</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Advisories</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winter_weather_advisory" title="Winter weather advisory">Winter weather advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Winter_storm" title="Winter storm">Winter storm</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winter_storm_watch" title="Winter storm watch">Watch</a></li>
+<li><a href="/wiki/Winter_storm_warning" title="Winter storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Blizzard" title="Blizzard">Blizzard/Blowing snow</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blowing_snow_advisory" title="Blowing snow advisory">Blowing snow advisory</a></li>
+<li><a href="/wiki/Blizzard_Watch" title="Blizzard Watch">Blizzard Watch</a></li>
+<li><a href="/wiki/Blizzard_Warning" title="Blizzard Warning">Blizzard Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Heavy snow</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heavy_snow_warning" title="Heavy snow warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Lake-effect_snow" title="Lake-effect snow">Lake-effect snow</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lake_effect_snow_advisory" title="Lake effect snow advisory">Advisory</a></li>
+<li><a href="/wiki/Lake_effect_snow_watch" title="Lake effect snow watch">Watch</a></li>
+<li><a href="/wiki/Lake_effect_snow_warning" title="Lake effect snow warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Ice_storm" title="Ice storm">Ice</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freezing_rain_advisory" title="Freezing rain advisory">Freezing rain advisory</a></li>
+<li><a href="/wiki/Ice_storm_warning" title="Ice storm warning">Ice storm warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Tropical_cyclone_warnings_and_watches" title="Tropical cyclone warnings and watches">Tropical<br/>
+cyclones</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Tropical_storms" title="Tropical storms">Tropical storms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Tropical_storm_watch" title="Tropical storm watch">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Tropical_storm_warning" title="Tropical storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Hurricanes" title="Hurricanes">Hurricanes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Hurricane_Watch" title="Hurricane Watch">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Hurricane_warning" title="Hurricane warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Inland_advisories" title="Inland advisories">Inland advisories</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Inland_Tropical_Storm_Watch" title="Inland Tropical Storm Watch">Inland Tropical Storm Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Tropical_Storm_Warning" title="Inland Tropical Storm Warning">Inland Tropical Storm Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Hurricane_Watch" title="Inland Hurricane Watch">Inland Hurricane Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Hurricane_Warning" title="Inland Hurricane Warning">Inland Hurricane Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Hurricane_Local_Statement" title="Hurricane Local Statement">Hurricane Local Statement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Flood" title="Flood">Flood</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Flood" title="Flood">Flood</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Flood_watch" title="Flood watch">Watch</a></li>
+<li><a href="/wiki/Flood_warning" title="Flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Flash_flood" title="Flash flood">Flash flood</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flash_flood_watch" title="Flash flood watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Flash_flood_warning" title="Flash flood warning">Warning</a></li>
+<li><a href="/wiki/Flash_flood_warning" title="Flash flood warning">Emergency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Coastal_flood" title="Coastal flood">Coastal flood</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coastal_flood_advisory" title="Coastal flood advisory">Advisory</a></li>
+<li><a href="/wiki/Coastal_flood_watch" title="Coastal flood watch">Watch</a></li>
+<li><a href="/wiki/Coastal_flood_warning" title="Coastal flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Lakeshore flood</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_advisory&amp;action=edit&amp;redlink=1" title="Lakeshore flood advisory (page does not exist)">Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_watch&amp;action=edit&amp;redlink=1" title="Lakeshore flood watch (page does not exist)">Watch</a></li>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_warning&amp;action=edit&amp;redlink=1" title="Lakeshore flood warning (page does not exist)">Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Seiche_Warning" title="Seiche Warning">Seiche Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">River flood</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/River_flood_advisory" title="River flood advisory">Advisory</a></li>
+<li><a href="/wiki/River_flood_watch" title="River flood watch">Watch</a></li>
+<li><a href="/wiki/River_flood_warning" title="River flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Urban and small stream flood</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Urban_and_small_stream_flood_advisory" title="Urban and small stream flood advisory">Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Apparent_temperature" title="Apparent temperature">Apparent<br/>
+temperature</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Heat_index" title="Heat index">Heat index</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heat_advisory" title="Heat advisory">Heat advisory</a></li>
+<li><a href="/wiki/Excessive_heat_watch" title="Excessive heat watch">Excessive heat watch</a></li>
+<li><a href="/wiki/Excessive_heat_warning" title="Excessive heat warning">Excessive heat warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind_chill_advisory" title="Wind chill advisory">Advisory</a></li>
+<li><a href="/wiki/Wind_chill_watch" title="Wind chill watch">Watch</a></li>
+<li><a href="/wiki/Wind_chill_warning" title="Wind chill warning">Warning</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Extreme cold</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Extreme_cold_watch&amp;action=edit&amp;redlink=1" title="Extreme cold watch (page does not exist)">Watch</a></li>
+<li><a href="/wiki/Extreme_cold_warning" title="Extreme cold warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Freeze</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Freeze_Watch&amp;action=edit&amp;redlink=1" title="Freeze Watch (page does not exist)">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Freeze_Warning" title="Freeze Warning">Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Hard_Freeze_Warning" title="Hard Freeze Warning">Hard Freeze Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Frost_Advisory" title="Frost Advisory">Frost Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Maritime<br/>
+and<br/>
+coastal<br/>
+weather</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Marine winds</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Small_craft_advisory" title="Small craft advisory">Small craft advisory</a></li>
+<li><a class="mw-redirect" href="/wiki/Brisk_wind_advisory" title="Brisk wind advisory">Brisk wind advisory</a></li>
+<li><a href="/wiki/Lake_Wind_Advisory" title="Lake Wind Advisory">Lake Wind Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Gale" title="Gale">Gale</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gale_watch" title="Gale watch">Watch</a></li>
+<li><a href="/wiki/Gale_warning" title="Gale warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Storm</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Storm_watch" title="Storm watch">Watch</a></li>
+<li><a href="/wiki/Storm_warning" title="Storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Hurricane-force wind</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Hurricane_force_wind_watch&amp;action=edit&amp;redlink=1" title="Hurricane force wind watch (page does not exist)">Watch</a></li>
+<li><a href="/wiki/Hurricane_force_wind_warning" title="Hurricane force wind warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Hazardous seas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hazardous_seas_watch" title="Hazardous seas watch">Watch</a></li>
+<li><a href="/wiki/Hazardous_seas_warning" title="Hazardous seas warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Freezing spray</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freezing_spray_advisory" title="Freezing spray advisory">Freezing spray advisory</a></li>
+<li><a href="/wiki/Heavy_freezing_spray_watch" title="Heavy freezing spray watch">Heavy freezing spray watch</a></li>
+<li><a href="/wiki/Heavy_freezing_spray_warning" title="Heavy freezing spray warning">Heavy freezing spray warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">High surf</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=High_surf_advisory&amp;action=edit&amp;redlink=1" title="High surf advisory (page does not exist)">Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=High_surf_warning&amp;action=edit&amp;redlink=1" title="High surf warning (page does not exist)">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Marine_weather_statement" title="Marine weather statement">Marine weather statement</a></li>
+<li><a href="/wiki/Rip_current_statement" title="Rip current statement">Rip current statement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Wind</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Advisory-force winds</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Wind_Advisory" title="Wind Advisory">Wind Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Gale" title="Gale">Gale</a>-force winds</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/High_wind_watch" title="High wind watch">High wind watch</a></li>
+<li><a class="mw-redirect" href="/wiki/High_wind_warning" title="High wind warning">High wind warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Major hurricane-force winds</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extreme_wind_warning" title="Extreme wind warning">Extreme wind warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Particulates" title="Particulates">Airborne<br/>
+particulates</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Dust/sand</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Blowing_Dust_Advisory&amp;action=edit&amp;redlink=1" title="Blowing Dust Advisory (page does not exist)">Blowing Dust Advisory</a></li>
+<li><a href="/wiki/Dust_Storm_Warning" title="Dust Storm Warning">Dust Storm Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Fog" title="Fog">Fog</a>/<a href="/wiki/Smoke" title="Smoke">Smoke</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Dense_Fog_Advisory" title="Dense Fog Advisory">Dense Fog Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=Dense_Smoke_Advisory&amp;action=edit&amp;redlink=1" title="Dense Smoke Advisory (page does not exist)">Dense Smoke Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Volcanic_ash" title="Volcanic ash">Ash</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Ashfall_Advisory&amp;action=edit&amp;redlink=1" title="Ashfall Advisory (page does not exist)">Ashfall Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Air_pollution" title="Air pollution">Air pollution</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Air_Stagnation_Advisory" title="Air Stagnation Advisory">Air Stagnation Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Wildfire" title="Wildfire">Fire</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Fire_weather_watch&amp;action=edit&amp;redlink=1" title="Fire weather watch (page does not exist)">Fire weather watch</a></li>
+<li><a href="/wiki/Red_flag_warning" title="Red flag warning">Red flag warning</a></li>
+<li><a href="/wiki/Fire_warning" title="Fire warning">Fire warning</a></li>
+<li><a href="/wiki/Evacuation_Immediate" title="Evacuation Immediate">Evacuation Immediate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a class="mw-redirect" href="/wiki/Aviation_meteorology" title="Aviation meteorology">Aviation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Center_Weather_Advisory&amp;action=edit&amp;redlink=1" title="Center Weather Advisory (page does not exist)">Center Weather Advisory</a></li>
+<li><a href="/wiki/SIGMET" title="SIGMET">SIGMET</a></li>
+<li><a href="/wiki/Volcanic_Ash_Advisory_Center#Alerts" title="Volcanic Ash Advisory Center">Volcanic Ash Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Weather scales<br/>
+used by NWS</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort</a> (wind)</li>
+<li><a href="/wiki/Enhanced_Fujita_scale" title="Enhanced Fujita scale">Enhanced Fujita</a> (tornadoes)</li>
+<li><a href="/wiki/Saffir%E2%80%93Simpson_scale" title="Saffir–Simpson scale">Saffir–Simpson scale</a> (tropical cyclones)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Special_weather_statement" title="Special weather statement">Special weather statement</a></li>
+<li><a class="mw-redirect" href="/wiki/Severe_weather_statement" title="Severe weather statement">Severe weather statement</a></li>
+<li><a href="/wiki/Hazardous_weather_outlook" title="Hazardous weather outlook">Hazardous weather outlook</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20171021114838
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.393 seconds
+Preprocessor visited node count: 1799/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 115175/2097152 bytes
+Template argument size: 1609/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 7.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  315.125      1 -total
+ 43.53%  137.183      1 Template:Reflist
+ 14.72%   46.398      9 Template:Navbox
+ 14.66%   46.195      2 Template:Fix
+ 14.13%   44.541     11 Template:Cite_web
+ 12.62%   39.781      1 Template:When
+ 12.34%   38.892      4 Template:Cite_book
+ 10.65%   33.574      1 Template:SevWea_nav
+  8.83%   27.836      3 Template:Convert
+  7.20%   22.693      4 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:275591-0!canonical and timestamp 20171021114838 and revision id 798583024
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tornado_warning&amp;oldid=798583024">https://en.wikipedia.org/w/index.php?title=Tornado_warning&amp;oldid=798583024</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tornado" title="Category:Tornado">Tornado</a></li><li><a href="/wiki/Category:Weather_warnings_and_advisories" title="Category:Weather warnings and advisories">Weather warnings and advisories</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_October_2015" title="Category:Vague or ambiguous time from October 2015">Vague or ambiguous time from October 2015</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2013" title="Category:Articles containing potentially dated statements from 2013">Articles containing potentially dated statements from 2013</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2010" title="Category:Articles with unsourced statements from April 2010">Articles with unsourced statements from April 2010</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tornado+warning" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tornado+warning" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Tornado_warning" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Tornado_warning" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Tornado_warning">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Tornado_warning&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Tornado_warning&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tornado_warning" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tornado_warning" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tornado_warning&amp;oldid=798583024" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tornado_warning&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3297873" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tornado_warning&amp;id=798583024" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tornado+warning">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tornado+warning&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tornado_warning&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Alerta_de_tornado" hreflang="es" lang="es" title="Alerta de tornado – Spanish">Español</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Tornado_warning" hreflang="simple" lang="simple" title="Tornado warning – Simple English">Simple English</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3297873#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 September 2017, at 19:03.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tornado_warning&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.393","ppvisitednodes":{"value":1799,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":115175,"limit":2097152},"templateargumentsize":{"value":1609,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  315.125      1 -total"," 43.53%  137.183      1 Template:Reflist"," 14.72%   46.398      9 Template:Navbox"," 14.66%   46.195      2 Template:Fix"," 14.13%   44.541     11 Template:Cite_web"," 12.62%   39.781      1 Template:When"," 12.34%   38.892      4 Template:Cite_book"," 10.65%   33.574      1 Template:SevWea_nav","  8.83%   27.836      3 Template:Convert","  7.20%   22.693      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.158","limit":"10.000"},"limitreport-memusage":{"value":7898056,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20171021114838","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1219"});});</script>
+</body>
+</html>

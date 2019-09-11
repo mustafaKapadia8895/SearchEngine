@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Nephrops norvegicus - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nephrops_norvegicus","wgTitle":"Nephrops norvegicus","wgCurRevisionId":806902858,"wgRevisionId":806902858,"wgArticleId":1489133,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Articles containing French-language text","Articles containing Greek-language text","Encyclopedia of Life ID not in Wikidata","Pages using the others parameter in Template:TaxonIds","Articles containing Latin-language text","Good articles","IUCN Red List least concern species","True lobsters","Edible crustaceans","Commercial crustaceans","Crustaceans of the Atlantic Ocean","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nephrops_norvegicus","wgRelevantArticleId":1489133,"wgRequestId":"WgJ-tgpAICsAADRprRsAAABU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Norwegian_lobster","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Nephrops_norvegicus","wgWikibaseItemId":"Q551915","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nephrops_norvegicus.jpg/1200px-Nephrops_norvegicus.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nephrops_norvegicus" rel="alternate"/>
+<link href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Nephrops_norvegicus" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nephrops_norvegicus rootpage-Nephrops_norvegicus vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><i>Nephrops norvegicus</i></h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Norwegian_lobster&amp;redirect=no" title="Norwegian lobster">Norwegian lobster</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the biological species often called "scampi". For other uses, see <a class="mw-disambig" href="/wiki/Scampi_(disambiguation)" title="Scampi (disambiguation)">Scampi (disambiguation)</a>.</div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><i>Nephrops norvegicus</i></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Nephrops_norvegicus.jpg"><img alt="Nephrops norvegicus.jpg" data-file-height="2100" data-file-width="2800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nephrops_norvegicus.jpg/220px-Nephrops_norvegicus.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nephrops_norvegicus.jpg/330px-Nephrops_norvegicus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nephrops_norvegicus.jpg/440px-Nephrops_norvegicus.jpg 2x" width="220"/></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2">
+<div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" data-file-height="64" data-file-width="240" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" width="220"/><br/>
+<a class="mw-redirect" href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small> (<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>) <sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Nephrops" title="e"><img alt="e" data-file-height="16" data-file-width="16" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a></td>
+</tr>
+<tr>
+<td><i>Clade</i>:</td>
+<td><a href="/wiki/Arthropod" title="Arthropod">Euarthropoda</a></td>
+</tr>
+<tr>
+<td>Subphylum:</td>
+<td><a href="/wiki/Crustacean" title="Crustacean">Crustacea</a></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><a href="/wiki/Malacostraca" title="Malacostraca">Malacostraca</a></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><a href="/wiki/Decapoda" title="Decapoda">Decapoda</a></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><a class="mw-redirect" href="/wiki/Nephropidae" title="Nephropidae">Nephropidae</a></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><i><a href="/wiki/Nephrops" title="Nephrops">Nephrops</a></i></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species"><i><b>N. norvegicus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Nephrops norvegicus</i></span></b><br/>
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a>)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a> <sup class="reference" id="cite_ref-MLW_2-0"><a href="#cite_note-MLW-2">[2]</a></sup></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>Cancer norvegicus</i> <small>Linnaeus, 1758</small></li>
+<li><i>Astacus norvegicus</i> <small><a href="/wiki/Johan_Christian_Fabricius" title="Johan Christian Fabricius">Fabricius</a>, 1775</small></li>
+<li><i>Homarus norvegicus</i> <small><a href="/wiki/Friedrich_Weber_(entomologist)" title="Friedrich Weber (entomologist)">Weber</a>, 1795</small></li>
+<li><i>Astacus rugosus</i> <small><a href="/wiki/Constantine_Samuel_Rafinesque" title="Constantine Samuel Rafinesque">Rafinesque</a>, 1814</small></li>
+<li><i>Nephropsis cornubiensis</i> <small><a href="/wiki/Charles_Spence_Bate" title="Charles Spence Bate">Bate</a> &amp; <a class="new" href="/w/index.php?title=Joshua_Brooking_Rowe&amp;action=edit&amp;redlink=1" title="Joshua Brooking Rowe (page does not exist)">Rowe</a>, 1880</small></li>
+</ul>
+</td>
+</tr>
+</table>
+<p><i><b>Nephrops norvegicus</b></i>, known variously as the <b>Norway lobster</b>, <b>Dublin Bay prawn</b>, <i><b><span lang="fr" xml:lang="fr">langoustine</span></b></i> (compare <a href="/wiki/Langostino" title="Langostino">langostino</a>) or <i><b><a href="/wiki/Scampi" title="Scampi">scampi</a></b></i>, is a slim, orange-pink <a href="/wiki/Lobster" title="Lobster">lobster</a> which grows up to 25 cm (10 in) long, and is "the most important commercial crustacean in Europe".<sup class="reference" id="cite_ref-Bell_3-0"><a href="#cite_note-Bell-3">[3]</a></sup> It is now the only extant species in the genus <i><a href="/wiki/Nephrops" title="Nephrops">Nephrops</a></i>, after several other species were moved to the closely related genus <i><a href="/wiki/Metanephrops" title="Metanephrops">Metanephrops</a></i>. It lives in the north-eastern <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, and parts of the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>, but is absent from the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> and <a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a>. Adults emerge from their <a href="/wiki/Burrow" title="Burrow">burrows</a> at night to feed on <a href="/wiki/Worm" title="Worm">worms</a> and <a href="/wiki/Fish" title="Fish">fish</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ecology"><span class="tocnumber">3</span> <span class="toctext">Ecology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Diet"><span class="tocnumber">3.1</span> <span class="toctext">Diet</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Parasites_and_symbionts"><span class="tocnumber">3.2</span> <span class="toctext">Parasites and symbionts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Life_cycle"><span class="tocnumber">4</span> <span class="toctext">Life cycle</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Fisheries"><span class="tocnumber">5</span> <span class="toctext">Fisheries</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Taxonomic_history"><span class="tocnumber">6</span> <span class="toctext">Taxonomic history</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#External_links"><span class="tocnumber">8.1</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Bibliography"><span class="tocnumber">8.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Nephrops norvegicus</i> has the typical body shape of a <a href="/wiki/Lobster" title="Lobster">lobster</a>, albeit narrower than the large <i><a href="/wiki/Homarus" title="Homarus">Homarus</a></i> genus.<sup class="reference" id="cite_ref-Bell_3-1"><a href="#cite_note-Bell-3">[3]</a></sup> It is pale orange in colour, and grows to a typical length of 18–20 centimetres (7–8 in), or exceptionally 25 cm (10 in) long, including the tail and <a href="/wiki/Claw" title="Claw">claws</a>.<sup class="reference" id="cite_ref-Marlin_4-0"><a href="#cite_note-Marlin-4">[4]</a></sup> A <a href="/wiki/Carapace" title="Carapace">carapace</a> covers the animal's <a href="/wiki/Cephalothorax" title="Cephalothorax">cephalothorax</a>, while the abdomen is long and segmented, ending in a broad tail fan.<sup class="reference" id="cite_ref-Marlin_4-1"><a href="#cite_note-Marlin-4">[4]</a></sup> The first three pairs of legs bear claws, of which the first are greatly elongated and bear ridges of <a href="/wiki/Spine_(zoology)" title="Spine (zoology)">spines</a>.<sup class="reference" id="cite_ref-Marlin_4-2"><a href="#cite_note-Marlin-4">[4]</a></sup> Of the two pairs of <a href="/wiki/Antenna_(biology)" title="Antenna (biology)">antennae</a>, the second is the longer and thinner.<sup class="reference" id="cite_ref-Marlin_4-3"><a href="#cite_note-Marlin-4">[4]</a></sup> There is a long, spinous <a href="/wiki/Rostrum_(anatomy)" title="Rostrum (anatomy)">rostrum</a>, and the <a class="mw-redirect" href="/wiki/Compound_eye" title="Compound eye">compound eyes</a> are <a href="/wiki/Kidney" title="Kidney">kidney</a>-shaped, providing the name of the genus, from the <a href="/wiki/Greek_language" title="Greek language">Greek</a> <a href="/wiki/Root_(linguistics)" title="Root (linguistics)">roots</a> <span lang="el" xml:lang="el"><a class="extiw" href="https://en.wiktionary.org/wiki/%CE%BD%CE%B5%CF%86%CF%81%CF%8C%CF%82" title="wikt:νεφρός">νεφρός</a></span> (<i><a class="extiw" href="https://en.wiktionary.org/wiki/nephros" title="wikt:nephros">nephros</a></i>, "kidney") and <i>ops</i> ("eye").<sup class="reference" id="cite_ref-Bell_3-2"><a href="#cite_note-Bell-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Nephrops norvegicus</i> is found in the north-eastern <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> and <a href="/wiki/North_Sea" title="North Sea">North Sea</a> as far north as <a href="/wiki/Iceland" title="Iceland">Iceland</a> and northern <a href="/wiki/Norway" title="Norway">Norway</a>, and south to <a href="/wiki/Portugal" title="Portugal">Portugal</a>. It is not common in the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> except in the <a href="/wiki/Adriatic_Sea" title="Adriatic Sea">Adriatic Sea</a>,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> notably the north Adriatic.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> It is absent from both the <a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a> and the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a>.<sup class="reference" id="cite_ref-Bell_3-3"><a href="#cite_note-Bell-3">[3]</a></sup> Due to its ecological demands for particular sediments, <i>N. norvegicus</i> has a very patchy distribution, and is divided into over 30 populations. These populations are separated by inhospitable terrain, and adults rarely travel distances greater than a few hundred metres.<sup class="reference" id="cite_ref-Bell_3-4"><a href="#cite_note-Bell-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Ecology">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=3" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg"><img alt="" class="thumbimage" data-file-height="1480" data-file-width="2592" height="126" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg/220px-Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg/330px-Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg/440px-Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Monaco.Mus%C3%A9e_oc%C3%A9anographique083.jpg" title="Enlarge"></a></div>
+A Norway lobster in its burrow, at the <a href="/wiki/Oceanographic_Museum" title="Oceanographic Museum">Oceanographic Museum</a> in <a href="/wiki/Monaco" title="Monaco">Monaco</a></div>
+</div>
+</div>
+<p><i>Nephrops norvegicus</i> adults prefer to inhabit muddy seabed sediments, with more than 40 percent silt and clay.<sup class="reference" id="cite_ref-Bell_3-5"><a href="#cite_note-Bell-3">[3]</a></sup> Their <a href="/wiki/Burrow" title="Burrow">burrows</a> are semi-permanent,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and vary in structure and size. Typical burrows are 20 to 30 centimetres (8 to 12 in) deep, with a distance of 50 to 80 centimetres (20 to 31 in) between the front and back entrances.<sup class="reference" id="cite_ref-Bell_3-6"><a href="#cite_note-Bell-3">[3]</a></sup> Norway lobsters spend most of their time either lying in their burrows or by the entrance, only leaving their shelters to forage or mate.<sup class="reference" id="cite_ref-Bell_3-7"><a href="#cite_note-Bell-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Diet">Diet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=4" title="Edit section: Diet">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Nephrops norvegicus</i> is a <a href="/wiki/Scavenger" title="Scavenger">scavenger</a> and <a class="mw-redirect" href="/wiki/Predator" title="Predator">predator</a><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> that makes short foraging excursions,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> mainly during periods of subdued light. They feed on active prey, including <a href="/wiki/Worm" title="Worm">worms</a> and <a href="/wiki/Fish" title="Fish">fish</a>,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> which they capture with their <a class="mw-redirect" href="/wiki/Cheliped" title="Cheliped">chelipeds</a> and walking legs, and food is conveyed to the mouth using the anterior walking legs, assisted by the <a class="mw-redirect" href="/wiki/Maxilliped" title="Maxilliped">maxillipeds</a>.<sup class="reference" id="cite_ref-Bell_3-8"><a href="#cite_note-Bell-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Parasites_and_symbionts">Parasites and symbionts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=5" title="Edit section: Parasites and symbionts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Nephrops norvegicus</i> is the <a href="/wiki/Host_(biology)" title="Host (biology)">host</a> to a number of <a href="/wiki/Parasitism" title="Parasitism">parasites</a> and <a href="/wiki/Symbiosis" title="Symbiosis">symbionts</a>. A number of <a class="mw-redirect" href="/wiki/Sessility_(zoology)" title="Sessility (zoology)">sessile</a> organisms attach to the <a href="/wiki/Exoskeleton" title="Exoskeleton">exoskeleton</a> of <i>N. norvegicus</i>, including the <a href="/wiki/Barnacle" title="Barnacle">barnacle</a> <i><a href="/wiki/Balanus_crenatus" title="Balanus crenatus">Balanus crenatus</a></i> and the <a href="/wiki/Foraminifera" title="Foraminifera">foraminiferan</a> <i><a class="new" href="/w/index.php?title=Cyclogyra&amp;action=edit&amp;redlink=1" title="Cyclogyra (page does not exist)">Cyclogyra</a></i>, but overall <i>Nephrops</i> suffers fewer infestations of such <a href="/wiki/Epibiont" title="Epibiont">epibionts</a> than other decapod crustaceans do.<sup class="reference" id="cite_ref-Stentiford_12-0"><a href="#cite_note-Stentiford-12">[12]</a></sup> In December 1995, the <a href="/wiki/Commensalism" title="Commensalism">commensal</a> <i><a href="/wiki/Symbion_pandora" title="Symbion pandora">Symbion pandora</a></i> was discovered attached to the <a href="/wiki/Arthropod_mouthparts" title="Arthropod mouthparts">mouthparts</a> of <i>Nephrops norvegicus</i>, and was found to be the first member of a new <a href="/wiki/Phylum" title="Phylum">phylum</a>, <a href="/wiki/Symbion" title="Symbion">Cycliophora</a>,<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> a finding described by <a href="/wiki/Simon_Conway_Morris" title="Simon Conway Morris">Simon Conway Morris</a> as "the zoological highlight of the decade".<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> <i>S. pandora</i> has been found in many populations of <i>N. norvegicus</i>, both in the north Atlantic and in the Mediterranean Sea.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Individuals may be found on most segments of the lobster's mouthparts, but are generally concentrated on the central parts of the larger mouthparts, from the <a href="/wiki/Mandible_(arthropod_mouthpart)" title="Mandible (arthropod mouthpart)">mandible</a> to the third <a class="mw-redirect" href="/wiki/Maxilliped" title="Maxilliped">maxilliped</a>.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<p>The most significant parasite of <i>N. norvegicus</i> is a <a href="/wiki/Dinoflagellate" title="Dinoflagellate">dinoflagellate</a> of the genus <i><a href="/wiki/Hematodinium" title="Hematodinium">Hematodinium</a></i>, which has caused <a href="/wiki/Epidemic" title="Epidemic">epidemic</a> infection in fished populations of <i>N. norvegicus</i> since the 1980s.<sup class="reference" id="cite_ref-Stentiford_12-1"><a href="#cite_note-Stentiford-12">[12]</a></sup> <i>Hematodinium</i> is a genus that contains major pathogens of a wide variety of decapod crustaceans, although its internal taxonomy is poorly resolved.<sup class="reference" id="cite_ref-Stentiford_12-2"><a href="#cite_note-Stentiford-12">[12]</a></sup> The species which attacks <i>N. norvegicus</i> causes a <a href="/wiki/Syndrome" title="Syndrome">syndrome</a> originally described as "post-moult syndrome", in which the <a href="/wiki/Carapace" title="Carapace">carapace</a> turns opaque and becomes highly pigmented, the <a href="/wiki/Hemolymph" title="Hemolymph">haemolymph</a> becomes milky white, and the animal appears <a class="extiw" href="https://en.wiktionary.org/wiki/moribund" title="wikt:moribund">moribund</a>.<sup class="reference" id="cite_ref-Stentiford_12-3"><a href="#cite_note-Stentiford-12">[12]</a></sup> Other parasites of <i>N. norvegicus</i> include the <a href="/wiki/Gregarinasina" title="Gregarinasina">gregarine</a> <a href="/wiki/Protozoa" title="Protozoa">protozoan</a> <i><a class="new" href="/w/index.php?title=Porospora_nephropis&amp;action=edit&amp;redlink=1" title="Porospora nephropis (page does not exist)">Porospora nephropis</a></i>, the <a href="/wiki/Trematoda" title="Trematoda">trematode</a> <i><a href="/wiki/Stichocotyle" title="Stichocotyle">Stichocotyle nephropis</a></i> and the <a href="/wiki/Polychaete" title="Polychaete">polychaete</a> <i><a class="new" href="/w/index.php?title=Histriobdella_homari&amp;action=edit&amp;redlink=1" title="Histriobdella homari (page does not exist)">Histriobdella homari</a></i>.<sup class="reference" id="cite_ref-Stentiford_12-4"><a href="#cite_note-Stentiford-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Life_cycle">Life cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=6" title="Edit section: Life cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Nephrops_norvegicus_with_roe.JPG"><img alt="" class="thumbimage" data-file-height="1623" data-file-width="2611" height="137" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nephrops_norvegicus_with_roe.JPG/220px-Nephrops_norvegicus_with_roe.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nephrops_norvegicus_with_roe.JPG/330px-Nephrops_norvegicus_with_roe.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nephrops_norvegicus_with_roe.JPG/440px-Nephrops_norvegicus_with_roe.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Nephrops_norvegicus_with_roe.JPG" title="Enlarge"></a></div>
+Adult female <i>N. norvegicus</i> with eggs</div>
+</div>
+</div>
+<p>The typical <a href="/wiki/Longevity" title="Longevity">life span</a> of <i>N. norvegicus</i> is 5–10 years,<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> reaching 15 years in exceptional cases.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> Its <a class="mw-redirect" href="/wiki/Reproductive_cycle" title="Reproductive cycle">reproductive cycle</a> varies depending on geographical position: "the periods of hatching and spawning, and the length of the incubation period, vary with latitude and the breeding cycle changes from annual to biennial as one moves from south to north".<sup class="reference" id="cite_ref-Bell_3-9"><a href="#cite_note-Bell-3">[3]</a></sup> Incubation of eggs is <a href="/wiki/Temperature" title="Temperature">temperature</a>-dependent, and in colder climates, the duration of the incubation period increases. This means that, by the time hatching occurs, it may be too late for the females to take part in that year's breeding cycle. In warmer climates, the combined effects of recovery from <a href="/wiki/Ecdysis" title="Ecdysis">moulting</a> and ovary maturation mean that spawning can become delayed. This, in turn, has the effect of the female missing out a year of egg carrying.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></p>
+<p>Adult male <i>Nephrops norvegicus</i> <a href="/wiki/Ecdysis" title="Ecdysis">moult</a> once or twice a year (usually in late winter or spring) and adult females moult up to once a year (in late winter or spring, after hatching of the eggs).<sup class="reference" id="cite_ref-Bell_3-10"><a href="#cite_note-Bell-3">[3]</a></sup> In annual breeding cycles, mating takes place in the spring or winter, when the females are in the soft, post-moult state.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> The ovaries mature throughout the spring and summer months, and egg-laying takes place in late summer or early autumn. After spawning, the berried (egg-carrying) females return to their burrows and remain there until the end of the incubation period. Hatching takes place in late winter or early spring. Soon after hatching, the females moult and mate again.<sup class="reference" id="cite_ref-Bell_3-11"><a href="#cite_note-Bell-3">[3]</a></sup></p>
+<p>During the planktonic larval stage (typically 1 to 2 months in duration) the nephrops larvae exhibit a diel vertical migration behaviour as they are dispersed by the local currents. This complex biophysical interaction determines the fate of the larvae; the overlap between advective pathway destination and spatial distributions of suitable benthic habitats must be favourable in order for the larvae to settle and reach maturity.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Fisheries">Fisheries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=7" title="Edit section: Fisheries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Norway_Lobster_Scotland.jpg"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Norway_Lobster_Scotland.jpg/220px-Norway_Lobster_Scotland.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Norway_Lobster_Scotland.jpg/330px-Norway_Lobster_Scotland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Norway_Lobster_Scotland.jpg/440px-Norway_Lobster_Scotland.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Norway_Lobster_Scotland.jpg" title="Enlarge"></a></div>
+Freshly caught <i>Nephrops norvegicus</i> in <a href="/wiki/Scotland" title="Scotland">Scotland</a></div>
+</div>
+</div>
+<p>The muscular tail of <i>Nephrops norvegicus</i> is frequently eaten, and its meat is known as <i><a href="/wiki/Scampi" title="Scampi">scampi</a></i>. The <i>N. norvegicus</i> is eaten only on special occasions in <a href="/wiki/Spain" title="Spain">Spain</a> and Portugal, where it is less expensive than the common lobster, <i><a href="/wiki/Homarus_gammarus" title="Homarus gammarus">Homarus gammarus</a></i>.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> <i>N. norvegicus</i> is an important species for <a href="/wiki/Lobster_fishing" title="Lobster fishing">fisheries</a>, being caught mostly by <a href="/wiki/Trawling" title="Trawling">trawling</a>. Around 60,000 <a href="/wiki/Tonne" title="Tonne">tonnes</a> are caught annually, half of it in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>'s <a class="mw-redirect" href="/wiki/Exclusive_Economic_Zone" title="Exclusive Economic Zone">waters</a>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></p>
+<p>Besides the established trawling fleets, a significant number of fleets using <a href="/wiki/Creel_(basket)" title="Creel (basket)">lobster creels</a> have developed. The better size and condition of lobsters caught by this method yield prices three to four times higher than animals netted by trawling. Creel fishing was found to have a reduced impact on the seafloor, require lower fuel consumption, and allow fishermen with smaller boats to participate in this high-value fishery. It has therefore been described as a reasonable alternative to demersal towed gears, and the allocation of additional fishing rights for this type of take has been suggested.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></p>
+<p>The North East Atlantic individual biological stocks of Nephrops are identified as functional units. A number of functional units make up the sea areas over which a total allowable catch (TAC) is set annually by the EU Council of Ministers. For example, the TAC set for North Sea Nephrops is based on the aggregate total tonnage of removals recommended by science for nine separate functional unit areas. This method has attracted criticism because it can promote the over-exploitation of a specific functional unit even though the overall TAC is under-fished. In 2016, the UK implemented a package of emergency technical measures aimed at recovering the Nephrop stock in the Farn(e) Deeps off North East England which is close to collapse. A 2017 assessment performed by the <a href="/wiki/International_Council_for_the_Exploration_of_the_Sea" title="International Council for the Exploration of the Sea">International Council for the Exploration of the Sea</a> (ICES) indicates the beginning of biomass expansion, but that controls on fishing effort will need to continue at least until the biomass reaches a size that is sustainable when measured against the level of fishing activity by all fishers wanting to target the stock.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></p>
+<p>Discards from <i>Nephrops</i> fishery may account for up to 37% of the <a class="mw-redirect" href="/wiki/Ecological_energetics" title="Ecological energetics">energy requirements</a> of certain marine <a href="/wiki/Scavenger" title="Scavenger">scavengers</a>, such as the <a href="/wiki/Hagfish" title="Hagfish">hagfish</a> <i><a href="/wiki/Myxine_glutinosa" title="Myxine glutinosa">Myxine glutinosa</a></i>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> Boats involved in <i>Nephrops</i> fishery also catch a number of fish species such as <a href="/wiki/European_plaice" title="European plaice">plaice</a> and <a href="/wiki/Common_sole" title="Common sole">sole</a>, and it is thought that without that revenue, <i>Nephrops</i> fishery would be economically unviable.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Taxonomic_history">Taxonomic history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=8" title="Edit section: Taxonomic history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox plainlinks" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:100%; background: #ffdead;">External identifiers for <i>Nephrops norvegicus</i></th>
+</tr>
+<tr>
+<th scope="row" style="background: #ddd; font-weight:normal;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">Encyclopedia of Life</a></th>
+<td style="text-align:left;"><a class="external text" href="http://www.eol.org/pages/128512" rel="nofollow">128512</a></td>
+</tr>
+<tr>
+<th scope="row" style="background: #ddd; font-weight:normal;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a></th>
+<td style="text-align:left;"><a class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=97317" rel="nofollow">97317</a></td>
+</tr>
+<tr>
+<th scope="row" style="background: #ddd; font-weight:normal;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a></th>
+<td style="text-align:left;"><a class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=6829" rel="nofollow">6829</a></td>
+</tr>
+<tr>
+<th scope="row" style="background: #ddd; font-weight:normal;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a></th>
+<td style="text-align:left;"><a class="external text" href="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=107254" rel="nofollow">107254</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left;">Also found in: <a class="extiw" href="https://species.wikimedia.org/wiki/Nephrops_norvegicus" title="wikispecies:Nephrops norvegicus">Wikispecies</a>, <a class="external text" href="http://www.marlin.ac.uk/speciesinformation.php?speciesID=3892" rel="nofollow">MarLIN</a> &amp; <a class="external text" href="http://www.sealifebase.org/summary/speciessummary.php?id=26023" rel="nofollow">SeaLifeBase</a></td>
+</tr>
+</table>
+<p><i>Nephrops norvegicus</i> was one of the species included by <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carl Linnaeus</a> in his 1758 <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">10th edition</a> of <i><span lang="la" xml:lang="la"><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></span></i>, the starting point for <a class="mw-redirect" href="/wiki/Zoological_nomenclature" title="Zoological nomenclature">zoological nomenclature</a>. In that work, it was listed as <i><span lang="la" xml:lang="la">Cancer Norvegicus</span></i>, with a <a class="mw-redirect" href="/wiki/Type_locality_(biology)" title="Type locality (biology)">type locality</a> of <i><span lang="la" xml:lang="la">in Mari Norvegico</span></i> ("in the Norwegian sea").<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> In choosing a <a class="mw-redirect" href="/wiki/Lectotype" title="Lectotype">lectotype</a>, <a href="/wiki/Lipke_Holthuis" title="Lipke Holthuis">Lipke Holthuis</a> restricted the type locality to the <a href="/wiki/Kattegat" title="Kattegat">Kattegat</a> at the <a href="/wiki/Kullaberg" title="Kullaberg">Kullen Peninsula</a> in southern <a href="/wiki/Sweden" title="Sweden">Sweden</a> (<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nephrops_norvegicus&amp;params=56_18_N_12_28_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">56°18′N</span> <span class="longitude">12°28′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">56.300°N 12.467°E</span><span style="display:none">﻿ / <span class="geo">56.300; 12.467</span></span></span></a></span>).<sup class="reference" id="cite_ref-MLW_2-1"><a href="#cite_note-MLW-2">[2]</a></sup> Two <a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">synonyms</a> of the species have been published<sup class="reference" id="cite_ref-MLW_2-2"><a href="#cite_note-MLW-2">[2]</a></sup> – "<i>Astacus rugosus</i>", described by the eccentric zoologist <a href="/wiki/Constantine_Samuel_Rafinesque" title="Constantine Samuel Rafinesque">Constantine Samuel Rafinesque</a> in 1814 from material collected in the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>,<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> and "<i>Nephropsis cornubiensis</i>", described by <a href="/wiki/Charles_Spence_Bate" title="Charles Spence Bate">Charles Spence Bate</a> and <a class="new" href="/w/index.php?title=Joshua_Brooking_Rowe&amp;action=edit&amp;redlink=1" title="Joshua Brooking Rowe (page does not exist)">Joshua Brooking Rowe</a> in 1880.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></p>
+<p>As new genera were erected, the species was moved, reaching its current position in 1814, when <a href="/wiki/William_Elford_Leach" title="William Elford Leach">William Elford Leach</a> erected the genus <i><a href="/wiki/Nephrops" title="Nephrops">Nephrops</a></i> to hold this species alone.<sup class="reference" id="cite_ref-MLW_2-3"><a href="#cite_note-MLW-2">[2]</a></sup><sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> Seven <a href="/wiki/Fossil" title="Fossil">fossil</a> species have since been described in the genus.<sup class="reference" id="cite_ref-Grave_32-0"><a href="#cite_note-Grave-32">[32]</a></sup></p>
+<p>Populations in the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> are sometimes separated as "<i>Nephrops norvegicus</i> var. <i>meridionalis</i> Zariquiey, 1935", although this taxon is not universally considered valid.<sup class="reference" id="cite_ref-Bell_3-12"><a href="#cite_note-Bell-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web" id="CITEREFC._Bell2011">C. Bell (2011). <a class="external text" href="http://www.iucnredlist.org/details/169967" rel="nofollow">"<i>Nephrops norvegicus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2011.2</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species.+Version+2011.2&amp;rft.atitle=Nephrops+norvegicus&amp;rft.date=2011&amp;rft.au=C.+Bell&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F169967&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-MLW-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-MLW_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MLW_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-MLW_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-MLW_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Lipke_Holthuis" title="Lipke Holthuis">Lipke B. Holthuis</a> (1991). "<i>Nephrops norvegicus</i>". <a class="external text" href="http://nlbif.eti.uva.nl/bis/lobsters.php?menuentry=soorten&amp;id=107" rel="nofollow"><i>FAO Species Catalogue, Volume 13. Marine Lobsters of the World</i></a>. FAO Fisheries Synopsis No. 125. <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/92-5-103027-8" title="Special:BookSources/92-5-103027-8">92-5-103027-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Nephrops+norvegicus&amp;rft.btitle=FAO+Species+Catalogue%2C+Volume+13.+Marine+Lobsters+of+the+World&amp;rft.series=FAO+Fisheries+Synopsis+No.+125&amp;rft.pub=Food+and+Agriculture+Organization&amp;rft.date=1991&amp;rft.isbn=92-5-103027-8&amp;rft.au=Lipke+B.+Holthuis&amp;rft_id=http%3A%2F%2Fnlbif.eti.uva.nl%2Fbis%2Flobsters.php%3Fmenuentry%3Dsoorten%26id%3D107&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Bell-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bell_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bell_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bell_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Bell_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Bell_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Bell_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Bell_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Bell_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Bell_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Bell_3-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Bell_3-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Bell_3-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Bell_3-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Mike C. Bell; Frank Redant &amp; Ian Tuck (2006). "<i>Nephrops</i> Species". In Bruce F. Phillips. <a class="external text" href="https://books.google.com/books?id=9trV3lYnPmsC&amp;pg=PA412" rel="nofollow"><i>Lobsters: Biology, Management, Aquaculture and Fisheries</i></a>. <a href="/wiki/Wiley-Blackwell" title="Wiley-Blackwell">Wiley-Blackwell</a>. pp. 412–461. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F9780470995969.ch13" rel="nofollow">10.1002/9780470995969.ch13</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4051-2657-1" title="Special:BookSources/978-1-4051-2657-1">978-1-4051-2657-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Nephrops+Species&amp;rft.btitle=Lobsters%3A+Biology%2C+Management%2C+Aquaculture+and+Fisheries&amp;rft.pages=412-461&amp;rft.pub=Wiley-Blackwell&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1002%2F9780470995969.ch13&amp;rft.isbn=978-1-4051-2657-1&amp;rft.au=Mike+C.+Bell&amp;rft.au=Frank+Redant&amp;rft.au=Ian+Tuck&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9trV3lYnPmsC%26pg%3DPA412&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Marlin-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Marlin_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Marlin_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Marlin_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Marlin_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.marlin.ac.uk/speciesinformation.php?speciesID=3892" rel="nofollow">"Norway lobster - <i>Nephrops norvegicus</i>"</a>. <i>Biodiversity and Conservation</i>. <a href="/wiki/Marine_Life_Information_Network" title="Marine Life Information Network">Marine Life Information Network</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Biodiversity+and+Conservation&amp;rft.atitle=Norway+lobster+-+Nephrops+norvegicus&amp;rft_id=http%3A%2F%2Fwww.marlin.ac.uk%2Fspeciesinformation.php%3FspeciesID%3D3892&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Alan_Davidson_(food_writer)" title="Alan Davidson (food writer)">Alan Davidson</a> (2002). <i>Mediterranean Seafood</i>. <a href="/wiki/Ten_Speed_Press" title="Ten Speed Press">Ten Speed Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-58008-451-2" title="Special:BookSources/978-1-58008-451-2">978-1-58008-451-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mediterranean+Seafood&amp;rft.pub=Ten+Speed+Press&amp;rft.date=2002&amp;rft.isbn=978-1-58008-451-2&amp;rft.au=Alan+Davidson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.faoadriamed.org/html/Species/NephropsNorvegicus.html" rel="nofollow">"<i>Nephrops norvegicus</i> (Linnaeus, 1758)"</a>. <i>AdriaMed</i>. <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AdriaMed&amp;rft.atitle=Nephrops+norvegicus+%28Linnaeus%2C+1758%29&amp;rft_id=http%3A%2F%2Fwww.faoadriamed.org%2Fhtml%2FSpecies%2FNephropsNorvegicus.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">B. I. Dybern &amp; T. Hoisaeter (1965). "The burrows of <i>Nephrops norvegicus</i>". <i><a class="new" href="/w/index.php?title=Sarsia&amp;action=edit&amp;redlink=1" title="Sarsia (page does not exist)">Sarsia</a></i>. <b>21</b>: 49–55.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sarsia&amp;rft.atitle=The+burrows+of+Nephrops+norvegicus&amp;rft.volume=21&amp;rft.pages=49-55&amp;rft.date=1965&amp;rft.au=B.+I.+Dybern&amp;rft.au=T.+Hoisaeter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">H. J. Thomas &amp; C. Davidson (1962). "The food of the Norway lobster <i>Nephrops norvegicus</i>". <i><a href="/wiki/Marine_Research" title="Marine Research">Marine Research</a></i>. <b>3</b>: 1–15.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marine+Research&amp;rft.atitle=The+food+of+the+Norway+lobster+Nephrops+norvegicus&amp;rft.volume=3&amp;rft.pages=1-15&amp;rft.date=1962&amp;rft.au=H.+J.+Thomas&amp;rft.au=C.+Davidson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">C. J. Chapman &amp; A. L. Rice (1971). "Some direct observations on the ecology and behaviour of the Norway Lobster <i>Nephrops norvegicus</i> using different methods". <i><a href="/wiki/Marine_Biology_(journal)" title="Marine Biology (journal)">Marine Biology</a></i>. <b>10</b> (4): 321–329. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF00368092" rel="nofollow">10.1007/BF00368092</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marine+Biology&amp;rft.atitle=Some+direct+observations+on+the+ecology+and+behaviour+of+the+Norway+Lobster+Nephrops+norvegicus+using+different+methods&amp;rft.volume=10&amp;rft.issue=4&amp;rft.pages=321-329&amp;rft.date=1971&amp;rft_id=info%3Adoi%2F10.1007%2FBF00368092&amp;rft.au=C.+J.+Chapman&amp;rft.au=A.+L.+Rice&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation conference">C. J. Chapman; A. D. F. Johnstone &amp; A. L. Rice (1975). H. Barnes, ed. <i>The behaviour and ecology of the Norway lobster,</i> Nephrops norvegicus. Proceedings of the 9th European Marine Biological Symposium. <a href="/wiki/Aberdeen_University_Press" title="Aberdeen University Press">Aberdeen University Press</a>. pp. 59–74.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=The+behaviour+and+ecology+of+the+Norway+lobster%2C+Nephrops+norvegicus&amp;rft.pages=59-74&amp;rft.pub=Aberdeen+University+Press&amp;rft.date=1975&amp;rft.au=C.+J.+Chapman&amp;rft.au=A.+D.+F.+Johnstone&amp;rft.au=A.+L.+Rice&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">J. C. Early. <a class="external text" href="http://www.fao.org/wairdocs/tan/x5908E/x5908e01.htm" rel="nofollow">"Processing Norway lobsters"</a>. <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Processing+Norway+lobsters&amp;rft.pub=Food+and+Agriculture+Organization&amp;rft.au=J.+C.+Early&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Fwairdocs%2Ftan%2Fx5908E%2Fx5908e01.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Stentiford-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stentiford_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stentiford_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Stentiford_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Stentiford_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Stentiford_12-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Grant D. Stentiford &amp; Douglas M. Neil (2011). Grant Stentiford, ed. "Diseases of Edible Crustaceans". <i><a href="/wiki/Journal_of_Invertebrate_Pathology" title="Journal of Invertebrate Pathology">Journal of Invertebrate Pathology</a></i>. Diseases of <i>Nephrops</i> and <i>Metanephrops</i>: a review. <b>106</b> (1): 92–109. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jip.2010.09.017" rel="nofollow">10.1016/j.jip.2010.09.017</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21215358" rel="nofollow">21215358</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Invertebrate+Pathology&amp;rft.atitle=Diseases+of+Edible+Crustaceans&amp;rft.volume=106&amp;rft.issue=1&amp;rft.pages=92-109&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jip.2010.09.017&amp;rft_id=info%3Apmid%2F21215358&amp;rft.au=Grant+D.+Stentiford&amp;rft.au=Douglas+M.+Neil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peter Funch &amp; <a href="/wiki/Reinhardt_Kristensen" title="Reinhardt Kristensen">Reinhardt Kristensen</a> (1995). <a class="external text" href="http://www.nature.com/nature/journal/v378/n6558/abs/378711a0.html" rel="nofollow">"Cycliophora is a new phylum with affinities to Entoprocta and Ectoprocta"</a>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>378</b> (6558): 711–714. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1995Natur.378..711F" rel="nofollow">1995Natur.378..711F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F378711a0" rel="nofollow">10.1038/378711a0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Cycliophora+is+a+new+phylum+with+affinities+to+Entoprocta+and+Ectoprocta&amp;rft.volume=378&amp;rft.issue=6558&amp;rft.pages=711-714&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1038%2F378711a0&amp;rft_id=info%3Abibcode%2F1995Natur.378..711F&amp;rft.au=Peter+Funch&amp;rft.au=Reinhardt+Kristensen&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv378%2Fn6558%2Fabs%2F378711a0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Robert Bradley Jackson (2002). "The richness of life". <a class="external text" href="https://books.google.com/books?id=Bwz7EiFMMYIC&amp;pg=PA17" rel="nofollow"><i>The Earth Remains Forever: Generations at a Crossroads</i></a>. <a href="/wiki/University_of_Texas_Press" title="University of Texas Press">University of Texas Press</a>. pp. 15–62. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-292-74055-6" title="Special:BookSources/978-0-292-74055-6">978-0-292-74055-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+richness+of+life&amp;rft.btitle=The+Earth+Remains+Forever%3A+Generations+at+a+Crossroads&amp;rft.pages=15-62&amp;rft.pub=University+of+Texas+Press&amp;rft.date=2002&amp;rft.isbn=978-0-292-74055-6&amp;rft.au=Robert+Bradley+Jackson&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DBwz7EiFMMYIC%26pg%3DPA17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Matteo Dal Zotto &amp; M. Antonio Todaro (2008). G. Relini, ed. <a class="external text" href="http://www.gastrotricha.unimore.it/file-PDF/86.pdf" rel="nofollow">"La checklist della flora e della fauna dei mari italiani: Cycliophora"</a> <span style="font-size:85%;">(<a href="/wiki/Portable_Document_Format" title="Portable Document Format">PDF</a>)</span>. <i>Biologia Marina Mediterranea</i>. <b>15</b> (Suppl. 1): 178–181.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biologia+Marina+Mediterranea&amp;rft.atitle=La+checklist+della+flora+e+della+fauna+dei+mari+italiani%3A+Cycliophora&amp;rft.volume=15&amp;rft.issue=Suppl.+1&amp;rft.pages=178-181&amp;rft.date=2008&amp;rft.au=Matteo+Dal+Zotto&amp;rft.au=M.+Antonio+Todaro&amp;rft_id=http%3A%2F%2Fwww.gastrotricha.unimore.it%2Ffile-PDF%2F86.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Matthias Obst &amp; Peter Funch (2006). "The microhabitat of <i>Symbion pandora</i> (Cycliophora) on the mouthparts of its host <i>Nephrops norvegicus</i> (Decapoda: Nephropidae)". <i><a href="/wiki/Marine_Biology_(journal)" title="Marine Biology (journal)">Marine Biology</a></i>. <b>148</b> (5): 945–951. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs00227-005-0131-1" rel="nofollow">10.1007/s00227-005-0131-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marine+Biology&amp;rft.atitle=The+microhabitat+of+Symbion+pandora+%28Cycliophora%29+on+the+mouthparts+of+its+host+Nephrops+norvegicus+%28Decapoda%3A+Nephropidae%29&amp;rft.volume=148&amp;rft.issue=5&amp;rft.pages=945-951&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1007%2Fs00227-005-0131-1&amp;rft.au=Matthias+Obst&amp;rft.au=Peter+Funch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Marisa Sabatini &amp; Jacqueline Hill (2008). <a class="external text" href="http://www.marlin.ac.uk/reproduction.php?speciesID=3892" rel="nofollow">"Norway lobster - <i>Nephrops norvegicus</i>"</a>. <i>Marine Life Information Network</i>. <a href="/wiki/Marine_Biological_Association_of_the_United_Kingdom" title="Marine Biological Association of the United Kingdom">Marine Biological Association of the United Kingdom</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 14,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Marine+Life+Information+Network&amp;rft.atitle=Norway+lobster+-+Nephrops+norvegicus&amp;rft.date=2008&amp;rft.au=Marisa+Sabatini&amp;rft.au=Jacqueline+Hill&amp;rft_id=http%3A%2F%2Fwww.marlin.ac.uk%2Freproduction.php%3FspeciesID%3D3892&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.imr.no/om_havforskningsinstituttet/arrangementer/konferanser/icwl_bergen/lobster_research_at_imr_1/en" rel="nofollow">"Lobster research at IMR"</a>. <a href="/wiki/Norwegian_Institute_of_Marine_Research" title="Norwegian Institute of Marine Research">Norwegian Institute of Marine Research</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 14,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lobster+research+at+IMR&amp;rft.pub=Norwegian+Institute+of+Marine+Research&amp;rft_id=http%3A%2F%2Fwww.imr.no%2Fom_havforskningsinstituttet%2Farrangementer%2Fkonferanser%2Ficwl_bergen%2Flobster_research_at_imr_1%2Fen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">N. Bailey (1984). <i>Some Aspects of Reproduction in</i> Nephrops. Shellfish Committee Document CM 1984/K:33. <a href="/wiki/International_Council_for_the_Exploration_of_the_Sea" title="International Council for the Exploration of the Sea">International Council for the Exploration of the Sea</a>. p. 16.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Some+Aspects+of+Reproduction+in+Nephrops&amp;rft.series=Shellfish+Committee+Document+CM+1984%2FK%3A33&amp;rft.pages=16&amp;rft.pub=International+Council+for+the+Exploration+of+the+Sea&amp;rft.date=1984&amp;rft.au=N.+Bailey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book">A. S. D. Farmer (1975). <i>Synopsis of data on the Norway lobster</i> Nephrops norvegicus. FAO Fisheries Synopsis No. 112. <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization</a>. pp. 1–97.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Synopsis+of+data+on+the+Norway+lobster+Nephrops+norvegicus&amp;rft.series=FAO+Fisheries+Synopsis+No.+112&amp;rft.pages=1-97&amp;rft.pub=Food+and+Agriculture+Organization&amp;rft.date=1975&amp;rft.au=A.+S.+D.+Farmer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFPhelpsPoltonSouzaRobinson2015">Phelps, J.; Polton, J; Souza, A; Robinson, L (2015), <a class="external text" href="http://www.int-res.com/articles/meps_oa/m518p177.pdf" rel="nofollow">"Behaviour influences larval dispersal in shelf sea gyres: Nephrops norvegicus in the Irish Sea"</a> <span style="font-size:85%;">(PDF)</span>, <i>Mar. Ecol. Prog. Ser.</i>, <b>518</b>: 177–191, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3354%2Fmeps11040" rel="nofollow">10.3354/meps11040</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mar.+Ecol.+Prog.+Ser.&amp;rft.atitle=Behaviour+influences+larval+dispersal+in+shelf+sea+gyres%3A+Nephrops+norvegicus+in+the+Irish+Sea&amp;rft.volume=518&amp;rft.pages=177-191&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.3354%2Fmeps11040&amp;rft.aulast=Phelps&amp;rft.aufirst=J.&amp;rft.au=Polton%2C+J&amp;rft.au=Souza%2C+A&amp;rft.au=Robinson%2C+L&amp;rft_id=http%3A%2F%2Fwww.int-res.com%2Farticles%2Fmeps_oa%2Fm518p177.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Diego Pazos (September 15, 1995). <a class="external text" href="http://www.aquanic.org/publicat/govagen/fas/sp5039.htm" rel="nofollow">"Spain Annual Seafood Report"</a>. <a href="/wiki/List_of_diplomatic_missions_of_the_United_States" title="List of diplomatic missions of the United States">American Embassy, Madrid</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Spain+Annual+Seafood+Report&amp;rft.pub=American+Embassy%2C+Madrid&amp;rft.date=1995-09-15&amp;rft.au=Diego+Pazos&amp;rft_id=http%3A%2F%2Fwww.aquanic.org%2Fpublicat%2Fgovagen%2Ffas%2Fsp5039.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.fao.org/figis/servlet/species?fid=2647" rel="nofollow">"<i>Nephrops norvegicus</i>"</a>. <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">FAO</a>: <a class="new" href="/w/index.php?title=Fisheries_Global_Information_System&amp;action=edit&amp;redlink=1" title="Fisheries Global Information System (page does not exist)">Fisheries Global Information System</a> (FIGIS). February 26, 2004.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nephrops+norvegicus&amp;rft.pub=FAO%3A+Fisheries+Global+Information+System+%28FIGIS%29&amp;rft.date=2004-02-26&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Ffigis%2Fservlet%2Fspecies%3Ffid%3D2647&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leocádio, A. M.; Whitmarsh, D.; Castro, M. (2012). <a class="external text" href="http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0039567" rel="nofollow">"Comparing trawl and creel fishing for Norway lobster (Nephrops norvegicus): Biological and economic considerations"</a>. <i>PLoS ONE</i>. <b>7</b> (7): e39567.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLoS+ONE&amp;rft.atitle=Comparing+trawl+and+creel+fishing+for+Norway+lobster+%28Nephrops+norvegicus%29%3A+Biological+and+economic+considerations&amp;rft.volume=7&amp;rft.issue=7&amp;rft.pages=e39567&amp;rft.date=2012&amp;rft.aulast=Leoc%C3%A1dio&amp;rft.aufirst=A.+M.&amp;rft.au=Whitmarsh%2C+D.&amp;rft.au=Castro%2C+M.&amp;rft_id=http%3A%2F%2Fjournals.plos.org%2Fplosone%2Farticle%3Fid%3D10.1371%252Fjournal.pone.0039567&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ices.dk/sites/pub/Publication%20Reports/Advice/2017/2017/nep.fu.6.pdf" rel="nofollow">"ICES Advice on fishing opportunities, catch, and effort: Greater North Sea Ecoregion"</a> <span style="font-size:85%;">(PDF)</span>. ICES.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ICES+Advice+on+fishing+opportunities%2C+catch%2C+and+effort%3A+Greater+North+Sea+Ecoregion&amp;rft.pub=ICES&amp;rft_id=http%3A%2F%2Fices.dk%2Fsites%2Fpub%2FPublication%2520Reports%2FAdvice%2F2017%2F2017%2Fnep.fu.6.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">T. L. Catchpole; C. L. J. Frid &amp; T. S. Gray (2006). <a class="external text" href="http://www.cefas.co.uk/publications/publication-abstract.aspx?abstract=4321" rel="nofollow">"Importance of discards from the English <i>Nephrops norvegicus</i> fishery in the North Sea to marine scavengers"</a>. <i><a href="/wiki/Marine_Ecology_Progress_Series" title="Marine Ecology Progress Series">Marine Ecology Progress Series</a></i>. <b>313</b>: 215–226. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3354%2Fmeps313215" rel="nofollow">10.3354/meps313215</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marine+Ecology+Progress+Series&amp;rft.atitle=Importance+of+discards+from+the+English+Nephrops+norvegicus+fishery+in+the+North+Sea+to+marine+scavengers&amp;rft.volume=313&amp;rft.pages=215-226&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.3354%2Fmeps313215&amp;rft.au=T.+L.+Catchpole&amp;rft.au=C.+L.+J.+Frid&amp;rft.au=T.+S.+Gray&amp;rft_id=http%3A%2F%2Fwww.cefas.co.uk%2Fpublications%2Fpublication-abstract.aspx%3Fabstract%3D4321&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ivor Clucas (1997). <a class="external text" href="http://www.fao.org/docrep/W6602E/w6602E09.htm" rel="nofollow">"A study of the options for utilization of bycatch and discards from marine capture fisheries: 9.1.2 <i>Nephrops</i>"</a>. <i>FAO Fisheries Circular</i>. No. 928: FIIU/C928.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FAO+Fisheries+Circular&amp;rft.atitle=A+study+of+the+options+for+utilization+of+bycatch+and+discards+from+marine+capture+fisheries%3A+9.1.2+Nephrops&amp;rft.volume=No.+928&amp;rft.pages=FIIU%2FC928&amp;rft.date=1997&amp;rft.au=Ivor+Clucas&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Fdocrep%2FW6602E%2Fw6602E09.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carl Linnaeus</a> (1758). <a class="external text" href="http://www.biodiversitylibrary.org/item/10277#page/656/mode/1up" rel="nofollow">"<i>Cancer</i>"</a>. <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i> (<a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">10th</a> ed.). Stockholm: Laurentius Salvius. pp. 625–634.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Cancer&amp;rft.btitle=Systema+Naturae&amp;rft.place=Stockholm&amp;rft.pages=625-634&amp;rft.edition=10th&amp;rft.pub=Laurentius+Salvius&amp;rft.date=1758&amp;rft.au=Carl+Linnaeus&amp;rft_id=http%3A%2F%2Fwww.biodiversitylibrary.org%2Fitem%2F10277%23page%2F656%2Fmode%2F1up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Lipke_Holthuis" title="Lipke Holthuis">L. B. Holthuis</a> (1954). <a class="external text" href="http://www.repository.naturalis.nl/record/317812" rel="nofollow">"С. S. Rafinesque as a carcinologist: an annotated compilation of the information on Crustacea contained in the works of that author"</a>. <i><a href="/wiki/Zoologische_Mededelingen" title="Zoologische Mededelingen">Zoologische Mededelingen</a></i>. <b>25</b> (1): 1–43.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zoologische+Mededelingen&amp;rft.atitle=%D0%A1.+S.+Rafinesque+as+a+carcinologist%3A+an+annotated+compilation+of+the+information+on+Crustacea+contained+in+the+works+of+that+author&amp;rft.volume=25&amp;rft.issue=1&amp;rft.pages=1-43&amp;rft.date=1954&amp;rft.au=L.+B.+Holthuis&amp;rft_id=http%3A%2F%2Fwww.repository.naturalis.nl%2Frecord%2F317812&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Charles_Spence_Bate" title="Charles Spence Bate">Charles Spence Bate</a> &amp; <a class="new" href="/w/index.php?title=Joshua_Brooking_Rowe&amp;action=edit&amp;redlink=1" title="Joshua Brooking Rowe (page does not exist)">Joshua Brooking Rowe</a> (1880). "Second Report of the Committee, consisting of Mr. C. Spence Bate and Mr. J. Brooking Kowe, appointed for the purpose of exploring the Marine Zoology of South Devon". <a class="external text" href="https://archive.org/stream/reportofbritisha80brit#page/160/mode/2up" rel="nofollow"><i>Report of the Fiftieth Meeting of the British Association for the Advancement of Science</i></a>. London: <a href="/wiki/John_Murray_(publisher)" title="John Murray (publisher)">John Murray</a>. pp. 160–161.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Second+Report+of+the+Committee%2C+consisting+of+Mr.+C.+Spence+Bate+and+Mr.+J.+Brooking+Kowe%2C+appointed+for+the+purpose+of+exploring+the+Marine+Zoology+of+South+Devon&amp;rft.btitle=Report+of+the+Fiftieth+Meeting+of+the+British+Association+for+the+Advancement+of+Science&amp;rft.place=London&amp;rft.pages=160-161&amp;rft.pub=John+Murray&amp;rft.date=1880&amp;rft.au=Charles+Spence+Bate&amp;rft.au=Joshua+Brooking+Rowe&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Freportofbritisha80brit%23page%2F160%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/William_Elford_Leach" title="William Elford Leach">William Elford Leach</a> (1830). <a class="external text" href="https://archive.org/details/edinburghencycl05encygoog" rel="nofollow">"Crustaceology"</a>. In <a href="/wiki/David_Brewster" title="David Brewster">David Brewster</a>. <i>The Edinburgh Encyclopaedia</i>. <b>7</b>. pp. 383–437.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Crustaceology&amp;rft.btitle=The+Edinburgh+Encyclopaedia&amp;rft.pages=383-437&amp;rft.date=1830&amp;rft.au=William+Elford+Leach&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fedinburghencycl05encygoog&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Grave-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grave_32-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sammy De Grave; N. Dean Pentcheff; Shane T. Ahyong; et al. (2009). <a class="external text" href="http://rmbr.nus.edu.sg/rbz/biblio/s21/s21rbz1-109.pdf" rel="nofollow">"A classification of living and fossil genera of decapod crustaceans"</a> <span style="font-size:85%;">(PDF)</span>. <i><a class="mw-redirect" href="/wiki/Raffles_Bulletin_of_Zoology" title="Raffles Bulletin of Zoology">Raffles Bulletin of Zoology</a></i>. Suppl. 21: 1–109.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Raffles+Bulletin+of+Zoology&amp;rft.atitle=A+classification+of+living+and+fossil+genera+of+decapod+crustaceans&amp;rft.volume=Suppl.+21&amp;rft.pages=1-109&amp;rft.date=2009&amp;rft.au=Sammy+De+Grave&amp;rft.au=N.+Dean+Pentcheff&amp;rft.au=Shane+T.+Ahyong&amp;rft_id=http%3A%2F%2Frmbr.nus.edu.sg%2Frbz%2Fbiblio%2Fs21%2Fs21rbz1-109.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANephrops+norvegicus"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Charybdis_japonica.jpg"><img alt="icon" class="noviewer" data-file-height="1200" data-file-width="1600" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Charybdis_japonica.jpg/32px-Charybdis_japonica.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Charybdis_japonica.jpg/48px-Charybdis_japonica.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Charybdis_japonica.jpg/64px-Charybdis_japonica.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Crustaceans" title="Portal:Crustaceans">Crustaceans portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a class="external text" href="http://www.faoadriamed.org/html/Species/NephropsNorvegicus.html" rel="nofollow"><i>Nephrops norvegicus</i> (Linnaeus, 1758)</a>, FAOADRIAMED</li>
+<li><a class="external text" href="http://www.fao.org/fishery/species/2647/en" rel="nofollow">FAO Species Fact Sheet</a></li>
+<li><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Nephrops_norvegicus" title="commons:Category:Nephrops norvegicus"><i>Nephrops norvegicus</i></a> at Wikimedia Commons</li>
+</ul>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit&amp;section=12" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Murray, F., &amp; Cowie, P. R. (2011). « <a class="external text" href="http://wle.sourceshaper.com/resources/doc/misc/scampi.pdf" rel="nofollow"><i>Plastic contamination in the decapod crustacean Nephrops norvegicus (Linnaeus, 1758)</i>”</a>. Marine Pollution Bulletin, 62(6), 1207-1217</p>
+<div aria-labelledby="Irish_cuisine" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Irish_cuisine" title="Template:Irish cuisine"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Irish_cuisine" title="Template talk:Irish cuisine"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Irish_cuisine&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Irish_cuisine" style="font-size:114%;margin:0 4em"><a href="/wiki/Irish_cuisine" title="Irish cuisine">Irish cuisine</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/List_of_Irish_dishes" title="List of Irish dishes">List of Irish dishes</a></b></div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bacon_and_cabbage" title="Bacon and cabbage">Bacon and cabbage</a></li>
+<li><a href="/wiki/Barmbrack" title="Barmbrack">Barmbrack</a></li>
+<li><a href="/wiki/Blaa" title="Blaa">Blaa</a></li>
+<li><a href="/wiki/Boxty" title="Boxty">Boxty</a></li>
+<li><a href="/wiki/Brown_bread" title="Brown bread">Brown bread</a></li>
+<li><a href="/wiki/Chondrus_crispus" title="Chondrus crispus">Carrageen moss</a></li>
+<li><a href="/wiki/Champ_(food)" title="Champ (food)">Champ</a></li>
+<li><a href="/wiki/Clare_Island_Salmon" title="Clare Island Salmon">Clare Island Salmon</a></li>
+<li><a href="/wiki/Coddle" title="Coddle">Coddle</a></li>
+<li><a href="/wiki/Colcannon" title="Colcannon">Colcannon</a></li>
+<li><a href="/wiki/Connemara_Hill_Lamb" title="Connemara Hill Lamb">Connemara Hill Lamb</a></li>
+<li><a href="/wiki/Crubeens" title="Crubeens">Crubeens</a></li>
+<li><a href="/wiki/Palmaria_palmata" title="Palmaria palmata">Dilisk</a></li>
+<li><a class="mw-selflink selflink">Dublin Bay prawns</a></li>
+<li><a href="/wiki/Drisheen" title="Drisheen">Drisheen</a> (Packet) &amp; <a href="/wiki/Tripe" title="Tripe">Tripe</a></li>
+<li><a href="/wiki/Goody_(dessert)" title="Goody (dessert)">Goody</a></li>
+<li><a href="/wiki/Imokilly_Regato" title="Imokilly Regato">Imokilly Regato</a></li>
+<li><a href="/wiki/List_of_Irish_cheeses" title="List of Irish cheeses">Irish cheeses</a></li>
+<li><a href="/wiki/Irish_Lumper" title="Irish Lumper">Irish Lumper potato</a></li>
+<li><a href="/wiki/Irish_stew" title="Irish stew">Irish stew</a></li>
+<li><a href="/wiki/Limerick_ham" title="Limerick ham">Limerick ham</a></li>
+<li><a href="/wiki/Potato_bread" title="Potato bread">Potato bread</a></li>
+<li><a href="/wiki/Skirts_and_kidneys" title="Skirts and kidneys">Skirts and kidneys</a></li>
+<li><a href="/wiki/Soda_bread" title="Soda bread">Soda bread</a></li>
+<li><a href="/wiki/Spiced_beef" title="Spiced beef">Spiced beef</a></li>
+<li><a href="/wiki/Timoleague_Brown_Pudding" title="Timoleague Brown Pudding">Timoleague Brown Pudding</a></li>
+<li><a href="/wiki/Veda_bread" title="Veda bread">Veda bread</a></li>
+<li><b><a href="/wiki/Full_breakfast#Full_Irish_breakfast" title="Full breakfast">Irish breakfast</a></b>
+<ul>
+<li>including: <a href="/wiki/Black_pudding" title="Black pudding">Black pudding</a></li>
+<li><a href="/wiki/White_pudding" title="White pudding">White pudding</a></li>
+<li><a href="/wiki/Sausage" title="Sausage">Sausages</a></li>
+<li><a href="/wiki/Bacon#British_Isles" title="Bacon">Rashers</a></li>
+<li><a href="/wiki/Fried_egg" title="Fried egg">Fried eggs</a></li>
+<li><a href="/wiki/Full_breakfast#Ulster" title="Full breakfast">Ulster Fry</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Edible_crustaceans" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Edible_crustaceans" title="Template:Edible crustaceans"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Edible_crustaceans" title="Template talk:Edible crustaceans"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Edible_crustaceans&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Edible_crustaceans" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Edible_crustaceans" title="Category:Edible crustaceans">Edible crustaceans</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Shrimp" title="Shrimp">Shrimp</a>/<a href="/wiki/Prawn" title="Prawn">prawns</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Acetes" title="Acetes">Acetes</a></i></li>
+<li><i><a href="/wiki/Crangon_crangon" title="Crangon crangon">Crangon crangon</a></i></li>
+<li><i><a href="/wiki/Cryphiops_caementarius" title="Cryphiops caementarius">Cryphiops caementarius</a></i></li>
+<li><a href="/wiki/Dried_shrimp" title="Dried shrimp">Dried shrimp</a></li>
+<li><a href="/wiki/Indian_prawn" title="Indian prawn">Indian prawn</a></li>
+<li><i><a href="/wiki/Litopenaeus_setiferus" title="Litopenaeus setiferus">Litopenaeus setiferus</a></i></li>
+<li><i><a href="/wiki/Macrobrachium_rosenbergii" title="Macrobrachium rosenbergii">Macrobrachium rosenbergii</a></i></li>
+<li><i><a href="/wiki/Palaemon_serratus" title="Palaemon serratus">Palaemon serratus</a></i></li>
+<li><i><a href="/wiki/Pandalus_borealis" title="Pandalus borealis">Pandalus borealis</a></i></li>
+<li><i><a href="/wiki/Penaeus_esculentus" title="Penaeus esculentus">Penaeus esculentus</a></i></li>
+<li><i><a href="/wiki/Penaeus_monodon" title="Penaeus monodon">Penaeus monodon</a></i></li>
+<li><a href="/wiki/Shrimp_paste" title="Shrimp paste">Shrimp paste</a></li>
+<li><a href="/wiki/Whiteleg_shrimp" title="Whiteleg shrimp">Whiteleg shrimp</a></li>
+<li><i><a href="/wiki/Xiphopenaeus_kroyeri" title="Xiphopenaeus kroyeri">Xiphopenaeus kroyeri</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lobster" title="Lobster">Lobsters</a><br/>
+(incl. <a href="/wiki/Slipper_lobster" title="Slipper lobster">slipper</a> &amp; <a href="/wiki/Spiny_lobster" title="Spiny lobster">spiny</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_lobster" title="American lobster">American lobster</a></li>
+<li><i><a href="/wiki/Arctides_guineensis" title="Arctides guineensis">Arctides guineensis</a></i></li>
+<li><a href="/wiki/California_spiny_lobster" title="California spiny lobster">California spiny lobster</a></li>
+<li><i><a href="/wiki/Homarus_gammarus" title="Homarus gammarus">Homarus gammarus</a></i></li>
+<li><i><a href="/wiki/Ibacus_peronii" title="Ibacus peronii">Ibacus peronii</a></i></li>
+<li><a href="/wiki/Japanese_spiny_lobster" title="Japanese spiny lobster">Japanese spiny lobster</a></li>
+<li><i><a href="/wiki/Jasus" title="Jasus">Jasus</a></i></li>
+<li><i><a href="/wiki/Jasus_edwardsii" title="Jasus edwardsii">Jasus edwardsii</a></i></li>
+<li><i><a href="/wiki/Jasus_lalandii" title="Jasus lalandii">Jasus lalandii</a></i></li>
+<li><i><a href="/wiki/Metanephrops_challengeri" title="Metanephrops challengeri">Metanephrops challengeri</a></i></li>
+<li><i><a href="/wiki/Thenus" title="Thenus">Thenus orientalis</a></i></li>
+<li><i><a class="mw-selflink selflink">Nephrops norvegicus</a></i></li>
+<li><i><a href="/wiki/Palinurus_elephas" title="Palinurus elephas">Palinurus elephas</a></i></li>
+<li><i><a href="/wiki/Panulirus_argus" title="Panulirus argus">Panulirus argus</a></i></li>
+<li><i><a href="/wiki/Panulirus_cygnus" title="Panulirus cygnus">Panulirus cygnus</a></i></li>
+<li><i><a href="/wiki/Panulirus_echinatus" title="Panulirus echinatus">Panulirus echinatus</a></i></li>
+<li><i><a href="/wiki/Panulirus_guttatus" title="Panulirus guttatus">Panulirus guttatus</a></i></li>
+<li><i><a href="/wiki/Panulirus_homarus" title="Panulirus homarus">Panulirus homarus</a></i></li>
+<li><i><a href="/wiki/Panulirus_longipes" title="Panulirus longipes">Panulirus longipes</a></i></li>
+<li><i><a href="/wiki/Panulirus_ornatus" title="Panulirus ornatus">Panulirus ornatus</a></i></li>
+<li><i><a href="/wiki/Panulirus_pascuensis" title="Panulirus pascuensis">Panulirus pascuensis</a></i></li>
+<li><i><a href="/wiki/Panulirus_penicillatus" title="Panulirus penicillatus">Panulirus penicillatus</a></i></li>
+<li><i><a href="/wiki/Panulirus_versicolor" title="Panulirus versicolor">Panulirus versicolor</a></i></li>
+<li><i><a href="/wiki/Parribacus_japonicus" title="Parribacus japonicus">Parribacus japonicus</a></i></li>
+<li><i><a href="/wiki/Sagmariasus" title="Sagmariasus">Sagmariasus</a></i></li>
+<li><i><a href="/wiki/Scyllarides_herklotsii" title="Scyllarides herklotsii">Scyllarides herklotsii</a></i></li>
+<li><i><a href="/wiki/Scyllarides_latus" title="Scyllarides latus">Scyllarides latus</a></i></li>
+<li><i><a href="/wiki/Scyllarus_arctus" title="Scyllarus arctus">Scyllarus arctus</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Thymops_birsteini" title="Thymops birsteini">Thymops birsteini</a></i></li>
+<li><a class="mw-redirect" href="/wiki/Tristan_rock_lobster" title="Tristan rock lobster">Tristan rock lobster</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Crab" title="Crab">Crabs</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Callinectes_sapidus" title="Callinectes sapidus">Callinectes sapidus</a></i></li>
+<li><i><a href="/wiki/Callinectes_similis" title="Callinectes similis">Callinectes similis</a></i></li>
+<li><i><a href="/wiki/Cancer_irroratus" title="Cancer irroratus">Cancer irroratus</a></i></li>
+<li><i><a href="/wiki/Cancer_bellianus" title="Cancer bellianus">Cancer bellianus</a></i></li>
+<li><i><a href="/wiki/Cancer_pagurus" title="Cancer pagurus">Cancer pagurus</a></i></li>
+<li><i><a href="/wiki/Chaceon_fenneri" title="Chaceon fenneri">Chaceon fenneri</a></i></li>
+<li><i><a href="/wiki/Chaceon_quinquedens" title="Chaceon quinquedens">Chaceon quinquedens</a></i></li>
+<li><a href="/wiki/Chinese_mitten_crab" title="Chinese mitten crab">Chinese mitten crab</a></li>
+<li><i><a href="/wiki/Chionoecetes" title="Chionoecetes">Chionoecetes</a></i></li>
+<li><a href="/wiki/Declawing_of_crabs" title="Declawing of crabs">Declawing of crabs</a></li>
+<li><a href="/wiki/Dungeness_crab" title="Dungeness crab">Dungeness crab</a></li>
+<li><a href="/wiki/Florida_stone_crab" title="Florida stone crab">Florida stone crab</a></li>
+<li><i><a href="/wiki/Gecarcinus_ruricola" title="Gecarcinus ruricola">Gecarcinus ruricola</a></i></li>
+<li><a href="/wiki/Horsehair_crab" title="Horsehair crab">Horsehair crab</a></li>
+<li><i><a href="/wiki/Hypothalassia_acerba" title="Hypothalassia acerba">Hypothalassia acerba</a></i></li>
+<li><a href="/wiki/Jonah_crab" title="Jonah crab">Jonah crab</a></li>
+<li><i><a href="/wiki/Maja_squinado" title="Maja squinado">Maja squinado</a></i></li>
+<li><i><a href="/wiki/Menippe_adina" title="Menippe adina">Menippe adina</a></i></li>
+<li><i><a href="/wiki/Orithyia_sinica" title="Orithyia sinica">Orithyia sinica</a></i></li>
+<li><i><a href="/wiki/Ovalipes_australiensis" title="Ovalipes australiensis">Ovalipes australiensis</a></i></li>
+<li><a href="/wiki/Pie_crust_crab" title="Pie crust crab">Pie crust crab</a></li>
+<li><i><a class="mw-redirect" href="/wiki/Portunus_pelagicus" title="Portunus pelagicus">Portunus pelagicus</a></i></li>
+<li><i><a href="/wiki/Portunus_trituberculatus" title="Portunus trituberculatus">Portunus trituberculatus</a></i></li>
+<li><i><a href="/wiki/Ranina_ranina" title="Ranina ranina">Ranina ranina</a></i></li>
+<li><i><a href="/wiki/Scylla_paramamosain" title="Scylla paramamosain">Scylla paramamosain</a></i></li>
+<li><i><a href="/wiki/Scylla_serrata" title="Scylla serrata">Scylla serrata</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Crayfish" title="Crayfish">Crayfish</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acocil" title="Acocil">Acocil</a></li>
+<li><i><a href="/wiki/Astacus_astacus" title="Astacus astacus">Astacus astacus</a></i></li>
+<li><a href="/wiki/Marron" title="Marron">Marron</a></li>
+<li><i><a href="/wiki/Paranephrops" title="Paranephrops">Paranephrops</a></i></li>
+<li><i><a href="/wiki/Procambarus_clarkii" title="Procambarus clarkii">Procambarus clarkii</a></i></li>
+<li><i><a href="/wiki/Orconectes_virilis" title="Orconectes virilis">Orconectes virilis</a></i></li>
+<li><a href="/wiki/Signal_crayfish" title="Signal crayfish">Signal crayfish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Others</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Austromegabalanus_psittacus" title="Austromegabalanus psittacus">Austromegabalanus psittacus</a></i></li>
+<li><a href="/wiki/Coconut_crab" title="Coconut crab">Coconut crab</a></li>
+<li><i><a href="/wiki/Galathea_strigosa" title="Galathea strigosa">Galathea strigosa</a></i></li>
+<li><i><a href="/wiki/Glyptolithodes" title="Glyptolithodes">Glyptolithodes</a></i></li>
+<li><a href="/wiki/Goose_barnacle" title="Goose barnacle">Goose barnacle</a></li>
+<li><a href="/wiki/King_crab" title="King crab">King crab</a></li>
+<li><a href="/wiki/Krill" title="Krill">Krill</a></li>
+<li><a href="/wiki/Langostino" title="Langostino">Langostino</a></li>
+<li><i><a href="/wiki/Lysiosquillina_maculata" title="Lysiosquillina maculata">Lysiosquillina maculata</a></i></li>
+<li><a href="/wiki/Mantis_shrimp" title="Mantis shrimp">Mantis shrimp</a></li>
+<li><i><a href="/wiki/Oratosquilla_oratoria" title="Oratosquilla oratoria">Oratosquilla oratoria</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Paralithodes_camtschaticus" title="Paralithodes camtschaticus">Paralithodes camtschaticus</a></i></li>
+<li><a href="/wiki/Red_king_crab" title="Red king crab">Red king crab</a></li>
+<li><a href="/wiki/Squat_lobster" title="Squat lobster">Squat lobster</a></li>
+<li><i><a href="/wiki/Squilla_mantis" title="Squilla mantis">Squilla mantis</a></i></li>
+<li><a href="/wiki/Tasmanian_giant_crab" title="Tasmanian giant crab">Tasmanian giant crab</a></li>
+<li><i><a href="/wiki/Thalassina" title="Thalassina">Thalassina</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20171106172700
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.808 seconds
+Real time usage: 0.962 seconds
+Preprocessor visited node count: 10276/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 110069/2097152 bytes
+Template argument size: 10814/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 6/500
+Lua time usage: 0.478/10.000 seconds
+Lua memory usage: 8.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  863.053      1 -total
+ 45.45%  392.296      1 Template:Speciesbox
+ 44.65%  385.388      1 Template:Taxobox/core
+ 24.67%  212.920      1 Template:Reflist
+ 24.60%  212.352      1 Template:Taxobox/taxonomy
+ 15.80%  136.383    105 Template:Taxon_info
+  7.05%   60.827      9 Template:Cite_web
+  5.97%   51.549     12 Template:Cite_journal
+  5.73%   49.445      7 Template:Taxon_link
+  5.71%   49.299      1 Template:TaxonIds
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1489133-0!canonical and timestamp 20171106172659 and revision id 806902858
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nephrops_norvegicus&amp;oldid=806902858">https://en.wikipedia.org/w/index.php?title=Nephrops_norvegicus&amp;oldid=806902858</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:True_lobsters" title="Category:True lobsters">True lobsters</a></li><li><a href="/wiki/Category:Edible_crustaceans" title="Category:Edible crustaceans">Edible crustaceans</a></li><li><a href="/wiki/Category:Commercial_crustaceans" title="Category:Commercial crustaceans">Commercial crustaceans</a></li><li><a href="/wiki/Category:Crustaceans_of_the_Atlantic_Ocean" title="Category:Crustaceans of the Atlantic Ocean">Crustaceans of the Atlantic Ocean</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li><li><a href="/wiki/Category:Encyclopedia_of_Life_ID_not_in_Wikidata" title="Category:Encyclopedia of Life ID not in Wikidata">Encyclopedia of Life ID not in Wikidata</a></li><li><a href="/wiki/Category:Pages_using_the_others_parameter_in_Template:TaxonIds" title="Category:Pages using the others parameter in Template:TaxonIds">Pages using the others parameter in Template:TaxonIds</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nephrops+norvegicus" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nephrops+norvegicus" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Nephrops_norvegicus" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Nephrops_norvegicus" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Nephrops_norvegicus">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Nephrops_norvegicus&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Nephrops_norvegicus&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Nephrops_norvegicus" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nephrops_norvegicus" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nephrops_norvegicus&amp;oldid=806902858" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nephrops_norvegicus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q551915" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nephrops_norvegicus&amp;id=806902858" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nephrops+norvegicus">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nephrops+norvegicus&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Nephrops_norvegicus&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nephrops_norvegicus" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Nephrops_norvegicus" hreflang="en">Wikispecies</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Norve%C3%A7_omar%C4%B1" hreflang="az" lang="az" title="Norveç omarı – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D1%96_%D0%B0%D0%BC%D0%B0%D1%80" hreflang="be" lang="be" title="Нарвежскі амар – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D1%8D%D1%81%D0%BA%D1%96_%D0%B0%D0%BC%D0%B0%D1%80" hreflang="be-x-old" lang="be-x-old" title="Нарвэскі амар – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D0%BA%D0%B8_%D0%BE%D0%BC%D0%B0%D1%80" hreflang="bg" lang="bg" title="Норвежки омар – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Grilh-traezh" hreflang="br" lang="br" title="Grilh-traezh – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Escamarl%C3%A0" hreflang="ca" lang="ca" title="Escamarlà – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Nephrops_norvegicus" hreflang="ceb" lang="ceb" title="Nephrops norvegicus – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Jomfruhummer" hreflang="da" lang="da" title="Jomfruhummer – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kaisergranat" hreflang="de" lang="de" title="Kaisergranat – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CE%BA%CE%AC%CE%BC%CF%80%CE%B9" hreflang="el" lang="el" title="Σκάμπι – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Nephrops_norvegicus" hreflang="es" lang="es" title="Nephrops norvegicus – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Zigala" hreflang="eu" lang="eu" title="Zigala – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%E2%80%8C%D9%85%DB%8C%DA%AF%D9%88%DB%8C_%D9%86%D8%B1%D9%88%DA%98%DB%8C" hreflang="fa" lang="fa" title="شاه‌میگوی نروژی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/J%C3%B3mfr%C3%BAhummari" hreflang="fo" lang="fo" title="Jómfrúhummari – Faroese">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Langoustine_commune" hreflang="fr" lang="fr" title="Langoustine commune – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Lagostino" hreflang="gl" lang="gl" title="Lagostino – Galician">Galego</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/%C5%A0kamp" hreflang="hr" lang="hr" title="Škamp – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Leturhumar" hreflang="is" lang="is" title="Leturhumar – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Nephrops_norvegicus" hreflang="it" lang="it" title="Nephrops norvegicus – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Noorse_kreeft" hreflang="nl" lang="nl" title="Noorse kreeft – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%82%A2%E3%82%AB%E3%82%B6%E3%82%A8%E3%83%93" hreflang="ja" lang="ja" title="ヨーロッパアカザエビ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sj%C3%B8kreps" hreflang="no" lang="no" title="Sjøkreps – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Sj%C3%B8kreps" hreflang="nn" lang="nn" title="Sjøkreps – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Homarzec" hreflang="pl" lang="pl" title="Homarzec – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Nephrops_norvegicus" hreflang="pt" lang="pt" title="Nephrops norvegicus – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Langustin%C4%83" hreflang="ro" lang="ro" title="Langustină – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BC%D0%B0%D1%80" hreflang="ru" lang="ru" title="Норвежский омар – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Keisarihummeri" hreflang="fi" lang="fi" title="Keisarihummeri – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Havskr%C3%A4fta" hreflang="sv" lang="sv" title="Havskräfta – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Nephrops_norvegicus" hreflang="vi" lang="vi" title="Nephrops norvegicus – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Nephrops_norvegicus" hreflang="war" lang="war" title="Nephrops norvegicus – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%8C%AA%E5%A8%81%E6%B5%B7%E8%9E%AF%E8%9D%A6" hreflang="zh" lang="zh" title="挪威海螯蝦 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q551915#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 October 2017, at 21:17.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nephrops_norvegicus&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.808","walltime":"0.962","ppvisitednodes":{"value":10276,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":110069,"limit":2097152},"templateargumentsize":{"value":10814,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  863.053      1 -total"," 45.45%  392.296      1 Template:Speciesbox"," 44.65%  385.388      1 Template:Taxobox/core"," 24.67%  212.920      1 Template:Reflist"," 24.60%  212.352      1 Template:Taxobox/taxonomy"," 15.80%  136.383    105 Template:Taxon_info","  7.05%   60.827      9 Template:Cite_web","  5.97%   51.549     12 Template:Cite_journal","  5.73%   49.445      7 Template:Taxon_link","  5.71%   49.299      1 Template:TaxonIds"]},"scribunto":{"limitreport-timeusage":{"value":"0.478","limit":"10.000"},"limitreport-memusage":{"value":8936801,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20171106172700","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Ski - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ski","wgTitle":"Ski","wgCurRevisionId":808676409,"wgRevisionId":808676409,"wgArticleId":28489,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from November 2010","All articles lacking in-text citations","Skiing equipment"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ski","wgRelevantArticleId":28489,"wgRequestId":"Wf2xYQpAAEMAAEJbcH0AAABM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q172226","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ski" rel="alternate"/>
+<link href="/w/index.php?title=Ski&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Ski&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Ski" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ski rootpage-Ski vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Ski</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the equipment used on snow. For the related activity, see <a href="/wiki/Skiing" title="Skiing">Skiing</a>. For the related activity on water, see <a href="/wiki/Water_skiing" title="Water skiing">Water skiing</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Ski_(disambiguation)" title="Ski (disambiguation)">Ski (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(November 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Ski.jpg"><img alt="" class="thumbimage" data-file-height="1872" data-file-width="307" height="1037" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ski.jpg/170px-Ski.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ski.jpg/255px-Ski.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/47/Ski.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ski.jpg" title="Enlarge"></a></div>
+A shaped alpine ski with relatively little sidecut and classic camber: the tip and tail touch the snow while the midsection is in the air.</div>
+</div>
+</div>
+<p>A <b>ski</b> is a narrow strip of semi-rigid material worn underfoot to glide over snow. Substantially longer than wide and characteristically employed in pairs, skis are attached to <a href="/wiki/Ski_boot" title="Ski boot">ski boots</a> with <a href="/wiki/Ski_binding" title="Ski binding">ski bindings</a>, with either a free, lockable, or partially secured heel. For climbing slopes, <a href="/wiki/Ski_skins" title="Ski skins">ski skins</a> (originally made of seal fur, but now made of synthetic materials) can be attached at the base of the ski.</p>
+<p>Originally intended as an aid to travel over snow, they are now mainly used recreationally in the sport of <a href="/wiki/Skiing" title="Skiing">skiing</a>.</p>
+<div class="toclimit-3">
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology_and_usage"><span class="tocnumber">1</span> <span class="toctext">Etymology and usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Asymmetrical_skis"><span class="tocnumber">2.1</span> <span class="toctext">Asymmetrical skis</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Single_long_ski"><span class="tocnumber">2.2</span> <span class="toctext">Single long ski</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Modern_skis"><span class="tocnumber">2.3</span> <span class="toctext">Modern skis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Geometry"><span class="tocnumber">3</span> <span class="toctext">Geometry</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Construction"><span class="tocnumber">4</span> <span class="toctext">Construction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Laminate_or_sandwich"><span class="tocnumber">4.1</span> <span class="toctext">Laminate or sandwich</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Torsion_box"><span class="tocnumber">4.2</span> <span class="toctext">Torsion box</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Monocoque_or_cap"><span class="tocnumber">4.3</span> <span class="toctext">Monocoque or cap</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Historical"><span class="tocnumber">4.4</span> <span class="toctext">Historical</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Notable_manufacturers"><span class="tocnumber">4.5</span> <span class="toctext">Notable manufacturers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Types"><span class="tocnumber">5</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Alpine"><span class="tocnumber">5.1</span> <span class="toctext">Alpine</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Nordic"><span class="tocnumber">5.2</span> <span class="toctext">Nordic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Etymology_and_usage">Etymology and usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=1" title="Edit section: Etymology and usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word ski comes from the <a href="/wiki/Old_Norse" title="Old Norse">Old Norse</a> word "skíð" which means stick of wood or ski.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>In <a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a> this word is usually pronounced <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Swedish" title="Help:IPA/Swedish">[ˈʃiː]</a></span>. In <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>, another language evolved from <a href="/wiki/Old_Norse" title="Old Norse">Old Norse</a>, the word is "skidor" (pl.).</p>
+<p><a href="/wiki/English_language" title="English language">English</a> and <a href="/wiki/French_language" title="French language">French</a> use the original spelling "ski", and modify the pronunciation. Prior to 1920, English usage of "skee" and "snow-shoe" is often seen.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> In <a href="/wiki/Italian_language" title="Italian language">Italian</a>, it is pronounced as in Norwegian, and the spelling is modified: "sci". <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>, <a href="/wiki/German_language" title="German language">German</a> and <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> adapt the word to their linguistic rules: <i>esqui</i>, <i>Schier</i> (a German plural of <i>Ski</i>) and <i>esquí</i>. In <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>, the word is "ski” and pronunciation was originally <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Swedish" title="Help:IPA/Swedish">[ˈʃiː]</a></span> as in Norwegian, but since approximately the 1960s changed to <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Dutch" title="Help:IPA/Dutch">[ˈskiː]</a></span>. Many languages make a verb form out of the noun, such as "to ski" in English, "skier" in French, "esquiar" in Spanish, "sciare" in Italian, "skiën" in Dutch, "esquiar" in Portuguese or "schilaufen" (as above also Ski laufen or Ski fahren) in German.</p>
+<p>Finnish has its own ancient words for skis and skiing. In Finnish ski is <i>suksi</i> and skiing is <i>hiihtää</i>. The <a href="/wiki/Sami_people" title="Sami people">Sami</a> also have their own words for skis and skiing. For example, the <a href="/wiki/Sami_languages" title="Sami languages">Lule Sami</a> word for ski is "sabek" and skis are "sabega". The Sami use "cuoigat" for the verb "to ski". The term may date back to 10,000 years before present.<sup class="reference" id="cite_ref-Historical_dictionary_of_Skiing_3-0"><a href="#cite_note-Historical_dictionary_of_Skiing-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The oldest wooden skis found were in what is today <a href="/wiki/Russia" title="Russia">Russia</a> (c. 6300-5000 BCE), <a href="/wiki/Sweden" title="Sweden">Sweden</a> (c. 5200 BCE) and <a href="/wiki/Norway" title="Norway">Norway</a> (c. 3200 BCE) respectively.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Nordic ski technology was adapted during the early 20th century to enable skiers to turn at higher speeds. New ski and <a href="/wiki/Ski_binding" title="Ski binding">ski binding</a> designs, coupled with the introduction of <a href="/wiki/Ski_lift" title="Ski lift">ski lifts</a> to carry skiers up slopes, enabled the development of alpine skis. Meanwhile, advances in technology in the Nordic camp allowed for the development of special skis for skating and ski jumping.</p>
+<h3><span class="mw-headline" id="Asymmetrical_skis">Asymmetrical skis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=3" title="Edit section: Asymmetrical skis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This type of ski was used at least in northern Finland and Sweden until the 1930s.<sup class="reference" id="cite_ref-Historical_dictionary_of_Skiing_3-1"><a href="#cite_note-Historical_dictionary_of_Skiing-3">[3]</a></sup> On one leg, the skier wore a long straight non-arching ski for sliding, and on the other a shorter ski for kicking. The bottom of the short ski was either plain or covered with animal skin to aid this use, while the long ski supporting the weight of the skier was treated with animal fat in similar manner to modern <a href="/wiki/Ski_wax" title="Ski wax">ski waxing</a>. Early record of this type of skis survives in works of <a href="/wiki/Olaus_Magnus" title="Olaus Magnus">Olaus Magnus</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> He associates them to <a href="/wiki/Sami_people" title="Sami people">Sami people</a> and gives <a href="/wiki/Sami_languages" title="Sami languages">Sami</a> names of <i>savek</i> and <i>golos</i> for the plain and skinned short ski.</p>
+<p>Finnish names for these are <i>lyly</i> and <i>kalhu</i> for long and short ski.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Single_long_ski">Single long ski</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=4" title="Edit section: Single long ski">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The seal hunters at the <a href="/wiki/Gulf_of_Bothnia" title="Gulf of Bothnia">Gulf of Bothnia</a> had developed a special long ski to sneak into shooting distance to the seals' breathing holes, though the ski was useful in moving in the packed ice in general and was made specially long, 3–4 meters, to protect against cracks in the ice. This is called <i><a class="extiw" href="https://sv.wikipedia.org/wiki/Skredst%C3%A5ng" title="sv:Skredstång">skredstång</a></i> in Swedish.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Modern_skis">Modern skis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=5" title="Edit section: Modern skis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Around 1850 artisans in Telemark, Norway invent the cambered ski. This ski arches up in the middle, under the binding, which distributes the skier's weight more evenly across the length of the ski. Earlier plank-style skis had to be thick enough not to bow downward and sink in the snow under the skier’s weight. This new design made it possible to build a thinner, lighter ski, that flexed more easily to absorb the shock of bumps, and that maneuvered and ran faster and more easily.<sup class="reference" id="cite_ref-Evolution_of_Ski_Shape_8-0"><a href="#cite_note-Evolution_of_Ski_Shape-8">[8]</a></sup> The design also included a sidecut that narrowed the ski underfoot while the tip and tail remained wider. This enabled the ski to flex and turn more easily.<sup class="reference" id="cite_ref-Evolution_of_Ski_Shape_8-1"><a href="#cite_note-Evolution_of_Ski_Shape-8">[8]</a></sup></p>
+<p>Skis traditionally were hand-carved out of a single piece of hardwood such as <a href="/wiki/Hickory" title="Hickory">Hickory</a>, <a href="/wiki/Birch" title="Birch">Birch</a> or <a class="mw-redirect" href="/wiki/Ash_(tree)" title="Ash (tree)">Ash</a>. These woods were used because of their density and ability to handle speed and shock resistance factors associated with ski racing. Because of Europe’s dwindling forests, the ability to find quality, plank, hardwood became difficult, which led to the invention of the laminated ski.<sup class="reference" id="cite_ref-Skiing_Heritage_Journal_9-0"><a href="#cite_note-Skiing_Heritage_Journal-9">[9]</a></sup> Beginning in 1891, skimakers in Norway began laminating two or more layers of wood together to make lighter cross country running skis. These evolved into the multi-laminated high-performance skis of the mid-1930s.<sup class="reference" id="cite_ref-The_Splitkein_Patent_10-0"><a href="#cite_note-The_Splitkein_Patent-10">[10]</a></sup></p>
+<p>A laminated ski is a ski composed of two different types of wood which are glued together. A top layer of soft wood is glued to a thin layer under a surface of hardwood. This combination actually created skis which were much lighter and more maneuverable than the heavy, hardwood skis that preceded them . Although lighter and stronger, laminated skis did not wear well. The water-soluble glues used at the time failed; warping and splitting along the glue edges (delaminating) occurred frequently and rapidly. In 1922, a Norwegian skier Thorbjorn Nordby,<sup class="reference" id="cite_ref-Skiing_Heritage_Journal_9-1"><a href="#cite_note-Skiing_Heritage_Journal-9">[9]</a></sup> developed strong, waterproof glue which stopped the problem of splitting, therefore developing a much tougher laminated ski. Research and design of laminated skis rapidly progressed. In 1933 a new design technology was introduced involving an outer hardwood shell completely encasing an inner layer of lighter wood, successfully eliminating spontaneously splitting glue lines. This early design eventually evolved into an advanced laminating technique which is referred to today as Single-shell casing technology.</p>
+<p>In 1950 <a href="/wiki/Howard_Head" title="Howard Head">Howard Head</a> introduced the <a href="/wiki/Head_Standard" title="Head Standard">Head Standard</a>, constructed by sandwiching aluminum alloy around a <a href="/wiki/Plywood" title="Plywood">plywood</a> core. The design included steel edges (invented in 1928 in <a href="/wiki/Austria" title="Austria">Austria</a>,<sup class="reference" id="cite_ref-Evolution_of_Ski_Shape_8-2"><a href="#cite_note-Evolution_of_Ski_Shape-8">[8]</a></sup>) and the exterior surfaces were made of <a href="/wiki/Phenol_formaldehyde_resin" title="Phenol formaldehyde resin">phenol formaldehyde resin</a> which could hold wax. This hugely successful ski was unique at the time in having been designed for the recreational market, rather than for racing.<sup class="reference" id="cite_ref-fry_11-0"><a href="#cite_note-fry-11">[11]</a></sup> 1962: a <a class="mw-redirect" href="/wiki/Fibreglass" title="Fibreglass">fibreglass</a> ski, <a href="/wiki/Kneissl" title="Kneissl">Kneissl</a>'s White Star, was used by <a href="/wiki/Karl_Schranz" title="Karl Schranz">Karl Schranz</a> to win two gold medals at the <a href="/wiki/FIS_Alpine_World_Ski_Championships" title="FIS Alpine World Ski Championships">FIS Alpine World Ski Championships</a>.<sup class="reference" id="cite_ref-fry_11-1"><a href="#cite_note-fry-11">[11]</a></sup> By the late '60s fibreglass had mostly replaced aluminum.</p>
+<p>In 1974 <a href="/wiki/Magne_Myrmo" title="Magne Myrmo">Magne Myrmo</a> becomes the last world champion (Falun, 15 km cross country) using wooden skis.<sup class="reference" id="cite_ref-Saur_12-0"><a href="#cite_note-Saur-12">[12]</a></sup></p>
+<p>In 1975 the <a href="/wiki/Torsion_box" title="Torsion box">torsion box</a> ski construction design is patented.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> The patent is referenced by Kästle, Salomon, <a href="/wiki/Rottefella" title="Rottefella">Rottefella</a>, and <a href="/wiki/Madshus" title="Madshus">Madshus</a>. In 1993 <a href="/wiki/Elan_(company)" title="Elan (company)">Elan</a> introduced the <a href="/wiki/Elan_SCX" title="Elan SCX">Elan SCX</a>. Skis with a much wider tip and tail than waist. When tipped onto their edges, they bend into a curved shape and carve a turn. Cross-country techniques use different styles of turns; edging is not as important, and skis have little sidecut. For many years, alpine skis were shaped similarly to cross-country, simply shorter and wider, but the <a href="/wiki/Elan_SCX" title="Elan SCX">Elan SCX</a> introduced a radial sidecut design that dramatically improved performance. Other companies quickly followed suit, and it was realized in retrospect that ""It turns out that everything we thought we knew for forty years was wrong," admitted one Austrian ski designer."<sup class="reference" id="cite_ref-Evolution_of_Ski_Shape_8-3"><a href="#cite_note-Evolution_of_Ski_Shape-8">[8]</a></sup> <a href="/wiki/Line_Skis" title="Line Skis">Line Skis</a> the first free-ski focused ski company<sup class="reference" id="cite_ref-afpworldtour.com_14-0"><a href="#cite_note-afpworldtour.com-14">[14]</a></sup> inspired the <a href="/wiki/Freeskiing" title="Freeskiing">newschool</a> freeskiing movement with their twin tip <a href="/wiki/Skiboarding" title="Skiboarding">ski boards</a> in 1995.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> The first company to successfully market and mass-produce a <a href="/wiki/Twin-tip_ski" title="Twin-tip ski">Twin-tip ski</a> to ski switch (skiing backwards) was the <a href="/wiki/Salomon_Group" title="Salomon Group">Salomon Group</a>, with their 1080 ski in 1998.<sup class="reference" id="cite_ref-afpworldtour.com_14-1"><a href="#cite_note-afpworldtour.com-14">[14]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Geometry">Geometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=6" title="Edit section: Geometry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Ski_geometry" title="Ski geometry">Ski geometry</a></div>
+<p>Described in the direction of travel, the front of the ski, typically pointed or rounded, is the tip, the middle is the waist and the rear is the tail. Skis have four aspects define their basic performance: length, width, sidecut and camber. Skis also differ in more minor ways to address certain niche roles. For instance, <i>mogul skis</i> are softer to absorb shocks, <i>powder skis</i> are wider to provide more float and <i>rocker skis</i> bent upwards (<i>reverse camber</i>) at the tip and tail to make it easier to turn in deep and heavy snow.</p>
+<h2><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=7" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Skis have evolved from being constructed from solid wood to using a variety of materials including carbon-<a href="/wiki/Kevlar" title="Kevlar">Kevlar</a> to make skis stronger, torsionally stiffer, lighter, and more durable. <a class="mw-redirect" href="/wiki/Ski_manufacturing_techniques" title="Ski manufacturing techniques">Ski manufacturing techniques</a> allow skis to be made in one or a combination of three designs:</p>
+<h3><span class="mw-headline" id="Laminate_or_sandwich">Laminate or sandwich</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=8" title="Edit section: Laminate or sandwich">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Half_cap_design.jpg"><img alt="" class="thumbimage" data-file-height="1248" data-file-width="600" height="458" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Half_cap_design.jpg/220px-Half_cap_design.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Half_cap_design.jpg/330px-Half_cap_design.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Half_cap_design.jpg/440px-Half_cap_design.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Half_cap_design.jpg" title="Enlarge"></a></div>
+Combination of cap design (upper part) and sidewall laminated design (lower part, white)</div>
+</div>
+</div>
+<p>Laminated skis are built in layers. Materials such as <a href="/wiki/Fiberglass" title="Fiberglass">fiberglass</a>, <a href="/wiki/Steel" title="Steel">steel</a>, <a class="mw-redirect" href="/wiki/Aluminum_alloy" title="Aluminum alloy">aluminum alloy</a>, or <a href="/wiki/Plastic" title="Plastic">plastic</a> are layered and compressed above and below the core.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> Laminated construction is the most widely used manufacturing process in the ski industry today. The first successful laminate ski, and arguably the first modern ski was the <a href="/wiki/Head_Standard" title="Head Standard">Head Standard</a>, introduced in 1950, which sandwiched aluminum alloy around a <a href="/wiki/Plywood" title="Plywood">plywood</a> core.</p>
+<h3><span class="mw-headline" id="Torsion_box">Torsion box</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=9" title="Edit section: Torsion box">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="new" href="/w/index.php?title=Dynamic_VR7&amp;action=edit&amp;redlink=1" title="Dynamic VR7 (page does not exist)">Dynamic VR7</a> introduced a new construction method in which a smaller wooden core was wrapped in wet fibreglass, as opposed to pre-dried sheets of fibreglass being glued to the core (essentially replacing metal sheets). The result was a <a href="/wiki/Torsion_box" title="Torsion box">torsion box</a>, which made the ski much stronger. The VR7, and its more famous follow-on VR17, was the first fibreglass ski that could be used for men's racing, and quickly took over that market. Over time, materials for both the core and torsion box have changed, with wood, various plastic foams, fibreglass, <a href="/wiki/Kevlar" title="Kevlar">kevlar</a> and <a class="mw-redirect" href="/wiki/Carbon_fiber" title="Carbon fiber">carbon fiber</a> all being used in different designs. Torsion box designs continue to dominate cross-country ski designs, but is less common for alpine and <a href="/wiki/Ski_touring" title="Ski touring">ski touring</a>.</p>
+<h3><span class="mw-headline" id="Monocoque_or_cap">Monocoque or cap</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=10" title="Edit section: Monocoque or cap">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the 1980s, Bucky Kashiwa developed a new construction technique using a rolled stainless steel sheet forming three sides of a torsion box over a wooden core, with the base of the ski forming the bottom. Introduced in 1989, the <a href="/wiki/Volant_skis" title="Volant skis">Volant skis</a> proved expensive to produce, and in spite of numerous positive reviews, the company never became profitable. In 1990, the Salomon S9000 took the same basic concept but replaced the steel with plastics, producing a design they called "monocoque". Now referred to as the "cap ski" design, the concept eliminates the need to wrap the core and replaces this with a single-step process that is much less expensive to produce. Cap ski construction dominates alpine ski construction today.</p>
+<h3><span class="mw-headline" id="Historical">Historical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=11" title="Edit section: Historical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The classical wooden ski consists of a single long piece of suitable wood that is hand-carved to produce the required shape. Early designs were generally rectangular in cross-section, with the tip bent up through the application of steam. Over time the designs changed, and skis were thinned out to the sides, or featured prominent ridges down the center.</p>
+<h3><span class="mw-headline" id="Notable_manufacturers">Notable manufacturers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=12" title="Edit section: Notable manufacturers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>K2<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> is a major US-based ski manufacturing company. In 1961 they were one of the first companies to begin producing and distributing fiberglass skis. Today K2 is primarily renowned for its wide variety of torsion-box ski designs. They sponsor several professional skiers and ski teams.</li>
+<li><a href="/wiki/Skis_Rossignol" title="Skis Rossignol">Rossignol</a><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> is a French company established in 1907. Rossignol introduced its first fiberglass ski in 1964. Today the company offers a wide range of ski designs and produces over 500,000 pairs of skis per year. Rossignol also manufactures boots, bindings, and poles.</li>
+<li><a href="/wiki/Elan_(company)" title="Elan (company)">Elan</a><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> is a Slovenian company, located in Begunje, notable in ski manufacturing for inventing shaped skis, also called parabolic skis that made carve turns possible at low speeds and with short turn radius.</li>
+</ul>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=13" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:SkiCollection.jpg"><img alt="" class="thumbimage" data-file-height="2369" data-file-width="2540" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SkiCollection.jpg/250px-SkiCollection.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SkiCollection.jpg/375px-SkiCollection.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SkiCollection.jpg/500px-SkiCollection.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:SkiCollection.jpg" title="Enlarge"></a></div>
+A collection of differing types of alpine skis, with Nordic and telemark skis at far left. From right: a group of powder skis, a group of twin-tip skis, a group of carving (parabolic) skis, and then an older-type non-sidecut alpine ski along with the non-alpine skis.</div>
+</div>
+</div>
+<p>In the <a href="/wiki/History_of_skiing" title="History of skiing">history of skiing</a> many types of skis have been developed, designed for different needs, of which the following is a selection.</p>
+<h3><span class="mw-headline" id="Alpine">Alpine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=14" title="Edit section: Alpine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ski design has evolved enormously since the beginnings of the modern sport in mid-19th-century Norway. Modern skis typically have steel edges, camber, side cut, and possibly reverse camber. During the 1990s side cut became more pronounced to make it easier to carve turns. Alpine skis typically have fixed-heel bindings. Specialised types of alpine skis exist for certain uses, including <a href="/wiki/Twin-tip_ski" title="Twin-tip ski">twin-tip skis</a> for <a href="/wiki/Freestyle_skiing" title="Freestyle skiing">freestyle skiing</a>, <a href="/wiki/Ski_touring" title="Ski touring">alpine touring ski</a>,<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> and <a href="/wiki/Monoski" title="Monoski">monoski</a>.</p>
+<h3><span class="mw-headline" id="Nordic">Nordic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=15" title="Edit section: Nordic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Nordic skiing the skier is not reliant on ski lifts to get up hills, and so skis and boots tend to be lighter, with a free heel to facilitate walking. Styles of Nordic skiing equipment include:</p>
+<ul>
+<li><a href="/wiki/Cross-country_skiing" title="Cross-country skiing">Cross-country</a> <a href="/wiki/Cross-country_skiing#skis" title="Cross-country skiing">skis</a> are light and narrow, with a slight <a class="mw-redirect" href="/wiki/Sidecut" title="Sidecut">sidecut</a>. Three binding systems are popular: <a href="/wiki/Rottefella" title="Rottefella">Rottefella</a>'s NNN, Salomon's SNS profil, and SNS pilot. Ski bases are waxed to reduce friction during forward motion, and <a href="/wiki/Cross-country_skiing#Kick_wax" title="Cross-country skiing">kick wax</a> can also be applied for grip. Some waxless models have patterns on the bottom to avoid the necessity of grip waxing for classic technique.</li>
+<li>Skating skis are shorter than classic skis and do not need grip wax. The skating technique is used in <a href="/wiki/Biathlon" title="Biathlon">biathlons</a>.</li>
+<li><a href="/wiki/Ski_jumping" title="Ski jumping">Ski jumping</a> skis are long and wide.</li>
+<li><a href="/wiki/Roller_skiing" title="Roller skiing">Roller skis</a> have wheels for use on dry pavement, in the absence of snow.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Monoski" title="Monoski">Monoski</a></li>
+<li><a href="/wiki/Snowboard" title="Snowboard">Snowboard</a></li>
+<li><a href="/wiki/Teleboard" title="Teleboard">Teleboard</a></li>
+<li><a href="/wiki/Skwal" title="Skwal">Skwal</a></li>
+<li><a href="/wiki/Snurfer" title="Snurfer">Snurfer</a></li>
+<li><a class="mw-redirect" href="/wiki/Noboard" title="Noboard">Noboard</a></li>
+<li><a href="/wiki/Splitboard" title="Splitboard">Splitboard</a></li>
+<li><a class="mw-redirect" href="/wiki/Waterskiing#Skis" title="Waterskiing">Water ski</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.merriam-webster.com/dictionary/ski" rel="nofollow">Merriam-Webster's Dictionary</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://chroniclingamerica.loc.gov/lccn/sn83030214/1903-12-20/ed-1/seq-32/" rel="nofollow">"Winter Sport with Skees on the Snow"</a> (December 20, 1903) New-York Tribune pg 2</span></li>
+<li id="cite_note-Historical_dictionary_of_Skiing-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Historical_dictionary_of_Skiing_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Historical_dictionary_of_Skiing_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation" id="CITEREFAllen2011">Allen, E. John B. (2011), <a class="external text" href="https://books.google.com/books?id=XayJ60PDwaoC&amp;pg=PA4&amp;dq=History+of+unequal+length+skis&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjihrGE1-vLAhXB6x4KHYyuAd0Q6AEIHTAA#v=onepage&amp;q=History%20of%20unequal%20length%20skis&amp;f=false" rel="nofollow"><i>Historical Dictionary of Skiing</i></a>, Historical Dictionaries of Sports, Scarecrow Press, pp. 1–14, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0810879778" title="Special:BookSources/0810879778">0810879778</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Historical+Dictionary+of+Skiing&amp;rft.series=Historical+Dictionaries+of+Sports&amp;rft.pages=1-14&amp;rft.pub=Scarecrow+Press&amp;rft.date=2011&amp;rft.isbn=0810879778&amp;rft.aulast=Allen&amp;rft.aufirst=E.+John+B.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXayJ60PDwaoC%26pg%3DPA4%26dq%3DHistory%2Bof%2Bunequal%2Blength%2Bskis%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjihrGE1-vLAhXB6x4KHYyuAd0Q6AEIHTAA%23v%3Donepage%26q%3DHistory%2520of%2520unequal%2520length%2520skis%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Bays, Ted (1980) <i>Nine Thousand Years of Skis: Norwegian Wood to French Plastic</i> US National Ski Hall of Fame Press <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="https://www.worldcat.org/oclc/6648572" rel="nofollow">6648572</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Olaus Magnus, 1555:1,4</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Facta_(encyclopedia)" title="Facta (encyclopedia)">Facta 2001</a> part 15, page 385, <i>finnish</i></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">"Västerbotten 1971 nr. 2" magazine in Swedish, includes copious pictures of the ski and the associated equipment. <a class="external autonumber" href="http://www.vbm.se/assets/files/Pdf/Vbn_history_69f/1971_2.pdf" rel="nofollow">[1]</a></span></li>
+<li id="cite_note-Evolution_of_Ski_Shape-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Evolution_of_Ski_Shape_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Evolution_of_Ski_Shape_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Evolution_of_Ski_Shape_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Evolution_of_Ski_Shape_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Masia, Seth. <a class="external text" href="http://skiinghistory.org/history/evolution-ski-shape/" rel="nofollow">"Evolution of Ski Shape"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Evolution+of+Ski+Shape&amp;rft.aulast=Masia&amp;rft.aufirst=Seth&amp;rft_id=http%3A%2F%2Fskiinghistory.org%2Fhistory%2Fevolution-ski-shape%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Skiing_Heritage_Journal-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Skiing_Heritage_Journal_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Skiing_Heritage_Journal_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://books.google.com/books?id=rVgEAAAAMBAJ&amp;pg=PA14&amp;dq=Thorbjorn+Nordby&amp;cd=1#v=onepage&amp;q=Thorbjorn%20Nordby&amp;f=false" rel="nofollow">Skiing Heritage Journal</a>. Seth Masia, Dec. 2003. Web. 8 February 2010.</span></li>
+<li id="cite_note-The_Splitkein_Patent-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Splitkein_Patent_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Masia, Seth. <a class="external text" href="https://books.google.com/books?id=rVgEAAAAMBAJ&amp;q=%22H.M.+Christiansen%22+Splitkein#v=snippet&amp;q=%22H.M.%20Christiansen%22%20Splitkein&amp;f=false/" rel="nofollow"><i>The Splitkein Patent</i></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Splitkein+Patent&amp;rft.aulast=Masia&amp;rft.aufirst=Seth&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DrVgEAAAAMBAJ%26q%3D%2522H.M.%2BChristiansen%2522%2BSplitkein%23v%3Dsnippet%26q%3D%2522H.M.%2520Christiansen%2522%2520Splitkein%26f%3Dfalse%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-fry-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-fry_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fry_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Fry, John (2006). <i>The story of modern skiing</i>. Hanover: University Press of New England. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-58465-489-6" title="Special:BookSources/978-1-58465-489-6">978-1-58465-489-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+story+of+modern+skiing&amp;rft.place=Hanover&amp;rft.pub=University+Press+of+New+England&amp;rft.date=2006&amp;rft.isbn=978-1-58465-489-6&amp;rft.aulast=Fry&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Saur-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Saur_12-0">^</a></b></span> <span class="reference-text">Saur, Lasse (1999): <i>Norske ski - til glede og besvær.</i> Research report, Høgskolen i Finnmark.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Bjertaes, Gunnar. <a class="external text" href="http://www.google.com/patents/US4005875" rel="nofollow">"Patent number: 4005875 Ski construction of the torsion box type"</a>. US Patent Office<span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Patent+number%3A+4005875+Ski+construction+of+the+torsion+box+type&amp;rft.pub=US+Patent+Office&amp;rft.aulast=Bjertaes&amp;rft.aufirst=Gunnar&amp;rft_id=http%3A%2F%2Fwww.google.com%2Fpatents%2FUS4005875&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-afpworldtour.com-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-afpworldtour.com_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-afpworldtour.com_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.afpworldtour.com/news/the-history-of-competitive-freeskiing" rel="nofollow">"afpworldtour - the history of competitive freeskiing"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=afpworldtour+-+the+history+of+competitive+freeskiing&amp;rft_id=http%3A%2F%2Fwww.afpworldtour.com%2Fnews%2Fthe-history-of-competitive-freeskiing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external text" href="http://lineskis.com/innovation" rel="nofollow">Skiing the wrong way since '95</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation audio-visual"><a class="external text" href="https://www.youtube.com/watch?v=x4A3FfgCRkU" rel="nofollow"><i>Salomon Freeski Video 3 - Twin Tips</i></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Salomon+Freeski+Video+3+-+Twin+Tips&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx4A3FfgCRkU&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.madehow.com/Volume-2/Ski.html" rel="nofollow">How Products Are Made</a> Advameg Inc., 2010. Web. 8 February 2010.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a class="external text" href="http://touch.k2skis.com/technology" rel="nofollow">K2 Sports</a>. K2 Sports, 2010. Web. 8 February 2010.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.rossignol.com/US/avenger-72_F0160_product_ski-men-skis-all-mountain.html" rel="nofollow">Rossignol</a>. Rossignol, 2010. Web. 8 February 2010.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://www.elanskis.com/en/history.html" rel="nofollow">[2]</a>. Élan, 2012. Web. 8 February 2010.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.silvretta.de/products.php?chid=7&amp;m=4&amp;lang=uk&amp;sid=81c...96948316299d598c9455587c6&amp;prid=13&amp;ac=det" rel="nofollow">"Silvretta"</a>. Silvretta.de<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Silvretta&amp;rft.pub=Silvretta.de&amp;rft_id=http%3A%2F%2Fwww.silvretta.de%2Fproducts.php%3Fchid%3D7%26m%3D4%26lang%3Duk%26sid%3D81c...96948316299d598c9455587c6%26prid%3D13%26ac%3Ddet&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASki"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ski&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.math.utah.edu/~eyre/rsbfaq/physics.html" rel="nofollow">Physics of skiing</a>.</li>
+<li><a class="external text" href="http://www.fis-ski.com/uk/insidefis/fisgeneralrules/equipment.html" rel="nofollow">FIS equipment tolerances</a>.</li>
+</ul>
+<div aria-labelledby="Skiing_and_snowboarding" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Skiing" title="Template:Skiing"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Skiing" title="Template talk:Skiing"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Skiing&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Skiing_and_snowboarding" style="font-size:114%;margin:0 4em"><a href="/wiki/Skiing" title="Skiing">Skiing</a> and <a href="/wiki/Snowboarding" title="Snowboarding">snowboarding</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Nordic_skiing" title="Nordic skiing">Nordic</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Competitive</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cross-country_skiing_(sport)" title="Cross-country skiing (sport)">Cross-country</a></li>
+<li><a href="/wiki/Nordic_combined" title="Nordic combined">Nordic combined</a></li>
+<li><a href="/wiki/Paralympic_cross-country_skiing" title="Paralympic cross-country skiing">Paralympic cross-country</a></li>
+<li><a href="/wiki/Ski_jumping" title="Ski jumping">Ski jumping</a></li>
+<li><a href="/wiki/Ski_flying" title="Ski flying">Ski flying</a></li>
+<li><a href="/wiki/Cross-country_skiing_(sport)#Ski_marathon" title="Cross-country skiing (sport)">Ski marathon</a></li>
+<li><a href="/wiki/Ski-orienteering" title="Ski-orienteering">Ski-orienteering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Recreational</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cross-country_skiing" title="Cross-country skiing">Cross-country</a></li>
+<li><a href="/wiki/Roller_skiing" title="Roller skiing">Roller</a></li>
+<li><a href="/wiki/Ski_touring" title="Ski touring">Ski touring</a></li>
+<li><a href="/wiki/Skijoring" title="Skijoring">Skijoring</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Alpine_skiing" title="Alpine skiing">Alpine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alpine_skiing_combined" title="Alpine skiing combined">Combined</a></li>
+<li><a href="/wiki/Downhill_(ski_competition)" title="Downhill (ski competition)">Downhill</a></li>
+<li><a href="/wiki/Extreme_skiing" title="Extreme skiing">Extreme</a></li>
+<li><a href="/wiki/Giant_slalom" title="Giant slalom">Giant slalom</a></li>
+<li><a href="/wiki/Heliskiing" title="Heliskiing">Heliskiing</a></li>
+<li><a href="/wiki/Para-alpine_skiing" title="Para-alpine skiing">Para-alpine</a></li>
+<li><a href="/wiki/Slalom_skiing" title="Slalom skiing">Slalom</a></li>
+<li><a href="/wiki/Speed_skiing" title="Speed skiing">Speed</a></li>
+<li><a href="/wiki/Super-G" title="Super-G">Super-G</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other skiing</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biathlon" title="Biathlon">Biathlon</a></li>
+<li><a href="/wiki/Telemark_skiing" title="Telemark skiing">Telemark</a></li>
+<li><a href="/wiki/Ski_mountaineering" title="Ski mountaineering">Ski mountaineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Snowboarding" title="Snowboarding">Snowboarding</a> and <a href="/wiki/Freestyle_skiing" title="Freestyle skiing">freestyle</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Aerial_skiing" title="Aerial skiing">Aerial</a></li>
+<li><a class="mw-redirect" href="/wiki/Alpine_snowboarding" title="Alpine snowboarding">Alpine snowboarding</a></li>
+<li><a href="/wiki/Boardercross" title="Boardercross">Boardercross</a></li>
+<li><a href="/wiki/Half-pipe" title="Half-pipe">Half-pipe</a></li>
+<li><a href="/wiki/Mogul_skiing" title="Mogul skiing">Mogul</a></li>
+<li><a href="/wiki/Ski_cross" title="Ski cross">Ski cross</a></li>
+<li><a href="/wiki/Slopestyle" title="Slopestyle">Slopestyle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Technique</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carve_turn" title="Carve turn">Carve turn</a></li>
+<li><a href="/wiki/Jump_turn" title="Jump turn">Jump turn</a></li>
+<li><a href="/wiki/Parallel_turn" title="Parallel turn">Parallel turn</a></li>
+<li><a href="/wiki/Pivot_turn_(skiing)" title="Pivot turn (skiing)">Pivot turn</a></li>
+<li><a href="/wiki/Snowplough_turn" title="Snowplough turn">Snowplough</a></li>
+<li><a class="mw-redirect" href="/wiki/Stem_(skiing)" title="Stem (skiing)">Stem</a></li>
+<li><a href="/wiki/Stem_christie" title="Stem christie">Stem christie</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Equipment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Skis</a></li>
+<li><a href="/wiki/Ski_binding" title="Ski binding">Bindings</a></li>
+<li><a href="/wiki/Ski_boot" title="Ski boot">Boots</a></li>
+<li><a href="/wiki/Ski_helmet" title="Ski helmet">Helmet</a></li>
+<li><a href="/wiki/Monoski" title="Monoski">Monoski</a></li>
+<li><a href="/wiki/Ski_pole" title="Ski pole">Poles</a></li>
+<li><a href="/wiki/Ski_skins" title="Ski skins">Skins</a></li>
+<li><a href="/wiki/Snowboard" title="Snowboard">Snowboard</a></li>
+<li><a href="/wiki/Ski_suit" title="Ski suit">Suit</a></li>
+<li><a href="/wiki/Ski_wax" title="Ski wax">Wax</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ski_resort" title="Ski resort">Resorts</a> and amenities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Apr%C3%A8s-ski" title="Après-ski">Après-ski</a></li>
+<li><a href="/wiki/Chairlift" title="Chairlift">Chairlift</a></li>
+<li><a href="/wiki/Cross-country_skiing_trail" title="Cross-country skiing trail">Cross-country skiing trail</a></li>
+<li><a href="/wiki/Dry_ski_slope" title="Dry ski slope">Dry ski slope</a></li>
+<li><a href="/wiki/Glade_skiing" title="Glade skiing">Glade skiing</a></li>
+<li><a href="/wiki/Gondola_lift" title="Gondola lift">Gondola lift</a></li>
+<li><a href="/wiki/Indoor_skiing" title="Indoor skiing">Indoor skiing</a></li>
+<li><a href="/wiki/Night_skiing" title="Night skiing">Night skiing</a></li>
+<li><a href="/wiki/Piste" title="Piste">Piste</a></li>
+<li><a href="/wiki/Ski_lift" title="Ski lift">Ski lift</a></li>
+<li><a href="/wiki/Ski_school" title="Ski school">Ski school</a></li>
+<li><a class="mw-redirect" href="/wiki/Ski_tunnel" title="Ski tunnel">Ski tunnel</a></li>
+<li><a href="/wiki/Snow_grooming" title="Snow grooming">Snow grooming</a></li>
+<li><a href="/wiki/Snowmaking" title="Snowmaking">Snowmaking</a></li>
+<li><a href="/wiki/Surface_lift" title="Surface lift">Surface lift</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1185
+Cached time: 20171104120255
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 1068/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35239/2097152 bytes
+Template argument size: 385/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 3.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  201.847      1 -total
+ 48.24%   97.369      1 Template:Reflist
+ 17.13%   34.572      1 Template:Citation
+ 17.03%   34.377      1 Template:More_footnotes
+ 12.97%   26.173      1 Template:Ambox
+  9.66%   19.497      1 Template:About
+  8.35%   16.854      4 Template:Cite_web
+  7.21%   14.557      1 Template:Skiing
+  7.16%   14.452      2 Template:Navbox
+  4.88%    9.857      2 Template:Cite_book
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28489-0!canonical and timestamp 20171104120255 and revision id 808676409
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ski&amp;oldid=808676409">https://en.wikipedia.org/w/index.php?title=Ski&amp;oldid=808676409</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Skiing_equipment" title="Category:Skiing equipment">Skiing equipment</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_November_2010" title="Category:Articles lacking in-text citations from November 2010">Articles lacking in-text citations from November 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ski" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ski" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Ski" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Ski" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Ski">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Ski&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Ski&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Ski" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Ski" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ski&amp;oldid=808676409" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ski&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q172226" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ski&amp;id=808676409" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ski">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ski&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Ski&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Skis" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B2%D9%84%D8%AC_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%AB%D9%84%D8%AC" hreflang="ar" lang="ar" title="تزلج على الثلج – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Tabla_de_esqu%C3%AD" hreflang="ast" lang="ast" title="Tabla de esquí – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Xiz%C9%99k" hreflang="az" lang="az" title="Xizək – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ski" hreflang="zh-min-nan" lang="zh-min-nan" title="Ski – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9B%D1%8B%D0%B6%D1%8B" hreflang="be" lang="be" title="Лыжы – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9B%D1%8B%D0%B6%D1%8B" hreflang="be-x-old" lang="be-x-old" title="Лыжы – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B8_(%D0%B5%D0%BA%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0)" hreflang="bg" lang="bg" title="Ски (екипировка) – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Ly%C5%BEe" hreflang="cs" lang="cs" title="Lyže – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Ski" hreflang="da" lang="da" title="Ski – Danish">Dansk</a></li><li class="interlanguage-link interwiki-se"><a class="interlanguage-link-target" href="https://se.wikipedia.org/wiki/Sabehat" hreflang="se" lang="se" title="Sabehat – Northern Sami">Davvisámegiella</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ski" hreflang="de" lang="de" title="Ski – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Suusad" hreflang="et" lang="et" title="Suusad – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tabla_de_esqu%C3%AD" hreflang="es" lang="es" title="Tabla de esquí – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%86%D9%88%D8%A8_%D8%A7%D8%B3%DA%A9%DB%8C" hreflang="fa" lang="fa" title="چوب اسکی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ski_(mat%C3%A9riel)" hreflang="fr" lang="fr" title="Ski (matériel) – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Sky" hreflang="fy" lang="fy" title="Sky – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B4%D5%A1%D5%B0%D5%B8%D6%82%D5%AF%D5%B6%D5%A5%D6%80" hreflang="hy" lang="hy" title="Դահուկներ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%80" hreflang="hi" lang="hi" title="स्की – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Skije" hreflang="hr" lang="hr" title="Skije – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Skio" hreflang="io" lang="io" title="Skio – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Papan_seluncur_salju" hreflang="id" lang="id" title="Papan seluncur salju – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sci_(attrezzo)" hreflang="it" lang="it" title="Sci (attrezzo) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%92%D7%9C%D7%A9%D7%99%D7%99%D7%9D" hreflang="he" lang="he" title="מגלשיים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%97%E1%83%AE%E1%83%98%E1%83%9A%E1%83%90%E1%83%9B%E1%83%A3%E1%83%A0%E1%83%94%E1%83%91%E1%83%98" hreflang="ka" lang="ka" title="თხილამურები – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A8%D0%B0%D2%A3%D2%93%D1%8B" hreflang="kk" lang="kk" title="Шаңғы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Ski" hreflang="ht" lang="ht" title="Ski – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-mrj"><a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/%D0%95%D1%87%D3%B9" hreflang="mrj" lang="mrj" title="Ечӹ – Western Mari">Кырык мары</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Sl%C4%93pes" hreflang="lv" lang="lv" title="Slēpes – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Slid%C4%97s" hreflang="lt" lang="lt" title="Slidės – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Sjie" hreflang="li" lang="li" title="Sjie – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A6%D0%B0%D0%BD%D0%B0" hreflang="mn" lang="mn" title="Цана – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Ski_(voortbeweging)" hreflang="nl" lang="nl" title="Ski (voortbeweging) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E6%9D%BF" hreflang="ja" lang="ja" title="スキー板 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Ski_(redskap)" hreflang="no" lang="no" title="Ski (redskap) – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Ski" hreflang="nn" lang="nn" title="Ski – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Chang%CA%BBi" hreflang="uz" lang="uz" title="Changʻi – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Narty" hreflang="pl" lang="pl" title="Narty – Polish">Polski</a></li><li class="interlanguage-link interwiki-rm"><a class="interlanguage-link-target" href="https://rm.wikipedia.org/wiki/Ski" hreflang="rm" lang="rm" title="Ski – Romansh">Rumantsch</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Chaki_lluchk%27ana" hreflang="qu" lang="qu" title="Chaki lluchk'ana – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8B%D0%B6%D0%B8" hreflang="ru" lang="ru" title="Лыжи – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Ski" hreflang="sco" lang="sco" title="Ski – Scots">Scots</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Sci_(attrezzu)" hreflang="scn" lang="scn" title="Sci (attrezzu) – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Ly%C5%BEe" hreflang="sk" lang="sk" title="Lyže – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B8%D1%98%D0%B5" hreflang="sr" lang="sr" title="Скије – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Skije" hreflang="sh" lang="sh" title="Skije – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Suksi" hreflang="fi" lang="fi" title="Suksi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Skidor" hreflang="sv" lang="sv" title="Skidor – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%9B%D0%B0%D2%93%D0%B6%D0%B0" hreflang="tg" lang="tg" title="Лағжа – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B6%D1%96" hreflang="uk" lang="uk" title="Лижі – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vep"><a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Suksed" hreflang="vep" lang="vep" title="Suksed – Veps">Vepsän kel’</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Ski" hreflang="war" lang="war" title="Ski – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%BB%91%E9%9B%AA%E6%9D%BF" hreflang="zh-yue" lang="zh-yue" title="滑雪板 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%BB%91%E9%9B%AA%E6%9D%BF" hreflang="zh" lang="zh" title="滑雪板 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q172226#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 November 2017, at 12:02.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Ski&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.258","ppvisitednodes":{"value":1068,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35239,"limit":2097152},"templateargumentsize":{"value":385,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  201.847      1 -total"," 48.24%   97.369      1 Template:Reflist"," 17.13%   34.572      1 Template:Citation"," 17.03%   34.377      1 Template:More_footnotes"," 12.97%   26.173      1 Template:Ambox","  9.66%   19.497      1 Template:About","  8.35%   16.854      4 Template:Cite_web","  7.21%   14.557      1 Template:Skiing","  7.16%   14.452      2 Template:Navbox","  4.88%    9.857      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"10.000"},"limitreport-memusage":{"value":3216978,"limit":52428800}},"cachereport":{"origin":"mw1185","timestamp":"20171104120255","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

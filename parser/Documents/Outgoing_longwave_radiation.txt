@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Outgoing longwave radiation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Outgoing_longwave_radiation","wgTitle":"Outgoing longwave radiation","wgCurRevisionId":749699047,"wgRevisionId":749699047,"wgArticleId":6864370,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Climatology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Outgoing_longwave_radiation","wgRelevantArticleId":6864370,"wgRequestId":"WgICuwpAICsAAJaR3FgAAAAJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2999493","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AIRS_OLR.png/1200px-AIRS_OLR.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Outgoing_longwave_radiation" rel="alternate"/>
+<link href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Outgoing_longwave_radiation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Outgoing_longwave_radiation rootpage-Outgoing_longwave_radiation vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Outgoing longwave radiation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a class="mw-redirect" href="/wiki/E-rays" title="E-rays">E-rays</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:AIRS_OLR.png"><img alt="" class="thumbimage" data-file-height="1010" data-file-width="1813" height="123" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AIRS_OLR.png/220px-AIRS_OLR.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AIRS_OLR.png/330px-AIRS_OLR.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AIRS_OLR.png/440px-AIRS_OLR.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:AIRS_OLR.png" title="Enlarge"></a></div>
+2003-2010 Annual mean OLR</div>
+</div>
+</div>
+<p><b>Outgoing Longwave Radiation</b> (<b>OLR</b>) is the energy radiating from the Earth as infrared radiation at low <a href="/wiki/Energy" title="Energy">energy</a> to Space.</p>
+<p>OLR is <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a> emitted from Earth and its atmosphere out to space in the form of <a href="/wiki/Thermal_radiation" title="Thermal radiation">thermal radiation</a>. The <a href="/wiki/Radiant_flux" title="Radiant flux">flux</a> of energy transported by outgoing longwave radiation is measured in <a href="/wiki/Irradiance" title="Irradiance">W/m²</a>.</p>
+<p>Over 99% of outgoing longwave radiation has wavelengths between 4 µm and 100 µm,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> in the thermal <a href="/wiki/Infrared" title="Infrared">infrared</a> part of the <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">electromagnetic spectrum</a>. Contributions with wavelengths larger than 40 µm are small, therefore often only wavelengths up to 50 µm are considered . In the wavelength range between 4 µm and 10 µm the spectrum of outgoing longwave radiation overlaps that of <a href="/wiki/Sunlight" title="Sunlight">solar radiation</a>, and for various applications different cut-off wavelengths between the two may be chosen.</p>
+<p><a href="/wiki/Radiative_cooling" title="Radiative cooling">Radiative cooling</a> by outgoing longwave radiation is the primary way the Earth System loses energy. The balance between this loss and the energy gained by radiative heating from incoming solar <a href="/wiki/Shortwave_radiation" title="Shortwave radiation">shortwave radiation</a> determines global heating or cooling of the Earth system (<a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Energy budget of Earth’s climate</a>).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Local differences between radiative heating and cooling provide the energy that drives atmospheric <a href="/wiki/Geophysical_fluid_dynamics" title="Geophysical fluid dynamics">dynamics</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Atmospheric_energy_radiation"><span class="tocnumber">1</span> <span class="toctext">Atmospheric energy radiation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Role_in_greenhouse_effect"><span class="tocnumber">2</span> <span class="toctext">Role in greenhouse effect</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#OLR_measurements"><span class="tocnumber">3</span> <span class="toctext">OLR measurements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#OLR_calculation_and_simulation"><span class="tocnumber">4</span> <span class="toctext">OLR calculation and simulation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Atmospheric_energy_radiation">Atmospheric energy radiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit&amp;section=1" title="Edit section: Atmospheric energy radiation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>OLR is a critical component of the <a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a>, and represents the total radiation going to space emitted by the atmosphere.<sup class="reference" id="cite_ref-NTRS_3-0"><a href="#cite_note-NTRS-3">[3]</a></sup> Earth's radiation balance is quite closely achieved since the OLR very nearly equals the Shortwave Absorbed Radiation received at high energy from the sun. Thus, the Earth's average temperature is very nearly stable. The OLR is affected by clouds and dust in the atmosphere, which tend to reduce it to below clear sky values.</p>
+<h2><span class="mw-headline" id="Role_in_greenhouse_effect">Role in greenhouse effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit&amp;section=2" title="Edit section: Role in greenhouse effect">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">Greenhouse gases</a>, such as <a href="/wiki/Methane" title="Methane">methane</a> (CH<sub>4</sub>), <a href="/wiki/Nitrous_oxide" title="Nitrous oxide">nitrous oxide</a> (N<sub>2</sub>O), <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> (H<sub>2</sub>O) and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>), absorb certain wavelengths of OLR adding heat to the atmosphere, which in turn causes the respective absorbing layer of the atmosphere to emit more radiation. Some of this radiation is directed back towards the Earth, increasing the average temperature of the Earth's surface. Therefore, an increase in the concentration of a greenhouse gas would contribute to <a href="/wiki/Global_warming" title="Global warming">global warming</a> by increasing the amount of radiation that is absorbed and emitted by these atmospheric constituents.</p>
+<p>The OLR is dependent on the temperature of the radiating body. It is affected by the Earth's skin temperature, skin surface emissivity, atmospheric temperature, water vapor profile, and cloud cover.<sup class="reference" id="cite_ref-NTRS_3-1"><a href="#cite_note-NTRS-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="OLR_measurements">OLR measurements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit&amp;section=3" title="Edit section: OLR measurements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Longwave radiation typically refers to radiation in the spectral region from 3 to 100 microns. In the Earth’s climate system, longwave radiation involves processes of absorption, scattering, and emissions from atmospheric gases, aerosols, clouds and the surface. Measuring outgoing longwave radiation at the top of atmosphere and downwelling longwave radiation at the surface are important for understanding how much radiative energy is kept in our climate system, how much reaches and warms the surface, and how the energy in the atmosphere is distributed to affect developments of clouds.</p>
+<p>Outgoing longwave radiation (OLR) has been monitored globally since 1975 by a number of successful and valuable satellite missions. These missions include broadband measurements from the Earth Radiation Balance (ERB) instrument on the Nimbus-6 and Nimbus-7 satellites;<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> <a class="mw-redirect" href="/wiki/Earth_Radiation_Budget_Experiment" title="Earth Radiation Budget Experiment">Earth Radiation Budget Experiment (ERBE)</a> scanner and the ERBE non scanner on NOAA-9, NOAA-10 and NASA Earth Radiation Budget Satellite (ERBS); <a href="/wiki/Clouds_and_the_Earth%27s_Radiant_Energy_System" title="Clouds and the Earth's Radiant Energy System">The Clouds and the Earth's Radiant Energy System (CERES)</a> instrument aboard NASA's Aqua and Terra satellites; and <a href="/wiki/Geostationary_Earth_Radiation_Budget" title="Geostationary Earth Radiation Budget">Geostationary Earth Radiation Budget instrument (GERB)</a> instrument on the Meteosat Second Generation (MSG) satellite.</p>
+<p>Downwelling longwave radiation at the surface is mainly measured by <a href="/wiki/Pyrgeometer" title="Pyrgeometer">Pyrgeometer</a>. A most notable ground-based network for monitoring surface longwave radiation is <a href="/wiki/Baseline_Surface_Radiation_Network" title="Baseline Surface Radiation Network">Baseline Surface Radiation Network (BSRN)</a>, which provides crucial well-calibrated measurements for studying <a href="/wiki/Global_dimming" title="Global dimming">global dimming</a> and brightening.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="OLR_calculation_and_simulation">OLR calculation and simulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit&amp;section=4" title="Edit section: OLR calculation and simulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many applications call for calculation of longwave radiation quantities: the balance of global incoming shortwave to outgoing longwave <a href="/wiki/Radiative_transfer" title="Radiative transfer">radiative flux</a> determines the <a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Energy budget of Earth’s climate</a>; local <a href="/wiki/Radiative_cooling" title="Radiative cooling">radiative cooling</a> by outgoing longwave radiation (and heating by shortwave radiation) drive the temperature and dynamics of different parts of the atmosphere; from the <a href="/wiki/Radiance" title="Radiance">radiance</a> from a particular direction measured by an instrument, atmospheric properties (like <a href="/wiki/Temperature" title="Temperature">temperature</a> or <a href="/wiki/Humidity" title="Humidity">humidity</a> can be <a href="/wiki/Inverse_problem" title="Inverse problem">retrieved</a>, etc. Calculations of these quantities solve the <a href="/wiki/Radiative_transfer" title="Radiative transfer">radiative transfer equations</a> that describe radiation in the atmosphere. Usually the solution is done numerically by an <a href="/wiki/Atmospheric_radiative_transfer_codes" title="Atmospheric radiative transfer codes">Atmospheric radiative transfer code</a> adapted to the specific problem.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Shortwave_radiation" title="Shortwave radiation">Shortwave radiation</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Petty, Grant W. (2006). <i>A first course in atmospheric radiation</i> (2. ed.). Madison, Wisc.: Sundog Publ. p. 68. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0972903318" title="Special:BookSources/978-0972903318">978-0972903318</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutgoing+longwave+radiation&amp;rft.aufirst=Grant+W.&amp;rft.aulast=Petty&amp;rft.btitle=A+first+course+in+atmospheric+radiation&amp;rft.date=2006&amp;rft.edition=2.&amp;rft.genre=book&amp;rft.isbn=978-0972903318&amp;rft.pages=68&amp;rft.place=Madison%2C+Wisc.&amp;rft.pub=Sundog+Publ.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kiehl, J. T.; Trenberth, Kevin E. (February 1997). "Earth's Annual Global Mean Energy Budget". <i>Bulletin of the American Meteorological Society</i>. <b>78</b> (2): 197–208. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0477%281997%29078%3C0197%3AEAGMEB%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0477(1997)078&lt;0197:EAGMEB&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutgoing+longwave+radiation&amp;rft.atitle=Earth%27s+Annual+Global+Mean+Energy+Budget&amp;rft.au=Trenberth%2C+Kevin+E.&amp;rft.aufirst=J.+T.&amp;rft.aulast=Kiehl&amp;rft.date=1997-02&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=197-208&amp;rft.volume=78&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0477%281997%29078%3C0197%3AEAGMEB%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NTRS-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-NTRS_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NTRS_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Susskind, Joel; Molnar, Gyula; Iredell, Lena. <a class="external text" href="http://hdl.handle.net/2060/20110015241" rel="nofollow">"Contributions to Climate Research Using the AIRS Science Team Version-5 Products"</a>. <i>NASA</i>. Goddard Space Flight Center<span class="reference-accessdate">. Retrieved <span class="nowrap">14 September</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutgoing+longwave+radiation&amp;rft.atitle=Contributions+to+Climate+Research+Using+the+AIRS+Science+Team+Version-5+Products&amp;rft.au=Iredell%2C+Lena&amp;rft.au=Molnar%2C+Gyula&amp;rft.au=Susskind%2C+Joel&amp;rft.genre=unknown&amp;rft.jtitle=NASA&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2060%2F20110015241&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jacobowitz, Herbert; Soule, Harold V.; Kyle, H. Lee; House, Frederick B. (30 June 1984). "The Earth Radiation Budget (ERB) Experiment: An overview". <i>Journal of Geophysical Research: Atmospheres</i>. <b>89</b> (D4): 5021–5038. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2FJD089iD04p05021" rel="nofollow">10.1029/JD089iD04p05021</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutgoing+longwave+radiation&amp;rft.atitle=The+Earth+Radiation+Budget+%28ERB%29+Experiment%3A+An+overview&amp;rft.au=House%2C+Frederick+B.&amp;rft.au=Kyle%2C+H.+Lee&amp;rft.au=Soule%2C+Harold+V.&amp;rft.aufirst=Herbert&amp;rft.aulast=Jacobowitz&amp;rft.date=1984-06-30&amp;rft.genre=article&amp;rft.issue=D4&amp;rft.jtitle=Journal+of+Geophysical+Research%3A+Atmospheres&amp;rft.pages=5021-5038&amp;rft.volume=89&amp;rft_id=info%3Adoi%2F10.1029%2FJD089iD04p05021&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kyle, H. L.; Arking, A.; Hickey, J. R.; Ardanuy, P. E.; Jacobowitz, H.; Stowe, L. L.; Campbell, G. G.; Vonder Haar, T.; House, F. B.; Maschhoff, R.; Smith, G. L. (May 1993). "The Nimbus Earth Radiation Budget (ERB) Experiment: 1975 to 1992". <i>Bulletin of the American Meteorological Society</i>. <b>74</b> (5): 815–830. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0477%281993%29074%3C0815%3ATNERBE%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0477(1993)074&lt;0815:TNERBE&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutgoing+longwave+radiation&amp;rft.atitle=The+Nimbus+Earth+Radiation+Budget+%28ERB%29+Experiment%3A+1975+to+1992&amp;rft.au=Ardanuy%2C+P.+E.&amp;rft.au=Arking%2C+A.&amp;rft.au=Campbell%2C+G.+G.&amp;rft.au=Hickey%2C+J.+R.&amp;rft.au=House%2C+F.+B.&amp;rft.au=Jacobowitz%2C+H.&amp;rft.au=Maschhoff%2C+R.&amp;rft.au=Smith%2C+G.+L.&amp;rft.au=Stowe%2C+L.+L.&amp;rft.au=Vonder+Haar%2C+T.&amp;rft.aufirst=H.+L.&amp;rft.aulast=Kyle&amp;rft.date=1993-05&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=815-830&amp;rft.volume=74&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0477%281993%29074%3C0815%3ATNERBE%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wild, Martin (27 June 2009). "Global dimming and brightening: A review". <i>Journal of Geophysical Research</i>. <b>114</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2008JD011470" rel="nofollow">10.1029/2008JD011470</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutgoing+longwave+radiation&amp;rft.atitle=Global+dimming+and+brightening%3A+A+review&amp;rft.aufirst=Martin&amp;rft.aulast=Wild&amp;rft.date=2009-06-27&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.volume=114&amp;rft_id=info%3Adoi%2F10.1029%2F2008JD011470&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.cdc.noaa.gov/map/clim/olr.shtml" rel="nofollow">NOAA Climate Diagnostics Center</a></li>
+<li><a class="external text" href="http://earthobservatory.nasa.gov/Observatory/Datasets/lwflux.erbe.html" rel="nofollow">NASA Earth Observatory Outgoing Heat Radiation</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080505031404/http://www.osdpd.noaa.gov/PSB/EPS/RB/RB.html" rel="nofollow">Office of Satellite Data Processing and Distribution, Radiation Budget</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived May 5, 2008)</li>
+<li><a class="external text" href="https://web.archive.org/web/20070927234618/http://mscweb.kishou.go.jp/general/activities/products/olr.htm" rel="nofollow">Meteorological Satellite Center, Japan Meteorological Agency</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived September 27, 2007)</li>
+<li><a class="external text" href="http://www.physicalgeography.net/fundamentals/7i.html" rel="nofollow">Planetary Energy Balance, Physical Geography</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20171031074433
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.164 seconds
+Preprocessor visited node count: 429/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12387/2097152 bytes
+Template argument size: 91/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  136.068      1 -total
+ 64.67%   87.989      1 Template:Reflist
+ 29.57%   40.232      1 Template:Cite_book
+ 24.80%   33.740      1 Template:Distinguish
+ 16.34%   22.240      4 Template:Cite_journal
+  6.06%    8.240      2 Template:Webarchive
+  4.49%    6.107      1 Template:Cite_web
+  1.39%    1.894      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6864370-0!canonical and timestamp 20171031074433 and revision id 749699047
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Outgoing_longwave_radiation&amp;oldid=749699047">https://en.wikipedia.org/w/index.php?title=Outgoing_longwave_radiation&amp;oldid=749699047</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climatology" title="Category:Climatology">Climatology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Outgoing+longwave+radiation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Outgoing+longwave+radiation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Outgoing_longwave_radiation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Outgoing_longwave_radiation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Outgoing_longwave_radiation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Outgoing_longwave_radiation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Outgoing_longwave_radiation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;oldid=749699047" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Outgoing_longwave_radiation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2999493" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Outgoing_longwave_radiation&amp;id=749699047" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Outgoing+longwave+radiation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Outgoing+longwave+radiation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Outgoing_longwave_radiation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Radiaci%C3%B3_sortint_d%27ona_llarga" hreflang="ca" lang="ca" title="Radiació sortint d'ona llarga – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ausstrahlung_(Atmosph%C3%A4re)" hreflang="de" lang="de" title="Ausstrahlung (Atmosphäre) – German">Deutsch</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Aardse_straling" hreflang="nl" lang="nl" title="Aardse straling – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Terrestrisk_str%C3%A5ling" hreflang="nn" lang="nn" title="Terrestrisk stråling – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Terrestrisk_str%C3%A5lning" hreflang="sv" lang="sv" title="Terrestrisk strålning – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E9%95%B7%E6%B3%A2%E8%BC%BB%E5%B0%84" hreflang="zh" lang="zh" title="地球長波輻射 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2999493#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 November 2016, at 18:58.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Outgoing_longwave_radiation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.164","ppvisitednodes":{"value":429,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12387,"limit":2097152},"templateargumentsize":{"value":91,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  136.068      1 -total"," 64.67%   87.989      1 Template:Reflist"," 29.57%   40.232      1 Template:Cite_book"," 24.80%   33.740      1 Template:Distinguish"," 16.34%   22.240      4 Template:Cite_journal","  6.06%    8.240      2 Template:Webarchive","  4.49%    6.107      1 Template:Cite_web","  1.39%    1.894      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.060","limit":"10.000"},"limitreport-memusage":{"value":2729565,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20171031074433","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

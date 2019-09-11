@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Telephone line - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Telephone_line","wgTitle":"Telephone line","wgCurRevisionId":763992654,"wgRevisionId":763992654,"wgArticleId":946963,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with limited geographic scope from December 2010","USA-centric","Articles needing additional references from September 2013","All articles needing additional references","Local loop","Telecommunications equipment","Telecommunications infrastructure"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Telephone_line","wgRelevantArticleId":946963,"wgRequestId":"WgH28QpAMEoAAEW-@VQAAAAG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1373572","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Phone_pole3.jpg/1200px-Phone_pole3.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Telephone_line" rel="alternate"/>
+<link href="/w/index.php?title=Telephone_line&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Telephone_line&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Telephone_line" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Telephone_line rootpage-Telephone_line vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Telephone line</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the <a href="/wiki/Electric_Light_Orchestra" title="Electric Light Orchestra">Electric Light Orchestra</a> song, see <a href="/wiki/Telephone_Line_(song)" title="Telephone Line (song)">Telephone Line (song)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Telephone_line&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Telephone_line" title="Talk:Telephone line">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Globe icon." data-file-height="290" data-file-width="350" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">The examples and perspective in this article <b>deal primarily with the United States and do not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. <span class="hide-when-compact">You may <a class="external text" href="//en.wikipedia.org/w/index.php?title=Telephone_line&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Telephone_line" title="Talk:Telephone line">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span> <small><i>(December 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Telephone_line&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(September 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Phone_pole3.jpg"><img alt="" class="thumbimage" data-file-height="2576" data-file-width="1932" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Phone_pole3.jpg/220px-Phone_pole3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Phone_pole3.jpg/330px-Phone_pole3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Phone_pole3.jpg/440px-Phone_pole3.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Phone_pole3.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a> with electric lines (top) and telephone cables.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png"><img alt="" class="thumbimage" data-file-height="810" data-file-width="956" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png/220px-Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png/330px-Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png/440px-Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png" title="Enlarge"></a></div>
+Fixed telephone lines per 100 inhabitants 1997–2007.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Bell_telephone_magazine_(1922)_(14754023254).jpg"><img alt="" class="thumbimage" data-file-height="1242" data-file-width="1134" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bell_telephone_magazine_%281922%29_%2814754023254%29.jpg/170px-Bell_telephone_magazine_%281922%29_%2814754023254%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bell_telephone_magazine_%281922%29_%2814754023254%29.jpg/255px-Bell_telephone_magazine_%281922%29_%2814754023254%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bell_telephone_magazine_%281922%29_%2814754023254%29.jpg/340px-Bell_telephone_magazine_%281922%29_%2814754023254%29.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Bell_telephone_magazine_(1922)_(14754023254).jpg" title="Enlarge"></a></div>
+Cross section of telephone cable of 1800 twisted pairs. Year 1922.</div>
+</div>
+</div>
+<p>A <b>telephone line</b> or <b>telephone circuit</b> (or just <b>line</b> or <b>circuit</b> <a href="/wiki/Jargon" title="Jargon">within the industry</a>) is a single-user <a href="/wiki/Telecommunication_circuit" title="Telecommunication circuit">circuit</a> on a <a href="/wiki/Telephone" title="Telephone">telephone</a> <a href="/wiki/Telecommunication" title="Telecommunication">communication</a> system. This is the physical <a href="/wiki/Wire" title="Wire">wire</a> or other signaling medium connecting the user's telephone apparatus to the <a class="mw-redirect" href="/wiki/Telecommunications" title="Telecommunications">telecommunications</a> network, and usually also implies a single <a href="/wiki/Telephone_number" title="Telephone number">telephone number</a> for <a href="/wiki/Invoice" title="Invoice">billing</a> purposes reserved for that user. Telephone lines are used to deliver <a href="/wiki/Landline" title="Landline">landline</a> telephone service and <a href="/wiki/Digital_subscriber_line" title="Digital subscriber line">Digital subscriber line</a> (DSL) phone cable service to the premises. Telephone overhead lines are connected to the <a href="/wiki/Public_switched_telephone_network" title="Public switched telephone network">public switched telephone network</a>.</p>
+<h2><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Telephone_line&amp;action=edit&amp;section=1" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1878, the <a href="/wiki/Bell_System" title="Bell System">Bell Telephone Company</a> began to use two-wire circuits (called the <a href="/wiki/Local_loop" title="Local loop">local loop</a>) from each user's telephone to <a href="/wiki/Telephone_exchange" title="Telephone exchange">end offices</a> which performed any necessary electrical switching to allow voice signals to be transmitted to more distant telephones.</p>
+<p>These wires were typically <a href="/wiki/Copper" title="Copper">copper</a>, although <a href="/wiki/Aluminium" title="Aluminium">aluminium</a> has also been used, and were carried in <a class="mw-redirect" href="/wiki/Balanced_pair" title="Balanced pair">balanced pairs</a> of open wire, separated by about 25 cm (10") on <a href="/wiki/Utility_pole" title="Utility pole">poles</a> above the ground, and later as <a href="/wiki/Twisted_pair" title="Twisted pair">twisted pair</a> cables. Modern lines may run underground, and may carry analog or digital signals to the exchange, or may have <a class="mw-redirect" href="/wiki/Subscriber_Loop_Carrier" title="Subscriber Loop Carrier">a device that converts</a> the <a href="/wiki/Analog_signal" title="Analog signal">analog signal</a> to digital for <a class="mw-redirect" href="/wiki/Transmission_(telecom)" title="Transmission (telecom)">transmission</a> on a <a href="/wiki/Carrier_system" title="Carrier system">carrier system</a>.</p>
+<p>Often the customer end of that wire pair is connected to a <a href="/wiki/Data_access_arrangement" title="Data access arrangement">data access arrangement</a>; the telephone company end of that wire pair is connected to a <a href="/wiki/Telephone_hybrid" title="Telephone hybrid">telephone hybrid</a>.</p>
+<p>In most cases, two copper wires (<a href="/wiki/Tip_and_ring" title="Tip and ring">tip and ring</a>) for each telephone line run from a home or other small building to a local <a href="/wiki/Telephone_exchange" title="Telephone exchange">telephone exchange</a>. There is a central <a href="/wiki/Junction_box" title="Junction box">junction box</a> for the building where the wires that go to telephone jacks throughout the building and wires that go to the exchange meet and can be connected in different configurations depending upon the subscribed telephone service. The wires between the junction box and the exchange are known as the <a href="/wiki/Local_loop" title="Local loop">local loop</a>, and the network of wires going to an exchange, the <a href="/wiki/Access_network" title="Access network">access network</a>.</p>
+<p>The vast majority of houses in the U.S. are wired with 6-position <a href="/wiki/Modular_connector" title="Modular connector">modular jacks</a> with four <a href="/wiki/Electrical_conductor" title="Electrical conductor">conductors</a> (<a class="mw-redirect" href="/wiki/6P4C" title="6P4C">6P4C</a>) wired to the house's junction box with copper wires. Those wires may be connected back to two telephone overhead lines at the local <a href="/wiki/Telephone_exchange" title="Telephone exchange">telephone exchange</a>, thus making those jacks <a class="mw-redirect" href="/wiki/RJ11,_RJ14,_RJ25" title="RJ11, RJ14, RJ25">RJ14</a> jacks. More often, only two of the wires are connected to the exchange as one telephone line, and the others are unconnected. In that case, the jacks in the house are <a class="mw-redirect" href="/wiki/RJ11,_RJ14,_RJ25" title="RJ11, RJ14, RJ25">RJ11</a>.</p>
+<p>Older houses often have 4-conductor telephone station cable in the walls color coded with Bell System colors: red, green, yellow, black as 2-pairs of 22 AWG (0.33 mm²) solid copper; "line 1" uses the red/green pair and "line 2" uses the yellow/black pair. Inside the walls of the house—between the house's outside junction box and the interior <a class="mw-redirect" href="/wiki/Wall_jack" title="Wall jack">wall jacks</a>—the most common telephone cable in new houses is <a href="/wiki/Category_5_cable" title="Category 5 cable">Category 5 cable</a>—4 pairs of 24 AWG (0.205 mm²) solid copper.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Inside large buildings, and in the outdoor cables that run to the telephone company <a href="/wiki/Point_of_presence" title="Point of presence">POP</a>, many telephone lines are bundled together in a single cable using the <a href="/wiki/25-pair_color_code" title="25-pair color code">25-pair color code</a>.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Telephone_line&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Public Service Commission of Wisconsin. <a class="external text" href="http://www.wwt.net/pdf/telephone-wiring.pdf" rel="nofollow">"Testing, Repairing &amp; Installing Home Telephone Wiring"</a>.</span></li>
+</ol>
+</div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20171019164631
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.124 seconds
+Preprocessor visited node count: 400/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23825/2097152 bytes
+Template argument size: 6144/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 1.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   95.512      1 -total
+ 76.11%   72.692      3 Template:Ambox
+ 60.98%   58.248      1 Template:Multiple_issues
+ 31.67%   30.253      1 Template:For
+ 26.69%   25.497      1 Template:Globalize/US
+ 21.98%   20.997      1 Template:Globalize
+  7.43%    7.098      1 Template:Refimprove
+  5.67%    5.411      1 Template:Reflist
+  1.98%    1.892      2 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:946963-0!canonical and timestamp 20171019164631 and revision id 763992654
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Telephone_line&amp;oldid=763992654">https://en.wikipedia.org/w/index.php?title=Telephone_line&amp;oldid=763992654</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Local_loop" title="Category:Local loop">Local loop</a></li><li><a href="/wiki/Category:Telecommunications_equipment" title="Category:Telecommunications equipment">Telecommunications equipment</a></li><li><a href="/wiki/Category:Telecommunications_infrastructure" title="Category:Telecommunications infrastructure">Telecommunications infrastructure</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_December_2010" title="Category:Articles with limited geographic scope from December 2010">Articles with limited geographic scope from December 2010</a></li><li><a href="/wiki/Category:USA-centric" title="Category:USA-centric">USA-centric</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2013" title="Category:Articles needing additional references from September 2013">Articles needing additional references from September 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Telephone+line" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Telephone+line" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Telephone_line" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Telephone_line" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Telephone_line">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Telephone_line&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Telephone_line&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Telephone_line" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Telephone_line" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Telephone_line&amp;oldid=763992654" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Telephone_line&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1373572" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Telephone_line&amp;id=763992654" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Telephone+line">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Telephone+line&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Telephone_line&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AE%D8%B7_%D9%87%D8%A7%D8%AA%D9%81" hreflang="ar" lang="ar" title="خط هاتف – Arabic">العربية</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Linenn_pellgomz" hreflang="br" lang="br" title="Linenn pellgomz – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/L%C3%ADnia_telef%C3%B2nica" hreflang="ca" lang="ca" title="Línia telefònica – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Telefonlinje" hreflang="da" lang="da" title="Telefonlinje – Danish">Dansk</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Telefoniliin" hreflang="et" lang="et" title="Telefoniliin – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/L%C3%ADnea_telef%C3%B3nica" hreflang="es" lang="es" title="Línea telefónica – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AE%D8%B7_%D8%AA%D9%84%D9%81%D9%86" hreflang="fa" lang="fa" title="خط تلفن – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%84%ED%99%94%EC%84%A0" hreflang="ko" lang="ko" title="전화선 – Korean">한국어</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E8%A9%B1%E5%9B%9E%E7%B7%9A" hreflang="ja" lang="ja" title="電話回線 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%B9%DB%8C%D9%84%DB%8C_%D9%81%D9%88%D9%86_%D9%84%D8%A7%D8%A6%D9%86" hreflang="ur" lang="ur" title="ٹیلی فون لائن – Urdu">اردو</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%A9%B1%E7%B7%9A" hreflang="zh" lang="zh" title="電話線 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1373572#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 6 February 2017, at 12:26.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Telephone_line&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.124","ppvisitednodes":{"value":400,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23825,"limit":2097152},"templateargumentsize":{"value":6144,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   95.512      1 -total"," 76.11%   72.692      3 Template:Ambox"," 60.98%   58.248      1 Template:Multiple_issues"," 31.67%   30.253      1 Template:For"," 26.69%   25.497      1 Template:Globalize/US"," 21.98%   20.997      1 Template:Globalize","  7.43%    7.098      1 Template:Refimprove","  5.67%    5.411      1 Template:Reflist","  1.98%    1.892      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.033","limit":"10.000"},"limitreport-memusage":{"value":1473325,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20171019164631","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1239"});});</script>
+</body>
+</html>

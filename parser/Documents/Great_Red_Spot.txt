@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Great Red Spot - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Great_Red_Spot","wgTitle":"Great Red Spot","wgCurRevisionId":809257096,"wgRevisionId":809257096,"wgArticleId":67405,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from August 2017","Jupiter","Planetary spots","Anticyclones","Vortices","Storms"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Great_Red_Spot","wgRelevantArticleId":67405,"wgRequestId":"WgJXWgpAIC4AADznEv0AAABN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q194256","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jupiter_from_Voyager_1.jpg/1200px-Jupiter_from_Voyager_1.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Great_Red_Spot" rel="alternate"/>
+<link href="/w/index.php?title=Great_Red_Spot&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Great_Red_Spot&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Great_Red_Spot" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Great_Red_Spot rootpage-Great_Red_Spot vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Great Red Spot</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a class="image" href="/wiki/File:Jupiter_from_Voyager_1.jpg"><img alt="" class="thumbimage" data-file-height="4637" data-file-width="5489" height="270" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jupiter_from_Voyager_1.jpg/320px-Jupiter_from_Voyager_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jupiter_from_Voyager_1.jpg/480px-Jupiter_from_Voyager_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jupiter_from_Voyager_1.jpg/640px-Jupiter_from_Voyager_1.jpg 2x" width="320"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Jupiter_from_Voyager_1.jpg" title="Enlarge"></a></div>
+A <a href="/wiki/False_color" title="False color">false-color</a> image of the Great Red Spot of Jupiter from <i><a href="/wiki/Voyager_1" title="Voyager 1">Voyager 1</a></i>. The white oval storm directly below the Great Red Spot has approximately the same diameter as the <a href="/wiki/Earth" title="Earth">Earth</a>. <i><a href="/wiki/NASA" title="NASA">NASA</a> image.</i></div>
+</div>
+</div>
+<p>The <b>Great Red Spot</b> is a persistent zone of high pressure, producing an <a href="/wiki/Anticyclonic_storm" title="Anticyclonic storm">anticyclonic storm</a> on the <a href="/wiki/Planet" title="Planet">planet</a> <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a>, 22° south of the equator. It has been continuously observed for 187 years, since 1830. Earlier observations from 1665 to 1713 are believed to be the same storm; if this is correct, it has existed for at least 350 years.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Storms such as this are not uncommon within the <a href="/wiki/Turbulence" title="Turbulence">turbulent</a> <a class="mw-redirect" href="/wiki/Celestial_body_atmosphere" title="Celestial body atmosphere">atmospheres</a> of <a href="/wiki/Gas_giant" title="Gas giant">gas giants</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Observation_history"><span class="tocnumber">1</span> <span class="toctext">Observation history</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Structure"><span class="tocnumber">2</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mechanical_dynamics"><span class="tocnumber">3</span> <span class="toctext">Mechanical dynamics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Observation_history">Observation history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Red_Spot&amp;action=edit&amp;section=1" title="Edit section: Observation history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:211px;"><a class="image" href="/wiki/File:Pioneer_10_jup.jpg"><img alt="" class="thumbimage" data-file-height="552" data-file-width="489" height="236" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pioneer_10_jup.jpg/209px-Pioneer_10_jup.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pioneer_10_jup.jpg/314px-Pioneer_10_jup.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pioneer_10_jup.jpg/418px-Pioneer_10_jup.jpg 2x" width="209"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pioneer_10_jup.jpg" title="Enlarge"></a></div>
+Image of Jupiter by <i>Pioneer 10</i> in 1974, showing a more solid-looking spot than when shown by <i>Voyager 1</i> in 1979</div>
+</div>
+</div>
+<p>The Great Red Spot may have existed since before 1665, but the present spot was first seen only after 1830 and well-studied only after a prominent apparition in 1879. A long gap separates its period of current study after 1830 from its seventeenth-century discovery; whether the original spot dissipated and reformed, whether it faded, or even if the observational record was simply poor, are all unknown.<sup class="reference" id="cite_ref-Beebe1_3-0"><a href="#cite_note-Beebe1-3">[3]</a></sup></p>
+<p>For example, its first sighting is often credited to <a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a>, who described a spot on the planet in May 1664; however, it is likely that Hooke's spot was in the wrong belt altogether (the North Equatorial Belt, versus the current Great Red Spot's location in the South Equatorial Belt). Much more convincing is <a class="mw-redirect" href="/wiki/Giovanni_Cassini" title="Giovanni Cassini">Giovanni Cassini</a>'s description of a "permanent spot" the following year.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> With fluctuations in visibility, Cassini's spot was observed from 1665 to 1713; however, the 118-year observational gap makes the identity of the two spots inconclusive, and the older spot's shorter observational history and slower motion than the modern spot make their identity unlikely.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>A minor mystery concerns a Jovian spot depicted in a 1711 canvas by <a href="/wiki/Donato_Creti" title="Donato Creti">Donato Creti</a>, which is exhibited in the <a href="/wiki/Vatican_City" title="Vatican City">Vatican</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-Hockey1_7-0"><a href="#cite_note-Hockey1-7">[7]</a></sup> Part of a series of panels in which different (magnified) heavenly bodies serve as backdrops for various <a href="/wiki/Italy" title="Italy">Italian</a> scenes, and all overseen by the astronomer <a href="/wiki/Eustachio_Manfredi" title="Eustachio Manfredi">Eustachio Manfredi</a> for accuracy, Creti's painting is the first known to depict the Great Red Spot as red. No Jovian feature was explicitly described as red before the late 1800s.<sup class="reference" id="cite_ref-Hockey1_7-1"><a href="#cite_note-Hockey1-7">[7]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Great_Red_Spot_From_Voyager_1.jpg"><img alt="" class="thumbimage" data-file-height="848" data-file-width="895" height="237" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Great_Red_Spot_From_Voyager_1.jpg/250px-Great_Red_Spot_From_Voyager_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Great_Red_Spot_From_Voyager_1.jpg/375px-Great_Red_Spot_From_Voyager_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Great_Red_Spot_From_Voyager_1.jpg/500px-Great_Red_Spot_From_Voyager_1.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Great_Red_Spot_From_Voyager_1.jpg" title="Enlarge"></a></div>
+A wider view of Jupiter and the Great Red Spot as seen from <i>Voyager 1</i> in 1979</div>
+</div>
+</div>
+<p>On February 25, 1979,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> when the <i><a href="/wiki/Voyager_1" title="Voyager 1">Voyager 1</a></i> spacecraft was 9.2 million kilometres (5.7 million miles) from Jupiter it transmitted the first detailed image of the Great Red Spot back to Earth. Cloud details as small as 160 kilometres (100 miles) across were visible. The colorful, wavy cloud pattern seen to the left (west) of the Red Spot is a region of extraordinarily complex and variable wave motion.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:790106-0203_Voyager_58M_to_31M_reduced.gif"><img alt="" class="thumbimage" data-file-height="400" data-file-width="390" height="226" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/790106-0203_Voyager_58M_to_31M_reduced.gif/220px-790106-0203_Voyager_58M_to_31M_reduced.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/790106-0203_Voyager_58M_to_31M_reduced.gif/330px-790106-0203_Voyager_58M_to_31M_reduced.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a3/790106-0203_Voyager_58M_to_31M_reduced.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:790106-0203_Voyager_58M_to_31M_reduced.gif" title="Enlarge"></a></div>
+Time-lapse sequence from the approach of <i><a href="/wiki/Voyager_1" title="Voyager 1">Voyager 1</a></i> to Jupiter, showing the motion of atmospheric bands, and circulation of the Great Red Spot. <i>NASA image</i>.</div>
+</div>
+</div>
+<p>At the start of 2004, the Great Red Spot had approximately half the longitudinal extent it had a century ago, when it reached a size of 40,000 kilometres. At the present rate of reduction it would become circular by 2040. It is not known how long the spot will last, or whether the change is a result of normal fluctuations.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>A smaller spot, designated <a class="mw-redirect" href="/wiki/Oval_BA" title="Oval BA">Oval BA</a>, formed recently (March 2000) from the merger of three white ovals,<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> has turned reddish in color. Astronomers have named it the <i>Little Red Spot</i> or <i>Red, Jr.</i> As of June 5, 2006, the Great Red Spot and Oval BA appeared to be approaching convergence.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The storms pass each other about every two years but the passings of 2002 and 2004 were of little significance. Amy Simon-Miller, of the <a href="/wiki/Goddard_Space_Flight_Center" title="Goddard Space Flight Center">Goddard Space Flight Center</a>, predicted the storms would have their closest passing on July 4, 2006. She worked with Imke de Pater and Phil Marcus of <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">UC Berkeley</a>, and a team of professional astronomers since April 2006 to study the storms using the <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a>; on July 20, the two storms were photographed passing each other by the <a href="/wiki/Gemini_Observatory" title="Gemini Observatory">Gemini Observatory</a> without converging.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> In May 2008 a third storm turned red.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<p>The Great Red Spot should not be confused with the <i>Great Dark Spot</i>, a feature observed near the northern pole of Jupiter in 2000 with the <i><a href="/wiki/Cassini%E2%80%93Huygens" title="Cassini–Huygens">Cassini–Huygens</a></i> spacecraft.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Note that a feature in the atmosphere of <a href="/wiki/Neptune" title="Neptune">Neptune</a> was also called the <i><a href="/wiki/Great_Dark_Spot" title="Great Dark Spot">Great Dark Spot</a></i>. The latter feature was imaged by <i><a href="/wiki/Voyager_2" title="Voyager 2">Voyager 2</a></i> in 1989, and may have been an atmospheric hole rather than a storm and it was no longer present as of 1994 (although a similar spot had appeared farther to the north).</p>
+<p><a href="/wiki/NASA" title="NASA">NASA</a>'s <a href="/wiki/Juno_(spacecraft)" title="Juno (spacecraft)">Juno Spacecraft</a> flew over the Great Red Spot on July 11, 2017, taking several images of the Spot from about 5,000 miles (8,000 km) above the surface.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Red_Spot&amp;action=edit&amp;section=2" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Jupiter,_Earth_size_comparison.jpg"><img alt="" class="thumbimage" data-file-height="2571" data-file-width="3000" height="214" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jupiter%2C_Earth_size_comparison.jpg/250px-Jupiter%2C_Earth_size_comparison.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jupiter%2C_Earth_size_comparison.jpg/375px-Jupiter%2C_Earth_size_comparison.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jupiter%2C_Earth_size_comparison.jpg/500px-Jupiter%2C_Earth_size_comparison.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Jupiter,_Earth_size_comparison.jpg" title="Enlarge"></a></div>
+Approximate size comparison of Earth and the Great Red Spot.</div>
+</div>
+</div>
+<p>The oval object rotates counter-clockwise, with a period of about six Earth days<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> or fourteen Jovian days. Measuring in at 10,159 miles (16,350 kilometers) in width (as of April 3, 2017) Jupiter's Great Red Spot is 1.3 times as wide as Earth.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> The <a href="/wiki/Cloud" title="Cloud">cloud</a>-tops of this storm are about eight kilometres above the surrounding cloud-tops.</p>
+<p><a href="/wiki/Infrared" title="Infrared">Infrared</a> data have long indicated that the Great Red Spot is colder (and thus, higher in altitude) than most of the other clouds on the planet.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> However, recent infrared measurements of the upper atmosphere show far more heat above the Great Red Spot than the rest of the planet; "acoustic waves" rising from the storm have been proposed as an explanation for Jupiter's temperature.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<p>Careful tracking of atmospheric features revealed the spot's counter-clockwise circulation as far back as 1966, observations dramatically confirmed by the first time-lapse movies from the <i>Voyager</i> fly-bys.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> The spot is confined by a modest eastward <a href="/wiki/Jet_stream" title="Jet stream">jet stream</a> to its south and a very strong westward one to its north.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> Though winds around the edge of the spot peak at ~120 metres per second (432 kilometres per hour), currents inside it seem stagnant, with little inflow or outflow.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> The rotation period of the spot has decreased with time, perhaps as a direct result of its steady reduction in size.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:PIA02863_-_Jupiter_surface_motion_animation.gif"><img alt="" class="thumbimage" data-file-height="600" data-file-width="1799" height="83" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/PIA02863_-_Jupiter_surface_motion_animation.gif/250px-PIA02863_-_Jupiter_surface_motion_animation.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/PIA02863_-_Jupiter_surface_motion_animation.gif/375px-PIA02863_-_Jupiter_surface_motion_animation.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/PIA02863_-_Jupiter_surface_motion_animation.gif/500px-PIA02863_-_Jupiter_surface_motion_animation.gif 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:PIA02863_-_Jupiter_surface_motion_animation.gif" title="Enlarge"></a></div>
+Color animation of Jupiter's cloud motion.</div>
+</div>
+</div>
+<p>The Great Red Spot's <a href="/wiki/Latitude" title="Latitude">latitude</a> has been stable for the duration of good observational records, typically varying by about a degree. Its <a href="/wiki/Longitude" title="Longitude">longitude</a>, however, is subject to constant variation.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> Because Jupiter does not rotate uniformly at all latitudes, astronomers have defined three different systems for defining the longitude. System II is used for latitudes of more than 10°, and was originally based on the average rotation rate of the Great Red Spot of 9h 55m 42s.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> Despite this, however, the spot has "lapped" the planet in System II at least 10 times since the early nineteenth century. Its drift rate has changed dramatically over the years and has been linked to the brightness of the South Equatorial Belt, and the presence or absence of a South Tropical Disturbance.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Great_red_spot_juno_20170712.jpg"><img alt="" class="thumbimage" data-file-height="3911" data-file-width="2415" height="275" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Great_red_spot_juno_20170712.jpg/170px-Great_red_spot_juno_20170712.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Great_red_spot_juno_20170712.jpg/255px-Great_red_spot_juno_20170712.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Great_red_spot_juno_20170712.jpg/340px-Great_red_spot_juno_20170712.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Great_red_spot_juno_20170712.jpg" title="Enlarge"></a></div>
+Closeup detail of the Great Red spot taken by NASA's <a href="/wiki/Juno_(spacecraft)" title="Juno (spacecraft)">Juno</a> on July 11, 2017</div>
+</div>
+</div>
+<p>It is not known exactly what causes the Great Red Spot's reddish color. Theories supported by laboratory experiments suppose that the color may be caused by complex organic molecules, red phosphorus, or a compound containing sulphur, but a consensus has yet to be reached.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2017)">citation needed</span></a></i>]</sup></p>
+<p>The Great Red Spot varies greatly in hue, from almost brick-red to pale salmon, or even white. In fact, the spot occasionally "disappears", becoming evident only through the Red Spot Hollow, which is its niche in the <a class="mw-redirect" href="/wiki/Cloud_pattern_on_Jupiter" title="Cloud pattern on Jupiter">South Equatorial Belt</a> (SEB). Interestingly, its visibility is apparently coupled to the SEB; when the belt is bright white, the spot tends to be dark, and when it is dark, the spot is usually light. These periods when the spot is dark or light occur at irregular intervals; as of 1997, during the preceding 50 years, the spot was darkest in the periods 1961–1966, 1968–1975, 1989–1990, and 1992–1993.<sup class="reference" id="cite_ref-Beebe1_3-1"><a href="#cite_note-Beebe1-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Mechanical_dynamics">Mechanical dynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Red_Spot&amp;action=edit&amp;section=3" title="Edit section: Mechanical dynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is no definitive theory as to what is causing the formation or colour of the storm that is known as the Great Red Spot. Laboratory studies are examining the effects that <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic rays</a> or <a class="mw-redirect" href="/wiki/UV_radiation" title="UV radiation">UV Light</a> from the Sun are having on the chemical composition of the clouds of Jupiter. In particular whether the Sun's radiation is reacting with <a href="/wiki/Ammonium_hydrosulfide" title="Ammonium hydrosulfide">ammonium hydrosulfide</a> in the planet's outer atmosphere to create the deep red colour.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> Research has shown that the storm produces extreme amounts of heat because it is simultaneously generating <a href="/wiki/Gravity_wave" title="Gravity wave">gravity</a> and <a href="/wiki/Acoustic_wave" title="Acoustic wave">acoustic waves</a>. When these turbulent energy waves collide 500 mi (800 km) above the red spot, they are creating extremely high temperatures in the planet's upper atmosphere. The effect is described as being like "crashing [..] ocean waves on a beach".<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> The reason the storm has continued to exist for centuries is because of the physical nature of Jupiter. As there is no planetary surface to provide friction (only a liquid core of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>), circulating gas eddies persist for a very long time in the atmosphere because there is nothing to oppose their angular momentum.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Red_Spot&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="5600" data-file-width="4500" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/22px-Solar_system.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/34px-Solar_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/45px-Solar_system.jpg 2x" width="22"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Solar_System" title="Portal:Solar System">Solar System portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Atmosphere_of_Jupiter" title="Atmosphere of Jupiter">Atmosphere of Jupiter</a></li>
+<li><a href="/wiki/Great_Dark_Spot" title="Great Dark Spot">Great Dark Spot</a>, a similar storm on <a href="/wiki/Neptune" title="Neptune">Neptune</a></li>
+<li><a href="/wiki/Great_White_Spot" title="Great White Spot">Great White Spot</a>, a similar storm on <a href="/wiki/Saturn" title="Saturn">Saturn</a></li>
+<li><a class="mw-redirect" href="/wiki/Extraterrestrial_cyclone" title="Extraterrestrial cyclone">Extraterrestrial cyclone</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Red_Spot&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Staff (2007). <a class="external text" href="http://www.space.com/scienceastronomy/solarsystem/jupiter-ez.html" rel="nofollow">"Jupiter Data Sheet – SPACE.coma"</a>. Imaginova<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jupiter+Data+Sheet+%E2%80%93+SPACE.coma&amp;rft.pub=Imaginova&amp;rft.date=2007&amp;rft.au=Staff&amp;rft_id=http%3A%2F%2Fwww.space.com%2Fscienceastronomy%2Fsolarsystem%2Fjupiter-ez.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Anonymous. <a class="external text" href="http://csep10.phys.utk.edu/astr161/lect/jupiter/redspot.html" rel="nofollow">"The Solar System - The Planet Jupiter – The Great Red Spot"</a>. Dept. Physics &amp; Astronomy – University of Tennessee<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-30</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Solar+System+-+The+Planet+Jupiter+%E2%80%93+The+Great+Red+Spot&amp;rft.pub=Dept.+Physics+%26+Astronomy+%E2%80%93+University+of+Tennessee&amp;rft.au=Anonymous&amp;rft_id=http%3A%2F%2Fcsep10.phys.utk.edu%2Fastr161%2Flect%2Fjupiter%2Fredspot.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Beebe1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Beebe1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Beebe1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Beebe (1997), 38-41.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Rogers (1995), 6.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Rogers (1995), 188.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Staff (2003). <a class="external text" href="https://astrogeology.usgs.gov/HotTopics/index.php?/archives/147-Names-for-the-Columbia-astronauts-provisionally-approved.html" rel="nofollow">"Astronomical Observations: Donato Creti"</a>. Vatican Museums<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Astronomical+Observations%3A+Donato+Creti&amp;rft.pub=Vatican+Museums&amp;rft.date=2003&amp;rft.au=Staff&amp;rft_id=https%3A%2F%2Fastrogeology.usgs.gov%2FHotTopics%2Findex.php%3F%2Farchives%2F147-Names-for-the-Columbia-astronauts-provisionally-approved.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Hockey1-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hockey1_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hockey1_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hockey (1999), 40-1.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Smith <i>et al</i> (1979), 951-972.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beatty, J. Kelly (2002). <a class="external text" href="http://www.saburchill.com/HOS/astronomy/034.html" rel="nofollow">"Jupiter's Shrinking Red Spot"</a>. <i>Sky and Telescope</i>. <b>103</b> (4): 24<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sky+and+Telescope&amp;rft.atitle=Jupiter%27s+Shrinking+Red+Spot&amp;rft.volume=103&amp;rft.issue=4&amp;rft.pages=24&amp;rft.date=2002&amp;rft.aulast=Beatty&amp;rft.aufirst=J.+Kelly&amp;rft_id=http%3A%2F%2Fwww.saburchill.com%2FHOS%2Fastronomy%2F034.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sanchez-Lavega, A.; et al. (February 2001). "The Merger of Two Giant Anticyclones in the Atmosphere of Jupiter". <i>Icarus</i>. <b>149</b> (2): 491–495. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001Icar..149..491S" rel="nofollow">2001Icar..149..491S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1006%2Ficar.2000.6548" rel="nofollow">10.1006/icar.2000.6548</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=The+Merger+of+Two+Giant+Anticyclones+in+the+Atmosphere+of+Jupiter&amp;rft.volume=149&amp;rft.issue=2&amp;rft.pages=491-495&amp;rft.date=2001-02&amp;rft_id=info%3Adoi%2F10.1006%2Ficar.2000.6548&amp;rft_id=info%3Abibcode%2F2001Icar..149..491S&amp;rft.aulast=Sanchez-Lavega&amp;rft.aufirst=A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Sanchez-Lavega, A.; Orton, G.S.; Morales R.; et al. (2001). "The Merger of Two Giant Anticyclones in the Atmosphere of Jupiter". <i><a href="/wiki/Icarus_(journal)" title="Icarus (journal)">Icarus</a></i>. <b>149</b> (2): 491–495.<a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>: <a class="external text" href="http://adsabs.harvard.edu/abs/2001Icar..149..491S" rel="nofollow">2001Icar..149..491S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1006%2Ficar.2000.6548" rel="nofollow">10.1006/icar.2000.6548</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Phillips, Tony. <a class="external text" href="https://web.archive.org/web/20070202190145/https://science.nasa.gov/headlines/y2006/05jun_redperil.htm" rel="nofollow">"Huge Storms Converge"</a>. Science@NASA. Archived from <a class="external text" href="https://science.nasa.gov/headlines/y2006/05jun_redperil.htm" rel="nofollow">the original</a> on 2007-02-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Huge+Storms+Converge&amp;rft.pub=Science%40NASA&amp;rft.aulast=Phillips&amp;rft.aufirst=Tony&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fheadlines%2Fy2006%2F05jun_redperil.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Michaud, Peter. <a class="external text" href="http://www.gemini.edu/index.php?option=content&amp;task=view&amp;id=196" rel="nofollow">"Gemini Captures Close Encounter of Jupiter's Red Spots"</a>. Gemini Observatory<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Gemini+Captures+Close+Encounter+of+Jupiter%27s+Red+Spots&amp;rft.aulast=Michaud&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fwww.gemini.edu%2Findex.php%3Foption%3Dcontent%26task%3Dview%26id%3D196&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Shiga, David. <a class="external text" href="https://www.newscientist.com/article/dn13963-third-red-spot-erupts-on-jupiter.html" rel="nofollow">"Third red spot erupts on Jupiter"</a>. New Scientist<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Third+red+spot+erupts+on+Jupiter&amp;rft.pub=New+Scientist&amp;rft.aulast=Shiga&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fdn13963-third-red-spot-erupts-on-jupiter.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Phillips, Tony. <a class="external text" href="https://web.archive.org/web/20070615100054/https://science.nasa.gov/headlines/y2003/12mar_darkspot.htm" rel="nofollow">"The Great Dark Spot"</a>. Science at NASA. Archived from <a class="external text" href="https://science.nasa.gov/headlines/y2003/12mar_darkspot.htm" rel="nofollow">the original</a> on 2007-06-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Great+Dark+Spot&amp;rft.aulast=Phillips&amp;rft.aufirst=Tony&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fheadlines%2Fy2003%2F12mar_darkspot.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Becker, Rachel (2017-07-12). <a class="external text" href="https://www.theverge.com/2017/7/12/15960524/nasa-juno-spacecraft-jupiter-great-red-spot-storm-images-photos-closeup-flyby" rel="nofollow">"NASA just released Juno's first stunning close-ups of Jupiter's giant storm"</a>. <i><a href="/wiki/The_Verge" title="The Verge">The Verge</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Verge&amp;rft.atitle=NASA+just+released+Juno%E2%80%99s+first+stunning+close-ups+of+Jupiter%E2%80%99s+giant+storm&amp;rft.date=2017-07-12&amp;rft.aulast=Becker&amp;rft.aufirst=Rachel&amp;rft_id=https%3A%2F%2Fwww.theverge.com%2F2017%2F7%2F12%2F15960524%2Fnasa-juno-spacecraft-jupiter-great-red-spot-storm-images-photos-closeup-flyby&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Smith <i>et al</i> (1979), 954.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Perez, Martin (2017-07-12). <a class="external text" href="http://www.nasa.gov/feature/jpl/nasa-s-juno-spacecraft-spots-jupiter-s-great-red-spot" rel="nofollow">"NASA's Juno Spacecraft Spots Jupiter's Great Red Spot"</a>. <i>NASA</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NASA&amp;rft.atitle=NASA%E2%80%99s+Juno+Spacecraft+Spots+Jupiter%E2%80%99s+Great+Red+Spot&amp;rft.date=2017-07-12&amp;rft.aulast=Perez&amp;rft.aufirst=Martin&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Ffeature%2Fjpl%2Fnasa-s-juno-spacecraft-spots-jupiter-s-great-red-spot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Rogers (1995), 191.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Tricia Talbert (July 30, 2016). <a class="external text" href="http://www.nasa.gov/feature/jupiter-s-great-red-spot-likely-a-massive-heat-source" rel="nofollow">"Jupiter's Great Red Spot Likely a Massive Heat Source"</a>. <i>NASA</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NASA&amp;rft.atitle=Jupiter%E2%80%99s+Great+Red+Spot+Likely+a+Massive+Heat+Source&amp;rft.date=2016-07-30&amp;rft.au=Tricia+Talbert&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Ffeature%2Fjupiter-s-great-red-spot-likely-a-massive-heat-source&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Rogers (1995), 194-6.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Beebe (1997), 35.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Rogers (1995), 195.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Rogers, John. <a class="external text" href="http://www.britastro.org/jupiter/2006report09.htm" rel="nofollow">"Interim reports on STB (Oval BA passing GRS), STropB, GRS (internal rotation measured), EZ(S. Eq. Disturbance; dramatic darkening; NEB interactions), &amp; NNTB"</a>. British Astronomical Association<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interim+reports+on+STB+%28Oval+BA+passing+GRS%29%2C+STropB%2C+GRS+%28internal+rotation+measured%29%2C+EZ%28S.+Eq.+Disturbance%3B+dramatic+darkening%3B+NEB+interactions%29%2C+%26+NNTB&amp;rft.pub=British+Astronomical+Association&amp;rft.aulast=Rogers&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwww.britastro.org%2Fjupiter%2F2006report09.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Reese, Elmer J.; Solberg, H. Gordon (1966). "Recent measures of the latitude and longitude of Jupiter's red spot". <i>Icarus</i>. <b>5</b> (1-6): 266–273. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1966Icar....5..266R" rel="nofollow">1966Icar....5..266R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0019-1035%2866%2990036-4" rel="nofollow">10.1016/0019-1035(66)90036-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=Recent+measures+of+the+latitude+and+longitude+of+Jupiter%27s+red+spot&amp;rft.volume=5&amp;rft.issue=1-6&amp;rft.pages=266-273&amp;rft.date=1966&amp;rft_id=info%3Adoi%2F10.1016%2F0019-1035%2866%2990036-4&amp;rft_id=info%3Abibcode%2F1966Icar....5..266R&amp;rft.au=Reese%2C+Elmer+J.&amp;rft.au=Solberg%2C+H.+Gordon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Rogers (1995), 192-3.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stone, Peter H. (1974). <a class="external text" href="http://ams.allenpress.com/archive/1520-0469/31/5/pdf/i1520-0469-31-5-1471.pdf" rel="nofollow">"On Jupiter's Rate of Rotation"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Atmospheric Sciences</i>. <b>31</b>: 1471–1472. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0469%281974%29031%3C1471%3AOJROR%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0469(1974)031&lt;1471:OJROR&gt;2.0.CO;2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Atmospheric+Sciences&amp;rft.atitle=On+Jupiter%27s+Rate+of+Rotation&amp;rft.volume=31&amp;rft.pages=1471-1472&amp;rft.date=1974&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0469%281974%29031%3C1471%3AOJROR%3E2.0.CO%3B2&amp;rft.aulast=Stone&amp;rft.aufirst=Peter+H.&amp;rft_id=http%3A%2F%2Fams.allenpress.com%2Farchive%2F1520-0469%2F31%2F5%2Fpdf%2Fi1520-0469-31-5-1471.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Rogers (1995), 48, 193.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Rogers (1995), 193.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nasa.gov/feature/goddard/jupiter-s-great-red-spot-a-swirling-mystery" rel="nofollow">"Jupiter's Great Red Spot: A Swirling Mystery"</a>. <a href="/wiki/NASA" title="NASA">NASA</a>. August 4, 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jupiter%E2%80%99s+Great+Red+Spot%3A+A+Swirling+Mystery&amp;rft.pub=NASA&amp;rft.date=2015-08-04&amp;rft_id=https%3A%2F%2Fwww.nasa.gov%2Ffeature%2Fgoddard%2Fjupiter-s-great-red-spot-a-swirling-mystery&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nasa.gov/feature/jupiter-s-great-red-spot-likely-a-massive-heat-source" rel="nofollow">"Jupiter's Great Red Spot Likely a Massive Heat Source"</a>. NASA. July 27, 2016.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jupiter%E2%80%99s+Great+Red+Spot+Likely+a+Massive+Heat+Source&amp;rft.pub=NASA&amp;rft.date=2016-07-27&amp;rft_id=https%3A%2F%2Fwww.nasa.gov%2Ffeature%2Fjupiter-s-great-red-spot-likely-a-massive-heat-source&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.astrophysicsspectator.com/topics/planets/JupiterGreatRedSpot.html" rel="nofollow">"Jupiter's Atmosphere and Great Red Spot"</a>. www.astrophysicsspectator.com. November 24, 2004.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jupiter%27s+Atmosphere+and+Great+Red+Spot&amp;rft.pub=www.astrophysicsspectator.com&amp;rft.date=2004-11-24&amp;rft_id=http%3A%2F%2Fwww.astrophysicsspectator.com%2Ftopics%2Fplanets%2FJupiterGreatRedSpot.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Red_Spot&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">[Numerous authors] (1999). Beatty, Kelly J.; Peterson, Carolyn Collins; Chaiki, Andrew, eds. <i>The New Solar System</i> (4th ed.). Massachusetts: Sky Publishing Corporation. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0933346867" title="Special:BookSources/0933346867">0933346867</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+New+Solar+System&amp;rft.place=Massachusetts&amp;rft.edition=4th&amp;rft.pub=Sky+Publishing+Corporation&amp;rft.date=1999&amp;rft.isbn=0933346867&amp;rft.au=%5BNumerous+authors%5D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Beebe, Reta (1997). <i>Jupiter the Giant Planet</i> (2nd ed.). Washington: Smithsonian Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1560986859" title="Special:BookSources/1560986859">1560986859</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jupiter+the+Giant+Planet&amp;rft.place=Washington&amp;rft.edition=2nd&amp;rft.pub=Smithsonian+Books&amp;rft.date=1997&amp;rft.isbn=1560986859&amp;rft.aulast=Beebe&amp;rft.aufirst=Reta&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Hockey, Thomas (1999). <i>Galileo's Planet: Observing Jupiter Before Photography</i>. Bristol, Philadelphia: IOP Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0750304480" title="Special:BookSources/0750304480">0750304480</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Galileo%27s+Planet%3A+Observing+Jupiter+Before+Photography&amp;rft.place=Bristol%2C+Philadelphia&amp;rft.pub=IOP+Publishing&amp;rft.date=1999&amp;rft.isbn=0750304480&amp;rft.aulast=Hockey&amp;rft.aufirst=Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book"><a href="/wiki/Bertrand_Meigh_Peek" title="Bertrand Meigh Peek">Peek, Bertrand M.</a> (1981). <i>The Planet Jupiter: The Observer's Handbook</i> (Revised ed.). London: Faber and Faber Limited. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0571180264" title="Special:BookSources/0571180264">0571180264</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Planet+Jupiter%3A+The+Observer%27s+Handbook&amp;rft.place=London&amp;rft.edition=Revised&amp;rft.pub=Faber+and+Faber+Limited&amp;rft.date=1981&amp;rft.isbn=0571180264&amp;rft.aulast=Peek&amp;rft.aufirst=Bertrand+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Rogers, John H. (1995). <i>The Giant Planet Jupiter</i>. Cambridge: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0521410088" title="Special:BookSources/0521410088">0521410088</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Giant+Planet+Jupiter&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1995&amp;rft.isbn=0521410088&amp;rft.aulast=Rogers&amp;rft.aufirst=John+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Smith, B. A.; et al. (1979). "The Jupiter system through the eyes of Voyager 1". <i>Science</i>. <b>204</b>: 951–957, 960–972. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1979Sci...204..951S" rel="nofollow">1979Sci...204..951S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.204.4396.951" rel="nofollow">10.1126/science.204.4396.951</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17800430" rel="nofollow">17800430</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+Jupiter+system+through+the+eyes+of+Voyager+1&amp;rft.volume=204&amp;rft.pages=951-957%2C+960-972&amp;rft.date=1979&amp;rft_id=info%3Apmid%2F17800430&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.204.4396.951&amp;rft_id=info%3Abibcode%2F1979Sci...204..951S&amp;rft.aulast=Smith&amp;rft.aufirst=B.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Great_Red_Spot&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Great_Red_Spot" title="commons:Category:Great Red Spot">Great Red Spot</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation news">Yang, Sarah (April 21, 2004). <a class="external text" href="http://www.berkeley.edu/news/media/releases/2004/04/21_jupiter.shtml" rel="nofollow">"Researcher predicts global climate change on Jupiter as giant planet's spots disappear"</a>. UC Berkeley News<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Researcher+predicts+global+climate+change+on+Jupiter+as+giant+planet%27s+spots+disappear&amp;rft.date=2004-04-21&amp;rft.aulast=Yang&amp;rft.aufirst=Sarah&amp;rft_id=http%3A%2F%2Fwww.berkeley.edu%2Fnews%2Fmedia%2Freleases%2F2004%2F04%2F21_jupiter.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation news">Phillips, Tony (March 3, 2006). <a class="external text" href="https://web.archive.org/web/20081019024917/https://science.nasa.gov/headlines/y2006/02mar_redjr.htm" rel="nofollow">"Jupiter's New Red Spot"</a>. Science at NASA. Archived from <a class="external text" href="https://science.nasa.gov/headlines/y2006/02mar_redjr.htm" rel="nofollow">the original</a> on October 19, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Jupiter%27s+New+Red+Spot&amp;rft.date=2006-03-03&amp;rft.aulast=Phillips&amp;rft.aufirst=Tony&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fheadlines%2Fy2006%2F02mar_redjr.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation news">Phillips, Tony (June 5, 2006). <a class="external text" href="https://science.nasa.gov/headlines/y2006/05jun_redperil.htm?list56685" rel="nofollow">"Huge Storms Converge"</a>. Science at NASA<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Huge+Storms+Converge&amp;rft.date=2006-06-05&amp;rft.aulast=Phillips&amp;rft.aufirst=Tony&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fheadlines%2Fy2006%2F05jun_redperil.htm%3Flist56685&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Youssef, Ashraf; Marcus, Philip S. (2003). "The dynamics of jovian white ovals from formation to merger". <i>Icarus</i>. <b>162</b> (1): 74–93. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003Icar..162...74Y" rel="nofollow">2003Icar..162...74Y</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0019-1035%2802%2900060-X" rel="nofollow">10.1016/S0019-1035(02)00060-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.atitle=The+dynamics+of+jovian+white+ovals+from+formation+to+merger&amp;rft.volume=162&amp;rft.issue=1&amp;rft.pages=74-93&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1016%2FS0019-1035%2802%2900060-X&amp;rft_id=info%3Abibcode%2F2003Icar..162...74Y&amp;rft.au=Youssef%2C+Ashraf&amp;rft.au=Marcus%2C+Philip+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web">Williams, Gareth P. (May 4, 2005). <a class="external text" href="http://www.gfdl.noaa.gov/~gw" rel="nofollow">"NOAA Web Page"</a>. Geophysical Fluid Dynamics Laboratory<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NOAA+Web+Page&amp;rft.pub=Geophysical+Fluid+Dynamics+Laboratory&amp;rft.date=2005-05-04&amp;rft.aulast=Williams&amp;rft.aufirst=Gareth+P.&amp;rft_id=http%3A%2F%2Fwww.gfdl.noaa.gov%2F~gw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreat+Red+Spot"><span style="display:none;"> </span></span></li>
+<li><a class="external text" href="https://www.flickr.com/photos/136797589@N04/35790218312/in/photostream/" rel="nofollow">Video based on Juno's Perijove 7 overflight</a> by Seán Doran (see <a class="external text" href="https://www.flickr.com/photos/136797589@N04/albums/72157684110532315" rel="nofollow">album</a> for more)</li>
+</ul>
+<div aria-labelledby="Jupiter" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jupiter" title="Template:Jupiter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jupiter" title="Template talk:Jupiter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jupiter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Jupiter" style="font-size:114%;margin:0 4em"><a href="/wiki/Jupiter" title="Jupiter">Jupiter</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Outline_of_Jupiter" title="Outline of Jupiter">Outline of Jupiter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Geography</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmosphere_of_Jupiter" title="Atmosphere of Jupiter">Atmosphere</a>
+<ul>
+<li><a class="mw-selflink selflink">Great Red Spot</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Magnetosphere_of_Jupiter" title="Magnetosphere of Jupiter">Magnetosphere</a></li>
+<li><a href="/wiki/Rings_of_Jupiter" title="Rings of Jupiter">Rings</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Portrait_of_Jupiter_from_Cassini.jpg" title="NASA image of Jupiter"><img alt="NASA image of Jupiter" data-file-height="3207" data-file-width="2260" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Portrait_of_Jupiter_from_Cassini.jpg/100px-Portrait_of_Jupiter_from_Cassini.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Portrait_of_Jupiter_from_Cassini.jpg/150px-Portrait_of_Jupiter_from_Cassini.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Portrait_of_Jupiter_from_Cassini.jpg/200px-Portrait_of_Jupiter_from_Cassini.jpg 2x" width="100"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Moons_of_Jupiter" title="Moons of Jupiter">Moons</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Inner moons</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adrastea_(moon)" title="Adrastea (moon)">Adrastea</a></li>
+<li><a href="/wiki/Amalthea_(moon)" title="Amalthea (moon)">Amalthea</a></li>
+<li><a href="/wiki/Metis_(moon)" title="Metis (moon)">Metis</a></li>
+<li><a href="/wiki/Thebe_(moon)" title="Thebe (moon)">Thebe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Galilean_moons" title="Galilean moons">Galilean moons</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Callisto_(moon)" title="Callisto (moon)">Callisto</a></li>
+<li><a href="/wiki/Europa_(moon)" title="Europa (moon)">Europa</a></li>
+<li><a href="/wiki/Ganymede_(moon)" title="Ganymede (moon)">Ganymede</a></li>
+<li><a href="/wiki/Io_(moon)" title="Io (moon)">Io</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Irregular moons</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ananke_group" title="Ananke group">Ananke group</a></li>
+<li><a href="/wiki/Carme_group" title="Carme group">Carme group</a></li>
+<li><a href="/wiki/Himalia_group" title="Himalia group">Himalia group</a></li>
+<li><a href="/wiki/Pasiphae_group" title="Pasiphae group">Pasiphae group</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ungrouped moons</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpo_(moon)" title="Carpo (moon)">Carpo</a></li>
+<li><a href="/wiki/Themisto_(moon)" title="Themisto (moon)">Themisto</a></li>
+<li><a href="/wiki/S/2003_J_2" title="S/2003 J 2">S/2003 J 2</a></li>
+<li><a href="/wiki/S/2003_J_12" title="S/2003 J 12">S/2003 J 12</a></li>
+<li><a href="/wiki/S/2011_J_1" title="S/2011 J 1">S/2011 J 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Astronomy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Jupiter-crossing_minor_planets" title="List of Jupiter-crossing minor planets">Jupiter-crossing minor planets</a></li>
+<li><a href="/wiki/Solar_eclipses_on_Jupiter" title="Solar eclipses on Jupiter">Solar eclipses</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Jupiter_Trojan" title="Jupiter Trojan">Trojans</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/List_of_Jupiter_Trojans_(Greek_camp)" title="List of Jupiter Trojans (Greek camp)">Greek camp</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_Jupiter_Trojans_(Trojan_camp)" title="List of Jupiter Trojans (Trojan camp)">Trojan camp</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Impact_event" title="Impact event">Impact events</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comet_Shoemaker%E2%80%93Levy_9" title="Comet Shoemaker–Levy 9">Comet Shoemaker–Levy 9</a></li>
+<li><a href="/wiki/2009_Jupiter_impact_event" title="2009 Jupiter impact event">2009 Jupiter impact event</a></li>
+<li><a href="/wiki/2010_Jupiter_impact_event" title="2010 Jupiter impact event">2010 Jupiter impact event</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Exploration_of_Jupiter" title="Exploration of Jupiter">Exploration</a> and<br/>
+orbiting missions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Juno_(spacecraft)" title="Juno (spacecraft)"><i>Juno</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Past</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cassini%E2%80%93Huygens" title="Cassini–Huygens"><i>Cassini</i></a></li>
+<li><a href="/wiki/Galileo_(spacecraft)" title="Galileo (spacecraft)"><i>Galileo</i></a></li>
+<li><i><a href="/wiki/New_Horizons" title="New Horizons">New Horizons</a></i></li>
+<li><a href="/wiki/Pioneer_program" title="Pioneer program">Pioneer program</a>
+<ul>
+<li><i><a href="/wiki/Pioneer_10" title="Pioneer 10">Pioneer 10</a></i></li>
+<li><i><a href="/wiki/Pioneer_11" title="Pioneer 11">Pioneer 11</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Ulysses_(spacecraft)" title="Ulysses (spacecraft)"><i>Ulysses</i></a></li>
+<li><a href="/wiki/Voyager_program" title="Voyager program">Voyager program</a>
+<ul>
+<li><i><a href="/wiki/Voyager_1" title="Voyager 1">Voyager 1</a></i></li>
+<li><i><a href="/wiki/Voyager_2" title="Voyager 2">Voyager 2</a></i></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Future</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jupiter_Icy_Moons_Explorer" title="Jupiter Icy Moons Explorer">Jupiter Icy Moons Explorer</a> <small>(2022)</small></li>
+<li><i><a href="/wiki/Europa_Clipper" title="Europa Clipper">Europa Clipper</a></i> <small>(2025)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Proposed</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Io_Volcano_Observer" title="Io Volcano Observer">Io Volcano Observer</a> <small>(2021)</small></li>
+<li><a href="/wiki/Laplace-P" title="Laplace-P">Laplace-P</a> <small>(2023)</small></li>
+<li><a class="mw-redirect" href="/wiki/Smara_(spacecraft)" title="Smara (spacecraft)"><i>Smara</i></a> <small>(2030)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Fiction
+<ul>
+<li><a href="/wiki/Jovian_(fiction)" title="Jovian (fiction)">Jovian</a></li>
+<li><a href="/wiki/Jupiter_in_fiction" title="Jupiter in fiction">Jupiter</a></li>
+<li><a href="/wiki/Jupiter%27s_moons_in_fiction" title="Jupiter's moons in fiction">Moons</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jupiter_(mythology)" title="Jupiter (mythology)">Mythology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Jupiter" title="Book:Jupiter">Book</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Jupiter" title="Category:Jupiter">Category</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Jupiter" title="Portal:Jupiter">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1226
+Cached time: 20171108005021
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.352 seconds
+Real time usage: 0.435 seconds
+Preprocessor visited node count: 1729/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 83006/2097152 bytes
+Template argument size: 1149/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.185/10.000 seconds
+Lua memory usage: 7.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  358.239      1 -total
+ 43.41%  155.503      1 Template:Reflist
+ 20.88%   74.814     11 Template:Cite_web
+ 13.33%   47.750      1 Template:Cn
+ 11.76%   42.127      1 Template:Fix
+ 10.13%   36.280      2 Template:Convert
+  9.05%   32.408      4 Template:Navbox
+  8.13%   29.132      7 Template:Cite_news
+  8.02%   28.742      6 Template:Cite_journal
+  7.76%   27.784      1 Template:Jupiter
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:67405-0!canonical and timestamp 20171108005021 and revision id 809257096
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Great_Red_Spot&amp;oldid=809257096">https://en.wikipedia.org/w/index.php?title=Great_Red_Spot&amp;oldid=809257096</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Jupiter" title="Category:Jupiter">Jupiter</a></li><li><a href="/wiki/Category:Planetary_spots" title="Category:Planetary spots">Planetary spots</a></li><li><a href="/wiki/Category:Anticyclones" title="Category:Anticyclones">Anticyclones</a></li><li><a href="/wiki/Category:Vortices" title="Category:Vortices">Vortices</a></li><li><a href="/wiki/Category:Storms" title="Category:Storms">Storms</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2017" title="Category:Articles with unsourced statements from August 2017">Articles with unsourced statements from August 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Great+Red+Spot" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+Red+Spot" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Great_Red_Spot" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Great_Red_Spot" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Great_Red_Spot">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Great_Red_Spot&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Great_Red_Spot&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Great_Red_Spot" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Great_Red_Spot" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Great_Red_Spot&amp;oldid=809257096" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Great_Red_Spot&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q194256" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Great_Red_Spot&amp;id=809257096" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Great+Red+Spot">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Great+Red+Spot&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Great_Red_Spot&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Great_Red_Spot" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Groot_Rooi_Vlek" hreflang="af" lang="af" title="Groot Rooi Vlek – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D9%82%D8%B9%D8%A9_%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85%D8%A9" hreflang="ar" lang="ar" title="البقعة الحمراء العظيمة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/B%C3%B6y%C3%BCk_q%C4%B1rm%C4%B1z%C4%B1_l%C9%99k%C9%99" hreflang="az" lang="az" title="Böyük qırmızı ləkə – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D1%8F_%D1%87%D1%8B%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D1%8F%D0%BC%D0%B0" hreflang="be" lang="be" title="Вялікая чырвоная пляма – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%BE_%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE_%D0%BF%D0%B5%D1%82%D0%BD%D0%BE" hreflang="bg" lang="bg" title="Голямо червено петно – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Gran_Taca_Vermella" hreflang="ca" lang="ca" title="Gran Taca Vermella – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Velk%C3%A1_rud%C3%A1_skvrna" hreflang="cs" lang="cs" title="Velká rudá skvrna – Czech">Čeština</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Suur_Punane_Laik" hreflang="et" lang="et" title="Suur Punane Laik – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Gran_Mancha_Roja" hreflang="es" lang="es" title="Gran Mancha Roja – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Granda_Ru%C4%9Da_Makulo" hreflang="eo" lang="eo" title="Granda Ruĝa Makulo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Orban_Gorri_Handia" hreflang="eu" lang="eu" title="Orban Gorri Handia – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%84%DA%A9%D9%87_%D8%B3%D8%B1%D8%AE_%D8%A8%D8%B2%D8%B1%DA%AF" hreflang="fa" lang="fa" title="لکه سرخ بزرگ – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Grande_Tache_rouge" hreflang="fr" lang="fr" title="Grande Tache rouge – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Spota_M%C3%B3r_Dearg" hreflang="ga" lang="ga" title="Spota Mór Dearg – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Gran_Mancha_Vermella" hreflang="gl" lang="gl" title="Gran Mancha Vermella – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%81%EC%A0%90" hreflang="ko" lang="ko" title="대적점 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%A5%D5%AE_%D5%AF%D5%A1%D6%80%D5%B4%D5%AB%D6%80_%D5%A2%D5%AB%D5%AE" hreflang="hy" lang="hy" title="Մեծ կարմիր բիծ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Bintik_Merah_Raksasa" hreflang="id" lang="id" title="Bintik Merah Raksasa – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Grande_Macchia_Rossa" hreflang="it" lang="it" title="Grande Macchia Rossa – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%AA%D7%9D_%D7%94%D7%90%D7%93%D7%95%D7%9D_%D7%94%D7%92%D7%93%D7%95%D7%9C" hreflang="he" lang="he" title="הכתם האדום הגדול – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%98%E1%83%93%E1%83%98_%E1%83%AC%E1%83%98%E1%83%97%E1%83%94%E1%83%9A%E1%83%98_%E1%83%9A%E1%83%90%E1%83%A5%E1%83%90" hreflang="ka" lang="ka" title="დიდი წითელი ლაქა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Raudonoji_d%C4%97m%C4%97" hreflang="lt" lang="lt" title="Raudonoji dėmė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Nagy_V%C3%B6r%C3%B6s_Folt" hreflang="hu" lang="hu" title="Nagy Vörös Folt – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Tompok_Merah_Besar" hreflang="ms" lang="ms" title="Tompok Merah Besar – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Grote_rode_vlek" hreflang="nl" lang="nl" title="Grote rode vlek – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B5%A4%E6%96%91" hreflang="ja" lang="ja" title="大赤斑 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Den_store_r%C3%B8de_flekken" hreflang="no" lang="no" title="Den store røde flekken – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Den_store_raude_flekken" hreflang="nn" lang="nn" title="Den store raude flekken – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wielka_Czerwona_Plama" hreflang="pl" lang="pl" title="Wielka Czerwona Plama – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Grande_Mancha_Vermelha" hreflang="pt" lang="pt" title="Grande Mancha Vermelha – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Marea_Pat%C4%83_Ro%C8%99ie" hreflang="ro" lang="ro" title="Marea Pată Roșie – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D0%BF%D1%8F%D1%82%D0%BD%D0%BE" hreflang="ru" lang="ru" title="Большое красное пятно – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Great_Red_Spot" hreflang="simple" lang="simple" title="Great Red Spot – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Ve%C4%BEk%C3%A1_%C4%8Derven%C3%A1_%C5%A1kvrna" hreflang="sk" lang="sk" title="Veľká červená škvrna – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Velika_rde%C4%8Da_pega" hreflang="sl" lang="sl" title="Velika rdeča pega – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%86%D1%80%D0%B2%D0%B5%D0%BD%D0%B0_%D0%BF%D0%B5%D0%B3%D0%B0" hreflang="sr" lang="sr" title="Велика црвена пега – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Jupiterin_suuri_punainen_pilkku" hreflang="fi" lang="fi" title="Jupiterin suuri punainen pilkku – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Stora_r%C3%B6da_fl%C3%A4cken" hreflang="sv" lang="sv" title="Stora röda fläcken – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%A4%E0%AF%87%E0%AE%9A%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="பெருஞ்சிவப்புப் பிரதேசம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%94%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88" hreflang="th" lang="th" title="จุดแดงใหญ่ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_K%C4%B1rm%C4%B1z%C4%B1_Leke" hreflang="tr" lang="tr" title="Büyük Kırmızı Leke – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0_%D0%BF%D0%BB%D1%8F%D0%BC%D0%B0" hreflang="uk" lang="uk" title="Велика червона пляма – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/V%E1%BA%BFt_%C4%90%E1%BB%8F_L%E1%BB%9Bn" hreflang="vi" lang="vi" title="Vết Đỏ Lớn – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%A4%A7%E7%B4%85%E6%96%91" hreflang="zh-yue" lang="zh-yue" title="大紅斑 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%B4%85%E6%96%91" hreflang="zh" lang="zh" title="大紅斑 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q194256#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 November 2017, at 00:50.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Great_Red_Spot&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.435","ppvisitednodes":{"value":1729,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":83006,"limit":2097152},"templateargumentsize":{"value":1149,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  358.239      1 -total"," 43.41%  155.503      1 Template:Reflist"," 20.88%   74.814     11 Template:Cite_web"," 13.33%   47.750      1 Template:Cn"," 11.76%   42.127      1 Template:Fix"," 10.13%   36.280      2 Template:Convert","  9.05%   32.408      4 Template:Navbox","  8.13%   29.132      7 Template:Cite_news","  8.02%   28.742      6 Template:Cite_journal","  7.76%   27.784      1 Template:Jupiter"]},"scribunto":{"limitreport-timeusage":{"value":"0.185","limit":"10.000"},"limitreport-memusage":{"value":7779969,"limit":52428800}},"cachereport":{"origin":"mw1226","timestamp":"20171108005021","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

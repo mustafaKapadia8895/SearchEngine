@@ -1,0 +1,2304 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Speed of sound - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Speed_of_sound","wgTitle":"Speed of sound","wgCurRevisionId":807372766,"wgRevisionId":807372766,"wgArticleId":147853,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from August 2017","Articles with unsourced statements from October 2017","Use dmy dates from May 2011","Fluid dynamics","Aerodynamics","Acoustics","Sound","Sound measurements","Physical quantities","Chemical properties","Velocity"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Speed_of_sound","wgRelevantArticleId":147853,"wgRequestId":"WftF5wpAAEQAAAvcYwYAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q124003","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.5" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Speed_of_sound" rel="alternate"/>
+<link href="/w/index.php?title=Speed_of_sound&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Speed_of_sound&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Speed_of_sound" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Speed_of_sound rootpage-Speed_of_sound vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Speed of sound</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Speed_of_sound_(disambiguation)" title="Speed of sound (disambiguation)">Speed of sound (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em;width:18.0em;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background:#ccf;padding:0.3em;font-size:125%;">Sound measurements</th>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">
+<div style="background:#ddf;padding:0.15em 0.5em;">Characteristic</div>
+</th>
+<td>
+<div style="background:#ddf;padding:0.15em 0.5em;">Symbols</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Sound_pressure" title="Sound pressure">Sound pressure</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>p</i>, SPL</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Particle_velocity" title="Particle velocity">Particle velocity</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>v</i>, SVL</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Particle_displacement" title="Particle displacement">Particle displacement</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>δ</i></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Sound_intensity" title="Sound intensity">Sound intensity</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>I</i>, SIL</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Sound_power" title="Sound power">Sound power</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>P</i>, SWL</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Sound_energy" title="Sound energy">Sound energy</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>W</i></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Sound_energy_density" title="Sound energy density">Sound energy density</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>w</i></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Sound_exposure" title="Sound exposure">Sound exposure</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>E</i>, SEL</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Acoustic_impedance" title="Acoustic impedance">Acoustic impedance</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>Z</i></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a class="mw-selflink selflink">Speed of sound</a></th>
+<td><span style="padding-left:0.3em;"> </span><i>c</i></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Audio_frequency" title="Audio frequency">Audio frequency</a></th>
+<td><span style="padding-left:0.3em;"> </span>AF</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span style="padding-left:0.3em;"> </span><a href="/wiki/Transmission_loss_(duct_acoustics)" title="Transmission loss (duct acoustics)">Transmission loss</a></th>
+<td><span style="padding-left:0.3em;"> </span>TL</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<hr/></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:right">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sound_measurements" title="Template:Sound measurements"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sound_measurements" title="Template talk:Sound measurements"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sound_measurements&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>speed of sound</b> is the distance travelled per unit time by a <a class="mw-redirect" href="/wiki/Sound_wave" title="Sound wave">sound wave</a> as it propagates through an <a class="mw-redirect" href="/wiki/Elasticity_(solid_mechanics)" title="Elasticity (solid mechanics)">elastic</a> medium. In dry <a class="mw-redirect" href="/wiki/Air" title="Air">air</a> at 0 °C (32 °F), the speed of sound is 331.2 metres per second (1,087 ft/s; 1,192 km/h; 741 mph; 644 kn). At 20 °C (68 °F), the speed of sound is 343 metres per second (1,125 ft/s; 1,235 km/h; 767 mph; 667 kn), or a kilometre in <span class="nowrap">2.91 s</span> or a mile in <span class="nowrap">4.69 s</span>.</p>
+<p>The speed of sound in an <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a> depends only on its temperature and composition. The speed has a weak dependence on frequency and pressure in ordinary air, deviating slightly from ideal behavior.</p>
+<p>In common everyday speech, <i>speed of sound</i> refers to the speed of sound waves in <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">air</a>. However, the speed of sound varies from substance to substance: sound travels most slowly in <a href="/wiki/Gas" title="Gas">gases</a>; it travels faster in <a href="/wiki/Liquid" title="Liquid">liquids</a>; and faster still in <a class="mw-redirect" href="/wiki/Solids" title="Solids">solids</a>. For example, (as noted above), sound travels at <span class="nowrap">343 m/s</span> in air; it travels at <span class="nowrap">1,484 m/s</span> in <a href="/wiki/Water" title="Water">water</a> (4.3 times as fast as in air); and at <span class="nowrap">5,120 m/s</span> in iron (about 15 times as fast as in air). In an exceptionally stiff material such as diamond, sound travels at <span class="nowrap">12,000 m/s</span>;<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> (about 35 times as fast as in air) which is around the maximum speed that sound will travel under normal conditions.</p>
+<p>Sound waves in solids are composed of compression waves (just as in gases and liquids), and a different type of sound wave called a <a href="/wiki/S-wave" title="S-wave">shear wave</a>, which occurs only in solids. Shear waves in solids usually travel at different speeds, as exhibited in <a href="/wiki/Seismology" title="Seismology">seismology</a>. The speed of compression waves in solids is determined by the medium's <a href="/wiki/Compressibility" title="Compressibility">compressibility</a>, <a href="/wiki/Shear_modulus" title="Shear modulus">shear modulus</a> and density. The speed of shear waves is determined only by the solid material's shear modulus and density.</p>
+<p>In <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid dynamics</a>, the speed of sound in a fluid medium (gas or liquid) is used as a relative measure for the speed of an object moving through the medium. The ratio of the speed of an object to the speed of sound in the fluid is called the object's <a href="/wiki/Mach_number" title="Mach number">Mach number</a>. Objects moving at speeds greater than <i><span style="white-space:nowrap">Mach<span style="margin-left:0.25em">1</span></span></i> are said to be traveling at <a class="mw-redirect" href="/wiki/Supersonic" title="Supersonic">supersonic</a> speeds.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Basic_concepts"><span class="tocnumber">2</span> <span class="toctext">Basic concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Compression_and_shear_waves"><span class="tocnumber">2.1</span> <span class="toctext">Compression and shear waves</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Equations"><span class="tocnumber">3</span> <span class="toctext">Equations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Dependence_on_the_properties_of_the_medium"><span class="tocnumber">4</span> <span class="toctext">Dependence on the properties of the medium</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Altitude_variation_and_implications_for_atmospheric_acoustics"><span class="tocnumber">5</span> <span class="toctext">Altitude variation and implications for atmospheric acoustics</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Practical_formula_for_dry_air"><span class="tocnumber">6</span> <span class="toctext">Practical formula for dry air</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Details"><span class="tocnumber">7</span> <span class="toctext">Details</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Speed_of_sound_in_ideal_gases_and_air"><span class="tocnumber">7.1</span> <span class="toctext">Speed of sound in ideal gases and air</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Effects_due_to_wind_shear"><span class="tocnumber">7.2</span> <span class="toctext">Effects due to wind shear</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Tables"><span class="tocnumber">7.3</span> <span class="toctext">Tables</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Effect_of_frequency_and_gas_composition"><span class="tocnumber">8</span> <span class="toctext">Effect of frequency and gas composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#General_physical_considerations"><span class="tocnumber">8.1</span> <span class="toctext">General physical considerations</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Practical_application_to_air"><span class="tocnumber">8.2</span> <span class="toctext">Practical application to air</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Mach_number"><span class="tocnumber">9</span> <span class="toctext">Mach number</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Experimental_methods"><span class="tocnumber">10</span> <span class="toctext">Experimental methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Single-shot_timing_methods"><span class="tocnumber">10.1</span> <span class="toctext">Single-shot timing methods</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Other_methods"><span class="tocnumber">10.2</span> <span class="toctext">Other methods</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#High-precision_measurements_in_air"><span class="tocnumber">10.3</span> <span class="toctext">High-precision measurements in air</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Non-gaseous_media"><span class="tocnumber">11</span> <span class="toctext">Non-gaseous media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Speed_of_sound_in_solids"><span class="tocnumber">11.1</span> <span class="toctext">Speed of sound in solids</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Three-dimensional_solids"><span class="tocnumber">11.1.1</span> <span class="toctext">Three-dimensional solids</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#One-dimensional_solids"><span class="tocnumber">11.1.2</span> <span class="toctext">One-dimensional solids</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Speed_of_sound_in_liquids"><span class="tocnumber">11.2</span> <span class="toctext">Speed of sound in liquids</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Water"><span class="tocnumber">11.2.1</span> <span class="toctext">Water</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Seawater"><span class="tocnumber">11.2.2</span> <span class="toctext">Seawater</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Speed_of_sound_in_plasma"><span class="tocnumber">11.3</span> <span class="toctext">Speed of sound in plasma</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Gradients"><span class="tocnumber">12</span> <span class="toctext">Gradients</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#See_also"><span class="tocnumber">13</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Sir_Isaac_Newton" title="Sir Isaac Newton">Sir Isaac Newton</a> computed the speed of sound in air as 979 feet per second (298 m/s), which is too low by about 15%,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>. Newton's analysis was good save for neglecting the (then unknown) effect of rapidly-fluctuating temperature in a sound wave (in modern terms, sound wave compression and expansion of air is an <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic process</a>, not an <a href="/wiki/Isothermal_process" title="Isothermal process">isothermal process</a>). This error was later rectified by <a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">Laplace</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>During the 17th century, there were several attempts to measure the speed of sound accurately, including attempts by <a href="/wiki/Marin_Mersenne" title="Marin Mersenne">Marin Mersenne</a> in 1630 (1,380 Parisian feet per second), <a href="/wiki/Pierre_Gassendi" title="Pierre Gassendi">Pierre Gassendi</a> in 1635 (1,473 Parisian feet per second) and <a href="/wiki/Robert_Boyle" title="Robert Boyle">Robert Boyle</a> (1,125 Parisian feet per second).<sup class="reference" id="cite_ref-meridian_4-0"><a href="#cite_note-meridian-4">[4]</a></sup></p>
+<p>In 1709, the Reverend <a href="/wiki/William_Derham" title="William Derham">William Derham</a>, <a href="/wiki/Rector_(ecclesiastical)" title="Rector (ecclesiastical)">Rector</a> of Upminster, published a more accurate measure of the speed of sound, at 1,072 <a href="/wiki/Paris_inch" title="Paris inch">Parisian feet</a> per second.<sup class="reference" id="cite_ref-meridian_4-1"><a href="#cite_note-meridian-4">[4]</a></sup> Derham used a telescope from the tower of the <a href="/wiki/Church_of_St_Laurence,_Upminster" title="Church of St Laurence, Upminster">church of St Laurence, Upminster</a> to observe the flash of a distant shotgun being fired, and then measured the time until he heard the gunshot with a half second pendulum. Measurements were made of gunshots from a number of local landmarks, including <a href="/wiki/North_Ockendon" title="North Ockendon">North Ockendon</a> church. The distance was known by <a href="/wiki/Triangulation" title="Triangulation">triangulation</a>, and thus the speed that the sound had travelled was calculated.<sup class="reference" id="cite_ref-Tony_Fox_5-0"><a href="#cite_note-Tony_Fox-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Basic_concepts">Basic concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=2" title="Edit section: Basic concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The transmission of sound can be illustrated by using a model consisting of an array of spherical objects interconnected by springs.</p>
+<p>In real material terms, the spheres represent the material's molecules and the springs represent the <a href="/wiki/Chemical_bond" title="Chemical bond">bonds</a> between them. Sound passes through the system by compressing and expanding the springs, transmitting the acoustic energy to neighboring spheres. This helps transmit the energy in-turn to the neighboring sphere's springs (bonds), and so on.</p>
+<p>The speed of sound through the model depends on the <a href="/wiki/Stiffness" title="Stiffness">stiffness</a>/rigidity of the <a href="/wiki/Spring_(device)" title="Spring (device)">springs</a>, and the mass of the spheres. As long as the spacing of the spheres remains constant, stiffer springs/bonds transmit energy quicker, while larger spheres transmit the energy slower. Effects like dispersion and reflection can also be understood using this model.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2017)">citation needed</span></a></i>]</sup></p>
+<p>In a real material, the stiffness of the springs is known as the "<a href="/wiki/Elastic_modulus" title="Elastic modulus">elastic modulus</a>", and the mass corresponds to the material <a href="/wiki/Density" title="Density">density</a>. Given that all other things being equal (<a href="/wiki/Ceteris_paribus" title="Ceteris paribus">ceteris paribus</a>), sound will travel slower in <a href="/wiki/Sponge_(material)" title="Sponge (material)">spongy materials</a>, and faster in stiffer ones. For instance, sound will travel 1.59 times faster in nickel than in bronze, due to the greater stiffness of nickel at about the same density. Similarly, sound travels about 1.41 times faster in light hydrogen (<a class="mw-redirect" href="/wiki/Hydrogen-1" title="Hydrogen-1">protium</a>) gas than in heavy hydrogen (<a href="/wiki/Deuterium" title="Deuterium">deuterium</a>) gas, since deuterium has similar properties but twice the density. At the same time, "compression-type" sound will travel faster in solids than in liquids, and faster in liquids than in gases, because the solids are more difficult to compress than liquids, while liquids in turn are more difficult to compress than gases.</p>
+<p>Some textbooks mistakenly state that the speed of sound increases with increasing density. This is usually illustrated by presenting data for three materials, such as air, water and steel, which also have vastly different levels compressibilities which more than make up for the density differences. An illustrative example of the two effects is that sound travels only 4.3 times faster in water than air, despite enormous differences in compressibility of the two media. The reason is that the larger density of water, which works to <i>slow</i> sound in water relative to air, nearly makes up for the compressibility differences in the two media.</p>
+<p>A practical example can be observed in Edinburgh, when the "One o' Clock Gun" is fired at the eastern end of Edinburgh Castle. Standing at the base of the western end of the Castle Rock, the sound of the Gun can be heard through the rock, slightly before it arrives by the air route, partly delayed by the slightly longer route. It is particularly effective if a multi-gun salute such as for "The Queen's Birthday" is being fired.</p>
+<h3><span class="mw-headline" id="Compression_and_shear_waves">Compression and shear waves</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=3" title="Edit section: Compression and shear waves">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Onde_compression_impulsion_1d_30_petit.gif"><img alt="" class="thumbimage" data-file-height="231" data-file-width="305" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Onde_compression_impulsion_1d_30_petit.gif/220px-Onde_compression_impulsion_1d_30_petit.gif" srcset="//upload.wikimedia.org/wikipedia/commons/6/62/Onde_compression_impulsion_1d_30_petit.gif 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Onde_compression_impulsion_1d_30_petit.gif" title="Enlarge"></a></div>
+Pressure-pulse or compression-type wave (<a href="/wiki/Longitudinal_wave" title="Longitudinal wave">longitudinal wave</a>) confined to a plane. This is the only type of sound wave that travels in fluids (gases and liquids). A pressure-type wave may also travel in solids, along with other types of waves (<a href="/wiki/Transverse_wave" title="Transverse wave">transverse waves</a>, see below)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Onde_cisaillement_impulsion_1d_30_petit.gif"><img alt="" class="thumbimage" data-file-height="231" data-file-width="305" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Onde_cisaillement_impulsion_1d_30_petit.gif/220px-Onde_cisaillement_impulsion_1d_30_petit.gif" srcset="//upload.wikimedia.org/wikipedia/commons/6/6d/Onde_cisaillement_impulsion_1d_30_petit.gif 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Onde_cisaillement_impulsion_1d_30_petit.gif" title="Enlarge"></a></div>
+<a href="/wiki/Transverse_wave" title="Transverse wave">Transverse wave</a> affecting atoms initially confined to a plane. This additional type of sound wave (additional type of elastic wave) travels only in solids, for it requires a sideways shearing motion which is supported by the presence of elasticity in the solid. The sideways shearing motion may take place in <b>any</b> direction which is at right-angle to the direction of wave-travel (only one shear direction is shown here, at right angles to the plane). Furthermore, the right-angle shear direction may change over time and distance, resulting in different types of <i><a href="/wiki/Polarization_(waves)" title="Polarization (waves)">polarization</a></i> of shear-waves</div>
+</div>
+</div>
+<p>In a gas or liquid, sound consists of compression waves. In solids, waves propagate as two different types. A <a href="/wiki/Longitudinal_wave" title="Longitudinal wave">longitudinal wave</a> is associated with compression and decompression in the direction of travel, and is the same process in gases and liquids, with an analogous compression-type wave in solids. Only compression waves are supported in gases and liquids. An additional type of wave, the <a href="/wiki/Transverse_wave" title="Transverse wave">transverse wave</a>, also called a <a class="mw-redirect" href="/wiki/Shear_wave" title="Shear wave">shear wave</a>, occurs only in solids because only solids support elastic deformations. It is due to elastic deformation of the medium perpendicular to the direction of wave travel; the direction of shear-deformation is called the "<a href="/wiki/Polarization_(waves)" title="Polarization (waves)">polarization</a>" of this type of wave. In general, transverse waves occur as a pair of <a class="mw-redirect" href="/wiki/Orthogonal" title="Orthogonal">orthogonal</a> polarizations.</p>
+<p>These different waves (compression waves and the different polarizations of shear waves) may have different speeds at the same frequency. Therefore, they arrive at an observer at different times, an extreme example being an <a href="/wiki/Earthquake" title="Earthquake">earthquake</a>, where sharp compression waves arrive first, and rocking transverse waves seconds later.</p>
+<p>The speed of a compression wave in fluid is determined by the medium's <a href="/wiki/Compressibility" title="Compressibility">compressibility</a> and <a href="/wiki/Density" title="Density">density</a>. In solids, the compression waves are analogous to those in fluids, depending on compressibility and density, but with the additional factor of <a href="/wiki/Shear_modulus" title="Shear modulus">shear modulus</a> which affects compression waves due to off-axis elastic energies which are able to influence effective tension and relaxation in a compression. The speed of shear waves, which can occur only in solids, is determined simply by the solid material's shear modulus and density.</p>
+<h2><span class="mw-headline" id="Equations">Equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=4" title="Edit section: Equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The speed of sound in mathematical notation is conventionally represented by <i>c</i>, from the Latin <i>celeritas</i> meaning "velocity".</p>
+<p>In general, the speed of sound <i>c</i> is given by the Newton–Laplace equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c={\sqrt {\frac {K_{s}}{\rho }}},}</annotation>
+</semantics>
+</math></span><img alt="c={\sqrt  {{\frac  {K_{s}}{\rho }}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e348e4e50aeb40c56a13d16f1b9f5dba80b4a346" style="vertical-align: -3.338ex; width:10.948ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>K<sub>s</sub></i> is a coefficient of stiffness, the isentropic <a href="/wiki/Bulk_modulus" title="Bulk modulus">bulk modulus</a> (or the modulus of bulk elasticity for gases);</li>
+<li><i>ρ</i> is the <a href="/wiki/Density" title="Density">density</a>.</li>
+</ul>
+<p>Thus the speed of sound increases with the stiffness (the resistance of an elastic body to deformation by an applied force) of the material, and decreases with increase in density. For ideal gases the bulk modulus <i>K</i> is simply the gas pressure multiplied by the dimensionless <a class="mw-redirect" href="/wiki/Adiabatic_index" title="Adiabatic index">adiabatic index</a>, which is about 1.4 for air under normal conditions of pressure and temperature.</p>
+<p>For general <a class="mw-redirect" href="/wiki/Equations_of_state" title="Equations of state">equations of state</a>, if <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a> is used, the speed of sound <i>c</i> is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c={\sqrt {\left({\frac {\partial p}{\partial \rho }}\right)_{s}}},}</annotation>
+</semantics>
+</math></span><img alt="c = \sqrt{\left(\frac{\partial p}{\partial\rho}\right)_s}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c11ca347957083686fa4ad57951100f2907c00cb" style="vertical-align: -3.338ex; width:14.948ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>p</i> is the pressure;</li>
+<li><i>ρ</i> is the density and the <a href="/wiki/Derivative" title="Derivative">derivative</a> is taken isentropically, that is, at constant <a href="/wiki/Entropy" title="Entropy">entropy</a> <i>s</i>.</li>
+</ul>
+<p>If <a href="/wiki/Special_relativity" title="Special relativity">relativistic</a> effects are important, the speed of sound is calculated from the <a href="/wiki/Relativistic_Euler_equations" title="Relativistic Euler equations">relativistic Euler equations</a>.</p>
+<p>In a <a href="/wiki/Acoustic_dispersion" title="Acoustic dispersion">non-dispersive medium</a>, the speed of sound is independent of <a class="mw-redirect" href="/wiki/Sound_frequency" title="Sound frequency">sound frequency</a>, so the speeds of energy transport and sound propagation are the same for all frequencies. Air, a mixture of oxygen and nitrogen, constitutes a non-dispersive medium. However, air does contain a small amount of CO<sub>2</sub> which <i>is</i> a dispersive medium, and causes dispersion to air at <a href="/wiki/Ultrasound" title="Ultrasound">ultrasonic</a> frequencies (<span class="nowrap">&gt; 28 <a class="mw-redirect" href="/wiki/KHz" title="KHz">kHz</a></span>).<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In a <a href="/wiki/Acoustic_dispersion" title="Acoustic dispersion">dispersive medium</a>, the speed of sound is a function of sound frequency, through the <a href="/wiki/Dispersion_relation" title="Dispersion relation">dispersion relation</a>. Each frequency component propagates at its own speed, called the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a>, while the energy of the disturbance propagates at the <a href="/wiki/Group_velocity" title="Group velocity">group velocity</a>. The same phenomenon occurs with light waves; see <a href="/wiki/Dispersion_(optics)#Group_and_phase_velocity" title="Dispersion (optics)">optical dispersion</a> for a description.</p>
+<h2><span class="mw-headline" id="Dependence_on_the_properties_of_the_medium">Dependence on the properties of the medium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=5" title="Edit section: Dependence on the properties of the medium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The speed of sound is variable and depends on the properties of the substance through which the wave is travelling. In solids, the speed of transverse (or shear) waves depends on the shear deformation under shear stress (called the <a href="/wiki/Shear_modulus" title="Shear modulus">shear modulus</a>), and the density of the medium. Longitudinal (or compression) waves in solids depend on the same two factors with the addition of a dependence on <a href="/wiki/Compressibility" title="Compressibility">compressibility</a>.</p>
+<p>In fluids, only the medium's compressibility and density are the important factors, since fluids do not transmit shear stresses. In heterogeneous fluids, such as a liquid filled with gas bubbles, the density of the liquid and the compressibility of the gas affect the speed of sound in an additive manner, as demonstrated in the <a href="/wiki/Hot_chocolate_effect" title="Hot chocolate effect">hot chocolate effect</a>.</p>
+<p>In gases, adiabatic compressibility is directly related to pressure through the <a href="/wiki/Heat_capacity_ratio" title="Heat capacity ratio">heat capacity ratio</a> (adiabatic index), while pressure and density are inversely related to the temperature and molecular weight, thus making only the completely independent properties of <i>temperature and molecular structure</i> important (heat capacity ratio may be determined by temperature and molecular structure, but simple molecular weight is not sufficient to determine it).</p>
+<p>In low <a class="mw-redirect" href="/wiki/Molecular_weight" title="Molecular weight">molecular weight</a> gases such as <a href="/wiki/Helium" title="Helium">helium</a>, sound propagates faster as compared to heavier gases such as <a href="/wiki/Xenon" title="Xenon">xenon</a>. For monatomic gases, the speed of sound is about 75% of the mean speed that the atoms move in that gas.</p>
+<p>For a given <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a> the molecular composition is fixed, and thus the speed of sound depends only on its <a href="/wiki/Temperature" title="Temperature">temperature</a>. At a constant temperature, the gas <a href="/wiki/Pressure" title="Pressure">pressure</a> has no effect on the speed of sound, since the density will increase, and since pressure and <a href="/wiki/Density" title="Density">density</a> (also proportional to pressure) have equal but opposite effects on the speed of sound, and the two contributions cancel out exactly. In a similar way, compression waves in solids depend both on compressibility and density—just as in liquids—but in gases the density contributes to the compressibility in such a way that some part of each attribute factors out, leaving only a dependence on temperature, molecular weight, and heat capacity ratio which can be independently derived from temperature and molecular composition (see derivations below). Thus, for a single given gas (assuming the molecular weight does not change) and over a small temperature range (for which the heat capacity is relatively constant), the speed of sound becomes dependent on only the temperature of the gas.</p>
+<p>In non-ideal gas behavior regimen, for which the <a href="/wiki/Van_der_Waals_equation" title="Van der Waals equation">van der Waals gas</a> equation would be used, the proportionality is not exact, and there is a slight dependence of sound velocity on the gas pressure.</p>
+<p>Humidity has a small but measurable effect on the speed of sound (causing it to increase by about 0.1%–0.6%), because <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> and <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> molecules of the air are replaced by lighter molecules of <a href="/wiki/Water" title="Water">water</a>. This is a simple mixing effect.</p>
+<h2><span class="mw-headline" id="Altitude_variation_and_implications_for_atmospheric_acoustics">Altitude variation and implications for atmospheric acoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=6" title="Edit section: Altitude variation and implications for atmospheric acoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Comparison_US_standard_atmosphere_1962.svg"><img alt="" class="thumbimage" data-file-height="632" data-file-width="512" height="272" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comparison_US_standard_atmosphere_1962.svg/220px-Comparison_US_standard_atmosphere_1962.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comparison_US_standard_atmosphere_1962.svg/330px-Comparison_US_standard_atmosphere_1962.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comparison_US_standard_atmosphere_1962.svg/440px-Comparison_US_standard_atmosphere_1962.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Comparison_US_standard_atmosphere_1962.svg" title="Enlarge"></a></div>
+Density and pressure decrease smoothly with altitude, but temperature (red) does not. The speed of sound (blue) depends only on the complicated temperature variation at altitude and can be calculated from it, since isolated density and pressure effects on the speed of sound cancel each other. Speed of sound increases with height in two regions of the stratosphere and thermosphere, due to heating effects in these regions.</div>
+</div>
+</div>
+<p>In the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">Earth's atmosphere</a>, the chief factor affecting the speed of sound is the <a href="/wiki/Temperature" title="Temperature">temperature</a>. For a given ideal gas with constant heat capacity and composition, the speed of sound is dependent <i>solely</i> upon temperature; see <a href="/wiki/Speed_of_sound#Details" title="Speed of sound">Details</a> below. In such an ideal case, the effects of decreased density and decreased pressure of altitude cancel each other out, save for the residual effect of temperature.</p>
+<p>Since temperature (and thus the speed of sound) decreases with increasing altitude up to <span class="nowrap">11 km</span>, sound is <a href="/wiki/Refraction" title="Refraction">refracted</a> upward, away from listeners on the ground, creating an <a href="/wiki/Acoustic_shadow" title="Acoustic shadow">acoustic shadow</a> at some distance from the source.<sup class="reference" id="cite_ref-Everest2001_7-0"><a href="#cite_note-Everest2001-7">[7]</a></sup> The decrease of the speed of sound with height is referred to as a negative <a href="/wiki/Sound_speed_gradient" title="Sound speed gradient">sound speed gradient</a>.</p>
+<p>However, there are variations in this trend above <span class="nowrap">11 km</span>. In particular, in the <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a> above about <span class="nowrap">20 km</span>, the speed of sound increases with height, due to an increase in temperature from heating within the <a href="/wiki/Ozone_layer" title="Ozone layer">ozone layer</a>. This produces a positive speed of sound gradient in this region. Still another region of positive gradient occurs at very high altitudes, in the aptly-named <a href="/wiki/Thermosphere" title="Thermosphere">thermosphere</a> above <span class="nowrap">90 km</span>.</p>
+<h2><span class="mw-headline" id="Practical_formula_for_dry_air">Practical formula for dry air</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=7" title="Edit section: Practical formula for dry air">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Speed_of_sound_in_dry_air.svg"><img alt="" class="thumbimage" data-file-height="496" data-file-width="512" height="213" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Speed_of_sound_in_dry_air.svg/220px-Speed_of_sound_in_dry_air.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Speed_of_sound_in_dry_air.svg/330px-Speed_of_sound_in_dry_air.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Speed_of_sound_in_dry_air.svg/440px-Speed_of_sound_in_dry_air.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Speed_of_sound_in_dry_air.svg" title="Enlarge"></a></div>
+Approximation of the speed of sound in dry air based on the <a href="/wiki/Heat_capacity_ratio" title="Heat capacity ratio">heat capacity ratio</a> (in green) against the truncated <a class="mw-redirect" href="/wiki/Taylor_expansion" title="Taylor expansion">Taylor expansion</a> (in red).</div>
+</div>
+</div>
+<p>The approximate speed of sound in dry (0% humidity) air, in meters per second, at temperatures near <span class="nowrap">0 °C</span>, can be calculated from</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>331.3</mn>
+<mo>+</mo>
+<mn>0.606</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>ϑ<!-- ϑ --></mi>
+<mo stretchy="false">)</mo>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {air} }=(331.3+0.606\cdot \vartheta )~~~\mathrm {m/s} ,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\mathrm {air} }=(331.3+0.606\cdot \vartheta )~~~\mathrm {m/s} ,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/298933b1ee70c94bed8d7b013aa5cfe0f6e9fc75" style="vertical-align: -0.838ex; width:31.203ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>where <i><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϑ<!-- ϑ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \vartheta }</annotation>
+</semantics>
+</math></span><img alt="\vartheta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d00eaf197c35bbfa391b9477490a4af955416837" style="vertical-align: -0.338ex; width:1.384ex; height:2.176ex;"/></span></i> is the temperature in degrees <a href="/wiki/Celsius" title="Celsius">Celsius</a> (°C).</p>
+<p>This equation is derived from the first two terms of the <a class="mw-redirect" href="/wiki/Taylor_expansion" title="Taylor expansion">Taylor expansion</a> of the following more accurate equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>331.3</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>ϑ<!-- ϑ --></mi>
+<mn>273.15</mn>
+</mfrac>
+</mrow>
+</msqrt>
+</mrow>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {air} }=331.3~{\sqrt {1+{\frac {\vartheta }{273.15}}}}~~~~\mathrm {m/s} .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\mathrm {air} }=331.3~{\sqrt {1+{\frac {\vartheta }{273.15}}}}~~~~\mathrm {m/s} .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dedeb00bb1c45ac0769facb363b6bf354464fa96" style="vertical-align: -2.338ex; width:32.976ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>Dividing the first part, and multiplying the second part, on the right hand side, by √273.15 gives the exactly equivalent form</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>20.05</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ϑ<!-- ϑ --></mi>
+<mo>+</mo>
+<mn>273.15</mn>
+</msqrt>
+</mrow>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {air} }=20.05~{\sqrt {\vartheta +273.15}}~~~~\mathrm {m/s} .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\mathrm {air} }=20.05~{\sqrt {\vartheta +273.15}}~~~~\mathrm {m/s} .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c24d0021a6a289981fec1093bf5140528fc6d4f2" style="vertical-align: -1.005ex; width:32.351ex; height:3.509ex;"/></span></dd>
+</dl>
+<p>which can also be written as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>20.05</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>K</mi>
+</msqrt>
+</mrow>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {air} }=20.05~{\sqrt {T/K}}~~~~\mathrm {m/s} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\mathrm {air} }=20.05~{\sqrt {T/K}}~~~~\mathrm {m/s} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/734ccb64c59f4b948a11546938e87d56834e6ed4" style="vertical-align: -1.838ex; width:25.833ex; height:4.843ex;"/></span></dd>
+</dl>
+<p>where T denotes the <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">thermodynamic temperature</a>.</p>
+<p>The value of <span class="nowrap">331.3 m/s</span>, which represents the speed at <span class="nowrap">0 °C</span> (or <span class="nowrap">273.15 K</span>), is based on theoretical (and some measured) values of the <a href="/wiki/Heat_capacity_ratio" title="Heat capacity ratio">heat capacity ratio</a>, <i>γ</i>, as well as on the fact that at 1 <a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">atm</a> real air is very well described by the ideal gas approximation. Commonly found values for the speed of sound at <span class="nowrap">0 °C</span> may vary from 331.2 to 331.6 due to the assumptions made when it is calculated. If ideal gas <i>γ</i> is assumed to be <span class="nowrap">7/5 = 1.4</span> exactly, the <span class="nowrap">0 °C</span> speed is calculated (see section below) to be <span class="nowrap">331.3 m/s</span>, the coefficient used above.</p>
+<p>This equation is correct to a much wider temperature range, but still depends on the approximation of heat capacity ratio being independent of temperature, and for this reason will fail, particularly at higher temperatures. It gives good predictions in relatively dry, cold, low pressure conditions, such as the Earth's <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>. The equation fails at extremely low pressures and short wavelengths, due to dependence on the assumption that the wavelength of the sound in the gas is much longer than the average <a href="/wiki/Mean_free_path" title="Mean free path">mean free path</a> between gas molecule collisions. A derivation of these equations will be given in the following section.</p>
+<p>A graph comparing results of the two equations is at right, using the slightly different value of <span class="nowrap">331.5 m/s</span> for the speed of sound at <span class="nowrap">0 °C</span>.</p>
+<h2><span class="mw-headline" id="Details">Details</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=8" title="Edit section: Details">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Speed_of_sound_in_ideal_gases_and_air">Speed of sound in ideal gases and air</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=9" title="Edit section: Speed of sound in ideal gases and air">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For an ideal gas, <i>K</i> (the <a href="/wiki/Bulk_modulus" title="Bulk modulus">bulk modulus</a> in equations above, equivalent to C, the coefficient of stiffness in solids) is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>K</mi>
+<mo>=</mo>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>p</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K=\gamma \cdot p,}</annotation>
+</semantics>
+</math></span><img alt="K=\gamma \cdot p," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8688f3dfc909d70e89bafba7d2a625aa0b3e552a" style="vertical-align: -0.838ex; width:9.985ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>thus, from the Newton–Laplace equation above, the speed of sound in an ideal gas is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>p</mi>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c={\sqrt {\gamma \cdot {p \over \rho }}},}</annotation>
+</semantics>
+</math></span><img alt="c={\sqrt  {\gamma \cdot {p \over \rho }}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/068b25b74f1fe8fe178c1c8f24f78ec45e500147" style="vertical-align: -2.838ex; width:12.129ex; height:6.343ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>γ</i> is the <a class="mw-redirect" href="/wiki/Adiabatic_index" title="Adiabatic index">adiabatic index</a> also known as the <i>isentropic expansion factor</i>. It is the ratio of specific heats of a gas at a constant-pressure to a gas at a constant-volume(<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{p}/C_{v}}</annotation>
+</semantics>
+</math></span><img alt="C_p/C_v" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2adef29765cd681c35b5559f0cfbd28fede791c1" style="vertical-align: -1.005ex; width:6.621ex; height:3.009ex;"/></span>), and arises because a classical sound wave induces an adiabatic compression, in which the heat of the compression does not have enough time to escape the pressure pulse, and thus contributes to the pressure induced by the compression;</li>
+<li><i>p</i> is the <a href="/wiki/Pressure" title="Pressure">pressure</a>;</li>
+<li><i>ρ</i> is the <a href="/wiki/Density" title="Density">density</a>.</li>
+</ul>
+<p>Using the <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a> law to replace <i>p</i> with <i>nRT</i>/<i>V</i>, and replacing <i>ρ</i> with <i>nM</i>/<i>V</i>, the equation for an ideal gas becomes</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">d</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>p</mi>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>R</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>T</mi>
+</mrow>
+<mi>M</mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>k</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>T</mi>
+</mrow>
+<mi>m</mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {ideal} }={\sqrt {\gamma \cdot {p \over \rho }}}={\sqrt {\gamma \cdot R\cdot T \over M}}={\sqrt {\gamma \cdot k\cdot T \over m}},}</annotation>
+</semantics>
+</math></span><img alt="c_{{{\mathrm  {ideal}}}}={\sqrt  {\gamma \cdot {p \over \rho }}}={\sqrt  {\gamma \cdot R\cdot T \over M}}={\sqrt  {\gamma \cdot k\cdot T \over m}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b45ececa787550e96fea88a01751ff1061a837ca" style="vertical-align: -2.838ex; width:43.93ex; height:6.843ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>c</i><sub>ideal</sub> is the speed of sound in an <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a>;</li>
+<li><i>R</i> (approximately <span class="nowrap">8.314,5 J · mol<sup>−1</sup> · K<sup>−1</sup></span>) is the <a class="mw-redirect" href="/wiki/Molar_gas_constant" title="Molar gas constant">molar gas constant</a>(universal gas constant);<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li><i>k</i> is the <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a>;</li>
+<li><i>γ</i> (gamma) is the <a class="mw-redirect" href="/wiki/Adiabatic_index" title="Adiabatic index">adiabatic index</a>. At room temperature, where thermal energy is fully partitioned into rotation (rotations are fully excited) but quantum effects prevent excitation of vibrational modes, the value is <span class="nowrap">7/5 = 1.400</span> for diatomic molecules, according to kinetic theory. Gamma is actually experimentally measured over a range from 1.399,1 to 1.403 at <span class="nowrap">0 °C</span>, for air. Gamma is exactly <span class="nowrap">5/3 = 1.6667</span> for monatomic gases such as <a href="/wiki/Noble_gas" title="Noble gas">noble gases</a>;</li>
+<li><i>T</i> is the absolute temperature;</li>
+<li><i>M</i> is the molar mass of the gas. The mean molar mass for dry air is about <span class="nowrap">0.028,964,5 kg/mol</span><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2017)">citation needed</span></a></i>]</sup>;</li>
+<li><i>n</i> is the number of moles;</li>
+<li><i>m</i> is the mass of a single molecule.</li>
+</ul>
+<p>This equation applies only when the sound wave is a small perturbation on the ambient condition, and the certain other noted conditions are fulfilled, as noted below. Calculated values for <i>c</i><sub>air</sub> have been found to vary slightly from experimentally determined values.<sup class="reference" id="cite_ref-USSA1976_9-0"><a href="#cite_note-USSA1976-9">[9]</a></sup></p>
+<p><a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a> famously considered the speed of sound before most of the development of <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> and so incorrectly used <a class="mw-redirect" href="/wiki/Isothermal" title="Isothermal">isothermal</a> calculations instead of <a class="mw-redirect" href="/wiki/Adiabatic" title="Adiabatic">adiabatic</a>. His result was missing the factor of <i>γ</i> but was otherwise correct.</p>
+<p>Numerical substitution of the above values gives the ideal gas approximation of sound velocity for gases, which is accurate at relatively low gas pressures and densities (for air, this includes standard Earth sea-level conditions). Also, for diatomic gases the use of <span class="nowrap"><i>γ</i> = 1.400,0</span> requires that the gas exists in a temperature range high enough that rotational heat capacity is fully excited (i.e., molecular rotation is fully used as a heat energy "partition" or reservoir); but at the same time the temperature must be low enough that molecular vibrational modes contribute no heat capacity (i.e., insignificant heat goes into vibration, as all vibrational quantum modes above the minimum-energy-mode, have energies too high to be populated by a significant number of molecules at this temperature). For air, these conditions are fulfilled at room temperature, and also temperatures considerably below room temperature (see tables below). See the section on gases in <a class="mw-redirect" href="/wiki/Specific_heat_capacity" title="Specific heat capacity">specific heat capacity</a> for a more complete discussion of this phenomenon.</p>
+<p>For air, we use a simplified symbol</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R_{*}=R/M_{\mathrm {air} }.}</annotation>
+</semantics>
+</math></span><img alt="R_* = R/M_{\mathrm{air}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/580c919c8ea9070e88a74303281e75e909340b85" style="vertical-align: -0.838ex; width:13.993ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>Additionally, if temperatures in degrees <a href="/wiki/Celsius" title="Celsius">Celsius</a>(°C) are to be used to calculate air speed in the region near 273 kelvin, then Celsius temperature <span class="nowrap"><i>θ</i> = <i>T</i> − 273.15</span> may be used. Then</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">d</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>T</mi>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">(</mo>
+<mi>ϑ<!-- ϑ --></mi>
+<mo>+</mo>
+<mn>273.15</mn>
+<mo stretchy="false">)</mo>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {ideal} }={\sqrt {\gamma \cdot R_{*}\cdot T}}={\sqrt {\gamma \cdot R_{*}\cdot (\vartheta +273.15)}},}</annotation>
+</semantics>
+</math></span><img alt="c_{\mathrm{ideal}} = \sqrt{\gamma \cdot R_* \cdot T} = \sqrt{\gamma \cdot R_* \cdot (\vartheta + 273.15)}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d62acf87570b390d7550c61e7cb1883fde2c024" style="vertical-align: -1.838ex; width:45.421ex; height:4.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">d</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mn>273.15</mn>
+</msqrt>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>ϑ<!-- ϑ --></mi>
+<mn>273.15</mn>
+</mfrac>
+</mrow>
+</msqrt>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {ideal} }={\sqrt {\gamma \cdot R_{*}\cdot 273.15}}\cdot {\sqrt {1+{\frac {\vartheta }{273.15}}}}.}</annotation>
+</semantics>
+</math></span><img alt="c_{{{\mathrm  {ideal}}}}={\sqrt  {\gamma \cdot R_{*}\cdot 273.15}}\cdot {\sqrt  {1+{\frac  {\vartheta }{273.15}}}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc09ef38104f0be56dcf9f46158c4d17044ffd7e" style="vertical-align: -2.338ex; width:40.183ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>For dry air, where <i>θ</i> (theta) is the temperature in degrees <a href="/wiki/Celsius" title="Celsius">Celsius</a>(°C).</p>
+<p>Making the following numerical substitutions,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mo>=</mo>
+<mn>8.314</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>510</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">l</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">K</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R=8.314\,510~\mathrm {J/(mol\cdot K)} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle R=8.314\,510~\mathrm {J/(mol\cdot K)} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3dc5bfed5ebbf89a4eb319495dd21dfd2511db4b" style="vertical-align: -0.838ex; width:26.212ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>is the molar <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a> in J/mole/Kelvin, and</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>0.028</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>964</mn>
+<mspace width="thinmathspace"></mspace>
+<mn>5</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">k</mi>
+<mi mathvariant="normal">g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M_{\mathrm {air} }=0.028\,964\,5~\mathrm {kg/mol} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle M_{\mathrm {air} }=0.028\,964\,5~\mathrm {kg/mol} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c82099316c41ada78f2e6ffa13565ff2e159d509" style="vertical-align: -0.838ex; width:26.308ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>is the mean molar mass of air, in kg; and using the ideal diatomic gas value of <span class="nowrap"><i>γ</i> = 1.4000</span>.</p>
+<p>Then</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>331.3</mn>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>ϑ<!-- ϑ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+<mrow>
+<msup>
+<mn>273.15</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</msqrt>
+</mrow>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {air} }=331.3~~{\sqrt {1+{\frac {\vartheta ^{\circ }\mathrm {C} }{273.15^{\circ }\mathrm {C} }}}}~~~\mathrm {m/s} .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\mathrm {air} }=331.3~~{\sqrt {1+{\frac {\vartheta ^{\circ }\mathrm {C} }{273.15^{\circ }\mathrm {C} }}}}~~~\mathrm {m/s} .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e02ccaffc19ad48b0224686e0e80c41099a833b9" style="vertical-align: -2.338ex; width:35.726ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>Using the first two terms of the Taylor expansion:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>331.3</mn>
+<mtext> </mtext>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>ϑ<!-- ϑ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>273.15</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">)</mo>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {air} }=331.3~(1+{\frac {\vartheta ^{\circ }\mathrm {C} }{2\cdot 273.15^{\circ }\mathrm {C} }})~~~\mathrm {m/s} ,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\mathrm {air} }=331.3~(1+{\frac {\vartheta ^{\circ }\mathrm {C} }{2\cdot 273.15^{\circ }\mathrm {C} }})~~~\mathrm {m/s} ,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73ef00896ba89f3ce5ddf1b8644eb94450f1a859" style="vertical-align: -2.005ex; width:37.504ex; height:5.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>331.3</mn>
+<mo>+</mo>
+<msup>
+<mn>0.606</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>ϑ<!-- ϑ --></mi>
+<mo stretchy="false">)</mo>
+<mtext> </mtext>
+<mtext> </mtext>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {air} }=(331.3+0.606^{\circ }\mathrm {C} ^{-1}\cdot \vartheta )~~~\mathrm {m/s} .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\mathrm {air} }=(331.3+0.606^{\circ }\mathrm {C} ^{-1}\cdot \vartheta )~~~\mathrm {m/s} .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d4211aceaab21d2b350009c1be06b6fe949cfed7" style="vertical-align: -0.838ex; width:36.3ex; height:3.176ex;"/></span></dd>
+</dl>
+<p>The derivation includes the first two equations given in the "Practical formula for dry air" section above.</p>
+<h3><span class="mw-headline" id="Effects_due_to_wind_shear">Effects due to wind shear</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=10" title="Edit section: Effects due to wind shear">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The speed of sound varies with temperature. Since temperature and sound velocity normally decrease with increasing altitude, sound is <a href="/wiki/Refraction" title="Refraction">refracted</a> upward, away from listeners on the ground, creating an <a href="/wiki/Acoustic_shadow" title="Acoustic shadow">acoustic shadow</a> at some distance from the source.<sup class="reference" id="cite_ref-Everest2001_7-1"><a href="#cite_note-Everest2001-7">[7]</a></sup> Wind shear of 4 m/(s · km) can produce refraction equal to a typical temperature <a href="/wiki/Lapse_rate" title="Lapse rate">lapse rate</a> of <span class="nowrap">7.5 °C/km</span>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Higher values of wind gradient will refract sound downward toward the surface in the downwind direction,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> eliminating the acoustic shadow on the downwind side. This will increase the audibility of sounds downwind. This downwind refraction effect occurs because there is a wind gradient; the sound is not being carried along by the wind.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>For sound propagation, the exponential variation of wind speed with height can be defined as follows:<sup class="reference" id="cite_ref-Bies_13-0"><a href="#cite_note-Bies-13">[13]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<msup>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ζ<!-- ζ --></mi>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U(h)=U(0)h^{\zeta },}</annotation>
+</semantics>
+</math></span><img alt="U(h)=U(0)h^{\zeta }," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fb31b89e787e55505908fa3b8521db2c4fba9b9" style="vertical-align: -0.838ex; width:15.898ex; height:3.176ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>U</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>H</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>ζ<!-- ζ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mi>h</mi>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\mathrm {d} U}{\mathrm {d} H}}(h)=\zeta {\frac {U(h)}{h}},}</annotation>
+</semantics>
+</math></span><img alt="\frac{\mathrm{d}U}{\mathrm{d}H}(h) = \zeta \frac{U(h)}{h}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9913cc75f4f5bbc215b32d243f630338c04691e1" style="vertical-align: -2.005ex; width:18.073ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>U</i>(<i>h</i>) is the speed of the wind at height <i>h</i>;</li>
+<li><i>ζ</i> is the exponential coefficient based on ground surface roughness, typically between 0.08 and 0.52;</li>
+<li>d<i>U</i>/d<i>H</i>(<i>h</i>) is the expected wind gradient at height <i>h</i>.</li>
+</ul>
+<p>In the 1862 <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> <a href="/wiki/Battle_of_Iuka" title="Battle of Iuka">Battle of Iuka</a>, an acoustic shadow, believed to have been enhanced by a northeast wind, kept two divisions of Union soldiers out of the battle,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> because they could not hear the sounds of battle only <span class="nowrap">10 km</span> (six miles) downwind.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Tables">Tables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=11" title="Edit section: Tables">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a class="mw-redirect" href="/wiki/Standard_temperature_and_pressure" title="Standard temperature and pressure">standard atmosphere</a>:</p>
+<ul>
+<li><i>T</i><sub>0</sub> is <span class="nowrap">273.15 K</span> (= <span class="nowrap">0 °C = 32 °F</span>), giving a theoretical value of <span class="nowrap">331.3 m/s</span> (= <span class="nowrap">1086.9 ft/s</span> = <span class="nowrap">1193 km/h</span> = <span class="nowrap">741.1 mph</span> = <span class="nowrap">644.0 <a href="/wiki/Knot_(unit)" title="Knot (unit)">kn</a></span>). Values ranging from 331.3-331.6 may be found in reference literature, however;</li>
+<li><i>T</i><sub>20</sub> is <span class="nowrap">293.15 K</span> (= <span class="nowrap">20 °C</span> = <span class="nowrap">68 °F</span>), giving a value of <span class="nowrap">343.2 m/s</span> (= <span class="nowrap">1126.0 ft/s</span> = <span class="nowrap">1236 km/h</span> = <span class="nowrap">767.8 mph</span> = <span class="nowrap">667.2 <a href="/wiki/Knot_(unit)" title="Knot (unit)">kn</a></span>);</li>
+<li><i>T</i><sub>25</sub> is <span class="nowrap">298.15 K</span> (= <span class="nowrap">25 °C</span> = <span class="nowrap">77 °F</span>), giving a value of <span class="nowrap">346.1 m/s</span> (= <span class="nowrap">1135.6 ft/s</span> = <span class="nowrap">1246 km/h</span> = <span class="nowrap">774.3 mph</span> = <span class="nowrap">672.8 <a href="/wiki/Knot_(unit)" title="Knot (unit)">kn</a></span>).</li>
+</ul>
+<p>In fact, assuming an <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a>, the speed of sound <i>c</i> depends on temperature only, <b>not on the pressure</b> or <b>density</b> (since these change in lockstep for a given temperature and cancel out). Air is almost an ideal gas. The temperature of the air varies with altitude, giving the following variations in the speed of sound using the standard atmosphere—<i>actual conditions may vary</i>.</p>
+<table class="wikitable" style="text-align:right;">
+<caption>Effect of temperature on properties of air</caption>
+<tr>
+<th scope="col">Temperature<br/>
+<i>T</i> (<a href="/wiki/Celsius" title="Celsius">°C</a>)</th>
+<th scope="col">Speed of sound<br/>
+<i>c</i> (<a href="/wiki/Metre" title="Metre">m</a>/<a href="/wiki/Second" title="Second">s</a>)</th>
+<th scope="col">Density of air<br/>
+<i>ρ</i> (<a href="/wiki/Kilogram" title="Kilogram">kg</a>/<a href="/wiki/Metre" title="Metre">m</a><sup>3</sup>)</th>
+<th scope="col">Characteristic specific acoustic impedance<br/>
+<i>z</i><sub>0</sub> (<a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a>·<a href="/wiki/Second" title="Second">s</a>/<a href="/wiki/Metre" title="Metre">m</a>)</th>
+</tr>
+<tr>
+<td>35</td>
+<td>351.88</td>
+<td>1.1455</td>
+<td>403.2</td>
+</tr>
+<tr>
+<td>30</td>
+<td>349.02</td>
+<td>1.1644</td>
+<td>406.5</td>
+</tr>
+<tr>
+<td>25</td>
+<td>346.13</td>
+<td>1.1839</td>
+<td>409.4</td>
+</tr>
+<tr>
+<td>20</td>
+<td>343.21</td>
+<td>1.2041</td>
+<td>413.3</td>
+</tr>
+<tr>
+<td>15</td>
+<td>340.27</td>
+<td>1.2250</td>
+<td>416.9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>337.31</td>
+<td>1.2466</td>
+<td>420.5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>334.32</td>
+<td>1.2690</td>
+<td>424.3</td>
+</tr>
+<tr>
+<td>0</td>
+<td>331.30</td>
+<td>1.2922</td>
+<td>428.0</td>
+</tr>
+<tr>
+<td>−5</td>
+<td>328.25</td>
+<td>1.3163</td>
+<td>432.1</td>
+</tr>
+<tr>
+<td>−10</td>
+<td>325.18</td>
+<td>1.3413</td>
+<td>436.1</td>
+</tr>
+<tr>
+<td>−15</td>
+<td>322.07</td>
+<td>1.3673</td>
+<td>440.3</td>
+</tr>
+<tr>
+<td>−20</td>
+<td>318.94</td>
+<td>1.3943</td>
+<td>444.6</td>
+</tr>
+<tr>
+<td>−25</td>
+<td>315.77</td>
+<td>1.4224</td>
+<td>449.1</td>
+</tr>
+</table>
+<p>Given normal atmospheric conditions, the temperature, and thus speed of sound, varies with altitude:</p>
+<table class="wikitable">
+<tr style="background:#f0f0f0;">
+<td><b>Altitude</b></td>
+<td><b>Temperature</b></td>
+<td><b>m/s</b></td>
+<td><b>km/h</b></td>
+<td><b>mph</b></td>
+<td><b>kn</b></td>
+</tr>
+<tr>
+<td>Sea level</td>
+<td><span class="nowrap">15 °C</span> (<span class="nowrap">59 °F</span>)</td>
+<td>340</td>
+<td>1,225</td>
+<td>761</td>
+<td>661</td>
+</tr>
+<tr>
+<td><span class="nowrap">11,000 m</span>−<span class="nowrap">20,000 m</span><br/>
+(Cruising altitude of commercial jets,<br/>
+and <a href="/wiki/Bell_X-1" title="Bell X-1">first supersonic flight</a>)</td>
+<td><span class="nowrap">−57 °C</span> (<span class="nowrap">−70 °F</span>)</td>
+<td>295</td>
+<td>1,062</td>
+<td>660</td>
+<td>573</td>
+</tr>
+<tr>
+<td>29,000 m (Flight of <a class="mw-redirect" href="/wiki/Boeing_X-43" title="Boeing X-43">X-43A</a>)</td>
+<td><span class="nowrap">−48 °C</span> (<span class="nowrap">−53 °F</span>)</td>
+<td>301</td>
+<td>1,083</td>
+<td>673</td>
+<td>585</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Effect_of_frequency_and_gas_composition">Effect of frequency and gas composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=12" title="Edit section: Effect of frequency and gas composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="General_physical_considerations">General physical considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=13" title="Edit section: General physical considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The medium in which a sound wave is travelling does not always respond adiabatically, and as a result the speed of sound can vary with frequency.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<p>The limitations of the concept of speed of sound due to extreme attenuation are also of concern. The attenuation which exists at sea level for high frequencies applies to successively lower frequencies as atmospheric pressure decreases, or as the <a href="/wiki/Mean_free_path" title="Mean free path">mean free path</a> increases. For this reason, the concept of speed of sound (except for frequencies approaching zero) progressively loses its range of applicability at high altitudes.<sup class="reference" id="cite_ref-USSA1976_9-1"><a href="#cite_note-USSA1976-9">[9]</a></sup> The standard equations for the speed of sound apply with reasonable accuracy only to situations in which the wavelength of the soundwave is considerably longer than the mean free path of molecules in a gas.</p>
+<p>The molecular composition of the gas contributes both as the mass (M) of the molecules, and their heat capacities, and so both have an influence on speed of sound. In general, at the same molecular mass, monatomic gases have slightly higher speed of sound (over 9% higher) because they have a higher <i>γ</i> (<span class="nowrap">5/3 = 1.66</span>…) than diatomics do (<span class="nowrap">7/5 = 1.4</span>). Thus, at the same molecular mass, the speed of sound of a monatomic gas goes up by a factor of</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+<mo>,</mo>
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">t</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+<mo>,</mo>
+<mi mathvariant="normal">d</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">t</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>7</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>5</mn>
+</mrow>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mn>25</mn>
+<mn>21</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mn>1.091</mn>
+<mo>…<!-- … --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {c_{\mathrm {gas,monatomic} } \over c_{\mathrm {gas,diatomic} }}={\sqrt {{5/3} \over {7/5}}}={\sqrt {25 \over 21}}=1.091\ldots }</annotation>
+</semantics>
+</math></span><img alt="{c_{\mathrm{gas,monatomic}} \over c_{\mathrm{gas,diatomic}}} = \sqrt{{{{5/3} \over {7/5}}}} = \sqrt{25 \over 21} = 1.091\ldots" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7d5b5b8c6efe6238f6a6833dce02eb4b7e5dbfe0" style="vertical-align: -3.171ex; width:42.877ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>This gives the 9% difference, and would be a typical ratio for speeds of sound at room temperature in <a href="/wiki/Helium" title="Helium">helium</a> vs. <a href="/wiki/Deuterium" title="Deuterium">deuterium</a>, each with a molecular weight of 4. Sound travels faster in helium than deuterium because adiabatic compression heats helium more, since the helium molecules can store heat energy from compression only in translation, but not rotation. Thus helium molecules (monatomic molecules) travel faster in a sound wave and transmit sound faster. (Sound travels at about 70% of the mean molecular speed in gases; the figure is 75% in monatomic gases and 68% in diatomic gases).</p>
+<p>Note that in this example we have assumed that temperature is low enough that heat capacities are not influenced by molecular vibration (see <a href="/wiki/Heat_capacity" title="Heat capacity">heat capacity</a>). However, vibrational modes simply cause gammas which decrease toward 1, since vibration modes in a polyatomic gas gives the gas additional ways to store heat which do not affect temperature, and thus do not affect molecular velocity and sound velocity. Thus, the effect of higher temperatures and vibrational heat capacity acts to increase the difference between the speed of sound in monatomic vs. polyatomic molecules, with the speed remaining greater in monatomics.</p>
+<h3><span class="mw-headline" id="Practical_application_to_air">Practical application to air</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=14" title="Edit section: Practical application to air">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By far the most important factor influencing the speed of sound in air is temperature. The speed is proportional to the square root of the absolute temperature, giving an increase of about <span class="nowrap">0.6 m/s</span> per degree Celsius. For this reason, the pitch of a musical wind instrument increases as its temperature increases.</p>
+<p>The speed of sound is raised by humidity but decreased by carbon dioxide. The difference between 0% and 100% humidity is about <span class="nowrap">1.5 m/s</span> at standard pressure and temperature, but the size of the humidity effect increases dramatically with temperature. The carbon dioxide content of air is not fixed, due to both carbon pollution and human breath (e.g., in the air blown through wind instruments).</p>
+<p>The dependence on frequency and pressure are normally insignificant in practical applications. In dry air, the speed of sound increases by about <span class="nowrap">0.1 m/s</span> as the frequency rises from <span class="nowrap">10 Hz</span> to <span class="nowrap">100 Hz</span>. For audible frequencies above <span class="nowrap">100 Hz</span> it is relatively constant. Standard values of the speed of sound are quoted in the limit of low frequencies, where the wavelength is large compared to the mean free path.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Mach_number">Mach number</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=15" title="Edit section: Mach number">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Mach_number" title="Mach number">Mach number</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg"><img alt="" class="thumbimage" data-file-height="1500" data-file-width="2100" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29_-_filtered.jpg/220px-FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29_-_filtered.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29_-_filtered.jpg/330px-FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29_-_filtered.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29_-_filtered.jpg/440px-FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29_-_filtered.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg" title="Enlarge"></a></div>
+U.S. Navy <a class="mw-redirect" href="/wiki/F/A-18_Hornet" title="F/A-18 Hornet">F/A-18</a> traveling near the speed of sound. The white halo consists of condensed water droplets formed by the sudden drop in air pressure behind the shock cone around the aircraft (see <a class="mw-redirect" href="/wiki/Prandtl-Glauert_singularity" title="Prandtl-Glauert singularity">Prandtl-Glauert singularity</a>).<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></div>
+</div>
+</div>
+<p>Mach number, a useful quantity in aerodynamics, is the ratio of air <a href="/wiki/Speed" title="Speed">speed</a> to the local speed of sound. At altitude, for reasons explained, Mach number is a function of temperature. Aircraft <a href="/wiki/Flight_instruments" title="Flight instruments">flight instruments</a>, however, operate using pressure differential to compute Mach number, not temperature. The assumption is that a particular pressure represents a particular altitude and, therefore, a standard temperature. Aircraft flight instruments need to operate this way because the stagnation pressure sensed by a <a href="/wiki/Pitot_tube" title="Pitot tube">Pitot tube</a> is dependent on altitude as well as speed.</p>
+<h2><span class="mw-headline" id="Experimental_methods">Experimental methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=16" title="Edit section: Experimental methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A range of different methods exist for the measurement of sound in air.</p>
+<p>The earliest reasonably accurate estimate of the speed of sound in air was made by <a href="/wiki/William_Derham" title="William Derham">William Derham</a>, and acknowledged by <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a>. Derham had a telescope at the top of the tower of the <a href="/wiki/Church_of_St_Laurence,_Upminster" title="Church of St Laurence, Upminster">Church of St Laurence</a> in <a href="/wiki/Upminster" title="Upminster">Upminster</a>, England. On a calm day, a synchronized pocket watch would be given to an assistant who would fire a shotgun at a pre-determined time from a conspicuous point some miles away, across the countryside. This could be confirmed by telescope. He then measured the interval between seeing gunsmoke and arrival of the sound using a half-second pendulum. The distance from where the gun was fired was found by triangulation, and simple division (distance/time) provided velocity. Lastly, by making many observations, using a range of different distances, the inaccuracy of the half-second pendulum could be averaged out, giving his final estimate of the speed of sound. Modern stopwatches enable this method to be used today over distances as short as 200–400 meters, and not needing something as loud as a shotgun.</p>
+<h3><span class="mw-headline" id="Single-shot_timing_methods">Single-shot timing methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=17" title="Edit section: Single-shot timing methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The simplest concept is the measurement made using two <a href="/wiki/Microphone" title="Microphone">microphones</a> and a fast recording device such as a <a href="/wiki/Digital_data" title="Digital data">digital</a> storage scope. This method uses the following idea.</p>
+<p>If a sound source and two microphones are arranged in a straight line, with the sound source at one end, then the following can be measured:</p>
+<ol>
+<li>The distance between the microphones (<i>x</i>), called microphone basis.</li>
+<li>The time of arrival between the signals (delay) reaching the different microphones (<i>t</i>).</li>
+</ol>
+<p>Then <i>v</i> = <i>x</i>/<i>t</i>.</p>
+<h3><span class="mw-headline" id="Other_methods">Other methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=18" title="Edit section: Other methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In these methods the <a href="/wiki/Time" title="Time">time</a> measurement has been replaced by a measurement of the inverse of time (<a href="/wiki/Frequency" title="Frequency">frequency</a>).</p>
+<p><a href="/wiki/Kundt%27s_tube" title="Kundt's tube">Kundt's tube</a> is an example of an experiment which can be used to measure the speed of sound in a small volume. It has the advantage of being able to measure the speed of sound in any gas. This method uses a powder to make the <a href="/wiki/Node_(physics)" title="Node (physics)">nodes</a> and <a class="mw-redirect" href="/wiki/Antinode" title="Antinode">antinodes</a> visible to the human eye. This is an example of a compact experimental setup.</p>
+<p>A <a href="/wiki/Tuning_fork" title="Tuning fork">tuning fork</a> can be held near the mouth of a long <a class="mw-redirect" href="/wiki/Pipe_(material)" title="Pipe (material)">pipe</a> which is dipping into a barrel of <a href="/wiki/Water" title="Water">water</a>. In this system it is the case that the pipe can be brought to resonance if the length of the air column in the pipe is equal to <i>(1 + 2</i>n<i>)λ/4</i> where <i>n</i> is an integer. As the <a class="mw-redirect" href="/wiki/Antinode" title="Antinode">antinodal</a> point for the pipe at the open end is slightly outside the mouth of the pipe it is best to find two or more points of resonance and then measure half a wavelength between these.</p>
+<p>Here it is the case that <i>v</i> = <i>fλ</i>.</p>
+<h3><span class="mw-headline" id="High-precision_measurements_in_air">High-precision measurements in air</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=19" title="Edit section: High-precision measurements in air">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The effect from impurities can be significant when making high-precision measurements. Chemical <a href="/wiki/Desiccant" title="Desiccant">desiccants</a> can be used to dry the air, but will in turn contaminate the sample. The air can be dried cryogenically, but this has the effect of removing the carbon dioxide as well; therefore many high-precision measurements are performed with air free of carbon dioxide rather than with natural air. A 2002 review<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> found that a 1963 measurement by Smith and Harlow using a cylindrical resonator gave "the most probable value of the standard speed of sound to date." The experiment was done with air from which the carbon dioxide had been removed, but the result was then corrected for this effect so as to be applicable to real air. The experiments were done at <span class="nowrap">30 °C</span> but corrected for temperature in order to report them at <span class="nowrap">0 °C</span>. The result was <span class="nowrap">331.45 ± 0.01 m/s</span> for dry air at STP, for frequencies from <span class="nowrap">93 Hz</span> to <span class="nowrap">1,500 Hz</span>.</p>
+<h2><span class="mw-headline" id="Non-gaseous_media">Non-gaseous media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=20" title="Edit section: Non-gaseous media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Speed_of_sound_in_solids">Speed of sound in solids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=21" title="Edit section: Speed of sound in solids">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Three-dimensional_solids">Three-dimensional solids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=22" title="Edit section: Three-dimensional solids">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In a solid, there is a non-zero stiffness both for volumetric deformations and shear deformations. Hence, it is possible to generate sound waves with different velocities dependent on the deformation mode. Sound waves generating volumetric deformations (compression) and shear deformations (shearing) are called pressure waves (longitudinal waves) and shear waves (transverse waves), respectively. In <a href="/wiki/Earthquake" title="Earthquake">earthquakes</a>, the corresponding seismic waves are called <a href="/wiki/P-wave" title="P-wave">P-waves</a> (primary waves) and <a href="/wiki/S-wave" title="S-wave">S-waves</a> (secondary waves), respectively. The sound velocities of these two types of waves propagating in a homogeneous 3-dimensional solid are respectively given by<sup class="reference" id="cite_ref-E._Kinsler_2000_20-0"><a href="#cite_note-E._Kinsler_2000-20">[20]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">l</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">d</mi>
+<mo>,</mo>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>K</mi>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mi>G</mi>
+</mrow>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>E</mi>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>ν<!-- ν --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>ν<!-- ν --></mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>ν<!-- ν --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {solid,p} }={\sqrt {\frac {K+{\frac {4}{3}}G}{\rho }}}={\sqrt {\frac {E(1-\nu )}{\rho (1+\nu )(1-2\nu )}}},}</annotation>
+</semantics>
+</math></span><img alt="c_{\mathrm{solid,p}} = \sqrt{\frac{K + \frac{4}{3}G}{\rho}} = \sqrt{\frac{E(1 - \nu)}{\rho (1 + \nu)(1 - 2 \nu)}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c26e5e458deda9f2a64875d847712a36bd973a7" style="vertical-align: -3.171ex; width:44.325ex; height:8.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">l</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">d</mi>
+<mo>,</mo>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mi>G</mi>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {solid,s} }={\sqrt {\frac {G}{\rho }}},}</annotation>
+</semantics>
+</math></span><img alt="c_{\mathrm{solid,s}} = \sqrt{\frac{G}{\rho}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/63b8a40f17d7b1d5ba69235f996ae2a09b253bf2" style="vertical-align: -3.338ex; width:14.479ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>K</i> is the <a href="/wiki/Bulk_modulus" title="Bulk modulus">bulk modulus</a> of the elastic materials;</li>
+<li><i>G</i> is the <a href="/wiki/Shear_modulus" title="Shear modulus">shear modulus</a> of the elastic materials;</li>
+<li><i>E</i> is the <a href="/wiki/Young%27s_modulus" title="Young's modulus">Young's modulus</a>;</li>
+<li><i>ρ</i> is the density;</li>
+<li><i>ν</i> is <a href="/wiki/Poisson%27s_ratio" title="Poisson's ratio">Poisson's ratio</a>.</li>
+</ul>
+<p>The last quantity is not an independent one, as <span class="nowrap">E = 3K(1 − 2ν)</span>. Note that the speed of pressure waves depends both on the pressure and shear resistance properties of the material, while the speed of shear waves depends on the shear properties only.</p>
+<p>Typically, pressure waves travel faster in materials than do shear waves, and in earthquakes this is the reason that the onset of an earthquake is often preceded by a quick upward-downward shock, before arrival of waves that produce a side-to-side motion. For example, for a typical steel alloy, <span class="nowrap"><i>K</i> = 170 GPa</span>, <span class="nowrap"><i>G</i> = 80 GPa</span> and <span class="nowrap"><i>ρ</i> = 7,700 kg/m<sup>3</sup></span>, yielding a compressional speed <i>c</i><sub>solid,p</sub> of <span class="nowrap">6,000 m/s</span>.<sup class="reference" id="cite_ref-E._Kinsler_2000_20-1"><a href="#cite_note-E._Kinsler_2000-20">[20]</a></sup> This is in reasonable agreement with <i>c</i><sub>solid,p</sub> measured experimentally at <span class="nowrap">5,930 m/s</span> for a (possibly different) type of steel.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> The shear speed <i>c</i><sub>solid,s</sub> is estimated at <span class="nowrap">3,200 m/s</span> using the same numbers.</p>
+<h4><span class="mw-headline" id="One-dimensional_solids">One-dimensional solids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=23" title="Edit section: One-dimensional solids">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The speed of sound for pressure waves in stiff materials such as metals is sometimes given for "long rods" of the material in question, in which the speed is easier to measure. In rods where their diameter is shorter than a wavelength, the speed of pure pressure waves may be simplified and is given by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">l</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mi>E</mi>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {solid} }={\sqrt {\frac {E}{\rho }}},}</annotation>
+</semantics>
+</math></span><img alt="c_{\mathrm{solid}} = \sqrt{\frac{E}{\rho}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a21c55d8e23731a70484519e86c7cd7607e3947e" style="vertical-align: -3.338ex; width:13.308ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>where <i>E</i> is <a href="/wiki/Young%27s_modulus" title="Young's modulus">Young's modulus</a>. This is similar to the expression for shear waves, save that <a href="/wiki/Young%27s_modulus" title="Young's modulus">Young's modulus</a> replaces the <a href="/wiki/Shear_modulus" title="Shear modulus">shear modulus</a>. This speed of sound for pressure waves in long rods will always be slightly less than the same speed in homogeneous 3-dimensional solids, and the ratio of the speeds in the two different types of objects depends on <a href="/wiki/Poisson%27s_ratio" title="Poisson's ratio">Poisson's ratio</a> for the material.</p>
+<h3><span class="mw-headline" id="Speed_of_sound_in_liquids">Speed of sound in liquids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=24" title="Edit section: Speed of sound in liquids">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Speed_of_sound_in_water.svg"><img alt="" class="thumbimage" data-file-height="540" data-file-width="720" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Speed_of_sound_in_water.svg/220px-Speed_of_sound_in_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Speed_of_sound_in_water.svg/330px-Speed_of_sound_in_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Speed_of_sound_in_water.svg/440px-Speed_of_sound_in_water.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Speed_of_sound_in_water.svg" title="Enlarge"></a></div>
+Speed of sound in water vs temperature.</div>
+</div>
+</div>
+<p>In a fluid the only non-zero <a href="/wiki/Stiffness" title="Stiffness">stiffness</a> is to volumetric deformation (a fluid does not sustain shear forces).</p>
+<p>Hence the speed of sound in a fluid is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">l</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mi>K</mi>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\mathrm {fluid} }={\sqrt {\frac {K}{\rho }}},}</annotation>
+</semantics>
+</math></span><img alt="c_{\mathrm{fluid}} = \sqrt{\frac{K}{\rho}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c618951d93fe1e71475ebb7abb24f0a925b2321" style="vertical-align: -3.338ex; width:13.654ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>where <i>K</i> is the <a href="/wiki/Bulk_modulus" title="Bulk modulus">bulk modulus</a> of the fluid.</p>
+<h4><span class="mw-headline" id="Water">Water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=25" title="Edit section: Water">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In fresh water, sound travels at about <span class="nowrap">1481 m/s</span> at <span class="nowrap">20 °C</span> (see the External Links section below for online calculators).<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> Applications of <a href="/wiki/Underwater_acoustics" title="Underwater acoustics">underwater sound</a> can be found in <a href="/wiki/Sonar" title="Sonar">sonar</a>, <a href="/wiki/Underwater_acoustics#Underwater_communication" title="Underwater acoustics">acoustic communication</a> and <a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">acoustical oceanography</a>.</p>
+<h4><span class="mw-headline" id="Seawater">Seawater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=26" title="Edit section: Seawater">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Sound_speed_profile" title="Sound speed profile">Sound speed profile</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Underwater_speed_of_sound.svg"><img alt="" class="thumbimage" data-file-height="606" data-file-width="377" height="354" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Underwater_speed_of_sound.svg/220px-Underwater_speed_of_sound.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Underwater_speed_of_sound.svg/330px-Underwater_speed_of_sound.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Underwater_speed_of_sound.svg/440px-Underwater_speed_of_sound.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Underwater_speed_of_sound.svg" title="Enlarge"></a></div>
+Speed of sound as a function of depth at a position north of Hawaii in the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> derived from the 2005 <a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">World Ocean Atlas</a>. The <a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a> is centred on the minimum in the speed of sound at ca. 750-m depth.</div>
+</div>
+</div>
+<p>In salt water that is free of air bubbles or suspended sediment, sound travels at about <span class="nowrap">1500 m/s</span> (<span class="nowrap">1500.235 m/s</span> at <span class="nowrap">1000 <a class="mw-redirect" href="/wiki/Kilopascals" title="Kilopascals">kilopascals</a></span>, 10<span class="nowrap"> </span>°C and 3% <a href="/wiki/Salinity" title="Salinity">salinity</a> by one method).<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> The speed of sound in seawater depends on pressure (hence depth), temperature (a change of <span class="nowrap">1 °C</span> ~ <span class="nowrap">4 m/s</span>), and <a href="/wiki/Salinity" title="Salinity">salinity</a> (a change of 1<a class="mw-redirect" href="/wiki/Per_mil" title="Per mil">‰</a> ~ <span class="nowrap">1 m/s</span>), and empirical equations have been derived to accurately calculate the speed of sound from these variables.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> Other factors affecting the speed of sound are minor. Since temperature decreases with depth while pressure and generally salinity increase, the profile of the speed of sound with depth generally shows a characteristic curve which decreases to a minimum at a depth of several hundred meters, then increases again with increasing depth (right).<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> For more information see Dushaw et al.<sup class="reference" id="cite_ref-Dushaw93_27-0"><a href="#cite_note-Dushaw93-27">[27]</a></sup></p>
+<p>A simple empirical equation for the speed of sound in sea water with reasonable accuracy for the world's oceans is due to Mackenzie:<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mi>T</mi>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mn>35</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>6</mn>
+</mrow>
+</msub>
+<mi>z</mi>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>7</mn>
+</mrow>
+</msub>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>8</mn>
+</mrow>
+</msub>
+<mi>T</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>−<!-- − --></mo>
+<mn>35</mn>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>9</mn>
+</mrow>
+</msub>
+<mi>T</mi>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c(T,S,z)=a_{1}+a_{2}T+a_{3}T^{2}+a_{4}T^{3}+a_{5}(S-35)+a_{6}z+a_{7}z^{2}+a_{8}T(S-35)+a_{9}Tz^{3},}</annotation>
+</semantics>
+</math></span><img alt="c(T, S, z) = a_1 + a_2 T + a_3 T^2 + a_4 T^3 + a_5 (S - 35) + a_6 z + a_7 z^2 + a_8 T(S - 35) + a_9 T z^3," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dd3808ca74356afec70d73034c7a24503d838b17" style="vertical-align: -0.838ex; width:89.502ex; height:3.176ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>T</i> is the temperature in degrees Celsius;</li>
+<li><i>S</i> is the salinity in parts per thousand;</li>
+<li><i>z</i> is the depth in meters.</li>
+</ul>
+<p>The constants <i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, …, <i>a</i><sub>9</sub> are</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>448.96</mn>
+<mo>,</mo>
+</mtd>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>4.591</mn>
+<mo>,</mo>
+</mtd>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>5.304</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>2.374</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mtd>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1.340</mn>
+<mo>,</mo>
+</mtd>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>6</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1.630</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>7</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1.675</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>7</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mtd>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>8</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>1.025</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mtd>
+<mtd>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>9</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>7.139</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>13</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}a_{1}&amp;=1,448.96,&amp;a_{2}&amp;=4.591,&amp;a_{3}&amp;=-5.304\times 10^{-2},\\a_{4}&amp;=2.374\times 10^{-4},&amp;a_{5}&amp;=1.340,&amp;a_{6}&amp;=1.630\times 10^{-2},\\a_{7}&amp;=1.675\times 10^{-7},&amp;a_{8}&amp;=-1.025\times 10^{-2},&amp;a_{9}&amp;=-7.139\times 10^{-13},\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="\begin{align}
+a_1 &amp;= 1,448.96,          &amp;a_2 &amp;= 4.591,             &amp;a_3 &amp;= -5.304 \times 10^{-2},\\
+a_4 &amp;= 2.374 \times 10^{-4}, &amp;a_5 &amp;= 1.340,             &amp;a_6 &amp;= 1.630 \times 10^{-2},\\
+a_7 &amp;= 1.675 \times 10^{-7}, &amp;a_8 &amp;= -1.025 \times 10^{-2}, &amp;a_9 &amp;= -7.139 \times 10^{-13},
+\end{align}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2cfb9fb3780db0a35021eefdd2d89a451e121b07" style="vertical-align: -4.171ex; width:71.392ex; height:9.509ex;"/></span></dd>
+</dl>
+<p>with check value <span class="nowrap">1550.744 m/s</span> for <span class="nowrap"><i>T</i> = 25 °C</span>, <span class="nowrap"><i>S</i> = 35 parts per thousand</span>, <span class="nowrap"><i>z</i> = 1,000 m</span>. This equation has a standard error of <span class="nowrap">0.070 m/s</span> for salinity between 25 and 40 <a class="mw-redirect" href="/wiki/Parts_per_thousand" title="Parts per thousand">ppt</a>. See <a class="external text" href="http://www.npl.co.uk/acoustics/techguides/soundseawater/" rel="nofollow">Technical Guides. Speed of Sound in Sea-Water</a> for an online calculator.</p>
+<p>Other equations for the speed of sound in sea water are accurate over a wide range of conditions, but are far more complicated, e.g., that by V. A. Del Grosso<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> and the Chen-Millero-Li Equation.<sup class="reference" id="cite_ref-Dushaw93_27-1"><a href="#cite_note-Dushaw93-27">[27]</a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></p>
+<h3><span class="mw-headline" id="Speed_of_sound_in_plasma">Speed of sound in plasma</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=27" title="Edit section: Speed of sound in plasma">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The speed of sound in a <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a> for the common case that the electrons are hotter than the ions (but not too much hotter) is given by the formula (see <a href="/wiki/Plasma_parameters#Velocities" title="Plasma parameters">here</a>)</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>γ<!-- γ --></mi>
+<mi>Z</mi>
+<mi>k</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">i</mi>
+</mrow>
+</mrow>
+</msub>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>9.79</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>γ<!-- γ --></mi>
+<mi>Z</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>μ<!-- μ --></mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+</mrow>
+</msup>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{s}=(\gamma ZkT_{\mathrm {e} }/m_{\mathrm {i} })^{1/2}=9.79\times 10^{3}(\gamma ZT_{e}/\mu )^{1/2}~\mathrm {m/s} ,}</annotation>
+</semantics>
+</math></span><img alt="c_s = (\gamma ZkT_\mathrm{e}/m_\mathrm{i})^{1/2} = 9.79 \times 10^3(\gamma ZT_e/\mu)^{1/2}~\mathrm{m/s}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b647b814a7d5cb260fc40f90dd778c2c5fdb0f7" style="vertical-align: -0.838ex; width:51.431ex; height:3.343ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>m</i><sub>i</sub> is the <a href="/wiki/Ion" title="Ion">ion</a> mass;</li>
+<li><i>μ</i> is the ratio of ion mass to <a href="/wiki/Proton" title="Proton">proton</a> mass <span class="nowrap"><i>μ</i> = <i>m</i><sub>i</sub>/<i>m</i><sub>p</sub></span>;</li>
+<li><i>T</i><sub>e</sub> is the <a href="/wiki/Electron" title="Electron">electron</a> temperature;</li>
+<li><i>Z</i> is the charge state;</li>
+<li><i>k</i> is <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a>;</li>
+<li><i>γ</i> is the <a class="mw-redirect" href="/wiki/Adiabatic_index" title="Adiabatic index">adiabatic index</a>.</li>
+</ul>
+<p>In contrast to a gas, the pressure and the density are provided by separate species, the pressure by the electrons and the density by the ions. The two are coupled through a fluctuating electric field.</p>
+<h2><span class="mw-headline" id="Gradients">Gradients</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=28" title="Edit section: Gradients">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Sound_speed_gradient" title="Sound speed gradient">Sound speed gradient</a></div>
+<p>When sound spreads out evenly in all directions in three dimensions, the intensity drops in proportion to the inverse square of the distance. However, in the ocean there is a layer called the 'deep sound channel' or <a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a> which can confine sound waves at a particular depth.</p>
+<p>In the SOFAR channel, the speed of sound is lower than that in the layers above and below. Just as light waves will refract towards a region of higher <a href="/wiki/Refractive_index" title="Refractive index">index</a>, sound waves will <a href="/wiki/Refraction" title="Refraction">refract</a> towards a region where their speed is reduced. The result is that sound gets confined in the layer, much the way light can be confined in a sheet of glass or <a href="/wiki/Optical_fiber" title="Optical fiber">optical fiber</a>. Thus, the sound is confined in essentially two dimensions. In two dimensions the intensity drops in proportion to only the inverse of the distance. This allows waves to travel much further before being undetectably faint.</p>
+<p>A similar effect occurs in the atmosphere. <a href="/wiki/Project_Mogul" title="Project Mogul">Project Mogul</a> successfully used this effect to detect a <a href="/wiki/Nuclear_explosion" title="Nuclear explosion">nuclear explosion</a> at a considerable distance.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=29" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Acoustoelastic_effect" title="Acoustoelastic effect">Acoustoelastic effect</a></li>
+<li><a class="mw-redirect" href="/wiki/Elastic_wave" title="Elastic wave">Elastic wave</a></li>
+<li><a href="/wiki/Second_sound" title="Second sound">Second sound</a></li>
+<li><a href="/wiki/Sonic_boom" title="Sonic boom">Sonic boom</a></li>
+<li><a href="/wiki/Sound_barrier" title="Sound barrier">Sound barrier</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></li>
+<li><a class="mw-redirect" href="/wiki/Vibrations" title="Vibrations">Vibrations</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=30" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/tables/soundv.html" rel="nofollow">Speed of Sound</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://mathpages.com/home/kmath109/kmath109.htm" rel="nofollow">"The Speed of Sound"</a>. mathpages.com<span class="reference-accessdate">. Retrieved <span class="nowrap">3 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.btitle=The+Speed+of+Sound&amp;rft.genre=unknown&amp;rft.pub=mathpages.com&amp;rft_id=http%3A%2F%2Fmathpages.com%2Fhome%2Fkmath109%2Fkmath109.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Bannon, Mike; Kaputa, Frank. <a class="external text" href="http://www.thermaxxjackets.com/newton-laplace-equation-sound-velocity/" rel="nofollow">"The Newton–Laplace Equation and Speed of Sound"</a>. Thermal Jackets<span class="reference-accessdate">. Retrieved <span class="nowrap">3 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.au=Kaputa%2C+Frank&amp;rft.aufirst=Mike&amp;rft.aulast=Bannon&amp;rft.btitle=The+Newton%E2%80%93Laplace+Equation+and+Speed+of+Sound&amp;rft.genre=unknown&amp;rft.pub=Thermal+Jackets&amp;rft_id=http%3A%2F%2Fwww.thermaxxjackets.com%2Fnewton-laplace-equation-sound-velocity%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-meridian-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-meridian_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-meridian_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Murdin, Paul (25 December 2008). <i>Full Meridian of Glory: Perilous Adventures in the Competition to Measure the Earth</i>. Springer Science &amp; Business Media. pp. 35–36. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780387755342" title="Special:BookSources/9780387755342">9780387755342</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=Paul&amp;rft.aulast=Murdin&amp;rft.btitle=Full+Meridian+of+Glory%3A+Perilous+Adventures+in+the+Competition+to+Measure+the+Earth&amp;rft.date=2008-12-25&amp;rft.genre=book&amp;rft.isbn=9780387755342&amp;rft.pages=35-36&amp;rft.pub=Springer+Science+%26+Business+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Tony_Fox-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tony_Fox_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Fox, Tony (2003). <i>Essex Journal</i>. Essex Arch &amp; Hist Soc. pp. 12–16.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=Tony&amp;rft.aulast=Fox&amp;rft.btitle=Essex+Journal&amp;rft.date=2003&amp;rft.genre=book&amp;rft.pages=12-16&amp;rft.pub=Essex+Arch+%26+Hist+Soc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Dean, E. A. (August 1979). <a class="external text" href="http://handle.dtic.mil/100.2/ADA076060" rel="nofollow">Atmospheric Effects on the Speed of Sound</a>, Technical report of Defense Technical Information Center</span></li>
+<li id="cite_note-Everest2001-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Everest2001_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Everest2001_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Everest, F. (2001). <i>The Master Handbook of Acoustics</i>. New York: McGraw-Hill. pp. 262–263. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-136097-2" title="Special:BookSources/0-07-136097-2">0-07-136097-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=F.&amp;rft.aulast=Everest&amp;rft.btitle=The+Master+Handbook+of+Acoustics&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-07-136097-2&amp;rft.pages=262-263&amp;rft.place=New+York&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://physics.nist.gov/cgi-bin/cuu/Value?r" rel="nofollow">"CODATA Value: molar gas constant"</a>. Physics.nist.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">24 October</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.btitle=CODATA+Value%3A+molar+gas+constant&amp;rft.genre=unknown&amp;rft.pub=Physics.nist.gov&amp;rft_id=http%3A%2F%2Fphysics.nist.gov%2Fcgi-bin%2Fcuu%2FValue%3Fr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-USSA1976-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-USSA1976_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USSA1976_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">U.S. Standard Atmosphere, 1976, U.S. Government Printing Office, Washington, D.C., 1976.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Uman, Martin (1984). <i>Lightning</i>. New York: Dover Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-486-64575-4" title="Special:BookSources/0-486-64575-4">0-486-64575-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=Martin&amp;rft.aulast=Uman&amp;rft.btitle=Lightning&amp;rft.date=1984&amp;rft.genre=book&amp;rft.isbn=0-486-64575-4&amp;rft.place=New+York&amp;rft.pub=Dover+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Volland, Hans (1995). <i>Handbook of Atmospheric Electrodynamics</i>. Boca Raton: CRC Press. p. 22. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8493-8647-0" title="Special:BookSources/0-8493-8647-0">0-8493-8647-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=Hans&amp;rft.aulast=Volland&amp;rft.btitle=Handbook+of+Atmospheric+Electrodynamics&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=0-8493-8647-0&amp;rft.pages=22&amp;rft.place=Boca+Raton&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Singal, S. (2005). <i>Noise Pollution and Control Strategy</i>. Oxford: Alpha Science International. p. 7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84265-237-0" title="Special:BookSources/1-84265-237-0">1-84265-237-0</a>. <q>It may be seen that refraction effects occur only because there is a wind gradient and it is not due to the result of sound being convected along by the wind.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=S.&amp;rft.aulast=Singal&amp;rft.btitle=Noise+Pollution+and+Control+Strategy&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=1-84265-237-0&amp;rft.pages=7&amp;rft.place=Oxford&amp;rft.pub=Alpha+Science+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Bies-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bies_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Bies, David (2004). <i>Engineering Noise Control, Theory and Practice</i>. London: Spon Press. p. 235. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-415-26713-7" title="Special:BookSources/0-415-26713-7">0-415-26713-7</a>. <q>As wind speed generally increases with altitude, wind blowing towards the listener from the source will refract sound waves downwards, resulting in increased noise levels.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=David&amp;rft.aulast=Bies&amp;rft.btitle=Engineering+Noise+Control%2C+Theory+and+Practice&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-415-26713-7&amp;rft.pages=235&amp;rft.place=London&amp;rft.pub=Spon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Cornwall, Sir (1996). <i>Grant as Military Commander</i>. New York: Barnes &amp; Noble. p. 92. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56619-913-1" title="Special:BookSources/1-56619-913-1">1-56619-913-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=Sir&amp;rft.aulast=Cornwall&amp;rft.btitle=Grant+as+Military+Commander&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=1-56619-913-1&amp;rft.pages=92&amp;rft.place=New+York&amp;rft.pub=Barnes+%26+Noble&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Cozens, Peter (2006). <i>The Darkest Days of the War: the Battles of Iuka and Corinth</i>. Chapel Hill: The University of North Carolina Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8078-5783-1" title="Special:BookSources/0-8078-5783-1">0-8078-5783-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.aufirst=Peter&amp;rft.aulast=Cozens&amp;rft.btitle=The+Darkest+Days+of+the+War%3A+the+Battles+of+Iuka+and+Corinth&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-8078-5783-1&amp;rft.place=Chapel+Hill&amp;rft.pub=The+University+of+North+Carolina+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a href="/wiki/Albert_Beaumont_Wood" title="Albert Beaumont Wood">A B Wood</a>, A Textbook of Sound (Bell, London, 1946)</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.phy.mtu.edu/~suits/SpeedofSound.html" rel="nofollow">"Speed of Sound in Air"</a>. Phy.mtu.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">13 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.btitle=Speed+of+Sound+in+Air&amp;rft.genre=unknown&amp;rft.pub=Phy.mtu.edu&amp;rft_id=http%3A%2F%2Fwww.phy.mtu.edu%2F~suits%2FSpeedofSound.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Nemiroff, R.; Bonnell, J., eds. (19 August 2007). <a class="external text" href="https://apod.nasa.gov/apod/ap070819.html" rel="nofollow">"A Sonic Boom"</a>. <i><a href="/wiki/Astronomy_Picture_of_the_Day" title="Astronomy Picture of the Day">Astronomy Picture of the Day</a></i>. <a href="/wiki/NASA" title="NASA">NASA</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 October</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=A+Sonic+Boom&amp;rft.date=2007-08-19&amp;rft.genre=unknown&amp;rft.jtitle=Astronomy+Picture+of+the+Day&amp;rft_id=https%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap070819.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Zuckerwar, Handbook of the speed of sound in real gases, p. 52</span></li>
+<li id="cite_note-E._Kinsler_2000-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-E._Kinsler_2000_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-E._Kinsler_2000_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">L. E. Kinsler et al. (2000), <i>Fundamentals of acoustics</i>, 4th Ed., John Wiley and sons Inc., New York, USA.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">J. Krautkrämer and H. Krautkrämer (1990), <i>Ultrasonic testing of materials</i>, 4th fully revised edition, Springer-Verlag, Berlin, Germany, p. 497</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.engineeringtoolbox.com/sound-speed-water-d_598.html" rel="nofollow">"Speed of Sound in Water at Temperatures between 32–212 oF (0–100 oC) — imperial and SI units"</a>. <i>The Engineering Toolbox</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=Speed+of+Sound+in+Water+at+Temperatures+between+32%E2%80%93212+oF+%280%E2%80%93100+oC%29+%E2%80%94+imperial+and+SI+units&amp;rft.genre=unknown&amp;rft.jtitle=The+Engineering+Toolbox&amp;rft_id=http%3A%2F%2Fwww.engineeringtoolbox.com%2Fsound-speed-water-d_598.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wong, George S. K.; Zhu, Shi-ming (1995). "Speed of sound in seawater as a function of salinity, temperature, and pressure". <i>The Journal of the Acoustical Society of America</i>. <b>97</b> (3): 1732. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1995ASAJ...97.1732W" rel="nofollow">1995ASAJ...97.1732W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1121%2F1.413048" rel="nofollow">10.1121/1.413048</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=Speed+of+sound+in+seawater+as+a+function+of+salinity%2C+temperature%2C+and+pressure&amp;rft.au=Zhu%2C+Shi-ming&amp;rft.aufirst=George+S.+K.&amp;rft.aulast=Wong&amp;rft.date=1995&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=The+Journal+of+the+Acoustical+Society+of+America&amp;rft.pages=1732&amp;rft.volume=97&amp;rft_id=info%3Abibcode%2F1995ASAJ...97.1732W&amp;rft_id=info%3Adoi%2F10.1121%2F1.413048&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a class="external text" href="http://handle.dtic.mil/100.2/ADB199453" rel="nofollow">APL-UW TR 9407 High-Frequency Ocean Environmental Acoustic Models Handbook</a>, pp. I1-I2.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Robinson, Stephen (22 Sep 2005). <a class="external text" href="http://resource.npl.co.uk/acoustics/techguides/soundseawater/content.html" rel="nofollow">"Technical Guides - Speed of Sound in Sea-Water"</a>. <i>National Physical Laboratory</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=Technical+Guides+-+Speed+of+Sound+in+Sea-Water&amp;rft.aufirst=Stephen&amp;rft.aulast=Robinson&amp;rft.date=2005-09-22&amp;rft.genre=unknown&amp;rft.jtitle=National+Physical+Laboratory&amp;rft_id=http%3A%2F%2Fresource.npl.co.uk%2Facoustics%2Ftechguides%2Fsoundseawater%2Fcontent.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dosits.org/science/soundmovement/speedofsound/" rel="nofollow">"How Fast Does Sound Travel?"</a>. <i>Discovery of Sound in the Sea</i>. University of Rhode Island<span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=How+Fast+Does+Sound+Travel%3F&amp;rft.genre=unknown&amp;rft.jtitle=Discovery+of+Sound+in+the+Sea&amp;rft_id=http%3A%2F%2Fwww.dosits.org%2Fscience%2Fsoundmovement%2Fspeedofsound%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Dushaw93-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dushaw93_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dushaw93_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Dushaw, Brian D.; Worcester, P. F.; Cornuelle, B. D.; Howe, B. M. (1993). "On Equations for the Speed of Sound in Seawater". <i>Journal of the Acoustical Society of America</i>. <b>93</b> (1): 255–275. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1993ASAJ...93..255D" rel="nofollow">1993ASAJ...93..255D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1121%2F1.405660" rel="nofollow">10.1121/1.405660</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=On+Equations+for+the+Speed+of+Sound+in+Seawater&amp;rft.au=Cornuelle%2C+B.+D.&amp;rft.au=Howe%2C+B.+M.&amp;rft.au=Worcester%2C+P.+F.&amp;rft.aufirst=Brian+D.&amp;rft.aulast=Dushaw&amp;rft.date=1993&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Journal+of+the+Acoustical+Society+of+America&amp;rft.pages=255-275&amp;rft.volume=93&amp;rft_id=info%3Abibcode%2F1993ASAJ...93..255D&amp;rft_id=info%3Adoi%2F10.1121%2F1.405660&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kenneth V., Mackenzie (1981). "Discussion of sea-water sound-speed determinations". <i>Journal of the Acoustical Society of America</i>. <b>70</b> (3): 801–806. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1981ASAJ...70..801M" rel="nofollow">1981ASAJ...70..801M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1121%2F1.386919" rel="nofollow">10.1121/1.386919</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=Discussion+of+sea-water+sound-speed+determinations&amp;rft.aufirst=Mackenzie&amp;rft.aulast=Kenneth+V.&amp;rft.date=1981&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Journal+of+the+Acoustical+Society+of+America&amp;rft.pages=801-806&amp;rft.volume=70&amp;rft_id=info%3Abibcode%2F1981ASAJ...70..801M&amp;rft_id=info%3Adoi%2F10.1121%2F1.386919&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Del Grosso, V. A. (1974). "New equation for speed of sound in natural waters (with comparisons to other equations)". <i>Journal of the Acoustical Society of America</i>. <b>56</b> (4): 1084–1091. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1974ASAJ...56.1084D" rel="nofollow">1974ASAJ...56.1084D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1121%2F1.1903388" rel="nofollow">10.1121/1.1903388</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=New+equation+for+speed+of+sound+in+natural+waters+%28with+comparisons+to+other+equations%29&amp;rft.aufirst=V.+A.&amp;rft.aulast=Del+Grosso&amp;rft.date=1974&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Journal+of+the+Acoustical+Society+of+America&amp;rft.pages=1084-1091&amp;rft.volume=56&amp;rft_id=info%3Abibcode%2F1974ASAJ...56.1084D&amp;rft_id=info%3Adoi%2F10.1121%2F1.1903388&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">Meinen, Christopher S.; Watts, D. Randolph (1997). "Further Evidence that the Sound-Speed Algorithm of Del Grosso Is More Accurate Than that of Chen and Millero". <i>Journal of the Acoustical Society of America</i>. <b>102</b> (4): 2058–2062. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1997ASAJ..102.2058M" rel="nofollow">1997ASAJ..102.2058M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1121%2F1.419655" rel="nofollow">10.1121/1.419655</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpeed+of+sound&amp;rft.atitle=Further+Evidence+that+the+Sound-Speed+Algorithm+of+Del+Grosso+Is+More+Accurate+Than+that+of+Chen+and+Millero&amp;rft.au=Watts%2C+D.+Randolph&amp;rft.aufirst=Christopher+S.&amp;rft.aulast=Meinen&amp;rft.date=1997&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Journal+of+the+Acoustical+Society+of+America&amp;rft.pages=2058-2062&amp;rft.volume=102&amp;rft_id=info%3Abibcode%2F1997ASAJ..102.2058M&amp;rft_id=info%3Adoi%2F10.1121%2F1.419655&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Speed_of_sound&amp;action=edit&amp;section=31" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.sengpielaudio.com/calculator-speedsound.htm" rel="nofollow">Calculation: Speed of Sound in Air and the Temperature</a></li>
+<li><a class="external text" href="http://www.sengpielaudio.com/SpeedOfSoundPressure.pdf" rel="nofollow">Speed of sound: Temperature Matters, Not Air Pressure</a></li>
+<li><a class="external text" href="http://www.pdas.com/atmos.html" rel="nofollow">Properties of the U.S. Standard Atmosphere 1976</a></li>
+<li><a class="external text" href="http://www.mathpages.com/home/kmath109/kmath109.htm" rel="nofollow">The Speed of Sound</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20060429062028/http://www.bustertests.co.uk/answer/how-to-measure-the-speed-of-sound-in-a-laboratory/" rel="nofollow">How to Measure the Speed of Sound in a Laboratory</a></li>
+<li><a class="external text" href="http://www.acoustics.salford.ac.uk/schools/index1.htm" rel="nofollow">Teaching Resource for 14-16 Years on Sound Including Speed of Sound</a></li>
+<li><a class="external text" href="http://www.npl.co.uk/acoustics/techguides/soundpurewater/" rel="nofollow">Technical Guides. Speed of Sound in Pure Water</a></li>
+<li><a class="external text" href="http://www.npl.co.uk/acoustics/techguides/soundseawater/" rel="nofollow">Technical Guides. Speed of Sound in Sea-Water</a></li>
+<li><a class="external text" href="https://www.newscientist.com/article/mg19826504.200-did-sound-once-travel-at-light-speed.html" rel="nofollow">Did Sound Once Travel at Light Speed?</a></li>
+<li><a class="external text" href="http://www.ndt-ed.org/EducationResources/CommunityCollege/Ultrasonics/Reference%20Information/matproperties.htm" rel="nofollow">Acoustic Properties of Various Materials Including the Speed of Sound</a></li>
+<li><a class="external text" href="http://www.npl.co.uk/acoustics/techguides/soundpurewater/" rel="nofollow">Technical Guides - Speed of Sound in Pure Water</a> (provides a calculator for the speed in water)</li>
+<li><a class="external text" href="http://www.dosits.org/" rel="nofollow">Discovery of Sound in the Sea</a> (uses of sound by humans and other animals)</li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1229
+Cached time: 20171027150128
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.532 seconds
+Real time usage: 0.708 seconds
+Preprocessor visited node count: 3147/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 56530/2097152 bytes
+Template argument size: 2870/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 3/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 8.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  464.140      1 -total
+ 47.06%  218.438      1 Template:Reflist
+ 18.48%   85.793      8 Template:Cite_web
+ 15.72%   72.954      2 Template:Citation_needed
+ 13.99%   64.913      2 Template:Fix
+  8.44%   39.179      5 Template:Cite_journal
+  8.17%   37.939      9 Template:Cite_book
+  7.50%   34.789      4 Template:Category_handler
+  7.46%   34.603      1 Template:Cite_APOD
+  7.05%   32.745      5 Template:Convert
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:147853-0!canonical!math=5 and timestamp 20171027150130 and revision id 807372766
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Speed_of_sound&amp;oldid=807372766">https://en.wikipedia.org/w/index.php?title=Speed_of_sound&amp;oldid=807372766</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fluid_dynamics" title="Category:Fluid dynamics">Fluid dynamics</a></li><li><a href="/wiki/Category:Aerodynamics" title="Category:Aerodynamics">Aerodynamics</a></li><li><a href="/wiki/Category:Acoustics" title="Category:Acoustics">Acoustics</a></li><li><a href="/wiki/Category:Sound" title="Category:Sound">Sound</a></li><li><a href="/wiki/Category:Sound_measurements" title="Category:Sound measurements">Sound measurements</a></li><li><a href="/wiki/Category:Physical_quantities" title="Category:Physical quantities">Physical quantities</a></li><li><a href="/wiki/Category:Chemical_properties" title="Category:Chemical properties">Chemical properties</a></li><li><a href="/wiki/Category:Velocity" title="Category:Velocity">Velocity</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2017" title="Category:Articles with unsourced statements from August 2017">Articles with unsourced statements from August 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2017" title="Category:Articles with unsourced statements from October 2017">Articles with unsourced statements from October 2017</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Speed+of+sound" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Speed+of+sound" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Speed_of_sound" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Speed_of_sound" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Speed_of_sound">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Speed_of_sound&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Speed_of_sound&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Speed_of_sound" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Speed_of_sound" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Speed_of_sound&amp;oldid=807372766" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Speed_of_sound&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q124003" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Speed_of_sound&amp;id=807372766" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Speed+of+sound">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Speed+of+sound&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Speed_of_sound&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Speed_of_Sound" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Spoed_van_klank" hreflang="af" lang="af" title="Spoed van klank – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%D8%A9_%D8%A7%D9%84%D8%B5%D9%88%D8%AA" hreflang="ar" lang="ar" title="سرعة الصوت – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Velocid%C3%A1_del_son%C3%ADu" hreflang="ast" lang="ast" title="Velocidá del soníu – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Im-sok" hreflang="zh-min-nan" lang="zh-min-nan" title="Im-sok – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%B0%D1%81%D1%86%D1%8C_%D0%B3%D1%83%D0%BA%D1%83" hreflang="be" lang="be" title="Скорасць гуку – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%B7%D0%B2%D1%83%D0%BA%D0%B0" hreflang="bg" lang="bg" title="Скорост на звука – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bar"><a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Schoigschwindigkeit" hreflang="bar" lang="bar" title="Schoigschwindigkeit – Bavarian">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Brzina_zvuka" hreflang="bs" lang="bs" title="Brzina zvuka – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Velocitat_del_so" hreflang="ca" lang="ca" title="Velocitat del so – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Rychlost_zvuku" hreflang="cs" lang="cs" title="Rychlost zvuku – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schallgeschwindigkeit" hreflang="de" lang="de" title="Schallgeschwindigkeit – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Heli_kiirus" hreflang="et" lang="et" title="Heli kiirus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1_%CF%84%CE%BF%CF%85_%CE%AE%CF%87%CE%BF%CF%85" hreflang="el" lang="el" title="Ταχύτητα του ήχου – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Velocidad_del_sonido" hreflang="es" lang="es" title="Velocidad del sonido – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Rapido_de_sono" hreflang="eo" lang="eo" title="Rapido de sono – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Soinuaren_abiadura" hreflang="eu" lang="eu" title="Soinuaren abiadura – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%D8%AA_%D8%B5%D9%88%D8%AA" hreflang="fa" lang="fa" title="سرعت صوت – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Vitesse_du_son" hreflang="fr" lang="fr" title="Vitesse du son – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Luas_forleata_fuaime" hreflang="ga" lang="ga" title="Luas forleata fuaime – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Velocidade_do_son" hreflang="gl" lang="gl" title="Velocidade do son – Galician">Galego</a></li><li class="interlanguage-link interwiki-gu"><a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%85%E0%AA%B5%E0%AA%BE%E0%AA%9C%E0%AA%A8%E0%AB%80_%E0%AA%9D%E0%AA%A1%E0%AA%AA" hreflang="gu" lang="gu" title="અવાજની ઝડપ – Gujarati">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%86%8D" hreflang="ko" lang="ko" title="음속 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%81%D5%A1%D5%B5%D5%B6%D5%AB_%D5%A1%D6%80%D5%A1%D5%A3%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Ձայնի արագություն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A7%E0%A5%8D%E0%A4%B5%E0%A4%A8%E0%A4%BF_%E0%A4%95%E0%A4%BE_%E0%A4%B5%E0%A5%87%E0%A4%97" hreflang="hi" lang="hi" title="ध्वनि का वेग – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Brzina_zvuka" hreflang="hr" lang="hr" title="Brzina zvuka – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kecepatan_suara" hreflang="id" lang="id" title="Kecepatan suara – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Velocitate_de_sono" hreflang="ia" lang="ia" title="Velocitate de sono – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Hlj%C3%B3%C3%B0hra%C3%B0i" hreflang="is" lang="is" title="Hljóðhraði – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Velocit%C3%A0_del_suono" hreflang="it" lang="it" title="Velocità del suono – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%94%D7%99%D7%A8%D7%95%D7%AA_%D7%94%D7%A7%D7%95%D7%9C" hreflang="he" lang="he" title="מהירות הקול – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Kacepetan_swara" hreflang="jv" lang="jv" title="Kacepetan swara – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%94%D1%8B%D0%B1%D1%8B%D1%81_%D0%B6%D1%8B%D0%BB%D0%B4%D0%B0%D0%BC%D0%B4%D1%8B%D2%93%D1%8B" hreflang="kk" lang="kk" title="Дыбыс жылдамдығы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Leza_deng%C3%AA" hreflang="ku" lang="ku" title="Leza dengê – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Celeritas_soni" hreflang="la" lang="la" title="Celeritas soni – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Ska%C5%86as_%C4%81trums" hreflang="lv" lang="lv" title="Skaņas ātrums – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Garso_greitis" hreflang="lt" lang="lt" title="Garso greitis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-jbo"><a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/snanilsutra" hreflang="jbo" lang="jbo" title="snanilsutra – Lojban">La .lojban.</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Hangsebess%C3%A9g" hreflang="hu" lang="hu" title="Hangsebesség – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%91%D1%80%D0%B7%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D1%82" hreflang="mk" lang="mk" title="Брзина на звукот – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B6%E0%B4%AC%E0%B5%8D%E0%B4%A6%E0%B4%B5%E0%B5%87%E0%B4%97%E0%B4%A4" hreflang="ml" lang="ml" title="ശബ്ദവേഗത – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%86%E0%A4%B5%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%B5%E0%A5%87%E0%A4%97" hreflang="mr" lang="mr" title="आवाजाचा वेग – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kelajuan_bunyi" hreflang="ms" lang="ms" title="Kelajuan bunyi – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%94%D1%83%D1%83%D0%BD%D1%8B_%D1%85%D1%83%D1%80%D0%B4" hreflang="mn" lang="mn" title="Дууны хурд – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%9E%E1%80%B6%E1%81%8F%E1%80%A1%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AF%E1%80%94%E1%80%BA%E1%80%B8" hreflang="my" lang="my" title="အသံ၏အမြန်နှုန်း – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geluidssnelheid" hreflang="nl" lang="nl" title="Geluidssnelheid – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9F%B3%E9%80%9F" hreflang="ja" lang="ja" title="音速 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Lydens_hastighet" hreflang="no" lang="no" title="Lydens hastighet – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Lydfart" hreflang="nn" lang="nn" title="Lydfart – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-om"><a class="interlanguage-link-target" href="https://om.wikipedia.org/wiki/Speed_of_Sound" hreflang="om" lang="om" title="Speed of Sound – Oromo">Oromoo</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pr%C4%99dko%C5%9B%C4%87_d%C5%BAwi%C4%99ku" hreflang="pl" lang="pl" title="Prędkość dźwięku – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Velocidade_do_som" hreflang="pt" lang="pt" title="Velocidade do som – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Viteza_sunetului" hreflang="ro" lang="ro" title="Viteza sunetului – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D0%B7%D0%B2%D1%83%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Скорость звука – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Speed_o_soond" hreflang="sco" lang="sco" title="Speed o soond – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Speed_of_sound" hreflang="simple" lang="simple" title="Speed of sound – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/R%C3%BDchlos%C5%A5_zvuku" hreflang="sk" lang="sk" title="Rýchlosť zvuku – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Hitrost_zvoka" hreflang="sl" lang="sl" title="Hitrost zvoka – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%B7%D0%B8%D0%BD%D0%B0_%D0%B7%D0%B2%D1%83%D0%BA%D0%B0" hreflang="sr" lang="sr" title="Брзина звука – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Brzina_zvuka" hreflang="sh" lang="sh" title="Brzina zvuka – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/%C3%84%C3%A4nen_nopeus" hreflang="fi" lang="fi" title="Äänen nopeus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Ljudhastighet" hreflang="sv" lang="sv" title="Ljudhastighet – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%88%E0%AE%B5%E0%AF%81" hreflang="ta" lang="ta" title="ஒலியின் விரைவு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87" hreflang="th" lang="th" title="อัตราเร็วของเสียง – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ses_h%C4%B1z%C4%B1" hreflang="tr" lang="tr" title="Ses hızı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B8%D0%B4%D0%BA%D1%96%D1%81%D1%82%D1%8C_%D0%B7%D0%B2%D1%83%D0%BA%D1%83" hreflang="uk" lang="uk" title="Швидкість звуку – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A2%D9%88%D8%A7%D8%B2_%DA%A9%DB%8C_%D8%B1%D9%81%D8%AA%D8%A7%D8%B1" hreflang="ur" lang="ur" title="آواز کی رفتار – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/V%E1%BA%ADn_t%E1%BB%91c_%C3%A2m_thanh" hreflang="vi" lang="vi" title="Vận tốc âm thanh – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Kalaksi_hit_tingog" hreflang="war" lang="war" title="Kalaksi hit tingog – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%9F%B3%E9%80%9F" hreflang="zh-yue" lang="zh-yue" title="音速 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9F%B3%E9%80%9F" hreflang="zh" lang="zh" title="音速 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q124003#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 October 2017, at 15:01.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Speed_of_sound&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.532","walltime":"0.708","ppvisitednodes":{"value":3147,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":56530,"limit":2097152},"templateargumentsize":{"value":2870,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  464.140      1 -total"," 47.06%  218.438      1 Template:Reflist"," 18.48%   85.793      8 Template:Cite_web"," 15.72%   72.954      2 Template:Citation_needed"," 13.99%   64.913      2 Template:Fix","  8.44%   39.179      5 Template:Cite_journal","  8.17%   37.939      9 Template:Cite_book","  7.50%   34.789      4 Template:Category_handler","  7.46%   34.603      1 Template:Cite_APOD","  7.05%   32.745      5 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":8469398,"limit":52428800}},"cachereport":{"origin":"mw1229","timestamp":"20171027150128","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

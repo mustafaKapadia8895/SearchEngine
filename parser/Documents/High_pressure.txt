@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>High pressure - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"High_pressure","wgTitle":"High pressure","wgCurRevisionId":800312342,"wgRevisionId":800312342,"wgArticleId":85331,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2009","Materials science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"High_pressure","wgRelevantArticleId":85331,"wgRequestId":"WgDAAwpAMCUAACh8gIkAAADD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5757669","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/High_pressure" rel="alternate"/>
+<link href="/w/index.php?title=High_pressure&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=High_pressure&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/High_pressure" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-High_pressure rootpage-High_pressure vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">High pressure</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the related geology term, see <a class="mw-redirect" href="/wiki/Ultrahigh-pressure_metamorphism" title="Ultrahigh-pressure metamorphism">Ultrahigh-pressure metamorphism</a>. For the meteorology term, see <a href="/wiki/High-pressure_area" title="High-pressure area">High-pressure area</a>. For the 1932 film, see <a href="/wiki/High_Pressure_(film)" title="High Pressure (film)">High Pressure (film)</a>. For the Red Garland album, see <a class="mw-redirect" href="/wiki/High_Pressure_(Red_Garland_album)" title="High Pressure (Red Garland album)">High Pressure (Red Garland album)</a>.</div>
+<p><b>High pressure</b> in <a href="/wiki/Science" title="Science">science</a> and <a href="/wiki/Engineering" title="Engineering">engineering</a> is studying the effects of high pressure on materials and the design and construction of devices, such as a <a href="/wiki/Diamond_anvil_cell" title="Diamond anvil cell">diamond anvil cell</a>, which can create high <a href="/wiki/Pressure" title="Pressure">pressure</a>. By high pressure it is usually meant pressures of thousands (kilo<a href="/wiki/Bar_(unit)" title="Bar (unit)">bars</a>) or millions (megabars) of times <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a> (about 1 bar or 100,000 Pa).</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_overview"><span class="tocnumber">1</span> <span class="toctext">History and overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History_and_overview">History and overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High_pressure&amp;action=edit&amp;section=1" title="Edit section: History and overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Percy_Williams_Bridgman" title="Percy Williams Bridgman">Percy Williams Bridgman</a> received a <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prize</a> in 1946 for advancing this area of physics by several magnitudes of pressure (400 MPa to 40,000 MPa). The list of founding fathers of this field includes also the names of <a href="/wiki/Harry_George_Drickamer" title="Harry George Drickamer">Harry George Drickamer</a>, <a href="/wiki/Tracy_Hall" title="Tracy Hall">Tracy Hall</a>, Francis P. Bundy, Leonid F. Vereschagin, and <a class="new" href="/w/index.php?title=Sergey_M._Stishov&amp;action=edit&amp;redlink=1" title="Sergey M. Stishov (page does not exist)">Sergey M. Stishov</a>.</p>
+<p>It was by applying high pressure as well as high <a href="/wiki/Temperature" title="Temperature">temperature</a> to <a href="/wiki/Carbon" title="Carbon">carbon</a> that man-made <a href="/wiki/Synthetic_diamond" title="Synthetic diamond">diamonds</a> were first produced as well as many other interesting discoveries. Almost any material when subjected to high pressure will compact itself into a denser form, for example, <a href="/wiki/Quartz" title="Quartz">quartz</a>, also called <a class="mw-redirect" href="/wiki/Silica" title="Silica">silica</a> or <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">silicon dioxide</a> will first adopt a denser form known as <a href="/wiki/Coesite" title="Coesite">coesite</a>, then upon application of even higher pressure, form <a href="/wiki/Stishovite" title="Stishovite">stishovite</a>. These two forms of silica were first discovered by high-pressure experimenters, but then found in nature at the site of a meteor impact.</p>
+<p>Chemical bonding is likely to change under high pressure, when the P*V term in the free energy becomes comparable to the energies of typical chemical bonds - i.e. at around 100 GPa. Among the most striking changes are metallization of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> at 96 GPa (rendering oxygen a superconductor), and transition of <a href="/wiki/Sodium" title="Sodium">sodium</a> from a nearly-free-electron metal to a transparent insulator at ~200 GPa. At ultimately high compression, however, all materials will metallize.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>High-pressure experimentation has led to the discovery of the types of minerals which are believed to exist in the deep mantle of the Earth, such as <a href="/wiki/Silicate_perovskite" title="Silicate perovskite">silicate perovskite</a>, which is thought to make up half of the Earth's bulk, and <a href="/wiki/Post-perovskite" title="Post-perovskite">post-perovskite</a>, which occurs at the core-mantle boundary and explains many anomalies inferred for that region.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2009)">citation needed</span></a></i>]</sup></p>
+<p>Pressure "landmarks": typical pressures reached by large-volume presses are up to 30-40 GPa, pressures that can be generated inside <a href="/wiki/Diamond_anvil_cell" title="Diamond anvil cell">diamond anvil cells</a> are ~1000 GPa,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> pressure in the center of the Earth is 364 GPa, and highest pressures ever achieved in shock waves are over 100,000 GPa.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High_pressure&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Synthetic_diamond" title="Synthetic diamond">Synthetic diamond</a></li>
+<li><a href="/wiki/D-DIA" title="D-DIA">D-DIA</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High_pressure&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/anie.200602485/abstract" rel="nofollow">"The Chemical Imagination at Work in Very Tight Places"</a>. <i><a class="mw-redirect" href="/wiki/Angewandte_Chemie_International_Edition" title="Angewandte Chemie International Edition">Angewandte Chemie International Edition</a></i>. <b>46</b>: 3620–3642. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.200602485" rel="nofollow">10.1002/anie.200602485</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh+pressure&amp;rft.atitle=The+Chemical+Imagination+at+Work+in+Very+Tight+Places&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.pages=3620-3642&amp;rft.volume=46&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fanie.200602485%2Fabstract&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.200602485&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://advances.sciencemag.org/content/2/7/e1600341" rel="nofollow">"Terapascal static pressure generation with ultrahigh yield strength nanodiamond"</a>. <i><a href="/wiki/Science_Advances" title="Science Advances">Science Advances</a></i> .</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh+pressure&amp;rft.btitle=Terapascal+static+pressure+generation+with+ultrahigh+yield+strength+nanodiamond&amp;rft.genre=unknown&amp;rft.pub=%27%27Science+Advances%27%27&amp;rft_id=http%3A%2F%2Fadvances.sciencemag.org%2Fcontent%2F2%2F7%2Fe1600341&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://www.pnas.org/content/104/22/9172.full" rel="nofollow">"Achieving high-density states through shock-wave loading of precompressed samples"</a>. <i><a class="mw-redirect" href="/wiki/Proceedings_of_the_National_Academy_of_Sciences" title="Proceedings of the National Academy of Sciences">Proceedings of the National Academy of Sciences</a></i>. <b>104</b>: 9172–9177. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007PNAS..104.9172J" rel="nofollow">2007PNAS..104.9172J</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0608170104" rel="nofollow">10.1073/pnas.0608170104</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh+pressure&amp;rft.atitle=Achieving+high-density+states+through+shock-wave+loading+of+precompressed+samples&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.pages=9172-9177&amp;rft.volume=104&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F104%2F22%2F9172.full&amp;rft_id=info%3Abibcode%2F2007PNAS..104.9172J&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0608170104&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High_pressure&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book"><a href="/wiki/Robert_Hazen" title="Robert Hazen">Hazen, Robert M.</a> (1993). <i>The new alchemists : breaking through the barriers of high pressure</i>. New York: Times Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8129-2275-1" title="Special:BookSources/0-8129-2275-1">0-8129-2275-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh+pressure&amp;rft.aufirst=Robert+M.&amp;rft.aulast=Hazen&amp;rft.btitle=The+new+alchemists+%3A+breaking+through+the+barriers+of+high+pressure&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=0-8129-2275-1&amp;rft.place=New+York&amp;rft.pub=Times+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20171101172136
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.104 seconds
+Real time usage: 0.139 seconds
+Preprocessor visited node count: 300/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8907/2097152 bytes
+Template argument size: 454/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.055/10.000 seconds
+Lua memory usage: 2.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  126.181      1 -total
+ 33.45%   42.213      1 Template:Citation_needed
+ 30.98%   39.092      2 Template:Cite_journal
+ 29.67%   37.437      1 Template:Fix
+ 23.03%   29.062      1 Template:About
+ 17.65%   22.265      2 Template:Category_handler
+  9.56%   12.067      1 Template:Delink
+  3.75%    4.728      1 Template:Cite_book
+  3.27%    4.120      1 Template:Cite_web
+  2.60%    3.275      1 Template:Fix/category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:85331-0!canonical and timestamp 20171101172136 and revision id 800312342
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=High_pressure&amp;oldid=800312342">https://en.wikipedia.org/w/index.php?title=High_pressure&amp;oldid=800312342</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Materials_science" title="Category:Materials science">Materials science</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2009" title="Category:Articles with unsourced statements from May 2009">Articles with unsourced statements from May 2009</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=High+pressure" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=High+pressure" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/High_pressure" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:High_pressure" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/High_pressure">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=High_pressure&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=High_pressure&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/High_pressure" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/High_pressure" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=High_pressure&amp;oldid=800312342" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=High_pressure&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5757669" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=High_pressure&amp;id=800312342" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=High+pressure">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=High+pressure&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=High_pressure&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9_%D9%81%D8%B4%D8%A7%D8%B1%D8%A8%D8%A7%D9%84%D8%A7" hreflang="fa" lang="fa" title="فیزیک فشاربالا – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Fisic_ardbhr%C3%BA" hreflang="ga" lang="ga" title="Fisic ardbhrú – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9C%A7" hreflang="ja" lang="ja" title="高圧 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/H%C3%B8gtrykksfysikk" hreflang="nn" lang="nn" title="Høgtrykksfysikk – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Y%C3%BCksek_Bas%C4%B1n%C3%A7" hreflang="tr" lang="tr" title="Yüksek Basınç – Turkish">Türkçe</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5757669#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 September 2017, at 19:06.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=High_pressure&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.139","ppvisitednodes":{"value":300,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8907,"limit":2097152},"templateargumentsize":{"value":454,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  126.181      1 -total"," 33.45%   42.213      1 Template:Citation_needed"," 30.98%   39.092      2 Template:Cite_journal"," 29.67%   37.437      1 Template:Fix"," 23.03%   29.062      1 Template:About"," 17.65%   22.265      2 Template:Category_handler","  9.56%   12.067      1 Template:Delink","  3.75%    4.728      1 Template:Cite_book","  3.27%    4.120      1 Template:Cite_web","  2.60%    3.275      1 Template:Fix/category"]},"scribunto":{"limitreport-timeusage":{"value":"0.055","limit":"10.000"},"limitreport-memusage":{"value":2525605,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20171101172136","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1209"});});</script>
+</body>
+</html>

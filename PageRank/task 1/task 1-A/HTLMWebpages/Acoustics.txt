@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Acoustics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Acoustics","wgTitle":"Acoustics","wgCurRevisionId":806214846,"wgRevisionId":806214846,"wgArticleId":1198,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: authors list","Wikipedia articles with GND identifiers","Acoustics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Acoustics","wgRelevantArticleId":1198,"wgRequestId":"Wf-uLApAADkAAJkYekAAAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q82811","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.6" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Rfel_vsesmer_front.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Acoustics" rel="alternate"/>
+<link href="/w/index.php?title=Acoustics&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Acoustics&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Acoustics" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Acoustics rootpage-Acoustics vector-experimental-print-styles vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Acoustics</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Acoustics_(disambiguation)" title="Acoustics (disambiguation)">Acoustics (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Rfel_vsesmer_front.png"><img alt="" class="thumbimage" data-file-height="576" data-file-width="1049" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rfel_vsesmer_front.png/220px-Rfel_vsesmer_front.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rfel_vsesmer_front.png/330px-Rfel_vsesmer_front.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rfel_vsesmer_front.png/440px-Rfel_vsesmer_front.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Rfel_vsesmer_front.png" title="Enlarge"></a></div>
+Artificial omni-directional sound source in an <a href="/wiki/Anechoic_chamber" title="Anechoic chamber">anechoic chamber</a></div>
+</div>
+</div>
+<p><b>Acoustics</b> is the branch of <a href="/wiki/Physics" title="Physics">physics</a> that deals with the study of all <a href="/wiki/Mechanical_wave" title="Mechanical wave">mechanical waves</a> in gases, liquids, and solids including topics such as <a href="/wiki/Vibration" title="Vibration">vibration</a>, <a href="/wiki/Sound" title="Sound">sound</a>, <a href="/wiki/Ultrasound" title="Ultrasound">ultrasound</a> and <a href="/wiki/Infrasound" title="Infrasound">infrasound</a>. A scientist who works in the field of acoustics is an <b>acoustician</b> while someone working in the field of acoustics technology may be called an <a href="/wiki/Acoustical_engineering" title="Acoustical engineering">acoustical engineer</a>. The application of acoustics is present in almost all aspects of modern society with the most obvious being the audio and <a href="/wiki/Noise_control" title="Noise control">noise control</a> industries.</p>
+<p><a class="mw-redirect" href="/wiki/Hearing_(sense)" title="Hearing (sense)">Hearing</a> is one of the most crucial means of survival in the animal world, and <a href="/wiki/Speech" title="Speech">speech</a> is one of the most distinctive characteristics of human development and culture. Accordingly, the science of acoustics spreads across many facets of human society—music, medicine, architecture, industrial production, warfare and more. Likewise, animal species such as songbirds and frogs use sound and hearing as a key element of mating rituals or marking territories. Art, craft, science and technology have provoked one another to advance the whole, as in many other fields of knowledge. <a href="/wiki/Robert_Bruce_Lindsay" title="Robert Bruce Lindsay">Robert Bruce Lindsay</a>'s 'Wheel of Acoustics' is a well accepted overview of the various fields in acoustics.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>The word "acoustic" is derived from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek</a> word ἀκουστικός (<i>akoustikos</i>), meaning "of or for hearing, ready to hear"<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> and that from ἀκουστός (<i>akoustos</i>), "heard, audible",<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> which in turn derives from the verb <a class="extiw" href="https://en.wiktionary.org/wiki/%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%89" title="wikt:ἀκούω">ἀκούω</a> (<i>akouo</i>), "I hear".<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>The Latin synonym is "sonic", after which the term <b>sonics</b> used to be a synonym for acoustics<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> and later a branch of acoustics.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> <a href="/wiki/Frequency" title="Frequency">Frequencies</a> above and below the <a href="/wiki/Audio_frequency" title="Audio frequency">audible range</a> are called "<a href="/wiki/Ultrasound" title="Ultrasound">ultrasonic</a>" and "<a class="mw-redirect" href="/wiki/Infrasonic" title="Infrasonic">infrasonic</a>", respectively.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_research_in_acoustics"><span class="tocnumber">1.1</span> <span class="toctext">Early research in acoustics</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Age_of_Enlightenment_and_onward"><span class="tocnumber">1.2</span> <span class="toctext">Age of Enlightenment and onward</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Fundamental_concepts_of_acoustics"><span class="tocnumber">2</span> <span class="toctext">Fundamental concepts of acoustics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Definition"><span class="tocnumber">2.1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Wave_propagation:_pressure_levels"><span class="tocnumber">2.2</span> <span class="toctext">Wave propagation: pressure levels</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Wave_propagation:_frequency"><span class="tocnumber">2.3</span> <span class="toctext">Wave propagation: frequency</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Transduction_in_acoustics"><span class="tocnumber">2.4</span> <span class="toctext">Transduction in acoustics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Acoustician"><span class="tocnumber">3</span> <span class="toctext">Acoustician</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Education"><span class="tocnumber">3.1</span> <span class="toctext">Education</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Subdisciplines"><span class="tocnumber">4</span> <span class="toctext">Subdisciplines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Archaeoacoustics"><span class="tocnumber">4.1</span> <span class="toctext">Archaeoacoustics</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Aeroacoustics"><span class="tocnumber">4.2</span> <span class="toctext">Aeroacoustics</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Acoustic_signal_processing"><span class="tocnumber">4.3</span> <span class="toctext">Acoustic signal processing</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Architectural_acoustics"><span class="tocnumber">4.4</span> <span class="toctext">Architectural acoustics</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Bioacoustics"><span class="tocnumber">4.5</span> <span class="toctext">Bioacoustics</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Electroacoustics"><span class="tocnumber">4.6</span> <span class="toctext">Electroacoustics</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Environmental_noise_and_soundscapes"><span class="tocnumber">4.7</span> <span class="toctext">Environmental noise and soundscapes</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Musical_acoustics"><span class="tocnumber">4.8</span> <span class="toctext">Musical acoustics</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Psychoacoustics"><span class="tocnumber">4.9</span> <span class="toctext">Psychoacoustics</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Speech"><span class="tocnumber">4.10</span> <span class="toctext">Speech</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Ultrasonics"><span class="tocnumber">4.11</span> <span class="toctext">Ultrasonics</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Underwater_acoustics"><span class="tocnumber">4.12</span> <span class="toctext">Underwater acoustics</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Vibration_and_dynamics"><span class="tocnumber">4.13</span> <span class="toctext">Vibration and dynamics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Professional_societies"><span class="tocnumber">5</span> <span class="toctext">Professional societies</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Academic_journals"><span class="tocnumber">6</span> <span class="toctext">Academic journals</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_research_in_acoustics">Early research in acoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=2" title="Edit section: Early research in acoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Harmonic_partials_on_strings.svg"><img alt="" class="thumbimage" data-file-height="590" data-file-width="620" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Harmonic_partials_on_strings.svg/220px-Harmonic_partials_on_strings.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Harmonic_partials_on_strings.svg/330px-Harmonic_partials_on_strings.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Harmonic_partials_on_strings.svg/440px-Harmonic_partials_on_strings.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Harmonic_partials_on_strings.svg" title="Enlarge"></a></div>
+The <a href="/wiki/Fundamental_frequency" title="Fundamental frequency">fundamental</a> and the first 6 <a href="/wiki/Overtone" title="Overtone">overtones</a> of a vibrating string. The earliest records of the study of this phenomenon are attributed to the philosopher <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a> in the 6th century BC.</div>
+</div>
+</div>
+<p>In the 6th century BC, the <a href="/wiki/Ancient_Greek" title="Ancient Greek">ancient Greek</a> philosopher <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a> wanted to know why some <a href="/wiki/Interval_(music)" title="Interval (music)">combinations of musical sounds</a> seemed more beautiful than others, and he found answers in terms of numerical ratios representing the <a href="/wiki/Harmonic" title="Harmonic">harmonic</a> <a class="mw-redirect" href="/wiki/Overtone_series" title="Overtone series">overtone series</a> on a string. He is reputed to have observed that when the lengths of vibrating strings are expressible as ratios of integers (e.g. 2 to 3, 3 to 4), the tones produced will be harmonious, and the smaller the integers the more harmonious the sounds. If, for example, a string of a certain length would sound particularly harmonious with a string of twice the length (other factors being equal). In modern parlance, if a string sounds the note C when plucked, a string twice as long will sound a C an octave lower. In one system of <a href="/wiki/Musical_tuning" title="Musical tuning">musical tuning</a>, the tones in between are then given by 16:9 for D, 8:5 for E, 3:2 for F, 4:3 for G, 6:5 for A, and 16:15 for B, in ascending order.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> (384-322 BC) understood that sound consisted of compressions and rarefactions of air which "falls upon and strikes the air which is next to it...",<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> a very good expression of the nature of <a href="/wiki/Wave" title="Wave">wave</a> motion.</p>
+<p>In about 20 BC, the Roman architect and engineer <a href="/wiki/Vitruvius" title="Vitruvius">Vitruvius</a> wrote a treatise on the acoustic properties of theaters including discussion of interference, echoes, and reverberation—the beginnings of <a href="/wiki/Architectural_acoustics" title="Architectural acoustics">architectural acoustics</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> In Book V of his <i><a href="/wiki/De_architectura" title="De architectura">De architectura</a></i> (<i>The Ten Books of Architecture</i>) Vitruvius describes sound as a wave comparable to a water wave extended to three dimensions, which, when interrupted by obstructions, would flow back and break up following waves. He described the ascending seats in ancient theaters as designed to prevent this deterioration of sound and also recommended bronze vessels of appropriate sizes be placed in theaters to resonate with the fourth, fifth and so on, up to the double octave, in order to resonate with the more desirable, harmonious notes.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Amman_Roman_theatre.jpg"><img alt="" class="thumbimage" data-file-height="511" data-file-width="682" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Amman_Roman_theatre.jpg/220px-Amman_Roman_theatre.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Amman_Roman_theatre.jpg/330px-Amman_Roman_theatre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Amman_Roman_theatre.jpg/440px-Amman_Roman_theatre.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Amman_Roman_theatre.jpg" title="Enlarge"></a></div>
+Principles of acoustics have been applied since ancient times : A <a href="/wiki/Roman_theatre_(structure)" title="Roman theatre (structure)">Roman theatre</a> in the city of <a href="/wiki/Amman" title="Amman">Amman</a>.</div>
+</div>
+</div>
+<p>The physical understanding of acoustical processes advanced rapidly during and after the <a class="mw-redirect" href="/wiki/Scientific_Revolution" title="Scientific Revolution">Scientific Revolution</a>. Mainly <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> (1564–1642) but also <a href="/wiki/Marin_Mersenne" title="Marin Mersenne">Marin Mersenne</a> (1588–1648), independently, discovered the complete <a href="/wiki/Mersenne%27s_laws" title="Mersenne's laws">laws of vibrating strings</a> (completing what Pythagoras and Pythagoreans had started 2000 years earlier). Galileo wrote "Waves are produced by the <a href="/wiki/Vibration" title="Vibration">vibrations</a> of a sonorous body, which spread through the air, bringing to the tympanum of the <a href="/wiki/Ear" title="Ear">ear</a> a stimulus which the mind interprets as sound", a remarkable statement that points to the beginnings of physiological and psychological acoustics. Experimental measurements of the <a href="/wiki/Speed_of_sound" title="Speed of sound">speed of sound</a> in air were carried out successfully between 1630 and 1680 by a number of investigators, prominently Mersenne. Meanwhile, Newton (1642–1727) derived the relationship for wave velocity in solids, a cornerstone of <a href="/wiki/Physical_acoustics" title="Physical acoustics">physical acoustics</a> (<a href="/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica" title="Philosophiæ Naturalis Principia Mathematica">Principia</a>, 1687).</p>
+<h3><span class="mw-headline" id="Age_of_Enlightenment_and_onward">Age of Enlightenment and onward</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=3" title="Edit section: Age of Enlightenment and onward">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The eighteenth century saw major advances in acoustics as mathematicians applied the new techniques of calculus to elaborate theories of sound wave propagation. In the nineteenth century the major figures of mathematical acoustics were <a class="mw-redirect" href="/wiki/Helmholtz" title="Helmholtz">Helmholtz</a> in Germany, who consolidated the field of physiological acoustics, and <a class="mw-redirect" href="/wiki/John_Strutt,_3rd_Baron_Rayleigh" title="John Strutt, 3rd Baron Rayleigh">Lord Rayleigh</a> in England, who combined the previous knowledge with his own copious contributions to the field in his monumental work <i>The Theory of Sound</i> (1877). Also in the 19th century, Wheatstone, Ohm, and Henry developed the analogy between electricity and acoustics.</p>
+<p>The twentieth century saw a burgeoning of technological applications of the large body of scientific knowledge that was by then in place. The first such application was <a href="/wiki/Wallace_Clement_Sabine" title="Wallace Clement Sabine">Sabine</a>’s groundbreaking work in architectural acoustics, and many others followed. Underwater acoustics was used for detecting submarines in the first World War. <a class="mw-redirect" href="/wiki/Sound_recording" title="Sound recording">Sound recording</a> and the telephone played important roles in a global transformation of society. Sound measurement and analysis reached new levels of accuracy and sophistication through the use of electronics and computing. The ultrasonic frequency range enabled wholly new kinds of application in medicine and industry. New kinds of transducers (generators and receivers of acoustic energy) were invented and put to use.</p>
+<h2><span class="mw-headline" id="Fundamental_concepts_of_acoustics">Fundamental concepts of acoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=4" title="Edit section: Fundamental concepts of acoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:286px;max-width:286px">
+<div style="clear:both;font-weight:bold;text-align:left/right/center;background-color:"><a href="/wiki/Jay_Pritzker_Pavilion" title="Jay Pritzker Pavilion">Jay Pritzker Pavilion</a></div>
+<div class="tsingle" style="float:left;margin:1px;width:180px;max-width:180px">
+<div class="thumbimage"><a class="image" href="/wiki/File:20070919_Pritzker_Pavilion_from_stage.JPG"><img alt="" data-file-height="2304" data-file-width="3072" height="134" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20070919_Pritzker_Pavilion_from_stage.JPG/178px-20070919_Pritzker_Pavilion_from_stage.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20070919_Pritzker_Pavilion_from_stage.JPG/267px-20070919_Pritzker_Pavilion_from_stage.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20070919_Pritzker_Pavilion_from_stage.JPG/356px-20070919_Pritzker_Pavilion_from_stage.JPG 2x" width="178"/></a></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:102px;max-width:102px">
+<div class="thumbimage"><a class="image" href="/wiki/File:20070919_Pritzker_Pavilion_speakers.JPG"><img alt="" data-file-height="3072" data-file-width="2304" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/20070919_Pritzker_Pavilion_speakers.JPG/100px-20070919_Pritzker_Pavilion_speakers.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/20070919_Pritzker_Pavilion_speakers.JPG/150px-20070919_Pritzker_Pavilion_speakers.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/20070919_Pritzker_Pavilion_speakers.JPG/200px-20070919_Pritzker_Pavilion_speakers.JPG 2x" width="100"/></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left/right/center;background-color:">At <a href="/wiki/Jay_Pritzker_Pavilion" title="Jay Pritzker Pavilion">Jay Pritzker Pavilion</a>, a <a href="/wiki/LARES" title="LARES">LARES</a> system is combined with a zoned <a href="/wiki/Sound_reinforcement_system" title="Sound reinforcement system">sound reinforcement system</a>, both suspended on an overhead steel trellis, to synthesize an indoor acoustic environment outdoors.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=5" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Acoustics is defined by <a href="/wiki/ANSI/ASA_S1.1-2013" title="ANSI/ASA S1.1-2013">ANSI/ASA S1.1-2013</a> as "(a) Science of <a href="/wiki/Sound" title="Sound">sound</a>, including its production, transmission, and effects, including biological and psychological effects. (b) Those qualities of a room that, together, determine its character with respect to auditory effects."</p>
+<p>The study of acoustics revolves around the generation, propagation and reception of mechanical waves and vibrations.</p>
+<dl>
+<dd>
+<dl>
+<dd><b><a class="image" href="/wiki/File:Cause-effect_diagram_for_acoustics.svg" title="The fundamental acoustical process"><img alt="The fundamental acoustical process" data-file-height="85" data-file-width="680" height="85" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cause-effect_diagram_for_acoustics.svg/680px-Cause-effect_diagram_for_acoustics.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cause-effect_diagram_for_acoustics.svg/1020px-Cause-effect_diagram_for_acoustics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cause-effect_diagram_for_acoustics.svg/1360px-Cause-effect_diagram_for_acoustics.svg.png 2x" width="680"/></a></b></dd>
+</dl>
+</dd>
+</dl>
+<p>The steps shown in the above diagram can be found in any acoustical event or process. There are many kinds of cause, both natural and volitional. There are many kinds of transduction process that convert energy from some other form into sonic energy, producing a sound wave. There is one fundamental equation that describes sound wave propagation, the <a href="/wiki/Acoustic_wave_equation" title="Acoustic wave equation">acoustic wave equation</a>, but the phenomena that emerge from it are varied and often complex. The wave carries energy throughout the propagating medium. Eventually this energy is transduced again into other forms, in ways that again may be natural and/or volitionally contrived. The final effect may be purely physical or it may reach far into the biological or volitional domains. The five basic steps are found equally well whether we are talking about an <a href="/wiki/Earthquake" title="Earthquake">earthquake</a>, a submarine using sonar to locate its foe, or a band playing in a rock concert.</p>
+<p>The central stage in the acoustical process is wave propagation. This falls within the domain of physical acoustics. In <a href="/wiki/Fluid" title="Fluid">fluids</a>, sound propagates primarily as a <a class="mw-redirect" href="/wiki/Pressure_wave" title="Pressure wave">pressure wave</a>. In solids, mechanical waves can take many forms including <a class="mw-redirect" href="/wiki/Longitudinal_waves" title="Longitudinal waves">longitudinal waves</a>, <a class="mw-redirect" href="/wiki/Transverse_waves" title="Transverse waves">transverse waves</a> and <a class="mw-redirect" href="/wiki/Surface_waves" title="Surface waves">surface waves</a>.</p>
+<p>Acoustics looks first at the pressure levels and frequencies in the sound wave and how the wave interacts with the environment. This interaction can be described as either a <a href="/wiki/Diffraction" title="Diffraction">diffraction</a>, <a href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">interference</a> or a <a href="/wiki/Reflection_(physics)" title="Reflection (physics)">reflection</a> or a mix of the three. If several <a href="/wiki/Transmission_medium" title="Transmission medium">media</a> are present, a <a href="/wiki/Refraction" title="Refraction">refraction</a> can also occur. Transduction processes are also of special importance to acoustics.</p>
+<h3><span class="mw-headline" id="Wave_propagation:_pressure_levels">Wave propagation: pressure levels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=6" title="Edit section: Wave propagation: pressure levels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Sound_pressure" title="Sound pressure">Sound pressure</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Oh_No_Girl_Spectrogram_2.jpg"><img alt="" class="thumbimage" data-file-height="390" data-file-width="588" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Oh_No_Girl_Spectrogram_2.jpg/220px-Oh_No_Girl_Spectrogram_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Oh_No_Girl_Spectrogram_2.jpg/330px-Oh_No_Girl_Spectrogram_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Oh_No_Girl_Spectrogram_2.jpg/440px-Oh_No_Girl_Spectrogram_2.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Oh_No_Girl_Spectrogram_2.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Spectrogram" title="Spectrogram">Spectrogram</a> of a young girl saying "oh, no"</div>
+</div>
+</div>
+<p>In fluids such as air and water, sound waves propagate as disturbances in the ambient pressure level. While this disturbance is usually small, it is still noticeable to the human ear. The smallest sound that a person can hear, known as the <a href="/wiki/Absolute_threshold_of_hearing" title="Absolute threshold of hearing">threshold of hearing</a>, is nine orders of magnitude smaller than the ambient pressure. The <a href="/wiki/Loudness" title="Loudness">loudness</a> of these disturbances is related to the <a class="mw-redirect" href="/wiki/Sound_pressure_level" title="Sound pressure level">sound pressure level</a> (SPL) which is measured on a logarithmic scale in decibels.</p>
+<h3><span class="mw-headline" id="Wave_propagation:_frequency">Wave propagation: frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=7" title="Edit section: Wave propagation: frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Physicists and acoustic engineers tend to discuss sound pressure levels in terms of frequencies, partly because this is how our <a class="mw-redirect" href="/wiki/Ears" title="Ears">ears</a> interpret sound. What we experience as "higher pitched" or "lower pitched" sounds are pressure vibrations having a higher or lower number of cycles per second. In a common technique of acoustic measurement, acoustic signals are sampled in time, and then presented in more meaningful forms such as octave bands or time frequency plots. Both of these popular methods are used to analyze sound and better understand the acoustic phenomenon.</p>
+<p>The entire spectrum can be divided into three sections: audio, ultrasonic, and infrasonic. The audio range falls between 20 <a href="/wiki/Hertz" title="Hertz">Hz</a> and 20,000 Hz. This range is important because its frequencies can be detected by the human ear. This range has a number of applications, including speech communication and music. The ultrasonic range refers to the very high frequencies: 20,000 Hz and higher. This range has shorter wavelengths which allow better resolution in imaging technologies. Medical applications such as <a class="mw-redirect" href="/wiki/Medical_ultrasonography" title="Medical ultrasonography">ultrasonography</a> and elastography rely on the ultrasonic frequency range. On the other end of the spectrum, the lowest frequencies are known as the infrasonic range. These frequencies can be used to study geological phenomena such as earthquakes.</p>
+<p>Analytic instruments such as the <a href="/wiki/Spectrum_analyzer" title="Spectrum analyzer">spectrum analyzer</a> facilitate visualization and measurement of acoustic signals and their properties. The <a href="/wiki/Spectrogram" title="Spectrogram">spectrogram</a> produced by such an instrument is a graphical display of the time varying pressure level and frequency profiles which give a specific acoustic signal its defining character.</p>
+<h3><span class="mw-headline" id="Transduction_in_acoustics">Transduction in acoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=8" title="Edit section: Transduction in acoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:3.5_Inch_Speaker.jpg"><img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/3.5_Inch_Speaker.jpg/220px-3.5_Inch_Speaker.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/3.5_Inch_Speaker.jpg/330px-3.5_Inch_Speaker.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/3.5_Inch_Speaker.jpg/440px-3.5_Inch_Speaker.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:3.5_Inch_Speaker.jpg" title="Enlarge"></a></div>
+An inexpensive low fidelity 3.5 inch <b>driver</b>, typically found in small radios</div>
+</div>
+</div>
+<p>A <a href="/wiki/Transducer" title="Transducer">transducer</a> is a device for converting one form of energy into another. In an electroacoustic context, this means converting sound energy into electrical energy (or vice versa). Electroacoustic transducers include <a href="/wiki/Loudspeaker" title="Loudspeaker">loudspeakers</a>, <a href="/wiki/Microphone" title="Microphone">microphones</a>, <a href="/wiki/Hydrophone" title="Hydrophone">hydrophones</a> and <a href="/wiki/Sonar" title="Sonar">sonar</a> projectors. These devices convert a sound pressure wave to or from an electric signal. The most widely used transduction principles are <a href="/wiki/Electromagnetism" title="Electromagnetism">electromagnetism</a>, <a href="/wiki/Electrostatics" title="Electrostatics">electrostatics</a> and <a href="/wiki/Piezoelectricity" title="Piezoelectricity">piezoelectricity</a>.</p>
+<p>The transducers in most common <a href="/wiki/Loudspeaker" title="Loudspeaker">loudspeakers</a> (e.g. <a href="/wiki/Woofer" title="Woofer">woofers</a> and <a href="/wiki/Tweeter" title="Tweeter">tweeters</a>), are electromagnetic devices that generate waves using a suspended diaphragm driven by an electromagnetic <a href="/wiki/Voice_coil" title="Voice coil">voice coil</a>, sending off pressure waves. <a href="/wiki/Electret_microphone" title="Electret microphone">Electret microphones</a> and <a class="mw-redirect" href="/wiki/Condenser_microphone" title="Condenser microphone">condenser microphones</a> employ electrostatics—as the sound wave strikes the microphone's diaphragm, it moves and induces a voltage change. The ultrasonic systems used in medical ultrasonography employ piezoelectric transducers. These are made from special ceramics in which mechanical vibrations and electrical fields are interlinked through a property of the material itself.</p>
+<h2><span class="mw-headline" id="Acoustician">Acoustician</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=9" title="Edit section: Acoustician">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An acoustician is an expert in the science of sound.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=10" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are many types of acoustician, but they usually have a <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's degree</a> or higher qualification. Some possess a degree in acoustics, while others enter the discipline via studies in fields such as <a href="/wiki/Physics" title="Physics">physics</a> or <a href="/wiki/Engineering" title="Engineering">engineering</a>. Much work in acoustics requires a good grounding in <a href="/wiki/Mathematics" title="Mathematics">Mathematics</a> and <a href="/wiki/Science" title="Science">science</a>. Many acoustic scientists work in research and development. Some conduct basic research to advance our knowledge of the perception (e.g. <a href="/wiki/Hearing" title="Hearing">hearing</a>, <a href="/wiki/Psychoacoustics" title="Psychoacoustics">psychoacoustics</a> or <a href="/wiki/Neurophysiology" title="Neurophysiology">neurophysiology</a>) of <a href="/wiki/Speech" title="Speech">speech</a>, <a href="/wiki/Music" title="Music">music</a> and <a href="/wiki/Noise" title="Noise">noise</a>. Other acoustic scientists advance understanding of how sound is affected as it moves through environments, e.g. <a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a>, <a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a> or <a href="/wiki/Structural_acoustics" title="Structural acoustics">Structural acoustics</a>. Others areas of work are listed under subdisciplines below. Acoustic scientists work in government, university and private industry laboratories. Many go on to work in <a class="mw-redirect" href="/wiki/Acoustical_Engineering" title="Acoustical Engineering">Acoustical Engineering</a>. Some positions, such as <a href="/wiki/Faculty_(academic_staff)" title="Faculty (academic staff)">Faculty (academic staff)</a> require a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a>.</p>
+<h2><span class="mw-headline" id="Subdisciplines">Subdisciplines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=11" title="Edit section: Subdisciplines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>These subdisciplines are a slightly modified list from the PACS (<a href="/wiki/Physics_and_Astronomy_Classification_Scheme" title="Physics and Astronomy Classification Scheme">Physics and Astronomy Classification Scheme</a>) coding used by the <a href="/wiki/Acoustical_Society_of_America" title="Acoustical Society of America">Acoustical Society of America</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Archaeoacoustics">Archaeoacoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=12" title="Edit section: Archaeoacoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Archaeoacoustics" title="Archaeoacoustics">Archaeoacoustics</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fl%C3%BBte_pal%C3%A9olithique_(mus%C3%A9e_national_de_Slov%C3%A9nie,_Ljubljana)_(9420310527).jpg"><img alt="" class="thumbimage" data-file-height="900" data-file-width="600" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fl%C3%BBte_pal%C3%A9olithique_%28mus%C3%A9e_national_de_Slov%C3%A9nie%2C_Ljubljana%29_%289420310527%29.jpg/220px-Fl%C3%BBte_pal%C3%A9olithique_%28mus%C3%A9e_national_de_Slov%C3%A9nie%2C_Ljubljana%29_%289420310527%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fl%C3%BBte_pal%C3%A9olithique_%28mus%C3%A9e_national_de_Slov%C3%A9nie%2C_Ljubljana%29_%289420310527%29.jpg/330px-Fl%C3%BBte_pal%C3%A9olithique_%28mus%C3%A9e_national_de_Slov%C3%A9nie%2C_Ljubljana%29_%289420310527%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fl%C3%BBte_pal%C3%A9olithique_%28mus%C3%A9e_national_de_Slov%C3%A9nie%2C_Ljubljana%29_%289420310527%29.jpg/440px-Fl%C3%BBte_pal%C3%A9olithique_%28mus%C3%A9e_national_de_Slov%C3%A9nie%2C_Ljubljana%29_%289420310527%29.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fl%C3%BBte_pal%C3%A9olithique_(mus%C3%A9e_national_de_Slov%C3%A9nie,_Ljubljana)_(9420310527).jpg" title="Enlarge"></a></div>
+The <a class="mw-redirect" href="/wiki/Divje_Babe_flute" title="Divje Babe flute">Divje Babe flute</a></div>
+</div>
+</div>
+<p><a href="/wiki/Archaeoacoustics" title="Archaeoacoustics">Archaeoacoustics</a> is the study of sound within archaeology. This typically involves studying the acoustics of archaeological sites and artefacts.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Aeroacoustics">Aeroacoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=13" title="Edit section: Aeroacoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Aeroacoustics" title="Aeroacoustics">Aeroacoustics</a></div>
+<p><a href="/wiki/Aeroacoustics" title="Aeroacoustics">Aeroacoustics</a> is the study of noise generated by air movement, for instance via turbulence, and the movement of sound through the fluid air. This knowledge is applied in <a href="/wiki/Acoustical_engineering" title="Acoustical engineering">acoustical engineering</a> to study how to quieten <a href="/wiki/Aircraft" title="Aircraft">aircraft</a>. <a href="/wiki/Aeroacoustics" title="Aeroacoustics">Aeroacoustics</a> is important to understanding how wind <a href="/wiki/Musical_instrument" title="Musical instrument">musical instruments</a> work.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Acoustic_signal_processing">Acoustic signal processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=14" title="Edit section: Acoustic signal processing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Audio_signal_processing" title="Audio signal processing">Audio signal processing</a></div>
+<p>Acoustic signal processing is the electronic manipulation of acoustic signals. Applications include: <a href="/wiki/Active_noise_control" title="Active noise control">active noise control</a>; design for <a href="/wiki/Hearing_aid" title="Hearing aid">hearing aids</a> or <a href="/wiki/Cochlear_implant" title="Cochlear implant">cochlear implants</a>; <a class="mw-redirect" href="/wiki/Echo_cancellation" title="Echo cancellation">echo cancellation</a>; <a href="/wiki/Music_information_retrieval" title="Music information retrieval">music information retrieval</a>, and perceptual coding (e.g. <a href="/wiki/MP3" title="MP3">MP3</a> or <a href="/wiki/Opus_(audio_format)" title="Opus (audio format)">Opus</a>).<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Architectural_acoustics">Architectural acoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=15" title="Edit section: Architectural acoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Symphony_hall_boston.jpg"><img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Symphony_hall_boston.jpg/250px-Symphony_hall_boston.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Symphony_hall_boston.jpg/375px-Symphony_hall_boston.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Symphony_hall_boston.jpg/500px-Symphony_hall_boston.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Symphony_hall_boston.jpg" title="Enlarge"></a></div>
+Symphony Hall Boston where auditorium acoustics began</div>
+</div>
+</div>
+<p>Architectural acoustics (also known as building acoustics) involves the scientific understanding of how to achieve a good sound within a building.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> It typically involves the study of speech intelligibility, speech privacy, music quality, and vibration reduction in the built environment.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Bioacoustics">Bioacoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=16" title="Edit section: Bioacoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Bioacoustics" title="Bioacoustics">Bioacoustics</a></div>
+<p><a href="/wiki/Bioacoustics" title="Bioacoustics">Bioacoustics</a> is the scientific study of the hearing and calls of animal calls, as well as how animals are affected by the acoustic and sounds of their habitat.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<h3><span class="mw-headline" id="Electroacoustics">Electroacoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=17" title="Edit section: Electroacoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Audio_Engineering" title="Audio Engineering">Audio Engineering</a> and <a href="/wiki/Sound_reinforcement_system" title="Sound reinforcement system">Sound reinforcement system</a></div>
+<p>This subdiscipline is concerned with the recording, manipulation and reproduction of audio using electronics.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> This might include products such as <a href="/wiki/Mobile_phone" title="Mobile phone">mobile phones</a>, large scale <a class="mw-redirect" href="/wiki/Public_address" title="Public address">public address</a> systems or <a href="/wiki/Virtual_reality" title="Virtual reality">virtual reality</a> systems in research laboratories.</p>
+<h3><span class="mw-headline" id="Environmental_noise_and_soundscapes">Environmental noise and soundscapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=18" title="Edit section: Environmental noise and soundscapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Environmental_noise" title="Environmental noise">Environmental noise</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Noise_pollution" title="Noise pollution">Noise pollution</a> and <a href="/wiki/Noise_control" title="Noise control">Noise control</a></div>
+<p>Environmental acoustics is concerned with noise and vibration caused by railways,<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> road traffic, aircraft, industrial equipment and recreational activities.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> The main aim of these studies is to reduce levels of environmental noise and vibration. Research work now also has a focus on the positive use of sound in urban environments: <a href="/wiki/Soundscape" title="Soundscape">soundscapes</a> and <a class="mw-redirect" href="/wiki/Tranquility" title="Tranquility">tranquility</a>.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></p>
+<h3><span class="mw-headline" id="Musical_acoustics">Musical acoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=19" title="Edit section: Musical acoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Musical_acoustics" title="Musical acoustics">Musical acoustics</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Brodmann_41_42.png"><img alt="" class="thumbimage" data-file-height="190" data-file-width="300" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Brodmann_41_42.png/250px-Brodmann_41_42.png" srcset="//upload.wikimedia.org/wikipedia/commons/8/81/Brodmann_41_42.png 1.5x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Brodmann_41_42.png" title="Enlarge"></a></div>
+The <a class="mw-redirect" href="/wiki/Primary_auditory_cortex" title="Primary auditory cortex">primary auditory cortex</a> is one of the main areas associated with superior pitch resolution.</div>
+</div>
+</div>
+<p>Musical acoustics is the study of the physics of acoustic instruments; the <a href="/wiki/Audio_signal_processing" title="Audio signal processing">audio signal processing</a> used in electronic music; the computer analysis of music and composition, and the perception and <a href="/wiki/Cognitive_neuroscience_of_music" title="Cognitive neuroscience of music">cognitive neuroscience of music</a>.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></p>
+<h3><span class="mw-headline" id="Psychoacoustics">Psychoacoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=20" title="Edit section: Psychoacoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Psychoacoustics" title="Psychoacoustics">Psychoacoustics</a></div>
+<p><a href="/wiki/Psychoacoustics" title="Psychoacoustics">Psychoacoustics</a> explains how humans respond to sounds.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup></p>
+<h3><span class="mw-headline" id="Speech">Speech</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=21" title="Edit section: Speech">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Speech" title="Speech">Speech</a></div>
+<p>Acousticians study the production, processing and perception of speech. <a href="/wiki/Speech_recognition" title="Speech recognition">Speech recognition</a> and <a href="/wiki/Speech_synthesis" title="Speech synthesis">Speech synthesis</a> are two important areas of speech processing using computers. The subject also overlaps with the disciplines of <a href="/wiki/Physics" title="Physics">physics</a>, <a href="/wiki/Physiology" title="Physiology">physiology</a>, <a href="/wiki/Psychology" title="Psychology">psychology</a>, and <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></p>
+<h3><span class="mw-headline" id="Ultrasonics">Ultrasonics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=22" title="Edit section: Ultrasonics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Ultrasound" title="Ultrasound">Ultrasound</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg"><img alt="" class="thumbimage" data-file-height="735" data-file-width="976" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg/220px-CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg/330px-CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg/440px-CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg" title="Enlarge"></a></div>
+Ultrasound image of a fetus in the womb, viewed at 12 weeks of pregnancy (bidimensional-scan)</div>
+</div>
+</div>
+<p>Ultrasonics deals with sounds at frequencies too high to be heard by humans. Specialisms include medical ultrasonics (including <a class="mw-redirect" href="/wiki/Medical_ultrasonography" title="Medical ultrasonography">medical ultrasonography</a>), <a href="/wiki/Sonochemistry" title="Sonochemistry">sonochemistry</a>, material characterisation and <a href="/wiki/Underwater_acoustics" title="Underwater acoustics">underwater acoustics</a> (<a href="/wiki/Sonar" title="Sonar">Sonar</a>).<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<h3><span class="mw-headline" id="Underwater_acoustics">Underwater acoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=23" title="Edit section: Underwater acoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></div>
+<p>Underwater acoustics is the scientific study of natural and man-made sounds underwater. Applications include <a href="/wiki/Sonar" title="Sonar">sonar</a> to locate <a class="mw-redirect" href="/wiki/Submarines" title="Submarines">submarines</a>, underwater communication by whales, climate change monitoring by measuring sea temperatures acoustically, sonic weapons,<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> and marine <a href="/wiki/Bioacoustics" title="Bioacoustics">bioacoustics</a>.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></p>
+<h3><span class="mw-headline" id="Vibration_and_dynamics">Vibration and dynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=24" title="Edit section: Vibration and dynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Vibration" title="Vibration">Vibration</a></div>
+<p>This is the study of how mechanical systems vibrate and interact with their surroundings. Applications might include: <a href="/wiki/Ground_vibrations" title="Ground vibrations">ground vibrations</a> from railways; <a href="/wiki/Vibration_isolation" title="Vibration isolation">vibration isolation</a> to reduce vibration in operating theatres; studying how vibration can damage health (<a href="/wiki/Vibration_white_finger" title="Vibration white finger">vibration white finger</a>); <a href="/wiki/Vibration_control" title="Vibration control">vibration control</a> to protect a building from <a href="/wiki/Earthquake" title="Earthquake">earthquakes</a>, or measuring how structure-borne sound moves through buildings.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></p>
+<h2><span class="mw-headline" id="Professional_societies">Professional societies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=25" title="Edit section: Professional societies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Acoustical_Society_of_America" title="Acoustical Society of America">The Acoustical Society Of America</a> (ASA)</li>
+<li><a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> (IEEE)</li>
+<li><a href="/wiki/Institute_of_Acoustics" title="Institute of Acoustics">Institute of Acoustics</a> (IoA UK)</li>
+<li><a href="/wiki/Audio_Engineering_Society" title="Audio Engineering Society">The Audio Engineering Society</a> (AES)</li>
+<li><a class="mw-redirect" href="/wiki/American_Society_of_Mechanical_Engineers" title="American Society of Mechanical Engineers">American Society of Mechanical Engineers, Noise Control and Acoustics Division</a> (ASME-NCAD)</li>
+<li><a href="/wiki/International_Commission_for_Acoustics" title="International Commission for Acoustics">International Commission for Acoustics</a> (ICA)</li>
+<li><a href="/wiki/American_Institute_of_Aeronautics_and_Astronautics" title="American Institute of Aeronautics and Astronautics">American Institute of Aeronautics and Astronautics, Aeroacoustics</a> (AIAA)</li>
+<li><a href="/wiki/International_Computer_Music_Association" title="International Computer Music Association">International Computer Music Association</a> (ICMA)</li>
+</ul>
+<h2><span class="mw-headline" id="Academic_journals">Academic journals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=26" title="Edit section: Academic journals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main category: <a href="/wiki/Category:Acoustics_journals" title="Category:Acoustics journals">Acoustics journals</a></div>
+<ul>
+<li>Acta Acustica united with Acustica</li>
+<li><a href="/wiki/Applied_Acoustics" title="Applied Acoustics">Applied Acoustics</a></li>
+<li><a href="/wiki/Journal_of_the_Acoustical_Society_of_America" title="Journal of the Acoustical Society of America">Journal of the Acoustical Society of America</a> (JASA)</li>
+<li>Journal of the Acoustical Society of America, Express Letters (JASA-EL)</li>
+<li>Journal of the <a href="/wiki/Audio_Engineering_Society" title="Audio Engineering Society">Audio Engineering Society</a></li>
+<li><a href="/wiki/Journal_of_Sound_and_Vibration" title="Journal of Sound and Vibration">Journal of Sound and Vibration</a> (JSV)</li>
+<li>Journal of Vibration and Acoustics <a class="mw-redirect" href="/wiki/American_Society_of_Mechanical_Engineers" title="American Society of Mechanical Engineers">American Society of Mechanical Engineers</a></li>
+<li><a href="/wiki/Ultrasonics_(journal)" title="Ultrasonics (journal)">Ultrasonics (journal)</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=27" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Acoustic_attenuation" title="Acoustic attenuation">Acoustic attenuation</a></li>
+<li><a href="/wiki/Acoustic_emission" title="Acoustic emission">Acoustic emission</a></li>
+<li><a class="mw-redirect" href="/wiki/Acoustic_engineering" title="Acoustic engineering">Acoustic engineering</a></li>
+<li><a href="/wiki/Acoustic_impedance" title="Acoustic impedance">Acoustic impedance</a></li>
+<li><a href="/wiki/Acoustic_levitation" title="Acoustic levitation">Acoustic levitation</a></li>
+<li><a href="/wiki/Acoustic_location" title="Acoustic location">Acoustic location</a></li>
+<li><a href="/wiki/Acoustic_phonetics" title="Acoustic phonetics">Acoustic phonetics</a></li>
+<li><a href="/wiki/Acoustic_streaming" title="Acoustic streaming">Acoustic streaming</a></li>
+<li><a class="mw-redirect" href="/wiki/Acoustic_tags" title="Acoustic tags">Acoustic tags</a></li>
+<li><a class="mw-redirect" href="/wiki/Acoustic_thermometry" title="Acoustic thermometry">Acoustic thermometry</a></li>
+<li><a href="/wiki/Acoustic_wave" title="Acoustic wave">Acoustic wave</a></li>
+<li><a href="/wiki/Audiology" title="Audiology">Audiology</a></li>
+<li><a href="/wiki/Auditory_illusion" title="Auditory illusion">Auditory illusion</a></li>
+<li><a href="/wiki/Diffraction" title="Diffraction">Diffraction</a></li>
+<li><a href="/wiki/Doppler_effect" title="Doppler effect">Doppler effect</a></li>
+<li><a href="/wiki/Fisheries_acoustics" title="Fisheries acoustics">Fisheries acoustics</a></li>
+<li><a href="/wiki/Helioseismology" title="Helioseismology">Helioseismology</a></li>
+<li><a class="mw-redirect" href="/wiki/Lamb_wave" title="Lamb wave">Lamb wave</a></li>
+<li><a href="/wiki/Linear_elasticity" title="Linear elasticity">Linear elasticity</a></li>
+<li><i><a href="/wiki/The_Little_Red_Book_of_Acoustics" title="The Little Red Book of Acoustics">The Little Red Book of Acoustics</a></i> (in the UK)</li>
+<li><a href="/wiki/Longitudinal_wave" title="Longitudinal wave">Longitudinal wave</a></li>
+<li><a href="/wiki/Music_therapy" title="Music therapy">Music therapy</a></li>
+<li><a href="/wiki/Noise_pollution" title="Noise pollution">Noise pollution</a></li>
+<li><a href="/wiki/Phonon" title="Phonon">Phonon</a></li>
+<li><a href="/wiki/Picosecond_ultrasonics" title="Picosecond ultrasonics">Picosecond ultrasonics</a></li>
+<li><a href="/wiki/Rayleigh_wave" title="Rayleigh wave">Rayleigh wave</a></li>
+<li><a href="/wiki/Shock_wave" title="Shock wave">Shock wave</a></li>
+<li><a href="/wiki/Seismology" title="Seismology">Seismology</a></li>
+<li><a href="/wiki/Sonification" title="Sonification">Sonification</a></li>
+<li><a href="/wiki/Sonochemistry" title="Sonochemistry">Sonochemistry</a></li>
+<li><a href="/wiki/Soundproofing" title="Soundproofing">Soundproofing</a></li>
+<li><a href="/wiki/Soundscape" title="Soundscape">Soundscape</a></li>
+<li><a href="/wiki/Sonic_boom" title="Sonic boom">Sonic boom</a></li>
+<li><a href="/wiki/Sonoluminescence" title="Sonoluminescence">Sonoluminescence</a></li>
+<li><a href="/wiki/Surface_acoustic_wave" title="Surface acoustic wave">Surface acoustic wave</a></li>
+<li><a href="/wiki/Thermoacoustics" title="Thermoacoustics">Thermoacoustics</a></li>
+<li><a href="/wiki/Transverse_wave" title="Transverse wave">Transverse wave</a></li>
+<li><a href="/wiki/Wave_equation" title="Wave equation">Wave equation</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=28" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation"><a class="external text" href="http://www.physics.byu.edu/research/acoustics/what_is_acoustics.aspx" rel="nofollow"><i>What is acoustics?</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2010-07-29</span></span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=What+is+acoustics%3F&amp;rft_id=http%3A%2F%2Fwww.physics.byu.edu%2Fresearch%2Facoustics%2Fwhat_is_acoustics.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D%233396" rel="nofollow">Akoustikos</a> Henry George Liddell, Robert Scott, <i>A Greek-English Lexicon</i>, at Perseus</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D%233397" rel="nofollow">Akoustos</a> Henry George Liddell, Robert Scott, <i>A Greek-English Lexicon</i>, at Perseus</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D%233399" rel="nofollow">Akouo</a> Henry George Liddell, Robert Scott, <i>A Greek-English Lexicon</i>, at Perseus</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="https://books.google.com/books?id=xNQrAAAAMAAJ&amp;q=catacoustics+sonics&amp;dq=catacoustics+sonics&amp;hl=en&amp;ei=dCJ_TOO9BJH2tgPo94WSCw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CC8Q6AEwAQ" rel="nofollow">Kenneth Neville Westerman (1947)</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="https://books.google.com/books?id=1po8AAAAIAAJ&amp;q=sonics&amp;dq=sonics&amp;hl=en&amp;ei=qiF_TMfRHYqisQPjhLH1Cg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDIQ6AEwAA" rel="nofollow">Theodor F. Hueter, Richard H. Bolt (1955)</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">C. Boyer and U. Merzbach. <i>A History of Mathematics.</i> Wiley 1991, p. 55.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://press.princeton.edu/chapters/s9912.pdf" rel="nofollow">"How Sound Propagates"</a> <span style="font-size:85%;">(PDF)</span>. Princeton University Press<span class="reference-accessdate">. Retrieved <span class="nowrap">9 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+Sound+Propagates&amp;rft.pub=Princeton+University+Press&amp;rft_id=http%3A%2F%2Fpress.princeton.edu%2Fchapters%2Fs9912.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span> (quoting from Aristotle's <i>Treatise on Sound and Hearing</i>)</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">ACOUSTICS, Bruce Lindsay, Dowden – Hutchingon Books Publishers, Chapter 3</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Vitruvius Pollio, <a class="external text" href="https://books.google.com/books?id=wYhAAAAAYAAJ" rel="nofollow"><i>Vitruvius, the Ten Books on Architecture</i></a> (1914) Tr. Morris Hickey Morgan BookV, Sec.6-8</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="extiw" href="https://en.wikiquote.org/wiki/Vitruvius" title="wikiquote:Vitruvius">Vitruvius</a> article @Wikiquote</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Ernst Mach, Introduction to <i>The Science of Mechanics: A Critical and Historical Account of its Development</i> (1893, 1960) Tr. Thomas J. McCormack</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Schwarz, C (1991). <i>Chambers concise dictionary</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chambers+concise+dictionary&amp;rft.date=1991&amp;rft.aulast=Schwarz&amp;rft.aufirst=C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Acoustical Society of America. <a class="external text" href="http://www.aip.org/pacs/pacs2010/individuals/pacs2010_regular_edition/reg_acoustics_appendix.htm" rel="nofollow">"PACS 2010 Regular Edition—Acoustics Appendix"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PACS+2010+Regular+Edition%E2%80%94Acoustics+Appendix&amp;rft.au=Acoustical+Society+of+America&amp;rft_id=http%3A%2F%2Fwww.aip.org%2Fpacs%2Fpacs2010%2Findividuals%2Fpacs2010_regular_edition%2Freg_acoustics_appendix.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Scarre, Christopher (2006). <i>Archaeoacoustics</i>. McDonald Institute for Archaeological Research. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1902937359" title="Special:BookSources/978-1902937359">978-1902937359</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Archaeoacoustics&amp;rft.pub=McDonald+Institute+for+Archaeological+Research&amp;rft.date=2006&amp;rft.isbn=978-1902937359&amp;rft.aulast=Scarre&amp;rft.aufirst=Christopher&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">da Silva, Andrey Ricardo (2009). <i>Aeroacoustics of Wind Instruments: Investigations and Numerical Methods</i>. VDM Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3639210644" title="Special:BookSources/978-3639210644">978-3639210644</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Aeroacoustics+of+Wind+Instruments%3A+Investigations+and+Numerical+Methods&amp;rft.pub=VDM+Verlag&amp;rft.date=2009&amp;rft.isbn=978-3639210644&amp;rft.aulast=da+Silva&amp;rft.aufirst=Andrey+Ricardo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Malcolm_Slaney" title="Malcolm Slaney">Slaney, Malcolm</a>; Patrick A. Naylor (2011). "Trends in Audio and Acoustic Signal Processing". <i><a class="mw-redirect" href="/wiki/ICASSP" title="ICASSP">ICASSP</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ICASSP&amp;rft.atitle=Trends+in++Audio+and+Acoustic+Signal+Processing&amp;rft.date=2011&amp;rft.aulast=Slaney&amp;rft.aufirst=Malcolm&amp;rft.au=Patrick+A.+Naylor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Morfey, Christopher (2001). <i>Dictionary of Acoustics</i>. Academic Press. p. 32.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+Acoustics&amp;rft.pages=32&amp;rft.pub=Academic+Press&amp;rft.date=2001&amp;rft.aulast=Morfey&amp;rft.aufirst=Christopher&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">Templeton, Duncan (1993). <i>Acoustics in the Built Environment: Advice for the Design Team</i>. Architectural Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0750605380" title="Special:BookSources/978-0750605380">978-0750605380</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Acoustics+in+the+Built+Environment%3A+Advice+for+the+Design+Team&amp;rft.pub=Architectural+Press&amp;rft.date=1993&amp;rft.isbn=978-0750605380&amp;rft.aulast=Templeton&amp;rft.aufirst=Duncan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.bioacoustics.info/" rel="nofollow">"Bioacoustics - the International Journal of Animal Sound and its Recording"</a>. Taylor &amp; Francis<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bioacoustics+-+the+International+Journal+of+Animal+Sound+and+its+Recording&amp;rft.pub=Taylor+%26+Francis&amp;rft_id=http%3A%2F%2Fwww.bioacoustics.info%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Acoustical Society of America. <a class="external text" href="http://asaweb.devcloud.acquia-sites.com/education_outreach/careers_in_acoustics" rel="nofollow">"Acoustics and You (A Career in Acoustics?)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Acoustics+and+You+%28A+Career+in+Acoustics%3F%29&amp;rft.au=Acoustical+Society+of+America&amp;rft_id=http%3A%2F%2Fasaweb.devcloud.acquia-sites.com%2Feducation_outreach%2Fcareers_in_acoustics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Krylov, V.V. (Ed.) (2001). <i>Noise and Vibration from High-speed Trains</i>. Thomas Telford. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780727729637" title="Special:BookSources/9780727729637">9780727729637</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Noise+and+Vibration+from+High-speed+Trains&amp;rft.pub=Thomas+Telford&amp;rft.date=2001&amp;rft.isbn=9780727729637&amp;rft.aulast=Krylov&amp;rft.aufirst=V.V.+%28Ed.%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: authors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">link</a>)</span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book">World Health Organisation (2011). <a class="external text" href="http://www.euro.who.int/__data/assets/pdf_file/0008/136466/e94888.pdf" rel="nofollow"><i>Burden of disease from environmental noise</i></a> <span style="font-size:85%;">(PDF)</span>. WHO. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978_92_890_0229_5" title="Special:BookSources/978 92 890 0229 5">978 92 890 0229 5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Burden+of+disease+from++environmental+noise&amp;rft.pub=WHO&amp;rft.date=2011&amp;rft.isbn=9789289002295&amp;rft.au=World+Health+Organisation&amp;rft_id=http%3A%2F%2Fwww.euro.who.int%2F__data%2Fassets%2Fpdf_file%2F0008%2F136466%2Fe94888.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">Kang, Jian (2006). <i>Urban Sound Environment</i>. CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0415358576" title="Special:BookSources/978-0415358576">978-0415358576</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Urban+Sound+Environment&amp;rft.pub=CRC+Press&amp;rft.date=2006&amp;rft.isbn=978-0415358576&amp;rft.aulast=Kang&amp;rft.aufirst=Jian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Technical Committee on Musical Acoustics (TCMU) of the Acoustical Society of America (ASA). <a class="external text" href="http://www.public.coe.edu/~jcotting/tcmu/" rel="nofollow">"ASA TCMU Home Page"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ASA+TCMU+Home+Page&amp;rft.au=Technical+Committee+on+Musical+Acoustics+%28TCMU%29+of+the+Acoustical+Society+of+America+%28ASA%29&amp;rft_id=http%3A%2F%2Fwww.public.coe.edu%2F~jcotting%2Ftcmu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation book">Pohlmann, Ken (2010). <i>Principles of Digital Audio, Sixth Edition</i>. McGraw Hill Professional. p. 336. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780071663472" title="Special:BookSources/9780071663472">9780071663472</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Principles+of+Digital+Audio%2C+Sixth+Edition&amp;rft.pages=336&amp;rft.pub=McGraw+Hill+Professional&amp;rft.date=2010&amp;rft.isbn=9780071663472&amp;rft.aulast=Pohlmann&amp;rft.aufirst=Ken&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Speech Communication Technical Committee. <a class="external text" href="http://acosoc.org/TechComm/SCTC/" rel="nofollow">"Speech Communication"</a>. Acoustical Society of America<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Speech+Communication&amp;rft.pub=Acoustical+Society+of+America&amp;rft.au=Speech+Communication+Technical+Committee&amp;rft_id=http%3A%2F%2Facosoc.org%2FTechComm%2FSCTC%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book">Ensminger, Dale (2012). <i>Ultrasonics: Fundamentals, Technologies, and Applications</i>. CRC Press. pp. 1–2.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ultrasonics%3A+Fundamentals%2C+Technologies%2C+and+Applications&amp;rft.pages=1-2&amp;rft.pub=CRC+Press&amp;rft.date=2012&amp;rft.aulast=Ensminger&amp;rft.aufirst=Dale&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">D. Lohse, B. Schmitz &amp; M. Versluis (2001). <a class="external text" href="http://www.nature.com/nature/journal/v413/n6855/abs/413477a0.html" rel="nofollow">"Snapping shrimp make flashing bubbles"</a>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>413</b> (6855): 477–478. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001Natur.413..477L" rel="nofollow">2001Natur.413..477L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F35097152" rel="nofollow">10.1038/35097152</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11586346" rel="nofollow">11586346</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Snapping+shrimp+make+flashing+bubbles&amp;rft.volume=413&amp;rft.issue=6855&amp;rft.pages=477-478&amp;rft.date=2001&amp;rft_id=info%3Apmid%2F11586346&amp;rft_id=info%3Adoi%2F10.1038%2F35097152&amp;rft_id=info%3Abibcode%2F2001Natur.413..477L&amp;rft.au=D.+Lohse%2C+B.+Schmitz+%26+M.+Versluis&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv413%2Fn6855%2Fabs%2F413477a0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">ASA Underwater Acoustics Technical Committee. <a class="external text" href="https://web.archive.org/web/20130730104616/http://www.apl.washington.edu/projects/ASA-UATC/index.php" rel="nofollow">"Underwater Acoustics"</a>. Archived from <a class="external text" href="http://www.apl.washington.edu/projects/ASA-UATC/index.php" rel="nofollow">the original</a> on 30 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Underwater+Acoustics&amp;rft.au=ASA+Underwater+Acoustics+Technical+Committee&amp;rft_id=http%3A%2F%2Fwww.apl.washington.edu%2Fprojects%2FASA-UATC%2Findex.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Structural Acoustics &amp; Vibration Technical Committee. <a class="external text" href="https://web.archive.org/web/20131103180745/http://fubini.swarthmore.edu/~bbard/savtc.html" rel="nofollow">"Structural Acoustics &amp; Vibration Technical Committee"</a>. Archived from <a class="external text" href="http://fubini.swarthmore.edu/~bbard/savtc.html" rel="nofollow">the original</a> on 3 November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Structural+Acoustics+%26+Vibration+Technical+Committee&amp;rft.au=Structural+Acoustics+%26+Vibration+Technical+Committee&amp;rft_id=http%3A%2F%2Ffubini.swarthmore.edu%2F~bbard%2Fsavtc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=29" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Benade, Arthur H (1976). <i>Fundamentals of Musical Acoustics</i>. New York: Oxford University Press. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/2270137" rel="nofollow">2270137</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Musical+Acoustics&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft.date=1976&amp;rft_id=info%3Aoclcnum%2F2270137&amp;rft.aulast=Benade&amp;rft.aufirst=Arthur+H&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></li>
+<li>S.V. Biryukov, Y.V. Gulyaev, V.V. Krylov and V.P. Plessky (1995). <a class="external text" href="https://books.google.com/books/about/Surface_acoustic_waves_in_inhomogeneous.html?id=WR-jfwMnDYYC&amp;redir_esc=y" rel="nofollow"><i>Surface Acoustic Waves in Inhomogeneous Media</i></a>, Springer.</li>
+<li>M. Crocker (editor), 1994. <i>Encyclopedia of Acoustics</i> (Interscience).</li>
+<li><cite class="citation book">Falkovich, G. (2011). <a class="external text" href="http://www.weizmann.ac.il/complex/falkovich/fluid-mechanics" rel="nofollow"><i>Fluid Mechanics, a short course for physicists</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-107-00575-4" title="Special:BookSources/978-1-107-00575-4">978-1-107-00575-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fluid+Mechanics%2C+a+short+course+for+physicists&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2011&amp;rft.isbn=978-1-107-00575-4&amp;rft.aulast=Falkovich&amp;rft.aufirst=G.&amp;rft_id=http%3A%2F%2Fwww.weizmann.ac.il%2Fcomplex%2Ffalkovich%2Ffluid-mechanics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></li>
+<li>F. Fahy and P. Gardonio (2007). <a class="external text" href="https://books.google.com/books?id=caelfFmWC28C&amp;printsec=frontcover&amp;dq=F+Fahy&amp;hl=en&amp;sa=X&amp;ei=JTb-U4DzK-zo7AbEqoCwAg&amp;ved=0CCgQ6AEwAQ#v=onepage&amp;q=F%20Fahy&amp;f=false" rel="nofollow"><i>Sound and Structural Vibration: Radiation, Transmission and Response</i></a>, 2nd Edition, Academic Press.</li>
+<li>M.C. Junger and D. Feit (1986). <a class="external text" href="http://mitpress.mit.edu/books/sound-structures-and-their-interaction" rel="nofollow"><i>Sound, Structures and Their Interaction</i></a>, 2nd Edition, MIT Press.</li>
+<li>L. E. Kinsler, A. R. Frey, A. B. Coppens, and J. V. Sanders, 1999. <i>Fundamentals of Acoustics,</i> fourth edition (Wiley).</li>
+<li>Mason W.P., Thurston R.N. <a class="external text" href="https://web.archive.org/web/20131225161706/http://librarum.org/book/2513/1" rel="nofollow"><i>Physical Acoustics</i></a> (1981)</li>
+<li>Philip M. Morse and K. Uno Ingard, 1986. <i>Theoretical Acoustics</i> (Princeton University Press). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-691-08425-4" title="Special:BookSources/0-691-08425-4">0-691-08425-4</a></li>
+<li>Allan D. Pierce, 1989. <i>Acoustics: An Introduction to its Physical Principles and Applications</i> (Acoustical Society of America). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-88318-612-8" title="Special:BookSources/0-88318-612-8">0-88318-612-8</a></li>
+<li>D. R. Raichel, 2006. <i>The Science and Applications of Acoustics,</i> second edition (Springer). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-387-30089-9" title="Special:BookSources/0-387-30089-9">0-387-30089-9</a></li>
+<li><cite class="citation book"><a href="/wiki/John_William_Strutt,_3rd_Baron_Rayleigh" title="John William Strutt, 3rd Baron Rayleigh">Rayleigh, J. W. S.</a> (1894). <i>The Theory of Sound</i>. New York: Dover. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8446-3028-4" title="Special:BookSources/0-8446-3028-4">0-8446-3028-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Theory+of+Sound&amp;rft.place=New+York&amp;rft.pub=Dover&amp;rft.date=1894&amp;rft.isbn=0-8446-3028-4&amp;rft.aulast=Rayleigh&amp;rft.aufirst=J.+W.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></li>
+<li>E. Skudrzyk, 1971. <i>The Foundations of Acoustics: Basic Mathematics and Basic Acoustics</i> (Springer).</li>
+<li><cite class="citation book">Stephens, R. W. B.; Bate, A. E. (1966). <i>Acoustics and Vibrational Physics</i> (2nd ed.). London: Edward Arnold.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Acoustics+and+Vibrational+Physics&amp;rft.place=London&amp;rft.edition=2nd&amp;rft.pub=Edward+Arnold&amp;rft.date=1966&amp;rft.aulast=Stephens&amp;rft.aufirst=R.+W.+B.&amp;rft.au=Bate%2C+A.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Wilson, Charles E. (2006). <i>Noise Control</i> (Revised ed.). Malabar, FL: Krieger Publishing Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-57524-237-0" title="Special:BookSources/1-57524-237-0">1-57524-237-0</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/59223706" rel="nofollow">59223706</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Noise+Control&amp;rft.place=Malabar%2C+FL&amp;rft.edition=Revised&amp;rft.pub=Krieger+Publishing+Company&amp;rft.date=2006&amp;rft_id=info%3Aoclcnum%2F59223706&amp;rft.isbn=1-57524-237-0&amp;rft.aulast=Wilson&amp;rft.aufirst=Charles+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcoustics"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acoustics&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Acoustics" title="commons:Category:Acoustics">Acoustics</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="430" data-file-width="410" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" width="38"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a class="extiw" href="https://en.wikisource.org/wiki/The_New_Student%27s_Reference_Work/Acoustics" title="wikisource:The New Student's Reference Work/Acoustics">Acoustics</a></b></div>
+</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a class="extiw" href="https://en.wikibooks.org/wiki/Acoustics" title="wikibooks:Acoustics">Acoustics</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://acousticalsociety.org/" rel="nofollow">Acoustical Society of America</a></li>
+<li><a class="external text" href="http://www.ioa.org.uk/" rel="nofollow">Institute of Acoustic in UK</a></li>
+<li><a class="external text" href="http://www.ncac.com/" rel="nofollow">National Council of Acoustical Consultants</a></li>
+<li><a class="external text" href="http://www.icacommission.org/" rel="nofollow">International Commission for Acoustics</a></li>
+<li><a class="external text" href="http://www.inceusa.org/" rel="nofollow">Institute of Noise Control Engineers</a></li>
+<li><a class="external text" href="http://laum.univ-lemans.fr/fr/index.html" rel="nofollow">Laboratoire d'Acoustique de l'Université du Maine</a></li>
+</ul>
+<div aria-labelledby="Branches_of_physics" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Branches_of_physics" title="Template:Branches of physics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Branches_of_physics" title="Template talk:Branches of physics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Branches_of_physics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Branches_of_physics" style="font-size:114%;margin:0 4em">Branches of <a href="/wiki/Physics" title="Physics">physics</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Divisions</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Applied_physics" title="Applied physics">Applied</a></li>
+<li><a href="/wiki/Experimental_physics" title="Experimental physics">Experimental</a></li>
+<li><a href="/wiki/Theoretical_physics" title="Theoretical physics">Theoretical</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Energy" title="Energy">Energy</a></li>
+<li><a href="/wiki/Motion_(physics)" title="Motion (physics)">Motion</a></li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Mechanics" title="Mechanics">Mechanics</a>
+<ul>
+<li><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical</a>
+<ul>
+<li><a href="/wiki/Ballistics" title="Ballistics">Ballistics</a></li>
+<li><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian</a></li>
+<li><a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Continuum_mechanics" title="Continuum mechanics">Continuum</a></li>
+<li><a href="/wiki/Celestial_mechanics" title="Celestial mechanics">Celestial</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Solid_mechanics" title="Solid mechanics">Solid</a></li>
+<li><a href="/wiki/Fluid_mechanics" title="Fluid mechanics">Fluid</a></li>
+<li><a href="/wiki/Quantum_mechanics" title="Quantum mechanics">Quantum</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Wave" title="Wave">Waves</a></li>
+<li><a href="/wiki/Field_(physics)" title="Field (physics)">Fields</a></li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gravity" title="Gravity">Gravitation</a></li>
+<li><a href="/wiki/Electromagnetism" title="Electromagnetism">Electromagnetism</a></li>
+<li><a href="/wiki/Optics" title="Optics">Optics</a>
+<ul>
+<li><a href="/wiki/Geometrical_optics" title="Geometrical optics">Geometrical</a></li>
+<li><a href="/wiki/Physical_optics" title="Physical optics">Physical</a></li>
+<li><a href="/wiki/Nonlinear_optics" title="Nonlinear optics">Nonlinear</a></li>
+<li><a href="/wiki/Quantum_optics" title="Quantum optics">Quantum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Quantum_field_theory" title="Quantum field theory">Quantum field theory</a></li>
+<li><a href="/wiki/Theory_of_relativity" title="Theory of relativity">Relativity</a>
+<ul>
+<li><a href="/wiki/Special_relativity" title="Special relativity">Special</a></li>
+<li><a href="/wiki/General_relativity" title="General relativity">General</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">By speciality</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accelerator_physics" title="Accelerator physics">Accelerator</a></li>
+<li><a class="mw-selflink selflink">Acoustics</a></li>
+<li><a href="/wiki/Astrophysics" title="Astrophysics">Astrophysics</a>
+<ul>
+<li><a href="/wiki/Nuclear_astrophysics" title="Nuclear astrophysics">Nuclear</a></li>
+<li><a class="mw-redirect" href="/wiki/Stellar_physics" title="Stellar physics">Stellar</a></li>
+<li><a href="/wiki/Heliophysics" title="Heliophysics">Heliophysics</a>
+<ul>
+<li><a href="/wiki/Solar_physics" title="Solar physics">Solar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Space_physics" title="Space physics">Space</a></li>
+<li><a href="/wiki/Astroparticle_physics" title="Astroparticle physics">Astroparticle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atomic,_molecular,_and_optical_physics" title="Atomic, molecular, and optical physics">Atomic–molecular–optical <span style="font-size:90%;">(AMO)</span></a></li>
+<li><a href="/wiki/Communication_physics" title="Communication physics">Communication</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational</a></li>
+<li><a href="/wiki/Condensed_matter_physics" title="Condensed matter physics">Condensed matter</a>
+<ul>
+<li><a href="/wiki/Mesoscopic_physics" title="Mesoscopic physics">Mesoscopic</a></li>
+<li><a href="/wiki/Solid-state_physics" title="Solid-state physics">Solid-state</a></li>
+<li><a href="/wiki/Soft_matter" title="Soft matter">Soft</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Digital_physics" title="Digital physics">Digital</a></li>
+<li><a href="/wiki/Engineering_physics" title="Engineering physics">Engineering</a></li>
+<li><a href="/wiki/Materials_physics" title="Materials physics">Material</a></li>
+<li><a href="/wiki/Mathematical_physics" title="Mathematical physics">Mathematical</a></li>
+<li><a href="/wiki/Molecular_physics" title="Molecular physics">Molecular</a></li>
+<li><a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear</a></li>
+<li><a href="/wiki/Particle_physics" title="Particle physics">Particle</a>
+<ul>
+<li><a href="/wiki/Phenomenology_(particle_physics)" title="Phenomenology (particle physics)">Phenomenology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></li>
+<li><a href="/wiki/Polymer_physics" title="Polymer physics">Polymer</a></li>
+<li><a href="/wiki/Statistical_physics" title="Statistical physics">Statistical</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">Physics in life science</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biophysics" title="Biophysics">Biophysics</a>
+<ul>
+<li><a href="/wiki/Virophysics" title="Virophysics">Virophysics</a></li>
+<li><a href="/wiki/Biomechanics" title="Biomechanics">Biomechanics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Medical_physics" title="Medical physics">Medical physics</a>
+<ul>
+<li><a href="/wiki/Cardiophysics" title="Cardiophysics">Cardiophysics</a></li>
+<li><a href="/wiki/Health_physics" title="Health physics">Health physics</a></li>
+<li><a href="/wiki/Laser_medicine" title="Laser medicine">Laser medicine</a></li>
+<li><a href="/wiki/Medical_imaging" title="Medical imaging">Medical imaging‎</a></li>
+<li><a href="/wiki/Nuclear_medicine" title="Nuclear medicine">Nuclear medicine</a></li>
+<li><a href="/wiki/Neurophysics" title="Neurophysics">Neurophysics</a></li>
+<li><a href="/wiki/Psychophysics" title="Psychophysics">Psychophysics</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">Physics with<br/>
+other sciences</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agrophysics" title="Agrophysics">Agrophysics</a>
+<ul>
+<li><a href="/wiki/Soil_physics" title="Soil physics">Soil</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atmospheric_physics" title="Atmospheric physics">Atmospheric</a>
+<ul>
+<li><a href="/wiki/Cloud_physics" title="Cloud physics">Cloud</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chemical_physics" title="Chemical physics">Chemical</a></li>
+<li><a href="/wiki/Econophysics" title="Econophysics">Econophysics</a></li>
+<li><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Acoustics" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Acoustics" title="Template:Acoustics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Acoustics" title="Template talk:Acoustics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Acoustics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Acoustics" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Acoustics</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Acoustical_engineering" title="Acoustical engineering">Engineering</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></li>
+<li><a href="/wiki/Monochord" title="Monochord">Monochord</a></li>
+<li><a href="/wiki/Reverberation" title="Reverberation">Reverberation</a></li>
+<li><a href="/wiki/Soundproofing" title="Soundproofing">Soundproofing</a></li>
+<li><a href="/wiki/String_vibration" title="String vibration">String vibration</a>
+<ul>
+<li><a href="/wiki/String_resonance" title="String resonance">string resonance</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div>
+<div class="plainlist">
+<ul>
+<li><a class="image" href="/wiki/File:Spectrogram_showing_shared_partials.png"><img alt="A spectrogram of a violin playing a note and then a perfect fifth above it. The shared partials are highlighted by the white dashes." data-file-height="250" data-file-width="300" height="67" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spectrogram_showing_shared_partials.png/80px-Spectrogram_showing_shared_partials.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spectrogram_showing_shared_partials.png/120px-Spectrogram_showing_shared_partials.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spectrogram_showing_shared_partials.png/160px-Spectrogram_showing_shared_partials.png 2x" width="80"/></a></li>
+<li><span style="font-size:90%;"><a href="/wiki/Spectrogram" title="Spectrogram">Spectrogram</a></span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Psychoacoustics" title="Psychoacoustics">Psychoacoustics</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bark_scale" title="Bark scale">Bark scale</a></li>
+<li><a href="/wiki/Combination_tone" title="Combination tone">Combination tone</a></li>
+<li><a href="/wiki/Equal-loudness_contour" title="Equal-loudness contour">Equal-loudness contour</a>
+<ul>
+<li><a href="/wiki/Fletcher%E2%80%93Munson_curves" title="Fletcher–Munson curves">Fletcher–Munson curves</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mel_scale" title="Mel scale">Mel scale</a></li>
+<li><a href="/wiki/Missing_fundamental" title="Missing fundamental">Missing fundamental</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Frequency" title="Frequency">Frequency</a> and <a href="/wiki/Pitch_(music)" title="Pitch (music)">pitch</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beat_(acoustics)" title="Beat (acoustics)">Beat</a></li>
+<li><a href="/wiki/Formant" title="Formant">Formant</a></li>
+<li><a href="/wiki/Fundamental_frequency" title="Fundamental frequency">Fundamental frequency</a></li>
+<li><a class="mw-redirect" href="/wiki/Frequency_spectrum" title="Frequency spectrum">Frequency spectrum</a>
+<ul>
+<li><a href="/wiki/Harmonic_spectrum" title="Harmonic spectrum">harmonic spectrum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harmonic" title="Harmonic">Harmonic</a>
+<ul>
+<li><a href="/wiki/Harmonic_series_(music)" title="Harmonic series (music)">series</a></li>
+<li><a href="/wiki/Inharmonicity" title="Inharmonicity">inharmonicity</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mersenne%27s_laws" title="Mersenne's laws">Mersenne's laws</a></li>
+<li><a href="/wiki/Overtone" title="Overtone">Overtone</a></li>
+<li><a href="/wiki/Acoustic_resonance" title="Acoustic resonance">Resonance</a></li>
+<li><a href="/wiki/Standing_wave" title="Standing wave">Standing wave</a>
+<ul>
+<li><a href="/wiki/Node_(physics)" title="Node (physics)">Node</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Undertone_series" title="Undertone series">Subharmonic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Acousticians</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Backus_(acoustician)" title="John Backus (acoustician)">John Backus</a></li>
+<li><a href="/wiki/Jens_Blauert" title="Jens Blauert">Jens Blauert</a></li>
+<li><a href="/wiki/Ernst_Chladni" title="Ernst Chladni">Ernst Chladni</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">Hermann von Helmholtz</a></li>
+<li><a href="/wiki/Franz_Melde" title="Franz Melde">Franz Melde</a></li>
+<li><a href="/wiki/Marin_Mersenne" title="Marin Mersenne">Marin Mersenne</a></li>
+<li><a href="/wiki/Werner_Meyer-Eppler" title="Werner Meyer-Eppler">Werner Meyer-Eppler</a></li>
+<li><a class="mw-redirect" href="/wiki/John_Strutt,_3rd_Baron_Rayleigh" title="John Strutt, 3rd Baron Rayleigh">Lord Rayleigh</a></li>
+<li><a href="/wiki/Joseph_Sauveur" title="Joseph Sauveur">Joseph Sauveur</a></li>
+<li><a href="/wiki/D._Van_Holliday" title="D. Van Holliday">D. Van Holliday</a></li>
+<li><a href="/wiki/Thomas_Young_(scientist)" title="Thomas Young (scientist)">Thomas Young</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Echo_(phenomenon)" title="Echo (phenomenon)">Echo</a></li>
+<li><a href="/wiki/Infrasound" title="Infrasound">Infrasound</a></li>
+<li><a href="/wiki/Sound" title="Sound">Sound</a></li>
+<li><a href="/wiki/Ultrasound" title="Ultrasound">Ultrasound</a></li>
+<li><a href="/wiki/Musical_acoustics" title="Musical acoustics">Musical acoustics</a>
+<ul>
+<li><a href="/wiki/Piano_acoustics" title="Piano acoustics">piano</a></li>
+<li><a href="/wiki/Basic_physics_of_the_violin" title="Basic physics of the violin">violin</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4000988-9" rel="nofollow">4000988-9</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568883" rel="nofollow">00568883</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg"><img alt="Stylised atom with three Bohr model orbits and stylised nucleus.svg" data-file-height="303" data-file-width="266" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/18px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/28px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/37px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" width="18"/></a></span><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics portal</a></span></li>
+</ul>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20171105144753
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.474 seconds
+Preprocessor visited node count: 2665/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80847/2097152 bytes
+Template argument size: 1995/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 3.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  372.025      1 -total
+ 42.91%  159.624      1 Template:Reflist
+ 18.55%   69.002     15 Template:Cite_book
+  9.59%   35.677      8 Template:Cite_web
+  8.69%   32.315      1 Template:Citation
+  7.58%   28.196      1 Template:Commons_category
+  7.34%   27.293      3 Template:ISBN
+  6.80%   25.291      2 Template:Navbox
+  5.95%   22.137      1 Template:Physics-footer
+  5.68%   21.146      1 Template:Other_uses
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1198-0!canonical and timestamp 20171105144752 and revision id 806214846
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Acoustics&amp;oldid=806214846">https://en.wikipedia.org/w/index.php?title=Acoustics&amp;oldid=806214846</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Acoustics" title="Category:Acoustics">Acoustics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Acoustics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Acoustics" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Acoustics" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Acoustics" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Acoustics">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Acoustics&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Acoustics&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Acoustics" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Acoustics" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Acoustics&amp;oldid=806214846" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Acoustics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q82811" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Acoustics&amp;id=806214846" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Acoustics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Acoustics&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Acoustics&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Acoustics" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Acoustics" hreflang="en">Wikibooks</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B5%D9%88%D8%AA" hreflang="ar" lang="ar" title="علم الصوت – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Akustika" hreflang="az" lang="az" title="Akustika – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8" hreflang="bn" lang="bn" title="শব্দবিজ্ঞান – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D1%8B%D0%BA%D0%B0" hreflang="be" lang="be" title="Акустыка – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="bg" lang="bg" title="Акустика – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bar"><a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Akustik" hreflang="bar" lang="bar" title="Akustik – Bavarian">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Akustika" hreflang="bs" lang="bs" title="Akustika – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Ac%C3%BAstica" hreflang="ca" lang="ca" title="Acústica – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Akustika" hreflang="cs" lang="cs" title="Akustika – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Acwsteg" hreflang="cy" lang="cy" title="Acwsteg – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Akustik" hreflang="da" lang="da" title="Akustik – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Akustik" hreflang="de" lang="de" title="Akustik – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Akustika" hreflang="et" lang="et" title="Akustika – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%91%CE%BA%CE%BF%CF%85%CF%83%CF%84%CE%B9%CE%BA%CE%AE" hreflang="el" lang="el" title="Ακουστική – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ac%C3%BAstica" hreflang="es" lang="es" title="Acústica – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Akustiko" hreflang="eo" lang="eo" title="Akustiko – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Akustika" hreflang="eu" lang="eu" title="Akustika – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B5%D9%88%D8%AA%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" hreflang="fa" lang="fa" title="صوت‌شناسی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Acoustique" hreflang="fr" lang="fr" title="Acoustique – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Fuaim%C3%ADocht" hreflang="ga" lang="ga" title="Fuaimíocht – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Ac%C3%BAstica" hreflang="gl" lang="gl" title="Acústica – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%8C%ED%96%A5%ED%95%99" hreflang="ko" lang="ko" title="음향학 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%81%D5%A1%D5%B5%D5%B6%D5%A1%D5%A3%D5%AB%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Ձայնագիտություն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A7%E0%A5%8D%E0%A4%B5%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%80" hreflang="hi" lang="hi" title="ध्वनिकी – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Akustika" hreflang="hr" lang="hr" title="Akustika – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Akustiko" hreflang="io" lang="io" title="Akustiko – Ido">Ido</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Acustica" hreflang="it" lang="it" title="Acustica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%95%D7%A1%D7%98%D7%99%D7%A7%D7%94" hreflang="he" lang="he" title="אקוסטיקה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="kk" lang="kk" title="Акустика – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Akoustik" hreflang="ht" lang="ht" title="Akoustik – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="ky" lang="ky" title="Акустика – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Acustica" hreflang="la" lang="la" title="Acustica – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Akustika" hreflang="lv" lang="lv" title="Akustika – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Akustik" hreflang="lb" lang="lb" title="Akustik – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Akustika" hreflang="lt" lang="lt" title="Akustika – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Akusztika" hreflang="hu" lang="hu" title="Akusztika – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B6%E0%B4%AC%E0%B5%8D%E0%B4%A6%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82" hreflang="ml" lang="ml" title="ശബ്ദശാസ്ത്രം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Akustik" hreflang="ms" lang="ms" title="Akustik – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Akoestiek" hreflang="nl" lang="nl" title="Akoestiek – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9F%B3%E9%9F%BF%E5%AD%A6" hreflang="ja" lang="ja" title="音響学 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Akustikk" hreflang="no" lang="no" title="Akustikk – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Akustikk" hreflang="nn" lang="nn" title="Akustikk – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Akustika" hreflang="uz" lang="uz" title="Akustika – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Ac%C3%B9stica" hreflang="pms" lang="pms" title="Acùstica – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Akustik" hreflang="nds" lang="nds" title="Akustik – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Akustyka" hreflang="pl" lang="pl" title="Akustyka – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Ac%C3%BAstica" hreflang="pt" lang="pt" title="Acústica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Acustic%C4%83" hreflang="ro" lang="ro" title="Acustică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Акустика – Russian">Русский</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Akustika" hreflang="sq" lang="sq" title="Akustika – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Ac%C3%B9stica" hreflang="scn" lang="scn" title="Acùstica – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B0%E0%B7%8A%E2%80%8D%E0%B7%80%E0%B6%B1%E0%B7%92_%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%8F%E0%B7%80" hreflang="si" lang="si" title="ධ්‍වනි විද්‍යාව – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Acoustics" hreflang="simple" lang="simple" title="Acoustics – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Akustika" hreflang="sk" lang="sk" title="Akustika – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Akustika" hreflang="sl" lang="sl" title="Akustika – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AF%DB%95%D9%86%DA%AF%D9%86%D8%A7%D8%B3%DB%8C_(%D9%81%DB%8C%D8%B2%DB%8C%DA%A9)" hreflang="ckb" lang="ckb" title="دەنگناسی (فیزیک) – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="sr" lang="sr" title="Акустика – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Akustika" hreflang="sh" lang="sh" title="Akustika – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Akustiikka" hreflang="fi" lang="fi" title="Akustiikka – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Akustik" hreflang="sv" lang="sv" title="Akustik – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Akustika" hreflang="tl" lang="tl" title="Akustika – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="ஒலியியல் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%A7%E0%B1%8D%E0%B0%B5%E0%B0%A8%E0%B0%BF%E0%B0%A4%E0%B0%B0%E0%B0%82%E0%B0%97%E0%B0%B6%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%82" hreflang="te" lang="te" title="ధ్వనితరంగశాస్త్రం – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" hreflang="th" lang="th" title="สวนศาสตร์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="tg" lang="tg" title="Акустика – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Akustik" hreflang="tr" lang="tr" title="Akustik – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-tyv"><a class="interlanguage-link-target" href="https://tyv.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="tyv" lang="tyv" title="Акустика – Tuvinian">Тыва дыл</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Акустика – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B5%D8%AF%D8%A7%D8%A6%DB%8C%D8%A7%D8%AA" hreflang="ur" lang="ur" title="صدائیات – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C3%82m_h%E1%BB%8Dc" hreflang="vi" lang="vi" title="Âm học – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Akustika" hreflang="war" lang="war" title="Akustika – Waray">Winaray</a></li><li class="interlanguage-link interwiki-diq"><a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/Akustik" hreflang="diq" lang="diq" title="Akustik – Zazaki">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A3%B0%E5%AD%A6" hreflang="zh" lang="zh" title="声学 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q82811#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 20 October 2017, at 14:10.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Acoustics&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.474","ppvisitednodes":{"value":2665,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80847,"limit":2097152},"templateargumentsize":{"value":1995,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  372.025      1 -total"," 42.91%  159.624      1 Template:Reflist"," 18.55%   69.002     15 Template:Cite_book","  9.59%   35.677      8 Template:Cite_web","  8.69%   32.315      1 Template:Citation","  7.58%   28.196      1 Template:Commons_category","  7.34%   27.293      3 Template:ISBN","  6.80%   25.291      2 Template:Navbox","  5.95%   22.137      1 Template:Physics-footer","  5.68%   21.146      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":3952536,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20171105144753","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1262"});});</script>
+</body>
+</html>
